@@ -9,6 +9,7 @@ import { activities } from "@/data/activities";
 import { useAgeGroup } from "@/context/age-group-context";
 import { AGE_GROUPS } from "@/lib/constants";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
+import { getBestPrice, getAverageRating } from "@/lib/types";
 
 const PRESET_BUDGETS = [0, 20, 50, 100, 200];
 
@@ -20,17 +21,19 @@ export default function BudgetPage() {
   const currentSeason = getCurrentSeason();
 
   const affordableActivities = useMemo(() => {
-    let result = activities.filter((a) => a.pricing[ageGroup] <= budget);
+    let result = activities.filter((a) => getBestPrice(a, ageGroup) <= budget);
     if (seasonFilter) {
       result = result.filter((a) => a.seasons.includes(currentSeason));
     }
-    result.sort((a, b) => b.rating - a.rating);
+    result.sort((a, b) => getAverageRating(b) - getAverageRating(a));
     return result;
   }, [budget, ageGroup, seasonFilter, currentSeason]);
 
   const totalSaved = useMemo(() => {
-    const maxPrices = affordableActivities.map((a) => Math.max(a.pricing.adult, a.pricing.senior));
-    const yourPrices = affordableActivities.map((a) => a.pricing[ageGroup]);
+    const maxPrices = affordableActivities.map((a) =>
+      Math.max(...a.providers.map((p) => Math.max(p.pricing.adult, p.pricing.senior)))
+    );
+    const yourPrices = affordableActivities.map((a) => getBestPrice(a, ageGroup));
     return maxPrices.reduce((sum, p, i) => sum + (p - yourPrices[i]), 0);
   }, [affordableActivities, ageGroup]);
 
@@ -50,10 +53,8 @@ export default function BudgetPage() {
         </p>
       </div>
 
-      {/* Budget Controls */}
       <div className="mx-auto max-w-2xl mb-12">
         <Card className="p-6">
-          {/* Age Group */}
           <div className="mb-6">
             <label className="text-sm font-medium text-gray-700 mb-2 block">I am a...</label>
             <div className="flex flex-wrap gap-2">
@@ -72,7 +73,6 @@ export default function BudgetPage() {
             </div>
           </div>
 
-          {/* Budget */}
           <div className="mb-6">
             <label className="text-sm font-medium text-gray-700 mb-2 block">My budget is...</label>
             <div className="flex flex-wrap gap-2 mb-3">
@@ -103,7 +103,6 @@ export default function BudgetPage() {
             </div>
           </div>
 
-          {/* Season Toggle */}
           <label className="flex items-center gap-2 text-sm text-gray-600">
             <input
               type="checkbox"
@@ -115,7 +114,6 @@ export default function BudgetPage() {
           </label>
         </Card>
 
-        {/* Stats */}
         <div className="mt-6 grid grid-cols-3 gap-4">
           <div className="rounded-xl border bg-white p-4 text-center">
             <p className="text-3xl font-bold text-red-600">{affordableActivities.length}</p>
@@ -123,7 +121,7 @@ export default function BudgetPage() {
           </div>
           <div className="rounded-xl border bg-white p-4 text-center">
             <p className="text-3xl font-bold text-green-600">
-              {affordableActivities.filter((a) => a.pricing[ageGroup] === 0).length}
+              {affordableActivities.filter((a) => getBestPrice(a, ageGroup) === 0).length}
             </p>
             <p className="text-xs text-gray-500 mt-1">Completely Free</p>
           </div>
@@ -134,7 +132,6 @@ export default function BudgetPage() {
         </div>
       </div>
 
-      {/* Results */}
       {affordableActivities.length > 0 ? (
         <div>
           <h2 className="text-xl font-bold text-gray-900 mb-6">

@@ -4,7 +4,7 @@ import { useEffect } from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import L from "leaflet";
 import Link from "next/link";
-import { Activity, AgeGroup } from "@/lib/types";
+import { Activity, AgeGroup, getBestPrice } from "@/lib/types";
 import "leaflet/dist/leaflet.css";
 
 const defaultIcon = L.icon({
@@ -50,7 +50,7 @@ export default function MapView({ activities, ageGroup }: MapViewProps) {
               <p className="text-xs text-gray-600 mb-2 line-clamp-2">{activity.description}</p>
               <div className="flex items-center justify-between">
                 <span className="font-bold text-sm">
-                  {activity.pricing[ageGroup] === 0 ? "Free" : `CHF ${activity.pricing[ageGroup]}`}
+                  {getBestPrice(activity, ageGroup) === 0 ? "Free" : `from CHF ${getBestPrice(activity, ageGroup)}`}
                 </span>
                 <Link
                   href={`/activities/${activity.slug}`}

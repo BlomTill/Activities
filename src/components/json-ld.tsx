@@ -1,7 +1,11 @@
-import { Activity } from "@/lib/types";
+import { Activity, getAverageRating } from "@/lib/types";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 
 export function ActivityJsonLd({ activity }: { activity: Activity }) {
+  const minPrice = Math.min(...activity.providers.flatMap((p) => Object.values(p.pricing)));
+  const maxPrice = Math.max(...activity.providers.flatMap((p) => Object.values(p.pricing)));
+  const avgRating = getAverageRating(activity);
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "TouristAttraction",
@@ -22,18 +26,18 @@ export function ActivityJsonLd({ activity }: { activity: Activity }) {
     },
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: activity.rating,
+      ratingValue: avgRating,
       bestRating: 5,
-      ratingCount: Math.floor(activity.rating * 50),
+      ratingCount: Math.floor(avgRating * 50),
     },
     offers: {
       "@type": "AggregateOffer",
       priceCurrency: "CHF",
-      lowPrice: Math.min(...Object.values(activity.pricing)),
-      highPrice: Math.max(...Object.values(activity.pricing)),
-      offerCount: 4,
+      lowPrice: minPrice,
+      highPrice: maxPrice,
+      offerCount: activity.providers.length,
     },
-    isAccessibleForFree: Object.values(activity.pricing).some((p) => p === 0),
+    isAccessibleForFree: minPrice === 0,
     touristType: activity.tags,
   };
 

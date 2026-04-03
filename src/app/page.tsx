@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import { SearchBar } from "@/components/search-bar";
 import { ActivityCard } from "@/components/activity-card";
 import { activities, getFeaturedActivities, getActivitiesWithDeals } from "@/data/activities";
+import { getAverageRating, getBestPrice } from "@/lib/types";
 import { getCurrentSeason, getSeasonColors, getSeasonHeroText, getSeasonEmoji, getSeasonLabel } from "@/lib/seasons";
 import { useAgeGroup } from "@/context/age-group-context";
 
@@ -37,10 +38,10 @@ export default function HomePage() {
 
   const seasonalActivities = activities
     .filter((a) => a.seasons.includes(season))
-    .sort((a, b) => b.rating - a.rating)
+    .sort((a, b) => getAverageRating(b) - getAverageRating(a))
     .slice(0, 8);
 
-  const freeActivities = activities.filter((a) => a.pricing[ageGroup] === 0).slice(0, 4);
+  const freeActivities = activities.filter((a) => getBestPrice(a, ageGroup) === 0).slice(0, 4);
 
   return (
     <div>

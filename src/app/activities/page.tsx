@@ -11,7 +11,7 @@ import { activities } from "@/data/activities";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
 import { CATEGORIES, REGIONS } from "@/lib/constants";
-import { Category, Season } from "@/lib/types";
+import { Category, Season, getBestPrice, getAverageRating } from "@/lib/types";
 
 const SEASONS: { value: Season; label: string }[] = [
   { value: "spring", label: "Spring" },
@@ -85,21 +85,21 @@ function ActivitiesContent() {
     }
 
     if (maxPrice >= 0) {
-      result = result.filter((a) => a.pricing[ageGroup] <= maxPrice);
+      result = result.filter((a) => getBestPrice(a, ageGroup) <= maxPrice);
     }
 
     switch (sortBy) {
       case "price-asc":
-        result.sort((a, b) => a.pricing[ageGroup] - b.pricing[ageGroup]);
+        result.sort((a, b) => getBestPrice(a, ageGroup) - getBestPrice(b, ageGroup));
         break;
       case "price-desc":
-        result.sort((a, b) => b.pricing[ageGroup] - a.pricing[ageGroup]);
+        result.sort((a, b) => getBestPrice(b, ageGroup) - getBestPrice(a, ageGroup));
         break;
       case "name":
         result.sort((a, b) => a.name.localeCompare(b.name));
         break;
       default:
-        result.sort((a, b) => b.rating - a.rating);
+        result.sort((a, b) => getAverageRating(b) - getAverageRating(a));
     }
 
     return result;

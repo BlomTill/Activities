@@ -2,13 +2,14 @@
 
 import { useState, useCallback } from "react";
 import Link from "next/link";
-import { Shuffle, MapPin, Clock, Star, ExternalLink, ArrowRight, Sparkles } from "lucide-react";
+import Image from "next/image";
+import { Shuffle, MapPin, Clock, Star, ExternalLink, ArrowRight, Sparkles, Users } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { activities } from "@/data/activities";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel, getSeasonColors } from "@/lib/seasons";
-import { Activity } from "@/lib/types";
+import { Activity, getBestPrice, getAverageRating, getCheapestProvider } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
 export default function SurprisePage() {
@@ -50,7 +51,6 @@ export default function SurprisePage() {
         </p>
       </div>
 
-      {/* Big Button */}
       <div className="flex justify-center mb-12">
         <button
           onClick={pickRandom}
@@ -69,14 +69,11 @@ export default function SurprisePage() {
         </button>
       </div>
 
-      {/* Result */}
       {result && !isSpinning && (
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
           <div className="rounded-2xl border-2 border-red-100 bg-white shadow-lg overflow-hidden">
             <div className="relative aspect-[21/9] bg-gray-200">
-              <div className="absolute inset-0 flex items-center justify-center text-gray-400 text-lg">
-                {result.name}
-              </div>
+              <Image src={result.imageUrl} alt={result.name} fill className="object-cover" sizes="800px" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
               <div className="absolute bottom-4 left-4 right-4 text-white">
                 <Badge className="bg-white/20 text-white backdrop-blur-sm mb-2 capitalize">
@@ -89,34 +86,30 @@ export default function SurprisePage() {
               <p className="text-gray-600 mb-4">{result.description}</p>
 
               <div className="flex flex-wrap items-center gap-4 text-sm text-gray-500 mb-6">
-                <span className="flex items-center gap-1">
-                  <MapPin className="h-4 w-4" /> {result.location.city}
-                </span>
-                <span className="flex items-center gap-1">
-                  <Clock className="h-4 w-4" /> {result.duration}
-                </span>
-                <span className="flex items-center gap-1">
-                  <Star className="h-4 w-4 fill-amber-400 text-amber-400" /> {result.rating}
-                </span>
+                <span className="flex items-center gap-1"><MapPin className="h-4 w-4" /> {result.location.city}</span>
+                <span className="flex items-center gap-1"><Clock className="h-4 w-4" /> {result.duration}</span>
+                <span className="flex items-center gap-1"><Star className="h-4 w-4 fill-amber-400 text-amber-400" /> {getAverageRating(result)}</span>
+                {result.providers.length > 1 && (
+                  <span className="flex items-center gap-1"><Users className="h-4 w-4" /> {result.providers.length} providers</span>
+                )}
               </div>
 
               <div className="flex items-center justify-between">
                 <div>
-                  <span className="text-sm text-gray-400 capitalize">{ageGroup} price</span>
+                  <span className="text-sm text-gray-400 capitalize">{ageGroup} — best price</span>
                   <p className="text-2xl font-bold text-gray-900">
-                    {result.pricing[ageGroup] === 0 ? "Free" : `CHF ${result.pricing[ageGroup]}`}
+                    {getBestPrice(result, ageGroup) === 0 ? "Free" : `CHF ${getBestPrice(result, ageGroup)}`}
                   </p>
+                  {result.providers.length > 1 && (
+                    <p className="text-xs text-gray-400">via {getCheapestProvider(result, ageGroup).name}</p>
+                  )}
                 </div>
                 <div className="flex gap-3">
                   <Link href={`/activities/${result.slug}`}>
-                    <Button variant="outline" className="gap-2">
-                      Details <ArrowRight className="h-4 w-4" />
-                    </Button>
+                    <Button variant="outline" className="gap-2">Details <ArrowRight className="h-4 w-4" /></Button>
                   </Link>
-                  <a href={result.bookingUrl} target="_blank" rel="noopener noreferrer">
-                    <Button className="bg-red-600 hover:bg-red-700 gap-2">
-                      Book <ExternalLink className="h-4 w-4" />
-                    </Button>
+                  <a href={getCheapestProvider(result, ageGroup).bookingUrl} target="_blank" rel="noopener noreferrer">
+                    <Button className="bg-red-600 hover:bg-red-700 gap-2">Book <ExternalLink className="h-4 w-4" /></Button>
                   </a>
                 </div>
               </div>
@@ -125,7 +118,6 @@ export default function SurprisePage() {
         </div>
       )}
 
-      {/* History */}
       {history.length > 1 && (
         <div className="mt-12">
           <h3 className="text-lg font-semibold text-gray-900 mb-4">Previous Picks</h3>
@@ -136,12 +128,17 @@ export default function SurprisePage() {
                 href={`/activities/${h.slug}`}
                 className="flex items-center justify-between rounded-lg border bg-white p-4 hover:bg-gray-50 transition-colors"
               >
-                <div>
-                  <p className="font-medium text-gray-900">{h.name}</p>
-                  <p className="text-sm text-gray-500">{h.location.city} &middot; {h.duration}</p>
+                <div className="flex items-center gap-3">
+                  <div className="relative h-10 w-14 rounded overflow-hidden bg-gray-100 flex-shrink-0">
+                    <Image src={h.imageUrl} alt={h.name} fill className="object-cover" sizes="56px" />
+                  </div>
+                  <div>
+                    <p className="font-medium text-gray-900">{h.name}</p>
+                    <p className="text-sm text-gray-500">{h.location.city} &middot; {h.duration}</p>
+                  </div>
                 </div>
                 <span className="font-semibold text-gray-900">
-                  {h.pricing[ageGroup] === 0 ? "Free" : `CHF ${h.pricing[ageGroup]}`}
+                  {getBestPrice(h, ageGroup) === 0 ? "Free" : `CHF ${getBestPrice(h, ageGroup)}`}
                 </span>
               </Link>
             ))}
@@ -149,7 +146,6 @@ export default function SurprisePage() {
         </div>
       )}
 
-      {/* Stats */}
       <div className="mt-12 rounded-xl bg-gray-50 p-6 text-center">
         <Sparkles className="h-6 w-6 text-gray-400 mx-auto mb-2" />
         <p className="text-sm text-gray-500">

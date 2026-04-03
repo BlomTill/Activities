@@ -6,16 +6,17 @@ import { ActivityCard } from "@/components/activity-card";
 import { activities, getActivitiesWithDeals } from "@/data/activities";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
+import { getBestPrice } from "@/lib/types";
 
 export default function DealsPage() {
   const { ageGroup } = useAgeGroup();
   const dealsActivities = getActivitiesWithDeals();
   const season = getCurrentSeason();
 
-  const freeActivities = activities.filter((a) => a.pricing[ageGroup] === 0 && a.seasons.includes(season));
+  const freeActivities = activities.filter((a) => getBestPrice(a, ageGroup) === 0 && a.seasons.includes(season));
   const cheapActivities = activities
-    .filter((a) => a.pricing[ageGroup] > 0 && a.pricing[ageGroup] <= 15 && a.seasons.includes(season))
-    .sort((a, b) => a.pricing[ageGroup] - b.pricing[ageGroup]);
+    .filter((a) => getBestPrice(a, ageGroup) > 0 && getBestPrice(a, ageGroup) <= 15 && a.seasons.includes(season))
+    .sort((a, b) => getBestPrice(a, ageGroup) - getBestPrice(b, ageGroup));
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
