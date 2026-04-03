@@ -1,0 +1,167 @@
+"use client";
+
+import { useState, useMemo } from "react";
+import { Wallet, Sparkles } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { ActivityCard } from "@/components/activity-card";
+import { activities } from "@/data/activities";
+import { useAgeGroup } from "@/context/age-group-context";
+import { AGE_GROUPS } from "@/lib/constants";
+import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
+
+const PRESET_BUDGETS = [0, 20, 50, 100, 200];
+
+export default function BudgetPage() {
+  const { ageGroup, setAgeGroup } = useAgeGroup();
+  const [budget, setBudget] = useState<number>(50);
+  const [customBudget, setCustomBudget] = useState("");
+  const [seasonFilter, setSeasonFilter] = useState(true);
+  const currentSeason = getCurrentSeason();
+
+  const affordableActivities = useMemo(() => {
+    let result = activities.filter((a) => a.pricing[ageGroup] <= budget);
+    if (seasonFilter) {
+      result = result.filter((a) => a.seasons.includes(currentSeason));
+    }
+    result.sort((a, b) => b.rating - a.rating);
+    return result;
+  }, [budget, ageGroup, seasonFilter, currentSeason]);
+
+  const totalSaved = useMemo(() => {
+    const maxPrices = affordableActivities.map((a) => Math.max(a.pricing.adult, a.pricing.senior));
+    const yourPrices = affordableActivities.map((a) => a.pricing[ageGroup]);
+    return maxPrices.reduce((sum, p, i) => sum + (p - yourPrices[i]), 0);
+  }, [affordableActivities, ageGroup]);
+
+  return (
+    <div className="mx-auto max-w-7xl px-4 py-8">
+      <div className="mb-8 text-center">
+        <div className="inline-flex items-center gap-2 rounded-full bg-red-50 px-4 py-2 text-sm font-medium text-red-600 mb-4">
+          <Wallet className="h-4 w-4" />
+          Budget Explorer
+        </div>
+        <h1 className="text-3xl font-bold text-gray-900 md:text-4xl">
+          What can you do for your budget?
+        </h1>
+        <p className="mt-3 text-gray-500 max-w-2xl mx-auto">
+          Enter your budget and we&apos;ll show you all activities you can afford.
+          Prices automatically adjust to your selected age group.
+        </p>
+      </div>
+
+      {/* Budget Controls */}
+      <div className="mx-auto max-w-2xl mb-12">
+        <Card className="p-6">
+          {/* Age Group */}
+          <div className="mb-6">
+            <label className="text-sm font-medium text-gray-700 mb-2 block">I am a...</label>
+            <div className="flex flex-wrap gap-2">
+              {AGE_GROUPS.map((group) => (
+                <Button
+                  key={group.value}
+                  variant={ageGroup === group.value ? "default" : "outline"}
+                  size="sm"
+                  onClick={() => setAgeGroup(group.value)}
+                  className={ageGroup === group.value ? "bg-red-600 hover:bg-red-700" : ""}
+                >
+                  {group.label}
+                  <span className="ml-1 text-xs opacity-70">({group.description})</span>
+                </Button>
+              ))}
+            </div>
+          </div>
+
+          {/* Budget */}
+          <div className="mb-6">
+            <label className="text-sm font-medium text-gray-700 mb-2 block">My budget is...</label>
+            <div className="flex flex-wrap gap-2 mb-3">
+              {PRESET_BUDGETS.map((preset) => (
+                <Button
+                  key={preset}
+                  variant={budget === preset ? "default" : "outline"}
+                  size="sm"
+                  onClick={() => { setBudget(preset); setCustomBudget(""); }}
+                  className={budget === preset ? "bg-red-600 hover:bg-red-700" : ""}
+                >
+                  {preset === 0 ? "Free only" : `CHF ${preset}`}
+                </Button>
+              ))}
+              <div className="flex items-center gap-2">
+                <Input
+                  type="number"
+                  placeholder="Custom"
+                  value={customBudget}
+                  onChange={(e) => {
+                    setCustomBudget(e.target.value);
+                    if (e.target.value) setBudget(Number(e.target.value));
+                  }}
+                  className="w-28 h-9"
+                />
+                <span className="text-sm text-gray-400">CHF</span>
+              </div>
+            </div>
+          </div>
+
+          {/* Season Toggle */}
+          <label className="flex items-center gap-2 text-sm text-gray-600">
+            <input
+              type="checkbox"
+              checked={seasonFilter}
+              onChange={(e) => setSeasonFilter(e.target.checked)}
+              className="rounded"
+            />
+            Only show in-season activities ({getSeasonLabel(currentSeason)})
+          </label>
+        </Card>
+
+        {/* Stats */}
+        <div className="mt-6 grid grid-cols-3 gap-4">
+          <div className="rounded-xl border bg-white p-4 text-center">
+            <p className="text-3xl font-bold text-red-600">{affordableActivities.length}</p>
+            <p className="text-xs text-gray-500 mt-1">Activities Available</p>
+          </div>
+          <div className="rounded-xl border bg-white p-4 text-center">
+            <p className="text-3xl font-bold text-green-600">
+              {affordableActivities.filter((a) => a.pricing[ageGroup] === 0).length}
+            </p>
+            <p className="text-xs text-gray-500 mt-1">Completely Free</p>
+          </div>
+          <div className="rounded-xl border bg-white p-4 text-center">
+            <p className="text-3xl font-bold text-blue-600">CHF {Math.round(totalSaved)}</p>
+            <p className="text-xs text-gray-500 mt-1">Saved as {ageGroup}</p>
+          </div>
+        </div>
+      </div>
+
+      {/* Results */}
+      {affordableActivities.length > 0 ? (
+        <div>
+          <h2 className="text-xl font-bold text-gray-900 mb-6">
+            {affordableActivities.length} activities for CHF {budget} or less
+            {seasonFilter && ` this ${getSeasonLabel(currentSeason).toLowerCase()}`}
+          </h2>
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            {affordableActivities.map((activity) => (
+              <ActivityCard key={activity.id} activity={activity} />
+            ))}
+          </div>
+        </div>
+      ) : (
+        <div className="text-center py-16">
+          <Sparkles className="h-12 w-12 text-gray-300 mx-auto mb-4" />
+          <p className="text-lg text-gray-500">No activities found for this budget.</p>
+          <p className="text-sm text-gray-400 mt-1">Try increasing your budget or changing the season filter.</p>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function Card({ className, children, ...props }: React.HTMLAttributes<HTMLDivElement>) {
+  return (
+    <div className={`rounded-xl border bg-white shadow-sm ${className}`} {...props}>
+      {children}
+    </div>
+  );
+}

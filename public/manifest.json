@@ -1,0 +1,31 @@
+{
+  "name": "SwissActivity – Compare Swiss Activities",
+  "short_name": "SwissActivity",
+  "description": "Discover and compare activities across Switzerland with transparent pricing for every age group.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["travel", "lifestyle"],
+  "lang": "en",
+  "dir": "ltr"
+}

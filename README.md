@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SwissActivity — Compare Activities Across Switzerland
+
+A modern, SEO-optimized website for discovering and comparing activities across Switzerland with transparent pricing for every age group (Child, Student, Adult, Senior), seasonal intelligence, and budget-friendly tools.
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **55 Swiss Activities** with realistic pricing across 5 categories (Outdoor, Culture, Adventure, Family, Wellness)
+- **Age Group Tabs** (Child/Student/Adult/Senior) — persistent site-wide price recalculation
+- **Seasonal Intelligence** — auto-detects current season, filters activities accordingly
+- **Budget Explorer** — enter your budget, see what you can afford
+- **Surprise Me** — random seasonal activity picker
+- **Comparison Tool** — side-by-side comparison of up to 3 activities
+- **Interactive Map** — Leaflet map of Switzerland with activity pins
+- **SBB Travel Cost Estimator** — estimated train fare + total day trip cost
+- **Weather Integration** — weather-based activity suggestions per region
+- **Blog** — SEO content articles targeting long-tail keywords
+- **Deals Page** — special offers, free activities, budget options
+- **Multi-language Support** — translation system for DE, EN, FR, IT
+- **PWA** — installable progressive web app with offline support
+- **SEO** — JSON-LD structured data, sitemap, robots.txt, Open Graph
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js 14** (App Router, TypeScript)
+- **Tailwind CSS** with custom design system
+- **Leaflet** for interactive maps
+- **Lucide React** for icons
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```
+src/
+├── app/                    # Next.js App Router pages
+│   ├── activities/         # Activity listing & detail pages
+│   ├── blog/               # Blog listing & article pages
+│   ├── budget/             # Budget Explorer tool
+│   ├── compare/            # Activity comparison page
+│   ├── deals/              # Deals & discounts page
+│   ├── map/                # Interactive map view
+│   ├── surprise/           # Random activity picker
+│   └── about/              # About page
+├── components/             # React components
+│   ├── ui/                 # Base UI components (button, card, etc.)
+│   ├── layout/             # Header & Footer
+│   ├── activity-card.tsx   # Activity card component
+│   ├── search-bar.tsx      # Search bar component
+│   ├── weather-widget.tsx  # Weather widget
+│   ├── sbb-estimator.tsx   # SBB cost estimator
+│   └── json-ld.tsx         # Structured data components
+├── context/                # React contexts (age group, comparison)
+├── data/                   # Activity & blog post data
+└── lib/                    # Utilities, types, constants
+```
