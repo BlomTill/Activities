@@ -1,11 +1,31 @@
 import Link from "next/link";
 import { Calendar, ArrowLeft, User } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
+import { NewsletterSignup } from "@/components/newsletter-signup";
 import { getBlogPostBySlug, blogPosts } from "@/data/blog-posts";
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
+import { SITE_NAME } from "@/lib/constants";
 
 export function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
+}
+
+export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
+  const post = getBlogPostBySlug(params.slug);
+  if (!post) return {};
+  return {
+    title: `${post.title} | ${SITE_NAME} Blog`,
+    description: post.excerpt,
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      type: "article",
+      publishedTime: post.date,
+      authors: [post.author],
+      tags: post.tags,
+    },
+  };
 }
 
 export default function BlogPostPage({ params }: { params: { slug: string } }) {
@@ -98,6 +118,9 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
       {/* Related Posts */}
       <div className="mt-16 border-t pt-8">
         <h2 className="text-xl font-bold text-gray-900 mb-6">More from the Blog</h2>
+        <div className="mb-8">
+          <NewsletterSignup />
+        </div>
         <div className="space-y-4">
           {blogPosts
             .filter((p) => p.slug !== post.slug)

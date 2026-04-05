@@ -7,6 +7,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { SearchBar } from "@/components/search-bar";
 import { ActivityCard } from "@/components/activity-card";
+import { NewsletterSignup } from "@/components/newsletter-signup";
 import { activities, getFeaturedActivities, getActivitiesWithDeals } from "@/data/activities";
 import { getAverageRating, getBestPrice } from "@/lib/types";
 import { getCurrentSeason, getSeasonColors, getSeasonHeroText, getSeasonEmoji, getSeasonLabel } from "@/lib/seasons";
@@ -188,6 +189,9 @@ export default function HomePage() {
           </div>
         </section>
       )}
+
+      {/* Newsletter Banner */}
+      <NewsletterSignup variant="banner" />
 
       {/* CTA Section */}
       <section className="bg-gray-900 py-16 text-white">

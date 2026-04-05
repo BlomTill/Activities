@@ -28,6 +28,9 @@ export const REGIONS = [
   "Jura & Three-Lakes",
   "Geneva Region",
   "Fribourg Region",
+  "Aargau Region",
+  "Solothurn Region",
+  "Thurgau Region",
 ] as const;
 
 export const SITE_NAME = "SwissActivity";

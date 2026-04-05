@@ -18,6 +18,7 @@ const NAV_LINKS = [
   { href: "/map", label: "Map" },
   { href: "/deals", label: "Deals" },
   { href: "/blog", label: "Blog" },
+  { href: "/planner", label: "Trip Planner" },
 ];
 
 export function Header() {

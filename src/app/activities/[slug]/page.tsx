@@ -19,6 +19,7 @@ import { SBBEstimator } from "@/components/sbb-estimator";
 import { ActivityJsonLd, BreadcrumbJsonLd } from "@/components/json-ld";
 import { getBestPrice, getAverageRating, getCheapestProvider, getBestRatedProvider } from "@/lib/types";
 import { cn } from "@/lib/utils";
+import { getAffiliateUrl } from "@/lib/affiliate";
 
 function getCategoryColor(category: string) {
   const colors: Record<string, string> = {
@@ -172,7 +173,7 @@ export default function ActivityDetailPage() {
                             </p>
                             <p className="text-xs text-gray-400 capitalize">per {ageGroup}</p>
                           </div>
-                          <a href={provider.bookingUrl} target="_blank" rel="noopener noreferrer">
+                          <a href={getAffiliateUrl(provider.bookingUrl)} target="_blank" rel="noopener noreferrer">
                             <Button className="bg-red-600 hover:bg-red-700 gap-1.5" size="sm">
                               Book <ExternalLink className="h-3.5 w-3.5" />
                             </Button>
@@ -245,7 +246,7 @@ export default function ActivityDetailPage() {
           </Card>
 
           <div className="space-y-3">
-            <a href={cheapest.bookingUrl} target="_blank" rel="noopener noreferrer" className="block">
+            <a href={getAffiliateUrl(cheapest.bookingUrl)} target="_blank" rel="noopener noreferrer" className="block">
               <Button className="w-full bg-red-600 hover:bg-red-700 gap-2" size="lg">
                 <ExternalLink className="h-4 w-4" /> Book Best Price
               </Button>

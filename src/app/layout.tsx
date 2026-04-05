@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import Script from "next/script";
 import "./globals.css";
 import { AgeGroupProvider } from "@/context/age-group-context";
 import { ComparisonProvider } from "@/context/comparison-context";
@@ -54,6 +55,13 @@ export default function RootLayout({
         <WebsiteJsonLd />
         <meta name="theme-color" content="#dc2626" />
         <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');`}
+        </Script>
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col`}>
         <AgeGroupProvider>
