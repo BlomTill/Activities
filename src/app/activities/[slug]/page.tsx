@@ -105,6 +105,18 @@ export default function ActivityDetailPage() {
             <span className="flex items-center gap-1.5"><Users className="h-4 w-4" />{activity.providers.length} provider{activity.providers.length > 1 ? "s" : ""}</span>
           </div>
 
+          {/* Quick Highlights */}
+          {activity.highlights && activity.highlights.length > 0 && (
+            <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3">
+              {activity.highlights.map((h) => (
+                <div key={h.label} className="rounded-lg border bg-gray-50 px-3 py-2.5 text-center">
+                  <p className="text-sm font-bold text-gray-900">{h.value}</p>
+                  <p className="text-[11px] text-gray-500 mt-0.5">{h.label}</p>
+                </div>
+              ))}
+            </div>
+          )}
+
           <Separator className="my-6" />
           <div className="prose prose-gray max-w-none">
             <p className="text-lg text-gray-600 leading-relaxed">{activity.longDescription}</p>

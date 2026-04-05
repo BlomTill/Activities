@@ -86,6 +86,16 @@ export function ActivityCard({ activity, ageGroupOverride }: ActivityCardProps) 
           <p className="mt-1 text-sm text-gray-500 line-clamp-2">{activity.description}</p>
         </Link>
 
+        {activity.highlights && activity.highlights.length > 0 && (
+          <div className="mt-2 flex flex-wrap gap-x-3 gap-y-0.5">
+            {activity.highlights.slice(0, 3).map((h) => (
+              <span key={h.label} className="text-[11px] text-gray-500">
+                <span className="font-medium text-gray-700">{h.value}</span> {h.label.toLowerCase()}
+              </span>
+            ))}
+          </div>
+        )}
+
         <div className="mt-3 flex items-center gap-3 text-xs text-gray-400">
           <span className="flex items-center gap-1">
             <MapPin className="h-3.5 w-3.5" />

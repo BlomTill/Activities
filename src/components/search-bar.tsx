@@ -26,7 +26,7 @@ export function SearchBar({ className, placeholder }: { className?: string; plac
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder={placeholder || "Search activities, cities, categories..."}
-          className="h-12 pl-10 pr-24 text-base rounded-full border-gray-200 bg-white shadow-sm"
+          className="h-12 pl-10 pr-24 text-base text-gray-900 rounded-full border-gray-200 bg-white shadow-sm"
         />
         <Button
           type="submit"

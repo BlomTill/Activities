@@ -60,9 +60,12 @@ function ActivitiesContent() {
         (a) =>
           a.name.toLowerCase().includes(q) ||
           a.description.toLowerCase().includes(q) ||
+          a.subcategory.toLowerCase().includes(q) ||
+          a.category.toLowerCase().includes(q) ||
           a.tags.some((t) => t.includes(q)) ||
           a.location.city.toLowerCase().includes(q) ||
-          a.location.region.toLowerCase().includes(q)
+          a.location.region.toLowerCase().includes(q) ||
+          a.location.canton.toLowerCase().includes(q)
       );
     }
 
@@ -135,7 +138,7 @@ function ActivitiesContent() {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search activities..."
-            className="pl-10"
+            className="pl-10 text-gray-900"
           />
         </div>
         <div className="flex gap-2">

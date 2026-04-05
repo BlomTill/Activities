@@ -31,6 +31,11 @@ export interface ActivityDeal {
   providerName?: string;
 }
 
+export interface ActivityHighlight {
+  label: string;
+  value: string;
+}
+
 export interface Activity {
   id: string;
   slug: string;
@@ -47,6 +52,7 @@ export interface Activity {
   duration: string;
   imageUrl: string;
   gallery?: string[];
+  highlights?: ActivityHighlight[];
   tags: string[];
   featured: boolean;
   deal?: ActivityDeal;
