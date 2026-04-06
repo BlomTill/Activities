@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Minus, Plus, Users, ChevronDown, ChevronUp } from "lucide-react";
 import { useAgeGroup } from "@/context/age-group-context";
-import { useGroup, GroupConfig } from "@/context/group-context";
+import { useGroup } from "@/context/group-context";
 import { AGE_GROUPS } from "@/lib/constants";
 import { cn } from "@/lib/utils";
 
