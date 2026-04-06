@@ -11,6 +11,7 @@ import { Footer } from "@/components/layout/footer";
 import { SITE_NAME, SITE_DESCRIPTION } from "@/lib/constants";
 import { WebsiteJsonLd } from "@/components/json-ld";
 import { ServiceWorkerRegistration } from "@/components/sw-register";
+import { Analytics } from "@vercel/analytics/next";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -77,6 +78,7 @@ export default function RootLayout({
             </ComparisonProvider>
           </GroupProvider>
         </AgeGroupProvider>
+        <Analytics />
       </body>
     </html>
   );
