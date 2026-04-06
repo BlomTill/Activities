@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import { SearchBar } from "@/components/search-bar";
 import { ActivityCard } from "@/components/activity-card";
 import { NewsletterSignup } from "@/components/newsletter-signup";
+import { TrendingBar } from "@/components/trending-bar";
 import { activities, getFeaturedActivities, getActivitiesWithDeals } from "@/data/activities";
 import { getAverageRating, getBestPrice } from "@/lib/types";
 import { getCurrentSeason, getSeasonColors, getSeasonHeroText, getSeasonEmoji, getSeasonLabel } from "@/lib/seasons";
@@ -76,6 +77,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Trending Now */}
+      <TrendingBar />
 
       {/* Category Cards */}
       <section className="mx-auto max-w-7xl px-4 py-16">

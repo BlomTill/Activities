@@ -3,8 +3,10 @@ import localFont from "next/font/local";
 import Script from "next/script";
 import "./globals.css";
 import { AgeGroupProvider } from "@/context/age-group-context";
+import { GroupProvider } from "@/context/group-context";
 import { ComparisonProvider } from "@/context/comparison-context";
 import { Header } from "@/components/layout/header";
+import { AgeBar } from "@/components/age-bar";
 import { Footer } from "@/components/layout/footer";
 import { SITE_NAME, SITE_DESCRIPTION } from "@/lib/constants";
 import { WebsiteJsonLd } from "@/components/json-ld";
@@ -65,12 +67,15 @@ export default function RootLayout({
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col`}>
         <AgeGroupProvider>
-          <ComparisonProvider>
-            <Header />
-            <main className="flex-1">{children}</main>
-            <Footer />
-            <ServiceWorkerRegistration />
-          </ComparisonProvider>
+          <GroupProvider>
+            <ComparisonProvider>
+              <Header />
+              <AgeBar />
+              <main className="flex-1">{children}</main>
+              <Footer />
+              <ServiceWorkerRegistration />
+            </ComparisonProvider>
+          </GroupProvider>
         </AgeGroupProvider>
       </body>
     </html>

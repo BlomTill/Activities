@@ -6,7 +6,6 @@ import { Mountain, Menu, X, Scale } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { AgeGroupSelector } from "@/components/age-group-selector";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { useComparison } from "@/context/comparison-context";
 import { cn } from "@/lib/utils";
@@ -14,11 +13,12 @@ import { cn } from "@/lib/utils";
 const NAV_LINKS = [
   { href: "/", label: "Home" },
   { href: "/activities", label: "Activities" },
+  { href: "/itineraries", label: "Itineraries" },
+  { href: "/travel-passes", label: "Travel Passes" },
   { href: "/budget", label: "Budget Explorer" },
   { href: "/map", label: "Map" },
   { href: "/deals", label: "Deals" },
   { href: "/blog", label: "Blog" },
-  { href: "/planner", label: "Trip Planner" },
 ];
 
 export function Header() {
@@ -32,7 +32,7 @@ export function Header() {
         <Link href="/" className="flex items-center gap-2">
           <Mountain className="h-7 w-7 text-red-600" />
           <span className="text-xl font-bold tracking-tight">
-            Swiss<span className="text-red-600">Activity</span>
+            Explore<span className="text-red-600">Switzerland</span>
           </span>
         </Link>
 
@@ -64,7 +64,6 @@ export function Header() {
         </nav>
 
         <div className="hidden md:flex items-center gap-2">
-          <AgeGroupSelector />
           <LanguageSwitcher />
         </div>
 
@@ -105,7 +104,7 @@ export function Header() {
             )}
           </nav>
           <div className="mt-3 border-t pt-3">
-            <AgeGroupSelector />
+            <LanguageSwitcher />
           </div>
         </div>
       )}

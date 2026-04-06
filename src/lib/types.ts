@@ -36,6 +36,11 @@ export interface ActivityHighlight {
   value: string;
 }
 
+export interface TrendingInfo {
+  score: number;
+  reason: string;
+}
+
 export interface Activity {
   id: string;
   slug: string;
@@ -56,6 +61,7 @@ export interface Activity {
   tags: string[];
   featured: boolean;
   deal?: ActivityDeal;
+  trending?: TrendingInfo;
 }
 
 /** Get the best (lowest) price for an age group across all providers */
