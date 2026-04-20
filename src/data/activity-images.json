@@ -1,0 +1,5 @@
+{
+  "_about": "Auto-populated by scripts/fetch-activity-images.mjs. DO NOT edit by hand — run `npm run fetch-images` instead. Maps activity slug → resolved image + credit.",
+  "_version": 1,
+  "images": {}
+}

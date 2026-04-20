@@ -41,6 +41,14 @@ export interface TrendingInfo {
   reason: string;
 }
 
+/** Credit line for a CC-licensed image (usually Wikimedia Commons). */
+export interface ImageCredit {
+  author?: string;
+  license?: string;          // e.g. "CC BY-SA 4.0"
+  sourceUrl?: string;         // link to original source page
+  filename?: string;          // underlying Commons filename if applicable
+}
+
 export interface Activity {
   id: string;
   slug: string;
@@ -55,7 +63,26 @@ export interface Activity {
   providers: Provider[];
   currency: "CHF";
   duration: string;
+  /**
+   * Legacy / fallback image. Kept for backwards compat.
+   * The new resolver in src/lib/images.ts prefers `image` → prefetched Wikimedia
+   * image → this field → category fallback, in that order.
+   */
   imageUrl: string;
+  /**
+   * Manual curator override. If set, takes highest priority.
+   * Use when you have a specific rights-cleared photo you want pinned.
+   */
+  image?: string;
+  /** Optional credit shown under the photo. Usually auto-filled by the fetch script. */
+  imageCredit?: ImageCredit;
+  /**
+   * Wikipedia article title (English) for this activity. When set, running
+   *   npm run fetch-images
+   * will populate src/data/activity-images.json with a real CC photo + credit.
+   * Leave empty to opt out of auto-fetching.
+   */
+  wikipediaTitle?: string;
   gallery?: string[];
   highlights?: ActivityHighlight[];
   tags: string[];

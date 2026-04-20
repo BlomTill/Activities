@@ -523,6 +523,51 @@
   100% { clip-path: inset(0 0 0 0); }
 }
 
+/* ────────────────────────────────────────────────────────────
+   Motion design tokens
+   Single source of truth for transitions — use these on components
+   that need to feel editorial / calm. Reach for one of these tokens
+   instead of inventing ad-hoc cubic-beziers.
+   ──────────────────────────────────────────────────────────── */
+:root {
+  /* Timing */
+  --motion-fast:     160ms;
+  --motion-base:     280ms;
+  --motion-slow:     520ms;
+  --motion-story:    900ms;
+
+  /* Easing */
+  --ease-editorial:  cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-swiss:      cubic-bezier(0.32, 0.72, 0, 1);
+  --ease-story:      cubic-bezier(0.76, 0, 0.24, 1);
+}
+
+.motion-editorial { transition-timing-function: var(--ease-editorial); transition-duration: var(--motion-base); }
+.motion-swiss     { transition-timing-function: var(--ease-swiss);     transition-duration: var(--motion-base); }
+.motion-story     { transition-timing-function: var(--ease-story);     transition-duration: var(--motion-story); }
+
+/* ────────────────────────────────────────────────────────────
+   Immersive scope
+   All "storybook" loops (float, drift, aurora, ken-burns, snow,
+   cable, etc.) only fire inside a .immersive-page wrapper. The
+   editorial landing doesn't add this class, so the homepage stays
+   calm. Use <div className="immersive-page">…</div> on explicit
+   cinematic pages (e.g. destination hero stories).
+   ──────────────────────────────────────────────────────────── */
+:not(.immersive-page) .animate-float,
+:not(.immersive-page) .animate-float-slow,
+:not(.immersive-page) .animate-drift,
+:not(.immersive-page) .animate-drift-slow,
+:not(.immersive-page) .animate-sway,
+:not(.immersive-page) .animate-aurora,
+:not(.immersive-page) .animate-ken-burns,
+:not(.immersive-page) .animate-snow,
+:not(.immersive-page) .animate-cable,
+:not(.immersive-page) .animate-rotate-slow {
+  animation-play-state: paused;
+  animation: none;
+}
+
 /* Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {
   .animate-fade-up,

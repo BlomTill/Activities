@@ -1,11 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { MapPin, Clock, Star, Check, Scale, Users } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { ActivityPhoto } from "@/components/activity-photo";
 import { Activity, AgeGroup, getBestPrice, getAverageRating } from "@/lib/types";
 import { useAgeGroup } from "@/context/age-group-context";
 import { useComparison } from "@/context/comparison-context";
@@ -43,39 +43,35 @@ export function ActivityCard({ activity, ageGroupOverride }: ActivityCardProps) 
 
   return (
     <Card className="group overflow-hidden transition-all hover:shadow-lg">
-      <Link href={`/activities/${activity.slug}`}>
-        <div className="relative aspect-[16/10] overflow-hidden bg-gray-200">
-          <Image
-            src={activity.imageUrl}
-            alt={activity.name}
-            fill
-            className="object-cover transition-transform group-hover:scale-105"
-            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent z-10" />
-          <div className="absolute top-3 left-3 z-20 flex gap-1.5">
-            <Badge className={cn("text-xs", getCategoryColor(activity.category))}>
-              {activity.category}
+      <Link href={`/activities/${activity.slug}`} className="relative block">
+        <ActivityPhoto
+          activity={activity}
+          aspect="16/10"
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+        />
+        <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/55 via-black/10 to-transparent z-10" />
+        <div className="absolute top-3 left-3 z-20 flex gap-1.5">
+          <Badge className={cn("text-xs", getCategoryColor(activity.category))}>
+            {activity.category}
+          </Badge>
+          {activity.deal && (
+            <Badge className="bg-red-600 text-white text-xs">
+              {activity.deal.label}
             </Badge>
-            {activity.deal && (
-              <Badge className="bg-red-600 text-white text-xs">
-                {activity.deal.label}
-              </Badge>
-            )}
-          </div>
-          <div className="absolute bottom-3 right-3 z-20">
-            <span className="rounded-lg bg-white/95 px-3 py-1.5 text-sm font-bold text-gray-900 shadow-sm">
-              {price === 0 ? "Free" : `from ${formatPrice(price)}`}
-            </span>
-          </div>
-          {providerCount > 1 && (
-            <div className="absolute bottom-3 left-3 z-20">
-              <span className="flex items-center gap-1 rounded-lg bg-white/95 px-2 py-1 text-xs font-medium text-gray-700 shadow-sm">
-                <Users className="h-3 w-3" /> {providerCount} providers
-              </span>
-            </div>
           )}
         </div>
+        <div className="absolute bottom-3 right-3 z-20">
+          <span className="rounded-lg bg-white/95 px-3 py-1.5 text-sm font-bold text-gray-900 shadow-sm">
+            {price === 0 ? "Free" : `from ${formatPrice(price)}`}
+          </span>
+        </div>
+        {providerCount > 1 && (
+          <div className="absolute bottom-3 left-3 z-20">
+            <span className="flex items-center gap-1 rounded-lg bg-white/95 px-2 py-1 text-xs font-medium text-gray-700 shadow-sm">
+              <Users className="h-3 w-3" /> {providerCount} providers
+            </span>
+          </div>
+        )}
       </Link>
 
       <CardContent className="p-4">

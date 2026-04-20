@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "fetch-images": "node scripts/fetch-activity-images.mjs",
+    "fetch-images:force": "node scripts/fetch-activity-images.mjs --force"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",
