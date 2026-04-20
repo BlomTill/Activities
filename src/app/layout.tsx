@@ -30,7 +30,6 @@ const fraunces = Fraunces({
   subsets: ["latin"],
   variable: "--font-fraunces",
   display: "swap",
-  axes: ["SOFT", "opsz"],
   weight: ["300", "400", "500", "600", "700"],
   style: ["normal", "italic"],
 });
