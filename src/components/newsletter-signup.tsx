@@ -5,9 +5,47 @@ import { Mail, Check, ArrowRight } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 
-export function NewsletterSignup({ variant = "inline" }: { variant?: "inline" | "banner" }) {
+type NewsletterIntent = "deals" | "destinations" | "region" | "itinerary";
+
+const COPY: Record<NewsletterIntent, { title: string; description: string; success: string }> = {
+  deals: {
+    title: "Get Weekly Swiss Deals",
+    description: "Join travelers who want the best prices on Swiss activities without digging through dozens of sites.",
+    success: "We’ll send deal-focused picks and price-aware trip ideas.",
+  },
+  destinations: {
+    title: "Get destination-specific ideas",
+    description: "Tell us which parts of Switzerland interest you and we’ll send useful, region-led recommendations.",
+    success: "We’ll send destination-led ideas instead of generic travel blasts.",
+  },
+  region: {
+    title: "Get region-specific trip ideas",
+    description: "Receive curated activity picks, itineraries, and budget suggestions tailored to this region.",
+    success: "We’ll keep the emails focused on this region and similar trip ideas.",
+  },
+  itinerary: {
+    title: "Get itinerary-ready travel emails",
+    description: "Receive route ideas, budget-friendly swaps, and booking reminders for multi-day Swiss trips.",
+    success: "We’ll send planning-focused ideas for building a better Swiss itinerary.",
+  },
+};
+
+export function NewsletterSignup({
+  variant = "inline",
+  intent = "deals",
+  title,
+  description,
+}: {
+  variant?: "inline" | "banner";
+  intent?: NewsletterIntent;
+  title?: string;
+  description?: string;
+}) {
   const [email, setEmail] = useState("");
   const [submitted, setSubmitted] = useState(false);
+  const copy = COPY[intent];
+  const heading = title || copy.title;
+  const body = description || copy.description;
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -24,7 +62,7 @@ export function NewsletterSignup({ variant = "inline" }: { variant?: "inline" | 
         </div>
         <div>
           <p className="font-semibold text-gray-900">You&apos;re on the list!</p>
-          <p className="text-sm text-gray-500">We&apos;ll send you the best Swiss deals every week.</p>
+          <p className="text-sm text-gray-500">{copy.success}</p>
         </div>
       </div>
     );
@@ -35,10 +73,8 @@ export function NewsletterSignup({ variant = "inline" }: { variant?: "inline" | 
       <section className="bg-gradient-to-r from-red-600 to-red-700 text-white">
         <div className="mx-auto max-w-4xl px-4 py-10 text-center">
           <Mail className="h-8 w-8 mx-auto mb-3 opacity-80" />
-          <h3 className="text-xl font-bold mb-1">Get Weekly Swiss Deals</h3>
-          <p className="text-red-100 text-sm mb-5 max-w-md mx-auto">
-            Join 5,000+ travelers. We find the best prices on Swiss activities so you don&apos;t have to.
-          </p>
+          <h3 className="text-xl font-bold mb-1">{heading}</h3>
+          <p className="text-red-100 text-sm mb-5 max-w-md mx-auto">{body}</p>
           <form onSubmit={handleSubmit} className="flex max-w-md mx-auto gap-2">
             <Input
               type="email"
@@ -62,11 +98,9 @@ export function NewsletterSignup({ variant = "inline" }: { variant?: "inline" | 
     <div className="rounded-xl border bg-gray-50 p-5">
       <div className="flex items-center gap-2 mb-2">
         <Mail className="h-5 w-5 text-red-600" />
-        <h3 className="font-semibold text-gray-900">Swiss Deals Newsletter</h3>
+        <h3 className="font-semibold text-gray-900">{heading}</h3>
       </div>
-      <p className="text-sm text-gray-500 mb-3">
-        Weekly hand-picked deals on Swiss activities. No spam.
-      </p>
+      <p className="text-sm text-gray-500 mb-3">{body}</p>
       <form onSubmit={handleSubmit} className="flex gap-2">
         <Input
           type="email"

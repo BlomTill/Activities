@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { Suspense, useState, useMemo } from "react";
+import { useSearchParams } from "next/navigation";
 import { Train, Check, X, Calculator, ExternalLink, Info, ChevronDown, ChevronUp } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -186,8 +187,19 @@ function PassFeatureRow({ label, included }: { label: string; included: boolean 
 }
 
 export default function TravelPassesPage() {
-  const [tripDays, setTripDays] = useState(8);
-  const [travelDays, setTravelDays] = useState(6);
+  return (
+    <Suspense fallback={<div className="mx-auto max-w-5xl px-4 py-16 text-center text-gray-400">Loading travel pass comparison...</div>}>
+      <TravelPassesContent />
+    </Suspense>
+  );
+}
+
+function TravelPassesContent() {
+  const searchParams = useSearchParams();
+  const initialTripDays = Number(searchParams.get("tripDays") || "8");
+  const initialTravelDays = Number(searchParams.get("travelDays") || "6");
+  const [tripDays, setTripDays] = useState(Number.isFinite(initialTripDays) ? Math.min(30, Math.max(1, initialTripDays)) : 8);
+  const [travelDays, setTravelDays] = useState(Number.isFinite(initialTravelDays) ? Math.min(15, Math.max(1, initialTravelDays)) : 6);
   const [expandedPass, setExpandedPass] = useState<string | null>(null);
 
   const recommendation = useMemo(() => {
@@ -276,6 +288,16 @@ export default function TravelPassesPage() {
             </div>
           </CardContent>
         </Card>
+      </section>
+
+      <section className="mx-auto mt-8 max-w-5xl px-4">
+        <div className="rounded-2xl border bg-white p-6 shadow-sm">
+          <h2 className="text-lg font-bold text-gray-900">How we recommend passes</h2>
+          <p className="mt-2 text-sm leading-6 text-gray-600">
+            We bias toward the pass that best matches how often you move between cities, not the one with the highest headline price.
+            That keeps the recommendation more trustworthy and usually helps affiliate conversions too.
+          </p>
+        </div>
       </section>
 
       {/* Pass Cards */}

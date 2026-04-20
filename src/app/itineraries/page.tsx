@@ -6,7 +6,9 @@ import { MapPin, Clock, Mountain, Wallet, ArrowRight, Calendar } from "lucide-re
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { NewsletterSignup } from "@/components/newsletter-signup";
 import { itineraries } from "@/data/itineraries";
+import { getDestinationSummaries } from "@/lib/destinations";
 
 const DIFFICULTY_COLORS: Record<string, string> = {
   Easy: "bg-green-100 text-green-800",
@@ -15,6 +17,8 @@ const DIFFICULTY_COLORS: Record<string, string> = {
 };
 
 export default function ItinerariesPage() {
+  const destinations = getDestinationSummaries().slice(0, 4);
+
   return (
     <div>
       {/* Hero */}
@@ -91,6 +95,31 @@ export default function ItinerariesPage() {
         </div>
       </section>
 
+      <section className="mx-auto max-w-6xl px-4 pb-12">
+        <div className="flex items-center justify-between gap-4">
+          <div>
+            <h2 className="text-2xl font-bold text-gray-900">Start from a destination</h2>
+            <p className="mt-2 text-gray-500">If you know the region first, it’s easier to choose the right itinerary.</p>
+          </div>
+          <Link href="/destinations">
+            <Button variant="ghost" className="gap-1 text-red-600">
+              All destinations <ArrowRight className="h-4 w-4" />
+            </Button>
+          </Link>
+        </div>
+        <div className="mt-6 grid gap-4 md:grid-cols-2 xl:grid-cols-4">
+          {destinations.map((destination) => (
+            <Link key={destination.slug} href={`/destinations/${destination.slug}`} className="rounded-2xl border bg-white p-5 transition-all hover:-translate-y-1 hover:shadow-md">
+              <p className="text-sm font-medium text-red-600">{destination.name}</p>
+              <p className="mt-2 text-sm leading-6 text-gray-600">{destination.description}</p>
+              <p className="mt-3 text-xs text-gray-400">
+                {destination.activityCount} activities • {destination.itineraryCount} itineraries
+              </p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
       {/* CTA */}
       <section className="bg-gray-50 py-12">
         <div className="mx-auto max-w-3xl px-4 text-center">
@@ -112,6 +141,15 @@ export default function ItinerariesPage() {
             </Link>
           </div>
         </div>
+      </section>
+
+      <section className="mx-auto max-w-5xl px-4 pb-16 pt-10">
+        <NewsletterSignup
+          variant="banner"
+          intent="itinerary"
+          title="Get itinerary-ready Swiss trip ideas"
+          description="Receive route ideas, budget-friendly swaps, and travel-pass prompts based on the kind of Swiss trip you want to build."
+        />
       </section>
     </div>
   );

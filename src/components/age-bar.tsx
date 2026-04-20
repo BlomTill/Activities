@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { usePathname } from "next/navigation";
 import { Minus, Plus, Users, ChevronDown, ChevronUp } from "lucide-react";
 import { useAgeGroup } from "@/context/age-group-context";
 import { useGroup } from "@/context/group-context";
@@ -36,9 +37,23 @@ function CounterButton({ label, count, onDecrement, onIncrement }: {
 }
 
 export function AgeBar() {
+  const pathname = usePathname();
   const { ageGroup, setAgeGroup } = useAgeGroup();
   const { group, updateCount, totalPeople } = useGroup();
   const [groupOpen, setGroupOpen] = useState(false);
+
+  const showAgeBar = [
+    "/activities",
+    "/budget",
+    "/compare",
+    "/deals",
+    "/planner",
+    "/travel-passes",
+  ].some((prefix) => pathname.startsWith(prefix));
+
+  if (!showAgeBar) {
+    return null;
+  }
 
   return (
     <div className="sticky top-16 z-40 border-b bg-white/95 backdrop-blur-sm">

@@ -1,6 +1,8 @@
 import { MetadataRoute } from "next";
 import { activities } from "@/data/activities";
 import { blogPosts } from "@/data/blog-posts";
+import { itineraries } from "@/data/itineraries";
+import { getDestinationSummaries } from "@/lib/destinations";
 
 const BASE_URL = "https://swissactivity.ch";
 
@@ -19,9 +21,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
+  const itineraryPages = itineraries.map((itinerary) => ({
+    url: `${BASE_URL}/itineraries/${itinerary.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly" as const,
+    priority: 0.75,
+  }));
+
+  const destinationPages = getDestinationSummaries().map((destination) => ({
+    url: `${BASE_URL}/destinations/${destination.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly" as const,
+    priority: 0.8,
+  }));
+
   const staticPages = [
     { url: BASE_URL, priority: 1.0, changeFrequency: "daily" as const },
     { url: `${BASE_URL}/activities`, priority: 0.9, changeFrequency: "daily" as const },
+    { url: `${BASE_URL}/destinations`, priority: 0.9, changeFrequency: "weekly" as const },
+    { url: `${BASE_URL}/itineraries`, priority: 0.85, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/budget`, priority: 0.8, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/map`, priority: 0.7, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/deals`, priority: 0.8, changeFrequency: "daily" as const },
@@ -31,5 +49,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/about`, priority: 0.4, changeFrequency: "monthly" as const },
   ].map((page) => ({ ...page, lastModified: new Date() }));
 
-  return [...staticPages, ...activityPages, ...blogPages];
+  return [...staticPages, ...activityPages, ...itineraryPages, ...destinationPages, ...blogPages];
 }

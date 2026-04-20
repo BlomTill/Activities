@@ -1,7 +1,9 @@
 "use client";
 
-import { useState, useMemo } from "react";
-import { Wallet, Sparkles } from "lucide-react";
+import Link from "next/link";
+import { Suspense, useState, useMemo, useEffect } from "react";
+import { useSearchParams } from "next/navigation";
+import { Wallet, Sparkles, ArrowRight, Train } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { ActivityCard } from "@/components/activity-card";
@@ -14,11 +16,28 @@ import { getBestPrice, getAverageRating } from "@/lib/types";
 const PRESET_BUDGETS = [0, 20, 50, 100, 200];
 
 export default function BudgetPage() {
+  return (
+    <Suspense fallback={<div className="mx-auto max-w-7xl px-4 py-16 text-center text-gray-400">Loading budget explorer...</div>}>
+      <BudgetContent />
+    </Suspense>
+  );
+}
+
+function BudgetContent() {
+  const searchParams = useSearchParams();
   const { ageGroup, setAgeGroup } = useAgeGroup();
-  const [budget, setBudget] = useState<number>(50);
-  const [customBudget, setCustomBudget] = useState("");
-  const [seasonFilter, setSeasonFilter] = useState(true);
+  const initialBudget = Number(searchParams.get("budget") || "50");
+  const [budget, setBudget] = useState<number>(Number.isFinite(initialBudget) ? initialBudget : 50);
+  const [customBudget, setCustomBudget] = useState(searchParams.get("budget") || "");
+  const [seasonFilter, setSeasonFilter] = useState(searchParams.get("season") === "current");
   const currentSeason = getCurrentSeason();
+
+  useEffect(() => {
+    const requestedAgeGroup = searchParams.get("ageGroup");
+    if (requestedAgeGroup && AGE_GROUPS.some((group) => group.value === requestedAgeGroup)) {
+      setAgeGroup(requestedAgeGroup as typeof ageGroup);
+    }
+  }, [searchParams, setAgeGroup]);
 
   const affordableActivities = useMemo(() => {
     let result = activities.filter((a) => getBestPrice(a, ageGroup) <= budget);
@@ -36,6 +55,8 @@ export default function BudgetPage() {
     const yourPrices = affordableActivities.map((a) => getBestPrice(a, ageGroup));
     return maxPrices.reduce((sum, p, i) => sum + (p - yourPrices[i]), 0);
   }, [affordableActivities, ageGroup]);
+  const plannerHref = `/planner?days=${budget <= 50 ? 2 : budget <= 120 ? 3 : 5}&budget=${budget}&ageGroup=${ageGroup}${seasonFilter ? "&season=current" : ""}`;
+  const passHref = `/travel-passes?tripDays=${budget <= 50 ? 2 : budget <= 120 ? 4 : 7}&travelDays=${budget <= 50 ? 1 : budget <= 120 ? 3 : 5}`;
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
@@ -129,6 +150,27 @@ export default function BudgetPage() {
             <p className="text-3xl font-bold text-blue-600">CHF {Math.round(totalSaved)}</p>
             <p className="text-xs text-gray-500 mt-1">Saved as {ageGroup}</p>
           </div>
+        </div>
+
+        <div className="mt-6 grid gap-3 md:grid-cols-2">
+          <Link href={plannerHref} className="rounded-xl border bg-gray-50 p-4 transition-colors hover:border-red-200 hover:bg-red-50">
+            <div className="flex items-center justify-between gap-3">
+              <div>
+                <p className="font-medium text-gray-900">Turn this into a trip plan</p>
+                <p className="mt-1 text-sm text-gray-500">Start a planner with this budget and your current traveler type.</p>
+              </div>
+              <ArrowRight className="h-5 w-5 text-red-600" />
+            </div>
+          </Link>
+          <Link href={passHref} className="rounded-xl border bg-gray-50 p-4 transition-colors hover:border-red-200 hover:bg-red-50">
+            <div className="flex items-center justify-between gap-3">
+              <div>
+                <p className="font-medium text-gray-900">Check transport value</p>
+                <p className="mt-1 text-sm text-gray-500">Compare whether a pass helps once you start moving between cities.</p>
+              </div>
+              <Train className="h-5 w-5 text-red-600" />
+            </div>
+          </Link>
         </div>
       </div>
 

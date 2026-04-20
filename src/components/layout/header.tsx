@@ -12,6 +12,7 @@ import { cn } from "@/lib/utils";
 
 const NAV_LINKS = [
   { href: "/", label: "Home" },
+  { href: "/destinations", label: "Destinations" },
   { href: "/activities", label: "Activities" },
   { href: "/itineraries", label: "Itineraries" },
   { href: "/travel-passes", label: "Travel Passes" },
@@ -27,12 +28,17 @@ export function Header() {
   const { comparisonList } = useComparison();
 
   return (
-    <header className="sticky top-0 z-50 border-b bg-white/80 backdrop-blur-md">
+    <header className="sticky top-0 z-50 border-b border-white/40 bg-white/70 backdrop-blur-xl">
+      <div className="alpine-rule absolute inset-x-0 top-0 opacity-70" aria-hidden />
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
-        <Link href="/" className="flex items-center gap-2">
-          <Mountain className="h-7 w-7 text-red-600" />
-          <span className="text-xl font-bold tracking-tight">
-            Explore<span className="text-red-600">Switzerland</span>
+        <Link href="/" className="group flex items-center gap-2">
+          <span className="relative flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-red-500 to-red-700 shadow-[0_8px_18px_-6px_rgba(220,38,38,0.55)] transition-transform group-hover:-rotate-6 group-hover:scale-105">
+            <Mountain className="h-5 w-5 text-white" />
+            <span className="absolute -right-0.5 -top-0.5 h-2 w-2 rounded-full bg-amber-300 ring-2 ring-white" />
+          </span>
+          <span className="text-lg font-semibold tracking-tight">
+            <span className="font-story italic text-slate-800">Explore</span>
+            <span className="ml-1 bg-gradient-to-r from-red-600 to-red-500 bg-clip-text text-transparent">Switzerland</span>
           </span>
         </Link>
 
@@ -42,8 +48,8 @@ export function Header() {
               key={link.href}
               href={link.href}
               className={cn(
-                "rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-100",
-                pathname === link.href ? "bg-gray-100 text-red-600" : "text-gray-700"
+                "link-flourish relative rounded-md px-3 py-2 text-sm font-medium transition-colors hover:text-red-600",
+                pathname === link.href ? "text-red-600" : "text-gray-700"
               )}
             >
               {link.label}

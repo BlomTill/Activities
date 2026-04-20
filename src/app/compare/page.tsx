@@ -10,6 +10,8 @@ import { useAgeGroup } from "@/context/age-group-context";
 import { AGE_GROUPS } from "@/lib/constants";
 import { cn } from "@/lib/utils";
 import { getBestPrice, getAverageRating, getCheapestProvider } from "@/lib/types";
+import { getAffiliateUrl } from "@/lib/affiliate";
+import { getProviderRecommendation } from "@/lib/trip-tools";
 
 function getCategoryColor(category: string) {
   const colors: Record<string, string> = {
@@ -158,6 +160,17 @@ export default function ComparePage() {
               <div key={a.id} className="text-sm py-2">{a.providers.length} provider{a.providers.length > 1 ? "s" : ""}</div>
             ))}
 
+            <div className="text-sm text-gray-500 py-2">Recommended booking</div>
+            {comparisonList.map((a) => {
+              const recommendation = getProviderRecommendation(a, ageGroup);
+              return (
+                <div key={a.id} className="py-2">
+                  <div className="text-sm font-medium text-gray-900">{recommendation.provider.name}</div>
+                  <div className="text-[10px] text-gray-400">{recommendation.label}</div>
+                </div>
+              );
+            })}
+
             <div className="text-sm text-gray-500 py-2">Indoor/Outdoor</div>
             {comparisonList.map((a) => (
               <div key={a.id} className="text-sm py-2">{a.indoor ? "Indoor" : "Outdoor"}</div>
@@ -181,7 +194,7 @@ export default function ComparePage() {
                   <Link href={`/activities/${a.slug}`}>
                     <Button variant="outline" size="sm" className="text-xs gap-1">Details <ArrowRight className="h-3 w-3" /></Button>
                   </Link>
-                  <a href={cheapest.bookingUrl} target="_blank" rel="noopener noreferrer">
+                  <a href={getAffiliateUrl(cheapest.bookingUrl)} target="_blank" rel="noopener noreferrer">
                     <Button size="sm" className="bg-red-600 hover:bg-red-700 text-xs gap-1">Book <ExternalLink className="h-3 w-3" /></Button>
                   </a>
                 </div>

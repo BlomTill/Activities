@@ -25,6 +25,7 @@ export function Footer() {
             </h3>
             <ul className="space-y-2 text-sm text-gray-500">
               <li><Link href="/activities" className="hover:text-red-600 transition-colors">All Activities</Link></li>
+              <li><Link href="/destinations" className="hover:text-red-600 transition-colors">Destinations</Link></li>
               <li><Link href="/itineraries" className="hover:text-red-600 transition-colors">Itineraries</Link></li>
               <li><Link href="/travel-passes" className="hover:text-red-600 transition-colors">Travel Passes</Link></li>
               <li><Link href="/budget" className="hover:text-red-600 transition-colors">Budget Explorer</Link></li>

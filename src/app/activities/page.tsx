@@ -2,11 +2,12 @@
 
 import { Suspense, useState, useMemo } from "react";
 import { useSearchParams } from "next/navigation";
-import { Search, SlidersHorizontal, X, MapPin } from "lucide-react";
+import { Search, SlidersHorizontal, X, MapPin, Sparkles } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ActivityCard } from "@/components/activity-card";
+import { RecentlyViewed } from "@/components/recently-viewed";
 import { activities } from "@/data/activities";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
@@ -122,23 +123,45 @@ function ActivitiesContent() {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
-      <div className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">All Activities</h1>
-        <p className="mt-2 text-gray-500">
-          {filtered.length} activities found
-          {showCurrentSeason && !selectedSeason && ` for ${getSeasonLabel(currentSeason).toLowerCase()}`}
-        </p>
+      <div className="surface-panel mb-8 overflow-hidden p-6">
+        <div className="grid gap-6 lg:grid-cols-[1.1fr_0.9fr] lg:items-end">
+          <div>
+            <div className="flex items-center gap-2 text-sm font-medium text-red-600">
+              <Sparkles className="h-4 w-4" />
+              Explore smarter
+            </div>
+            <h1 className="mt-2 text-3xl font-bold text-gray-900 md:text-4xl">All Activities</h1>
+            <p className="mt-3 max-w-2xl text-gray-500">
+              Browse with fewer decisions at once: search first, then open filters only if you need to narrow the list.
+            </p>
+          </div>
+          <div className="grid gap-3 sm:grid-cols-3">
+            <div className="rounded-2xl bg-gray-50 p-4">
+              <p className="text-xs uppercase tracking-wide text-gray-400">Results</p>
+              <p className="mt-2 text-2xl font-bold text-gray-900">{filtered.length}</p>
+            </div>
+            <div className="rounded-2xl bg-gray-50 p-4">
+              <p className="text-xs uppercase tracking-wide text-gray-400">Filters</p>
+              <p className="mt-2 text-2xl font-bold text-gray-900">{activeFilterCount}</p>
+            </div>
+            <div className="rounded-2xl bg-gray-50 p-4">
+              <p className="text-xs uppercase tracking-wide text-gray-400">Season</p>
+              <p className="mt-2 text-lg font-bold text-gray-900">
+                {showCurrentSeason && !selectedSeason ? getSeasonLabel(currentSeason) : selectedSeason ? getSeasonLabel(selectedSeason) : "All"}
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
 
-      {/* Search + Filter Toggle */}
-      <div className="flex flex-col gap-4 sm:flex-row sm:items-center mb-6">
+      <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-center">
         <div className="relative flex-1">
           <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gray-400" />
           <Input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search activities..."
-            className="pl-10 text-gray-900"
+            placeholder="Search activities, regions, categories, or cities..."
+            className="h-12 rounded-2xl border-white bg-white/90 pl-10 text-gray-900 shadow-sm"
           />
         </div>
         <div className="flex gap-2">
@@ -158,7 +181,7 @@ function ActivitiesContent() {
           <select
             value={sortBy}
             onChange={(e) => setSortBy(e.target.value as typeof sortBy)}
-            className="rounded-md border border-gray-200 px-3 py-2 text-sm"
+            className="rounded-2xl border border-gray-200 bg-white px-3 py-2 text-sm shadow-sm"
           >
             <option value="rating">Top Rated</option>
             <option value="price-asc">Price: Low to High</option>
@@ -170,7 +193,7 @@ function ActivitiesContent() {
 
       {/* Filters Panel */}
       {showFilters && (
-        <div className="mb-6 rounded-xl border bg-gray-50 p-6 space-y-5">
+        <div className="mb-6 rounded-[28px] border bg-white p-6 shadow-sm space-y-5">
           <div className="flex items-center justify-between">
             <h3 className="font-semibold">Filters</h3>
             <Button variant="ghost" size="sm" onClick={clearFilters} className="text-xs text-gray-500">
@@ -310,11 +333,19 @@ function ActivitiesContent() {
 
       {/* Results Grid */}
       {filtered.length > 0 ? (
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {filtered.map((activity) => (
-            <ActivityCard key={activity.id} activity={activity} />
-          ))}
-        </div>
+        <>
+          <div className="mb-5 flex items-center justify-between gap-4">
+            <p className="text-sm text-gray-500">
+              {filtered.length} activities found
+              {showCurrentSeason && !selectedSeason && ` for ${getSeasonLabel(currentSeason).toLowerCase()}`}
+            </p>
+          </div>
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            {filtered.map((activity) => (
+              <ActivityCard key={activity.id} activity={activity} />
+            ))}
+          </div>
+        </>
       ) : (
         <div className="text-center py-16">
           <p className="text-lg text-gray-500">No activities found matching your filters.</p>
@@ -323,6 +354,8 @@ function ActivitiesContent() {
           </Button>
         </div>
       )}
+
+      <RecentlyViewed title="Jump back into recent finds" />
     </div>
   );
 }

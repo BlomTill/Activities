@@ -1,7 +1,9 @@
 "use client";
 
+import Link from "next/link";
 import { Tag, Percent } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import { ActivityCard } from "@/components/activity-card";
 import { activities, getActivitiesWithDeals } from "@/data/activities";
 import { useAgeGroup } from "@/context/age-group-context";
@@ -10,7 +12,9 @@ import { getBestPrice } from "@/lib/types";
 
 export default function DealsPage() {
   const { ageGroup } = useAgeGroup();
-  const dealsActivities = getActivitiesWithDeals();
+  const dealsActivities = getActivitiesWithDeals().sort((a, b) =>
+    new Date(a.deal?.validUntil || "2099-12-31").getTime() - new Date(b.deal?.validUntil || "2099-12-31").getTime()
+  );
   const season = getCurrentSeason();
 
   const freeActivities = activities.filter((a) => getBestPrice(a, ageGroup) === 0 && a.seasons.includes(season));
@@ -36,10 +40,10 @@ export default function DealsPage() {
       {/* Partner Deals Banner */}
       <div className="mb-12 rounded-2xl bg-gradient-to-r from-red-600 to-red-700 p-8 text-white text-center">
         <Percent className="h-10 w-10 mx-auto mb-3 opacity-80" />
-        <h2 className="text-2xl font-bold">Want exclusive deals?</h2>
+        <h2 className="text-2xl font-bold">Useful deals, not deal spam</h2>
         <p className="mt-2 text-red-100 max-w-lg mx-auto">
-          We&apos;re partnering with activity providers across Switzerland to bring you exclusive discounts.
-          Check back regularly for new offers!
+          We surface deals that help a real trip decision: free alternatives, seasonal discounts,
+          and providers worth checking before you book at full price.
         </p>
         <div className="mt-4 flex justify-center gap-3">
           <Badge className="bg-white/20 text-white text-sm backdrop-blur-sm">Student Discounts</Badge>
@@ -52,7 +56,28 @@ export default function DealsPage() {
       {dealsActivities.length > 0 && (
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Special Deals</h2>
-          <p className="text-gray-500 mb-6">Activities with current promotions and discounts</p>
+          <p className="text-gray-500 mb-6">The most decision-worthy offers first, sorted by the soonest expiry</p>
+          <div className="mb-6 grid gap-4 lg:grid-cols-3">
+            {dealsActivities.slice(0, 3).map((activity) => (
+              <div key={`${activity.id}-highlight`} className="rounded-2xl border bg-white p-5 shadow-sm">
+                <div className="flex items-center gap-2">
+                  <Badge className="bg-red-600 text-white">{activity.deal?.label}</Badge>
+                  <span className="text-xs text-gray-400">until {activity.deal?.validUntil}</span>
+                </div>
+                <h3 className="mt-3 text-lg font-semibold text-gray-900">{activity.name}</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-600">{activity.description}</p>
+                <div className="mt-4 flex items-center justify-between text-sm">
+                  <span className="text-gray-500">Best {ageGroup} price</span>
+                  <span className="font-semibold text-gray-900">
+                    {getBestPrice(activity, ageGroup) === 0 ? "Free" : `CHF ${getBestPrice(activity, ageGroup)}`}
+                  </span>
+                </div>
+                <Link href={`/activities/${activity.slug}`}>
+                  <Button className="mt-4 w-full bg-red-600 hover:bg-red-700">See deal details</Button>
+                </Link>
+              </div>
+            ))}
+          </div>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
             {dealsActivities.map((activity) => (
               <ActivityCard key={activity.id} activity={activity} />
@@ -126,6 +151,16 @@ export default function DealsPage() {
               <p className="text-sm text-gray-500">{tip.desc}</p>
             </div>
           ))}
+        </div>
+        <div className="mt-6 grid gap-3 md:grid-cols-2">
+          <Link href={`/planner?days=3&budget=80&ageGroup=${ageGroup}&season=current`} className="rounded-xl border bg-white p-4 transition-colors hover:border-red-200 hover:bg-red-50">
+            <p className="font-medium text-gray-900">Build a budget-first trip</p>
+            <p className="mt-1 text-sm text-gray-500">Start with a realistic low-cost plan before choosing premium extras.</p>
+          </Link>
+          <Link href="/travel-passes?tripDays=5&travelDays=3" className="rounded-xl border bg-white p-4 transition-colors hover:border-red-200 hover:bg-red-50">
+            <p className="font-medium text-gray-900">Check if transport savings matter more</p>
+            <p className="mt-1 text-sm text-gray-500">Sometimes the bigger win is the right pass, not a small activity discount.</p>
+          </Link>
         </div>
       </section>
     </div>

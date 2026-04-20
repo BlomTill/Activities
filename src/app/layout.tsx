@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import { Fraunces } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import { AgeGroupProvider } from "@/context/age-group-context";
@@ -23,6 +24,15 @@ const geistMono = localFont({
   src: "./fonts/GeistMonoVF.woff",
   variable: "--font-geist-mono",
   weight: "100 900",
+});
+
+const fraunces = Fraunces({
+  subsets: ["latin"],
+  variable: "--font-fraunces",
+  display: "swap",
+  axes: ["SOFT", "opsz"],
+  weight: ["300", "400", "500", "600", "700"],
+  style: ["normal", "italic"],
 });
 
 export const metadata: Metadata = {
@@ -66,7 +76,7 @@ export default function RootLayout({
   gtag('config', 'G-XXXXXXXXXX');`}
         </Script>
       </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col`}>
+      <body className={`${geistSans.variable} ${geistMono.variable} ${fraunces.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col`}>
         <AgeGroupProvider>
           <GroupProvider>
             <ComparisonProvider>
