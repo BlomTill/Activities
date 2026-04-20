@@ -59,10 +59,10 @@ export function ScrollReveal({
     return () => observer.disconnect();
   }, [threshold, once]);
 
-  const Component = Tag as any;
+  const Component = Tag as React.ElementType;
   return (
     <Component
-      ref={ref as any}
+      ref={ref as React.Ref<HTMLElement>}
       style={delay ? { transitionDelay: `${delay}ms` } : undefined}
       className={cn(DIRECTION_CLASSES[direction], visible && "is-visible", className)}
     >
