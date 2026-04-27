@@ -1,0 +1,81 @@
+{
+  "id": "121",
+  "slug": "montreux-jazz-festival",
+  "name": "Montreux Jazz Festival",
+  "description": "World-famous music festival on Lake Geneva — two weeks of concerts from jazz to pop to rock.",
+  "longDescription": "The Montreux Jazz Festival is one of the world's most prestigious music events, held every July on the shores of Lake Geneva. Founded in 1967, it hosts over 500 concerts across multiple stages — from intimate jazz clubs to the massive Auditorium Stravinski. Many lakeside concerts are free.",
+  "category": "culture",
+  "subcategory": "Festival",
+  "location": {
+    "region": "Vaud",
+    "canton": "Vaud",
+    "city": "Montreux",
+    "coordinates": {
+      "lat": 46.4312,
+      "lng": 6.9107
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free Lakeside Concerts",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.montreuxjazzfestival.com",
+      "rating": 4.9,
+      "description": "Free outdoor concerts on the lake"
+    },
+    {
+      "name": "Auditorium Stravinski Tickets",
+      "pricing": {
+        "child": 45,
+        "student": 65,
+        "adult": 95,
+        "senior": 85
+      },
+      "bookingUrl": "https://www.montreuxjazzfestival.com",
+      "rating": 4.8,
+      "description": "Headline concert tickets — prices vary"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-8 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Founded",
+      "value": "1967"
+    },
+    {
+      "label": "Concerts",
+      "value": "500+ over 2 weeks"
+    },
+    {
+      "label": "Free Shows",
+      "value": "Lakeside stages"
+    },
+    {
+      "label": "When",
+      "value": "July annually"
+    },
+    {
+      "label": "Artists",
+      "value": "Jazz, pop, rock legends"
+    }
+  ],
+  "tags": [
+    "festival",
+    "jazz",
+    "music",
+    "montreux",
+    "lake geneva"
+  ],
+  "featured": true
+}

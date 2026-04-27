@@ -1,0 +1,95 @@
+{
+  "id": "52",
+  "slug": "wine-tasting-lavaux",
+  "name": "Lavaux Vineyard Wine Tasting",
+  "description": "UNESCO-listed terraced vineyards on Lake Geneva with wine tastings and guided walks.",
+  "longDescription": "The Lavaux vineyard terraces are a UNESCO World Heritage Site — stunning terraced vineyards descending to Lake Geneva, dating back to the 11th century.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Vaud",
+    "canton": "Vaud",
+    "city": "Lausanne",
+    "coordinates": {
+      "lat": 46.4917,
+      "lng": 6.7276
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Lavaux Wine Trail (Self-guided)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.lavaux-unesco.ch",
+      "rating": 4.5,
+      "description": "Free walk through vineyards (tastings at cellars extra)"
+    },
+    {
+      "name": "Lavaux Express Train + Tasting",
+      "pricing": {
+        "child": 10,
+        "student": 25,
+        "adult": 35,
+        "senior": 30
+      },
+      "bookingUrl": "https://www.lavaux-express.ch",
+      "rating": 4.6,
+      "description": "Tourist train through vineyards with 3 wine tastings"
+    },
+    {
+      "name": "Private Wine Walk",
+      "pricing": {
+        "child": 0,
+        "student": 55,
+        "adult": 75,
+        "senior": 65
+      },
+      "bookingUrl": "https://www.lavaux-wine-walks.ch",
+      "rating": 4.8,
+      "description": "Small group guided walk with sommelier and 5+ tastings"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "UNESCO",
+      "value": "World Heritage"
+    },
+    {
+      "label": "Since",
+      "value": "11th century"
+    },
+    {
+      "label": "Tastings",
+      "value": "3-5+ wines"
+    },
+    {
+      "label": "Trail",
+      "value": "Self-guided free"
+    },
+    {
+      "label": "Train Tour",
+      "value": "Available"
+    }
+  ],
+  "tags": [
+    "wine",
+    "vineyard",
+    "UNESCO",
+    "tasting",
+    "lavaux"
+  ],
+  "featured": false
+}

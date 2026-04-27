@@ -1,0 +1,70 @@
+{
+  "id": "67",
+  "slug": "aareschlucht-gorge",
+  "name": "Aare Gorge (Aareschlucht)",
+  "description": "Walk through a dramatic 1.4km limestone gorge carved by glacial waters.",
+  "longDescription": "The Aare Gorge near Meiringen is a dramatic natural wonder — a 1.4km-long gorge with walls up to 180m high and only 1m apart in places. A safe walkway runs through the gorge alongside the turquoise Aare river.",
+  "category": "outdoor",
+  "subcategory": "Gorge",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Meiringen",
+    "coordinates": {
+      "lat": 46.72,
+      "lng": 8.18
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Aareschlucht",
+      "pricing": {
+        "child": 5,
+        "student": 7,
+        "adult": 10,
+        "senior": 9
+      },
+      "bookingUrl": "https://www.aareschlucht.ch",
+      "rating": 4.5
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Length",
+      "value": "1.4 km"
+    },
+    {
+      "label": "Wall Height",
+      "value": "Up to 180m"
+    },
+    {
+      "label": "Narrowest",
+      "value": "1m apart"
+    },
+    {
+      "label": "River",
+      "value": "Turquoise Aare"
+    },
+    {
+      "label": "Safe Walkway",
+      "value": "Yes"
+    }
+  ],
+  "tags": [
+    "gorge",
+    "nature",
+    "walking",
+    "limestone",
+    "meiringen"
+  ],
+  "featured": false
+}

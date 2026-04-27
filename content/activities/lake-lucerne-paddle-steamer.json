@@ -1,0 +1,83 @@
+{
+  "id": "19",
+  "slug": "lake-lucerne-paddle-steamer",
+  "name": "Lake Lucerne Paddle Steamer Cruise",
+  "description": "Cruise on a historic paddle steamer through the stunning mountain-framed Lake Lucerne.",
+  "longDescription": "Step aboard one of five beautifully restored vintage paddle steamers on Lake Lucerne for a journey through some of Switzerland's most dramatic scenery. Pass the Rütli meadow — birthplace of the Swiss Confederation — and spots associated with the William Tell legend.",
+  "category": "family",
+  "subcategory": "Boat Cruise",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Lucerne",
+    "city": "Lucerne",
+    "coordinates": {
+      "lat": 47.0502,
+      "lng": 8.3093
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SGV (Lake Lucerne Navigation)",
+      "pricing": {
+        "child": 0,
+        "student": 35,
+        "adult": 48,
+        "senior": 43
+      },
+      "bookingUrl": "https://www.lakelucerne.ch",
+      "rating": 4.6,
+      "description": "Round trip on historic paddle steamer"
+    },
+    {
+      "name": "SGV (Sunset Cruise)",
+      "pricing": {
+        "child": 0,
+        "student": 55,
+        "adult": 78,
+        "senior": 70
+      },
+      "bookingUrl": "https://www.lakelucerne.ch",
+      "rating": 4.8,
+      "description": "Evening cruise with dinner and live music"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Ships",
+      "value": "5 paddle steamers"
+    },
+    {
+      "label": "Lake Area",
+      "value": "114 km²"
+    },
+    {
+      "label": "Route",
+      "value": "Rütli + Tell sites"
+    },
+    {
+      "label": "Dinner Cruise",
+      "value": "Available"
+    },
+    {
+      "label": "Built Since",
+      "value": "1837"
+    }
+  ],
+  "tags": [
+    "boat",
+    "lake",
+    "historic",
+    "paddle steamer",
+    "lucerne"
+  ],
+  "featured": false
+}

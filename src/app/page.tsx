@@ -1,344 +1,803 @@
 "use client";
 
 import Link from "next/link";
-import {
-  ArrowRight,
-  Map,
-  Calendar,
-  Compass,
-  Sparkles,
-  Star,
-  ShieldCheck,
-  Wallet,
-  Quote,
-} from "lucide-react";
-import Image from "next/image";
-import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
-import { ActivityCard } from "@/components/activity-card";
-import { NewsletterSignup } from "@/components/newsletter-signup";
-import { ScrollReveal } from "@/components/immersive/scroll-reveal";
-import { activities, getFeaturedActivities } from "@/data/activities";
-import { blogPosts } from "@/data/blog-posts";
-import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
 
-/**
- * ──────────────────────────────────────────────────────────────────
- *  Editorial landing page
- *
- *  Quiet, 5-scroll structure:
- *    1. Editorial hero        — one photo, one sentence, one CTA
- *    2. Three doors           — Destinations / Experience / Plan
- *    3. Featured story        — latest editorial piece
- *    4. In-season picks       — 4 activities that are good RIGHT NOW
- *    5. Trust + newsletter    — social proof + list sign-up
- *
- *  The old cinematic storybook experience still exists in the codebase
- *  via the ParallaxHero component — we use a quieter hero here so the
- *  homepage loads fast and feels calm.
- * ──────────────────────────────────────────────────────────────────
- */
+/* ─── Design tokens ─── */
+const G = "oklch(74% 0.13 63deg)"; // gold accent
 
-const DOORS = [
+const CATEGORIES = [
   {
-    href: "/destinations",
-    label: "Destinations",
-    line: "Start with the region that matches your mood.",
-    icon: <Map className="h-5 w-5" />,
+    num: "01",
+    name: "Mountain",
+    nameItalic: "Experiences",
+    desc: "From Europe's highest railway station to cable cars that touch 3,883m. Switzerland's peaks aren't just scenery — they're destinations.",
+    count: "45 experiences",
+    image:
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=900&fit=crop",
+    href: "/activities?category=mountain",
   },
   {
-    href: "/activities",
-    label: "Experience",
-    line: "Handpicked activities, sorted by season and budget.",
-    icon: <Compass className="h-5 w-5" />,
+    num: "02",
+    name: "Adventure",
+    nameItalic: "& Thrills",
+    desc: "Paragliding over two lakes. Bungee jumping into a dam. Canyoning through gorges. Switzerland has a quiet way of making your heart race.",
+    count: "32 experiences",
+    image:
+      "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?w=1200&h=900&fit=crop",
+    href: "/activities?category=adventure",
   },
   {
-    href: "/plan",
-    label: "Plan",
-    line: "Itineraries, travel passes, and honest budget math.",
-    icon: <Calendar className="h-5 w-5" />,
+    num: "03",
+    name: "Scenic",
+    nameItalic: "Railways",
+    desc: "The Glacier Express, Bernina Express, GoldenPass Line. Not transportation — destinations in themselves. 291 bridges. 91 tunnels. 8 hours of pure alpine cinema.",
+    count: "8 routes",
+    image:
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&h=900&fit=crop",
+    href: "/activities?category=trains",
+  },
+  {
+    num: "04",
+    name: "Wellness",
+    nameItalic: "& Thermal",
+    desc: "Hot springs at 1,411m altitude. Roman baths in a valley spa. Rooftop pools with mountain panoramas. The alpine cure is real.",
+    count: "18 experiences",
+    image:
+      "https://images.unsplash.com/photo-1545389336-cf090694435e?w=1200&h=900&fit=crop",
+    href: "/activities?category=wellness",
+  },
+  {
+    num: "05",
+    name: "Culture",
+    nameItalic: "& History",
+    desc: "A 12th-century lakeside castle. A Roman ruin in a Swiss suburb. A chocolate factory that gives you samples you didn't ask for. Four languages, one country.",
+    count: "40 experiences",
+    image:
+      "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?w=1200&h=900&fit=crop",
+    href: "/activities?category=culture",
   },
 ];
 
-const TRUST = [
+const STORIES = [
   {
-    icon: <Wallet className="h-5 w-5 text-emerald-600" />,
-    label: "Transparent pricing",
-    desc: "Every activity shows the official operator price — no inflated markups.",
+    num: "01",
+    tags: ["Lakes", "Nature"],
+    title: "15 Most Beautiful Lakes in Switzerland You Must Visit",
+    excerpt:
+      "From the unreal turquoise of Lake Brienz to the remote alpine tarn of Bachalpsee — every one worth the journey.",
+    author: "Jonas Weber",
+    date: "Mar 28",
+    readTime: "8 min",
+    href: "/stories/most-beautiful-lakes",
   },
   {
-    icon: <ShieldCheck className="h-5 w-5 text-blue-600" />,
-    label: "Editorially independent",
-    desc: "Partners can't pay to be featured. Rankings are based on quality, not commission.",
+    num: "02",
+    tags: ["Hidden Gems"],
+    title: "9 Swiss Villages You Should Visit Instead of the Famous Ones",
+    excerpt:
+      "Grindelwald gets the crowds. These nine villages get the real Switzerland — and far fewer tourists.",
+    author: "Emma Clarke",
+    date: "Apr 18",
+    readTime: "12 min",
+    href: "/stories/swiss-villages",
   },
   {
-    icon: <Sparkles className="h-5 w-5 text-amber-500" />,
-    label: "Written by travellers",
-    desc: "Guides come from people who've actually done the routes — not SEO factories.",
+    num: "03",
+    tags: ["Trains", "Scenic"],
+    title: "5 Most Scenic Train Rides — With Honest Prices",
+    excerpt:
+      "Which scenic trains are genuinely worth the supplement, and which routes can you ride for free on a Swiss Pass.",
+    author: "Tom Lindqvist",
+    date: "Feb 22",
+    readTime: "10 min",
+    href: "/stories/scenic-trains",
   },
 ];
 
+/* ──────────────────────────────────────────────────────────────
+   HERO
+─────────────────────────────────────────────────────────────── */
+function Hero() {
+  return (
+    <section
+      style={{
+        position: "relative",
+        height: "100svh",
+        minHeight: "580px",
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "flex-end",
+        overflow: "hidden",
+      }}
+    >
+      {/* Alpine photo */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          backgroundImage:
+            "url('https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1920&h=1080&fit=crop')",
+          backgroundPosition: "center 40%",
+          backgroundSize: "cover",
+          animation: "es-revealScale 2.2s cubic-bezier(0.16,1,0.3,1) both",
+        }}
+      />
+      {/* Gradient veil */}
+      <div
+        style={{
+          position: "absolute",
+          inset: 0,
+          background:
+            "linear-gradient(to bottom, rgba(12,11,9,0.15) 0%, rgba(12,11,9,0) 35%, rgba(12,11,9,0.6) 70%, rgba(12,11,9,1) 100%)",
+        }}
+      />
+      {/* Copy */}
+      <div style={{ position: "relative", zIndex: 2, padding: "0 6vw 8vh" }}>
+        <p
+          style={{
+            fontSize: "0.62rem",
+            letterSpacing: "0.3em",
+            textTransform: "uppercase",
+            color: G,
+            marginBottom: "1.4rem",
+            animation: "es-fadeUp 0.8s 0.3s both",
+          }}
+        >
+          The whole Switzerland experience
+        </p>
+        <h1
+          style={{
+            fontSize: "clamp(3rem, 9vw, 8rem)",
+            fontWeight: 800,
+            lineHeight: 0.92,
+            letterSpacing: "-0.03em",
+            color: "#ede8df",
+            animation: "es-fadeUp 1s 0.45s both",
+          }}
+        >
+          Explore
+          <br />
+          <em style={{ fontStyle: "italic", color: G }}>Switzerland</em>
+        </h1>
+        <p
+          style={{
+            marginTop: "2rem",
+            fontSize: "clamp(0.9rem, 1.5vw, 1.1rem)",
+            color: "#9a9187",
+            fontWeight: 300,
+            maxWidth: "420px",
+            lineHeight: 1.65,
+            animation: "es-fadeUp 0.9s 0.6s both",
+          }}
+        >
+          Every peak. Every hidden lake. Every story worth telling. Real
+          activities, honest prices.
+        </p>
+        <Link
+          href="#experiences"
+          style={{
+            display: "inline-flex",
+            alignItems: "center",
+            gap: "0.75rem",
+            marginTop: "2.5rem",
+            fontSize: "0.68rem",
+            letterSpacing: "0.15em",
+            textTransform: "uppercase",
+            color: "#ede8df",
+            textDecoration: "none",
+            borderBottom: "1px solid #504840",
+            paddingBottom: "3px",
+            animation: "es-fadeUp 0.9s 0.75s both",
+          }}
+          className="es-hero-cta"
+        >
+          Discover what&apos;s here{" "}
+          <span className="es-arr">→</span>
+        </Link>
+      </div>
+    </section>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────
+   INTRO
+─────────────────────────────────────────────────────────────── */
+function Intro() {
+  return (
+    <div
+      className="es-intro"
+      style={{
+        padding: "8rem 6vw",
+        display: "grid",
+        gridTemplateColumns: "1fr 2fr",
+        gap: "4vw",
+        alignItems: "start",
+      }}
+    >
+      <div
+        style={{
+          fontSize: "0.62rem",
+          letterSpacing: "0.25em",
+          textTransform: "uppercase",
+          color: "#9a9187",
+          paddingTop: "0.4rem",
+        }}
+      >
+        About this place
+      </div>
+      <p
+        style={{
+          fontSize: "clamp(1.05rem, 1.8vw, 1.35rem)",
+          fontWeight: 400,
+          lineHeight: 1.7,
+          color: "#b0a898",
+        }}
+      >
+        Switzerland is{" "}
+        <em style={{ fontStyle: "italic", color: "#ede8df" }}>41,285 km²</em> of
+        mountains, lakes, and villages — and most of it is still waiting to be
+        found. This is the guide that tells you what&apos;s actually worth it,
+        what it costs, and how to get there.
+      </p>
+    </div>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────
+   CATEGORY STRIPS
+─────────────────────────────────────────────────────────────── */
+function CategoryItem({
+  cat,
+  index,
+}: {
+  cat: (typeof CATEGORIES)[0];
+  index: number;
+}) {
+  const isEven = index % 2 === 1;
+  return (
+    <Link
+      href={cat.href}
+      className="es-cat-item"
+      data-even={isEven ? "true" : "false"}
+      style={{
+        display: "grid",
+        gridTemplateColumns: "1fr 1fr",
+        minHeight: "55vh",
+        borderTop: "1px solid #1e1b17",
+        textDecoration: "none",
+        color: "inherit",
+        overflow: "hidden",
+        direction: isEven ? "rtl" : "ltr",
+      }}
+    >
+      {/* Text */}
+      <div
+        className="es-cat-text"
+        style={{
+          direction: "ltr",
+          padding: "4rem 6vw",
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "space-between",
+          background: "#0c0b09",
+          transition: "background 0.4s",
+        }}
+      >
+        <div
+          style={{
+            fontSize: "0.75rem",
+            fontWeight: 300,
+            color: "#9a9187",
+            letterSpacing: "0.1em",
+          }}
+        >
+          {cat.num}
+        </div>
+        <div>
+          <div
+            className="es-cat-name"
+            style={{
+                fontSize: "clamp(2rem, 4.5vw, 3.5rem)",
+              fontWeight: 700,
+              lineHeight: 1.05,
+              color: "#ede8df",
+              transition: "color 0.3s",
+            }}
+          >
+            {cat.name}
+            <br />
+            <em style={{ fontStyle: "italic" }}>{cat.nameItalic}</em>
+          </div>
+        </div>
+        <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+          <p style={{ fontSize: "0.85rem", color: "#9a9187", lineHeight: 1.65, maxWidth: "360px" }}>
+            {cat.desc}
+          </p>
+          <span
+            className="es-cat-link"
+            style={{
+              fontSize: "0.65rem",
+              letterSpacing: "0.2em",
+              textTransform: "uppercase",
+              color: "#9a9187",
+              display: "flex",
+              alignItems: "center",
+              gap: "0.5rem",
+              transition: "color 0.2s",
+            }}
+          >
+            {cat.count}{" "}
+            <span className="es-arr" style={{ display: "inline-block", transition: "transform 0.25s" }}>→</span>
+          </span>
+        </div>
+      </div>
+
+      {/* Image */}
+      <div style={{ direction: "ltr", overflow: "hidden", position: "relative" }}>
+        <div
+          className="es-cat-img"
+          style={{
+            width: "100%",
+            height: "100%",
+            backgroundImage: `url(${cat.image})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            transition: "transform 0.8s cubic-bezier(0.16,1,0.3,1)",
+          }}
+        />
+        <div
+          style={{
+            position: "absolute",
+            bottom: "1.5rem",
+            right: "1.5rem",
+            fontSize: "0.6rem",
+            letterSpacing: "0.15em",
+            textTransform: "uppercase",
+            color: "#9a9187",
+            background: "rgba(12,11,9,0.65)",
+            padding: "0.35rem 0.8rem",
+            backdropFilter: "blur(6px)",
+          }}
+        >
+          {cat.count}
+        </div>
+      </div>
+    </Link>
+  );
+}
+
+function Categories() {
+  return (
+    <section id="experiences" style={{ paddingTop: "2rem" }}>
+      {CATEGORIES.map((cat, i) => (
+        <CategoryItem key={i} cat={cat} index={i} />
+      ))}
+      <div style={{ borderBottom: "1px solid #1e1b17" }} />
+    </section>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────
+   FEATURE SPOTLIGHT
+─────────────────────────────────────────────────────────────── */
+function Feature() {
+  const facts = [
+    { val: "3,454m", key: "Altitude" },
+    { val: "6–8h", key: "Full day" },
+    { val: "CHF 234", key: "From" },
+  ];
+  return (
+    <section
+      className="es-feature"
+      style={{
+        padding: "10rem 6vw",
+        display: "grid",
+        gridTemplateColumns: "1fr 1fr",
+        gap: "8vw",
+        alignItems: "center",
+      }}
+    >
+      <div style={{ position: "relative", aspectRatio: "3/4", overflow: "hidden" }}>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=1000&fit=crop"
+          alt="Jungfraujoch — Top of Europe"
+          className="es-feature-img"
+          style={{
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+            transition: "transform 0.8s cubic-bezier(0.16,1,0.3,1)",
+            display: "block",
+          }}
+        />
+        <div
+          style={{
+            position: "absolute",
+            top: "1.5rem",
+            left: "1.5rem",
+            fontSize: "0.58rem",
+            letterSpacing: "0.18em",
+            textTransform: "uppercase",
+            background: G,
+            color: "#0c0b09",
+            padding: "0.3rem 0.7rem",
+            fontWeight: 500,
+          }}
+        >
+          This Month&apos;s Highlight
+        </div>
+      </div>
+
+      <div>
+        <div style={{ fontSize: "0.62rem", letterSpacing: "0.25em", textTransform: "uppercase", color: G, marginBottom: "1.5rem" }}>
+          Mountain Experience
+        </div>
+        <h2
+          style={{
+            fontSize: "clamp(2rem, 3.5vw, 3rem)",
+            fontWeight: 700,
+            lineHeight: 1.1,
+            color: "#ede8df",
+            marginBottom: "0.5rem",
+          }}
+        >
+          Jungfraujoch
+        </h2>
+        <p style={{ fontStyle: "italic", fontSize: "1.1rem", color: "#9a9187", marginBottom: "2rem" }}>
+          Top of Europe
+        </p>
+        <p style={{ fontSize: "0.88rem", color: "#9a9187", lineHeight: 1.8, marginBottom: "2.5rem", maxWidth: "420px" }}>
+          A cogwheel train tunnels through the Eiger itself to reach the highest
+          railway station in Europe at 3,454m. An ice palace carved into a
+          glacier. The Aletsch — the Alps&apos; longest glacier — stretching to the
+          horizon. On clear days, you can see the Black Forest in Germany.
+        </p>
+
+        <div
+          style={{
+            display: "grid",
+            gridTemplateColumns: "repeat(3,1fr)",
+            gap: "1px",
+            background: "#1e1b17",
+            marginBottom: "2.5rem",
+          }}
+        >
+          {facts.map((f) => (
+            <div key={f.key} style={{ background: "#0c0b09", padding: "1.2rem 1rem" }}>
+              <div style={{ fontSize: "1.6rem", fontWeight: 700, color: "#ede8df" }}>
+                {f.val}
+              </div>
+              <div style={{ fontSize: "0.6rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#9a9187", marginTop: "0.15rem" }}>
+                {f.key}
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <Link
+          href="/activities?category=mountain"
+          className="es-feature-link"
+          style={{
+            display: "inline-flex",
+            alignItems: "center",
+            gap: "0.75rem",
+            fontSize: "0.68rem",
+            letterSpacing: "0.15em",
+            textTransform: "uppercase",
+            color: "#9a9187",
+            textDecoration: "none",
+            borderBottom: "1px solid #2d2920",
+            paddingBottom: "3px",
+            transition: "color 0.2s, border-color 0.2s",
+          }}
+        >
+          See all mountain experiences{" "}
+          <span className="es-arr" style={{ display: "inline-block", transition: "transform 0.2s" }}>→</span>
+        </Link>
+      </div>
+    </section>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────
+   ITINERARY TEASER
+─────────────────────────────────────────────────────────────── */
+function ItinTeaser() {
+  const route = ["Zurich", "Lucerne", "Interlaken", "Zermatt", "Geneva"];
+  return (
+    <div
+      id="itinerary"
+      className="es-itin"
+      style={{
+        borderTop: "1px solid #1e1b17",
+        borderBottom: "1px solid #1e1b17",
+        padding: "6rem 6vw",
+        display: "grid",
+        gridTemplateColumns: "auto 1fr auto",
+        gap: "4vw",
+        alignItems: "center",
+      }}
+    >
+      <div
+        className="es-itin-label"
+        style={{
+          fontSize: "0.62rem",
+          letterSpacing: "0.25em",
+          textTransform: "uppercase",
+          color: "#9a9187",
+          writingMode: "vertical-rl",
+          transform: "rotate(180deg)",
+        }}
+      >
+        Itinerary
+      </div>
+
+      <div>
+        <div style={{ fontSize: "0.62rem", letterSpacing: "0.25em", textTransform: "uppercase", color: G, marginBottom: "1rem" }}>
+          Curated Route · 7 Days
+        </div>
+        <h2
+          style={{
+            fontSize: "clamp(2rem, 3.5vw, 3rem)",
+            fontWeight: 700,
+            lineHeight: 1.1,
+            color: "#ede8df",
+            marginBottom: "0.75rem",
+          }}
+        >
+          Classic{" "}
+          <em style={{ fontStyle: "italic", color: "#9a9187" }}>Switzerland</em>
+        </h2>
+
+        <div style={{ display: "flex", alignItems: "center", flexWrap: "wrap", marginBottom: "1.5rem" }}>
+          {route.map((city, i) => (
+            <span key={city} style={{ display: "flex", alignItems: "center" }}>
+              <span style={{ fontSize: "0.75rem", letterSpacing: "0.08em", color: "#9a9187" }}>{city}</span>
+              {i < route.length - 1 && (
+                <span style={{ width: "20px", height: "1px", background: "#8a7e70", margin: "0 0.5rem" }} />
+              )}
+            </span>
+          ))}
+        </div>
+
+        <p style={{ fontSize: "0.85rem", color: "#9a9187", lineHeight: 1.7, maxWidth: "520px", marginBottom: "2rem" }}>
+          The definitive first-timer&apos;s route. Five cities, two iconic peaks, one
+          legendary train ride, and a medieval castle on a lake. Everything in
+          the right order, at the right pace. Budget to luxury: CHF 1,200 –
+          4,500 per person.
+        </p>
+
+        <Link
+          href="/itineraries"
+          className="es-itin-link"
+          style={{
+            display: "inline-flex",
+            alignItems: "center",
+            gap: "0.75rem",
+            fontSize: "0.68rem",
+            letterSpacing: "0.15em",
+            textTransform: "uppercase",
+            color: "#9a9187",
+            textDecoration: "none",
+            borderBottom: "1px solid #2d2920",
+            paddingBottom: "3px",
+            transition: "color 0.2s, border-color 0.2s",
+          }}
+        >
+          View full itinerary{" "}
+          <span className="es-arr" style={{ display: "inline-block", transition: "transform 0.2s" }}>→</span>
+        </Link>
+      </div>
+
+      <div className="es-itin-img-wrap" style={{ width: "280px", aspectRatio: "3/4", overflow: "hidden", flexShrink: 0 }}>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&h=800&fit=crop"
+          alt="Classic Switzerland route"
+          className="es-itin-img"
+          style={{
+            width: "100%",
+            height: "100%",
+            objectFit: "cover",
+            transition: "transform 0.8s cubic-bezier(0.16,1,0.3,1)",
+            display: "block",
+          }}
+        />
+      </div>
+    </div>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────
+   STORIES
+─────────────────────────────────────────────────────────────── */
+function Stories() {
+  return (
+    <section id="stories" style={{ padding: "8rem 6vw" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginBottom: "4rem" }}>
+        <h2
+          style={{
+            fontSize: "clamp(1.8rem, 3vw, 2.6rem)",
+            fontWeight: 700,
+            color: "#ede8df",
+          }}
+        >
+          Read before
+          <br />
+          <em style={{ fontStyle: "italic", color: "#9a9187" }}>you go</em>
+        </h2>
+        <Link
+          href="/stories"
+          className="es-stories-see"
+          style={{
+            fontSize: "0.65rem",
+            letterSpacing: "0.15em",
+            textTransform: "uppercase",
+            color: "#9a9187",
+            textDecoration: "none",
+            borderBottom: "1px solid #1e1b17",
+            paddingBottom: "2px",
+            transition: "color 0.2s, border-color 0.2s",
+          }}
+        >
+          All stories →
+        </Link>
+      </div>
+
+      <div
+        className="es-story-row"
+        style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "2px" }}
+      >
+        {STORIES.map((s) => (
+          <Link
+            key={s.num}
+            href={s.href}
+            className="es-story-item"
+            style={{
+              padding: "2rem 2rem 2rem 0",
+              borderRight: "1px solid #1e1b17",
+              textDecoration: "none",
+              color: "inherit",
+              display: "block",
+              transition: "opacity 0.2s",
+            }}
+          >
+            <div
+              style={{
+                    fontSize: "3.5rem",
+                fontWeight: 300,
+                color: "#5a5040",
+                lineHeight: 1,
+                marginBottom: "1.5rem",
+              }}
+            >
+              {s.num}
+            </div>
+            <div style={{ display: "flex", gap: "0.5rem", marginBottom: "0.75rem" }}>
+              {s.tags.map((t) => (
+                <span key={t} style={{ fontSize: "0.58rem", letterSpacing: "0.15em", textTransform: "uppercase", color: G }}>
+                  {t}
+                </span>
+              ))}
+            </div>
+            <h3
+              style={{
+                    fontSize: "1.3rem",
+                fontWeight: 400,
+                lineHeight: 1.3,
+                color: "#ede8df",
+                marginBottom: "0.75rem",
+              }}
+            >
+              {s.title}
+            </h3>
+            <p style={{ fontSize: "0.78rem", color: "#9a9187", lineHeight: 1.65, marginBottom: "1.25rem" }}>
+              {s.excerpt}
+            </p>
+            <div style={{ fontSize: "0.65rem", letterSpacing: "0.08em", color: "#9a9187", display: "flex", gap: "0.75rem" }}>
+              <span>{s.author}</span>
+              <span>·</span>
+              <span>{s.date}</span>
+              <span>·</span>
+              <span>{s.readTime} read</span>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────
+   PAGE ROOT
+─────────────────────────────────────────────────────────────── */
 export default function HomePage() {
-  const season = getCurrentSeason();
-  const seasonLabel = getSeasonLabel(season);
-  const featured = getFeaturedActivities().slice(0, 4);
-  const inSeason = activities
-    .filter((a) => a.seasons.includes(season))
-    .slice(0, 4);
-  const latestStory = blogPosts[0];
-
   return (
     <>
-      {/* ── 1. Editorial hero ─────────────────────────────────────────── */}
-      <section className="relative min-h-[88vh] overflow-hidden bg-stone-950 text-white">
-        <Image
-          src="https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=2000&h=1200&fit=crop&q=80"
-          alt="Alpine landscape"
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover opacity-70"
-        />
-        <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-stone-950/50 via-stone-950/20 to-stone-950/80" />
+      <style>{`
+        /* ── Keyframes ── */
+        @keyframes es-fadeUp {
+          from { opacity: 0; transform: translateY(24px); }
+          to   { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes es-revealScale {
+          from { transform: scale(1.1); }
+          to   { transform: scale(1); }
+        }
 
-        <div className="relative mx-auto flex min-h-[88vh] max-w-5xl flex-col justify-end px-6 py-16">
-          <ScrollReveal>
-            <div className="text-xs uppercase tracking-[0.3em] text-white/70 mb-5 flex items-center gap-3">
-              <span className="h-px w-10 bg-white/60" />
-              {seasonLabel} in Switzerland
-            </div>
-            <h1 className="font-serif text-5xl md:text-7xl leading-[1.05] max-w-4xl">
-              <span className="italic">Switzerland,</span> made simple —
-              and worth the money.
-            </h1>
-            <p className="mt-6 max-w-2xl text-lg text-white/80 leading-relaxed">
-              A quiet guide to the best experiences in the Alps, without the
-              overwhelm. Every route, pass, and price — in one place.
-            </p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <Button asChild size="lg" variant="alpine">
-                <Link href="/activities">
-                  Explore activities <ArrowRight className="ml-1 h-4 w-4" />
-                </Link>
-              </Button>
-              <Button
-                asChild
-                size="lg"
-                variant="outline"
-                className="border-white/30 bg-white/10 text-white backdrop-blur hover:bg-white/20"
-              >
-                <Link href="/itineraries">Ready-made itineraries</Link>
-              </Button>
-            </div>
-          </ScrollReveal>
-        </div>
-      </section>
+        /* ── Wrapper ── */
+        .es-home {
+          background: #0c0b09;
+          color: #ede8df;
+          font-family: 'DM Sans', 'Geist Sans', sans-serif;
+          font-weight: 300;
+          line-height: 1.6;
+          overflow-x: hidden;
+        }
+        .es-home ::selection { background: oklch(74% 0.13 63deg); color: #0c0b09; }
 
-      {/* ── 2. Three doors ─────────────────────────────────────────────── */}
-      <section className="bg-white py-24">
-        <div className="mx-auto max-w-6xl px-6">
-          <ScrollReveal>
-            <div className="mb-12 max-w-2xl">
-              <div className="text-xs font-semibold uppercase tracking-wider text-gray-500 mb-3">
-                Three ways in
-              </div>
-              <h2 className="font-serif text-3xl md:text-4xl text-gray-900 leading-tight">
-                Whatever you&apos;re here for, there&apos;s a clean path to it.
-              </h2>
-            </div>
-          </ScrollReveal>
+        /* ── Hero CTA ── */
+        .es-hero-cta:hover { color: oklch(74% 0.13 63deg) !important; border-color: oklch(74% 0.13 63deg) !important; }
+        .es-hero-cta:hover .es-arr { transform: translateX(4px) !important; }
 
-          <div className="grid gap-6 md:grid-cols-3">
-            {DOORS.map((d, idx) => (
-              <ScrollReveal key={d.href} delay={idx * 100}>
-                <Link
-                  href={d.href}
-                  className="group block h-full rounded-2xl border border-gray-200 bg-white p-8 transition-all hover:border-gray-900 hover:shadow-lg"
-                >
-                  <div className="inline-flex items-center justify-center rounded-xl bg-gray-900 p-3 text-white transition group-hover:-rotate-3">
-                    {d.icon}
-                  </div>
-                  <h3 className="mt-5 font-serif text-2xl text-gray-900">
-                    {d.label}
-                  </h3>
-                  <p className="mt-2 text-gray-600 leading-relaxed">{d.line}</p>
-                  <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-medium text-red-700 group-hover:gap-2.5 transition-all">
-                    Open <ArrowRight className="h-3.5 w-3.5" />
-                  </span>
-                </Link>
-              </ScrollReveal>
-            ))}
-          </div>
-        </div>
-      </section>
+        /* ── Divider ── */
+        .es-divider { height: 1px; background: #1e1b17; margin: 0 6vw; }
 
-      {/* ── 3. Featured story ──────────────────────────────────────────── */}
-      {latestStory && (
-        <section className="relative bg-stone-50 py-24">
-          <div className="mx-auto grid max-w-6xl gap-12 px-6 md:grid-cols-[1.1fr_1fr] md:items-center">
-            <ScrollReveal direction="left">
-              <div className="relative aspect-[4/5] overflow-hidden rounded-2xl">
-                <Image
-                  src="https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=1200&h=1600&fit=crop"
-                  alt="Swiss story"
-                  fill
-                  sizes="(max-width: 768px) 100vw, 50vw"
-                  className="object-cover transition-transform duration-700 hover:scale-105"
-                />
-              </div>
-            </ScrollReveal>
-            <ScrollReveal direction="right">
-              <div className="text-xs uppercase tracking-wider text-gray-500 mb-3">
-                The featured story
-              </div>
-              <h2 className="font-serif text-4xl md:text-5xl text-gray-900 leading-tight">
-                {latestStory.title}
-              </h2>
-              <p className="mt-5 text-lg text-gray-600 leading-relaxed">
-                {latestStory.excerpt}
-              </p>
-              <div className="mt-6 flex items-center gap-3 text-sm text-gray-500">
-                <span>{latestStory.author}</span>
-                <span>&middot;</span>
-                <span>
-                  {new Date(latestStory.date).toLocaleDateString("en-US", {
-                    year: "numeric",
-                    month: "short",
-                    day: "numeric",
-                  })}
-                </span>
-              </div>
-              <Button asChild className="mt-8" variant="alpine" size="lg">
-                <Link href={`/stories/${latestStory.slug}`}>
-                  Read the full story <ArrowRight className="ml-1 h-4 w-4" />
-                </Link>
-              </Button>
-            </ScrollReveal>
-          </div>
-        </section>
-      )}
+        /* ── Intro ── */
+        @media (max-width: 700px) {
+          .es-intro { grid-template-columns: 1fr !important; gap: 1.5rem !important; padding: 5rem 6vw !important; }
+        }
 
-      {/* ── 4. In-season picks ─────────────────────────────────────────── */}
-      <section className="bg-white py-24">
-        <div className="mx-auto max-w-6xl px-6">
-          <ScrollReveal>
-            <div className="mb-10 flex items-end justify-between">
-              <div>
-                <div className="text-xs font-semibold uppercase tracking-wider text-gray-500 mb-3">
-                  Good right now &middot; {seasonLabel}
-                </div>
-                <h2 className="font-serif text-3xl md:text-4xl text-gray-900">
-                  At their best this {seasonLabel.toLowerCase()}.
-                </h2>
-              </div>
-              <Link
-                href="/activities"
-                className="hidden items-center gap-1 text-sm font-medium text-red-700 hover:gap-2 transition-all md:inline-flex"
-              >
-                All activities <ArrowRight className="h-3.5 w-3.5" />
-              </Link>
-            </div>
-          </ScrollReveal>
+        /* ── Category items ── */
+        .es-cat-item:hover .es-cat-text { background: #131210 !important; }
+        .es-cat-item:hover .es-cat-name { color: oklch(74% 0.13 63deg) !important; }
+        .es-cat-item:hover .es-cat-link { color: oklch(74% 0.13 63deg) !important; }
+        .es-cat-item:hover .es-cat-link .es-arr { transform: translateX(5px) !important; }
+        .es-cat-item:hover .es-cat-img { transform: scale(1.04) !important; }
+        @media (max-width: 800px) {
+          .es-cat-item { grid-template-columns: 1fr !important; direction: ltr !important; min-height: auto !important; }
+          .es-cat-item > div:last-child { height: 45vw; min-height: 200px; }
+        }
 
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
-            {inSeason.map((a, idx) => (
-              <ScrollReveal key={a.id} delay={idx * 75}>
-                <ActivityCard activity={a} />
-              </ScrollReveal>
-            ))}
-          </div>
+        /* ── Feature ── */
+        .es-feature:hover .es-feature-img { transform: scale(1.04); }
+        .es-feature-link:hover { color: oklch(74% 0.13 63deg) !important; border-color: oklch(74% 0.13 63deg) !important; }
+        .es-feature-link:hover .es-arr { transform: translateX(4px) !important; }
+        @media (max-width: 800px) {
+          .es-feature { grid-template-columns: 1fr !important; padding: 6rem 6vw !important; gap: 3rem !important; }
+        }
 
-          {featured.length > 0 && (
-            <div className="mt-20">
-              <ScrollReveal>
-                <div className="mb-8">
-                  <div className="text-xs font-semibold uppercase tracking-wider text-gray-500 mb-3">
-                    Editor&apos;s picks
-                  </div>
-                  <h2 className="font-serif text-3xl md:text-4xl text-gray-900">
-                    A handful of things we love.
-                  </h2>
-                </div>
-              </ScrollReveal>
-              <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
-                {featured.map((a, idx) => (
-                  <ScrollReveal key={a.id} delay={idx * 75}>
-                    <ActivityCard activity={a} />
-                  </ScrollReveal>
-                ))}
-              </div>
-            </div>
-          )}
-        </div>
-      </section>
+        /* ── Itinerary ── */
+        .es-itin:hover .es-itin-img { transform: scale(1.04); }
+        .es-itin-link:hover { color: oklch(74% 0.13 63deg) !important; border-color: oklch(74% 0.13 63deg) !important; }
+        .es-itin-link:hover .es-arr { transform: translateX(4px) !important; }
+        @media (max-width: 900px) {
+          .es-itin { grid-template-columns: 1fr !important; gap: 2rem !important; }
+          .es-itin-label { writing-mode: horizontal-tb !important; transform: none !important; }
+          .es-itin-img-wrap { width: 100% !important; aspect-ratio: 16/9 !important; }
+        }
 
-      {/* ── 5. Trust + newsletter ──────────────────────────────────────── */}
-      <section className="bg-stone-950 py-24 text-white">
-        <div className="mx-auto max-w-6xl px-6">
-          <div className="grid gap-16 md:grid-cols-[1.2fr_1fr]">
-            <ScrollReveal>
-              <div className="text-xs uppercase tracking-wider text-white/60 mb-4">
-                Why trust us
-              </div>
-              <h2 className="font-serif text-4xl text-white leading-tight max-w-xl">
-                <span className="italic">No hype.</span> No hidden fees. No
-                affiliate-padded rankings.
-              </h2>
-              <div className="mt-10 grid gap-6 sm:grid-cols-3">
-                {TRUST.map((t) => (
-                  <div key={t.label}>
-                    <div className="inline-flex rounded-lg bg-white/10 p-2 mb-3">
-                      {t.icon}
-                    </div>
-                    <div className="font-medium text-white">{t.label}</div>
-                    <p className="mt-1.5 text-sm text-white/70 leading-relaxed">
-                      {t.desc}
-                    </p>
-                  </div>
-                ))}
-              </div>
-              <div className="mt-10 flex items-center gap-4 text-sm text-white/70">
-                <Quote className="h-5 w-5 text-white/40 shrink-0" />
-                <p className="italic">
-                  &quot;The clearest guide to the Alps I&apos;ve used. The pass
-                  maths alone saved us CHF 180.&quot;
-                  <span className="ml-2 not-italic text-white/50">
-                    — Maya, early reader
-                  </span>
-                </p>
-              </div>
-            </ScrollReveal>
+        /* ── Stories ── */
+        .es-stories-see:hover { color: #9a9187 !important; border-color: #504840 !important; }
+        .es-story-item:last-child { border-right: none !important; padding-right: 0 !important; }
+        .es-story-item:hover { opacity: 0.7; }
+        @media (max-width: 800px) {
+          .es-story-row { grid-template-columns: 1fr !important; }
+          .es-story-item { border-right: none !important; border-bottom: 1px solid #1e1b17 !important; padding: 2rem 0 !important; }
+          .es-story-item:last-child { border-bottom: none !important; }
+        }
+      `}</style>
 
-            <ScrollReveal direction="right">
-              <div className="rounded-2xl bg-white/5 p-8 ring-1 ring-white/10">
-                <NewsletterSignup />
-              </div>
-              <div className="mt-6 flex items-center gap-2 text-xs text-white/50">
-                <Star className="h-3.5 w-3.5 fill-amber-400 text-amber-400" />
-                One email a month. Curated, never spammy.
-              </div>
-            </ScrollReveal>
-          </div>
-        </div>
-      </section>
-
-      {/* ── Quiet footer nudge ─────────────────────────────────────────── */}
-      <section className="border-t border-gray-100 bg-white py-14">
-        <div className="mx-auto max-w-4xl px-6 text-center">
-          <p className="text-sm uppercase tracking-wider text-gray-500 mb-3">
-            Still exploring?
-          </p>
-          <p className="font-serif text-2xl text-gray-900 mb-6">
-            Try the <Link href="/surprise" className="text-red-700 underline-offset-4 hover:underline">surprise</Link> button.
-            Or read our <Link href="/partners" className="text-red-700 underline-offset-4 hover:underline">transparency notes</Link>.
-          </p>
-          <div className="inline-flex flex-wrap justify-center gap-2">
-            <Badge variant="secondary">No ads</Badge>
-            <Badge variant="secondary">No paid rankings</Badge>
-            <Badge variant="secondary">Human-written</Badge>
-          </div>
-        </div>
-      </section>
+      <div className="es-home">
+        <Hero />
+        <div className="es-divider" />
+        <Intro />
+        <Categories />
+        <Feature />
+        <ItinTeaser />
+        <Stories />
+      </div>
     </>
   );
 }

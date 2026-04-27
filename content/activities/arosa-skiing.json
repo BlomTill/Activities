@@ -1,0 +1,80 @@
+{
+  "id": "78",
+  "slug": "arosa-skiing",
+  "name": "Arosa Skiing",
+  "description": "Charming alpine resort village connected to Lenzerheide with relaxed atmosphere and bear sanctuary.",
+  "longDescription": "Arosa sits at 1,800m in a sunny bowl at the end of the Schanfigg valley. Connected to Lenzerheide by the Urdenbahn, it offers a relaxed atmosphere, excellent snow reliability, and the Arosa Bear Sanctuary where rescued bears roam freely.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Arosa",
+    "coordinates": {
+      "lat": 46.7834,
+      "lng": 9.6797
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Arosa Bergbahnen",
+      "pricing": {
+        "child": 35,
+        "student": 55,
+        "adult": 72,
+        "senior": 61
+      },
+      "bookingUrl": "https://www.arosalenzerheide.swiss",
+      "rating": 4.5
+    },
+    {
+      "name": "ABC Schneesportschule Arosa",
+      "pricing": {
+        "child": 80,
+        "student": 110,
+        "adult": 140,
+        "senior": 125
+      },
+      "bookingUrl": "https://www.abcskischool.ch",
+      "rating": 4.5,
+      "description": "Half-day group lesson with equipment"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1548777123-e216912df7d8?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Altitude",
+      "value": "1,800m village"
+    },
+    {
+      "label": "Slopes",
+      "value": "155 km shared"
+    },
+    {
+      "label": "Bear Sanctuary",
+      "value": "Free to visit"
+    },
+    {
+      "label": "Snow",
+      "value": "Reliable"
+    },
+    {
+      "label": "Vibe",
+      "value": "Relaxed & charming"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "winter",
+    "arosa",
+    "relaxed",
+    "bears"
+  ],
+  "featured": false
+}

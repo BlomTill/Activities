@@ -1,10 +1,10 @@
 import { MetadataRoute } from "next";
-import { activities } from "@/data/activities";
-import { blogPosts } from "@/data/blog-posts";
-import { itineraries } from "@/data/itineraries";
+import { activities } from "@/lib/content/selectors";
+import { blogPosts } from "@/lib/content/selectors";
+import { itineraries } from "@/lib/content/selectors";
 import { getDestinationSummaries } from "@/lib/destinations";
 
-const BASE_URL = "https://swissactivity.ch";
+const BASE_URL = "https://exploreswitzerland.ch";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const activityPages = activities.map((activity) => ({
@@ -47,6 +47,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/surprise`, priority: 0.6, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/compare`, priority: 0.5, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/about`, priority: 0.4, changeFrequency: "monthly" as const },
+    { url: `${BASE_URL}/partners`, priority: 0.4, changeFrequency: "monthly" as const },
+    { url: `${BASE_URL}/privacy`, priority: 0.3, changeFrequency: "monthly" as const },
   ].map((page) => ({ ...page, lastModified: new Date() }));
 
   return [...staticPages, ...activityPages, ...itineraryPages, ...destinationPages, ...blogPages];

@@ -1,10 +1,13 @@
 import { Activity, getAverageRating } from "@/lib/types";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
+import { resolveActivityImage } from "@/lib/images";
 
 export function ActivityJsonLd({ activity }: { activity: Activity }) {
   const minPrice = Math.min(...activity.providers.flatMap((p) => Object.values(p.pricing)));
   const maxPrice = Math.max(...activity.providers.flatMap((p) => Object.values(p.pricing)));
   const avgRating = getAverageRating(activity);
+  // Use the same resolver that the UI uses — Google sees the best available photo
+  const resolvedImage = resolveActivityImage(activity);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -12,7 +15,7 @@ export function ActivityJsonLd({ activity }: { activity: Activity }) {
     name: activity.name,
     description: activity.description,
     url: `${SITE_URL}/activities/${activity.slug}`,
-    image: activity.imageUrl,
+    image: resolvedImage.src,
     address: {
       "@type": "PostalAddress",
       addressLocality: activity.location.city,

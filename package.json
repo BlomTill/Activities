@@ -7,8 +7,13 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "content:build": "node scripts/content-build.mjs",
+    "content:check": "node scripts/content-check.mjs",
+    "perf:check": "node scripts/perf-budget-check.mjs",
+    "check:release": "npm run content:build && npm run content:check && npm run lint && npx tsc --noEmit -p tsconfig.json && npm run build && npm run perf:check",
     "fetch-images": "node scripts/fetch-activity-images.mjs",
-    "fetch-images:force": "node scripts/fetch-activity-images.mjs --force"
+    "fetch-images:force": "node scripts/fetch-activity-images.mjs --force",
+    "fetch-unsplash": "node scripts/fetch-unsplash-images.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",
@@ -27,7 +32,8 @@
     "shadcn": "^4.1.2",
     "tailwind-merge": "^3.5.0",
     "tailwindcss-animate": "^1.0.7",
-    "tw-animate-css": "^1.4.0"
+    "tw-animate-css": "^1.4.0",
+    "zod": "^4.1.12"
   },
   "devDependencies": {
     "@types/node": "^20",

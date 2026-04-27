@@ -1,0 +1,89 @@
+{
+  "id": "17",
+  "slug": "cern-visit",
+  "name": "CERN Science Gateway",
+  "description": "Visit the world's largest particle physics laboratory near Geneva.",
+  "longDescription": "Visit the Science Gateway at CERN, designed by Renzo Piano. Explore interactive exhibitions about the universe, particle physics, and the Large Hadron Collider. Book a free guided tour to see actual CERN facilities and learn about groundbreaking discoveries like the Higgs boson.",
+  "category": "culture",
+  "subcategory": "Science",
+  "location": {
+    "region": "Geneva Region",
+    "canton": "Geneva",
+    "city": "Geneva",
+    "coordinates": {
+      "lat": 46.233,
+      "lng": 6.0557
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "CERN (Science Gateway)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://visit.cern",
+      "rating": 4.7,
+      "description": "Free admission to all permanent exhibitions"
+    },
+    {
+      "name": "CERN (Guided Tour)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://visit.cern/tours",
+      "rating": 4.9,
+      "description": "Free guided tour of CERN facilities — must book in advance"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1635070041409-e63e783fb069?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Built",
+      "value": "Renzo Piano"
+    },
+    {
+      "label": "LHC",
+      "value": "27 km ring"
+    },
+    {
+      "label": "Higgs Boson",
+      "value": "Discovered 2012"
+    },
+    {
+      "label": "Under 18",
+      "value": "Free"
+    },
+    {
+      "label": "Guided Tour",
+      "value": "Free (book ahead)"
+    }
+  ],
+  "tags": [
+    "science",
+    "physics",
+    "free tour",
+    "geneva",
+    "educational"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Admission",
+    "validUntil": "2026-12-31"
+  }
+}

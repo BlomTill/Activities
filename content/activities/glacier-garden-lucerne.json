@@ -1,0 +1,71 @@
+{
+  "id": "113",
+  "slug": "glacier-garden-lucerne",
+  "name": "Glacier Garden Lucerne",
+  "description": "Geological museum with 20-million-year-old fossils, glacier potholes, and a mirror maze.",
+  "longDescription": "The Glacier Garden is Lucerne's unique geological attraction featuring glacial potholes from the Ice Age, 20-million-year-old palm leaf fossils, relief models of the Alps, and the famous 90-mirror Alhambra maze. A fascinating journey through Earth's geological history.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Lucerne",
+    "city": "Lucerne",
+    "coordinates": {
+      "lat": 47.0585,
+      "lng": 8.3119
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Glacier Garden",
+      "pricing": {
+        "child": 9,
+        "student": 14,
+        "adult": 19,
+        "senior": 16
+      },
+      "bookingUrl": "https://www.gletschergarten.ch",
+      "rating": 4.3
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1550236520-7050f3582da0?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Potholes",
+      "value": "Ice Age glacial"
+    },
+    {
+      "label": "Fossils",
+      "value": "20 million years old"
+    },
+    {
+      "label": "Mirror Maze",
+      "value": "90 mirrors"
+    },
+    {
+      "label": "Relief Model",
+      "value": "Swiss Alps"
+    },
+    {
+      "label": "Founded",
+      "value": "1872"
+    }
+  ],
+  "tags": [
+    "geology",
+    "museum",
+    "fossils",
+    "lucerne",
+    "family"
+  ],
+  "featured": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "68",
+  "slug": "bachalpsee-hike",
+  "name": "Bachalpsee Lake Hike",
+  "description": "Instagram-famous alpine lake hike from First with mirror-perfect Eiger reflections.",
+  "longDescription": "The hike from First to Bachalpsee is one of the most photographed trails in Switzerland. The crystal-clear mountain lake perfectly mirrors the Eiger, Schreckhorn, and Wetterhorn on calm days.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Grindelwald",
+    "coordinates": {
+      "lat": 46.67,
+      "lng": 8.03
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Self-guided (Gondola to First)",
+      "pricing": {
+        "child": 20,
+        "student": 34,
+        "adult": 44,
+        "senior": 40
+      },
+      "bookingUrl": "https://www.jungfrau.ch",
+      "rating": 4.9,
+      "description": "Gondola to First + free hiking trail to lake"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Trail",
+      "value": "~3 km one-way"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Easy"
+    },
+    {
+      "label": "Reflection",
+      "value": "Eiger, Wetterhorn"
+    },
+    {
+      "label": "Best Time",
+      "value": "Morning calm"
+    },
+    {
+      "label": "Instagram",
+      "value": "Top spot"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "lake",
+    "reflection",
+    "instagram",
+    "grindelwald"
+  ],
+  "featured": false
+}

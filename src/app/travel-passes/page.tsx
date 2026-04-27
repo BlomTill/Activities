@@ -7,6 +7,8 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import { AffiliateLink } from "@/components/affiliate-link";
+import { AffiliateDisclosure } from "@/components/affiliate-disclosure";
 
 interface TravelPass {
   id: string;
@@ -340,12 +342,15 @@ function TravelPassesContent() {
                           <div className="text-xs text-green-600 font-medium">Kids free (6-15)</div>
                         )}
                       </div>
-                      <a href={pass.affiliateUrl} target="_blank" rel="noopener noreferrer">
+                      <AffiliateLink href={pass.affiliateUrl} slot="other" providerName={pass.name}>
                         <Button className="bg-red-600 hover:bg-red-700 gap-1">
                           Buy <ExternalLink className="h-3.5 w-3.5" />
                         </Button>
-                      </a>
+                      </AffiliateLink>
                     </div>
+                  </div>
+                  <div className="mt-3">
+                    <AffiliateDisclosure />
                   </div>
 
                   {/* Expandable details */}

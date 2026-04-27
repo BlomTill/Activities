@@ -1,0 +1,81 @@
+{
+  "id": "86",
+  "slug": "kandersteg-cross-country",
+  "name": "Kandersteg Cross-Country Skiing",
+  "description": "50km of groomed cross-country trails through the stunning Kandertal valley.",
+  "longDescription": "Kandersteg offers 50km of superbly groomed cross-country trails for both classic and skating technique. The trails wind through the scenic Kandertal valley surrounded by dramatic peaks and frozen waterfalls. The Nordic Arena is a certified biathlon centre.",
+  "category": "outdoor",
+  "subcategory": "Cross-Country Skiing",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Kandersteg",
+    "coordinates": {
+      "lat": 46.4953,
+      "lng": 7.6707
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Nordic Arena Kandersteg",
+      "pricing": {
+        "child": 5,
+        "student": 10,
+        "adult": 15,
+        "senior": 12
+      },
+      "bookingUrl": "https://www.kandersteg.ch",
+      "rating": 4.6,
+      "description": "Day pass for trail network"
+    },
+    {
+      "name": "Kandersteg Ski Rental",
+      "pricing": {
+        "child": 18,
+        "student": 28,
+        "adult": 35,
+        "senior": 30
+      },
+      "bookingUrl": "https://www.kandersteg.ch",
+      "rating": 4.4,
+      "description": "Full equipment rental for the day"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Trails",
+      "value": "50 km"
+    },
+    {
+      "label": "Technique",
+      "value": "Classic + skating"
+    },
+    {
+      "label": "Biathlon",
+      "value": "Nordic Arena"
+    },
+    {
+      "label": "Altitude",
+      "value": "1,200m"
+    },
+    {
+      "label": "Scenery",
+      "value": "Kandertal valley"
+    }
+  ],
+  "tags": [
+    "cross-country",
+    "skiing",
+    "nordic",
+    "winter",
+    "kandersteg"
+  ],
+  "featured": false
+}

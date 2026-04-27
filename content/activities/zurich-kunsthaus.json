@@ -1,0 +1,84 @@
+{
+  "id": "13",
+  "slug": "zurich-kunsthaus",
+  "name": "Kunsthaus Zürich",
+  "description": "One of Switzerland's premier art museums with works from the Middle Ages to contemporary art.",
+  "longDescription": "The Kunsthaus Zürich is one of the most important art museums in Switzerland and Europe. The collection spans from the Middle Ages to contemporary art, featuring works by Monet, Picasso, Chagall, Giacometti, and the world's largest Munch collection outside Norway. The new extension by David Chipperfield doubled the exhibition space in 2021.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3703,
+      "lng": 8.5484
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Kunsthaus Zürich",
+      "pricing": {
+        "child": 0,
+        "student": 15,
+        "adult": 23,
+        "senior": 18
+      },
+      "bookingUrl": "https://www.kunsthaus.ch",
+      "rating": 4.5,
+      "description": "Standard entry — free for under 17"
+    },
+    {
+      "name": "Zürich Card",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.zuerich.com/zurichcard",
+      "rating": 4.3,
+      "description": "Free entry included with ZürichCARD (CHF 27/24h)"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Collection",
+      "value": "Medieval-Modern"
+    },
+    {
+      "label": "Extension",
+      "value": "2021 Chipperfield"
+    },
+    {
+      "label": "Munch Works",
+      "value": "Largest outside NO"
+    },
+    {
+      "label": "Under 17",
+      "value": "Free"
+    },
+    {
+      "label": "Area",
+      "value": "Doubled in 2021"
+    }
+  ],
+  "tags": [
+    "art",
+    "museum",
+    "zurich",
+    "culture",
+    "indoor"
+  ],
+  "featured": false
+}

@@ -1,28 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 0 0% 3.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 0 0% 3.9%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 0 0% 3.9%;
-    --primary: 0 0% 9%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 0 0% 96.1%;
-    --secondary-foreground: 0 0% 9%;
-    --muted: 0 0% 96.1%;
-    --muted-foreground: 0 0% 45.1%;
-    --accent: 0 0% 96.1%;
-    --accent-foreground: 0 0% 9%;
+    /* Dark editorial theme — matches homepage palette */
+    --background: 30 15% 4%;        /* #0c0b09 */
+    --foreground: 36 30% 89%;       /* #ede8df warm cream */
+    --card: 30 10% 7%;              /* #131210 */
+    --card-foreground: 36 30% 89%;
+    --popover: 30 10% 7%;
+    --popover-foreground: 36 30% 89%;
+    --primary: 36 30% 83%;          /* cream — primary buttons light on dark */
+    --primary-foreground: 30 15% 4%;
+    --secondary: 30 10% 14%;        /* #1e1b17-ish surface */
+    --secondary-foreground: 36 30% 89%;
+    --muted: 30 10% 14%;
+    --muted-foreground: 30 8% 58%;  /* #9a9187-ish readable mid-tone */
+    --accent: 30 10% 14%;
+    --accent-foreground: 36 30% 89%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 89.8%;
-    --input: 0 0% 89.8%;
-    --ring: 0 0% 3.9%;
+    --border: 30 10% 20%;           /* #2a261f visible border on dark */
+    --input: 30 10% 20%;
+    --ring: 42 70% 52%;             /* gold ring */
     --radius: 0.5rem;
 
     /* Swiss alpine palette */
@@ -70,10 +73,7 @@
     scroll-behavior: smooth;
   }
   body {
-    background:
-      radial-gradient(circle at 10% -10%, rgba(222, 234, 247, 0.55), transparent 38%),
-      radial-gradient(circle at 90% 0%, rgba(255, 236, 214, 0.6), transparent 42%),
-      linear-gradient(180deg, #fbfcff 0%, #ffffff 32%, #f4f7fb 100%);
+    background: #0c0b09;
     @apply text-foreground;
   }
   ::selection {
@@ -184,7 +184,7 @@
 
   /* Glass & surfaces ---------------------------------------------------- */
   .surface-panel {
-    @apply rounded-[28px] border border-white/70 bg-white/80 shadow-[0_20px_60px_-28px_rgba(15,23,42,0.28)] backdrop-blur-xl;
+    @apply rounded-[28px] border border-[#2a261f] bg-[#131210] shadow-[0_20px_60px_-28px_rgba(0,0,0,0.5)];
   }
   .surface-frost {
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(255, 255, 255, 0.55));
@@ -568,6 +568,224 @@
   animation: none;
 }
 
+/* ────────────────────────────────────────────────────────────
+   EXTENDED ANIMATIONS — added for lively design pass
+   ──────────────────────────────────────────────────────────── */
+@layer utilities {
+  /* Ken Burns on hero (not scope-restricted — always plays) */
+  .animate-ken-burns-hero { animation: ken-burns 22s ease-in-out infinite alternate; }
+
+  /* Scroll indicator bounce */
+  .animate-bounce-scroll { animation: bounce-scroll 2s ease-in-out infinite; }
+
+  /* CTA pulse ring */
+  .animate-pulse-ring { animation: pulse-ring 2.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite; }
+
+  /* Stats appear on scroll */
+  .animate-stat-appear { animation: stat-appear 0.55s cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+  /* Gradient border shimmer */
+  .animate-gradient-border {
+    background-size: 300% 300%;
+    animation: gradient-shift 5s ease infinite;
+  }
+
+  /* Soft glow pulse for highlighted elements */
+  .animate-glow-pulse { animation: glow-pulse 3s ease-in-out infinite; }
+
+  /* Slide-in for cards from below */
+  .animate-slide-up { animation: slide-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+  /* Number count-up visual (opacity + slide) */
+  .animate-count { animation: stat-appear 0.7s cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+  /* Underline draw animation */
+  .underline-draw {
+    position: relative;
+    display: inline-block;
+  }
+  .underline-draw::after {
+    content: "";
+    position: absolute;
+    left: 0; bottom: -3px;
+    height: 3px; width: 100%;
+    background: linear-gradient(90deg, hsl(var(--swiss-red)), hsl(var(--swiss-gold)));
+    transform-origin: left;
+    transform: scaleX(0);
+    transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .underline-draw.is-visible::after,
+  .group:hover .underline-draw::after { transform: scaleX(1); }
+
+  /* Card shimmer border on hover */
+  .card-glow {
+    position: relative;
+    transition: box-shadow 0.4s cubic-bezier(0.22, 1, 0.36, 1), transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .card-glow:hover {
+    transform: translateY(-5px);
+    box-shadow:
+      0 20px 40px -16px rgba(15, 23, 42, 0.22),
+      0 0 0 1px rgba(220, 38, 38, 0.06);
+  }
+
+  /* Glowing stat number */
+  .stat-number {
+    font-variant-numeric: tabular-nums;
+    text-shadow: 0 0 30px rgba(220, 38, 38, 0.3);
+  }
+
+  /* Animated seasonal pill */
+  .season-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.3rem 0.8rem;
+    border-radius: 999px;
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.25);
+    backdrop-filter: blur(8px);
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.9);
+    animation: fade-in 1s ease both 0.2s;
+  }
+
+  /* Dot indicator pulse */
+  .dot-pulse {
+    display: inline-block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: #4ade80;
+    animation: dot-pulse 2s ease-in-out infinite;
+    flex-shrink: 0;
+  }
+
+  /* Stats strip separator */
+  .stat-divider {
+    width: 1px;
+    height: 1.2em;
+    background: currentColor;
+    opacity: 0.2;
+    align-self: center;
+  }
+
+  /* Hero scroll arrow */
+  .scroll-arrow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    opacity: 0.6;
+    transition: opacity 0.3s;
+  }
+  .scroll-arrow:hover { opacity: 1; }
+  .scroll-arrow span {
+    display: block;
+    width: 1.5px;
+    background: white;
+  }
+  .scroll-arrow span:nth-child(1) { height: 16px; }
+  .scroll-arrow span:nth-child(2) {
+    width: 7px; height: 7px;
+    border-right: 1.5px solid white;
+    border-bottom: 1.5px solid white;
+    background: transparent;
+    transform: rotate(45deg) translate(-2px, -2px);
+    animation: bounce-scroll 2s ease-in-out infinite;
+  }
+}
+
+/* ── Extended keyframes ──────────────────────────────────── */
+@keyframes bounce-scroll {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(9px); }
+}
+@keyframes pulse-ring {
+  0%   { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.45); }
+  70%  { box-shadow: 0 0 0 14px rgba(220, 38, 38, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0); }
+}
+@keyframes stat-appear {
+  from { opacity: 0; transform: translateY(18px) scale(0.94); }
+  to   { opacity: 1; transform: translateY(0)   scale(1); }
+}
+@keyframes gradient-shift {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+@keyframes glow-pulse {
+  0%, 100% { filter: drop-shadow(0 0 8px rgba(220,38,38,0.0)); }
+  50%       { filter: drop-shadow(0 0 18px rgba(220,38,38,0.35)); }
+}
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes dot-pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50%       { transform: scale(1.5); opacity: 0.6; }
+}
+
+/* ─────────────────────────────────────────────────────────────
+   DARK THEME — global text / background overrides
+   The whole site runs on a dark (#0c0b09) canvas. Any component
+   that still uses Tailwind's hardcoded light-mode grays
+   (text-gray-900, bg-white, etc.) would produce invisible text.
+   These overrides remap every gray shade to its warm dark-theme
+   equivalent in one place — no need to touch every component.
+
+   Colour palette used across the site:
+     #ede8df  — primary text (warm cream, high contrast)
+     #c0b8ae  — secondary text (clearly readable)
+     #9a9187  — muted text (navigation, captions)
+     #8a7e70  — subtle labels (only for large text)
+     #5a5040  — decorative / near-invisible accents
+     #c4973a  — gold accent (hover, active states)
+   ───────────────────────────────────────────────────────────── */
+@layer utilities {
+  /* ── Text ── */
+  .text-gray-950, .text-gray-900 { color: #ede8df !important; }
+  .text-gray-800                 { color: #d8d0c8 !important; }
+  .text-gray-700                 { color: #c0b8ae !important; }
+  .text-gray-600                 { color: #b0a898 !important; }
+  .text-gray-500                 { color: #9a9187 !important; }
+  .text-gray-400                 { color: #8a7e70 !important; }
+  .text-gray-300                 { color: #7a6e60 !important; }
+  .text-gray-200, .text-gray-100 { color: #5a5040 !important; }
+
+  .text-slate-900, .text-slate-800 { color: #ede8df !important; }
+  .text-slate-700, .text-slate-600 { color: #c0b8ae !important; }
+  .text-slate-500, .text-slate-400 { color: #9a9187 !important; }
+
+  .text-black { color: #ede8df !important; }
+
+  /* ── Backgrounds ── */
+  .bg-white   { background-color: #131210 !important; }
+  .bg-gray-50 { background-color: #0f0e0c !important; }
+  .bg-gray-100 { background-color: #1a1714 !important; }
+  .bg-gray-200 { background-color: #242018 !important; }
+
+  /* ── Opacity variants of white (bg-white/95, bg-white/80, etc.) ── */
+  .bg-white\/95, .bg-white\/90, .bg-white\/80 { background-color: rgba(19,18,16,0.95) !important; }
+
+  /* ── Hover backgrounds ── */
+  .hover\:bg-gray-50:hover  { background-color: #131210 !important; }
+  .hover\:bg-gray-100:hover { background-color: #1e1b17 !important; }
+  .hover\:bg-white:hover    { background-color: #1e1b17 !important; }
+
+  /* ── Borders ── */
+  .border-gray-100 { border-color: #1e1b17 !important; }
+  .border-gray-200 { border-color: #2a261f !important; }
+  .border-gray-300 { border-color: #3a3428 !important; }
+
+  /* ── Fix the colours I used in previous pass that were too dark ── */
+  .text-\[\#7a6e60\] { color: #9a9187 !important; }
+  .text-\[\#4a4030\] { color: #7a6e60 !important; }
+}
+
 /* Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {
   .animate-fade-up,
@@ -586,7 +804,15 @@
   .animate-snow,
   .animate-cable,
   .animate-rotate-slow,
-  .animate-reveal-mask {
+  .animate-reveal-mask,
+  .animate-ken-burns-hero,
+  .animate-bounce-scroll,
+  .animate-pulse-ring,
+  .animate-stat-appear,
+  .animate-glow-pulse,
+  .animate-slide-up,
+  .animate-count,
+  .dot-pulse {
     animation: none !important;
   }
   .reveal { opacity: 1 !important; transform: none !important; }

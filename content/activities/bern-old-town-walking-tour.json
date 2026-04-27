@@ -1,0 +1,103 @@
+{
+  "id": "11",
+  "slug": "bern-old-town-walking-tour",
+  "name": "Bern Old Town Walking Tour",
+  "description": "Explore the UNESCO-listed medieval old town of the Swiss capital with a local guide.",
+  "longDescription": "Discover Bern's beautifully preserved medieval old town, a UNESCO World Heritage Site. Walk under 6km of covered arcades, see the Zytglogge clock tower's astronomical clock, visit the Bear Park, and enjoy views from the Rosengarten. The tour covers the Einstein House, the Gothic cathedral, and the stunning Federal Palace.",
+  "category": "culture",
+  "subcategory": "City Tour",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Bern",
+    "coordinates": {
+      "lat": 46.948,
+      "lng": 7.4474
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Bern Welcome (Free Tour)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.bern.com",
+      "rating": 4.5,
+      "description": "Free guided walking tour (tips welcome)"
+    },
+    {
+      "name": "GuruWalk Bern",
+      "pricing": {
+        "child": 0,
+        "student": 15,
+        "adult": 20,
+        "senior": 18
+      },
+      "bookingUrl": "https://www.guruwalk.com",
+      "rating": 4.6,
+      "description": "Small group tour with local historian guide"
+    },
+    {
+      "name": "GetYourGuide",
+      "pricing": {
+        "child": 0,
+        "student": 25,
+        "adult": 35,
+        "senior": 30
+      },
+      "bookingUrl": "https://www.getyourguide.com",
+      "rating": 4.4,
+      "description": "Private guided tour — customizable route"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "UNESCO",
+      "value": "World Heritage"
+    },
+    {
+      "label": "Arcades",
+      "value": "6 km"
+    },
+    {
+      "label": "Zytglogge",
+      "value": "Clock Tower"
+    },
+    {
+      "label": "Bear Park",
+      "value": "Yes"
+    },
+    {
+      "label": "Free Tour",
+      "value": "Available"
+    }
+  ],
+  "tags": [
+    "walking tour",
+    "UNESCO",
+    "history",
+    "bern",
+    "old town",
+    "free"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Tour Available",
+    "validUntil": "2026-12-31",
+    "providerName": "Bern Welcome"
+  }
+}

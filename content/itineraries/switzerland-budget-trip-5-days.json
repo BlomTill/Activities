@@ -1,0 +1,83 @@
+{
+  "id": "3",
+  "slug": "switzerland-budget-trip-5-days",
+  "title": "Switzerland on a Budget — 5 Days",
+  "subtitle": "Free hikes, cheap eats, and smart savings across Switzerland",
+  "description": "Switzerland doesn't have to break the bank. This budget-conscious itinerary focuses on free activities, affordable transport hacks, and incredible experiences that don't cost a fortune.",
+  "duration": "5 days",
+  "days": 5,
+  "difficulty": "Moderate",
+  "bestSeason": "June – September",
+  "estimatedBudget": {
+    "budget": "CHF 500",
+    "mid": "CHF 800",
+    "luxury": "CHF 1,200"
+  },
+  "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=600&fit=crop",
+  "regions": [
+    "Bern Region",
+    "Central Switzerland",
+    "Zurich Region"
+  ],
+  "tags": [
+    "budget",
+    "free",
+    "hiking",
+    "backpacking",
+    "savings"
+  ],
+  "featured": true,
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Bern — The Free Capital",
+      "location": "Bern",
+      "description": "Bern's entire old town is a UNESCO site — and free to explore. See the Zytglogge clock, the bear park, swim in the Aare river (free!), and visit the free Einstein Museum exhibit.",
+      "activitySlugs": [
+        "bern-old-town-tour"
+      ],
+      "tip": "Bern's museums are free on the first Saturday of each month"
+    },
+    {
+      "day": 2,
+      "title": "Hiking the Swiss Alps (Free)",
+      "location": "Oeschinensee",
+      "description": "Take the gondola to Oeschinensee and hike around the lake. Pack a picnic lunch. The scenery rivals any paid experience in Switzerland.",
+      "activitySlugs": [
+        "oeschinen-lake-kandersteg"
+      ],
+      "transport": "Bern → Kandersteg: 1h direct train",
+      "tip": "Gondola is CHF 24 return — the rest is free"
+    },
+    {
+      "day": 3,
+      "title": "Lucerne on a Budget",
+      "location": "Lucerne",
+      "description": "Walk the free Chapel Bridge and old town, hike up to Château Gütsch for free panoramic views, and swim in the lake. Evening Saver Day Pass trip back.",
+      "activitySlugs": [
+        "lake-lucerne-steamboat-cruise"
+      ],
+      "transport": "Use Saver Day Pass (from CHF 52) for this day"
+    },
+    {
+      "day": 4,
+      "title": "Swiss National Park (Free)",
+      "location": "Zernez",
+      "description": "Switzerland's only national park is free to enter. Hike through pristine wilderness, spot ibex and marmots, and enjoy some of the cleanest air in Europe.",
+      "activitySlugs": [
+        "swiss-national-park"
+      ],
+      "transport": "Use another Saver Day Pass"
+    },
+    {
+      "day": 5,
+      "title": "Zurich Free Day & Departure",
+      "location": "Zurich",
+      "description": "Free walking tour of Zurich's old town, Lindenhof viewpoint, and a swim at Badi Utoquai (free lake swim). Browse the flea market at Bürkliplatz.",
+      "activitySlugs": [
+        "zurich-old-town-walking-tour"
+      ],
+      "tip": "Zurich's public lake baths (Badi) are free or under CHF 8"
+    }
+  ]
+}

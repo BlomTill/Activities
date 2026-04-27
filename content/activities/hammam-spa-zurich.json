@@ -1,0 +1,84 @@
+{
+  "id": "110",
+  "slug": "hammam-spa-zurich",
+  "name": "Hammam & Spa Zurich",
+  "description": "Authentic Turkish bath experience with steam rooms, scrubs, and relaxation in central Zurich.",
+  "longDescription": "Hammam & Spa Zurich offers a genuine Turkish bath ritual in a beautifully designed space. Move through the warm room, hot steam bath, and cold plunge before a traditional soap scrub and massage. A serene urban escape in the heart of Zurich.",
+  "category": "wellness",
+  "subcategory": "Spa",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3752,
+      "lng": 8.532
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Hammam & Spa (Bath Ritual)",
+      "pricing": {
+        "child": 0,
+        "student": 55,
+        "adult": 65,
+        "senior": 60
+      },
+      "bookingUrl": "https://www.hammam-zurich.ch",
+      "rating": 4.6,
+      "description": "2.5-hour bath ritual with soap scrub"
+    },
+    {
+      "name": "Hammam & Spa (Bath + Massage)",
+      "pricing": {
+        "child": 0,
+        "student": 95,
+        "adult": 110,
+        "senior": 105
+      },
+      "bookingUrl": "https://www.hammam-zurich.ch",
+      "rating": 4.8,
+      "description": "Bath ritual plus 30-min massage"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2.5-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Ritual",
+      "value": "Traditional Turkish"
+    },
+    {
+      "label": "Includes",
+      "value": "Soap scrub"
+    },
+    {
+      "label": "Duration",
+      "value": "2.5 hours"
+    },
+    {
+      "label": "Steam",
+      "value": "Multiple rooms"
+    },
+    {
+      "label": "Massage",
+      "value": "Optional add-on"
+    }
+  ],
+  "tags": [
+    "spa",
+    "hammam",
+    "wellness",
+    "zurich",
+    "relaxation"
+  ],
+  "featured": false
+}

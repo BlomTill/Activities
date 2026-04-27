@@ -1,0 +1,80 @@
+{
+  "id": "56",
+  "slug": "kayaking-lake-brienz",
+  "name": "Kayaking on Lake Brienz",
+  "description": "Paddle through crystal turquoise waters surrounded by waterfalls and cliffs.",
+  "longDescription": "Kayak along one of Switzerland's most scenic lakes with its incredible turquoise glacial water. Paddle to Giessbach Falls and hidden beaches.",
+  "category": "outdoor",
+  "subcategory": "Water Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Brienz",
+    "coordinates": {
+      "lat": 46.7544,
+      "lng": 8.0296
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Hightide Kayaking",
+      "pricing": {
+        "child": 40,
+        "student": 65,
+        "adult": 85,
+        "senior": 75
+      },
+      "bookingUrl": "https://www.hightide.ch",
+      "rating": 4.8,
+      "description": "Guided half-day kayak tour"
+    },
+    {
+      "name": "Brienz Kayak Rental",
+      "pricing": {
+        "child": 15,
+        "student": 25,
+        "adult": 35,
+        "senior": 30
+      },
+      "bookingUrl": "https://www.brienz.ch",
+      "rating": 4.4,
+      "description": "Self-service hourly kayak rental"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Water Color",
+      "value": "Turquoise"
+    },
+    {
+      "label": "Route",
+      "value": "To Giessbach Falls"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Beginner OK"
+    },
+    {
+      "label": "Rental",
+      "value": "From CHF 15/h"
+    },
+    {
+      "label": "Guided Tour",
+      "value": "Available"
+    }
+  ],
+  "tags": [
+    "kayaking",
+    "lake",
+    "turquoise",
+    "water sports"
+  ],
+  "featured": false
+}

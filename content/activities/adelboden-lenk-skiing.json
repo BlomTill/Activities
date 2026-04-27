@@ -1,0 +1,80 @@
+{
+  "id": "83",
+  "slug": "adelboden-lenk-skiing",
+  "name": "Adelboden-Lenk Skiing",
+  "description": "Traditional Bernese Oberland ski area with 210km of slopes and World Cup pedigree.",
+  "longDescription": "The Adelboden-Lenk ski area covers 210km of slopes across the Engstligen valley with 72 lifts. Famous as host of the FIS Alpine Ski World Cup giant slalom on the legendary Chuenisbärgli run. Excellent family infrastructure.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Adelboden",
+    "coordinates": {
+      "lat": 46.4921,
+      "lng": 7.5594
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Adelboden-Lenk Bergbahnen",
+      "pricing": {
+        "child": 32,
+        "student": 50,
+        "adult": 66,
+        "senior": 56
+      },
+      "bookingUrl": "https://www.adelboden-lenk.ch",
+      "rating": 4.5
+    },
+    {
+      "name": "Bode Ski School Adelboden",
+      "pricing": {
+        "child": 75,
+        "student": 105,
+        "adult": 135,
+        "senior": 120
+      },
+      "bookingUrl": "https://www.skischule-adelboden.ch",
+      "rating": 4.4,
+      "description": "Half-day group lesson"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slopes",
+      "value": "210 km"
+    },
+    {
+      "label": "Lifts",
+      "value": "72"
+    },
+    {
+      "label": "World Cup",
+      "value": "Chuenisbärgli"
+    },
+    {
+      "label": "Family",
+      "value": "Excellent"
+    },
+    {
+      "label": "Villages",
+      "value": "Adelboden + Lenk"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "winter",
+    "adelboden",
+    "world cup",
+    "family"
+  ],
+  "featured": false
+}

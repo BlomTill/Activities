@@ -1,0 +1,72 @@
+{
+  "id": "99",
+  "slug": "zentrum-paul-klee",
+  "name": "Zentrum Paul Klee",
+  "description": "The world's most comprehensive Paul Klee collection in a wave-shaped Renzo Piano building.",
+  "longDescription": "The Zentrum Paul Klee in Bern houses over 4,000 works by Paul Klee — the largest collection of any single artist in the world. The striking wave-shaped building designed by Renzo Piano hosts exhibitions, concerts, and an interactive children's museum.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Bern",
+    "coordinates": {
+      "lat": 46.948,
+      "lng": 7.4744
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Zentrum Paul Klee",
+      "pricing": {
+        "child": 0,
+        "student": 14,
+        "adult": 22,
+        "senior": 18
+      },
+      "bookingUrl": "https://www.zpk.org",
+      "rating": 4.5,
+      "description": "Exhibition access — under 6 free"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Works",
+      "value": "4,000+ by Klee"
+    },
+    {
+      "label": "Architect",
+      "value": "Renzo Piano"
+    },
+    {
+      "label": "Unique Shape",
+      "value": "Three waves"
+    },
+    {
+      "label": "Children's Museum",
+      "value": "Creaviva"
+    },
+    {
+      "label": "World's Largest",
+      "value": "Single-artist collection"
+    }
+  ],
+  "tags": [
+    "museum",
+    "paul klee",
+    "art",
+    "bern",
+    "architecture"
+  ],
+  "featured": false
+}

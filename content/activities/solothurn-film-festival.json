@@ -1,0 +1,81 @@
+{
+  "id": "120",
+  "slug": "solothurn-film-festival",
+  "name": "Solothurn Film Festival",
+  "description": "Switzerland's most important film festival showcasing Swiss cinema in the baroque city.",
+  "longDescription": "The Solothurner Filmtage is the most important festival for Swiss cinema, held annually in January in the beautiful baroque city of Solothurn. Over 60,000 visitors enjoy screenings, discussions with filmmakers, and a vibrant cultural programme across multiple city venues.",
+  "category": "culture",
+  "subcategory": "Festival",
+  "location": {
+    "region": "Northwestern Switzerland",
+    "canton": "Solothurn",
+    "city": "Solothurn",
+    "coordinates": {
+      "lat": 47.2088,
+      "lng": 7.5371
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Solothurner Filmtage",
+      "pricing": {
+        "child": 10,
+        "student": 14,
+        "adult": 18,
+        "senior": 16
+      },
+      "bookingUrl": "https://www.solothurnerfilmtage.ch",
+      "rating": 4.5,
+      "description": "Single screening ticket"
+    },
+    {
+      "name": "Solothurner Filmtage (Festival Pass)",
+      "pricing": {
+        "child": 0,
+        "student": 65,
+        "adult": 95,
+        "senior": 80
+      },
+      "bookingUrl": "https://www.solothurnerfilmtage.ch",
+      "rating": 4.6,
+      "description": "Full festival pass — all screenings"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-8 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Visitors",
+      "value": "60,000+"
+    },
+    {
+      "label": "Films",
+      "value": "Swiss cinema"
+    },
+    {
+      "label": "When",
+      "value": "January annually"
+    },
+    {
+      "label": "Venues",
+      "value": "Multiple in city"
+    },
+    {
+      "label": "Canton",
+      "value": "Solothurn"
+    }
+  ],
+  "tags": [
+    "film",
+    "festival",
+    "cinema",
+    "solothurn",
+    "culture"
+  ],
+  "featured": false
+}

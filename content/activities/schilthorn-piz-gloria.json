@@ -1,0 +1,82 @@
+{
+  "id": "44",
+  "slug": "schilthorn-piz-gloria",
+  "name": "Schilthorn Piz Gloria",
+  "description": "James Bond's revolving restaurant at 2,970m with Eiger, Mönch & Jungfrau panorama.",
+  "longDescription": "Piz Gloria at Schilthorn summit was featured in James Bond's 'On Her Majesty's Secret Service.' The 360° panorama, Bond World 007 exhibition, and Thrill Walk make this iconic.",
+  "category": "outdoor",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Mürren",
+    "coordinates": {
+      "lat": 46.5587,
+      "lng": 7.8352
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Schilthornbahn",
+      "pricing": {
+        "child": 42,
+        "student": 72,
+        "adult": 95,
+        "senior": 86
+      },
+      "bookingUrl": "https://www.schilthorn.ch",
+      "rating": 4.6
+    },
+    {
+      "name": "Schilthorn (James Bond Brunch)",
+      "pricing": {
+        "child": 58,
+        "student": 92,
+        "adult": 120,
+        "senior": 108
+      },
+      "bookingUrl": "https://www.schilthorn.ch",
+      "rating": 4.8,
+      "description": "Cable car + revolving restaurant brunch"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1531984208440-b5a2e1f6bc1e?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Summit",
+      "value": "2,970m"
+    },
+    {
+      "label": "Restaurant",
+      "value": "360° revolving"
+    },
+    {
+      "label": "James Bond",
+      "value": "OHMSS 1969"
+    },
+    {
+      "label": "Bond World",
+      "value": "007 Exhibition"
+    },
+    {
+      "label": "Thrill Walk",
+      "value": "200m cliff path"
+    }
+  ],
+  "tags": [
+    "james bond",
+    "mountain",
+    "revolving restaurant",
+    "panorama"
+  ],
+  "featured": false
+}

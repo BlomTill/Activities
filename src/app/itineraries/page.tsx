@@ -7,7 +7,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { NewsletterSignup } from "@/components/newsletter-signup";
-import { itineraries } from "@/data/itineraries";
+import { itineraries } from "@/lib/content/selectors";
 import { getDestinationSummaries } from "@/lib/destinations";
 
 const DIFFICULTY_COLORS: Record<string, string> = {

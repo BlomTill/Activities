@@ -1,0 +1,69 @@
+{
+  "id": "39",
+  "slug": "ice-skating-davos",
+  "name": "Natural Ice Rink Davos",
+  "description": "Europe's largest natural ice rink — skate under the stars in the Swiss Alps.",
+  "longDescription": "The natural ice rink in Davos is Europe's largest at 18,000m². Skate surrounded by snowy peaks. Evening sessions under floodlights create a magical atmosphere.",
+  "category": "outdoor",
+  "subcategory": "Ice Skating",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Davos",
+    "coordinates": {
+      "lat": 46.8027,
+      "lng": 9.836
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Davos Ice Rink",
+      "pricing": {
+        "child": 5,
+        "student": 7,
+        "adult": 10,
+        "senior": 8
+      },
+      "bookingUrl": "https://www.davos.ch",
+      "rating": 4.5,
+      "description": "Entry fee (skate rental CHF 8 extra)"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Rink Size",
+      "value": "18,000m²"
+    },
+    {
+      "label": "Europe's Largest",
+      "value": "Natural ice rink"
+    },
+    {
+      "label": "Skate Rental",
+      "value": "CHF 8"
+    },
+    {
+      "label": "Night Skating",
+      "value": "Floodlit"
+    },
+    {
+      "label": "Setting",
+      "value": "Alpine"
+    }
+  ],
+  "tags": [
+    "ice skating",
+    "winter",
+    "outdoor",
+    "davos",
+    "family"
+  ],
+  "featured": false
+}

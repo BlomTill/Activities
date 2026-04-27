@@ -1,0 +1,84 @@
+{
+  "id": "150",
+  "slug": "aarau-old-town",
+  "name": "Aarau Old Town & Painted Eaves",
+  "description": "Discover Aarau's unique painted roof eaves (Dachhimmel) — the most beautiful in Switzerland.",
+  "longDescription": "Aarau's old town is famous for its Dachhimmel — elaborately painted eaves (roof undersides) dating from the 16th century, unique in Switzerland. Walk through the medieval streets admiring these colourful artworks while exploring the cantonal capital with its Aare riverside setting and boutique shops.",
+  "category": "culture",
+  "subcategory": "City Tour",
+  "location": {
+    "region": "Northwestern Switzerland",
+    "canton": "Aargau",
+    "city": "Aarau",
+    "coordinates": {
+      "lat": 47.3925,
+      "lng": 8.0444
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Self-guided Walk (Free)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.aarau.ch",
+      "rating": 4.3,
+      "description": "Free self-guided Dachhimmel walk"
+    },
+    {
+      "name": "Guided Dachhimmel Tour",
+      "pricing": {
+        "child": 5,
+        "student": 12,
+        "adult": 18,
+        "senior": 15
+      },
+      "bookingUrl": "https://www.aarauinfo.ch",
+      "rating": 4.5,
+      "description": "90-minute guided tour of painted eaves"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-2.5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1571168136613-46401b03904e?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Dachhimmel",
+      "value": "Painted roof eaves"
+    },
+    {
+      "label": "Period",
+      "value": "16th century"
+    },
+    {
+      "label": "Unique",
+      "value": "Only in Aarau"
+    },
+    {
+      "label": "River",
+      "value": "Aare riverside"
+    },
+    {
+      "label": "Canton",
+      "value": "Aargau capital"
+    }
+  ],
+  "tags": [
+    "old town",
+    "painted eaves",
+    "aarau",
+    "aargau",
+    "architecture"
+  ],
+  "featured": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "43",
+  "slug": "go-karting-lyss",
+  "name": "Indoor Go-Karting Lyss",
+  "description": "High-speed indoor karting on a professional 400m track near Bern.",
+  "longDescription": "Race high-performance karts on a professional 400m indoor track near Bern. Sessions for all levels with state-of-the-art timing systems.",
+  "category": "adventure",
+  "subcategory": "Motor Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Lyss",
+    "coordinates": {
+      "lat": 47.075,
+      "lng": 7.3058
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "KartCenter Lyss",
+      "pricing": {
+        "child": 20,
+        "student": 30,
+        "adult": 38,
+        "senior": 35
+      },
+      "bookingUrl": "https://www.karting.ch",
+      "rating": 4.3
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Track Length",
+      "value": "400m"
+    },
+    {
+      "label": "Indoor",
+      "value": "All weather"
+    },
+    {
+      "label": "Min Age",
+      "value": "12 years"
+    },
+    {
+      "label": "Timing",
+      "value": "Pro system"
+    },
+    {
+      "label": "Speed",
+      "value": "Up to 70 km/h"
+    }
+  ],
+  "tags": [
+    "go-kart",
+    "racing",
+    "indoor",
+    "speed"
+  ],
+  "featured": false
+}

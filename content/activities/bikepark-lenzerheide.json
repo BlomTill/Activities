@@ -1,0 +1,81 @@
+{
+  "id": "61",
+  "slug": "bikepark-lenzerheide",
+  "name": "Bike Park Lenzerheide",
+  "description": "One of Europe's best mountain bike parks with 30+ trails for all levels.",
+  "longDescription": "Lenzerheide Bike Kingdom offers over 30 trails from beginner flow trails to expert downhill. Lift-accessed with bike rental and coaching available.",
+  "category": "adventure",
+  "subcategory": "Mountain Biking",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Lenzerheide",
+    "coordinates": {
+      "lat": 46.73,
+      "lng": 9.56
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Bike Kingdom (Day Pass)",
+      "pricing": {
+        "child": 20,
+        "student": 32,
+        "adult": 42,
+        "senior": 38
+      },
+      "bookingUrl": "https://www.bikekingdom.ch",
+      "rating": 4.7,
+      "description": "Lift pass only (bring your own bike)"
+    },
+    {
+      "name": "Bike Kingdom (Rental + Pass)",
+      "pricing": {
+        "child": 45,
+        "student": 68,
+        "adult": 85,
+        "senior": 75
+      },
+      "bookingUrl": "https://www.bikekingdom.ch",
+      "rating": 4.6,
+      "description": "Full-suspension e-MTB rental + lift pass"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Trails",
+      "value": "30+"
+    },
+    {
+      "label": "Difficulty",
+      "value": "All levels"
+    },
+    {
+      "label": "Lift Access",
+      "value": "Yes"
+    },
+    {
+      "label": "Bike Rental",
+      "value": "E-MTB available"
+    },
+    {
+      "label": "Flow Trails",
+      "value": "Multiple"
+    }
+  ],
+  "tags": [
+    "mountain biking",
+    "downhill",
+    "bike park",
+    "adventure"
+  ],
+  "featured": false
+}

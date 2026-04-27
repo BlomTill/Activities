@@ -1,0 +1,460 @@
+{
+  "classic-switzerland-7-days": {
+    "id": "1",
+    "slug": "classic-switzerland-7-days",
+    "title": "Classic Switzerland in 7 Days",
+    "subtitle": "Zurich, Lucerne, Interlaken, Zermatt, and Geneva",
+    "description": "The ultimate first-timer's route hitting Switzerland's greatest highlights — from vibrant cities to iconic Alpine peaks. This itinerary covers the Jungfraujoch, Matterhorn, Lake Geneva, and charming old towns, all connected by scenic train rides.",
+    "duration": "7 days",
+    "days": 7,
+    "difficulty": "Easy",
+    "bestSeason": "May – October",
+    "estimatedBudget": {
+      "budget": "CHF 1,200",
+      "mid": "CHF 2,200",
+      "luxury": "CHF 4,500"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1200&h=600&fit=crop",
+    "regions": [
+      "Zurich Region",
+      "Central Switzerland",
+      "Bern Region",
+      "Valais",
+      "Geneva Region"
+    ],
+    "tags": [
+      "first-time",
+      "classic",
+      "mountains",
+      "cities",
+      "train"
+    ],
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in Zurich",
+        "location": "Zurich",
+        "description": "Explore Zurich's old town (Altstadt), stroll along the Limmat river, visit Bahnhofstrasse, and take in views from Lindenhof hill. Evening at a lakeside restaurant.",
+        "activitySlugs": [
+          "zurich-old-town-walking-tour"
+        ],
+        "transport": "Airport to city: 10 min by train",
+        "tip": "Get a Zurich Card for free public transport and museum entry"
+      },
+      {
+        "day": 2,
+        "title": "Zurich to Lucerne",
+        "location": "Lucerne",
+        "description": "Morning train to Lucerne (45 min). Walk across Chapel Bridge, visit the Lion Monument, and explore the charming old town. Afternoon boat cruise on Lake Lucerne.",
+        "activitySlugs": [
+          "lake-lucerne-steamboat-cruise",
+          "swiss-museum-of-transport"
+        ],
+        "transport": "Zurich → Lucerne: 45 min direct train",
+        "tip": "The Swiss Museum of Transport is perfect if weather turns"
+      },
+      {
+        "day": 3,
+        "title": "Mount Pilatus Day Trip",
+        "location": "Lucerne",
+        "description": "The Golden Round Trip: boat from Lucerne to Alpnachstad, cogwheel railway up Pilatus, cable car down to Kriens, bus back to Lucerne. One of Switzerland's best day trips.",
+        "activitySlugs": [
+          "mount-pilatus-golden-round-trip"
+        ],
+        "transport": "All included in Golden Round Trip ticket"
+      },
+      {
+        "day": 4,
+        "title": "Lucerne to Interlaken & Jungfraujoch",
+        "location": "Interlaken",
+        "description": "Morning train to Interlaken via the scenic Brünig Pass. Afternoon ascent to Jungfraujoch – Top of Europe. Views of the Aletsch Glacier from 3,454m.",
+        "activitySlugs": [
+          "jungfraujoch-top-of-europe"
+        ],
+        "transport": "Lucerne → Interlaken: 2h scenic Brünig line",
+        "tip": "Book Jungfraujoch early — morning slots are less cloudy"
+      },
+      {
+        "day": 5,
+        "title": "Interlaken to Zermatt",
+        "location": "Zermatt",
+        "description": "Scenic train through the Lötschberg tunnel to Zermatt. Afternoon cable car to Matterhorn Glacier Paradise (3,883m) for 360° views of 38 Alpine peaks.",
+        "activitySlugs": [
+          "zermatt-matterhorn-glacier-paradise"
+        ],
+        "transport": "Interlaken → Zermatt: 2.5h (change at Visp)",
+        "tip": "Zermatt is car-free — take the shuttle train from Täsch"
+      },
+      {
+        "day": 6,
+        "title": "Zermatt to Geneva via Montreux",
+        "location": "Geneva",
+        "description": "Morning train through the Rhône valley. Stop in Montreux to visit Château de Chillon, then continue to Geneva. Evening walk along Lake Geneva with views of Jet d'Eau.",
+        "activitySlugs": [
+          "chateau-de-chillon"
+        ],
+        "transport": "Zermatt → Montreux: 2.5h | Montreux → Geneva: 1h"
+      },
+      {
+        "day": 7,
+        "title": "Geneva & Departure",
+        "location": "Geneva",
+        "description": "Visit the United Nations, the Reformation Wall, and the old town. Lake Geneva cruise if time allows. Head to Geneva Airport for departure.",
+        "activitySlugs": [
+          "lake-geneva-boat-cruise"
+        ],
+        "transport": "Geneva city to airport: 7 min by train"
+      }
+    ]
+  },
+  "bernese-oberland-5-days": {
+    "id": "2",
+    "slug": "bernese-oberland-5-days",
+    "title": "5 Days in the Bernese Oberland",
+    "subtitle": "Interlaken, Grindelwald, Lauterbrunnen & the Big Three Peaks",
+    "description": "Dive deep into the most spectacular mountain region in Switzerland. Base yourself in Interlaken and explore three iconic peaks (Jungfraujoch, Schilthorn, and First), 72 waterfalls in Lauterbrunnen, and thrilling outdoor adventures.",
+    "duration": "5 days",
+    "days": 5,
+    "difficulty": "Moderate",
+    "bestSeason": "June – September",
+    "estimatedBudget": {
+      "budget": "CHF 800",
+      "mid": "CHF 1,500",
+      "luxury": "CHF 3,000"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1605540436338-67b4aeb10709?w=1200&h=600&fit=crop",
+    "regions": [
+      "Bern Region"
+    ],
+    "tags": [
+      "mountains",
+      "adventure",
+      "hiking",
+      "peaks",
+      "waterfalls"
+    ],
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in Interlaken",
+        "location": "Interlaken",
+        "description": "Settle in and explore Interlaken's Höheweg promenade between the two lakes. Afternoon paragliding over the town with views of Eiger, Mönch, and Jungfrau.",
+        "activitySlugs": [
+          "paragliding-interlaken"
+        ],
+        "tip": "Stay in Interlaken for all 5 nights — it's the perfect hub"
+      },
+      {
+        "day": 2,
+        "title": "Jungfraujoch — Top of Europe",
+        "location": "Jungfraujoch",
+        "description": "Full day at Europe's highest railway station. Visit the Ice Palace, Sphinx observation terrace, and Alpine Sensation exhibition. Views of the Aletsch Glacier.",
+        "activitySlugs": [
+          "jungfraujoch-top-of-europe"
+        ],
+        "transport": "Interlaken → Jungfraujoch: 2h by cogwheel train via Kleine Scheidegg",
+        "tip": "Take the first train (6:35) for the least clouds and smallest crowds"
+      },
+      {
+        "day": 3,
+        "title": "Lauterbrunnen Valley & Schilthorn",
+        "location": "Lauterbrunnen",
+        "description": "Morning exploring the Lauterbrunnen valley with its 72 waterfalls including Staubbach Falls. Cable car up to Schilthorn for the rotating Piz Gloria restaurant (James Bond location).",
+        "activitySlugs": [
+          "lauterbrunnen-waterfalls",
+          "schilthorn-piz-gloria"
+        ],
+        "transport": "Interlaken → Lauterbrunnen: 20 min by train"
+      },
+      {
+        "day": 4,
+        "title": "Grindelwald-First & Adventure",
+        "location": "Grindelwald",
+        "description": "Take the gondola to First (2,168m) for the First Cliff Walk, First Glider zip-line, and Mountain Cart ride. Hike to Bachalpsee for iconic Eiger reflections.",
+        "activitySlugs": [
+          "grindelwald-first-adventure"
+        ],
+        "transport": "Interlaken → Grindelwald: 35 min"
+      },
+      {
+        "day": 5,
+        "title": "Lake Brienz & Departure",
+        "location": "Interlaken",
+        "description": "Morning cruise on turquoise Lake Brienz to Giessbach Falls. Visit the open-air museum Ballenberg if time allows. Afternoon departure.",
+        "activitySlugs": [
+          "lake-brienz-cruise"
+        ],
+        "transport": "Boat from Interlaken Ost to Giessbach: 45 min"
+      }
+    ]
+  },
+  "switzerland-budget-trip-5-days": {
+    "id": "3",
+    "slug": "switzerland-budget-trip-5-days",
+    "title": "Switzerland on a Budget — 5 Days",
+    "subtitle": "Free hikes, cheap eats, and smart savings across Switzerland",
+    "description": "Switzerland doesn't have to break the bank. This budget-conscious itinerary focuses on free activities, affordable transport hacks, and incredible experiences that don't cost a fortune.",
+    "duration": "5 days",
+    "days": 5,
+    "difficulty": "Moderate",
+    "bestSeason": "June – September",
+    "estimatedBudget": {
+      "budget": "CHF 500",
+      "mid": "CHF 800",
+      "luxury": "CHF 1,200"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=600&fit=crop",
+    "regions": [
+      "Bern Region",
+      "Central Switzerland",
+      "Zurich Region"
+    ],
+    "tags": [
+      "budget",
+      "free",
+      "hiking",
+      "backpacking",
+      "savings"
+    ],
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Bern — The Free Capital",
+        "location": "Bern",
+        "description": "Bern's entire old town is a UNESCO site — and free to explore. See the Zytglogge clock, the bear park, swim in the Aare river (free!), and visit the free Einstein Museum exhibit.",
+        "activitySlugs": [
+          "bern-old-town-tour"
+        ],
+        "tip": "Bern's museums are free on the first Saturday of each month"
+      },
+      {
+        "day": 2,
+        "title": "Hiking the Swiss Alps (Free)",
+        "location": "Oeschinensee",
+        "description": "Take the gondola to Oeschinensee and hike around the lake. Pack a picnic lunch. The scenery rivals any paid experience in Switzerland.",
+        "activitySlugs": [
+          "oeschinen-lake-kandersteg"
+        ],
+        "transport": "Bern → Kandersteg: 1h direct train",
+        "tip": "Gondola is CHF 24 return — the rest is free"
+      },
+      {
+        "day": 3,
+        "title": "Lucerne on a Budget",
+        "location": "Lucerne",
+        "description": "Walk the free Chapel Bridge and old town, hike up to Château Gütsch for free panoramic views, and swim in the lake. Evening Saver Day Pass trip back.",
+        "activitySlugs": [
+          "lake-lucerne-steamboat-cruise"
+        ],
+        "transport": "Use Saver Day Pass (from CHF 52) for this day"
+      },
+      {
+        "day": 4,
+        "title": "Swiss National Park (Free)",
+        "location": "Zernez",
+        "description": "Switzerland's only national park is free to enter. Hike through pristine wilderness, spot ibex and marmots, and enjoy some of the cleanest air in Europe.",
+        "activitySlugs": [
+          "swiss-national-park"
+        ],
+        "transport": "Use another Saver Day Pass"
+      },
+      {
+        "day": 5,
+        "title": "Zurich Free Day & Departure",
+        "location": "Zurich",
+        "description": "Free walking tour of Zurich's old town, Lindenhof viewpoint, and a swim at Badi Utoquai (free lake swim). Browse the flea market at Bürkliplatz.",
+        "activitySlugs": [
+          "zurich-old-town-walking-tour"
+        ],
+        "tip": "Zurich's public lake baths (Badi) are free or under CHF 8"
+      }
+    ]
+  },
+  "family-switzerland-7-days": {
+    "id": "4",
+    "slug": "family-switzerland-7-days",
+    "title": "Family Switzerland — 7 Days with Kids",
+    "subtitle": "Kid-friendly adventures from theme parks to mountain playgrounds",
+    "description": "A week designed for families with children aged 4-14. Mixing action-packed days with easy-going ones, this route covers the best family attractions in Switzerland with no child left bored.",
+    "duration": "7 days",
+    "days": 7,
+    "difficulty": "Easy",
+    "bestSeason": "June – September",
+    "estimatedBudget": {
+      "budget": "CHF 2,000 (family of 4)",
+      "mid": "CHF 3,500",
+      "luxury": "CHF 6,000"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7c?w=1200&h=600&fit=crop",
+    "regions": [
+      "Zurich Region",
+      "Central Switzerland",
+      "Bern Region"
+    ],
+    "tags": [
+      "family",
+      "kids",
+      "theme park",
+      "easy",
+      "fun"
+    ],
+    "featured": true,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Zurich Zoo & Arrival",
+        "location": "Zurich",
+        "description": "Start at Zurich Zoo — one of Europe's best, featuring the massive Masoala Rainforest hall, Kaeng Krachan elephant park, and penguin parade.",
+        "activitySlugs": [
+          "zurich-zoo"
+        ],
+        "tip": "Kids under 6 enter free. Book Swiss Family Card for free kids' train travel"
+      },
+      {
+        "day": 2,
+        "title": "Swiss Museum of Transport",
+        "location": "Lucerne",
+        "description": "Switzerland's most-visited museum is a kids' paradise — trains, planes, a planetarium, Swiss Chocolate Adventure, and an interactive space exhibit.",
+        "activitySlugs": [
+          "swiss-museum-of-transport"
+        ],
+        "transport": "Zurich → Lucerne: 45 min direct"
+      },
+      {
+        "day": 3,
+        "title": "Mount Pilatus Adventure",
+        "location": "Lucerne",
+        "description": "The Golden Round Trip: boat, cogwheel railway, and cable car. Kids love the world's steepest cogwheel railway and the dragon legends.",
+        "activitySlugs": [
+          "mount-pilatus-golden-round-trip"
+        ],
+        "tip": "Pack warm clothes — summit is 2,132m"
+      },
+      {
+        "day": 4,
+        "title": "Grindelwald-First Family Fun",
+        "location": "Grindelwald",
+        "description": "First Flyer zip-line, Mountain Cart, Trottibike scooter ride, and the Cliff Walk. Adventure paradise for older kids (min age varies).",
+        "activitySlugs": [
+          "grindelwald-first-adventure"
+        ],
+        "transport": "Lucerne → Grindelwald: 2.5h via Interlaken"
+      },
+      {
+        "day": 5,
+        "title": "Bernaqua Water Park",
+        "location": "Bern",
+        "description": "Indoor water park day — slides, wave pool, lazy river, and kids' pool. A welcome break from hiking and a guaranteed hit with kids of all ages.",
+        "activitySlugs": [
+          "bernaqua-water-park"
+        ],
+        "transport": "Grindelwald → Bern: 2h"
+      },
+      {
+        "day": 6,
+        "title": "Bern Bears & Old Town",
+        "location": "Bern",
+        "description": "Visit the famous bear park, explore the UNESCO old town, and ride the Gurten funicular to the hilltop playground with panoramic views.",
+        "activitySlugs": [
+          "bern-old-town-tour"
+        ],
+        "tip": "The Gurten playground is free and incredible for kids"
+      },
+      {
+        "day": 7,
+        "title": "Chocolate Factory & Departure",
+        "location": "Broc",
+        "description": "Visit the Maison Cailler chocolate factory in Broc for a guided tour ending with unlimited tasting. A sweet way to end the trip.",
+        "activitySlugs": [
+          "maison-cailler-chocolate-factory"
+        ],
+        "transport": "Bern → Broc: 1.5h"
+      }
+    ]
+  },
+  "swiss-winter-wonderland-5-days": {
+    "id": "5",
+    "slug": "swiss-winter-wonderland-5-days",
+    "title": "Swiss Winter Wonderland — 5 Days",
+    "subtitle": "Skiing, Christmas markets, thermal baths, and snowy peaks",
+    "description": "Experience Switzerland at its most magical. This winter itinerary combines world-class skiing in Zermatt, relaxing thermal baths, atmospheric Christmas markets, and snow-covered Alpine landscapes.",
+    "duration": "5 days",
+    "days": 5,
+    "difficulty": "Moderate",
+    "bestSeason": "December – March",
+    "estimatedBudget": {
+      "budget": "CHF 1,000",
+      "mid": "CHF 2,000",
+      "luxury": "CHF 4,000"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=1200&h=600&fit=crop",
+    "regions": [
+      "Valais",
+      "Bern Region",
+      "Central Switzerland"
+    ],
+    "tags": [
+      "winter",
+      "skiing",
+      "christmas",
+      "thermal",
+      "snow"
+    ],
+    "featured": false,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in Zermatt",
+        "location": "Zermatt",
+        "description": "Arrive in car-free Zermatt. Evening stroll through the village with Matterhorn views. Visit the Matterhorn Museum for the story of the first ascent.",
+        "activitySlugs": [
+          "zermatt-matterhorn-glacier-paradise"
+        ],
+        "tip": "Zermatt has snow from November to May"
+      },
+      {
+        "day": 2,
+        "title": "Skiing & Matterhorn Glacier Paradise",
+        "location": "Zermatt",
+        "description": "Full day on Zermatt's 360km of pistes — the largest ski area in Switzerland. Non-skiers: take the cable car to Matterhorn Glacier Paradise (3,883m).",
+        "activitySlugs": [
+          "zermatt-matterhorn-glacier-paradise"
+        ],
+        "transport": "All lifts from village"
+      },
+      {
+        "day": 3,
+        "title": "Leukerbad Thermal Baths",
+        "location": "Leukerbad",
+        "description": "Soak in Europe's largest alpine thermal bath complex. Walliser Alpentherme and Leukerbad Therme offer warm pools surrounded by snow-covered peaks.",
+        "activitySlugs": [
+          "leukerbad-thermal-baths"
+        ],
+        "transport": "Zermatt → Leukerbad: 2h (change at Leuk)"
+      },
+      {
+        "day": 4,
+        "title": "Bern Christmas Market",
+        "location": "Bern",
+        "description": "Bern's Christmas market fills the old town with 100+ wooden chalets selling crafts, mulled wine, and Swiss treats. The UNESCO backdrop makes it magical.",
+        "activitySlugs": [
+          "bern-old-town-tour"
+        ],
+        "transport": "Leukerbad → Bern: 2.5h"
+      },
+      {
+        "day": 5,
+        "title": "Frozen Oeschinensee & Departure",
+        "location": "Kandersteg",
+        "description": "Visit the frozen UNESCO lake at Oeschinensee. Toboggan run, winter hiking, and — when conditions allow — natural ice skating on the frozen surface.",
+        "activitySlugs": [
+          "oeschinen-lake-winter"
+        ],
+        "transport": "Bern → Kandersteg: 1h"
+      }
+    ]
+  }
+}

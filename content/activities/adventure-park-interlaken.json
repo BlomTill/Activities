@@ -1,0 +1,71 @@
+{
+  "id": "15",
+  "slug": "adventure-park-interlaken",
+  "name": "Adventure Park Interlaken",
+  "description": "High-ropes course and zip lines through the forest canopy above Interlaken.",
+  "longDescription": "The Adventure Park in Interlaken features rope courses at various difficulty levels through a stunning forest setting. With over 120 platforms connected by zip lines, suspension bridges, Tarzan swings, and climbing elements, there's something for all ages and abilities.",
+  "category": "adventure",
+  "subcategory": "Rope Park",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Interlaken",
+    "coordinates": {
+      "lat": 46.6863,
+      "lng": 7.8632
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Seilpark Interlaken",
+      "pricing": {
+        "child": 25,
+        "student": 35,
+        "adult": 45,
+        "senior": 38
+      },
+      "bookingUrl": "https://www.adventure-park.ch",
+      "rating": 4.5,
+      "description": "Full access to all rope courses"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Platforms",
+      "value": "120+"
+    },
+    {
+      "label": "Difficulty",
+      "value": "All levels"
+    },
+    {
+      "label": "Min Age",
+      "value": "4 years"
+    },
+    {
+      "label": "Setting",
+      "value": "Forest canopy"
+    },
+    {
+      "label": "Zip Lines",
+      "value": "Multiple"
+    }
+  ],
+  "tags": [
+    "rope park",
+    "zip line",
+    "climbing",
+    "forest",
+    "family"
+  ],
+  "featured": false
+}

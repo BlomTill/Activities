@@ -1,0 +1,83 @@
+{
+  "id": "134",
+  "slug": "horse-riding-jura",
+  "name": "Horse Riding in the Jura",
+  "description": "Trail riding through the rolling Freiberge highlands — Switzerland's horse country.",
+  "longDescription": "The Franches-Montagnes (Freiberge) in the Jura canton is Switzerland's traditional horse-breeding region, home of the Freiberger — the last Swiss horse breed. Ride through vast undulating meadows, pine forests, and past traditional farmsteads on guided trail rides.",
+  "category": "outdoor",
+  "subcategory": "Horse Riding",
+  "location": {
+    "region": "Jura & Three-Lakes",
+    "canton": "Jura",
+    "city": "Saignelégier",
+    "coordinates": {
+      "lat": 47.2555,
+      "lng": 6.9919
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Ranch des Franches-Montagnes",
+      "pricing": {
+        "child": 40,
+        "student": 60,
+        "adult": 75,
+        "senior": 70
+      },
+      "bookingUrl": "https://www.juratourisme.ch",
+      "rating": 4.5,
+      "description": "2-hour guided trail ride"
+    },
+    {
+      "name": "Marché-Concours Saignelégier",
+      "pricing": {
+        "child": 8,
+        "student": 15,
+        "adult": 20,
+        "senior": 18
+      },
+      "bookingUrl": "https://www.marcheconcours.ch",
+      "rating": 4.6,
+      "description": "Annual horse market (August) — entry ticket"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Breed",
+      "value": "Freiberger horse"
+    },
+    {
+      "label": "Terrain",
+      "value": "Meadows + forests"
+    },
+    {
+      "label": "Canton",
+      "value": "Jura"
+    },
+    {
+      "label": "Annual Event",
+      "value": "Marché-Concours"
+    },
+    {
+      "label": "Beginner",
+      "value": "Friendly"
+    }
+  ],
+  "tags": [
+    "horse riding",
+    "jura",
+    "freiberger",
+    "trail ride",
+    "nature"
+  ],
+  "featured": false
+}

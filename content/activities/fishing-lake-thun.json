@@ -1,0 +1,71 @@
+{
+  "id": "133",
+  "slug": "fishing-lake-thun",
+  "name": "Guided Fishing Lake Thun",
+  "description": "Guided fishing on Lake Thun for trout, perch, and whitefish with mountain scenery.",
+  "longDescription": "Fish the crystal-clear waters of Lake Thun with an experienced local guide. Target lake trout, perch, and whitefish against the backdrop of the Bernese Alps. All equipment provided, permits included, suitable for beginners and experienced anglers alike.",
+  "category": "outdoor",
+  "subcategory": "Fishing",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Thun",
+    "coordinates": {
+      "lat": 46.758,
+      "lng": 7.628
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Thun Fishing Guide",
+      "pricing": {
+        "child": 60,
+        "student": 95,
+        "adult": 120,
+        "senior": 110
+      },
+      "bookingUrl": "https://www.thuner-see.ch",
+      "rating": 4.5,
+      "description": "Half-day guided fishing trip"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1500463959177-e0869687df26?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Fish",
+      "value": "Trout, perch, whitefish"
+    },
+    {
+      "label": "Equipment",
+      "value": "All provided"
+    },
+    {
+      "label": "Permit",
+      "value": "Included"
+    },
+    {
+      "label": "Beginner",
+      "value": "Welcome"
+    },
+    {
+      "label": "Backdrop",
+      "value": "Bernese Alps"
+    }
+  ],
+  "tags": [
+    "fishing",
+    "lake thun",
+    "guided",
+    "outdoor",
+    "nature"
+  ],
+  "featured": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "10",
+  "slug": "laederach-chocolate-factory",
+  "name": "Läderach Chocolate Factory Tour",
+  "description": "Swiss chocolate factory tour with tastings and hands-on chocolate-making workshop.",
+  "longDescription": "Discover the art of Swiss chocolate-making at Läderach's ChocoAtelier in Bilten. The guided tour takes you through the chocolate production process, from cocoa bean to finished praline. Includes generous tastings of premium Swiss chocolate and a workshop where you create your own chocolate bar. A sweet experience that captures Switzerland's chocolate heritage.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "Glarus",
+    "city": "Bilten",
+    "coordinates": {
+      "lat": 47.1408,
+      "lng": 9.0344
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Läderach ChocoAtelier",
+      "pricing": {
+        "child": 15,
+        "student": 22,
+        "adult": 29,
+        "senior": 27
+      },
+      "bookingUrl": "https://www.laederach.com",
+      "rating": 4.5,
+      "description": "Official factory tour with tasting"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652e52?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Tastings",
+      "value": "Included"
+    },
+    {
+      "label": "Workshop",
+      "value": "Make your own"
+    },
+    {
+      "label": "Duration",
+      "value": "1.5 hours"
+    },
+    {
+      "label": "Founded",
+      "value": "1962"
+    },
+    {
+      "label": "Varieties",
+      "value": "Premium Swiss"
+    }
+  ],
+  "tags": [
+    "chocolate",
+    "factory",
+    "tasting",
+    "workshop",
+    "swiss culture"
+  ],
+  "featured": false
+}

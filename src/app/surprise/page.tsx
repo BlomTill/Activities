@@ -6,11 +6,13 @@ import Image from "next/image";
 import { Shuffle, MapPin, Clock, Star, ExternalLink, ArrowRight, Sparkles, Users } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { activities } from "@/data/activities";
+import { activities } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel, getSeasonColors } from "@/lib/seasons";
 import { Activity, getBestPrice, getAverageRating, getCheapestProvider } from "@/lib/types";
 import { cn } from "@/lib/utils";
+import { AffiliateLink } from "@/components/affiliate-link";
+import { AffiliateDisclosure } from "@/components/affiliate-disclosure";
 
 export default function SurprisePage() {
   const { ageGroup } = useAgeGroup();
@@ -108,10 +110,19 @@ export default function SurprisePage() {
                   <Link href={`/activities/${result.slug}`}>
                     <Button variant="outline" className="gap-2">Details <ArrowRight className="h-4 w-4" /></Button>
                   </Link>
-                  <a href={getCheapestProvider(result, ageGroup).bookingUrl} target="_blank" rel="noopener noreferrer">
+                  <AffiliateLink
+                    href={getCheapestProvider(result, ageGroup).bookingUrl}
+                    slot="other"
+                    slug={result.slug}
+                    providerName={getCheapestProvider(result, ageGroup).name}
+                    priceChf={getCheapestProvider(result, ageGroup).pricing[ageGroup]}
+                  >
                     <Button className="bg-red-600 hover:bg-red-700 gap-2">Book <ExternalLink className="h-4 w-4" /></Button>
-                  </a>
+                  </AffiliateLink>
                 </div>
+              </div>
+              <div className="mt-4">
+                <AffiliateDisclosure />
               </div>
             </div>
           </div>

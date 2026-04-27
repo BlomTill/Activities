@@ -1,0 +1,73 @@
+{
+  "id": "70",
+  "slug": "aare-swimming-bern",
+  "name": "Aare River Swimming in Bern",
+  "description": "Float down the turquoise Aare river through the Swiss capital — a beloved local tradition.",
+  "longDescription": "Swimming in the Aare is a Bernese tradition. Jump in at Eichholz or Marzili and float downstream through the heart of the city. The glacial river is refreshingly cool in summer.",
+  "category": "outdoor",
+  "subcategory": "Swimming",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Bern",
+    "coordinates": {
+      "lat": 46.94,
+      "lng": 7.44
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free (Public Access)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.bern.com",
+      "rating": 4.8
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Water Temp",
+      "value": "~17°C summer"
+    },
+    {
+      "label": "Entry Points",
+      "value": "Eichholz, Marzili"
+    },
+    {
+      "label": "Current",
+      "value": "Moderate-strong"
+    },
+    {
+      "label": "Free",
+      "value": "Public access"
+    },
+    {
+      "label": "Local Tradition",
+      "value": "Since forever"
+    }
+  ],
+  "tags": [
+    "swimming",
+    "river",
+    "free",
+    "bern",
+    "summer"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Activity",
+    "validUntil": "2026-12-31"
+  }
+}

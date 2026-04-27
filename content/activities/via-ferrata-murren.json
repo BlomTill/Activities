@@ -1,0 +1,82 @@
+{
+  "id": "49",
+  "slug": "via-ferrata-murren",
+  "name": "Via Ferrata Mürren",
+  "description": "Secured iron climbing routes along cliff faces above Lauterbrunnen Valley.",
+  "longDescription": "The Via Ferrata at Mürren traverses cliff faces high above the Lauterbrunnen Valley with steel cables and iron rungs. Multiple difficulty levels with breathtaking Eiger, Mönch, and Jungfrau views.",
+  "category": "adventure",
+  "subcategory": "Climbing",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Mürren",
+    "coordinates": {
+      "lat": 46.5587,
+      "lng": 7.8925
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Self-guided (Gear Rental)",
+      "pricing": {
+        "child": 0,
+        "student": 30,
+        "adult": 45,
+        "senior": 40
+      },
+      "bookingUrl": "https://www.muerren.swiss",
+      "rating": 4.7,
+      "description": "Via ferrata set rental at Sport Chalet Mürren"
+    },
+    {
+      "name": "Outdoor Interlaken (Guided)",
+      "pricing": {
+        "child": 0,
+        "student": 95,
+        "adult": 120,
+        "senior": 110
+      },
+      "bookingUrl": "https://www.outdoor-interlaken.ch",
+      "rating": 4.8,
+      "description": "Guided via ferrata with all equipment and instruction"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Difficulty",
+      "value": "K3-K5"
+    },
+    {
+      "label": "Valley Views",
+      "value": "Lauterbrunnen"
+    },
+    {
+      "label": "Equipment",
+      "value": "Rental or guided"
+    },
+    {
+      "label": "Min Age",
+      "value": "14 years"
+    },
+    {
+      "label": "Cable Route",
+      "value": "Steel secured"
+    }
+  ],
+  "tags": [
+    "via ferrata",
+    "climbing",
+    "adventure",
+    "mountain",
+    "views"
+  ],
+  "featured": false
+}

@@ -1,0 +1,80 @@
+{
+  "id": "80",
+  "slug": "engelberg-titlis-skiing",
+  "name": "Engelberg-Titlis Skiing",
+  "description": "Central Switzerland's top ski destination with glacier skiing and the revolving Rotair cable car.",
+  "longDescription": "Engelberg-Titlis offers 82km of slopes up to 3,020m with the iconic Titlis Rotair — the world's first revolving gondola. Glacier skiing guarantees snow from October to May, with legendary off-piste runs like the Laub.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Obwalden",
+    "city": "Engelberg",
+    "coordinates": {
+      "lat": 46.8197,
+      "lng": 8.4073
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Titlis Bergbahnen",
+      "pricing": {
+        "child": 35,
+        "student": 54,
+        "adult": 69,
+        "senior": 59
+      },
+      "bookingUrl": "https://www.titlis.ch",
+      "rating": 4.6
+    },
+    {
+      "name": "Prime Ski School Engelberg",
+      "pricing": {
+        "child": 80,
+        "student": 115,
+        "adult": 145,
+        "senior": 130
+      },
+      "bookingUrl": "https://www.prime-engelberg.ch",
+      "rating": 4.7,
+      "description": "Half-day group ski lesson"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slopes",
+      "value": "82 km"
+    },
+    {
+      "label": "Summit",
+      "value": "3,020m"
+    },
+    {
+      "label": "Rotair",
+      "value": "Revolving gondola"
+    },
+    {
+      "label": "Glacier",
+      "value": "Oct–May snow"
+    },
+    {
+      "label": "Off-Piste",
+      "value": "Legendary Laub run"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "glacier",
+    "winter",
+    "engelberg",
+    "titlis"
+  ],
+  "featured": false
+}

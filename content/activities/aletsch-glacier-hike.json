@@ -1,0 +1,82 @@
+{
+  "id": "24",
+  "slug": "aletsch-glacier-hike",
+  "name": "Aletsch Glacier Hike",
+  "description": "Guided hike along Europe's longest glacier — a UNESCO World Heritage Site.",
+  "longDescription": "The Great Aletsch Glacier is the longest glacier in the Alps at 23 km and a UNESCO World Heritage Site. Guided glacier hikes take you across the ice with crampons, through crevasses and past stunning blue ice formations.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Fiesch",
+    "coordinates": {
+      "lat": 46.4083,
+      "lng": 8.1003
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Aletsch Arena (Panorama Trail)",
+      "pricing": {
+        "child": 0,
+        "student": 35,
+        "adult": 48,
+        "senior": 42
+      },
+      "bookingUrl": "https://www.aletscharena.ch",
+      "rating": 4.8,
+      "description": "Cable car + panoramic trail (no glacier walking)"
+    },
+    {
+      "name": "Alpine Center Glacier Hike",
+      "pricing": {
+        "child": 60,
+        "student": 80,
+        "adult": 95,
+        "senior": 85
+      },
+      "bookingUrl": "https://www.alpinecenter.ch",
+      "rating": 4.9,
+      "description": "Guided on-ice glacier walk with crampons and equipment"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "5-7 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Glacier Length",
+      "value": "23 km"
+    },
+    {
+      "label": "UNESCO",
+      "value": "World Heritage"
+    },
+    {
+      "label": "Crampons",
+      "value": "Provided"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Moderate"
+    },
+    {
+      "label": "Guide",
+      "value": "Required on ice"
+    }
+  ],
+  "tags": [
+    "glacier",
+    "hiking",
+    "UNESCO",
+    "guided",
+    "alps"
+  ],
+  "featured": false
+}

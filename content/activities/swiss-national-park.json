@@ -1,0 +1,87 @@
+{
+  "id": "22",
+  "slug": "swiss-national-park",
+  "name": "Swiss National Park Hikes",
+  "description": "Hike through Switzerland's only national park — pristine wilderness in the Engadin valley.",
+  "longDescription": "The Swiss National Park in Graubünden is a protected wilderness area since 1914. Over 100km of marked hiking trails wind through untouched alpine landscapes. Spot ibex, chamois, marmots, golden eagles, and bearded vultures.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Zernez",
+    "coordinates": {
+      "lat": 46.695,
+      "lng": 10.0956
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Self-guided (Free)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.nationalpark.ch",
+      "rating": 4.7,
+      "description": "Free entry — follow marked trails"
+    },
+    {
+      "name": "National Park Guided Tour",
+      "pricing": {
+        "child": 10,
+        "student": 18,
+        "adult": 25,
+        "senior": 20
+      },
+      "bookingUrl": "https://www.nationalpark.ch/tours",
+      "rating": 4.9,
+      "description": "Ranger-guided wildlife excursion"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-8 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Trail km",
+      "value": "100+"
+    },
+    {
+      "label": "Protected Since",
+      "value": "1914"
+    },
+    {
+      "label": "Wildlife",
+      "value": "Ibex, Eagles"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Easy-Moderate"
+    },
+    {
+      "label": "Free Entry",
+      "value": "Yes"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "national park",
+    "wildlife",
+    "free",
+    "nature"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Activity",
+    "validUntil": "2026-12-31"
+  }
+}

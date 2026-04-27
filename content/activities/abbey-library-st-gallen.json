@@ -1,0 +1,72 @@
+{
+  "id": "101",
+  "slug": "abbey-library-st-gallen",
+  "name": "Abbey Library of St. Gallen",
+  "description": "UNESCO World Heritage baroque library — one of the oldest and most beautiful in the world.",
+  "longDescription": "The Abbey Library of St. Gallen, founded in the 8th century, is one of the richest and oldest libraries in the world with 170,000 volumes and priceless medieval manuscripts. The ornate baroque hall with its painted ceiling and inlaid floor is breathtakingly beautiful.",
+  "category": "culture",
+  "subcategory": "Historical Site",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "St. Gallen",
+    "city": "St. Gallen",
+    "coordinates": {
+      "lat": 47.4237,
+      "lng": 9.377
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Stiftsbibliothek St. Gallen",
+      "pricing": {
+        "child": 0,
+        "student": 10,
+        "adult": 18,
+        "senior": 15
+      },
+      "bookingUrl": "https://www.stiftsbezirk.ch",
+      "rating": 4.7,
+      "description": "Library and exhibition access"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1572953109213-3be62398eb95?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Founded",
+      "value": "8th century"
+    },
+    {
+      "label": "UNESCO",
+      "value": "World Heritage"
+    },
+    {
+      "label": "Volumes",
+      "value": "170,000"
+    },
+    {
+      "label": "Style",
+      "value": "Baroque masterpiece"
+    },
+    {
+      "label": "Manuscripts",
+      "value": "Medieval priceless"
+    }
+  ],
+  "tags": [
+    "library",
+    "UNESCO",
+    "baroque",
+    "medieval",
+    "st. gallen"
+  ],
+  "featured": true
+}

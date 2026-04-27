@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { Scale, X, MapPin, Clock, Star, ExternalLink, ArrowRight, Users } from "lucide-react";
+import { ActivityPhoto } from "@/components/activity-photo";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { useComparison } from "@/context/comparison-context";
@@ -70,9 +70,11 @@ export default function ComparePage() {
                   <X className="h-4 w-4" />
                 </button>
                 <div className="rounded-xl overflow-hidden border bg-white">
-                  <div className="relative aspect-[16/10] bg-gray-200">
-                    <Image src={activity.imageUrl} alt={activity.name} fill className="object-cover" sizes="300px" />
-                  </div>
+                  <ActivityPhoto
+                    activity={activity}
+                    aspect="16/10"
+                    sizes="300px"
+                  />
                   <div className="p-3">
                     <Link href={`/activities/${activity.slug}`} className="font-semibold text-gray-900 hover:text-red-600 text-sm line-clamp-1">
                       {activity.name}

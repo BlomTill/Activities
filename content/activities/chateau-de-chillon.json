@@ -1,0 +1,84 @@
+{
+  "id": "6",
+  "slug": "chateau-de-chillon",
+  "name": "Château de Chillon",
+  "description": "Switzerland's most visited castle, a medieval fortress on the shores of Lake Geneva.",
+  "longDescription": "Château de Chillon is a fairy-tale castle sitting on a rocky island on the shores of Lake Geneva near Montreux. Dating back to the 12th century, this medieval fortress features 25 buildings and 3 courtyards. Explore the underground vaults, grand halls, and towers with panoramic lake views. The castle inspired Lord Byron's poem 'The Prisoner of Chillon'.",
+  "category": "culture",
+  "subcategory": "Castle",
+  "location": {
+    "region": "Vaud",
+    "canton": "Vaud",
+    "city": "Montreux",
+    "coordinates": {
+      "lat": 46.4142,
+      "lng": 6.9272
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Château de Chillon",
+      "pricing": {
+        "child": 7,
+        "student": 10,
+        "adult": 13.5,
+        "senior": 11
+      },
+      "bookingUrl": "https://www.chillon.ch",
+      "rating": 4.6,
+      "description": "Official castle entry — self-guided with audio guide"
+    },
+    {
+      "name": "Swiss Museum Pass",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.museumspass.ch",
+      "rating": 4.5,
+      "description": "Free entry with Swiss Museum Pass"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-2.5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Founded",
+      "value": "12th Century"
+    },
+    {
+      "label": "Buildings",
+      "value": "25"
+    },
+    {
+      "label": "Courtyards",
+      "value": "3"
+    },
+    {
+      "label": "Audio Guide",
+      "value": "Included"
+    },
+    {
+      "label": "Lake Views",
+      "value": "Panoramic"
+    }
+  ],
+  "tags": [
+    "castle",
+    "history",
+    "lake geneva",
+    "medieval",
+    "montreux"
+  ],
+  "featured": false
+}

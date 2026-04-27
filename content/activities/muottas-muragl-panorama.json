@@ -1,0 +1,70 @@
+{
+  "id": "94",
+  "slug": "muottas-muragl-panorama",
+  "name": "Muottas Muragl Panorama Trail",
+  "description": "Engadin's finest viewpoint with sweeping views over the lake chain and Bernina massif.",
+  "longDescription": "Muottas Muragl (2,456m) offers what is often called the most beautiful view in Switzerland — the sparkling Engadin lake chain with the Bernina massif behind. Take the funicular and walk the Panorama trail along the ridge with 360-degree views.",
+  "category": "outdoor",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Samedan",
+    "coordinates": {
+      "lat": 46.5028,
+      "lng": 9.95
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Muottas Muragl Funicular",
+      "pricing": {
+        "child": 16,
+        "student": 28,
+        "adult": 36,
+        "senior": 32
+      },
+      "bookingUrl": "https://www.muottasmuragl.ch",
+      "rating": 4.8
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Altitude",
+      "value": "2,456m"
+    },
+    {
+      "label": "View",
+      "value": "Engadin lake chain"
+    },
+    {
+      "label": "Bernina",
+      "value": "4,049m backdrop"
+    },
+    {
+      "label": "Transport",
+      "value": "Funicular"
+    },
+    {
+      "label": "Trail",
+      "value": "Ridge panorama"
+    }
+  ],
+  "tags": [
+    "panorama",
+    "engadin",
+    "funicular",
+    "mountain",
+    "viewpoint"
+  ],
+  "featured": false
+}

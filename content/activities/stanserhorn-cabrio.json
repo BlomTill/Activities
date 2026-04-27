@@ -1,0 +1,70 @@
+{
+  "id": "33",
+  "slug": "stanserhorn-cabrio",
+  "name": "CabriO Stanserhorn",
+  "description": "The world's first open-top cable car with 360° alpine views near Lucerne.",
+  "longDescription": "The CabriO is the world's first and only cable car with an open-top upper deck. Ride to Stanserhorn summit (1,898m) with alpine breeze and 360° views.",
+  "category": "outdoor",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Nidwalden",
+    "city": "Stans",
+    "coordinates": {
+      "lat": 46.9278,
+      "lng": 8.3403
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Stanserhorn Bahn",
+      "pricing": {
+        "child": 28,
+        "student": 48,
+        "adult": 64,
+        "senior": 58
+      },
+      "bookingUrl": "https://www.stanserhorn.ch",
+      "rating": 4.7
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Summit",
+      "value": "1,898m"
+    },
+    {
+      "label": "CabriO",
+      "value": "World's first open-top"
+    },
+    {
+      "label": "Panorama",
+      "value": "360°"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Revolving"
+    },
+    {
+      "label": "Marmots",
+      "value": "Colony at top"
+    }
+  ],
+  "tags": [
+    "cable car",
+    "open-top",
+    "panorama",
+    "mountain",
+    "unique"
+  ],
+  "featured": false
+}

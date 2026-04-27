@@ -1,0 +1,70 @@
+{
+  "id": "72",
+  "slug": "five-lakes-walk-zermatt",
+  "name": "Five Lakes Walk Zermatt",
+  "description": "Moderate alpine hike past 5 crystal-clear lakes with Matterhorn reflections.",
+  "longDescription": "The 5-Seenweg is one of the best day hikes in Zermatt. Take the Sunnegga funicular, then walk past five beautiful mountain lakes, each reflecting the Matterhorn.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Zermatt",
+    "coordinates": {
+      "lat": 46.0207,
+      "lng": 7.7491
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Self-guided (Sunnegga funicular)",
+      "pricing": {
+        "child": 18,
+        "student": 30,
+        "adult": 40,
+        "senior": 36
+      },
+      "bookingUrl": "https://www.zermatt.ch",
+      "rating": 4.8,
+      "description": "Funicular to start point — trail is free"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Lakes",
+      "value": "5"
+    },
+    {
+      "label": "Trail",
+      "value": "~9.5 km"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Moderate"
+    },
+    {
+      "label": "Best Feature",
+      "value": "Matterhorn mirrors"
+    },
+    {
+      "label": "Start",
+      "value": "Sunnegga funicular"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "lakes",
+    "matterhorn",
+    "reflection",
+    "zermatt"
+  ],
+  "featured": false
+}

@@ -8,7 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import { ActivityCard } from "@/components/activity-card";
 import { DestinationSeasonHighlights } from "@/components/destination-season-highlights";
 import type { Activity, BlogPost } from "@/lib/types";
-import type { Itinerary } from "@/data/itineraries";
+import type { ItineraryDocument } from "@/lib/content/schemas";
 
 type TabKey = "itineraries" | "planning" | "budget" | "guides" | "seasons";
 
@@ -21,7 +21,7 @@ export function DestinationDetailTabs({
   allActivities,
   initialSeason,
 }: {
-  itineraries: Itinerary[];
+  itineraries: ItineraryDocument[];
   baseCities: Array<{ city: string; count: number; featured: number; minPrice: number }>;
   transportHints: Array<{ city: string; fromZurichTime: string; fromZurichAdultPrice: number; fromZurichHalfFare: number }>;
   budgetActivities: Activity[];

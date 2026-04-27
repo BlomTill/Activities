@@ -1,5 +1,5 @@
-import { activities } from "@/data/activities";
-import { itineraries } from "@/data/itineraries";
+import { activities } from "@/lib/content/selectors";
+import { itineraries } from "@/lib/content/selectors";
 import { getAverageRating, getBestPrice } from "./types";
 import { estimateSBBFare } from "./sbb";
 

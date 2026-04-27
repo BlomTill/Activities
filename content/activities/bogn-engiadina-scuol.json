@@ -1,0 +1,84 @@
+{
+  "id": "111",
+  "slug": "bogn-engiadina-scuol",
+  "name": "Bogn Engiadina Scuol",
+  "description": "Engadin mineral baths fed by natural sulphur and iron springs with stunning mountain views.",
+  "longDescription": "Bogn Engiadina in Scuol draws on the village's unique mineral springs — rich in sulphur and iron — for an authentic alpine bathing experience. Indoor and outdoor pools, Roman-Irish bath, and a panoramic sauna with views of the Lower Engadin mountains.",
+  "category": "wellness",
+  "subcategory": "Thermal Bath",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Scuol",
+    "coordinates": {
+      "lat": 46.7963,
+      "lng": 10.2983
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Bogn Engiadina (Pools)",
+      "pricing": {
+        "child": 14,
+        "student": 20,
+        "adult": 28,
+        "senior": 24
+      },
+      "bookingUrl": "https://www.bognengiadina.ch",
+      "rating": 4.5,
+      "description": "3-hour pool access"
+    },
+    {
+      "name": "Bogn Engiadina (Roman-Irish Bath)",
+      "pricing": {
+        "child": 0,
+        "student": 48,
+        "adult": 58,
+        "senior": 52
+      },
+      "bookingUrl": "https://www.bognengiadina.ch",
+      "rating": 4.7,
+      "description": "2.5-hour Roman-Irish ritual"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1574015974293-2096b3f48519?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Springs",
+      "value": "Sulphur + iron"
+    },
+    {
+      "label": "Pools",
+      "value": "Indoor + outdoor"
+    },
+    {
+      "label": "Roman-Irish",
+      "value": "Bath ritual"
+    },
+    {
+      "label": "Sauna",
+      "value": "Panoramic"
+    },
+    {
+      "label": "Setting",
+      "value": "Lower Engadin"
+    }
+  ],
+  "tags": [
+    "thermal bath",
+    "mineral",
+    "scuol",
+    "engadin",
+    "wellness"
+  ],
+  "featured": false
+}

@@ -1,0 +1,83 @@
+{
+  "id": "135",
+  "slug": "golf-crans-montana",
+  "name": "Golf Crans-Montana",
+  "description": "Play the championship course that hosts the European Masters at 1,500m altitude.",
+  "longDescription": "The Golf Club Crans-sur-Sierre hosts the Omega European Masters on one of the most scenic championship courses in the world. Playing at 1,500m altitude with views of Mont Blanc, Matterhorn, and the Valais Alps, the Severiano Ballesteros course is a bucket-list round.",
+  "category": "outdoor",
+  "subcategory": "Golf",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Crans-Montana",
+    "coordinates": {
+      "lat": 46.3076,
+      "lng": 7.49
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Golf Club Crans-sur-Sierre (18 holes)",
+      "pricing": {
+        "child": 0,
+        "student": 85,
+        "adult": 150,
+        "senior": 130
+      },
+      "bookingUrl": "https://www.golfcrans.ch",
+      "rating": 4.7,
+      "description": "Green fee — Severiano Ballesteros course"
+    },
+    {
+      "name": "Golf Club Crans-sur-Sierre (9 holes Jack Nicklaus)",
+      "pricing": {
+        "child": 0,
+        "student": 50,
+        "adult": 85,
+        "senior": 75
+      },
+      "bookingUrl": "https://www.golfcrans.ch",
+      "rating": 4.5,
+      "description": "Green fee — Jack Nicklaus course"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Altitude",
+      "value": "1,500m"
+    },
+    {
+      "label": "European Masters",
+      "value": "Host course"
+    },
+    {
+      "label": "Views",
+      "value": "Mont Blanc + Matterhorn"
+    },
+    {
+      "label": "Designer",
+      "value": "Ballesteros + Nicklaus"
+    },
+    {
+      "label": "Holes",
+      "value": "18 + 9"
+    }
+  ],
+  "tags": [
+    "golf",
+    "crans-montana",
+    "championship",
+    "luxury",
+    "alpine"
+  ],
+  "featured": false
+}

@@ -1,0 +1,93 @@
+{
+  "id": "28",
+  "slug": "st-moritz-skiing",
+  "name": "St. Moritz Corviglia Skiing",
+  "description": "Ski the glamorous slopes of St. Moritz with 155km of runs and legendary sunshine.",
+  "longDescription": "St. Moritz is synonymous with luxury alpine sports. The Corviglia ski area offers 155km of perfectly groomed runs. Famous for hosting two Winter Olympics. Known for 322 days of sunshine per year.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "St. Moritz",
+    "coordinates": {
+      "lat": 46.4908,
+      "lng": 9.8355
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Engadin St. Moritz Mountains",
+      "pricing": {
+        "child": 35,
+        "student": 55,
+        "adult": 74,
+        "senior": 63
+      },
+      "bookingUrl": "https://www.mountains.ch",
+      "rating": 4.7,
+      "description": "Day pass for Corviglia ski area"
+    },
+    {
+      "name": "Engadin St. Moritz (Full Region)",
+      "pricing": {
+        "child": 48,
+        "student": 72,
+        "adult": 98,
+        "senior": 83
+      },
+      "bookingUrl": "https://www.mountains.ch",
+      "rating": 4.8,
+      "description": "Full Engadin region pass — Corviglia, Corvatsch, Diavolezza"
+    },
+    {
+      "name": "Swiss Ski School St. Moritz",
+      "pricing": {
+        "child": 95,
+        "student": 130,
+        "adult": 160,
+        "senior": 140
+      },
+      "bookingUrl": "https://www.skischool-stmoritz.ch",
+      "rating": 4.6,
+      "description": "Half-day group lesson (lift pass separate)"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slope km",
+      "value": "155 km"
+    },
+    {
+      "label": "Lifts",
+      "value": "24"
+    },
+    {
+      "label": "Highest Point",
+      "value": "3,303m"
+    },
+    {
+      "label": "Difficulty",
+      "value": "25% easy · 50% med · 25% hard"
+    },
+    {
+      "label": "Sunshine",
+      "value": "322 days/yr"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "luxury",
+    "winter",
+    "glamour",
+    "alps"
+  ],
+  "featured": false
+}

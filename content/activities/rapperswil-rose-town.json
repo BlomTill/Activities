@@ -1,0 +1,75 @@
+{
+  "id": "50",
+  "slug": "rapperswil-rose-town",
+  "name": "Rapperswil Rose Town & Castle",
+  "description": "The 'Town of Roses' with medieval castle, 15,000 roses, and lakeside promenade.",
+  "longDescription": "Rapperswil features over 15,000 roses in 600 varieties blooming from May to October. The 13th-century castle offers panoramic lake and mountain views.",
+  "category": "culture",
+  "subcategory": "Town Visit",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "St. Gallen",
+    "city": "Rapperswil",
+    "coordinates": {
+      "lat": 47.2266,
+      "lng": 8.8184
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free Visit",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.rapperswil-zuerichsee.ch",
+      "rating": 4.4
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4f44baee?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Roses",
+      "value": "15,000+"
+    },
+    {
+      "label": "Varieties",
+      "value": "600"
+    },
+    {
+      "label": "Castle",
+      "value": "13th century"
+    },
+    {
+      "label": "Bloom",
+      "value": "May-October"
+    },
+    {
+      "label": "Free Entry",
+      "value": "Yes"
+    }
+  ],
+  "tags": [
+    "roses",
+    "castle",
+    "lake",
+    "free",
+    "medieval"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Activity",
+    "validUntil": "2026-12-31"
+  }
+}

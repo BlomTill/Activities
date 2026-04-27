@@ -1,0 +1,71 @@
+{
+  "id": "29",
+  "slug": "bungee-jumping-verzasca",
+  "name": "Bungee Jumping Verzasca Dam",
+  "description": "Leap 220m from the famous James Bond GoldenEye dam — Switzerland's highest bungee jump.",
+  "longDescription": "The Verzasca Dam bungee jump is where James Bond leaped in GoldenEye's iconic opening scene. At 220 meters, it's one of the highest commercial bungee jumps in the world.",
+  "category": "adventure",
+  "subcategory": "Extreme Sports",
+  "location": {
+    "region": "Ticino",
+    "canton": "Ticino",
+    "city": "Locarno",
+    "coordinates": {
+      "lat": 46.2572,
+      "lng": 8.8481
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Trekking Team",
+      "pricing": {
+        "child": 0,
+        "student": 195,
+        "adult": 255,
+        "senior": 255
+      },
+      "bookingUrl": "https://www.trekking.ch",
+      "rating": 4.9,
+      "description": "Original operator — includes GoPro video"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Height",
+      "value": "220m"
+    },
+    {
+      "label": "James Bond",
+      "value": "GoldenEye 1995"
+    },
+    {
+      "label": "Min Age",
+      "value": "18 years"
+    },
+    {
+      "label": "Freefall",
+      "value": "~7.5 seconds"
+    },
+    {
+      "label": "GoPro Video",
+      "value": "Included"
+    }
+  ],
+  "tags": [
+    "bungee",
+    "extreme",
+    "james bond",
+    "adrenaline",
+    "ticino"
+  ],
+  "featured": false
+}

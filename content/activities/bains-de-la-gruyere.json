@@ -1,0 +1,83 @@
+{
+  "id": "112",
+  "slug": "bains-de-la-gruyere",
+  "name": "Bains de la Gruyère",
+  "description": "Alpine thermal baths in Charmey with panoramic mountain views and saltwater pools.",
+  "longDescription": "Les Bains de la Gruyère in Charmey offer indoor and outdoor thermal pools at 34°C with views of the Fribourg Pre-Alps. The saltwater pool, hammam, saunas, and relaxation areas create a perfect wellness escape near Gruyères.",
+  "category": "wellness",
+  "subcategory": "Thermal Bath",
+  "location": {
+    "region": "Fribourg Region",
+    "canton": "Fribourg",
+    "city": "Charmey",
+    "coordinates": {
+      "lat": 46.6192,
+      "lng": 7.1631
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Bains de la Gruyère (3 hours)",
+      "pricing": {
+        "child": 12,
+        "student": 19,
+        "adult": 25,
+        "senior": 22
+      },
+      "bookingUrl": "https://www.bainsdelagruyere.ch",
+      "rating": 4.5
+    },
+    {
+      "name": "Bains de la Gruyère (Full Day)",
+      "pricing": {
+        "child": 18,
+        "student": 28,
+        "adult": 36,
+        "senior": 32
+      },
+      "bookingUrl": "https://www.bainsdelagruyere.ch",
+      "rating": 4.6,
+      "description": "Full-day access including saunas"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Water Temp",
+      "value": "34°C"
+    },
+    {
+      "label": "Pools",
+      "value": "Indoor + outdoor"
+    },
+    {
+      "label": "Saltwater",
+      "value": "Pool available"
+    },
+    {
+      "label": "Views",
+      "value": "Fribourg Pre-Alps"
+    },
+    {
+      "label": "Near",
+      "value": "Gruyères village"
+    }
+  ],
+  "tags": [
+    "thermal bath",
+    "spa",
+    "gruyère",
+    "fribourg",
+    "wellness"
+  ],
+  "featured": false
+}

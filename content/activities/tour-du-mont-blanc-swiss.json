@@ -1,0 +1,80 @@
+{
+  "id": "91",
+  "slug": "tour-du-mont-blanc-swiss",
+  "name": "Tour du Mont Blanc – Swiss Section",
+  "description": "Walk the Swiss stage of the world-famous Tour du Mont Blanc through alpine valleys and villages.",
+  "longDescription": "The Swiss section of the Tour du Mont Blanc passes through the charming Val Ferret from Champex-Lac to La Fouly and over the Grand Col Ferret. This multi-day section offers stunning views of Mont Blanc, wildflower meadows, and traditional Valais mountain villages.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Champex-Lac",
+    "coordinates": {
+      "lat": 46.0291,
+      "lng": 7.119
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Self-guided (Free trail)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.autourdumontblanc.com",
+      "rating": 4.9
+    },
+    {
+      "name": "Allibert Trekking (Guided)",
+      "pricing": {
+        "child": 0,
+        "student": 450,
+        "adult": 550,
+        "senior": 500
+      },
+      "bookingUrl": "https://www.allibert-trekking.com",
+      "rating": 4.7,
+      "description": "3-day guided Swiss section with mountain huts"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 days",
+  "imageUrl": "https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Days",
+      "value": "2-3"
+    },
+    {
+      "label": "Key Pass",
+      "value": "Grand Col Ferret (2,537m)"
+    },
+    {
+      "label": "Views",
+      "value": "Mont Blanc massif"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Challenging"
+    },
+    {
+      "label": "Huts",
+      "value": "Mountain accommodation"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "multi-day",
+    "mont blanc",
+    "trekking",
+    "valais"
+  ],
+  "featured": false
+}

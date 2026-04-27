@@ -1,0 +1,84 @@
+{
+  "id": "16",
+  "slug": "thermalbad-zurich",
+  "name": "Thermalbad & Spa Zürich",
+  "description": "Urban thermal baths in a converted historic brewery with rooftop pool overlooking Zurich.",
+  "longDescription": "Hürlimann Thermalbad & Spa is a stunning urban spa set in a beautifully converted 19th-century brewery. The highlight is the rooftop thermal pool offering panoramic views over Zurich's skyline. Fed by natural mineral springs, the spa features an Irish-Roman bath ritual, various saunas, steam rooms, and relaxation areas.",
+  "category": "wellness",
+  "subcategory": "Thermal Bath",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3652,
+      "lng": 8.5285
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Thermalbad (Bath only)",
+      "pricing": {
+        "child": 0,
+        "student": 36,
+        "adult": 44,
+        "senior": 40
+      },
+      "bookingUrl": "https://www.thermalbad.ch",
+      "rating": 4.4,
+      "description": "2-hour thermal bath access with rooftop pool"
+    },
+    {
+      "name": "Thermalbad (Irish-Roman Ritual)",
+      "pricing": {
+        "child": 0,
+        "student": 60,
+        "adult": 72,
+        "senior": 65
+      },
+      "bookingUrl": "https://www.thermalbad.ch",
+      "rating": 4.7,
+      "description": "Full 3-hour Irish-Roman bath ceremony"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6e6977f35?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Water Temp",
+      "value": "36°C"
+    },
+    {
+      "label": "Rooftop Pool",
+      "value": "Panoramic"
+    },
+    {
+      "label": "Building",
+      "value": "1836 Brewery"
+    },
+    {
+      "label": "Irish-Roman",
+      "value": "3h ritual"
+    },
+    {
+      "label": "Min Age",
+      "value": "16+ (spa)"
+    }
+  ],
+  "tags": [
+    "spa",
+    "thermal bath",
+    "zurich",
+    "rooftop",
+    "wellness"
+  ],
+  "featured": false
+}

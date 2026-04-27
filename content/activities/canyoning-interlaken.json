@@ -1,0 +1,93 @@
+{
+  "id": "21",
+  "slug": "canyoning-interlaken",
+  "name": "Canyoning in Interlaken",
+  "description": "Descend through narrow gorges, slide down natural water slides, and jump into crystal pools.",
+  "longDescription": "Canyoning in the Interlaken region is an unforgettable adventure. Guided by professionals, you'll descend through narrow gorges, rappel down waterfalls, slide down natural water slides, and jump into emerald pools. Various difficulty levels from beginner-friendly Saxeten gorge to the extreme Grimsel canyon.",
+  "category": "adventure",
+  "subcategory": "Water Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Interlaken",
+    "coordinates": {
+      "lat": 46.6863,
+      "lng": 7.8632
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Outdoor Interlaken",
+      "pricing": {
+        "child": 95,
+        "student": 125,
+        "adult": 145,
+        "senior": 145
+      },
+      "bookingUrl": "https://www.outdoor-interlaken.ch",
+      "rating": 4.8,
+      "description": "Most popular operator — Saxeten and Grimsel canyons"
+    },
+    {
+      "name": "Alpin Raft",
+      "pricing": {
+        "child": 90,
+        "student": 120,
+        "adult": 139,
+        "senior": 139
+      },
+      "bookingUrl": "https://www.alpinraft.ch",
+      "rating": 4.7,
+      "description": "Smaller groups, beginner-friendly"
+    },
+    {
+      "name": "SwissRaft",
+      "pricing": {
+        "child": 85,
+        "student": 115,
+        "adult": 135,
+        "senior": 135
+      },
+      "bookingUrl": "https://www.swissraft.ch",
+      "rating": 4.6,
+      "description": "Budget option with solid reviews"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1545289414-1c3cb1c06238?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Rapids",
+      "value": "Class III-IV"
+    },
+    {
+      "label": "Min Age",
+      "value": "14 years"
+    },
+    {
+      "label": "Equipment",
+      "value": "All included"
+    },
+    {
+      "label": "Water Temp",
+      "value": "~10°C glacial"
+    },
+    {
+      "label": "Providers",
+      "value": "3 operators"
+    }
+  ],
+  "tags": [
+    "canyoning",
+    "water",
+    "adventure",
+    "gorge",
+    "extreme"
+  ],
+  "featured": false
+}

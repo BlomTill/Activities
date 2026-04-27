@@ -1,0 +1,69 @@
+{
+  "id": "146",
+  "slug": "oeschinen-lake-winter",
+  "name": "Oeschinen Lake Winter Experience",
+  "description": "Visit the frozen UNESCO lake for ice fishing, winter hiking, and a magical snow-covered landscape.",
+  "longDescription": "Lake Oeschinen transforms in winter into a magical frozen wonderland. When conditions allow, the frozen surface becomes a natural ice rink and ice fishing spot. Winter hiking trails through the snow-covered landscape and a toboggan run from the gondola station complete the experience.",
+  "category": "outdoor",
+  "subcategory": "Winter Experience",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Kandersteg",
+    "coordinates": {
+      "lat": 46.4975,
+      "lng": 7.7241
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Oeschinensee Gondola (Winter)",
+      "pricing": {
+        "child": 12,
+        "student": 18,
+        "adult": 24,
+        "senior": 22
+      },
+      "bookingUrl": "https://www.oeschinensee.ch",
+      "rating": 4.7,
+      "description": "Return gondola + toboggan run included"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Frozen Lake",
+      "value": "Natural ice"
+    },
+    {
+      "label": "UNESCO",
+      "value": "World Heritage"
+    },
+    {
+      "label": "Toboggan",
+      "value": "Run from gondola"
+    },
+    {
+      "label": "Ice Fishing",
+      "value": "When frozen"
+    },
+    {
+      "label": "Scenery",
+      "value": "Snow wonderland"
+    }
+  ],
+  "tags": [
+    "winter",
+    "frozen lake",
+    "hiking",
+    "kandersteg",
+    "UNESCO"
+  ],
+  "featured": false
+}

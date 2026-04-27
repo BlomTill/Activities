@@ -1,0 +1,83 @@
+{
+  "id": "9",
+  "slug": "rhine-falls-schaffhausen",
+  "name": "Rhine Falls",
+  "description": "Europe's largest waterfall — a thundering spectacle near Schaffhausen.",
+  "longDescription": "The Rhine Falls near Schaffhausen is Europe's largest plain waterfall, 150 meters wide and 23 meters high. Take a boat ride right up to the central rock in the middle of the falls, or enjoy the viewing platforms along both banks. The adventure park nearby offers zip lines and a children's playground. Evening illuminations in summer add a magical touch.",
+  "category": "outdoor",
+  "subcategory": "Waterfall",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "Schaffhausen",
+    "city": "Neuhausen",
+    "coordinates": {
+      "lat": 47.6779,
+      "lng": 8.6151
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Rhine Falls Official",
+      "pricing": {
+        "child": 4,
+        "student": 6,
+        "adult": 8,
+        "senior": 7
+      },
+      "bookingUrl": "https://www.rheinfall.ch",
+      "rating": 4.4,
+      "description": "Platform viewing ticket"
+    },
+    {
+      "name": "Rhine Falls Boat Tours",
+      "pricing": {
+        "child": 10,
+        "student": 15,
+        "adult": 20,
+        "senior": 18
+      },
+      "bookingUrl": "https://www.rheinfall.ch/boat",
+      "rating": 4.6,
+      "description": "Boat ride to the rock in the middle of the falls"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1559128010-92a8ef05bd22?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Width",
+      "value": "150m"
+    },
+    {
+      "label": "Height",
+      "value": "23m"
+    },
+    {
+      "label": "Flow Rate",
+      "value": "600 m³/s"
+    },
+    {
+      "label": "Boat Ride",
+      "value": "Available"
+    },
+    {
+      "label": "Night Show",
+      "value": "Summer"
+    }
+  ],
+  "tags": [
+    "waterfall",
+    "nature",
+    "boat",
+    "family",
+    "schaffhausen"
+  ],
+  "featured": false
+}

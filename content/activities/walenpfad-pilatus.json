@@ -1,0 +1,70 @@
+{
+  "id": "90",
+  "slug": "walenpfad-pilatus",
+  "name": "Walenpfad Pilatus Ridge Walk",
+  "description": "Exposed ridge walk on Mount Pilatus with breathtaking views of central Swiss lakes and peaks.",
+  "longDescription": "The Walenpfad is a thrilling ridge-top trail on Pilatus offering dramatic drop-offs and panoramic views across Lake Lucerne, Lake Zug, and the Alpine chain. Starting from Pilatus Kulm, this exposed but secured path is one of the most spectacular short hikes in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Lucerne",
+    "city": "Kriens",
+    "coordinates": {
+      "lat": 46.9793,
+      "lng": 8.2543
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Pilatus Bahnen (Cable Car)",
+      "pricing": {
+        "child": 28,
+        "student": 48,
+        "adult": 62,
+        "senior": 56
+      },
+      "bookingUrl": "https://www.pilatus.ch",
+      "rating": 4.7,
+      "description": "Return cable car — trail free"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Trail",
+      "value": "~3.5 km"
+    },
+    {
+      "label": "Exposure",
+      "value": "Ridge walk"
+    },
+    {
+      "label": "Views",
+      "value": "Lakes + Alps"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Moderate-Challenging"
+    },
+    {
+      "label": "Start",
+      "value": "Pilatus Kulm"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "ridge",
+    "pilatus",
+    "panorama",
+    "exposed"
+  ],
+  "featured": false
+}

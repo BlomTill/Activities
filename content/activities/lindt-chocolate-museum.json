@@ -1,0 +1,84 @@
+{
+  "id": "74",
+  "slug": "lindt-chocolate-museum",
+  "name": "Lindt Home of Chocolate",
+  "description": "The world's largest chocolate museum with a 9-meter chocolate fountain.",
+  "longDescription": "The Lindt Home of Chocolate in Kilchberg features the world's largest chocolate fountain (9m), interactive exhibits on the history of chocolate, tasting sessions, and a chocolate-making course.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Kilchberg",
+    "coordinates": {
+      "lat": 47.32,
+      "lng": 8.55
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Lindt (Exhibition)",
+      "pricing": {
+        "child": 8,
+        "student": 12,
+        "adult": 16,
+        "senior": 14
+      },
+      "bookingUrl": "https://www.lindt-home-of-chocolate.com",
+      "rating": 4.5,
+      "description": "Museum and tasting experience"
+    },
+    {
+      "name": "Lindt (Chocolate Course)",
+      "pricing": {
+        "child": 45,
+        "student": 55,
+        "adult": 65,
+        "senior": 60
+      },
+      "bookingUrl": "https://www.lindt-home-of-chocolate.com",
+      "rating": 4.8,
+      "description": "2-hour hands-on chocolate making workshop"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652e52?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Fountain",
+      "value": "9m chocolate"
+    },
+    {
+      "label": "Founded",
+      "value": "1845 Lindt"
+    },
+    {
+      "label": "Workshop",
+      "value": "2h course"
+    },
+    {
+      "label": "Tastings",
+      "value": "Multiple"
+    },
+    {
+      "label": "World's Largest",
+      "value": "Choco museum"
+    }
+  ],
+  "tags": [
+    "chocolate",
+    "lindt",
+    "museum",
+    "tasting",
+    "workshop"
+  ],
+  "featured": false
+}

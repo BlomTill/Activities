@@ -4,7 +4,7 @@ import dynamic from "next/dynamic";
 import { useState } from "react";
 import { Map as MapIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { activities } from "@/data/activities";
+import { activities } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
 import { CATEGORIES } from "@/lib/constants";

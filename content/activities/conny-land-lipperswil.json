@@ -1,0 +1,70 @@
+{
+  "id": "116",
+  "slug": "conny-land-lipperswil",
+  "name": "Conny-Land Lipperswil",
+  "description": "Eastern Switzerland's largest amusement park with roller coasters, shows, and family rides.",
+  "longDescription": "Conny-Land in Lipperswil is the largest amusement park in Eastern Switzerland with roller coasters, water rides, a freefall tower, and live entertainment shows. Set between Constance and Zurich, it offers a full day of family fun with over 40 attractions.",
+  "category": "family",
+  "subcategory": "Theme Park",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "Thurgau",
+    "city": "Lipperswil",
+    "coordinates": {
+      "lat": 47.6028,
+      "lng": 9.1186
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Conny-Land",
+      "pricing": {
+        "child": 28,
+        "student": 36,
+        "adult": 42,
+        "senior": 36
+      },
+      "bookingUrl": "https://www.connyland.ch",
+      "rating": 4
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-7 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1535930749574-1399327ce78f?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Attractions",
+      "value": "40+"
+    },
+    {
+      "label": "Coasters",
+      "value": "Multiple"
+    },
+    {
+      "label": "Water Rides",
+      "value": "Yes"
+    },
+    {
+      "label": "Shows",
+      "value": "Live entertainment"
+    },
+    {
+      "label": "Canton",
+      "value": "Thurgau"
+    }
+  ],
+  "tags": [
+    "amusement park",
+    "rides",
+    "roller coaster",
+    "thurgau",
+    "family"
+  ],
+  "featured": false
+}

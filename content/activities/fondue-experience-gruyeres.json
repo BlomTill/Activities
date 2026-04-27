@@ -1,0 +1,96 @@
+{
+  "id": "40",
+  "slug": "fondue-experience-gruyeres",
+  "name": "Fondue Experience in Gruyères",
+  "description": "Taste authentic Swiss fondue in the medieval town where Gruyère cheese originates.",
+  "longDescription": "Visit the picturesque medieval town of Gruyères and enjoy authentic fondue at its birthplace. Tour the Maison du Gruyère cheese factory, then head to a traditional restaurant for the classic fondue experience.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Fribourg Region",
+    "canton": "Fribourg",
+    "city": "Gruyères",
+    "coordinates": {
+      "lat": 46.5839,
+      "lng": 7.0801
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "La Maison du Gruyère (Factory Tour)",
+      "pricing": {
+        "child": 5,
+        "student": 8,
+        "adult": 12,
+        "senior": 10
+      },
+      "bookingUrl": "https://www.lamaisondugruyere.ch",
+      "rating": 4.5,
+      "description": "Cheese factory tour with tasting"
+    },
+    {
+      "name": "Restaurant Le Chalet (Fondue)",
+      "pricing": {
+        "child": 12,
+        "student": 22,
+        "adult": 32,
+        "senior": 28
+      },
+      "bookingUrl": "https://www.chalet-gruyeres.ch",
+      "rating": 4.7,
+      "description": "Traditional fondue in medieval setting"
+    },
+    {
+      "name": "Gruyères Combo (Factory + Fondue)",
+      "pricing": {
+        "child": 15,
+        "student": 28,
+        "adult": 40,
+        "senior": 35
+      },
+      "bookingUrl": "https://www.la-gruyere.ch",
+      "rating": 4.6,
+      "description": "Combined factory tour + fondue lunch"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Cheese Origin",
+      "value": "Gruyères"
+    },
+    {
+      "label": "Factory Tour",
+      "value": "Live production"
+    },
+    {
+      "label": "Fondue Type",
+      "value": "Classic moitié-moitié"
+    },
+    {
+      "label": "Medieval Town",
+      "value": "13th century"
+    },
+    {
+      "label": "Tastings",
+      "value": "Included"
+    }
+  ],
+  "tags": [
+    "fondue",
+    "cheese",
+    "food",
+    "medieval",
+    "gruyères"
+  ],
+  "featured": true
+}

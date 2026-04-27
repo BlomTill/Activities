@@ -1,0 +1,84 @@
+{
+  "id": "30",
+  "slug": "leukerbad-thermal-baths",
+  "name": "Leukerbad Thermal Baths",
+  "description": "Europe's largest alpine thermal bath complex with hot springs and mountain panoramas.",
+  "longDescription": "Leukerbad is home to Europe's largest alpine thermal bath complex. Multiple indoor and outdoor pools fed by natural hot springs at 51°C, with views of dramatic 2,000-meter cliffs.",
+  "category": "wellness",
+  "subcategory": "Thermal Bath",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Leukerbad",
+    "coordinates": {
+      "lat": 46.379,
+      "lng": 7.6267
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Leukerbad Therme",
+      "pricing": {
+        "child": 16,
+        "student": 23,
+        "adult": 33,
+        "senior": 28
+      },
+      "bookingUrl": "https://www.leukerbad-therme.ch",
+      "rating": 4.6,
+      "description": "Main thermal complex — public pool and slides"
+    },
+    {
+      "name": "Walliser Alpentherme",
+      "pricing": {
+        "child": 20,
+        "student": 28,
+        "adult": 38,
+        "senior": 32
+      },
+      "bookingUrl": "https://www.alpentherme.ch",
+      "rating": 4.7,
+      "description": "Upscale option with Roman-Irish bath and panoramic pool"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Water Temp",
+      "value": "51°C"
+    },
+    {
+      "label": "Pools",
+      "value": "Indoor + Outdoor"
+    },
+    {
+      "label": "Altitude",
+      "value": "1,411m"
+    },
+    {
+      "label": "Cliff Views",
+      "value": "2,000m walls"
+    },
+    {
+      "label": "Europe's Largest",
+      "value": "Alpine thermal"
+    }
+  ],
+  "tags": [
+    "thermal bath",
+    "hot springs",
+    "mountains",
+    "wellness",
+    "relaxation"
+  ],
+  "featured": false
+}

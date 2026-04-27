@@ -1,0 +1,71 @@
+{
+  "id": "100",
+  "slug": "fifa-museum-zurich",
+  "name": "FIFA Museum Zurich",
+  "description": "Interactive football museum with 1,000+ objects tracing the global history of the beautiful game.",
+  "longDescription": "The FIFA Museum in Zurich's Enge quarter takes visitors through the history and emotion of world football across three floors. Over 1,000 objects including original World Cup trophies, interactive penalty shootouts, and immersive match experiences.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3643,
+      "lng": 8.5283
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "FIFA Museum",
+      "pricing": {
+        "child": 14,
+        "student": 18,
+        "adult": 24,
+        "senior": 20
+      },
+      "bookingUrl": "https://www.fifamuseum.com",
+      "rating": 4.2
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-2.5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Exhibits",
+      "value": "1,000+ objects"
+    },
+    {
+      "label": "World Cup",
+      "value": "Original trophies"
+    },
+    {
+      "label": "Interactive",
+      "value": "Penalty shootout"
+    },
+    {
+      "label": "Floors",
+      "value": "3"
+    },
+    {
+      "label": "Football",
+      "value": "Global history"
+    }
+  ],
+  "tags": [
+    "museum",
+    "football",
+    "FIFA",
+    "zurich",
+    "interactive"
+  ],
+  "featured": false
+}

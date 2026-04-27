@@ -1,0 +1,81 @@
+{
+  "id": "132",
+  "slug": "sup-lake-zurich",
+  "name": "Stand-Up Paddling Lake Zurich",
+  "description": "SUP on Lake Zurich with city skyline views and the Alps in the background.",
+  "longDescription": "Stand-up paddleboarding on Lake Zurich combines an urban experience with alpine scenery. Paddle from Zürichhorn past the Opera House to Bürkliplatz, or explore quieter sections along the Gold Coast. Multiple rental stations along the lake.",
+  "category": "outdoor",
+  "subcategory": "Water Sports",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3543,
+      "lng": 8.544
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SUP Zurich (1-hour rental)",
+      "pricing": {
+        "child": 15,
+        "student": 22,
+        "adult": 28,
+        "senior": 25
+      },
+      "bookingUrl": "https://www.sup-zurich.ch",
+      "rating": 4.4,
+      "description": "1-hour board rental"
+    },
+    {
+      "name": "SUP Zurich (Sunset Tour)",
+      "pricing": {
+        "child": 25,
+        "student": 38,
+        "adult": 48,
+        "senior": 42
+      },
+      "bookingUrl": "https://www.sup-zurich.ch",
+      "rating": 4.7,
+      "description": "Guided 2-hour sunset paddle"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1543332164-6e82f355badc?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "City + Alps"
+    },
+    {
+      "label": "Rental",
+      "value": "Multiple stations"
+    },
+    {
+      "label": "Sunset Tour",
+      "value": "Available"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Beginner friendly"
+    },
+    {
+      "label": "Gold Coast",
+      "value": "Quieter option"
+    }
+  ],
+  "tags": [
+    "SUP",
+    "paddleboarding",
+    "lake zurich",
+    "summer",
+    "city"
+  ],
+  "featured": false
+}

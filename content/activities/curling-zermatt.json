@@ -1,0 +1,69 @@
+{
+  "id": "139",
+  "slug": "curling-zermatt",
+  "name": "Curling Experience Zermatt",
+  "description": "Try Olympic curling on outdoor ice rinks with Matterhorn views in Zermatt.",
+  "longDescription": "Experience the Olympic sport of curling in one of the world's most dramatic settings — outdoor ice rinks in Zermatt with the Matterhorn as your backdrop. Professional instructors teach the basics of stone delivery, sweeping, and strategy in a fun group session.",
+  "category": "adventure",
+  "subcategory": "Winter Sports",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Zermatt",
+    "coordinates": {
+      "lat": 46.0207,
+      "lng": 7.7491
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Zermatt Curling Club",
+      "pricing": {
+        "child": 20,
+        "student": 32,
+        "adult": 42,
+        "senior": 38
+      },
+      "bookingUrl": "https://www.zermatt.ch",
+      "rating": 4.4,
+      "description": "2-hour beginner session with equipment"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1575721150019-61b5f87bcee4?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Olympic Sport",
+      "value": "Curling"
+    },
+    {
+      "label": "Backdrop",
+      "value": "Matterhorn"
+    },
+    {
+      "label": "Equipment",
+      "value": "All provided"
+    },
+    {
+      "label": "Instruction",
+      "value": "Professional coach"
+    },
+    {
+      "label": "Beginner",
+      "value": "No experience needed"
+    }
+  ],
+  "tags": [
+    "curling",
+    "winter",
+    "zermatt",
+    "olympic",
+    "ice"
+  ],
+  "featured": false
+}

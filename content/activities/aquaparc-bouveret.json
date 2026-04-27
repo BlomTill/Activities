@@ -1,0 +1,70 @@
+{
+  "id": "51",
+  "slug": "aquaparc-bouveret",
+  "name": "Aquaparc Le Bouveret",
+  "description": "Switzerland's largest water park with indoor/outdoor pools, slides, and wave pools.",
+  "longDescription": "Aquaparc on the shore of Lake Geneva is Switzerland's biggest water theme park with thrilling slides, a lazy river, wave pool, and beach zone.",
+  "category": "family",
+  "subcategory": "Water Park",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Le Bouveret",
+    "coordinates": {
+      "lat": 46.396,
+      "lng": 6.8548
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Aquaparc",
+      "pricing": {
+        "child": 29,
+        "student": 36,
+        "adult": 45,
+        "senior": 39
+      },
+      "bookingUrl": "https://www.aquaparc.ch",
+      "rating": 4.1
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slides",
+      "value": "Multiple"
+    },
+    {
+      "label": "Wave Pool",
+      "value": "Yes"
+    },
+    {
+      "label": "Lazy River",
+      "value": "Yes"
+    },
+    {
+      "label": "Beach Zone",
+      "value": "Outdoor summer"
+    },
+    {
+      "label": "Indoor",
+      "value": "All weather"
+    }
+  ],
+  "tags": [
+    "water park",
+    "slides",
+    "family",
+    "indoor"
+  ],
+  "featured": false
+}

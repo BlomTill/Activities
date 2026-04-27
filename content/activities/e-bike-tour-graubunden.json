@@ -1,0 +1,83 @@
+{
+  "id": "73",
+  "slug": "e-bike-tour-graubunden",
+  "name": "E-Bike Tour Graubünden",
+  "description": "Explore the stunning valleys and passes of Graubünden on an electric mountain bike.",
+  "longDescription": "E-bike tours through Graubünden let you cover more ground with less effort. Ride through the Rhine Gorge, Flims lakes, and mountain passes with expert guides.",
+  "category": "outdoor",
+  "subcategory": "Cycling",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Chur",
+    "coordinates": {
+      "lat": 46.8499,
+      "lng": 9.5329
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Graubünden Bike (Self-guided)",
+      "pricing": {
+        "child": 30,
+        "student": 48,
+        "adult": 65,
+        "senior": 58
+      },
+      "bookingUrl": "https://www.graubuendenbike.ch",
+      "rating": 4.5,
+      "description": "Full-day e-bike rental"
+    },
+    {
+      "name": "Swiss Trails (Guided)",
+      "pricing": {
+        "child": 60,
+        "student": 95,
+        "adult": 120,
+        "senior": 108
+      },
+      "bookingUrl": "https://www.swisstrails.ch",
+      "rating": 4.7,
+      "description": "Guided full-day tour with lunch stop"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-7 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Bike Type",
+      "value": "Electric MTB"
+    },
+    {
+      "label": "Battery",
+      "value": "Full day range"
+    },
+    {
+      "label": "Guides",
+      "value": "Available"
+    },
+    {
+      "label": "Key Route",
+      "value": "Rhine Gorge"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Easy-Moderate"
+    }
+  ],
+  "tags": [
+    "e-bike",
+    "cycling",
+    "graubünden",
+    "mountains",
+    "tour"
+  ],
+  "featured": false
+}

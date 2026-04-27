@@ -1,0 +1,74 @@
+{
+  "id": "106",
+  "slug": "rhine-swimming-basel",
+  "name": "Rhine Swimming Basel",
+  "description": "Join Basel's beloved summer tradition — float down the Rhine with a Wickelfisch dry bag.",
+  "longDescription": "Rhine swimming is Basel's most cherished summer tradition. Thousands of locals float downstream in the clean, swift current using the iconic Wickelfisch — a waterproof bag shaped like a fish that keeps your belongings dry. Entry points at Tinguely Museum, Kleinbasel, or St. Johann Park.",
+  "category": "outdoor",
+  "subcategory": "Swimming",
+  "location": {
+    "region": "Basel Region",
+    "canton": "Basel-Stadt",
+    "city": "Basel",
+    "coordinates": {
+      "lat": 47.5596,
+      "lng": 7.5886
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free (Wickelfisch bag optional)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.basel.com",
+      "rating": 4.8,
+      "description": "Free swimming — Wickelfisch bags from CHF 20 at shops"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Free",
+      "value": "Public access"
+    },
+    {
+      "label": "Wickelfisch",
+      "value": "Iconic dry bag"
+    },
+    {
+      "label": "Current",
+      "value": "Swift but safe"
+    },
+    {
+      "label": "Water Quality",
+      "value": "Excellent"
+    },
+    {
+      "label": "Basel Tradition",
+      "value": "Since generations"
+    }
+  ],
+  "tags": [
+    "swimming",
+    "rhine",
+    "free",
+    "summer",
+    "basel"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Activity",
+    "validUntil": "2026-12-31"
+  }
+}

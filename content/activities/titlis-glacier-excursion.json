@@ -1,0 +1,96 @@
+{
+  "id": "5",
+  "slug": "titlis-glacier-excursion",
+  "name": "Mount Titlis Glacier Excursion",
+  "description": "Ride the world's first revolving cable car to the glacier summit at 3,238m.",
+  "longDescription": "Mount Titlis offers one of Central Switzerland's most spectacular mountain experiences. Take the world's first revolving gondola — the Titlis Rotair — to the summit at 3,238 meters. Walk across Europe's highest suspension bridge, the Titlis Cliff Walk, explore the Glacier Cave, and enjoy year-round snow activities on the glacier.",
+  "category": "adventure",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Obwalden",
+    "city": "Engelberg",
+    "coordinates": {
+      "lat": 46.7721,
+      "lng": 8.4293
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Titlis Bergbahnen",
+      "pricing": {
+        "child": 46,
+        "student": 78,
+        "adult": 96,
+        "senior": 86
+      },
+      "bookingUrl": "https://www.titlis.ch",
+      "rating": 4.6,
+      "description": "Official operator — round trip cable car"
+    },
+    {
+      "name": "GetYourGuide",
+      "pricing": {
+        "child": 52,
+        "student": 85,
+        "adult": 108,
+        "senior": 95
+      },
+      "bookingUrl": "https://www.getyourguide.com",
+      "rating": 4.4,
+      "description": "Day trip from Lucerne with guided tour"
+    },
+    {
+      "name": "Klook",
+      "pricing": {
+        "child": 44,
+        "student": 75,
+        "adult": 92,
+        "senior": 82
+      },
+      "bookingUrl": "https://www.klook.com",
+      "rating": 4.3,
+      "description": "Discounted advance booking"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Altitude",
+      "value": "3,238m"
+    },
+    {
+      "label": "Rotair",
+      "value": "360° Revolving"
+    },
+    {
+      "label": "Cliff Walk",
+      "value": "500m long"
+    },
+    {
+      "label": "Glacier Cave",
+      "value": "Yes"
+    },
+    {
+      "label": "Snow Activities",
+      "value": "Year-round"
+    }
+  ],
+  "tags": [
+    "mountain",
+    "glacier",
+    "cable car",
+    "bridge",
+    "snow"
+  ],
+  "featured": false
+}

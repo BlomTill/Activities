@@ -1,0 +1,72 @@
+{
+  "id": "41",
+  "slug": "technorama-winterthur",
+  "name": "Swiss Science Center Technorama",
+  "description": "Interactive science museum with 500+ hands-on experiments in Winterthur.",
+  "longDescription": "Technorama is Switzerland's premier interactive science center with over 500 hands-on experiment stations. Feel a million volts in the lightning show, play with optical illusions, and explore the mechanics of everyday life.",
+  "category": "family",
+  "subcategory": "Science Center",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Winterthur",
+    "coordinates": {
+      "lat": 47.4979,
+      "lng": 8.7112
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Technorama",
+      "pricing": {
+        "child": 18,
+        "student": 22,
+        "adult": 29,
+        "senior": 25
+      },
+      "bookingUrl": "https://www.technorama.ch",
+      "rating": 4.7,
+      "description": "Full-day access to all exhibits and shows"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Experiments",
+      "value": "500+"
+    },
+    {
+      "label": "Lightning Show",
+      "value": "1M volts"
+    },
+    {
+      "label": "Hands-on",
+      "value": "100%"
+    },
+    {
+      "label": "Area",
+      "value": "6,800m²"
+    },
+    {
+      "label": "All Ages",
+      "value": "3+"
+    }
+  ],
+  "tags": [
+    "science",
+    "interactive",
+    "hands-on",
+    "family",
+    "winterthur"
+  ],
+  "featured": false
+}

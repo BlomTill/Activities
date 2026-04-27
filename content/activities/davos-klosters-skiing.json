@@ -1,0 +1,80 @@
+{
+  "id": "79",
+  "slug": "davos-klosters-skiing",
+  "name": "Davos Klosters Skiing",
+  "description": "One of Europe's largest ski regions with 300km of slopes across six interconnected areas.",
+  "longDescription": "Davos Klosters is one of the largest ski destinations in the Alps with 300km of runs across six areas: Parsenn, Jakobshorn, Pischa, Rinerhorn, Madrisa, and Schatzalp. The legendary Parsenn area alone offers 100km of runs with descents of up to 2,000 vertical metres.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Davos",
+    "coordinates": {
+      "lat": 46.8027,
+      "lng": 9.836
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Davos Klosters Mountains (Day Pass)",
+      "pricing": {
+        "child": 42,
+        "student": 62,
+        "adult": 79,
+        "senior": 67
+      },
+      "bookingUrl": "https://www.davos.ch",
+      "rating": 4.7
+    },
+    {
+      "name": "Top Secret Ski & Snowboard School",
+      "pricing": {
+        "child": 90,
+        "student": 130,
+        "adult": 160,
+        "senior": 140
+      },
+      "bookingUrl": "https://www.topsecret.ch",
+      "rating": 4.6,
+      "description": "Half-day group lesson"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slopes",
+      "value": "300 km"
+    },
+    {
+      "label": "Areas",
+      "value": "6"
+    },
+    {
+      "label": "Summit",
+      "value": "2,844m Weissfluhjoch"
+    },
+    {
+      "label": "Vertical Drop",
+      "value": "Up to 2,000m"
+    },
+    {
+      "label": "Legendary",
+      "value": "Parsenn descent"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "winter",
+    "davos",
+    "klosters",
+    "large resort"
+  ],
+  "featured": true
+}

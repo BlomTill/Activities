@@ -1,0 +1,83 @@
+{
+  "id": "8",
+  "slug": "grindelwald-first-cliff-walk",
+  "name": "Grindelwald First Cliff Walk & Flyer",
+  "description": "Walk along a cliff-side pathway and fly down the mountain on the First Flyer zip line.",
+  "longDescription": "Grindelwald First offers a full day of mountain thrills. Take the gondola to First (2,168m) and walk the spectacular Cliff Walk — a narrow pathway along the cliff face with a viewing platform extending over the abyss. Then experience the First Flyer zip line, First Glider eagle-ride, and Trottibike scooter descent. Mountain Cart and hiking trails round out the experience.",
+  "category": "adventure",
+  "subcategory": "Mountain Activities",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Grindelwald",
+    "coordinates": {
+      "lat": 46.6586,
+      "lng": 8.0414
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Jungfrau Railways",
+      "pricing": {
+        "child": 30,
+        "student": 52,
+        "adult": 66,
+        "senior": 60
+      },
+      "bookingUrl": "https://www.jungfrau.ch/en-gb/grindelwaldfirst/",
+      "rating": 4.7,
+      "description": "Official operator — gondola + all activities combo"
+    },
+    {
+      "name": "GetYourGuide",
+      "pricing": {
+        "child": 35,
+        "student": 58,
+        "adult": 72,
+        "senior": 65
+      },
+      "bookingUrl": "https://www.getyourguide.com",
+      "rating": 4.5,
+      "description": "Skip-the-line option with guided experience"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1580227974546-fbd48825d991?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Summit",
+      "value": "2,168m"
+    },
+    {
+      "label": "Cliff Walk",
+      "value": "Yes"
+    },
+    {
+      "label": "Zip Line",
+      "value": "84 km/h"
+    },
+    {
+      "label": "Mountain Cart",
+      "value": "Included"
+    },
+    {
+      "label": "Activities",
+      "value": "4 in 1"
+    }
+  ],
+  "tags": [
+    "cliff walk",
+    "zip line",
+    "grindelwald",
+    "adventure",
+    "mountain"
+  ],
+  "featured": false
+}

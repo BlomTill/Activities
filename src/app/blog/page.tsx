@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Calendar, ArrowRight, BookOpen } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-import { blogPosts } from "@/data/blog-posts";
+import { blogPosts } from "@/lib/content/selectors";
 
 export const metadata = {
   title: "Blog",

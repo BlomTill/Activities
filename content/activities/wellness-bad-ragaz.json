@@ -1,0 +1,84 @@
+{
+  "id": "64",
+  "slug": "wellness-bad-ragaz",
+  "name": "Tamina Therme Bad Ragaz",
+  "description": "Luxurious thermal spa in the Rhine Valley fed by the historic Tamina Gorge springs.",
+  "longDescription": "Bad Ragaz has been a thermal spa destination since the 13th century. The Tamina Therme offers indoor/outdoor pools, a wellness world with saunas, and the spectacular Tamina Gorge walk to the hot spring source.",
+  "category": "wellness",
+  "subcategory": "Thermal Bath",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "St. Gallen",
+    "city": "Bad Ragaz",
+    "coordinates": {
+      "lat": 47,
+      "lng": 9.5
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Tamina Therme (Bath)",
+      "pricing": {
+        "child": 14,
+        "student": 22,
+        "adult": 30,
+        "senior": 26
+      },
+      "bookingUrl": "https://www.taminatherme.ch",
+      "rating": 4.5,
+      "description": "3-hour thermal bath access"
+    },
+    {
+      "name": "Tamina Therme (Wellness Day)",
+      "pricing": {
+        "child": 0,
+        "student": 45,
+        "adult": 58,
+        "senior": 52
+      },
+      "bookingUrl": "https://www.taminatherme.ch",
+      "rating": 4.7,
+      "description": "Full-day access including sauna world"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1540555700478-4be289fbec6d?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Water Temp",
+      "value": "36.5°C"
+    },
+    {
+      "label": "Since",
+      "value": "13th century"
+    },
+    {
+      "label": "Tamina Gorge",
+      "value": "Walk to source"
+    },
+    {
+      "label": "Pools",
+      "value": "Indoor + Outdoor"
+    },
+    {
+      "label": "Sauna World",
+      "value": "Multiple"
+    }
+  ],
+  "tags": [
+    "thermal",
+    "spa",
+    "wellness",
+    "hot springs",
+    "luxury"
+  ],
+  "featured": false
+}

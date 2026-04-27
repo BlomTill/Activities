@@ -12,9 +12,12 @@ import type { Activity, Category, ImageCredit } from "@/lib/types";
  *    2. activity-images.json       — populated by `npm run fetch-images`,
  *                                     pulls real CC photos from Wikimedia
  *                                     Commons via the activity's wikipediaTitle
- *    3. `/activities/<slug>.jpg`   — drop a local file and it's picked up
- *    4. `activity.imageUrl`        — the original (usually Unsplash) fallback
- *    5. category fallback          — a generic, category-appropriate photo
+ *    3. `activity.imageUrl`        — the original (usually Unsplash) fallback
+ *    4. category fallback          — a generic, category-appropriate photo
+ *
+ *  buildFallbackChain() returns all sources in priority order so the
+ *  ActivityPhoto component can cascade through them client-side if any
+ *  URL fails to load (404, CORS, etc.).
  *
  *  We also return optional attribution text so we can display a small
  *  "Photo: <author> · <license>" line on detail pages (Wikipedia CC rules).
@@ -23,6 +26,8 @@ import type { Activity, Category, ImageCredit } from "@/lib/types";
 
 interface StoredImage {
   src: string;
+  /** Which fetch source produced this image (recorded by the fetch script). */
+  source?: string;
   credit?: ImageCredit;
 }
 
@@ -50,7 +55,7 @@ export interface ResolvedImage {
   /** Credit info for display (optional). */
   credit?: ImageCredit;
   /** How the resolver found this — useful for debugging / admin UI. */
-  source: "manual" | "wikipedia" | "local" | "legacy" | "category-fallback";
+  source: "manual" | "wikipedia" | "unsplash" | "pexels" | "pixabay" | "legacy" | "category-fallback";
 }
 
 /**
@@ -67,14 +72,16 @@ export function resolveActivityImage(activity: Activity): ResolvedImage {
     };
   }
 
-  // 2. Pre-fetched Wikipedia photo from activity-images.json
+  // 2. Pre-fetched photo from activity-images.json (Wikipedia, Unsplash, Pexels, or Pixabay)
   const prefetched = stored[activity.slug];
   if (prefetched?.src) {
+    const knownSources = ["wikipedia", "unsplash", "pexels", "pixabay"] as const;
+    const storedSource = knownSources.find((s) => s === prefetched.source);
     return {
       src: prefetched.src,
       alt: activity.name,
       credit: prefetched.credit ?? activity.imageCredit,
-      source: "wikipedia",
+      source: storedSource ?? "wikipedia",
     };
   }
 
@@ -94,6 +101,39 @@ export function resolveActivityImage(activity: Activity): ResolvedImage {
     alt: `${activity.category} activity in Switzerland`,
     source: "category-fallback",
   };
+}
+
+/**
+ * Build the full ordered fallback chain for an activity.
+ *
+ * Returns every valid URL in priority order, deduplicated.
+ * The ActivityPhoto component iterates through this list on each
+ * image load error, so the browser always ends up showing *something*
+ * relevant rather than a broken-image icon.
+ *
+ * Order:
+ *   1. manual override (activity.image)
+ *   2. pre-fetched Wikipedia image (activity-images.json)
+ *   3. legacy imageUrl (activity.imageUrl)
+ *   4. category fallback (guaranteed to exist)
+ */
+export function buildFallbackChain(activity: Activity): string[] {
+  const seen = new Set<string>();
+  const chain: string[] = [];
+
+  function add(url: string | undefined) {
+    if (url && !seen.has(url)) {
+      seen.add(url);
+      chain.push(url);
+    }
+  }
+
+  add(activity.image);
+  add(stored[activity.slug]?.src);
+  add(activity.imageUrl);
+  add(CATEGORY_FALLBACK[activity.category]);
+
+  return chain;
 }
 
 /**

@@ -1,0 +1,96 @@
+{
+  "id": "25",
+  "slug": "escape-room-zurich",
+  "name": "Escape Room Zurich",
+  "description": "Immersive themed escape rooms in Zurich — solve puzzles, beat the clock.",
+  "longDescription": "Multiple escape room operators in Zurich offer themed rooms from bank heists to spy missions. Teams of 2-6 players have 60 minutes to solve interconnected puzzles.",
+  "category": "adventure",
+  "subcategory": "Escape Room",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3769,
+      "lng": 8.5417
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Mission Accepted",
+      "pricing": {
+        "child": 29,
+        "student": 35,
+        "adult": 42,
+        "senior": 42
+      },
+      "bookingUrl": "https://www.missionaccepted.ch",
+      "rating": 4.6,
+      "description": "High-tech rooms, top-rated in Zurich"
+    },
+    {
+      "name": "Enigma Room",
+      "pricing": {
+        "child": 25,
+        "student": 32,
+        "adult": 38,
+        "senior": 38
+      },
+      "bookingUrl": "https://www.enigmaroom.ch",
+      "rating": 4.5,
+      "description": "Multiple themes — detective, horror, adventure"
+    },
+    {
+      "name": "AdventureRooms",
+      "pricing": {
+        "child": 27,
+        "student": 33,
+        "adult": 40,
+        "senior": 40
+      },
+      "bookingUrl": "https://www.adventurerooms.ch",
+      "rating": 4.4,
+      "description": "Switzerland's original escape room brand"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Team Size",
+      "value": "2-6 players"
+    },
+    {
+      "label": "Time Limit",
+      "value": "60 min"
+    },
+    {
+      "label": "Themes",
+      "value": "6+"
+    },
+    {
+      "label": "Difficulty",
+      "value": "All levels"
+    },
+    {
+      "label": "Operators",
+      "value": "3"
+    }
+  ],
+  "tags": [
+    "escape room",
+    "puzzle",
+    "indoor",
+    "team",
+    "zurich"
+  ],
+  "featured": false
+}

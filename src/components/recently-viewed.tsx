@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Clock3 } from "lucide-react";
 import { ActivityCard } from "@/components/activity-card";
 import { Button } from "@/components/ui/button";
-import { activities } from "@/data/activities";
+import { activities } from "@/lib/content/selectors";
 import { Activity } from "@/lib/types";
 
 export const RECENTLY_VIEWED_STORAGE_KEY = "explore-switzerland-recently-viewed";

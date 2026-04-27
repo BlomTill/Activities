@@ -1,0 +1,101 @@
+{
+  "id": "1",
+  "slug": "jungfraujoch-top-of-europe",
+  "name": "Jungfraujoch – Top of Europe",
+  "description": "Visit the highest railway station in Europe at 3,454m with stunning views of the Aletsch Glacier.",
+  "longDescription": "The Jungfraujoch – Top of Europe is one of Switzerland's most iconic destinations. Take the cogwheel train through the Eiger to reach the highest railway station in Europe at 3,454 meters. Marvel at the panoramic views of the Aletsch Glacier, visit the Ice Palace carved deep into the glacier, and enjoy the Alpine Sensation exhibition. On clear days, you can see as far as the Black Forest in Germany and the Vosges in France.",
+  "category": "outdoor",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Interlaken",
+    "coordinates": {
+      "lat": 46.5472,
+      "lng": 7.9853
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Jungfrau Railways",
+      "pricing": {
+        "child": 0,
+        "student": 155,
+        "adult": 234,
+        "senior": 210
+      },
+      "bookingUrl": "https://www.jungfrau.ch",
+      "rating": 4.7,
+      "description": "Official operator — direct booking with best availability"
+    },
+    {
+      "name": "GetYourGuide",
+      "pricing": {
+        "child": 0,
+        "student": 162,
+        "adult": 245,
+        "senior": 220
+      },
+      "bookingUrl": "https://www.getyourguide.com",
+      "rating": 4.5,
+      "description": "Includes guided tour and priority boarding"
+    },
+    {
+      "name": "Viator",
+      "pricing": {
+        "child": 0,
+        "student": 158,
+        "adult": 239,
+        "senior": 215
+      },
+      "bookingUrl": "https://www.viator.com",
+      "rating": 4.4,
+      "description": "Day trip from Zurich with hotel pickup included"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "6-8 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1605540436338-67b4aeb10709?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1605540436338-67b4aeb10709?w=1200&h=800&fit=crop",
+    "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=1200&h=800&fit=crop",
+    "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=800&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "Altitude",
+      "value": "3,454m"
+    },
+    {
+      "label": "Transport",
+      "value": "Cogwheel Train"
+    },
+    {
+      "label": "Key Sight",
+      "value": "Aletsch Glacier"
+    },
+    {
+      "label": "Ice Palace",
+      "value": "Yes"
+    },
+    {
+      "label": "Year-round",
+      "value": "365 days"
+    }
+  ],
+  "tags": [
+    "mountain",
+    "glacier",
+    "iconic",
+    "railway",
+    "panorama"
+  ],
+  "featured": true
+}

@@ -1,4 +1,4 @@
-import { blogPosts } from "@/data/blog-posts";
+import { blogPosts } from "@/lib/content/selectors";
 import { Activity } from "./types";
 
 function scorePost(postTags: string[], keywords: string[]) {

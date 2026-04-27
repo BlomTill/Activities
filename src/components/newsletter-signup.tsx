@@ -43,14 +43,52 @@ export function NewsletterSignup({
 }) {
   const [email, setEmail] = useState("");
   const [submitted, setSubmitted] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const copy = COPY[intent];
   const heading = title || copy.title;
   const body = description || copy.description;
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (email.trim() && email.includes("@")) {
+    setError(null);
+
+    const cleaned = email.trim();
+    if (!cleaned || !cleaned.includes("@")) {
+      setError("Please enter a valid email address.");
+      return;
+    }
+
+    setIsSubmitting(true);
+    try {
+      const response = await fetch("/api/newsletter", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: cleaned, intent }),
+      });
+      const data = (await response.json()) as { error?: string };
+
+      if (!response.ok) {
+        setError(data.error || "Subscription failed. Please try again.");
+        return;
+      }
+
+      if (typeof window !== "undefined") {
+        const w = window as Window & { gtag?: (...args: unknown[]) => void };
+        if (typeof w.gtag === "function") {
+          w.gtag("event", "newsletter_signup", {
+            event_category: "engagement",
+            event_label: intent,
+          });
+        }
+      }
+
       setSubmitted(true);
+      setEmail("");
+    } catch {
+      setError("Network error. Please try again.");
+    } finally {
+      setIsSubmitting(false);
     }
   };
 
@@ -85,9 +123,10 @@ export function NewsletterSignup({
               className="h-11 bg-white/10 border-white/20 text-white placeholder:text-red-200 flex-1"
             />
             <Button type="submit" className="h-11 bg-white text-red-600 hover:bg-red-50 font-semibold px-6">
-              Subscribe <ArrowRight className="ml-1 h-4 w-4" />
+              {isSubmitting ? "Submitting..." : "Subscribe"} <ArrowRight className="ml-1 h-4 w-4" />
             </Button>
           </form>
+          {error && <p className="text-xs text-red-100 mt-2">{error}</p>}
           <p className="text-[11px] text-red-200 mt-3">No spam, unsubscribe anytime. Free forever.</p>
         </div>
       </section>
@@ -111,9 +150,10 @@ export function NewsletterSignup({
           className="h-9 text-sm text-gray-900"
         />
         <Button type="submit" size="sm" className="bg-red-600 hover:bg-red-700 text-white h-9">
-          Subscribe
+          {isSubmitting ? "Submitting..." : "Subscribe"}
         </Button>
       </form>
+      {error && <p className="mt-2 text-xs text-red-600">{error}</p>}
     </div>
   );
 }

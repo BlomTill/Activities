@@ -1,0 +1,82 @@
+{
+  "id": "65",
+  "slug": "zipline-grindelwald",
+  "name": "First Flyer Zip Line Grindelwald",
+  "description": "Soar at 84 km/h on a spectacular zip line from First mountain.",
+  "longDescription": "The First Flyer is an exhilarating 800-meter zip line at Grindelwald First. Fly at up to 84 km/h with views of the Eiger, Mönch, and Jungfrau.",
+  "category": "adventure",
+  "subcategory": "Zip Line",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Grindelwald",
+    "coordinates": {
+      "lat": 46.6586,
+      "lng": 8.0414
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Jungfrau Railways (Zip Line only)",
+      "pricing": {
+        "child": 19,
+        "student": 27,
+        "adult": 31,
+        "senior": 31
+      },
+      "bookingUrl": "https://www.jungfrau.ch",
+      "rating": 4.7
+    },
+    {
+      "name": "Jungfrau Railways (Zip + Gondola)",
+      "pricing": {
+        "child": 40,
+        "student": 58,
+        "adult": 72,
+        "senior": 65
+      },
+      "bookingUrl": "https://www.jungfrau.ch",
+      "rating": 4.7,
+      "description": "Gondola to First + zip line combo"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Speed",
+      "value": "84 km/h"
+    },
+    {
+      "label": "Length",
+      "value": "800m"
+    },
+    {
+      "label": "Min Age",
+      "value": "10 years"
+    },
+    {
+      "label": "Combo Option",
+      "value": "Gondola included"
+    },
+    {
+      "label": "Views",
+      "value": "Eiger panorama"
+    }
+  ],
+  "tags": [
+    "zip line",
+    "flying",
+    "adventure",
+    "grindelwald",
+    "adrenaline"
+  ],
+  "featured": false
+}

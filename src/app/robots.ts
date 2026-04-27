@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/"],
       },
     ],
-    sitemap: "https://swissactivity.ch/sitemap.xml",
+    sitemap: "https://exploreswitzerland.ch/sitemap.xml",
   };
 }

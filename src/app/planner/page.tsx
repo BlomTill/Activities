@@ -24,7 +24,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
-import { activities } from "@/data/activities";
+import { activities } from "@/lib/content/selectors";
 import { Activity, AgeGroup, getBestPrice } from "@/lib/types";
 import { useAgeGroup } from "@/context/age-group-context";
 import { cn } from "@/lib/utils";

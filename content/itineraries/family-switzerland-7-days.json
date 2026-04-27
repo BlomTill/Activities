@@ -1,0 +1,102 @@
+{
+  "id": "4",
+  "slug": "family-switzerland-7-days",
+  "title": "Family Switzerland — 7 Days with Kids",
+  "subtitle": "Kid-friendly adventures from theme parks to mountain playgrounds",
+  "description": "A week designed for families with children aged 4-14. Mixing action-packed days with easy-going ones, this route covers the best family attractions in Switzerland with no child left bored.",
+  "duration": "7 days",
+  "days": 7,
+  "difficulty": "Easy",
+  "bestSeason": "June – September",
+  "estimatedBudget": {
+    "budget": "CHF 2,000 (family of 4)",
+    "mid": "CHF 3,500",
+    "luxury": "CHF 6,000"
+  },
+  "coverImage": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7c?w=1200&h=600&fit=crop",
+  "regions": [
+    "Zurich Region",
+    "Central Switzerland",
+    "Bern Region"
+  ],
+  "tags": [
+    "family",
+    "kids",
+    "theme park",
+    "easy",
+    "fun"
+  ],
+  "featured": true,
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Zurich Zoo & Arrival",
+      "location": "Zurich",
+      "description": "Start at Zurich Zoo — one of Europe's best, featuring the massive Masoala Rainforest hall, Kaeng Krachan elephant park, and penguin parade.",
+      "activitySlugs": [
+        "zurich-zoo"
+      ],
+      "tip": "Kids under 6 enter free. Book Swiss Family Card for free kids' train travel"
+    },
+    {
+      "day": 2,
+      "title": "Swiss Museum of Transport",
+      "location": "Lucerne",
+      "description": "Switzerland's most-visited museum is a kids' paradise — trains, planes, a planetarium, Swiss Chocolate Adventure, and an interactive space exhibit.",
+      "activitySlugs": [
+        "swiss-museum-of-transport"
+      ],
+      "transport": "Zurich → Lucerne: 45 min direct"
+    },
+    {
+      "day": 3,
+      "title": "Mount Pilatus Adventure",
+      "location": "Lucerne",
+      "description": "The Golden Round Trip: boat, cogwheel railway, and cable car. Kids love the world's steepest cogwheel railway and the dragon legends.",
+      "activitySlugs": [
+        "mount-pilatus-golden-round-trip"
+      ],
+      "tip": "Pack warm clothes — summit is 2,132m"
+    },
+    {
+      "day": 4,
+      "title": "Grindelwald-First Family Fun",
+      "location": "Grindelwald",
+      "description": "First Flyer zip-line, Mountain Cart, Trottibike scooter ride, and the Cliff Walk. Adventure paradise for older kids (min age varies).",
+      "activitySlugs": [
+        "grindelwald-first-adventure"
+      ],
+      "transport": "Lucerne → Grindelwald: 2.5h via Interlaken"
+    },
+    {
+      "day": 5,
+      "title": "Bernaqua Water Park",
+      "location": "Bern",
+      "description": "Indoor water park day — slides, wave pool, lazy river, and kids' pool. A welcome break from hiking and a guaranteed hit with kids of all ages.",
+      "activitySlugs": [
+        "bernaqua-water-park"
+      ],
+      "transport": "Grindelwald → Bern: 2h"
+    },
+    {
+      "day": 6,
+      "title": "Bern Bears & Old Town",
+      "location": "Bern",
+      "description": "Visit the famous bear park, explore the UNESCO old town, and ride the Gurten funicular to the hilltop playground with panoramic views.",
+      "activitySlugs": [
+        "bern-old-town-tour"
+      ],
+      "tip": "The Gurten playground is free and incredible for kids"
+    },
+    {
+      "day": 7,
+      "title": "Chocolate Factory & Departure",
+      "location": "Broc",
+      "description": "Visit the Maison Cailler chocolate factory in Broc for a guided tour ending with unlimited tasting. A sweet way to end the trip.",
+      "activitySlugs": [
+        "maison-cailler-chocolate-factory"
+      ],
+      "transport": "Bern → Broc: 1.5h"
+    }
+  ]
+}

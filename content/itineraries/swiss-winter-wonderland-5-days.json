@@ -1,0 +1,82 @@
+{
+  "id": "5",
+  "slug": "swiss-winter-wonderland-5-days",
+  "title": "Swiss Winter Wonderland — 5 Days",
+  "subtitle": "Skiing, Christmas markets, thermal baths, and snowy peaks",
+  "description": "Experience Switzerland at its most magical. This winter itinerary combines world-class skiing in Zermatt, relaxing thermal baths, atmospheric Christmas markets, and snow-covered Alpine landscapes.",
+  "duration": "5 days",
+  "days": 5,
+  "difficulty": "Moderate",
+  "bestSeason": "December – March",
+  "estimatedBudget": {
+    "budget": "CHF 1,000",
+    "mid": "CHF 2,000",
+    "luxury": "CHF 4,000"
+  },
+  "coverImage": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=1200&h=600&fit=crop",
+  "regions": [
+    "Valais",
+    "Bern Region",
+    "Central Switzerland"
+  ],
+  "tags": [
+    "winter",
+    "skiing",
+    "christmas",
+    "thermal",
+    "snow"
+  ],
+  "featured": false,
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Zermatt",
+      "location": "Zermatt",
+      "description": "Arrive in car-free Zermatt. Evening stroll through the village with Matterhorn views. Visit the Matterhorn Museum for the story of the first ascent.",
+      "activitySlugs": [
+        "zermatt-matterhorn-glacier-paradise"
+      ],
+      "tip": "Zermatt has snow from November to May"
+    },
+    {
+      "day": 2,
+      "title": "Skiing & Matterhorn Glacier Paradise",
+      "location": "Zermatt",
+      "description": "Full day on Zermatt's 360km of pistes — the largest ski area in Switzerland. Non-skiers: take the cable car to Matterhorn Glacier Paradise (3,883m).",
+      "activitySlugs": [
+        "zermatt-matterhorn-glacier-paradise"
+      ],
+      "transport": "All lifts from village"
+    },
+    {
+      "day": 3,
+      "title": "Leukerbad Thermal Baths",
+      "location": "Leukerbad",
+      "description": "Soak in Europe's largest alpine thermal bath complex. Walliser Alpentherme and Leukerbad Therme offer warm pools surrounded by snow-covered peaks.",
+      "activitySlugs": [
+        "leukerbad-thermal-baths"
+      ],
+      "transport": "Zermatt → Leukerbad: 2h (change at Leuk)"
+    },
+    {
+      "day": 4,
+      "title": "Bern Christmas Market",
+      "location": "Bern",
+      "description": "Bern's Christmas market fills the old town with 100+ wooden chalets selling crafts, mulled wine, and Swiss treats. The UNESCO backdrop makes it magical.",
+      "activitySlugs": [
+        "bern-old-town-tour"
+      ],
+      "transport": "Leukerbad → Bern: 2.5h"
+    },
+    {
+      "day": 5,
+      "title": "Frozen Oeschinensee & Departure",
+      "location": "Kandersteg",
+      "description": "Visit the frozen UNESCO lake at Oeschinensee. Toboggan run, winter hiking, and — when conditions allow — natural ice skating on the frozen surface.",
+      "activitySlugs": [
+        "oeschinen-lake-winter"
+      ],
+      "transport": "Bern → Kandersteg: 1h"
+    }
+  ]
+}

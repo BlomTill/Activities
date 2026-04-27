@@ -1,0 +1,93 @@
+{
+  "id": "18",
+  "slug": "verbier-skiing",
+  "name": "Verbier 4 Vallées Skiing",
+  "description": "World-class skiing across 410km of pistes in one of the Alps' most renowned resorts.",
+  "longDescription": "Verbier sits at the heart of the 4 Vallées ski area — Switzerland's largest interconnected ski domain with 410km of runs. From gentle beginner slopes to the legendary Mont-Fort glacier descents at 3,330m, the terrain caters to all levels. Famous for off-piste freeride terrain and vibrant après-ski.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Verbier",
+    "coordinates": {
+      "lat": 46.0964,
+      "lng": 7.2283
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Téléverbier (Day Pass)",
+      "pricing": {
+        "child": 42,
+        "student": 58,
+        "adult": 79,
+        "senior": 67
+      },
+      "bookingUrl": "https://www.verbier4vallees.ch",
+      "rating": 4.8,
+      "description": "Full 4 Vallées day pass"
+    },
+    {
+      "name": "Téléverbier (Verbier Only)",
+      "pricing": {
+        "child": 32,
+        "student": 44,
+        "adult": 59,
+        "senior": 50
+      },
+      "bookingUrl": "https://www.verbier4vallees.ch",
+      "rating": 4.7,
+      "description": "Verbier-only day pass (less area, lower price)"
+    },
+    {
+      "name": "Swiss Ski School Verbier",
+      "pricing": {
+        "child": 120,
+        "student": 150,
+        "adult": 180,
+        "senior": 160
+      },
+      "bookingUrl": "https://www.esstverbier.ch",
+      "rating": 4.6,
+      "description": "Half-day group ski lesson (lift pass separate)"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1610821210960-de11c4290c20?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slope km",
+      "value": "410 km"
+    },
+    {
+      "label": "Lifts",
+      "value": "67"
+    },
+    {
+      "label": "Highest Point",
+      "value": "3,330m"
+    },
+    {
+      "label": "Difficulty",
+      "value": "30% easy · 40% med · 30% hard"
+    },
+    {
+      "label": "Freeride",
+      "value": "World-class"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "snow",
+    "winter sports",
+    "freeride",
+    "alps"
+  ],
+  "featured": true
+}

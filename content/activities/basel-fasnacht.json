@@ -1,0 +1,69 @@
+{
+  "id": "123",
+  "slug": "basel-fasnacht",
+  "name": "Basel Fasnacht Carnival",
+  "description": "UNESCO-listed three-day carnival starting at 4 AM with the legendary fife-and-drum Morgenstreich.",
+  "longDescription": "Basel Fasnacht is Switzerland's largest and most iconic carnival, inscribed on UNESCO's Intangible Cultural Heritage list. It begins at precisely 4 AM on the Monday after Ash Wednesday with the legendary Morgenstreich — thousands of masked participants march through the dark streets with lanterns and fife-and-drum bands.",
+  "category": "culture",
+  "subcategory": "Festival",
+  "location": {
+    "region": "Basel Region",
+    "canton": "Basel-Stadt",
+    "city": "Basel",
+    "coordinates": {
+      "lat": 47.5596,
+      "lng": 7.5886
+    }
+  },
+  "seasons": [
+    "winter",
+    "spring"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free Public Event",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.fasnachts-comite.ch",
+      "rating": 4.9
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3 days",
+  "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "UNESCO",
+      "value": "Intangible Heritage"
+    },
+    {
+      "label": "Morgenstreich",
+      "value": "Starts 4 AM"
+    },
+    {
+      "label": "Duration",
+      "value": "3 days"
+    },
+    {
+      "label": "Participants",
+      "value": "Thousands masked"
+    },
+    {
+      "label": "Free",
+      "value": "Public event"
+    }
+  ],
+  "tags": [
+    "carnival",
+    "fasnacht",
+    "UNESCO",
+    "basel",
+    "tradition"
+  ],
+  "featured": true
+}

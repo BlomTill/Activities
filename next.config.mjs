@@ -2,12 +2,22 @@
 const nextConfig = {
   images: {
     remotePatterns: [
+      // ── Unsplash ────────────────────────────────────────────────────────────
       { protocol: "https", hostname: "images.unsplash.com" },
-      // Wikimedia Commons direct image CDN (used by the photo resolver)
+
+      // ── Wikimedia Commons ────────────────────────────────────────────────────
+      // Direct image CDN (upload.wikimedia.org) + Special:FilePath redirects
       { protocol: "https", hostname: "upload.wikimedia.org" },
-      // Wikimedia Special:FilePath (returns 302 → upload.wikimedia.org)
       { protocol: "https", hostname: "commons.wikimedia.org" },
-      // Useful if you later curate OpenStreetMap / Mapillary / Flickr photos
+
+      // ── Pexels ───────────────────────────────────────────────────────────────
+      { protocol: "https", hostname: "images.pexels.com" },
+
+      // ── Pixabay ──────────────────────────────────────────────────────────────
+      { protocol: "https", hostname: "pixabay.com" },
+      { protocol: "https", hostname: "cdn.pixabay.com" },
+
+      // ── Misc curated sources ─────────────────────────────────────────────────
       { protocol: "https", hostname: "live.staticflickr.com" },
       { protocol: "https", hostname: "i.imgur.com" },
     ],

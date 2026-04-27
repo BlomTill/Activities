@@ -1,0 +1,81 @@
+{
+  "id": "124",
+  "slug": "locarno-film-festival",
+  "name": "Locarno Film Festival",
+  "description": "Prestigious open-air cinema on Piazza Grande — up to 8,000 viewers under the stars.",
+  "longDescription": "The Locarno Film Festival is one of Europe's most important film festivals, held every August. Its centerpiece is the open-air screening on the stunning Piazza Grande with one of the world's largest outdoor screens for up to 8,000 spectators under the Ticino night sky.",
+  "category": "culture",
+  "subcategory": "Festival",
+  "location": {
+    "region": "Ticino",
+    "canton": "Ticino",
+    "city": "Locarno",
+    "coordinates": {
+      "lat": 46.171,
+      "lng": 8.7941
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Piazza Grande Screening",
+      "pricing": {
+        "child": 14,
+        "student": 18,
+        "adult": 25,
+        "senior": 22
+      },
+      "bookingUrl": "https://www.locarnofestival.ch",
+      "rating": 4.7,
+      "description": "Single Piazza Grande ticket"
+    },
+    {
+      "name": "Festival Pass",
+      "pricing": {
+        "child": 0,
+        "student": 80,
+        "adult": 120,
+        "senior": 100
+      },
+      "bookingUrl": "https://www.locarnofestival.ch",
+      "rating": 4.8,
+      "description": "Multi-day all-access pass"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Screen",
+      "value": "World's largest outdoor"
+    },
+    {
+      "label": "Capacity",
+      "value": "8,000 spectators"
+    },
+    {
+      "label": "When",
+      "value": "August annually"
+    },
+    {
+      "label": "Piazza Grande",
+      "value": "Open-air cinema"
+    },
+    {
+      "label": "Prestige",
+      "value": "Top European festival"
+    }
+  ],
+  "tags": [
+    "film",
+    "festival",
+    "open-air",
+    "locarno",
+    "ticino"
+  ],
+  "featured": false
+}

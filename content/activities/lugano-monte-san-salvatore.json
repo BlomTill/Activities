@@ -1,0 +1,70 @@
+{
+  "id": "63",
+  "slug": "lugano-monte-san-salvatore",
+  "name": "Monte San Salvatore Lugano",
+  "description": "Take the funicular to the 'Sugarloaf of Lugano' for Mediterranean-like panoramas.",
+  "longDescription": "Monte San Salvatore (912m) offers stunning panoramic views over Lake Lugano, the Alps, and on clear days all the way to Milan. The funicular ride and summit restaurant make this a Ticino must-do.",
+  "category": "outdoor",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Ticino",
+    "canton": "Ticino",
+    "city": "Lugano",
+    "coordinates": {
+      "lat": 45.96,
+      "lng": 8.94
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Monte San Salvatore Funicular",
+      "pricing": {
+        "child": 12,
+        "student": 20,
+        "adult": 28,
+        "senior": 25
+      },
+      "bookingUrl": "https://www.montesansalvatore.ch",
+      "rating": 4.5
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Summit",
+      "value": "912m"
+    },
+    {
+      "label": "Transport",
+      "value": "Funicular"
+    },
+    {
+      "label": "View",
+      "value": "Lake Lugano"
+    },
+    {
+      "label": "On Clear Days",
+      "value": "See Milan"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Summit"
+    }
+  ],
+  "tags": [
+    "funicular",
+    "panorama",
+    "lugano",
+    "ticino",
+    "lake"
+  ],
+  "featured": false
+}

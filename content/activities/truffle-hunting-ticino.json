@@ -1,0 +1,82 @@
+{
+  "id": "128",
+  "slug": "truffle-hunting-ticino",
+  "name": "Truffle Hunting in Ticino",
+  "description": "Search for prized truffles with trained dogs in Ticino's forests followed by a truffle tasting.",
+  "longDescription": "Join a truffle hunter (trifulau) and trained dogs in the forests near Bellinzona to search for precious black and white truffles. After the hunt, enjoy a truffle tasting or full truffle menu at a local grotto. An authentic Ticino gastronomic experience.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Ticino",
+    "canton": "Ticino",
+    "city": "Bellinzona",
+    "coordinates": {
+      "lat": 46.1955,
+      "lng": 9.0234
+    }
+  },
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Ticino Truffle Experience",
+      "pricing": {
+        "child": 0,
+        "student": 85,
+        "adult": 120,
+        "senior": 110
+      },
+      "bookingUrl": "https://www.ticino.ch",
+      "rating": 4.7,
+      "description": "Guided hunt with truffle tasting"
+    },
+    {
+      "name": "Truffle Hunt + Grotto Lunch",
+      "pricing": {
+        "child": 0,
+        "student": 130,
+        "adult": 175,
+        "senior": 160
+      },
+      "bookingUrl": "https://www.ticino.ch",
+      "rating": 4.8,
+      "description": "Hunt followed by full truffle menu"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1504387432042-8aca549e4729?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Truffles",
+      "value": "Black + white"
+    },
+    {
+      "label": "Trained Dogs",
+      "value": "Lagotto Romagnolo"
+    },
+    {
+      "label": "Season",
+      "value": "Oct–Dec peak"
+    },
+    {
+      "label": "Tasting",
+      "value": "Included"
+    },
+    {
+      "label": "Grotto",
+      "value": "Optional lunch"
+    }
+  ],
+  "tags": [
+    "truffle",
+    "hunting",
+    "food",
+    "ticino",
+    "gourmet"
+  ],
+  "featured": false
+}

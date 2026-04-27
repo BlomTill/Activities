@@ -1,0 +1,74 @@
+{
+  "id": "122",
+  "slug": "zurich-street-parade",
+  "name": "Zürich Street Parade",
+  "description": "Europe's largest techno parade with over a million attendees dancing through Zurich.",
+  "longDescription": "The Street Parade is the world's largest annual techno and dance music event, held every August along Zurich's lakefront. Over one million people dance behind decorated Love Mobiles (floats) from Utoquai to Bürkliplatz in a massive free celebration of electronic music.",
+  "category": "culture",
+  "subcategory": "Festival",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3667,
+      "lng": 8.541
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free Event",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.streetparade.com",
+      "rating": 4.7,
+      "description": "Free public event — donations welcome"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "6-12 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Attendance",
+      "value": "1 million+"
+    },
+    {
+      "label": "Love Mobiles",
+      "value": "30+ floats"
+    },
+    {
+      "label": "When",
+      "value": "August annually"
+    },
+    {
+      "label": "Route",
+      "value": "Zurich lakefront"
+    },
+    {
+      "label": "Free",
+      "value": "Public event"
+    }
+  ],
+  "tags": [
+    "techno",
+    "parade",
+    "festival",
+    "zurich",
+    "free"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Event",
+    "validUntil": "2026-08-31"
+  }
+}

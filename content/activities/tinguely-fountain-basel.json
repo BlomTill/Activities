@@ -1,0 +1,76 @@
+{
+  "id": "105",
+  "slug": "tinguely-fountain-basel",
+  "name": "Tinguely Fountain Basel",
+  "description": "Whimsical kinetic water fountain with 10 mechanical sculptures in Basel's Theaterplatz.",
+  "longDescription": "The Tinguely Fountain (Fasnachtsbrunnen) on Theaterplatz features 10 iron kinetic sculptures that spray, splash, and rotate in a shallow pool. Created by Jean Tinguely in 1977 on the site of the old theatre stage, this free outdoor artwork is a playful Basel landmark.",
+  "category": "culture",
+  "subcategory": "Public Art",
+  "location": {
+    "region": "Basel Region",
+    "canton": "Basel-Stadt",
+    "city": "Basel",
+    "coordinates": {
+      "lat": 47.5538,
+      "lng": 7.5941
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free Public Access",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.basel.com",
+      "rating": 4.4
+    }
+  ],
+  "currency": "CHF",
+  "duration": "15-30 minutes",
+  "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Sculptures",
+      "value": "10 kinetic"
+    },
+    {
+      "label": "Artist",
+      "value": "Jean Tinguely"
+    },
+    {
+      "label": "Year",
+      "value": "1977"
+    },
+    {
+      "label": "Location",
+      "value": "Theaterplatz"
+    },
+    {
+      "label": "Free",
+      "value": "24/7 access"
+    }
+  ],
+  "tags": [
+    "fountain",
+    "tinguely",
+    "free",
+    "public art",
+    "basel"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Activity",
+    "validUntil": "2026-12-31"
+  }
+}

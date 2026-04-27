@@ -1,0 +1,68 @@
+{
+  "id": "69",
+  "slug": "jet-boat-interlaken",
+  "name": "Jet Boat Ride Interlaken",
+  "description": "High-speed jet boat ride with 360° spins on Lake Brienz.",
+  "longDescription": "An adrenaline-pumping jet boat ride with high-speed turns, 360° spins, and power slides on the turquoise waters of Lake Brienz.",
+  "category": "adventure",
+  "subcategory": "Water Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Interlaken",
+    "coordinates": {
+      "lat": 46.6863,
+      "lng": 7.8632
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Jetboat Interlaken",
+      "pricing": {
+        "child": 55,
+        "student": 72,
+        "adult": 85,
+        "senior": 85
+      },
+      "bookingUrl": "https://www.jetboat.ch",
+      "rating": 4.6
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1 hour",
+  "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Speed",
+      "value": "High-speed"
+    },
+    {
+      "label": "Spins",
+      "value": "360° turns"
+    },
+    {
+      "label": "Duration",
+      "value": "1 hour"
+    },
+    {
+      "label": "Min Age",
+      "value": "6 years"
+    },
+    {
+      "label": "Lake",
+      "value": "Brienz turquoise"
+    }
+  ],
+  "tags": [
+    "jet boat",
+    "speed",
+    "lake",
+    "adrenaline",
+    "water"
+  ],
+  "featured": false
+}

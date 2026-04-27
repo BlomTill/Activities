@@ -1,5 +1,1061 @@
 {
-  "_about": "Auto-populated by scripts/fetch-activity-images.mjs. DO NOT edit by hand — run `npm run fetch-images` instead. Maps activity slug → resolved image + credit.",
+  "_about": "Auto-populated by scripts/fetch-activity-images.mjs and scripts/fetch-unsplash-images.mjs. Maps activity slug → resolved image + credit. Wikipedia images take priority; Unsplash fills the gaps.",
   "_version": 1,
-  "images": {}
+  "_lastUpdated": "2026-04-27T08:22:17.586Z",
+  "images": {
+    "aare-swimming-bern": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bern_Untertorbr%C3%BCcke_05.jpg",
+      "credit": {
+        "author": "Daniel Schwen",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bern_Untertorbr%C3%BCcke_05.jpg",
+        "filename": "Bern_Untertorbrücke_05.jpg"
+      }
+    },
+    "aareschlucht-gorge": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Aareschlucht_166_7.jpg",
+      "credit": {
+        "author": "Pazit Polak",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aareschlucht_166_7.jpg",
+        "filename": "Aareschlucht_166_7.jpg"
+      }
+    },
+    "adelboden-lenk-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Adelboden_Sillerenbahn.jpg/1280px-Adelboden_Sillerenbahn.jpg",
+      "credit": {
+        "author": "Wisi eu",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adelboden_Sillerenbahn.jpg",
+        "filename": "Adelboden_Sillerenbahn.jpg"
+      }
+    },
+    "adventure-park-interlaken": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+      "credit": {
+        "author": "Rectilinium",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+        "filename": "Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg"
+      }
+    },
+    "aletsch-glacier-hike": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Switzerland%2C_Bettmeralp_%2819505442736%29.jpg",
+      "credit": {
+        "author": "Robert J Heath",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Switzerland,_Bettmeralp_(19505442736).jpg",
+        "filename": "Switzerland,_Bettmeralp_(19505442736).jpg"
+      }
+    },
+    "andermatt-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Andermatt.jpg",
+      "credit": {
+        "author": "Lutz Fischer-Lamprecht",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andermatt.jpg",
+        "filename": "Andermatt.jpg"
+      }
+    },
+    "appenzell-cheese-dairy": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Appenzeller_%28cheese%29.jpg",
+      "credit": {
+        "author": "PDPhoto.org",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Appenzeller_(cheese).jpg",
+        "filename": "Appenzeller_(cheese).jpg"
+      }
+    },
+    "aquaparc-bouveret": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ETH-BIB-Le_Bouveret_%28Port-Valais%29-LBS_H1-027702.tif/lossy-page1-5732px-ETH-BIB-Le_Bouveret_%28Port-Valais%29-LBS_H1-027702.tif.jpg",
+      "credit": {
+        "sourceUrl": "https://en.wikipedia.org/wiki/Le_Bouveret",
+        "filename": "lossy-page1-5732px-ETH-BIB-Le_Bouveret_(Port-Valais)-LBS_H1-027702.tif.jpg"
+      }
+    },
+    "arosa-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Arosa_jun2_09_094.jpg",
+      "credit": {
+        "author": "Ch-info.ch",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arosa_jun2_09_094.jpg",
+        "filename": "Arosa_jun2_09_094.jpg"
+      }
+    },
+    "bachalpsee-hike": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bachalpsee_reflection.jpg",
+      "credit": {
+        "author": "Ryan Gsell",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bachalpsee_reflection.jpg",
+        "filename": "Bachalpsee_reflection.jpg"
+      }
+    },
+    "ballenberg-open-air-museum": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ballenberg_-_Bernese_Midlands_House_-_Ben_W_Bell_31_Aug_2005.jpg",
+      "credit": {
+        "author": "Ben W Bell",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ballenberg_-_Bernese_Midlands_House_-_Ben_W_Bell_31_Aug_2005.jpg",
+        "filename": "Ballenberg_-_Bernese_Midlands_House_-_Ben_W_Bell_31_Aug_2005.jpg"
+      }
+    },
+    "bern-old-town-walking-tour": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bern_luftaufnahme.png",
+      "credit": {
+        "author": "de:Benutzer:Reaast",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bern_luftaufnahme.png",
+        "filename": "Bern_luftaufnahme.png"
+      }
+    },
+    "bernina-express": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/RhB_ABe_4-4_III_56_and_51_Lago_Bianco.jpg",
+      "credit": {
+        "author": "Kabelleger / David Gubler",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:RhB_ABe_4-4_III_56_and_51_Lago_Bianco.jpg",
+        "filename": "RhB_ABe_4-4_III_56_and_51_Lago_Bianco.jpg"
+      }
+    },
+    "bikepark-lenzerheide": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lenzerheide_Danis.jpg",
+      "credit": {
+        "author": "Adrian Michael",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lenzerheide_Danis.jpg",
+        "filename": "Lenzerheide_Danis.jpg"
+      }
+    },
+    "bungee-jumping-verzasca": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/BarrageDeContra.JPG",
+      "credit": {
+        "author": "Audrix",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BarrageDeContra.JPG",
+        "filename": "BarrageDeContra.JPG"
+      }
+    },
+    "cern-visit": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CERN_aerial_view.jpg/1280px-CERN_aerial_view.jpg",
+      "credit": {
+        "author": "CERN",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CERN_aerial_view.jpg",
+        "filename": "CERN_aerial_view.jpg"
+      }
+    },
+    "chaplin-world": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Manoir_de_Ban_-_Charlie_Chaplin_Museum_-_Corsier-sur-Vevey.jpg/1280px-Manoir_de_Ban_-_Charlie_Chaplin_Museum_-_Corsier-sur-Vevey.jpg",
+      "credit": {
+        "author": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Manoir_de_Ban_-_Charlie_Chaplin_Museum_-_Corsier-sur-Vevey.jpg",
+        "filename": "Manoir_de_Ban_-_Charlie_Chaplin_Museum_-_Corsier-sur-Vevey.jpg"
+      }
+    },
+    "chateau-de-chillon": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+      "credit": {
+        "author": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+        "filename": "001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg"
+      }
+    },
+    "christmas-markets-basel": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Basel_-_M%C3%BCnsterpfalz1.jpg",
+      "credit": {
+        "author": "Taxiarchos228",
+        "license": "FAL",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basel_-_M%C3%BCnsterpfalz1.jpg",
+        "filename": "Basel_-_Münsterpfalz1.jpg"
+      }
+    },
+    "crans-montana-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Crans_Montana_Helico_HtPlateau_Golf_OlivierMaire.jpg",
+      "credit": {
+        "author": "Crans-Montana-Communication",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crans_Montana_Helico_HtPlateau_Golf_OlivierMaire.jpg",
+        "filename": "Crans_Montana_Helico_HtPlateau_Golf_OlivierMaire.jpg"
+      }
+    },
+    "creux-du-van": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Creux_du_Van.jpg",
+      "credit": {
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Creux_du_Van.jpg",
+        "filename": "Creux_du_Van.jpg"
+      }
+    },
+    "davos-klosters-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/City_of_Davos.jpg",
+      "credit": {
+        "author": "MadGeographer",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_of_Davos.jpg",
+        "filename": "City_of_Davos.jpg"
+      }
+    },
+    "engelberg-titlis-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Engelberg.jpg",
+      "credit": {
+        "author": "Stan45",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Engelberg.jpg",
+        "filename": "Engelberg.jpg"
+      }
+    },
+    "five-lakes-walk-zermatt": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1_zermatt_evening_2022.jpg",
+      "credit": {
+        "author": "Chensiyuan",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_zermatt_evening_2022.jpg",
+        "filename": "1_zermatt_evening_2022.jpg"
+      }
+    },
+    "fondue-experience-gruyeres": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gruy%C3%A8res_et_sa_cit%C3%A9_m%C3%A9di%C3%A9vale.jpg",
+      "credit": {
+        "author": "Christian David",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gruy%C3%A8res_et_sa_cit%C3%A9_m%C3%A9di%C3%A9vale.jpg",
+        "filename": "Gruyères_et_sa_cité_médiévale.jpg"
+      }
+    },
+    "glacier-express": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CH_Landwasser_2.jpg",
+      "credit": {
+        "author": "Daniel Schwen",
+        "license": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CH_Landwasser_2.jpg",
+        "filename": "CH_Landwasser_2.jpg"
+      }
+    },
+    "grindelwald-first-cliff-walk": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Grindelwald_View_02.jpg",
+      "credit": {
+        "author": "Cristo Vlahos",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grindelwald_View_02.jpg",
+        "filename": "Grindelwald_View_02.jpg"
+      }
+    },
+    "harder-kulm-interlaken": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/14_Harder_Kulm_Lac_Thoune_Photo_by_Giles_Laurent.jpg",
+      "credit": {
+        "author": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:14_Harder_Kulm_Lac_Thoune_Photo_by_Giles_Laurent.jpg",
+        "filename": "14_Harder_Kulm_Lac_Thoune_Photo_by_Giles_Laurent.jpg"
+      }
+    },
+    "helicopter-tour-alps": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
+      "credit": {
+        "author": "Photo: chil, on Camptocamp.org\nDerivative work:Zacharie Grossen",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
+        "filename": "Matterhorn_from_Domhütte_-_2.jpg"
+      }
+    },
+    "ice-skating-davos": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Davos_Eisbahn.jpg/1280px-Davos_Eisbahn.jpg",
+      "credit": {
+        "author": "Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Davos_Eisbahn.jpg",
+        "filename": "Davos_Eisbahn.jpg"
+      }
+    },
+    "interlaken-paragliding": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+      "credit": {
+        "author": "Rectilinium",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+        "filename": "Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg"
+      }
+    },
+    "jet-boat-interlaken": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aerial_image_of_Lake_Brienz_%28view_from_the_southwest%29.jpg",
+      "credit": {
+        "author": "Carsten Steger",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lake_Brienz_(view_from_the_southwest).jpg",
+        "filename": "Aerial_image_of_Lake_Brienz_(view_from_the_southwest).jpg"
+      }
+    },
+    "jungfraujoch-top-of-europe": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Sphinx_et_Jungfrau_-_img_06980.jpg",
+      "credit": {
+        "author": "Pmau",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sphinx_et_Jungfrau_-_img_06980.jpg",
+        "filename": "Sphinx_et_Jungfrau_-_img_06980.jpg"
+      }
+    },
+    "kayaking-lake-brienz": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aerial_image_of_Lake_Brienz_%28view_from_the_southwest%29.jpg",
+      "credit": {
+        "author": "Carsten Steger",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lake_Brienz_(view_from_the_southwest).jpg",
+        "filename": "Aerial_image_of_Lake_Brienz_(view_from_the_southwest).jpg"
+      }
+    },
+    "laax-freestyle-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Laax_See.jpg",
+      "credit": {
+        "author": "upload by Adrian Michael",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laax_See.jpg",
+        "filename": "Laax_See.jpg"
+      }
+    },
+    "lake-geneva-boat-cruise": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Lake_Geneva_by_Sentinel-2.jpg",
+      "credit": {
+        "author": "Copernicus Sentinel-2, ESA",
+        "license": "CC BY-SA 3.0 igo",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Geneva_by_Sentinel-2.jpg",
+        "filename": "Lake_Geneva_by_Sentinel-2.jpg"
+      }
+    },
+    "lake-lucerne-paddle-steamer": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Vierwaldstaettersee.jpg",
+      "credit": {
+        "author": "Ttrainer",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vierwaldstaettersee.jpg",
+        "filename": "Vierwaldstaettersee.jpg"
+      }
+    },
+    "lake-oeschinen": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/20190725_Oeschinensee-Panorama%2C_Kandersteg_%2806540-42_stitch%29.jpg",
+      "credit": {
+        "author": "Günter Seggebäing, Coesfeld",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:20190725_Oeschinensee-Panorama,_Kandersteg_(06540-42_stitch).jpg",
+        "filename": "20190725_Oeschinensee-Panorama,_Kandersteg_(06540-42_stitch).jpg"
+      }
+    },
+    "lauterbrunnen-valley-hike": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/1_lauterbrunnen_valley_wengen_2022.jpg",
+      "credit": {
+        "author": "Chensiyuan",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_wengen_2022.jpg",
+        "filename": "1_lauterbrunnen_valley_wengen_2022.jpg"
+      }
+    },
+    "lenzerheide-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lenzerheide_Danis.jpg",
+      "credit": {
+        "author": "Adrian Michael",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lenzerheide_Danis.jpg",
+        "filename": "Lenzerheide_Danis.jpg"
+      }
+    },
+    "leukerbad-thermal-baths": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Leukerbad2.jpg",
+      "credit": {
+        "author": "Olivier Bruchez",
+        "license": "CC BY-SA 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leukerbad2.jpg",
+        "filename": "Leukerbad2.jpg"
+      }
+    },
+    "lindt-chocolate-museum": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG",
+      "credit": {
+        "author": "Roland zh",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilchberg_-_Lindt_%26_Spr%C3%BCngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG",
+        "filename": "Kilchberg_-_Lindt_&_Sprüngli_-_ZSG_Helvetia_2015-09-09_18-03-57.JPG"
+      }
+    },
+    "lugano-monte-san-salvatore": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Picswiss_TI-16-02.jpg",
+      "credit": {
+        "author": "Roland Zumbühl (Picswiss), Arlesheim (Commons:Picswiss project)",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Picswiss_TI-16-02.jpg",
+        "filename": "Picswiss_TI-16-02.jpg"
+      }
+    },
+    "olympic-museum-lausanne": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Losanna%2C_museo_olimpico%2C_ext..JPG",
+      "credit": {
+        "author": "Sailko",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Losanna,_museo_olimpico,_ext..JPG",
+        "filename": "Losanna,_museo_olimpico,_ext..JPG"
+      }
+    },
+    "pilatus-golden-round-trip": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Luzern_-_Mount_Pilatus_-_March_2019_%2801%29.jpg",
+      "credit": {
+        "author": "Liridon",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luzern_-_Mount_Pilatus_-_March_2019_(01).jpg",
+        "filename": "Luzern_-_Mount_Pilatus_-_March_2019_(01).jpg"
+      }
+    },
+    "rafting-interlaken": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Gsteigbr%C3%BCcke_%C3%BCber_die_L%C3%BCtschine_2011.jpg",
+      "credit": {
+        "author": "Peter Hiltbrand",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gsteigbr%C3%BCcke_%C3%BCber_die_L%C3%BCtschine_2011.jpg",
+        "filename": "Gsteigbrücke_über_die_Lütschine_2011.jpg"
+      }
+    },
+    "rapperswil-rose-town": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Rapperswil-Jona_-_Lenggis_Spitzewies_IMG_4991_-crop-.JPG",
+      "credit": {
+        "author": "Roland zh",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rapperswil-Jona_-_Lenggis_Spitzewies_IMG_4991_-crop-.JPG",
+        "filename": "Rapperswil-Jona_-_Lenggis_Spitzewies_IMG_4991_-crop-.JPG"
+      }
+    },
+    "rhine-falls-schaffhausen": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/SBB_RABe_514_DTZ_Rheinfall.jpg",
+      "credit": {
+        "author": "Kabelleger / David Gubler",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SBB_RABe_514_DTZ_Rheinfall.jpg",
+        "filename": "SBB_RABe_514_DTZ_Rheinfall.jpg"
+      }
+    },
+    "rigi-queen-of-mountains": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lauerzersee.jpg",
+      "credit": {
+        "author": "Roland Zumbühl",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lauerzersee.jpg",
+        "filename": "Lauerzersee.jpg"
+      }
+    },
+    "rope-jumping-stockhorn": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Stockhorn.jpg",
+      "credit": {
+        "author": "Roland Zumbühl",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockhorn.jpg",
+        "filename": "Stockhorn.jpg"
+      }
+    },
+    "saas-fee-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Saas-Fee_Ort%2C_Januar_2009.jpg",
+      "credit": {
+        "author": "Saas-Fee",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saas-Fee_Ort,_Januar_2009.jpg",
+        "filename": "Saas-Fee_Ort,_Januar_2009.jpg"
+      }
+    },
+    "schilthorn-piz-gloria": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Schilthorn_with_Bernese_Alps%2C_2012_August.jpg",
+      "credit": {
+        "author": "Ximonic (Simo Räsänen)",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schilthorn_with_Bernese_Alps,_2012_August.jpg",
+        "filename": "Schilthorn_with_Bernese_Alps,_2012_August.jpg"
+      }
+    },
+    "segway-tour-zurich": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Altstadt_Z%C3%BCrich_2015.jpg",
+      "credit": {
+        "author": "Thomas Wolf, www.foto-tw.de",
+        "license": "CC BY-SA 3.0 de",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Altstadt_Z%C3%BCrich_2015.jpg",
+        "filename": "Altstadt_Zürich_2015.jpg"
+      }
+    },
+    "skydiving-interlaken": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+      "credit": {
+        "author": "Rectilinium",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg",
+        "filename": "Goldswil-Viadukt_Panorama_mit_Interlaken_im_Hintergrund_2.jpg"
+      }
+    },
+    "sledging-faulhorn": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Faulhorn.jpeg",
+      "credit": {
+        "author": "Roland Zumbühl",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Faulhorn.jpeg",
+        "filename": "Faulhorn.jpeg"
+      }
+    },
+    "snowshoe-hiking-engadin": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Engadine.jpg",
+      "credit": {
+        "author": "Biovit",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Engadine.jpg",
+        "filename": "Engadine.jpg"
+      }
+    },
+    "solothurn-old-town": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Solothurn_2023.jpg",
+      "credit": {
+        "author": "Christian David",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solothurn_2023.jpg",
+        "filename": "Solothurn_2023.jpg"
+      }
+    },
+    "st-moritz-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Exterior_Winter_2016_17_Fotograf_Romano_Salis_%2821%29.jpg",
+      "credit": {
+        "author": "Travelleronthego49",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior_Winter_2016_17_Fotograf_Romano_Salis_(21).jpg",
+        "filename": "Exterior_Winter_2016_17_Fotograf_Romano_Salis_(21).jpg"
+      }
+    },
+    "stanserhorn-cabrio": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Stanserhorn.jpg",
+      "credit": {
+        "author": "Fly01",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stanserhorn.jpg",
+        "filename": "Stanserhorn.jpg"
+      }
+    },
+    "sup-lake-thun": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Aerial_image_of_Lake_Thun_%28view_from_the_east%29.jpg",
+      "credit": {
+        "author": "Carsten Steger",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lake_Thun_(view_from_the_east).jpg",
+        "filename": "Aerial_image_of_Lake_Thun_(view_from_the_east).jpg"
+      }
+    },
+    "swimming-lake-brienz": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Aerial_image_of_Lake_Brienz_%28view_from_the_southwest%29.jpg",
+      "credit": {
+        "author": "Carsten Steger",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lake_Brienz_(view_from_the_southwest).jpg",
+        "filename": "Aerial_image_of_Lake_Brienz_(view_from_the_southwest).jpg"
+      }
+    },
+    "swiss-national-park": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Swiss_National_Park_002.JPG",
+      "credit": {
+        "author": "Hansueli Krapf",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swiss_National_Park_002.JPG",
+        "filename": "Swiss_National_Park_002.JPG"
+      }
+    },
+    "technorama-winterthur": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Technorama_Winterthur_2011-09-09_14-18-42.jpg",
+      "credit": {
+        "author": "Roland zh",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Technorama_Winterthur_2011-09-09_14-18-42.jpg",
+        "filename": "Technorama_Winterthur_2011-09-09_14-18-42.jpg"
+      }
+    },
+    "thermalbad-zurich": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Altstadt_Z%C3%BCrich_2015.jpg",
+      "credit": {
+        "author": "Thomas Wolf, www.foto-tw.de",
+        "license": "CC BY-SA 3.0 de",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Altstadt_Z%C3%BCrich_2015.jpg",
+        "filename": "Altstadt_Zürich_2015.jpg"
+      }
+    },
+    "titlis-glacier-excursion": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Titlis_W.jpg",
+      "credit": {
+        "author": "CARLO FEDELE BARRI",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Titlis_W.jpg",
+        "filename": "Titlis_W.jpg"
+      }
+    },
+    "trummelbach-falls": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Trummelbach.JPG",
+      "credit": {
+        "author": "Rafael.corvalan",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trummelbach.JPG",
+        "filename": "Trummelbach.JPG"
+      }
+    },
+    "verbier-skiing": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Verbier_View.JPG",
+      "credit": {
+        "author": "Jameson Lee",
+        "license": "GFDL",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Verbier_View.JPG",
+        "filename": "Verbier_View.JPG"
+      }
+    },
+    "via-ferrata-murren": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/1_M%C3%BCrren_2022.jpg",
+      "credit": {
+        "author": "Chensiyuan",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_M%C3%BCrren_2022.jpg",
+        "filename": "1_Mürren_2022.jpg"
+      }
+    },
+    "wellness-bad-ragaz": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bad-Ragaz-Platz.jpg",
+      "credit": {
+        "author": "Roland Zumbuehl",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bad-Ragaz-Platz.jpg",
+        "filename": "Bad-Ragaz-Platz.jpg"
+      }
+    },
+    "wine-tasting-lavaux": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Lavaux_Switzerland.jpg",
+      "credit": {
+        "author": "Lorenz Poffet",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lavaux_Switzerland.jpg",
+        "filename": "Lavaux_Switzerland.jpg"
+      }
+    },
+    "zermatt-matterhorn-glacier-paradise": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Klein_Matterhorn_-_Zermatt_-_Switzerland_-_2005_-_05.jpg",
+      "credit": {
+        "author": "Sikander Iqbal",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klein_Matterhorn_-_Zermatt_-_Switzerland_-_2005_-_05.jpg",
+        "filename": "Klein_Matterhorn_-_Zermatt_-_Switzerland_-_2005_-_05.jpg"
+      }
+    },
+    "zoo-zurich": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/ZooZ%C3%BCrich_Eingang.jpg",
+      "credit": {
+        "author": "Adrian Michael",
+        "license": "CC BY 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZooZ%C3%BCrich_Eingang.jpg",
+        "filename": "ZooZürich_Eingang.jpg"
+      }
+    },
+    "zurich-kunsthaus": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg",
+      "credit": {
+        "author": "Roland zh",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kunsthaus_Z%C3%BCrich_2011-08-06_17-33-46.jpg",
+        "filename": "Kunsthaus_Zürich_2011-08-06_17-33-46.jpg"
+      }
+    },
+    "swiss-museum-of-transport": {
+      "src": "https://images.unsplash.com/photo-1623678266551-176b14100b35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwyfHxTd2lzcyUyME11c2V1bSUyMG9mJTIwVHJhbnNwb3J0JTIwTHVjZXJuZSUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Nadine Marfurt",
+        "authorUrl": "https://unsplash.com/@nadine3",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/green-grass-field-near-green-mountains-under-white-clouds-during-daytime-axWvf7PkWLc",
+        "filename": "axWvf7PkWLc"
+      }
+    },
+    "laederach-chocolate-factory": {
+      "src": "https://images.unsplash.com/photo-1585577280872-8a9fb571fece?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw1fHxMJUMzJUE0ZGVyYWNoJTIwQ2hvY29sYXRlJTIwRmFjdG9yeSUyMFRvdXIlMjBCaWx0ZW4lMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc3OTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Pascal Müller",
+        "authorUrl": "https://unsplash.com/@millerthachiller",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/white-wooden-house-on-green-grass-field-during-daytime-SrN02dYads4",
+        "filename": "SrN02dYads4"
+      }
+    },
+    "canyoning-interlaken": {
+      "src": "https://images.unsplash.com/photo-1594987975747-b0822d768bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwyfHxDYW55b25pbmclMjBpbiUyMEludGVybGFrZW4lMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc3OTQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Alex Ghizila",
+        "authorUrl": "https://unsplash.com/@galex",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/aerial-view-of-city-near-mountains-during-daytime-bjzajETceI4",
+        "filename": "bjzajETceI4"
+      }
+    },
+    "bernaqua-water-park": {
+      "src": "https://images.unsplash.com/photo-1580008092144-9f18ea82a8a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwzfHxCZXJuYXF1YSUyMFdhdGVyJTIwUGFyayUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "mana5280",
+        "authorUrl": "https://unsplash.com/@mana5280",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/brown-and-white-concrete-house-near-body-of-water-during-daytime-GxoCbiR9C1w",
+        "filename": "GxoCbiR9C1w"
+      }
+    },
+    "escape-room-zurich": {
+      "src": "https://images.unsplash.com/photo-1672659522199-c619fb2edc47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxFc2NhcGUlMjBSb29tJTIwWnVyaWNoJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Laurin Berli",
+        "authorUrl": "https://unsplash.com/@laurinberli",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-pier-with-a-light-pole-and-a-sign-on-it-0bNIoUZnsNg",
+        "filename": "0bNIoUZnsNg"
+      }
+    },
+    "swiss-miniatur": {
+      "src": "https://images.unsplash.com/photo-1598690594129-f79eee68761f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw1fHxTd2lzc21pbmlhdHVyJTIwTWVsaWRlJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Balu Gáspár",
+        "authorUrl": "https://unsplash.com/@balu_gaspar",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/white-and-gray-house-on-green-grass-field-near-green-mountains-under-blue-sky-during-daytime-cKbJZEcDzNc",
+        "filename": "cKbJZEcDzNc"
+      }
+    },
+    "go-karting-lyss": {
+      "src": "https://images.unsplash.com/photo-1592126417557-f62c755114f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw1fHxJbmRvb3IlMjBHby1LYXJ0aW5nJTIwTHlzcyUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Steffen Lemmerzahl",
+        "authorUrl": "https://unsplash.com/@steffen_l",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/woman-in-red-jacket-sitting-on-brown-wooden-bench-during-daytime-XdR1fJrXLfw",
+        "filename": "XdR1fJrXLfw"
+      }
+    },
+    "indoor-climbing-minimum": {
+      "src": "https://images.unsplash.com/photo-1620545785240-ddf5d36a30f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxNaW5pbXVtJTIwQm91bGRlcmluZyUyMFp1cmljaCUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Claudio Schwarz",
+        "authorUrl": "https://unsplash.com/@purzlbaum",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/yellow-and-red-flowers-on-white-wall-6SntWrNoaZ0",
+        "filename": "6SntWrNoaZ0"
+      }
+    },
+    "swiss-knife-valley": {
+      "src": "https://images.unsplash.com/photo-1575640218950-2331ee8d8cc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxTd2lzcyUyMEtuaWZlJTIwVmFsbGV5JTIwVmlzaXRvciUyMENlbnRlciUyMEJydW5uZW4lMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc3OTU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "ruddy.media",
+        "authorUrl": "https://unsplash.com/@ruddymedia",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/houses-on-green-field-viewing-mountain-under-white-sky-RWZkHwGtLuI",
+        "filename": "RWZkHwGtLuI"
+      }
+    },
+    "zipline-grindelwald": {
+      "src": "https://images.unsplash.com/photo-1665125688197-7318b9b86dc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwzfHxGaXJzdCUyMEZseWVyJTIwWmlwJTIwTGluZSUyMEdyaW5kZWx3YWxkJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "allPhoto Bangkok",
+        "authorUrl": "https://unsplash.com/@allphotobangkok",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-cable-car-going-up-a-mountain-ex2HsFpgyjg",
+        "filename": "ex2HsFpgyjg"
+      }
+    },
+    "e-bike-tour-graubunden": {
+      "src": "https://images.unsplash.com/photo-1659125050461-b24f078ef775?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwzfHxFLUJpa2UlMjBUb3VyJTIwR3JhdWIlQzMlQkNuZGVuJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Patrick Federi",
+        "authorUrl": "https://unsplash.com/@federi",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-lake-with-a-house-and-mountains-in-the-background-5SVcogqerHI",
+        "filename": "5SVcogqerHI"
+      }
+    },
+    "flumserberg-skiing": {
+      "src": "https://images.unsplash.com/photo-1677589066397-b8f7f2ef74bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxGbHVtc2VyYmVyZyUyMFNraWluZyUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Elijah Grimm",
+        "authorUrl": "https://unsplash.com/@watchelijah",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-person-on-a-snowboard-in-the-snow-rbs_-LO19XE",
+        "filename": "rbs_-LO19XE"
+      }
+    },
+    "kandersteg-cross-country": {
+      "src": "https://images.unsplash.com/photo-1648903948262-5ee2d79d1476?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw1fHxLYW5kZXJzdGVnJTIwQ3Jvc3MtQ291bnRyeSUyMFNraWluZyUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Perspective Nature",
+        "authorUrl": "https://unsplash.com/@perspectivenature",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-snow-covered-mountain-range-with-pine-trees-in-the-foreground-aS_RWQ76J0k",
+        "filename": "aS_RWQ76J0k"
+      }
+    },
+    "eiger-trail-hike": {
+      "src": "https://images.unsplash.com/photo-1693215123626-ab3d978e35f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw0fHxFaWdlciUyMFRyYWlsJTIwSGlrZSUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Bryan Dijkhuizen",
+        "authorUrl": "https://unsplash.com/@bryandijkh",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-woman-hiking-up-a-trail-in-the-mountains-fPE0zd_69AM",
+        "filename": "fPE0zd_69AM"
+      }
+    },
+    "oeschinensee-circular-hike": {
+      "src": "https://images.unsplash.com/photo-1525631590832-76aade1c6cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw0fHxPZXNjaGluZW5zZWUlMjBDaXJjdWxhciUyMEhpa2UlMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc3OTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Pascal Debrunner",
+        "authorUrl": "https://unsplash.com/@debrupas",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-mountain-lake-surrounded-by-trees-and-grass-HfkQ_Fen2LI",
+        "filename": "HfkQ_Fen2LI"
+      }
+    },
+    "panoramaweg-thunersee": {
+      "src": "https://images.unsplash.com/photo-1607286665769-39e080316c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw1fHxQYW5vcmFtYXdlZyUyMFRodW5lcnNlZSUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "LJ Coates",
+        "authorUrl": "https://unsplash.com/@ljcoates",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/green-trees-on-mountain-beside-body-of-water-under-blue-sky-during-daytime-vJDqJ6o6Haw",
+        "filename": "vJDqJ6o6Haw"
+      }
+    },
+    "walenpfad-pilatus": {
+      "src": "https://images.unsplash.com/photo-1670750399255-66f9842fac6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwzfHxXYWxlbnBmYWQlMjBQaWxhdHVzJTIwUmlkZ2UlMjBXYWxrJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Anthony Gomez",
+        "authorUrl": "https://unsplash.com/@anthonygomez",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-dirt-road-in-the-middle-of-a-mountain-range-sd6FbRrnimA",
+        "filename": "sd6FbRrnimA"
+      }
+    },
+    "tour-du-mont-blanc-swiss": {
+      "src": "https://images.unsplash.com/photo-1720358553488-d332927ce65b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxUb3VyJTIwZHUlMjBNb250JTIwQmxhbmMlMjAlRTIlODAlOTMlMjBTd2lzcyUyMFNlY3Rpb24lMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc3OTc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Jisca Lucia",
+        "authorUrl": "https://unsplash.com/@wanderlandjournal",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-mountain-range-with-snow-capped-mountains-in-the-background-hToLAaMzQLk",
+        "filename": "hToLAaMzQLk"
+      }
+    },
+    "aletsch-panorama-trail": {
+      "src": "https://images.unsplash.com/photo-1724523039751-c11569b496a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxBbGV0c2NoJTIwUGFub3JhbWElMjBUcmFpbCUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Christian Lendl",
+        "authorUrl": "https://unsplash.com/@dchris",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-group-of-people-standing-on-top-of-a-mountain-mIaI2CRz8HY",
+        "filename": "mIaI2CRz8HY"
+      }
+    },
+    "muottas-muragl-panorama": {
+      "src": "https://images.unsplash.com/photo-1670750399255-66f9842fac6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw0fHxNdW90dGFzJTIwTXVyYWdsJTIwUGFub3JhbWElMjBUcmFpbCUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Anthony Gomez",
+        "authorUrl": "https://unsplash.com/@anthonygomez",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-dirt-road-in-the-middle-of-a-mountain-range-sd6FbRrnimA",
+        "filename": "sd6FbRrnimA"
+      }
+    },
+    "lago-di-lugano-walking": {
+      "src": "https://images.unsplash.com/photo-1713638055389-fd8a190d8d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxMYWdvJTIwZGklMjBMdWdhbm8lMjBMYWtlc2lkZSUyMFdhbGslMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc3OTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Mihaela Claudia Puscas",
+        "authorUrl": "https://unsplash.com/@mihaela_claudia_p",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-large-sign-that-says-lugano-on-the-side-of-a-lake-k69Pm30UsR0",
+        "filename": "k69Pm30UsR0"
+      }
+    },
+    "augusta-raurica": {
+      "src": "https://images.unsplash.com/photo-1603961401455-35af3e5c7723?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw1fHxBdWd1c3RhJTIwUmF1cmljYSUyMFJvbWFuJTIwQ2l0eSUyMEF1Z3N0JTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Patrizia Berta",
+        "authorUrl": "https://unsplash.com/@calicodesign",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/aerial-view-of-city-near-green-mountain-during-daytime-91gBoIBJn1Y",
+        "filename": "91gBoIBJn1Y"
+      }
+    },
+    "museum-tinguely-basel": {
+      "src": "https://images.unsplash.com/photo-1774901183802-1cdf16e40d27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwyfHxNdXNldW0lMjBUaW5ndWVseSUyMEJhc2VsJTIwQmFzZWwlMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc3OTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Mat Branger",
+        "authorUrl": "https://unsplash.com/@mat_branger",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/colorful-old-buildings-line-a-river-with-a-white-car-TFl2xF2-5e8",
+        "filename": "TFl2xF2-5e8"
+      }
+    },
+    "fondation-beyeler": {
+      "src": "https://images.unsplash.com/photo-1581708794629-8174e37783bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw0fHxGb25kYXRpb24lMjBCZXllbGVyJTIwUmllaGVuJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Xavier von Erlach",
+        "authorUrl": "https://unsplash.com/@xavier_von_erlach",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/man-in-blue-long-sleeve-shirt-and-black-pants-walking-on-brown-wooden-parquet-floor-g_2U9j6uIEw",
+        "filename": "g_2U9j6uIEw"
+      }
+    },
+    "zentrum-paul-klee": {
+      "src": "https://images.unsplash.com/photo-1496564203457-11bb12075d90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxaZW50cnVtJTIwUGF1bCUyMEtsZWUlMjBCZXJuJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Ricardo Gomez Angel",
+        "authorUrl": "https://unsplash.com/@rgaleriacom",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/architectural-photography-of-modern-building-opFPVxMRpP8",
+        "filename": "opFPVxMRpP8"
+      }
+    },
+    "fifa-museum-zurich": {
+      "src": "https://images.unsplash.com/photo-1690133446047-05f6b6f80190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxGSUZBJTIwTXVzZXVtJTIwWnVyaWNoJTIwWnVyaWNoJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3Nzk5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Jay Pics",
+        "authorUrl": "https://unsplash.com/@njaypics",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-a-building-8JabPYSMNYE",
+        "filename": "8JabPYSMNYE"
+      }
+    },
+    "abbey-library-st-gallen": {
+      "src": "https://images.unsplash.com/photo-1711987894138-3bdfe3a534c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwyfHxBYmJleSUyMExpYnJhcnklMjBvZiUyMFN0LiUyMEdhbGxlbiUyMFN0LiUyMEdhbGxlbiUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzc5OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Claudio Schwarz",
+        "authorUrl": "https://unsplash.com/@purzlbaum",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-room-with-a-lot-of-books-on-the-walls-BaC7JNcbUsg",
+        "filename": "BaC7JNcbUsg"
+      }
+    },
+    "museggmauer-lucerne": {
+      "src": "https://images.unsplash.com/photo-1542954588-fbd0be627234?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw0fHxNdXNlZ2dtYXVlciUyMFdhbGslMjBMdWNlcm5lJTIwTHVjZXJuZSUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzgwMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Kasturi Roy",
+        "authorUrl": "https://unsplash.com/@stationery_hoe",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/brown-boardwalk-3ytuLcNGZdQ",
+        "filename": "3ytuLcNGZdQ"
+      }
+    },
+    "tinguely-fountain-basel": {
+      "src": "https://images.unsplash.com/photo-1681151522502-9e2a1125a874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwyfHxUaW5ndWVseSUyMEZvdW50YWluJTIwQmFzZWwlMjBCYXNlbCUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzgwMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Ilia Bronskiy",
+        "authorUrl": "https://unsplash.com/@idbronskiy",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-fountain-in-the-middle-of-a-garden-with-mountains-in-the-background-VnHsOuBFh-c",
+        "filename": "VnHsOuBFh-c"
+      }
+    },
+    "rhine-swimming-basel": {
+      "src": "https://images.unsplash.com/photo-1580008092144-9f18ea82a8a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw0fHxSaGluZSUyMFN3aW1taW5nJTIwQmFzZWwlMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc4MDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "mana5280",
+        "authorUrl": "https://unsplash.com/@mana5280",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/brown-and-white-concrete-house-near-body-of-water-during-daytime-GxoCbiR9C1w",
+        "filename": "GxoCbiR9C1w"
+      }
+    },
+    "hammam-spa-zurich": {
+      "src": "https://images.unsplash.com/photo-1536394929582-bbec3546a332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxIYW1tYW0lMjAlMjYlMjBTcGElMjBadXJpY2glMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc4MDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Claudio Schwarz",
+        "authorUrl": "https://unsplash.com/@purzlbaum",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/blue-roller-shutter-hYVHdZ5LiPY",
+        "filename": "hYVHdZ5LiPY"
+      }
+    },
+    "bains-de-la-gruyere": {
+      "src": "https://images.unsplash.com/photo-1529420001315-597e62cb0bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwyfHxCYWlucyUyMGRlJTIwbGElMjBHcnV5JUMzJUE4cmUlMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc4MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Julian Villella",
+        "authorUrl": "https://unsplash.com/@jvillella",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/birds-eye-view-photography-of-village-near-mountain-pKAom32wMj4",
+        "filename": "pKAom32wMj4"
+      }
+    },
+    "glacier-garden-lucerne": {
+      "src": "https://images.unsplash.com/photo-1583035283307-3d4af0848227?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHw0fHxHbGFjaWVyJTIwR2FyZGVuJTIwTHVjZXJuZSUyMEx1Y2VybmUlMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc4MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Zach Gilseth",
+        "authorUrl": "https://unsplash.com/@zachary_gilseth",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/body-of-water-near-mountain-during-daytime-KBE0J47YBRc",
+        "filename": "KBE0J47YBRc"
+      }
+    },
+    "drone-show-grindelwald": {
+      "src": "https://images.unsplash.com/photo-1603349412488-e2451de099f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxEcm9uZSUyMExpZ2h0JTIwU2hvdyUyMEdyaW5kZWx3YWxkJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3ODAxOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "K T",
+        "authorUrl": "https://unsplash.com/@_knt",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/green-grass-field-and-trees-MrViFUpeJtc",
+        "filename": "MrViFUpeJtc"
+      }
+    },
+    "knies-kinderzoo-rapperswil": {
+      "src": "https://images.unsplash.com/photo-1657100027884-406bfa3997b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwxfHxLbmllcyUyMEtpbmRlcnpvbyUyMFJhcHBlcnN3aWwlMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc4MDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Ilia Bronskiy",
+        "authorUrl": "https://unsplash.com/@idbronskiy",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-street-with-cars-parked-on-the-side-4fjpsGfXgOs",
+        "filename": "4fjpsGfXgOs"
+      }
+    },
+    "seilpark-balmberg": {
+      "src": "https://images.unsplash.com/photo-1596110374860-1f8f664ab5b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwzfHxTZWlscGFyayUyMEJhbG1iZXJnJTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3ODA5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Claudio Schwarz",
+        "authorUrl": "https://unsplash.com/@purzlbaum",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/white-and-brown-house-on-green-grass-field-under-blue-and-white-cloudy-sky-during-daytime-RZaFQEcwPZ0",
+        "filename": "RZaFQEcwPZ0"
+      }
+    },
+    "augusta-raurica-roman-festival": {
+      "src": "https://images.unsplash.com/photo-1587439199188-ce90b34dbb7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwzfHxBdWd1c3RhJTIwUmF1cmljYSUyMFJvbWFuJTIwRmVzdGl2YWwlMjBBdWdzdCUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzgwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Prateek Mahesh",
+        "authorUrl": "https://unsplash.com/@prateek_mahesh",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-OQyxAjLvj-A",
+        "filename": "OQyxAjLvj-A"
+      }
+    },
+    "solothurn-film-festival": {
+      "src": "https://images.unsplash.com/photo-1649016185641-f751328a6ec8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwzfHxTb2xvdGh1cm4lMjBGaWxtJTIwRmVzdGl2YWwlMjBTb2xvdGh1cm4lMjBTd2l0emVybGFuZHxlbnwxfDB8fHwxNzc3Mjc4MDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Nemanja Peric",
+        "authorUrl": "https://unsplash.com/@21nemi",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-ZDncpR-kOQw",
+        "filename": "ZDncpR-kOQw"
+      }
+    },
+    "montreux-jazz-festival": {
+      "src": "https://images.unsplash.com/photo-1733950489654-60031eaac25c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwzfHxNb250cmV1eCUyMEphenolMjBGZXN0aXZhbCUyME1vbnRyZXV4JTIwU3dpdHplcmxhbmR8ZW58MXwwfHx8MTc3NzI3ODA5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Olusola O",
+        "authorUrl": "https://unsplash.com/@questmore",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/the-sun-is-shining-over-the-water-and-flowers-8QewfkrrquY",
+        "filename": "8QewfkrrquY"
+      }
+    },
+    "zurich-street-parade": {
+      "src": "https://images.unsplash.com/photo-1585586858711-17763b59c1a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzY0MjJ8MHwxfHNlYXJjaHwyfHxaJUMzJUJDcmljaCUyMFN0cmVldCUyMFBhcmFkZSUyMFp1cmljaCUyMFN3aXR6ZXJsYW5kfGVufDF8MHx8fDE3NzcyNzgwOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credit": {
+        "author": "Tomek Baginski",
+        "authorUrl": "https://unsplash.com/@tombag",
+        "license": "Unsplash License",
+        "sourceUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-AGTiLHWv0FM",
+        "filename": "AGTiLHWv0FM"
+      }
+    }
+  }
 }

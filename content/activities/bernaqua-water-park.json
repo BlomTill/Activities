@@ -1,0 +1,84 @@
+{
+  "id": "23",
+  "slug": "bernaqua-water-park",
+  "name": "Bernaqua Water Park",
+  "description": "Indoor water park with slides, wave pool, and wellness area in Bern.",
+  "longDescription": "Bernaqua is Bern's premier indoor water park featuring thrilling water slides, a wave pool, lazy river, and dedicated children's area. The fitness and wellness section offers saunas, steam baths, and a salt-water pool.",
+  "category": "family",
+  "subcategory": "Water Park",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Bern",
+    "coordinates": {
+      "lat": 46.9274,
+      "lng": 7.3862
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Bernaqua (3-hour)",
+      "pricing": {
+        "child": 18,
+        "student": 24,
+        "adult": 32,
+        "senior": 28
+      },
+      "bookingUrl": "https://www.bernaqua.ch",
+      "rating": 4.2,
+      "description": "3-hour bath and slide access"
+    },
+    {
+      "name": "Bernaqua (Full Day)",
+      "pricing": {
+        "child": 28,
+        "student": 36,
+        "adult": 48,
+        "senior": 42
+      },
+      "bookingUrl": "https://www.bernaqua.ch",
+      "rating": 4.3,
+      "description": "Full-day access including wellness area"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slides",
+      "value": "Multiple"
+    },
+    {
+      "label": "Wave Pool",
+      "value": "Yes"
+    },
+    {
+      "label": "Wellness",
+      "value": "Sauna & Steam"
+    },
+    {
+      "label": "Lazy River",
+      "value": "Yes"
+    },
+    {
+      "label": "Kids Area",
+      "value": "Dedicated"
+    }
+  ],
+  "tags": [
+    "water park",
+    "slides",
+    "indoor",
+    "family",
+    "swimming"
+  ],
+  "featured": false
+}

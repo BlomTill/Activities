@@ -1,0 +1,81 @@
+{
+  "id": "131",
+  "slug": "wakeboarding-thunersee",
+  "name": "Wakeboarding Lake Thun",
+  "description": "Cable wakeboarding on Lake Thun with Bernese Alps as your backdrop.",
+  "longDescription": "The cable wakeboard park on Lake Thun offers an accessible way to try wakeboarding without a boat. The full-size cable system pulls riders around a circuit on the lake, with equipment rental and beginner lessons available against a stunning alpine backdrop.",
+  "category": "adventure",
+  "subcategory": "Water Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Thun",
+    "coordinates": {
+      "lat": 46.745,
+      "lng": 7.61
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Wakepark Thunersee",
+      "pricing": {
+        "child": 20,
+        "student": 30,
+        "adult": 38,
+        "senior": 35
+      },
+      "bookingUrl": "https://www.wakepark-thunersee.ch",
+      "rating": 4.5,
+      "description": "2-hour session with equipment"
+    },
+    {
+      "name": "Wakepark Thunersee (Beginner Package)",
+      "pricing": {
+        "child": 30,
+        "student": 42,
+        "adult": 52,
+        "senior": 48
+      },
+      "bookingUrl": "https://www.wakepark-thunersee.ch",
+      "rating": 4.6,
+      "description": "Lesson + 2-hour session"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "System",
+      "value": "Cable tow"
+    },
+    {
+      "label": "Beginner",
+      "value": "Lessons available"
+    },
+    {
+      "label": "Equipment",
+      "value": "All included"
+    },
+    {
+      "label": "Backdrop",
+      "value": "Bernese Alps"
+    },
+    {
+      "label": "Season",
+      "value": "May–September"
+    }
+  ],
+  "tags": [
+    "wakeboarding",
+    "water sports",
+    "lake thun",
+    "summer",
+    "cable"
+  ],
+  "featured": false
+}

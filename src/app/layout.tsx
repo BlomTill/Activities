@@ -1,7 +1,5 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import { Fraunces } from "next/font/google";
-import Script from "next/script";
 import "./globals.css";
 import { AgeGroupProvider } from "@/context/age-group-context";
 import { GroupProvider } from "@/context/group-context";
@@ -13,6 +11,7 @@ import { SITE_NAME, SITE_DESCRIPTION } from "@/lib/constants";
 import { WebsiteJsonLd } from "@/components/json-ld";
 import { ServiceWorkerRegistration } from "@/components/sw-register";
 import { Analytics } from "@vercel/analytics/next";
+import { AnalyticsConsent } from "@/components/analytics-consent";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -26,15 +25,8 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
-const fraunces = Fraunces({
-  subsets: ["latin"],
-  variable: "--font-fraunces",
-  display: "swap",
-  weight: ["300", "400", "500", "600", "700"],
-  style: ["normal", "italic"],
-});
-
 export const metadata: Metadata = {
+  metadataBase: new URL("https://exploreswitzerland.ch"),
   title: {
     default: `${SITE_NAME} – Compare Activities Across Switzerland`,
     template: `%s | ${SITE_NAME}`,
@@ -53,6 +45,21 @@ export const metadata: Metadata = {
     siteName: SITE_NAME,
     title: `${SITE_NAME} – Compare Activities Across Switzerland`,
     description: SITE_DESCRIPTION,
+    url: "https://exploreswitzerland.ch",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "ExploreSwitzerland — Compare Activities Across Switzerland",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `${SITE_NAME} – Compare Activities Across Switzerland`,
+    description: SITE_DESCRIPTION,
+    images: ["/og-image.jpg"],
   },
 };
 
@@ -67,18 +74,12 @@ export default function RootLayout({
         <WebsiteJsonLd />
         <meta name="theme-color" content="#dc2626" />
         <link rel="apple-touch-icon" href="/icons/icon-192.png" />
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" strategy="afterInteractive" />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-XXXXXXXXXX');`}
-        </Script>
       </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} ${fraunces.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col`}>
+      <body className={`${geistSans.variable} ${geistMono.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col`}>
         <AgeGroupProvider>
           <GroupProvider>
             <ComparisonProvider>
+              <AnalyticsConsent gaId={process.env.NEXT_PUBLIC_GA_ID} />
               <Header />
               <AgeBar />
               <main className="flex-1">{children}</main>

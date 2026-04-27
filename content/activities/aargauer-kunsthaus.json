@@ -1,0 +1,72 @@
+{
+  "id": "103",
+  "slug": "aargauer-kunsthaus",
+  "name": "Aargauer Kunsthaus",
+  "description": "Leading Swiss art museum in Aarau with an outstanding collection spanning five centuries.",
+  "longDescription": "The Aargauer Kunsthaus in Aarau houses one of the most important public collections of Swiss art from the 18th century to the present. The striking Herzog & de Meuron extension creates a dialogue between historical and contemporary art across spacious galleries.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Northwestern Switzerland",
+    "canton": "Aargau",
+    "city": "Aarau",
+    "coordinates": {
+      "lat": 47.3925,
+      "lng": 8.0444
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Aargauer Kunsthaus",
+      "pricing": {
+        "child": 0,
+        "student": 10,
+        "adult": 15,
+        "senior": 12
+      },
+      "bookingUrl": "https://www.aargauerkunsthaus.ch",
+      "rating": 4.4,
+      "description": "Full museum access — under 16 free"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-2.5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Collection",
+      "value": "5 centuries of Swiss art"
+    },
+    {
+      "label": "Extension",
+      "value": "Herzog & de Meuron"
+    },
+    {
+      "label": "Under 16",
+      "value": "Free entry"
+    },
+    {
+      "label": "Focus",
+      "value": "Swiss art"
+    },
+    {
+      "label": "Canton",
+      "value": "Aargau"
+    }
+  ],
+  "tags": [
+    "museum",
+    "art",
+    "aarau",
+    "aargau",
+    "swiss art"
+  ],
+  "featured": false
+}

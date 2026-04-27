@@ -1,0 +1,84 @@
+{
+  "id": "142",
+  "slug": "cave-tour-holloch",
+  "name": "Hölloch Cave Tour",
+  "description": "Explore one of the world's longest cave systems — 200+ km of underground passages in Schwyz.",
+  "longDescription": "The Hölloch in Muotathal is one of the longest cave systems in the world with over 200km of explored passages. Guided tours range from beginner-friendly 3-hour walks to multi-day expeditions deep underground through narrow passages, underground rivers, and vast cathedral-like chambers.",
+  "category": "adventure",
+  "subcategory": "Caving",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Schwyz",
+    "city": "Muotathal",
+    "coordinates": {
+      "lat": 46.975,
+      "lng": 8.77
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Trekking Team Hölloch (Beginner)",
+      "pricing": {
+        "child": 75,
+        "student": 95,
+        "adult": 115,
+        "senior": 105
+      },
+      "bookingUrl": "https://www.hoelloch.ch",
+      "rating": 4.6,
+      "description": "3-hour introductory cave tour"
+    },
+    {
+      "name": "Trekking Team Hölloch (Full Day)",
+      "pricing": {
+        "child": 0,
+        "student": 180,
+        "adult": 220,
+        "senior": 200
+      },
+      "bookingUrl": "https://www.hoelloch.ch",
+      "rating": 4.8,
+      "description": "7-hour deep cave expedition"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-7 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1504376379689-8d54347b26c6?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Cave Length",
+      "value": "200+ km"
+    },
+    {
+      "label": "World Rank",
+      "value": "Top 5 longest"
+    },
+    {
+      "label": "Tours",
+      "value": "3h to multi-day"
+    },
+    {
+      "label": "Features",
+      "value": "Rivers + chambers"
+    },
+    {
+      "label": "All Weather",
+      "value": "Year-round"
+    }
+  ],
+  "tags": [
+    "caving",
+    "cave",
+    "underground",
+    "schwyz",
+    "adventure"
+  ],
+  "featured": false
+}

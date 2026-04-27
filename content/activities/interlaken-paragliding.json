@@ -1,0 +1,107 @@
+{
+  "id": "7",
+  "slug": "interlaken-paragliding",
+  "name": "Paragliding over Interlaken",
+  "description": "Tandem paragliding flight over the stunning Interlaken valley between two alpine lakes.",
+  "longDescription": "Experience the thrill of tandem paragliding over one of Switzerland's most beautiful valleys. Launch from Beatenberg or Amisbühl and soar above Interlaken with views of Lake Thun, Lake Brienz, and the Jungfrau massif. No experience needed — professional pilots handle everything. Flights last 15-20 minutes with optional acrobatic maneuvers.",
+  "category": "adventure",
+  "subcategory": "Air Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Interlaken",
+    "coordinates": {
+      "lat": 46.6863,
+      "lng": 7.8632
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Paragliding Interlaken",
+      "pricing": {
+        "child": 150,
+        "student": 160,
+        "adult": 180,
+        "senior": 180
+      },
+      "bookingUrl": "https://www.paragliding-interlaken.ch",
+      "rating": 4.9,
+      "description": "Most experienced operator — 20+ years, GoPro video included"
+    },
+    {
+      "name": "AlpinAir Paragliding",
+      "pricing": {
+        "child": 140,
+        "student": 155,
+        "adult": 170,
+        "senior": 170
+      },
+      "bookingUrl": "https://www.alpinair.ch",
+      "rating": 4.8,
+      "description": "Smaller groups, flexible schedule, free photos"
+    },
+    {
+      "name": "Skywings Paragliding",
+      "pricing": {
+        "child": 145,
+        "student": 158,
+        "adult": 175,
+        "senior": 175
+      },
+      "bookingUrl": "https://www.skywings.ch",
+      "rating": 4.7,
+      "description": "Acrobatic flights available, sunset flights in summer"
+    },
+    {
+      "name": "Twin Paragliding",
+      "pricing": {
+        "child": 135,
+        "student": 150,
+        "adult": 165,
+        "senior": 165
+      },
+      "bookingUrl": "https://www.twin-paragliding.ch",
+      "rating": 4.8,
+      "description": "Budget-friendly option with great reviews"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Flight Time",
+      "value": "15-20 min"
+    },
+    {
+      "label": "Launch Alt.",
+      "value": "1,500m"
+    },
+    {
+      "label": "Experience",
+      "value": "Not needed"
+    },
+    {
+      "label": "Min Age",
+      "value": "5 years"
+    },
+    {
+      "label": "Providers",
+      "value": "4 operators"
+    }
+  ],
+  "tags": [
+    "paragliding",
+    "adventure",
+    "flying",
+    "interlaken",
+    "adrenaline"
+  ],
+  "featured": true
+}

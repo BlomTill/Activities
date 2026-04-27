@@ -5,7 +5,7 @@ import { Tag, Percent } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { ActivityCard } from "@/components/activity-card";
-import { activities, getActivitiesWithDeals } from "@/data/activities";
+import { activities, getActivitiesWithDeals } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
 import { getBestPrice } from "@/lib/types";

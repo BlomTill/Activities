@@ -1,0 +1,70 @@
+{
+  "id": "93",
+  "slug": "aletsch-panorama-trail",
+  "name": "Aletsch Panorama Trail",
+  "description": "Walk along Europe's longest glacier with breathtaking views from the UNESCO World Heritage site.",
+  "longDescription": "The Aletsch Panoramaweg follows the rim above the Great Aletsch Glacier — at 23km the longest glacier in the Alps. Starting from the Eggishorn or Bettmerhorn viewpoints, the trail offers jaw-dropping views of the ice river flanked by 4,000m peaks.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Riederalp",
+    "coordinates": {
+      "lat": 46.3833,
+      "lng": 8.0333
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Aletsch Bahnen (Cable Car)",
+      "pricing": {
+        "child": 18,
+        "student": 28,
+        "adult": 36,
+        "senior": 32
+      },
+      "bookingUrl": "https://www.aletscharena.ch",
+      "rating": 4.8,
+      "description": "Cable car to viewpoint — trail free"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Glacier",
+      "value": "23 km longest in Alps"
+    },
+    {
+      "label": "UNESCO",
+      "value": "World Heritage"
+    },
+    {
+      "label": "Trail",
+      "value": "~10 km"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Moderate"
+    },
+    {
+      "label": "Views",
+      "value": "4,000m peaks"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "glacier",
+    "aletsch",
+    "UNESCO",
+    "panorama"
+  ],
+  "featured": false
+}

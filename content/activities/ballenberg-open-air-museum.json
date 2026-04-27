@@ -1,0 +1,70 @@
+{
+  "id": "62",
+  "slug": "ballenberg-open-air-museum",
+  "name": "Ballenberg Open-Air Museum",
+  "description": "Over 100 historic Swiss buildings from every canton in a vast outdoor museum.",
+  "longDescription": "Ballenberg showcases over 100 original historic buildings from across Switzerland — farmhouses, workshops, barns — relocated and reconstructed in a beautiful natural setting. Traditional crafts are demonstrated live.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Brienz",
+    "coordinates": {
+      "lat": 46.76,
+      "lng": 8.08
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Ballenberg Museum",
+      "pricing": {
+        "child": 12,
+        "student": 20,
+        "adult": 32,
+        "senior": 28
+      },
+      "bookingUrl": "https://www.ballenberg.ch",
+      "rating": 4.5
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Historic Buildings",
+      "value": "100+"
+    },
+    {
+      "label": "Cantons",
+      "value": "All represented"
+    },
+    {
+      "label": "Live Crafts",
+      "value": "Demonstrations"
+    },
+    {
+      "label": "Area",
+      "value": "66 hectares"
+    },
+    {
+      "label": "Founded",
+      "value": "1978"
+    }
+  ],
+  "tags": [
+    "museum",
+    "outdoor",
+    "history",
+    "traditional",
+    "crafts"
+  ],
+  "featured": false
+}

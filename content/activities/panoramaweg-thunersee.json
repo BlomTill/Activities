@@ -1,0 +1,70 @@
+{
+  "id": "89",
+  "slug": "panoramaweg-thunersee",
+  "name": "Panoramaweg Thunersee",
+  "description": "Elevated panoramic trail above Lake Thun with sweeping views of the Bernese Alps.",
+  "longDescription": "The Panoramaweg from Niederhorn to Interlaken follows the ridge high above Lake Thun with continuous 180-degree views of Eiger, Mönch, Jungfrau, and the deep-blue lake. A moderately challenging full-day hike with cable car access.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Thun",
+    "coordinates": {
+      "lat": 46.758,
+      "lng": 7.628
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Niederhorn Cable Car",
+      "pricing": {
+        "child": 16,
+        "student": 26,
+        "adult": 34,
+        "senior": 30
+      },
+      "bookingUrl": "https://www.niederhorn.ch",
+      "rating": 4.6,
+      "description": "One-way cable car to trailhead"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "5-7 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1445363692815-ebcd1dafd1e3?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Trail",
+      "value": "~15 km"
+    },
+    {
+      "label": "Panorama",
+      "value": "180° Alps + lake"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Moderate"
+    },
+    {
+      "label": "Peaks Visible",
+      "value": "Eiger, Mönch, Jungfrau"
+    },
+    {
+      "label": "Cable Car",
+      "value": "Niederhorn access"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "panorama",
+    "lake thun",
+    "bernese alps",
+    "ridge walk"
+  ],
+  "featured": false
+}

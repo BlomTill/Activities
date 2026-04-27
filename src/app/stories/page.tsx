@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Calendar, ArrowRight, Feather } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-import { blogPosts } from "@/data/blog-posts";
+import { blogPosts } from "@/lib/content/selectors";
 import { SITE_NAME } from "@/lib/constants";
 
 export const metadata: Metadata = {

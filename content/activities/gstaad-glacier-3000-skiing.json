@@ -1,0 +1,80 @@
+{
+  "id": "84",
+  "slug": "gstaad-glacier-3000-skiing",
+  "name": "Gstaad & Glacier 3000 Skiing",
+  "description": "Chic alpine resort with 250km of slopes including the spectacular Glacier 3000 area.",
+  "longDescription": "Gstaad's Destination ski region spans 250km of slopes across interconnected areas. Glacier 3000 at 3,000m offers guaranteed snow and the Peak Walk suspension bridge connecting two summits. Gstaad village is a byword for Swiss luxury.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Gstaad",
+    "coordinates": {
+      "lat": 46.4748,
+      "lng": 7.2858
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Destination Gstaad (Regional Pass)",
+      "pricing": {
+        "child": 38,
+        "student": 58,
+        "adult": 74,
+        "senior": 63
+      },
+      "bookingUrl": "https://www.gstaad.ch",
+      "rating": 4.6
+    },
+    {
+      "name": "Glacier 3000",
+      "pricing": {
+        "child": 42,
+        "student": 62,
+        "adult": 79,
+        "senior": 67
+      },
+      "bookingUrl": "https://www.glacier3000.ch",
+      "rating": 4.7,
+      "description": "Glacier day pass including Peak Walk"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1485470733090-0aae1788d668?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slopes",
+      "value": "250 km"
+    },
+    {
+      "label": "Glacier",
+      "value": "3,000m summit"
+    },
+    {
+      "label": "Peak Walk",
+      "value": "Suspension bridge"
+    },
+    {
+      "label": "Luxury",
+      "value": "Gstaad village"
+    },
+    {
+      "label": "Areas",
+      "value": "Multiple connected"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "glacier",
+    "gstaad",
+    "luxury",
+    "winter"
+  ],
+  "featured": false
+}

@@ -1,0 +1,83 @@
+{
+  "id": "31",
+  "slug": "rigi-queen-of-mountains",
+  "name": "Rigi – Queen of the Mountains",
+  "description": "360° panoramic mountain with Europe's first mountain railway and sunrise experience.",
+  "longDescription": "Mount Rigi offers a 360-degree panorama of the Alps, Lake Lucerne, and Lake Zug. Reach the summit via Europe's first mountain railway (since 1871). The sunrise from Rigi Kulm is legendary.",
+  "category": "outdoor",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Lucerne",
+    "city": "Vitznau",
+    "coordinates": {
+      "lat": 47.0567,
+      "lng": 8.485
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Rigi Bahnen",
+      "pricing": {
+        "child": 24,
+        "student": 42,
+        "adult": 56,
+        "senior": 50
+      },
+      "bookingUrl": "https://www.rigi.ch",
+      "rating": 4.6
+    },
+    {
+      "name": "Rigi Sunrise Package",
+      "pricing": {
+        "child": 45,
+        "student": 75,
+        "adult": 95,
+        "senior": 85
+      },
+      "bookingUrl": "https://www.rigi.ch",
+      "rating": 4.9,
+      "description": "Overnight at summit hotel + sunrise breakfast"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Summit",
+      "value": "1,798m"
+    },
+    {
+      "label": "First Railway",
+      "value": "1871"
+    },
+    {
+      "label": "Panorama",
+      "value": "360°"
+    },
+    {
+      "label": "Sunrise",
+      "value": "Legendary"
+    },
+    {
+      "label": "Lakes Visible",
+      "value": "Lucerne + Zug"
+    }
+  ],
+  "tags": [
+    "mountain",
+    "railway",
+    "panorama",
+    "hiking",
+    "sunrise"
+  ],
+  "featured": false
+}

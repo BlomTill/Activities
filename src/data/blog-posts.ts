@@ -6,7 +6,7 @@ export const blogPosts: BlogPost[] = [
     title: "10 Cheapest Things to Do in Zurich as a Student",
     excerpt: "Zurich doesn't have to break the bank. Here are the best budget-friendly activities for students in Switzerland's largest city.",
     date: "2026-03-15",
-    author: "SwissActivity Team",
+    author: "Sarah Mitchell",
     tags: ["zurich", "student", "budget", "tips"],
     content: `Zurich is often cited as one of the world's most expensive cities, but with a student ID and some local knowledge, you can explore it without emptying your wallet.
 
@@ -47,7 +47,7 @@ The Masoala Rainforest hall alone is worth the visit. Plan a full afternoon.
     title: "Best Winter Activities in Switzerland for Families",
     excerpt: "From tobogganing to Christmas markets, discover the best family-friendly winter experiences across Switzerland.",
     date: "2026-02-20",
-    author: "SwissActivity Team",
+    author: "Emma Clarke",
     tags: ["winter", "family", "skiing", "christmas"],
     content: `Switzerland transforms into a winter wonderland from December to February. Here are the best family activities that go beyond just skiing.
 
@@ -76,7 +76,7 @@ Warm up in natural hot springs with the whole family. Kids love the outdoor pool
     title: "25 Completely Free Activities in Switzerland",
     excerpt: "Who says Switzerland has to be expensive? These incredible experiences won't cost you a single franc.",
     date: "2026-03-01",
-    author: "SwissActivity Team",
+    author: "Jonas Weber",
     tags: ["free", "budget", "hiking", "tips"],
     content: `Switzerland is famously expensive, but many of its best experiences are completely free. From alpine hikes to medieval towns, here's proof that the best things in life cost nothing.
 
@@ -115,7 +115,7 @@ Warm up in natural hot springs with the whole family. Kids love the outdoor pool
     title: "Best Rainy Day Activities Across Switzerland",
     excerpt: "Don't let the weather ruin your plans. These indoor activities are perfect when the rain hits.",
     date: "2026-03-25",
-    author: "SwissActivity Team",
+    author: "Emma Clarke",
     tags: ["indoor", "rainy day", "museums", "tips"],
     content: `Rain in the Alps? No problem. Switzerland has world-class indoor activities that make rainy days something to look forward to.
 
@@ -148,7 +148,7 @@ Warm up in natural hot springs with the whole family. Kids love the outdoor pool
     title: "Senior-Friendly Activities in the Swiss Alps",
     excerpt: "Gentle hikes, scenic railways, and relaxing experiences perfect for active seniors exploring Switzerland.",
     date: "2026-01-10",
-    author: "SwissActivity Team",
+    author: "Lena Brunner",
     tags: ["senior", "alps", "accessible", "scenic"],
     content: `Switzerland's mountains aren't just for extreme adventurers. Many of the best alpine experiences are perfectly suited for active seniors.
 
@@ -180,7 +180,7 @@ Use our age group selector to see senior pricing across all activities. Many off
     title: "10 Cheapest Ski Resorts in Switzerland for 2026",
     excerpt: "Skiing in Switzerland doesn't have to cost a fortune. These 10 resorts offer the best value for money in the 2025/2026 season.",
     date: "2026-01-25",
-    author: "SwissActivity Team",
+    author: "Tom Lindqvist",
     tags: ["skiing", "budget", "winter", "family"],
     content: `Switzerland is home to world-class skiing, but lift pass prices can be eye-watering. The good news? Not every resort charges Zermatt prices. Here are the **10 cheapest ski resorts** in Switzerland for the 2025/2026 season, ranked by adult day pass price.
 
@@ -229,7 +229,7 @@ High above the Rhône Valley with views of the Aletsch Glacier. 30km of scenic s
     title: "Switzerland vs Austria Skiing: Full Price Comparison 2026",
     excerpt: "Is skiing in Austria really cheaper than Switzerland? We compare lift passes, accommodation, food, and equipment rental costs side by side.",
     date: "2026-01-18",
-    author: "SwissActivity Team",
+    author: "Tom Lindqvist",
     tags: ["skiing", "budget", "comparison", "austria"],
     content: `The age-old Alpine debate: should you ski in Switzerland or Austria? While Austria has a reputation for being cheaper, the gap isn't always as wide as you'd think. Here's a **detailed price comparison** for the 2025/2026 season.
 
@@ -300,7 +300,7 @@ Austria is **undeniably cheaper** for a ski holiday, especially on food and acco
     title: "12 Best Thermal Baths in Switzerland, Ranked",
     excerpt: "From ancient Roman springs to avant-garde architecture, these are Switzerland's finest thermal bath experiences ranked by quality and value.",
     date: "2026-02-10",
-    author: "SwissActivity Team",
+    author: "Lena Brunner",
     tags: ["thermal baths", "wellness", "relaxation", "winter"],
     content: `Switzerland sits on a wealth of natural hot springs, and the Swiss have been perfecting the thermal bath experience for centuries. Here are the **12 best thermal baths**, ranked by overall experience.
 
@@ -355,7 +355,7 @@ A stylish new complex built above Baden's historic hot springs. The thermal wate
     title: "20 Free Things to Do in Zurich with Kids",
     excerpt: "Zurich with kids doesn't have to be expensive. Here are 20 genuinely free activities the whole family will love.",
     date: "2026-03-10",
-    author: "SwissActivity Team",
+    author: "Emma Clarke",
     tags: ["zurich", "family", "free", "kids"],
     content: `Zurich is famously pricey, but families can have an incredible time without spending a franc. Here are **20 genuinely free activities** for kids of all ages.
 
@@ -420,7 +420,7 @@ A stylish new complex built above Baden's historic hot springs. The thermal wate
     title: "Swiss Train Passes Explained: Which One Saves You the Most?",
     excerpt: "GA, Half-Fare Card, Swiss Travel Pass — Switzerland's train pass options are confusing. This guide breaks down exactly which one saves you the most money.",
     date: "2026-02-28",
-    author: "SwissActivity Team",
+    author: "Sarah Mitchell",
     tags: ["transport", "trains", "budget", "travel tips"],
     content: `Switzerland has one of the best public transport systems in the world, but it's also one of the most expensive. Choosing the right pass can save you **hundreds or even thousands of francs**. Here's a clear breakdown of every option.
 
@@ -488,7 +488,7 @@ Several regions offer their own passes — the **Tell-Pass** (Central Switzerlan
     title: "15 Best Day Trips from Zurich (By Train)",
     excerpt: "From alpine peaks to medieval towns, these are the 15 best day trips you can take from Zurich by train — no car needed.",
     date: "2026-03-20",
-    author: "SwissActivity Team",
+    author: "Sarah Mitchell",
     tags: ["zurich", "day trips", "trains", "sightseeing"],
     content: `Zurich is perfectly positioned as a base for exploring Switzerland by train. Every destination on this list is reachable in under 3 hours, and most in under 90 minutes. Here are the **15 best day trips**, organized by travel time.
 
@@ -557,7 +557,7 @@ The revolving cable car to 3,238m offers glacier views and a cliff walk suspensi
     title: "How to Visit Switzerland on a Budget: Complete 2026 Guide",
     excerpt: "Switzerland is expensive, but it doesn't have to bankrupt you. This complete guide shows you how to explore Switzerland for less in 2026.",
     date: "2026-02-15",
-    author: "SwissActivity Team",
+    author: "Sarah Mitchell",
     tags: ["budget", "travel tips", "accommodation", "food"],
     content: `Let's be honest: Switzerland is one of the most expensive countries to visit. But with the right strategies, you can experience everything that makes Switzerland special without the financial pain. Here's a **complete budget guide for 2026**.
 
@@ -634,7 +634,7 @@ That's roughly **CHF 166/day** — ambitious but achievable with discipline.
     title: "10 Best Easy Hikes in Switzerland for Beginners",
     excerpt: "You don't need to be an alpinist to enjoy Swiss hiking. These 10 easy trails offer stunning scenery with minimal effort.",
     date: "2026-03-05",
-    author: "SwissActivity Team",
+    author: "Jonas Weber",
     tags: ["hiking", "beginners", "nature", "family"],
     content: `Switzerland's 65,000km trail network includes thousands of easy, well-marked paths perfect for beginners. You don't need special equipment — just comfortable shoes and a sense of wonder. Here are the **10 best easy hikes** in Switzerland.
 
@@ -733,7 +733,7 @@ Near Meiringen, this short walk through a narrow limestone gorge is easy, safe, 
     title: "Every Chocolate Factory Tour in Switzerland (Complete Guide)",
     excerpt: "From Lindt to Cailler to Läderach, here's every chocolate factory tour in Switzerland with prices, what's included, and how to visit.",
     date: "2026-02-05",
-    author: "SwissActivity Team",
+    author: "Lena Brunner",
     tags: ["chocolate", "food", "family", "tours"],
     content: `Switzerland and chocolate are inseparable. The country that gave us milk chocolate, Toblerone, and Lindt now offers a range of factory tours where you can see how it's made — and eat as much as you want. Here's **every major chocolate tour** you can visit.
 
@@ -813,7 +813,7 @@ A modest but charming museum attached to an active chocolate factory in the Ital
     title: "Best Summer Activities in Switzerland for Families 2026",
     excerpt: "From lake adventures to mountain coasters, here are the best family-friendly summer activities across Switzerland for 2026.",
     date: "2026-04-01",
-    author: "SwissActivity Team",
+    author: "Emma Clarke",
     tags: ["summer", "family", "outdoor", "kids"],
     content: `Swiss summers are glorious — long days, warm lakes, and mountains carpeted in wildflowers. Here are the **best family activities** for summer 2026, organized by type.
 
@@ -881,7 +881,7 @@ Jungfraujoch tickets (CHF 200) + mountain restaurant (CHF 80) + souvenirs (CHF 5
     title: "15 Most Beautiful Lakes in Switzerland You Must Visit",
     excerpt: "From famous tourist lakes to hidden alpine gems, these are the 15 most stunning lakes in Switzerland — with swimming, boat trips, and free access info.",
     date: "2026-03-28",
-    author: "SwissActivity Team",
+    author: "Jonas Weber",
     tags: ["lakes", "nature", "swimming", "sightseeing"],
     content: `Switzerland has over 1,500 lakes, ranging from vast valley lakes to tiny hidden alpine tarns. Here are the **15 most beautiful**, from world-famous to little-known gems.
 
@@ -938,7 +938,7 @@ Jungfraujoch tickets (CHF 200) + mountain restaurant (CHF 80) + souvenirs (CHF 5
     title: "Complete Guide to Swiss Christmas Markets 2026",
     excerpt: "From Basel's famous Barfüsserplatz to Montreux's lakeside wonderland, here's your complete guide to Swiss Christmas markets in 2026.",
     date: "2026-04-05",
-    author: "SwissActivity Team",
+    author: "Lena Brunner",
     tags: ["christmas", "winter", "markets", "family"],
     content: `Swiss Christmas markets combine festive tradition, artisan craftsmanship, and stunning backdrops in a way few countries can match. Here's your **complete guide** for the 2026 season.
 
@@ -1021,7 +1021,7 @@ A charming smaller market in the town with Switzerland's most beautiful painted 
     title: "Adventure Sports in Interlaken: All Activities & Prices Compared",
     excerpt: "Paragliding, canyoning, skydiving, bungee jumping — Interlaken has it all. Here's every adventure activity with prices and provider comparisons.",
     date: "2026-03-18",
-    author: "SwissActivity Team",
+    author: "Jonas Weber",
     tags: ["adventure", "interlaken", "extreme sports", "outdoor"],
     content: `Interlaken is the undisputed **adventure capital of Switzerland**, wedged between Lake Thun and Lake Brienz beneath the Jungfrau massif. If it gets your adrenaline pumping, you can probably do it here. Here's a **complete price comparison** of every major activity.
 
@@ -1114,7 +1114,7 @@ A more old-school alternative to paragliding. You fly prone (face down) in a rig
     title: "Geneva to Lausanne: Perfect Weekend Itinerary",
     excerpt: "A complete 2-day itinerary covering Geneva and Lausanne — transport, costs, must-see sights, and insider tips for a perfect weekend.",
     date: "2026-03-12",
-    author: "SwissActivity Team",
+    author: "Lena Brunner",
     tags: ["geneva", "lausanne", "weekend", "itinerary"],
     content: `Geneva and Lausanne sit just 40 minutes apart on the shores of Lake Geneva, making them perfect for a combined weekend trip. Here's a **detailed 2-day itinerary** covering both cities.
 
@@ -1200,7 +1200,7 @@ Head back to Geneva by train (last trains run past midnight) or stay overnight i
     title: "5 Most Scenic Train Rides in Switzerland (With Prices)",
     excerpt: "The Glacier Express, Bernina Express, and more — here are Switzerland's 5 most spectacular train journeys with routes, prices, and booking tips.",
     date: "2026-02-22",
-    author: "SwissActivity Team",
+    author: "Tom Lindqvist",
     tags: ["trains", "scenic", "travel", "mountains"],
     content: `Switzerland's scenic trains aren't just transportation — they're destinations in themselves. Gliding through alpine passes, over ancient viaducts, and along glacier-carved valleys, these routes showcase the best of Swiss engineering and natural beauty. Here are the **5 most spectacular journeys**.
 
@@ -1296,6 +1296,462 @@ The "Valley of 100 Valleys" route crosses **83 bridges** and passes through **34
 - **Bring snacks** — Onboard dining exists but is expensive (CHF 15-40 for meals)
 
 **Pro tip:** You can ride the entire Bernina Express route on regular regional trains with a Swiss Travel Pass at no extra cost (no reservation needed). You lose the panoramic windows but gain the freedom to hop on and off at tiny villages like Alp Grüm, where a terrace restaurant serves lunch with a view of the Palü Glacier that will make your jaw drop.`,
+  },
+  {
+    slug: "lucerne-48-hours-complete-guide",
+    title: "Lucerne in 48 Hours: The Complete Guide",
+    excerpt: "Two days in Lucerne, done properly. Where to go, what to skip, where to eat, and how much it actually costs.",
+    date: "2026-04-10",
+    author: "Sarah Mitchell",
+    tags: ["lucerne", "city guide", "weekend", "itinerary"],
+    content: `Lucerne is one of those cities that looks almost too good to be real. Turquoise lake, snow-capped peaks, a covered medieval bridge, and a compact old town you can walk in an afternoon. Here's how to make the most of 48 hours — without the tourist traps.
+
+## Arriving in Lucerne
+
+Lucerne's main train station sits directly on the lake and connects to Zurich in 45 minutes (CHF 25, or CHF 12 with a Half-Fare Card). Trains run twice an hour. From Zurich Airport, it's a direct 1h15min connection. The moment you step out of the station and see the water, the mountains, and the old town all at once — that's the Lucerne moment.
+
+**Where to stay:** The old town hotels are atmospheric but expensive (CHF 180-280/night). The Backpackers Lucerne hostel on the south bank is excellent (from CHF 42/dorm). For a mid-range option, Hotel Alpha near the station offers clean rooms from CHF 130.
+
+## Day 1: The Classic Lucerne
+
+### Morning: Chapel Bridge and Old Town (Free)
+
+Start on the **Kapellbrücke** — the 14th-century covered wooden bridge that's become the symbol of Switzerland. Walk its length twice: once to see the triangle paintings in the gables (depicting scenes from Swiss history), once to notice how the light changes on the water at different times of day. Early morning is best, before the tour groups arrive.
+
+The **Wasserturm** (Water Tower) attached to the bridge dates from 1300 and once served as a prison, treasury, and archive. Entry is free from the outside; the tower itself is privately owned.
+
+Cross into the **old town** (Altstadt) and explore the frescoed facades on Hirschenplatz and Weinmarkt. These brightly painted buildings date from the 16th and 17th centuries and are remarkably well-preserved. The town has no must-pay entry fee — the whole old town is the attraction.
+
+### Late Morning: Lion Monument (Free)
+
+The **Löwendenkmal** — the dying lion carved into a sandstone cliff — is Mark Twain's "most mournful and moving piece of rock in the world." He was right. The carving, created in 1820 to commemorate Swiss Guards who died defending King Louis XVI, is unexpectedly powerful for such a small sculpture. Free to visit, 10-minute walk from Chapel Bridge.
+
+**Practical note:** The immediate area around the lion is perpetually crowded with tour groups. Arrive before 09:00 or after 17:00 for a more contemplative experience.
+
+### Afternoon: Museum of Transport or the Lake
+
+**Swiss Museum of Transport (Verkehrshaus)** — CHF 36 adults, CHF 15 children, free with Swiss Museum Pass. Genuinely one of Switzerland's best museums. Plan 3-4 hours. The IMAX theatre and Chocolate Adventure are worth the extra cost if you have kids.
+
+**Alternative:** Skip the museum and take a 2-hour paddle steamer cruise on the lake (CHF 30-48). The boat passes the Rütli meadow — where the Swiss Confederation was founded in 1291 — and the Tell Chapel associated with William Tell. Free with Swiss Travel Pass.
+
+### Evening: KKL and Dinner
+
+The **KKL Luzern** (Culture and Congress Centre), designed by Jean Nouvel, is one of Europe's finest concert halls. Even if you're not attending a performance, the terrace café is a beautiful place for a drink watching the lake at dusk. A glass of wine runs CHF 8-12.
+
+**Dinner:** The Rathaus Brewery in the old town serves solid Swiss food and their own beer in a historic building (mains CHF 22-32). For something lighter and cheaper, the Bäckerei Bachmann chain has excellent sandwiches and pastries for CHF 6-10.
+
+## Day 2: The Mountain — Mount Pilatus or Rigi
+
+Day 2 belongs to the mountains. Lucerne's greatest advantage is that two of Switzerland's most accessible mountain experiences are right on its doorstep.
+
+### Option A: Mount Pilatus Golden Round Trip (CHF 78 adults, CHF 62 with Half-Fare)
+
+The most complete mountain experience near Lucerne. The "Golden Round Trip" combines:
+1. **Boat** across Lake Lucerne from Lucerne to Alpnachstad (1.5 hours)
+2. **Cogwheel train** — the world's steepest — from Alpnachstad to Pilatus Kulm summit (2,132m)
+3. **Panoramic gondola** and aerial cable car back down to Kriens
+4. **Bus** back to Lucerne
+
+The entire circuit takes 5-7 hours. The cogwheel train climbs gradients up to 48% through dramatic scenery. At the summit: a revolving restaurant, a hotel, hiking trails, and on clear days, views over 73 Alpine peaks.
+
+**Important:** The cogwheel train only operates April to November. In winter, use the cable car up and gondola down (or reverse), and take the boat separately.
+
+### Option B: Mount Rigi (CHF 56 adults, CHF 42 with Half-Fare)
+
+Quieter and more traditional than Pilatus. Take the boat to Vitznau and the cogwheel railway (Europe's first mountain railway, 1871) to Rigi Kulm (1,798m). The views stretch over 13 lakes. Walk the panoramic ridge trail to Rigi Kaltbad (1.5 hours, mostly flat) before descending by aerial cable car to Weggis and back by boat. Gentler and better for those who prefer walking to rides.
+
+## Budget Summary: 2 Days in Lucerne (per person)
+
+| Expense | Cost |
+|---|---|
+| Train from Zurich return | CHF 25 (CHF 50 without Half-Fare) |
+| Hostel (2 nights) | CHF 84 |
+| Museum of Transport | CHF 36 |
+| Mount Pilatus Golden Round Trip | CHF 78 |
+| Meals (2 days, mix of cooking/eating out) | CHF 70 |
+| **Total** | **CHF 293** |
+
+With a Swiss Travel Pass, the lake cruise and Pilatus gondola/cable car are partially or fully covered — the pass pays for itself quickly if Lucerne is part of a wider Swiss trip.
+
+## What to Skip
+
+- **Glacier Garden** — The geological formations are interesting but CHF 14 is steep for 30 minutes
+- **Richard Wagner Museum** — Fascinating only if you're genuinely into Wagner
+- **Souvenir shops on Kapellbrücke** — Marked up 30-50% over equivalent shops 3 streets away
+
+## Local Tips
+
+- The **Badi am See** public beach (Ufschötti) is free and far less crowded than the tourist waterfront
+- **Migros** in the main station has the best-priced supermarket food for picnics
+- The viewpoint from **Güetsch hill** (15 minutes walk from the old town) gives a completely different perspective on the city and lake — and you'll probably have it to yourself
+- If visiting in summer, the lake is warm enough to swim by July (around 20°C)
+
+**Pro tip:** Check if any free concerts are on at the KKL. The Lucerne Festival (late August/early September) brings world-class orchestras to the city, and open rehearsals are sometimes free or very cheap. It's worth checking the website even off-season.`,
+  },
+  {
+    slug: "switzerland-in-october-what-to-do",
+    title: "Switzerland in October: The Underrated Month No One Tells You About",
+    excerpt: "October might be the best month to visit Switzerland. Smaller crowds, golden light, lower prices, and the Alps in full autumn colour.",
+    date: "2026-04-08",
+    author: "Jonas Weber",
+    tags: ["autumn", "october", "hiking", "travel tips"],
+    content: `Everyone talks about Switzerland in summer (peak crowds) or winter (skiing). September gets some attention. But October? Most visitors have gone home, the autumn colours are extraordinary, the mountains are still accessible, and prices drop noticeably. Here's why October deserves a closer look.
+
+## What October Actually Looks Like
+
+By early October, the tourist rush of summer is over. The lake cruises are quieter, the gondolas have space, and the hiking trails belong almost entirely to locals. Temperatures in the valleys sit around 10-15°C — cool but comfortable for walking. Above 2,000m, light snow is possible from mid-October onwards, which means snow-dusted peaks against golden larch forests: some of the most photogenic conditions of the year.
+
+**The larch trees** are the real story. Switzerland's mountain forests are dotted with European larches — the only deciduous conifer in the Alps — and in October they turn a brilliant golden yellow before dropping their needles. The Engadin valley, Valais, and the Bernese Alps are particularly stunning.
+
+## Best Activities in October
+
+### Hiking — Best Conditions of the Year
+
+October hiking combines stable weather, fewer crowds, and spectacular colour. Most alpine trails remain open until mid-October; above 2,500m, conditions become unpredictable after the first week.
+
+**Top October hikes:**
+- **Larch forest trails in Val Roseg (Graubünden)** — Drive or cycle from Pontresina into the valley for a flat walk through golden larches with the Roseg Glacier ahead. One of Switzerland's most beautiful October scenes. Free.
+- **Five Lakes Walk, Zermatt** — Still excellent in early October. The larch-ringed lakes with Matterhorn reflections in dead-calm autumn conditions are extraordinary. CHF 26 for the Sunnegga funicular.
+- **Rigi Kaltbad to Rigi Kulm** — A gentle ridge walk with panoramic views and virtually no crowds. The first frosts make the air crystal-clear. CHF 56 round trip.
+- **Lauterbrunnen to Stechelberg** — The valley walk among 72 waterfalls is completely free and genuinely beautiful in October light.
+
+### Mountain Railways — Still Running
+
+Most mountain railways and cable cars operate through October (some close in early November). Key dates to check:
+- **Jungfraujoch** — Open year-round, but check weather before going
+- **Matterhorn Glacier Paradise** — Open year-round
+- **Mount Pilatus cogwheel** — Usually closes in late October
+- **Schilthorn** — Open year-round
+- **Bernina Express** — Runs year-round; autumn colours on the Bernina Pass are exceptional
+
+### Lake Activities — Quieter and Cheaper
+
+Boat cruises on Lake Geneva, Lake Lucerne, and Lake Thun continue through October. Prices are sometimes discounted. The autumn light makes lake photography dramatically better than in the bright summer months — the lower angle creates softer tones and longer shadows.
+
+### Cities — At Their Calmest
+
+Zurich, Lucerne, and Bern are visibly quieter in October. Museum queues shrink, restaurant wait times drop, and you can actually take photos of the Chapel Bridge without an army of selfie sticks. Hotel prices in Lucerne and Zurich typically drop 20-30% vs. July-August.
+
+## October Events Worth Planning Around
+
+- **Zurich Film Festival (late September/early October)** — International films, screenings across the city, many free or CHF 15-20 per film
+- **Bern Onion Market (Zibelemärit)** — Fourth Monday of November in Bern — wait, that's November. In October, Bern hosts the **Turnip Market (Rüeblimärit)** in Aarau, which is a charming local tradition
+- **Wine harvests** — October is harvest season in Lavaux, Valais, and Ticino. Many vineyards open for tastings and some offer harvest participation. Contact individual domaines — this is the real Switzerland
+- **Almabtrieb (cattle drives)** — In early October, cows come down from the alpine meadows in decorated processions. Villages like Appenzell, Urnäsch, and Brienz celebrate with local festivals. Free to watch, genuinely moving
+
+## Practical Notes for October
+
+**What to pack:** Layering is essential. A warm fleece, waterproof jacket, and proper walking shoes are necessary above 1,500m. Valley towns are mild (you'll be fine in jeans), but conditions change fast in the mountains.
+
+**What to book in advance:** Nothing specific, unlike summer. October is the sweet spot where almost everything is available without advance booking. The only exception: the **Glacier Express** and **Bernina Express** if you want specific seating.
+
+**What closes in October:** Some outdoor attractions (certain rope parks, summer-only restaurants on mountain terraces) close in early October. Always check before making a special trip.
+
+**Price comparison vs. July:**
+- Hotels in Zurich: 25-30% cheaper
+- Hotels in Lucerne: 20-25% cheaper
+- Mountain railways: Same price, but often with "autumn" promotional discounts
+- Restaurants: Same price but faster service
+
+## The October Itinerary
+
+**5 days, based in Lucerne:**
+- Day 1: Arrive, old town exploration, Chapel Bridge at dusk
+- Day 2: Mount Pilatus Golden Round Trip (before the cogwheel closes)
+- Day 3: Train to Grindelwald, Grindelwald First for autumn hiking, back via Interlaken
+- Day 4: Train to Zermatt, Five Lakes Walk (overnight in Zermatt)
+- Day 5: Matterhorn Glacier Paradise, train back to Lucerne
+
+Total accommodation (hostel/budget hotel): ~CHF 250
+Total transport (with Half-Fare Card): ~CHF 160
+Mountain activities: ~CHF 220
+**5-day total budget: ~CHF 800-950** — significantly cheaper than the same trip in July.
+
+**The bottom line:** October is when Switzerland rewards the traveller who's done a little research. The photogenic overcrowding of summer is gone. What remains is the scenery, the food, the culture — and a stillness in the mountains that genuinely restores something.`,
+  },
+  {
+    slug: "swiss-fondue-guide-where-eat-what-order",
+    title: "A Genuine Guide to Swiss Fondue: Where to Eat It and What to Order",
+    excerpt: "Not all fondue is created equal. Here's how to find the real thing, what the menu terms mean, and which regions do it best.",
+    date: "2026-04-15",
+    author: "Lena Brunner",
+    tags: ["fondue", "food", "culture", "restaurants"],
+    content: `Growing up in Fribourg, I ate fondue the way most people eat pasta — casually, often, without ceremony. The version you'll find at tourist restaurants in Lucerne or Zurich often bears only passing resemblance to what Swiss people actually make at home or eat at a good restaurant. Here's how to find the real thing.
+
+## The Basics: What Fondue Actually Is
+
+Swiss fondue (from the French *fondre* — to melt) is simple: cheese melted with white wine, a splash of kirsch, and a rub of garlic, served in an earthenware pot (caquelon) over a small burner. You dip bread cubes on long forks. That's it.
+
+The complexity lies in the cheese blend. Different regions use different cheeses, and the variation in taste is significant.
+
+## The Main Styles
+
+### Moitié-Moitié (Half and Half)
+The most famous and, in my opinion, the finest. **Equal parts Gruyère AOP and Vacherin Fribourgeois** — the combination is creamy, nutty, and slightly floral. This is the fondue of the Fribourg region and the one most chefs consider the gold standard.
+
+The wine used matters: a dry white from the Vaudois region (Chasselas) is traditional. A Fendant from Valais also works well.
+
+**Where to get it at its best:** Gruyères (the medieval town where Gruyère cheese originates), Fribourg, and any restaurant that sources its cheese from a proper fromagerie rather than a supermarket.
+
+### Fondue Fribourgeoise
+**Pure Vacherin Fribourgeois**, melted with white wine. Richer and creamier than moitié-moitié, with a more pronounced flavour. Less well-known internationally but adored by those who've had it. Ask specifically for this in Fribourg.
+
+### Fondue Neuchâteloise
+**Gruyère and Emmental** (50/50). A slightly firmer, less creamy result. This is what most people mean when they say "fondue" internationally — it's the most exported style.
+
+### Tomato Fondue (Fondue Tomate)
+A regional speciality of Valais and Ticino. **Gruyère with tomato added** to the base — a completely different, slightly acidic flavour profile. Polarizing but interesting. Try it at least once.
+
+## How to Eat It Properly
+
+**The bread:** Use day-old crusty bread, ideally pain de campagne or baguette. Fresh bread falls apart in the pot. The bread cube should be slightly dried-out and firm.
+
+**The fork movement:** Stir the bread in a figure-of-8 or circular motion. This keeps the cheese homogeneous and prevents it from separating. If you lose your bread in the pot, there's a tradition (observed with varying seriousness) of paying a forfeit — usually buying a round of drinks.
+
+**The crust:** At the bottom of the pot, a thin crust of toasted cheese forms as you near the end. This is called *la religieuse* ("the nun") and is considered the best part. Scrape it up carefully with a fork or spoon. It's like a toasted, concentrated version of all the flavours that came before.
+
+**What to drink with it:** Traditionally, white wine (the same wine used in the fondue), herbal tea, or kirsch schnapps. The Swiss believe cold water or beer causes the cheese to congeal in your stomach — this is a myth, but the white wine genuinely does complement the flavour better.
+
+**Side dishes:** Pickled cornichons (gherkins) and pearl onions cut through the richness. Most restaurants include them. Some serve boiled potatoes instead of bread — the Vacherin Fribourgeoise style is particularly good with potatoes.
+
+## Where to Eat Fondue
+
+### The Best Region: Gruyères and Fribourg
+
+The area around Gruyères — the cheese's birthplace — has the best fondue in Switzerland. The combination of proper aged Gruyère (at least 6 months, ideally 10-12) and Vacherin made in the neighbouring valley produces something far better than the industrial versions found in tourist restaurants.
+
+**Restaurant Le Chalet, Gruyères** — Perched in the medieval village with views over the valley. The moitié-moitié here is made with cheese from the La Maison du Gruyère directly below. CHF 28-32 per person. Book ahead in season.
+
+**Restaurant de Gruyères** — In the village square, with a terrace. More casual, same quality cheese. CHF 25-29 per person.
+
+**In Fribourg city:** La Cave de Bacchus and La Pinte des Mossettes are local favourites serving proper Fribourgeoise fondue at honest prices (CHF 22-26 per person).
+
+### Zurich — Where to Find It in the City
+
+Zurich has dozens of fondue restaurants but quality varies wildly.
+
+**Zunfthaus zur Zimmerleuten** — An historic guild house with a proper fondue. More expensive (CHF 36-40 per person) but the setting is beautiful. Good moitié-moitié.
+
+**Swiss Chuchi, Rosly Hotel** — A classic tourist restaurant that does it well. CHF 30-34 per person. The cheese blend is good, service is efficient.
+
+**Raclette Factory** — More casual, focuses on raclette but also serves fondue. CHF 25-30 per person. Better value than most.
+
+**Tip:** Several Zurich fondue restaurants are open year-round but many take summer breaks (June-August). Always call ahead.
+
+### Geneva
+
+**Le Café du Soleil, Plainpalais** — A Geneva institution since 1849. Proper Genevois fondue (Gruyère + Emmental) at fair prices (CHF 24-28). Frequented by locals, not tourists. The perfect introduction to fondue for first-timers.
+
+**Brasserie des Halles de l'Ile** — On an island in the Rhône, beautiful setting, consistent quality. CHF 30-35 per person.
+
+## Fondue at Home
+
+If you want the definitive experience, buy the cheeses and make it yourself. The recipe is simple:
+
+- 400g Gruyère (grated)
+- 400g Vacherin Fribourgeois (grated)
+- 2 cloves garlic (rubbed around the caquelon)
+- 3dl dry white wine (Chasselas or similar)
+- 1 tsp cornflour (dissolved in kirsch)
+- A splash of kirsch
+
+Heat the wine in the caquelon, add cheese gradually while stirring, add the cornflour-kirsch mixture to stabilise, season with nutmeg and pepper. Keep warm over the burner on the table.
+
+The cheese costs: Gruyère AOP around CHF 22/kg, Vacherin Fribourgeois around CHF 20/kg. Total cheese cost for two: around CHF 16. A restaurant charges CHF 50-60 for the same quantity for two. The home version is better and a quarter of the price.
+
+## The Raclette Question
+
+People often ask: fondue or raclette? They're completely different experiences. Raclette is a semi-hard cheese melted and scraped directly onto boiled potatoes, served with cornichons and dried meats. It's more substantial and simpler — no communal pot, no bread-dipping ceremony. Both are excellent. If forced to choose: fondue for groups and atmosphere, raclette for a cosy dinner for two.
+
+**The one rule:** Don't eat fondue alone. It's a social dish built around sharing the pot. The experience is entirely different with one person versus four, and the Swiss know this intuitively.`,
+  },
+  {
+    slug: "hidden-villages-switzerland",
+    title: "9 Swiss Villages You Should Visit Instead of the Famous Ones",
+    excerpt: "Grindelwald gets the crowds. Stein am Rhein gets the Instagram likes. These nine villages get the real Switzerland — and far fewer tourists.",
+    date: "2026-04-18",
+    author: "Emma Clarke",
+    tags: ["villages", "hidden gems", "off the beaten path", "nature"],
+    content: `The most photographed places in Switzerland — Grindelwald, Lucerne, Zermatt — are genuinely beautiful. They're also genuinely crowded. These nine villages offer something rarer: the same quality of landscape, architecture, or character, with a fraction of the visitors.
+
+## 1. Morcote, Ticino
+
+On the southern tip of Lake Lugano, Morcote was once voted "most beautiful village in Switzerland" — and looking at it, it's hard to argue. Arcaded streets descend in terraces to the lake, flanked by an 11th-century church on a hill and cypress trees that make it feel more Italian than Swiss. The afternoon light on the water and the frescoed arcade buildings is extraordinary.
+
+**Getting there:** Bus from Lugano (30 min, CHF 5). Or hire a bike and cycle the lakeside path — one of Switzerland's finest cycling routes.
+**What to do:** Walk the arcaded streets, climb to the church, swim in the lake from the free public beach. One meal at the Ristorante La Perla on the water is the acceptable splurge (CHF 30-45 for a lake fish main).
+**When:** May-October. The village is virtually deserted in winter.
+
+## 2. Soglio, Graubünden
+
+At 1,090m in the Val Bregaglia, Soglio sits on a narrow terrace above the valley with a view that looks like a painting — stone houses, chestnut forests, and distant snow-capped peaks. The Palazzo Salis hotel has operated since the 17th century. There's one restaurant, one shop, and about 100 permanent residents. Exactly what it should be.
+
+**Getting there:** Post bus from Maloja or Vicosoprano (1 hour from St. Moritz area). The bus ride up the switchbacks alone is worth the trip.
+**What to do:** Walk the chestnut-shaded trail to Castasegna (2 hours downhill), visit the Palazzo Salis garden (CHF 5), eat at the Croce Federale restaurant.
+**Best month:** October, when the chestnut forest turns gold. September is also excellent.
+
+## 3. Ernen, Valais
+
+Above the Rhône Valley in the Goms region, Ernen is a beautifully preserved 16th-century village with a music festival (Musikdorf Ernen) that brings world-class chamber musicians to this tiny community every summer. The village square, with its fountain, Baroque church, and half-timbered granaries, looks essentially unchanged from photographs taken a century ago.
+
+**Getting there:** Train to Fiesch (on the Brig-Fiesch line), then post bus.
+**What to do:** Walk the Grengiols-Ernen wine trail (2 hours, free), swim in the Rhône-fed lake below the village, catch a concert in the village church (CHF 30-60, worth every franc).
+**Secret:** The village bakery sells traditional Walliser rye bread — unlike anything you'll find in a Swiss city.
+
+## 4. Gruyères, Fribourg
+
+Yes, Gruyères appears in tourist guides — but it's consistently undervisited relative to how beautiful it is. The single main street, entirely car-free, runs between a 13th-century castle at the top and a cheese factory at the bottom. At midday in summer there are crowds. At 08:00 or after 17:00, you have it almost to yourself.
+
+**Getting there:** Train from Lausanne via Bulle (1h45min), or from Bern (1h30min).
+**What to do:** Castle visit (CHF 12, worth it), cheese factory (CHF 7, excellent), fondue at Restaurant Le Chalet (CHF 28-32). Also: the HR Giger Museum, an unexpected surrealist masterpiece in the village square.
+**Combination:** Gruyères + Maison Cailler chocolate factory (3km away in Broc) = the definitive Swiss food day trip.
+
+## 5. Intragna, Ticino
+
+The highest village bridge in Switzerland spans the Melezza gorge at Intragna — 70 meters above the water, 228 meters long. The village itself is a quiet Ticinese gem: a Baroque church on a hill, terraced vineyards, and that extraordinary bridge overhead. It sits on the Centovalli railway line, making it accessible without a car.
+
+**Getting there:** Train from Locarno (20 min, CHF 8) on the Centovalli narrow-gauge line.
+**What to do:** Walk across the bridge (free, vertiginous), visit the regional museum (free), hike the 3-hour trail to Palagnedra.
+**When:** April-October. The chestnut trees in autumn are spectacular.
+
+## 6. Grandson, Vaud
+
+On the shore of Lake Neuchâtel, Grandson has a formidable 13th-century castle (site of the famous Battle of Grandson in 1476) and almost no tourist infrastructure — which means it's entirely peaceful. The castle contains a surprising collection of medieval arms and an unexpected Napoleonic memorabilia section. The village itself has a lovely arcaded main street and a waterfront that feels authentically Swiss rather than staged for visitors.
+
+**Getting there:** Train to Grandson station (25 min from Lausanne via Yverdon, CHF 12).
+**What to do:** Castle visit (CHF 14, excellent value), lakeside walk (free), swim in the lake from the free public beach.
+
+## 7. Sent, Graubünden (Lower Engadin)
+
+In the lower Inn valley, Sent is one of the finest examples of Engadin architecture: wide, frescoed house façades decorated with *sgraffito* (ornamental plasterwork scratched to reveal a different-coloured layer beneath). Every house in the village is essentially a work of art. The craftsmanship dates from the 16th and 17th centuries when Engadin craftsmen built palaces across Europe and brought their wealth home.
+
+**Getting there:** Train to Scuol-Tarasp, then post bus (10 min).
+**What to do:** Walk the village (free), take the guided sgraffito tour (ask at the local museum, CHF 10), swim in the Inn River from the free beach below the village.
+
+## 8. Rhäzüns, Graubünden
+
+An extraordinary castle towers above the Rhine gorge at Rhäzüns — a medieval fortress that has barely changed since the 14th century. The village below, with its Roman-era church and Graubünden farmhouses, sits at the entrance to the Ruinaulta (Rhine Gorge), often called the "Swiss Grand Canyon." This is the most dramatic valley in Switzerland that most visitors have never seen.
+
+**Getting there:** Train to Rhäzüns or Bonaduz on the Chur-Domat/Ems line.
+**What to do:** Walk the Rhine Gorge trail (free, 15km one-way — do a section), visit the castle exterior (no regular interior access), kayak the Rhine (guided tours from Chur, from CHF 65).
+
+## 9. Orselina, Ticino
+
+Above Locarno, connected by the world's steepest regular funicular (37% gradient), Orselina is home to the Sanctuary of Madonna del Sasso — a pilgrimage church perched dramatically on a cliff above the valley. The view from the church terrace over Lake Maggiore and the Alps is one of the finest in Switzerland, and almost no one comes up here compared to Locarno's lakefront.
+
+**Getting there:** Funicular from Locarno (CHF 4 one-way, runs every 15 minutes).
+**What to do:** Visit the sanctuary (free), walk to Cardada cable car station (15 min uphill, CHF 18 round trip to 1,340m), walk back down through the Sacro Monte via Crucis path (30 min, free).
+**When:** The sanctuary pilgrimage is on the Saturday before Easter and on 15 August — fascinating cultural events if you're there.
+
+## The Common Thread
+
+All nine of these villages share the same quality: they're best experienced slowly, on foot, without a specific itinerary. The Swiss village experience — an afternoon wandering a car-free lane, sitting at a fountain, sharing a carafe of local wine — is available everywhere in this country. You just need to leave the main tourist circuit for a few hours to find it.`,
+  },
+  {
+    slug: "how-long-does-switzerland-really-take",
+    title: "How Long Does Switzerland Really Take? An Honest Planning Guide",
+    excerpt: "Seven days? Ten? Two weeks? Here's an honest assessment of what you can actually see in different amounts of time — without the exhaustion.",
+    date: "2026-04-20",
+    author: "Tom Lindqvist",
+    tags: ["planning", "itinerary", "travel tips", "first time"],
+    content: `Switzerland is a small country — about the size of the Netherlands or the US state of Maryland. This makes people think they can cover it thoroughly in four days. They can't. The terrain makes distances deceptive, the altitude changes are significant, and rushing from mountain to mountain produces exhaustion rather than memories. Here's an honest guide.
+
+## The Problem with Rushing
+
+A common mistake: trying to see Zurich, Lucerne, Interlaken, Zermatt, and Geneva in five days. On a map this looks manageable. In practice, you spend three hours on trains each day, arrive somewhere tired at 14:00, rush to see the "main sights," eat an overpriced dinner, and leave again at 08:00. Switzerland rewards slow visitors.
+
+The best experiences here require time: hiking actually takes 3-4 hours, not 45 minutes. Getting up a mountain, having lunch at the top, and coming back down is a full-day activity. A visit to Gruyères that includes the cheese factory, the castle, and a proper fondue lunch takes 4 hours minimum. Build your itinerary around experiences, not checklists.
+
+## 3-4 Days: One Region, Done Well
+
+This is barely enough time for Switzerland, but it works if you choose one region and commit to it rather than trying to see the whole country.
+
+**Best 3-day option: Bern, Interlaken, and the Jungfrau region**
+- Day 1: Arrive Bern, old town walk, Zytglogge, dinner in Bern
+- Day 2: Train to Interlaken, afternoon at Grindelwald First (Cliff Walk, Flyer zipline)
+- Day 3: Jungfraujoch (book the first train — clear morning views are more likely)
+
+**Transport:** Fly into Zurich or Bern, train to Bern (45 min from Zurich, CHF 52).
+**Accommodation:** Stay in Interlaken for nights 2-3 — better value than Grindelwald, good transport connections.
+
+**Alternative 3-day option: Lucerne and Zermatt**
+- Day 1: Lucerne — Chapel Bridge, old town, Museum of Transport
+- Day 2: Pilatus or Rigi excursion from Lucerne
+- Day 3: Train to Zermatt (1h45min via Brig), Gornergrat railway with Matterhorn views
+
+## 7 Days: The Minimum for a Proper Visit
+
+A week is the sweet spot for first-time visitors who want to see Switzerland's variety — cities, mountains, lakes — without destroying themselves in the process.
+
+**The Classic 7-Day Route:**
+
+**Day 1: Zurich**
+Arrive, rest, walk the old town (Niederdorf), swim in the Limmat or lake in summer. Zurich doesn't need more than one day unless you're there for a specific event.
+
+**Day 2: Lucerne**
+Train 45 min from Zurich. Chapel Bridge, old town, Museum of Transport if it rains. Overnight in Lucerne.
+
+**Day 3: Mount Pilatus or Rigi (Lucerne)**
+Use Lucerne as base for your first mountain experience. The Pilatus Golden Round Trip (5-7 hours) or Rigi round trip. Get an early start — mountain weather deteriorates in afternoon.
+
+**Day 4: Travel day to Interlaken / Grindelwald**
+Train 2h from Lucerne. Afternoon arrival, explore Interlaken town, walk along the lakes.
+
+**Day 5: Jungfraujoch (from Interlaken)**
+Start early — first train from Interlaken Ost at 07:35. Arrive at 3,454m by 10:00, before afternoon cloud. 5-6 hours total. Rest afternoon.
+
+**Day 6: Zermatt**
+Train 2h15min from Interlaken via Spiez and Visp. Walk the car-free village, hike to Sunnegga for Matterhorn reflection in the lakes (or take the funicular for CHF 26).
+
+**Day 7: Zermatt → Geneva or Zurich for departure**
+Matterhorn Glacier Paradise in the morning (2h), then train to departure city. Geneva is 3h30min from Zermatt; Zurich is 3h45min.
+
+**Budget for 7 days (per person, mid-range):**
+- Accommodation: CHF 700 (budget hotels/hostels)
+- Transport with Half-Fare Card: CHF 280
+- Mountain activities: CHF 380 (Pilatus, Jungfraujoch, Matterhorn Glacier Paradise)
+- Meals: CHF 280
+- **Total: ~CHF 1,640**
+
+## 10-14 Days: Switzerland as It Should Be Seen
+
+With 10 or more days, you can add lake regions, Ticino, and the Engadin — and spend more than one night in each place.
+
+**What a 10-day route adds:**
+- **Lake Geneva region** (Geneva, Lausanne, Montreux, Château de Chillon, Lavaux vineyards): 2-3 days
+- **Graubünden / Engadin**: 2 days (Bernina Express, St. Moritz, Swiss National Park)
+- **Ticino**: 1-2 days (Lugano, Locarno, Bellinzona, Verzasca Dam)
+
+These regions are completely different in character from the Bernese Oberland circuit — warmer, more Mediterranean, less visited by international tourists, and genuinely beautiful.
+
+**Sample 14-day route:**
+- Days 1-2: Zurich
+- Days 3-4: Lucerne + Rigi
+- Days 5-6: Interlaken + Jungfraujoch
+- Days 7-8: Zermatt + Matterhorn
+- Days 9-10: Geneva + Lausanne + Lavaux wine walk
+- Days 11-12: Lugano + Locarno (Ticino)
+- Days 13-14: Chur + Bernina Express + St. Moritz
+
+## What People Always Underestimate
+
+**Mountain time:** Getting up a mountain, having lunch, getting back down, and recovering is a full-day activity. Don't schedule two mountain excursions on consecutive days unless you're fit.
+
+**Travel time:** Switzerland is fast but not instant. Zermatt to Geneva is 3h30min. St. Moritz to Zurich is 3h. These are fast by European standards but still require planning.
+
+**Weather dependency:** Mountain activities require clear weather. Plan at least one "free day" in your itinerary to accommodate a weather delay. On a clear day, go to the mountain; on a cloudy day, visit a museum, a thermal bath, or a chocolate factory.
+
+**Altitude:** Jungfraujoch (3,454m), Matterhorn Glacier Paradise (3,883m), and Titlis (3,238m) are significantly higher than most people have been before. Mild altitude sickness symptoms (headache, nausea, shortness of breath) affect roughly 30-40% of visitors. Acclimatise by spending time at lower altitudes (1,500-2,000m) before ascending to the top stations.
+
+**Cost:** Switzerland is expensive. Budget CHF 150-200/day per person for a comfortable trip, including transport, one paid activity, and eating a mix of picnic lunches and restaurant dinners.
+
+## The Most Common Mistake
+
+Trying to see too much. The Swiss have a saying: *Langsam aber sicher* — slowly but surely. It applies to how you should travel here. One mountain a day. One city before moving on. Two nights in Zermatt, not one. The train will still be running tomorrow, and the Matterhorn will still be there.
+
+A week in Switzerland with two real mountain days, two unhurried city days, one lake day, and two travel days is a better trip than ten days trying to tick every box on the tourist map.
+
+**The Switzerland that matters** — an early morning at the top of Rigi watching the clouds below you, a fondue dinner running long into a cold evening, a paddle in a turquoise glacial lake that makes you question whether the colour is real — that Switzerland requires time. Give it the time.`,
   },
 ];
 

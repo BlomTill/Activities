@@ -1,0 +1,70 @@
+{
+  "id": "117",
+  "slug": "knies-kinderzoo-rapperswil",
+  "name": "Knies Kinderzoo Rapperswil",
+  "description": "Switzerland's beloved children's zoo with elephant rides, camel tours, and feeding experiences.",
+  "longDescription": "Knie's Kinderzoo in Rapperswil, run by the famous Swiss National Circus family, lets children get up close with elephants, giraffes, sea lions, and more. Elephant rides, camel caravan tours, and interactive feeding sessions make this a magical family outing.",
+  "category": "family",
+  "subcategory": "Zoo",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "St. Gallen",
+    "city": "Rapperswil",
+    "coordinates": {
+      "lat": 47.2266,
+      "lng": 8.8184
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Knies Kinderzoo",
+      "pricing": {
+        "child": 12,
+        "student": 16,
+        "adult": 22,
+        "senior": 19
+      },
+      "bookingUrl": "https://www.kfrr.ch",
+      "rating": 4.4
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1474511320723-9a56873571b7?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Animals",
+      "value": "Elephants, giraffes, sea lions"
+    },
+    {
+      "label": "Rides",
+      "value": "Elephant + camel"
+    },
+    {
+      "label": "Feeding",
+      "value": "Interactive"
+    },
+    {
+      "label": "Circus Family",
+      "value": "Knie since 1803"
+    },
+    {
+      "label": "Lake Location",
+      "value": "Rapperswil"
+    }
+  ],
+  "tags": [
+    "zoo",
+    "children",
+    "animals",
+    "family",
+    "rapperswil"
+  ],
+  "featured": false
+}

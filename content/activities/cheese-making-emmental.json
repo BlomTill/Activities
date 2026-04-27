@@ -1,0 +1,84 @@
+{
+  "id": "127",
+  "slug": "cheese-making-emmental",
+  "name": "Cheese-Making Workshop Emmental",
+  "description": "Learn to make traditional Emmentaler cheese by hand in the valleys where it originated.",
+  "longDescription": "At the Emmentaler Schaukäserei in Affoltern, visitors can watch and participate in making the world-famous Emmentaler cheese. The hands-on workshop guides you through the entire process — from fresh milk to your own cheese wheel — in the rolling green hills where it all began.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Affoltern im Emmental",
+    "coordinates": {
+      "lat": 46.8833,
+      "lng": 7.7333
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Emmentaler Schaukäserei (Visit)",
+      "pricing": {
+        "child": 4,
+        "student": 7,
+        "adult": 10,
+        "senior": 8
+      },
+      "bookingUrl": "https://www.emmentaler-schaukaeserei.ch",
+      "rating": 4.4,
+      "description": "Self-guided tour with tasting"
+    },
+    {
+      "name": "Emmentaler Schaukäserei (Workshop)",
+      "pricing": {
+        "child": 18,
+        "student": 25,
+        "adult": 32,
+        "senior": 28
+      },
+      "bookingUrl": "https://www.emmentaler-schaukaeserei.ch",
+      "rating": 4.7,
+      "description": "Hands-on cheese making — take home your own wheel"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1559561853-08451507cbe7?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Cheese",
+      "value": "Emmentaler AOP"
+    },
+    {
+      "label": "Workshop",
+      "value": "Make your own wheel"
+    },
+    {
+      "label": "Tastings",
+      "value": "Multiple varieties"
+    },
+    {
+      "label": "Origin",
+      "value": "Emmental valley"
+    },
+    {
+      "label": "Take Home",
+      "value": "Your cheese"
+    }
+  ],
+  "tags": [
+    "cheese",
+    "workshop",
+    "emmental",
+    "food",
+    "hands-on"
+  ],
+  "featured": false
+}

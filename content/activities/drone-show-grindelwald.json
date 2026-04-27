@@ -1,0 +1,69 @@
+{
+  "id": "114",
+  "slug": "drone-show-grindelwald",
+  "name": "Drone Light Show Grindelwald",
+  "description": "Spectacular choreographed drone light show against the Eiger North Face backdrop.",
+  "longDescription": "Experience a cutting-edge drone light show in Grindelwald where hundreds of illuminated drones create stunning formations against the dramatic backdrop of the Eiger North Face. This seasonal evening spectacle combines technology and alpine scenery in a unique way.",
+  "category": "family",
+  "subcategory": "Entertainment",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Grindelwald",
+    "coordinates": {
+      "lat": 46.6586,
+      "lng": 8.0414
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Grindelwald Drone Show",
+      "pricing": {
+        "child": 15,
+        "student": 25,
+        "adult": 35,
+        "senior": 30
+      },
+      "bookingUrl": "https://www.grindelwald.swiss",
+      "rating": 4.6,
+      "description": "Evening drone show ticket"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-1.5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1516728778615-2d590ea1855e?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Drones",
+      "value": "Hundreds"
+    },
+    {
+      "label": "Backdrop",
+      "value": "Eiger North Face"
+    },
+    {
+      "label": "Season",
+      "value": "Winter evenings"
+    },
+    {
+      "label": "Duration",
+      "value": "~30 min show"
+    },
+    {
+      "label": "Technology",
+      "value": "Choreographed LED"
+    }
+  ],
+  "tags": [
+    "drone",
+    "light show",
+    "grindelwald",
+    "technology",
+    "entertainment"
+  ],
+  "featured": false
+}

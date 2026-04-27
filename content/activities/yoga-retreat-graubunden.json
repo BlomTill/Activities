@@ -1,0 +1,83 @@
+{
+  "id": "136",
+  "slug": "yoga-retreat-graubunden",
+  "name": "Mountain Yoga Retreat Graubünden",
+  "description": "Multi-day yoga retreat in the Arosa mountains with meditation, hiking, and alpine wellness.",
+  "longDescription": "Combine yoga practice with mountain air in Arosa, Graubünden. Multi-day retreats offer daily yoga sessions, guided meditation, alpine hikes, and spa treatments. Accommodation in mountain lodges with healthy organic cuisine and panoramic views of the surrounding peaks.",
+  "category": "wellness",
+  "subcategory": "Yoga",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Arosa",
+    "coordinates": {
+      "lat": 46.7834,
+      "lng": 9.6797
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Arosa Yoga Weekend",
+      "pricing": {
+        "child": 0,
+        "student": 350,
+        "adult": 450,
+        "senior": 420
+      },
+      "bookingUrl": "https://www.arosa.swiss",
+      "rating": 4.6,
+      "description": "2-night weekend retreat with yoga and meals"
+    },
+    {
+      "name": "Arosa Yoga Week",
+      "pricing": {
+        "child": 0,
+        "student": 850,
+        "adult": 1100,
+        "senior": 1000
+      },
+      "bookingUrl": "https://www.arosa.swiss",
+      "rating": 4.8,
+      "description": "5-night retreat with full programme"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-5 days",
+  "imageUrl": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Setting",
+      "value": "Mountain lodge"
+    },
+    {
+      "label": "Daily Yoga",
+      "value": "2 sessions"
+    },
+    {
+      "label": "Meditation",
+      "value": "Guided"
+    },
+    {
+      "label": "Hiking",
+      "value": "Included"
+    },
+    {
+      "label": "Cuisine",
+      "value": "Organic meals"
+    }
+  ],
+  "tags": [
+    "yoga",
+    "retreat",
+    "wellness",
+    "arosa",
+    "meditation"
+  ],
+  "featured": false
+}

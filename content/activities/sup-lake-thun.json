@@ -1,0 +1,81 @@
+{
+  "id": "38",
+  "slug": "sup-lake-thun",
+  "name": "Stand-Up Paddleboarding on Lake Thun",
+  "description": "SUP on crystal-clear Lake Thun with views of the Bernese Oberland peaks.",
+  "longDescription": "Paddle along turquoise waters with the Niesen, Stockhorn, and Bernese Alps as your backdrop. Rental stations offer boards and instruction for beginners.",
+  "category": "outdoor",
+  "subcategory": "Water Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Thun",
+    "coordinates": {
+      "lat": 46.758,
+      "lng": 7.628
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Honu SUP Thun",
+      "pricing": {
+        "child": 15,
+        "student": 22,
+        "adult": 30,
+        "senior": 28
+      },
+      "bookingUrl": "https://www.honu-sup.ch",
+      "rating": 4.5,
+      "description": "2-hour board rental"
+    },
+    {
+      "name": "SUP Bern",
+      "pricing": {
+        "child": 20,
+        "student": 30,
+        "adult": 40,
+        "senior": 35
+      },
+      "bookingUrl": "https://www.sup-bern.ch",
+      "rating": 4.6,
+      "description": "Guided SUP tour with sunset option"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Water Temp",
+      "value": "~18°C summer"
+    },
+    {
+      "label": "Board Rental",
+      "value": "From CHF 15/h"
+    },
+    {
+      "label": "Beginner",
+      "value": "Friendly"
+    },
+    {
+      "label": "Backdrop",
+      "value": "Bernese Alps"
+    },
+    {
+      "label": "Sunset Tour",
+      "value": "Available"
+    }
+  ],
+  "tags": [
+    "SUP",
+    "water sports",
+    "lake",
+    "summer",
+    "paddleboard"
+  ],
+  "featured": false
+}

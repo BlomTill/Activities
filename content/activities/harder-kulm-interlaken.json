@@ -1,0 +1,69 @@
+{
+  "id": "58",
+  "slug": "harder-kulm-interlaken",
+  "name": "Harder Kulm – Top of Interlaken",
+  "description": "Funicular to the viewing platform 1,322m above Interlaken with twin-lake panorama.",
+  "longDescription": "Take the historic funicular to Harder Kulm for the best panorama over Interlaken. The Two Lakes Bridge viewing platform offers jaw-dropping views of Lake Thun, Lake Brienz, and the Jungfrau massif.",
+  "category": "outdoor",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Interlaken",
+    "coordinates": {
+      "lat": 46.69,
+      "lng": 7.86
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Harder Kulm Funicular",
+      "pricing": {
+        "child": 14,
+        "student": 24,
+        "adult": 32,
+        "senior": 29
+      },
+      "bookingUrl": "https://www.jungfrau.ch",
+      "rating": 4.5
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Altitude",
+      "value": "1,322m"
+    },
+    {
+      "label": "Transport",
+      "value": "Funicular"
+    },
+    {
+      "label": "View Platform",
+      "value": "Two Lakes Bridge"
+    },
+    {
+      "label": "Lakes",
+      "value": "Thun + Brienz"
+    },
+    {
+      "label": "Night Rides",
+      "value": "Summer"
+    }
+  ],
+  "tags": [
+    "funicular",
+    "viewpoint",
+    "panorama",
+    "interlaken"
+  ],
+  "featured": false
+}

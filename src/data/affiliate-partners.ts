@@ -39,6 +39,28 @@ export interface AffiliatePartner {
   disclosure: string;
   /** Marketing category for grouping on /partners. */
   tier: "primary" | "secondary" | "niche";
+  /**
+   * URL template for a Switzerland-scoped activity search on this platform.
+   * Supports the following placeholders:
+   *   {name}     → URL-encoded activity name (e.g. "Jungfraujoch")
+   *   {city}     → URL-encoded city           (e.g. "Interlaken")
+   *   {citySlug} → kebab-case city             (e.g. "interlaken")
+   *   {canton}   → canton abbreviation         (e.g. "BE")
+   * Leave undefined for partners where search URLs don't apply
+   * (e.g. Booking.com accommodation links).
+   */
+  searchUrlTemplate?: string;
+  /**
+   * When true, the marketplace comparison panel will include this partner
+   * (only shown if searchUrlTemplate is also set).
+   */
+  showInMarketplace?: boolean;
+}
+
+function trackingFromEnv(envKey: string, devFallback: string): string {
+  const value = process.env[envKey]?.trim();
+  if (value) return value;
+  return process.env.NODE_ENV === "production" ? "" : devFallback;
 }
 
 export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
@@ -46,29 +68,44 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     id: "getyourguide",
     name: "GetYourGuide",
     domains: ["getyourguide.com", "getyourguide.ch"],
-    trackingParams: "partner_id=XXXXXXX&utm_medium=online_publisher&utm_source=exploreswitzerland",
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_GETYOURGUIDE_PARAMS",
+      "partner_id=XXXXXXX&utm_medium=online_publisher&utm_source=exploreswitzerland"
+    ),
     commissionRate: "8%",
     active: true,
     disclosure:
       "Europe's largest tours & activities marketplace. Commission is paid by GetYourGuide, not added to the price you pay.",
     tier: "primary",
+    // Switzerland: country_id=200, city-specific searches work via /s/?q=
+    searchUrlTemplate: "https://www.getyourguide.com/s/?q={name}&country_id=200",
+    showInMarketplace: true,
   },
   {
     id: "viator",
     name: "Viator",
     domains: ["viator.com"],
-    trackingParams: "pid=P00XXXXX&mcid=42383&medium=link",
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_VIATOR_PARAMS",
+      "pid=P00XXXXX&mcid=42383&medium=link"
+    ),
     commissionRate: "8%",
     active: true,
     disclosure:
       "Viator (a TripAdvisor company) covers many of the same activities. We show whichever partner has better availability or price at the time.",
     tier: "primary",
+    // Viator Switzerland search — geo=302860 is Switzerland's destination ID
+    searchUrlTemplate: "https://www.viator.com/search/{name}?geo=302860",
+    showInMarketplace: true,
   },
   {
     id: "booking",
     name: "Booking.com",
     domains: ["booking.com"],
-    trackingParams: "aid=XXXXXXX&label=exploreswitzerland",
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_BOOKING_PARAMS",
+      "aid=XXXXXXX&label=exploreswitzerland"
+    ),
     commissionRate: "25% of Booking.com's profit",
     active: true,
     disclosure:
@@ -79,7 +116,10 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     id: "klook",
     name: "Klook",
     domains: ["klook.com"],
-    trackingParams: "aid=XXXXX&aff_platform=online_publisher",
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_KLOOK_PARAMS",
+      "aid=XXXXX&aff_platform=online_publisher"
+    ),
     commissionRate: "5%",
     active: true,
     disclosure:
@@ -90,7 +130,10 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     id: "omio",
     name: "Omio",
     domains: ["omio.com"],
-    trackingParams: "partner_id=exploreswitzerland",
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_OMIO_PARAMS",
+      "partner_id=exploreswitzerland"
+    ),
     commissionRate: "2-6%",
     active: true,
     disclosure:
@@ -101,7 +144,10 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     id: "swissactivities",
     name: "SwissActivities",
     domains: ["swissactivities.com"],
-    trackingParams: "tap_a=XXXXX&utm_source=exploreswitzerland",
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_SWISSACTIVITIES_PARAMS",
+      "tap_a=XXXXX&utm_source=exploreswitzerland"
+    ),
     commissionRate: "10%",
     active: true,
     disclosure:
@@ -112,7 +158,10 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     id: "rentalcars",
     name: "Rentalcars.com",
     domains: ["rentalcars.com"],
-    trackingParams: "affiliateCode=exploreswitzerland",
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_RENTALCARS_PARAMS",
+      "affiliateCode=exploreswitzerland"
+    ),
     commissionRate: "6-10%",
     active: true,
     disclosure:
@@ -123,12 +172,51 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     id: "swisspass",
     name: "Swiss Travel Pass (Interrail)",
     domains: ["interrail.eu", "eurail.com"],
-    trackingParams: "partner_id=exploreswitzerland",
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_SWISSPASS_PARAMS",
+      "partner_id=exploreswitzerland"
+    ),
     commissionRate: "5%",
     active: true,
     disclosure:
       "Official re-seller of the Swiss Travel Pass. Commission helps us keep the rail-tips content free.",
     tier: "niche",
+  },
+  {
+    id: "musement",
+    name: "Musement",
+    domains: ["musement.com"],
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_MUSEMENT_PARAMS",
+      // Replace XXXXXXX with your Travelpayouts or direct Musement affiliate ID
+      "utm_source=exploreswitzerland&utm_medium=affiliate&utm_campaign=XXXXXXX"
+    ),
+    commissionRate: "5–6% (or 50% margin share via Travelpayouts)",
+    active: true,
+    disclosure:
+      "Musement (TUI Group) covers cultural experiences across Switzerland — particularly strong on museum entries, CERN, and historical sites. Commission is paid by Musement, not added to your price.",
+    tier: "secondary",
+    // Musement Switzerland city pages follow /en/{city-slug}/ pattern
+    searchUrlTemplate: "https://www.musement.com/en/{citySlug}/",
+    showInMarketplace: true,
+  },
+  {
+    id: "civitatis",
+    name: "Civitatis",
+    domains: ["civitatis.com"],
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_CIVITATIS_PARAMS",
+      // Replace with your Civitatis affiliate ID (from civitatis.com/en/affiliates/)
+      "aid=XXXXXXX&utm_source=exploreswitzerland"
+    ),
+    commissionRate: "8–10% (free tours earn €1/person aged 12+)",
+    active: true,
+    disclosure:
+      "Civitatis specialises in guided tours and free walking tours across European cities. Pays commission even on free tours (€1 per participant). No intermediary — commission paid directly.",
+    tier: "secondary",
+    // Civitatis Switzerland pages: /en/{city-slug}/
+    searchUrlTemplate: "https://www.civitatis.com/en/{citySlug}/",
+    showInMarketplace: true,
   },
 ];
 

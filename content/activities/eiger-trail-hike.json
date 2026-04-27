@@ -1,0 +1,70 @@
+{
+  "id": "87",
+  "slug": "eiger-trail-hike",
+  "name": "Eiger Trail Hike",
+  "description": "Walk directly beneath the legendary Eiger North Face on this iconic alpine trail.",
+  "longDescription": "The Eiger Trail runs from Eigergletscher station to Alpiglen directly below the infamous Eiger North Face — one of the most dramatic backdrops in the Alps. This 6km trail offers close-up views of the 1,800m vertical wall that has challenged mountaineers for over a century.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Grindelwald",
+    "coordinates": {
+      "lat": 46.634,
+      "lng": 7.98
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Jungfrau Railways (Train to Eigergletscher)",
+      "pricing": {
+        "child": 18,
+        "student": 32,
+        "adult": 42,
+        "senior": 38
+      },
+      "bookingUrl": "https://www.jungfrau.ch",
+      "rating": 4.9,
+      "description": "Train access — trail itself is free"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Trail Length",
+      "value": "6 km"
+    },
+    {
+      "label": "North Face",
+      "value": "1,800m vertical wall"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Moderate"
+    },
+    {
+      "label": "Start",
+      "value": "Eigergletscher station"
+    },
+    {
+      "label": "Iconic",
+      "value": "Below the Eiger"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "eiger",
+    "north face",
+    "grindelwald",
+    "iconic"
+  ],
+  "featured": true
+}

@@ -1,0 +1,81 @@
+{
+  "id": "141",
+  "slug": "fat-biking-gstaad",
+  "name": "Fat Biking Gstaad",
+  "description": "Ride oversized-tire bikes through snowy Gstaad trails for a unique winter cycling experience.",
+  "longDescription": "Fat biking on groomed winter trails around Gstaad is a unique way to explore the snowy landscape. The extra-wide tires grip packed snow effortlessly as you ride through forests, along frozen rivers, and past traditional chalets in the Saanenland.",
+  "category": "adventure",
+  "subcategory": "Cycling",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Gstaad",
+    "coordinates": {
+      "lat": 46.4748,
+      "lng": 7.2858
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Gstaad Fat Bike Rental",
+      "pricing": {
+        "child": 25,
+        "student": 38,
+        "adult": 48,
+        "senior": 42
+      },
+      "bookingUrl": "https://www.gstaad.ch",
+      "rating": 4.4,
+      "description": "Half-day fat bike rental"
+    },
+    {
+      "name": "Gstaad Fat Bike Guided Tour",
+      "pricing": {
+        "child": 40,
+        "student": 58,
+        "adult": 72,
+        "senior": 65
+      },
+      "bookingUrl": "https://www.gstaad.ch",
+      "rating": 4.6,
+      "description": "2-hour guided fat bike tour with fondue stop"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1540655037529-dec987e60295?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Tire Width",
+      "value": "4+ inches"
+    },
+    {
+      "label": "Terrain",
+      "value": "Packed snow"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Beginner friendly"
+    },
+    {
+      "label": "Fondue Stop",
+      "value": "Guided tour option"
+    },
+    {
+      "label": "Setting",
+      "value": "Saanenland"
+    }
+  ],
+  "tags": [
+    "fat bike",
+    "cycling",
+    "winter",
+    "gstaad",
+    "snow"
+  ],
+  "featured": false
+}

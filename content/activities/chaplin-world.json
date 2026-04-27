@@ -1,0 +1,71 @@
+{
+  "id": "37",
+  "slug": "chaplin-world",
+  "name": "Chaplin's World",
+  "description": "Interactive museum celebrating Charlie Chaplin in his former lakeside mansion.",
+  "longDescription": "Chaplin's World in Corsier-sur-Vevey is an immersive museum dedicated to Charlie Chaplin, set in his actual mansion where he lived the last 25 years of his life.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Vaud",
+    "canton": "Vaud",
+    "city": "Vevey",
+    "coordinates": {
+      "lat": 46.467,
+      "lng": 6.837
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Chaplin's World",
+      "pricing": {
+        "child": 18,
+        "student": 24,
+        "adult": 32,
+        "senior": 28
+      },
+      "bookingUrl": "https://www.chaplinsworld.com",
+      "rating": 4.6
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e07?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Mansion",
+      "value": "Original Chaplin home"
+    },
+    {
+      "label": "Lived Here",
+      "value": "25 years"
+    },
+    {
+      "label": "Interactive",
+      "value": "Movie sets"
+    },
+    {
+      "label": "Gardens",
+      "value": "14 hectares"
+    },
+    {
+      "label": "Multimedia",
+      "value": "Yes"
+    }
+  ],
+  "tags": [
+    "museum",
+    "chaplin",
+    "film",
+    "interactive",
+    "vevey"
+  ],
+  "featured": false
+}

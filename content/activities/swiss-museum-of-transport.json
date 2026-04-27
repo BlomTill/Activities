@@ -1,0 +1,84 @@
+{
+  "id": "3",
+  "slug": "swiss-museum-of-transport",
+  "name": "Swiss Museum of Transport",
+  "description": "Switzerland's most visited museum with interactive exhibits on transport, communication, and travel.",
+  "longDescription": "Located in Lucerne, the Swiss Museum of Transport is the country's most popular museum. Explore over 3,000 exhibits covering road transport, railways, aviation, and space travel. The museum features a planetarium, a Swiss Chocolate Adventure, a film theatre, and an interactive media world. Perfect for families and anyone fascinated by how Switzerland moves.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Lucerne",
+    "city": "Lucerne",
+    "coordinates": {
+      "lat": 47.0536,
+      "lng": 8.3372
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Verkehrshaus Direct",
+      "pricing": {
+        "child": 15,
+        "student": 25,
+        "adult": 36,
+        "senior": 32
+      },
+      "bookingUrl": "https://www.verkehrshaus.ch",
+      "rating": 4.6,
+      "description": "Official museum tickets"
+    },
+    {
+      "name": "Swiss Museum Pass",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.museumspass.ch",
+      "rating": 4.5,
+      "description": "Free entry with annual Swiss Museum Pass (CHF 166/year)"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1580060839134-2dc0a8f6309e?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Exhibits",
+      "value": "3,000+"
+    },
+    {
+      "label": "Planetarium",
+      "value": "Yes"
+    },
+    {
+      "label": "Area",
+      "value": "20,000m²"
+    },
+    {
+      "label": "Choco Adventure",
+      "value": "Included"
+    },
+    {
+      "label": "IMAX Theatre",
+      "value": "Yes"
+    }
+  ],
+  "tags": [
+    "museum",
+    "family",
+    "interactive",
+    "indoor",
+    "lucerne"
+  ],
+  "featured": false
+}

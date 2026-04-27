@@ -1,0 +1,71 @@
+{
+  "id": "109",
+  "slug": "alpamare-water-park",
+  "name": "Alpamare Water Park Pfäffikon",
+  "description": "Switzerland's legendary indoor water park with slides, wave pool, and thermal baths.",
+  "longDescription": "Alpamare in Pfäffikon on Lake Zurich is a legendary Swiss water park featuring thrilling water slides, a wave pool, warm outdoor pools, and thermal baths with iodine-rich water from its own spring. Panoramic views of Lake Zurich and the Alps.",
+  "category": "family",
+  "subcategory": "Water Park",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Schwyz",
+    "city": "Pfäffikon",
+    "coordinates": {
+      "lat": 47.2068,
+      "lng": 8.7806
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Alpamare",
+      "pricing": {
+        "child": 29,
+        "student": 39,
+        "adult": 49,
+        "senior": 42
+      },
+      "bookingUrl": "https://www.alpamare.ch",
+      "rating": 4.3
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1527525443983-6e60c75fff46?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slides",
+      "value": "Multiple thrill rides"
+    },
+    {
+      "label": "Wave Pool",
+      "value": "Indoor"
+    },
+    {
+      "label": "Thermal",
+      "value": "Iodine spring water"
+    },
+    {
+      "label": "Views",
+      "value": "Lake Zurich + Alps"
+    },
+    {
+      "label": "Indoor",
+      "value": "Year-round"
+    }
+  ],
+  "tags": [
+    "water park",
+    "slides",
+    "thermal",
+    "family",
+    "indoor"
+  ],
+  "featured": false
+}

@@ -1,0 +1,96 @@
+{
+  "id": "14",
+  "slug": "glacier-express",
+  "name": "Glacier Express",
+  "description": "The world's slowest express train — 8 hours of panoramic Swiss alpine scenery.",
+  "longDescription": "The Glacier Express is the world's most famous panoramic train ride, connecting Zermatt to St. Moritz in approximately 8 hours. Cross 291 bridges, pass through 91 tunnels, and traverse the Oberalp Pass at 2,033 meters. The panoramic windows offer unobstructed views of dramatic gorges, lush valleys, and towering peaks.",
+  "category": "outdoor",
+  "subcategory": "Scenic Railway",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Zermatt",
+    "coordinates": {
+      "lat": 46.0207,
+      "lng": 7.7491
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Glacier Express (2nd Class)",
+      "pricing": {
+        "child": 79,
+        "student": 120,
+        "adult": 158,
+        "senior": 142
+      },
+      "bookingUrl": "https://www.glacierexpress.ch",
+      "rating": 4.7,
+      "description": "2nd class panoramic seat with reservation"
+    },
+    {
+      "name": "Glacier Express (1st Class)",
+      "pricing": {
+        "child": 135,
+        "student": 198,
+        "adult": 278,
+        "senior": 250
+      },
+      "bookingUrl": "https://www.glacierexpress.ch",
+      "rating": 4.8,
+      "description": "1st class with wider seats, included 3-course lunch"
+    },
+    {
+      "name": "Glacier Express (Excellence Class)",
+      "pricing": {
+        "child": 0,
+        "student": 420,
+        "adult": 420,
+        "senior": 420
+      },
+      "bookingUrl": "https://www.glacierexpress.ch",
+      "rating": 4.9,
+      "description": "Premium lounge car with 5-course meal, unlimited drinks, concierge"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "8 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Route",
+      "value": "Zermatt-St.Moritz"
+    },
+    {
+      "label": "Bridges",
+      "value": "291"
+    },
+    {
+      "label": "Tunnels",
+      "value": "91"
+    },
+    {
+      "label": "Max Altitude",
+      "value": "2,033m"
+    },
+    {
+      "label": "Journey",
+      "value": "~8 hours"
+    }
+  ],
+  "tags": [
+    "train",
+    "scenic",
+    "panoramic",
+    "alps",
+    "iconic"
+  ],
+  "featured": true
+}

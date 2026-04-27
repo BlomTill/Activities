@@ -1,0 +1,68 @@
+{
+  "id": "75",
+  "slug": "rope-jumping-stockhorn",
+  "name": "Rope Jumping Stockhorn",
+  "description": "Jump 130 meters from the Stockhorn cliff — a unique Swiss extreme sport experience.",
+  "longDescription": "Rope jumping from the Stockhorn cliff near Interlaken involves leaping from a 130-meter cliff face while attached to a dynamic rope — like bungee but from a cliff rather than a bridge.",
+  "category": "adventure",
+  "subcategory": "Extreme Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Interlaken",
+    "coordinates": {
+      "lat": 46.69,
+      "lng": 7.85
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Outdoor Interlaken",
+      "pricing": {
+        "child": 0,
+        "student": 165,
+        "adult": 195,
+        "senior": 195
+      },
+      "bookingUrl": "https://www.outdoor-interlaken.ch",
+      "rating": 4.8
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Height",
+      "value": "130m"
+    },
+    {
+      "label": "Min Age",
+      "value": "14 years"
+    },
+    {
+      "label": "Equipment",
+      "value": "All included"
+    },
+    {
+      "label": "Experience",
+      "value": "Not needed"
+    },
+    {
+      "label": "Type",
+      "value": "Dynamic rope"
+    }
+  ],
+  "tags": [
+    "rope jumping",
+    "extreme",
+    "cliff",
+    "adrenaline"
+  ],
+  "featured": false
+}

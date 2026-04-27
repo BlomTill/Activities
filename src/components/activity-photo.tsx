@@ -1,8 +1,9 @@
 "use client";
 
+import { useState } from "react";
 import Image from "next/image";
 import { cn } from "@/lib/utils";
-import { formatCredit, resolveActivityImage } from "@/lib/images";
+import { buildFallbackChain, formatCredit, resolveActivityImage } from "@/lib/images";
 import type { Activity } from "@/lib/types";
 
 interface ActivityPhotoProps {
@@ -22,8 +23,14 @@ interface ActivityPhotoProps {
 
 /**
  * Drop-in replacement for raw <Image> usage around activity photos.
+ *
  * Uses resolveActivityImage() to pick the best available source and
- * renders a discreet credit line when showCredit is true.
+ * cascades through buildFallbackChain() client-side if the chosen URL
+ * fails to load (404, slow CDN, etc.) — so you always see a relevant
+ * photo, never a broken image icon.
+ *
+ * Renders a discreet credit line when showCredit is true (required by
+ * Wikimedia CC licences).
  */
 export function ActivityPhoto({
   activity,
@@ -35,7 +42,17 @@ export function ActivityPhoto({
   fill = true,
 }: ActivityPhotoProps) {
   const resolved = resolveActivityImage(activity);
+  const fallbacks = buildFallbackChain(activity);
+  // Track which fallback we're currently showing (0 = best/resolved)
+  const [srcIndex, setSrcIndex] = useState(0);
+
+  const currentSrc = fallbacks[srcIndex] ?? resolved.src;
   const credit = showCredit ? formatCredit(resolved.credit) : null;
+
+  function handleError() {
+    // Silently advance to the next URL in the chain
+    setSrcIndex((i) => Math.min(i + 1, fallbacks.length - 1));
+  }
 
   return (
     <div
@@ -50,14 +67,16 @@ export function ActivityPhoto({
       )}
     >
       <Image
-        src={resolved.src}
+        src={currentSrc}
         alt={resolved.alt}
         fill={fill}
         sizes={sizes}
         priority={priority}
+        onError={handleError}
         className="object-cover transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-[1.04]"
       />
-      {credit && (
+      {credit && srcIndex === 0 && (
+        // Only show credit for the highest-quality source (Wikipedia)
         <div className="pointer-events-none absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent p-2 text-right">
           <span className="pointer-events-auto inline-block rounded-md bg-black/40 px-2 py-0.5 text-[10px] font-medium text-white/90 backdrop-blur-sm">
             {resolved.credit?.sourceUrl ? (

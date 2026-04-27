@@ -1,0 +1,70 @@
+{
+  "id": "36",
+  "slug": "lake-oeschinen",
+  "name": "Lake Oeschinen",
+  "description": "A turquoise alpine lake surrounded by towering peaks — hike, swim, or take a boat.",
+  "longDescription": "Lake Oeschinen near Kandersteg is one of Switzerland's most beautiful mountain lakes. A UNESCO World Heritage Site with turquoise waters at 1,578m surrounded by dramatic peaks.",
+  "category": "outdoor",
+  "subcategory": "Lake",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Kandersteg",
+    "coordinates": {
+      "lat": 46.4975,
+      "lng": 7.7241
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Oeschinensee Gondola",
+      "pricing": {
+        "child": 12,
+        "student": 18,
+        "adult": 24,
+        "senior": 22
+      },
+      "bookingUrl": "https://www.oeschinensee.ch",
+      "rating": 4.8,
+      "description": "Round-trip gondola + free lake access"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Altitude",
+      "value": "1,578m"
+    },
+    {
+      "label": "UNESCO",
+      "value": "World Heritage"
+    },
+    {
+      "label": "Water Color",
+      "value": "Turquoise"
+    },
+    {
+      "label": "Swimming",
+      "value": "Summer"
+    },
+    {
+      "label": "Rowboats",
+      "value": "Available"
+    }
+  ],
+  "tags": [
+    "lake",
+    "swimming",
+    "hiking",
+    "UNESCO",
+    "mountains"
+  ],
+  "featured": false
+}

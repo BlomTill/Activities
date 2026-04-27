@@ -1,0 +1,89 @@
+{
+  "id": "54",
+  "slug": "rafting-interlaken",
+  "name": "White Water Rafting Interlaken",
+  "description": "Navigate thrilling rapids on the Lütschine river through the Bernese Oberland.",
+  "longDescription": "White water rafting on the glacial Lütschine river offers Class III-IV rapids surrounded by stunning mountain scenery. Full safety briefing and equipment provided.",
+  "category": "adventure",
+  "subcategory": "Water Sports",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Interlaken",
+    "coordinates": {
+      "lat": 46.6863,
+      "lng": 7.8632
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Outdoor Interlaken",
+      "pricing": {
+        "child": 80,
+        "student": 95,
+        "adult": 110,
+        "senior": 110
+      },
+      "bookingUrl": "https://www.outdoor-interlaken.ch",
+      "rating": 4.7
+    },
+    {
+      "name": "Alpin Raft",
+      "pricing": {
+        "child": 75,
+        "student": 90,
+        "adult": 105,
+        "senior": 105
+      },
+      "bookingUrl": "https://www.alpinraft.ch",
+      "rating": 4.6
+    },
+    {
+      "name": "SwissRaft",
+      "pricing": {
+        "child": 70,
+        "student": 85,
+        "adult": 99,
+        "senior": 99
+      },
+      "bookingUrl": "https://www.swissraft.ch",
+      "rating": 4.5
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Rapids",
+      "value": "Class III-IV"
+    },
+    {
+      "label": "Min Age",
+      "value": "12 years"
+    },
+    {
+      "label": "Equipment",
+      "value": "All included"
+    },
+    {
+      "label": "River",
+      "value": "Lütschine"
+    },
+    {
+      "label": "Providers",
+      "value": "3 operators"
+    }
+  ],
+  "tags": [
+    "rafting",
+    "water",
+    "rapids",
+    "adventure"
+  ],
+  "featured": false
+}

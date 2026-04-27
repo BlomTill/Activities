@@ -1,0 +1,81 @@
+{
+  "id": "48",
+  "slug": "snowshoe-hiking-engadin",
+  "name": "Snowshoe Hiking in the Engadin",
+  "description": "Guided snowshoe hikes through silent, snowy forests and frozen landscapes.",
+  "longDescription": "Snowshoe hiking in the Engadin valley offers a serene way to experience the Swiss winter through snow-laden forests, across frozen lakes, and along panoramic ridges.",
+  "category": "outdoor",
+  "subcategory": "Snowshoeing",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "St. Moritz",
+    "coordinates": {
+      "lat": 46.4908,
+      "lng": 9.8355
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Engadin Outdoor",
+      "pricing": {
+        "child": 25,
+        "student": 40,
+        "adult": 55,
+        "senior": 48
+      },
+      "bookingUrl": "https://www.engadin.ch",
+      "rating": 4.5,
+      "description": "Half-day guided tour with equipment"
+    },
+    {
+      "name": "Mountain Reality",
+      "pricing": {
+        "child": 30,
+        "student": 48,
+        "adult": 65,
+        "senior": 55
+      },
+      "bookingUrl": "https://www.mountainreality.ch",
+      "rating": 4.7,
+      "description": "Full-day tour with fondue lunch in mountain hut"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Equipment",
+      "value": "All included"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Easy-Moderate"
+    },
+    {
+      "label": "Trail Options",
+      "value": "Multiple"
+    },
+    {
+      "label": "Fondue Lunch",
+      "value": "Full-day option"
+    },
+    {
+      "label": "Winter Only",
+      "value": "Dec-Mar"
+    }
+  ],
+  "tags": [
+    "snowshoe",
+    "hiking",
+    "winter",
+    "nature",
+    "guided"
+  ],
+  "featured": false
+}

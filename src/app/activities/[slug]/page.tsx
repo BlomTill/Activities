@@ -8,7 +8,7 @@ import { MapPin, Clock, Star, ExternalLink, Calendar, Home, Scale, Check, Users,
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { getActivityBySlug, activities } from "@/data/activities";
+import { getActivityBySlug, activities } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { useComparison } from "@/context/comparison-context";
 import { AGE_GROUPS } from "@/lib/constants";
@@ -19,9 +19,13 @@ import { SBBEstimator } from "@/components/sbb-estimator";
 import { ActivityJsonLd, BreadcrumbJsonLd } from "@/components/json-ld";
 import { getBestPrice, getAverageRating, getCheapestProvider, getBestRatedProvider } from "@/lib/types";
 import { cn } from "@/lib/utils";
-import { getAffiliateUrl } from "@/lib/affiliate";
+import { AffiliateLink } from "@/components/affiliate-link";
 import { getPlannerBudgetHint, getProviderRecommendation, getRecommendedTripDays } from "@/lib/trip-tools";
 import { RecentlyViewed, saveRecentlyViewedActivity } from "@/components/recently-viewed";
+import { buildFallbackChain, formatCredit, resolveActivityImage } from "@/lib/images";
+import { AffiliateDisclosure } from "@/components/affiliate-disclosure";
+import { getMarketplaceLinks } from "@/lib/marketplace";
+import { AFFILIATE_REL, trackAffiliateClick } from "@/lib/affiliate";
 
 function getCategoryColor(category: string) {
   const colors: Record<string, string> = {
@@ -36,6 +40,116 @@ function getCategoryColor(category: string) {
 
 type ActivityTab = "providers" | "planning" | "details";
 
+/** Gallery thumbnail with its own onError fallback state. */
+function GalleryThumb({ src, fallback, label }: { src: string; fallback: string[]; label: string }) {
+  const chain = [src, ...fallback].filter((v, i, a) => a.indexOf(v) === i);
+  const [idx, setIdx] = useState(0);
+  return (
+    <div className="relative h-20 w-32 flex-shrink-0 overflow-hidden rounded-lg bg-gray-200">
+      <Image
+        src={chain[idx] ?? src}
+        alt={label}
+        fill
+        className="object-cover"
+        sizes="128px"
+        onError={() => setIdx((i) => Math.min(i + 1, chain.length - 1))}
+      />
+    </div>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────────
+ *  MarketplacePanel
+ *  Shows Switzerland-scoped search links for all marketplace partners
+ *  (GetYourGuide, Viator, Musement, Civitatis) so users can cross-check
+ *  availability and pricing across platforms.
+ * ────────────────────────────────────────────────────────────────── */
+function MarketplacePanel({ activity }: { activity: import("@/lib/types").Activity }) {
+  const links = getMarketplaceLinks(activity);
+  if (links.length === 0) return null;
+
+  // Partner-brand colours for the badges (fallback to gray)
+  const BRAND_COLORS: Record<string, string> = {
+    getyourguide: "bg-orange-500 text-white",
+    viator:       "bg-emerald-600 text-white",
+    musement:     "bg-sky-500 text-white",
+    civitatis:    "bg-violet-600 text-white",
+  };
+
+  return (
+    <div className="mt-8 rounded-2xl border border-gray-100 bg-gray-50 p-6">
+      {/* Header */}
+      <div className="flex flex-wrap items-start justify-between gap-2 mb-4">
+        <div>
+          <h3 className="font-semibold text-gray-900 text-base">
+            Also check across platforms
+          </h3>
+          <p className="mt-0.5 text-xs text-gray-500">
+            Each link opens a Switzerland-filtered search for{" "}
+            <span className="font-medium text-gray-700">{activity.name}</span>{" "}
+            on that marketplace. Prices and availability may differ.
+          </p>
+        </div>
+        <span className="text-[10px] uppercase tracking-wider text-gray-400 font-medium">
+          Affiliate links ·{" "}
+          <Link href="/partners" className="underline-offset-2 hover:underline">
+            disclosure
+          </Link>
+        </span>
+      </div>
+
+      {/* Grid of marketplace buttons */}
+      <div className="grid gap-3 sm:grid-cols-2">
+        {links.map(({ partner, url, label }) => (
+          <a
+            key={partner.id}
+            href={url}
+            target="_blank"
+            rel={AFFILIATE_REL}
+            onClick={() =>
+              trackAffiliateClick(url, {
+                slot: "activity-detail-provider",
+                slug: activity.slug,
+                providerName: partner.name,
+              })
+            }
+            className="group flex items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-3 transition-all hover:border-gray-300 hover:shadow-md"
+          >
+            <div className="flex items-center gap-3">
+              <span
+                className={cn(
+                  "rounded-md px-2 py-0.5 text-[11px] font-semibold tracking-wide",
+                  BRAND_COLORS[partner.id] ?? "bg-gray-200 text-gray-700"
+                )}
+              >
+                {partner.name}
+              </span>
+              <span className="text-sm text-gray-600">{label}</span>
+            </div>
+            <ExternalLink className="h-3.5 w-3.5 text-gray-400 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+          </a>
+        ))}
+      </div>
+
+      {/* Commission info — one-liner per partner */}
+      <details className="mt-4 text-xs text-gray-400 cursor-pointer">
+        <summary className="hover:text-gray-600 transition-colors select-none">
+          Why are these platforms shown? (commission rates)
+        </summary>
+        <ul className="mt-2 space-y-1 pl-2 border-l border-gray-200">
+          {links.map(({ partner }) => (
+            <li key={partner.id}>
+              <span className="font-medium text-gray-600">{partner.name}</span>
+              {" — "}
+              {partner.commissionRate} commission · {partner.disclosure}
+            </li>
+          ))}
+        </ul>
+      </details>
+    </div>
+  );
+}
+
 export default function ActivityDetailPage() {
   const params = useParams();
   const activity = getActivityBySlug(params.slug as string);
@@ -43,9 +157,20 @@ export default function ActivityDetailPage() {
   const { addToComparison, removeFromComparison, isInComparison } = useComparison();
   const [activeTab, setActiveTab] = useState<ActivityTab>("providers");
 
+  // ── Hero image with client-side fallback cascade ──────────────────
+  // We resolve the best image at render time, then fall through the
+  // chain if any URL fails to load (404, slow CDN, etc.)
+  const heroFallbacks = activity ? buildFallbackChain(activity) : [];
+  const heroResolved = activity ? resolveActivityImage(activity) : null;
+  const [heroSrcIndex, setHeroSrcIndex] = useState(0);
+  const heroSrc = heroFallbacks[heroSrcIndex] ?? heroResolved?.src ?? "";
+  const heroCredit = heroResolved ? formatCredit(heroResolved.credit) : null;
+
   useEffect(() => {
     if (!activity) return;
     saveRecentlyViewedActivity(activity.id);
+    // Reset hero src index when navigating to a new activity
+    setHeroSrcIndex(0);
   }, [activity]);
 
   if (!activity) {
@@ -91,7 +216,16 @@ export default function ActivityDetailPage() {
       <div className="grid gap-8 lg:grid-cols-3">
         <div className="lg:col-span-2">
           <div className="relative aspect-[16/9] overflow-hidden rounded-2xl bg-gray-200 mb-4">
-            <Image src={activity.imageUrl} alt={activity.name} fill className="object-cover" sizes="(max-width: 1024px) 100vw, 66vw" priority />
+            {/* Hero image — uses the full resolver chain with client-side onError cascade */}
+            <Image
+              src={heroSrc}
+              alt={activity.name}
+              fill
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 66vw"
+              priority
+              onError={() => setHeroSrcIndex((i) => Math.min(i + 1, heroFallbacks.length - 1))}
+            />
             <div className="absolute inset-0 bg-gradient-to-t from-slate-950/45 to-transparent" />
             <div className="absolute top-4 left-4 flex gap-2 z-10">
               <Badge className={cn("text-sm", getCategoryColor(activity.category))}>{activity.category}</Badge>
@@ -108,13 +242,23 @@ export default function ActivityDetailPage() {
                 <p className="mt-1 text-2xl font-bold text-gray-900">{bestPrice === 0 ? "Free" : `CHF ${bestPrice}`}</p>
               </div>
             </div>
+            {/* Photo credit (CC licence attribution) — only for Wikipedia-sourced images */}
+            {heroCredit && heroResolved?.source === "wikipedia" && heroSrcIndex === 0 && (
+              <div className="pointer-events-none absolute top-4 right-4 z-10">
+                <span className="pointer-events-auto inline-block rounded-md bg-black/40 px-2 py-0.5 text-[10px] font-medium text-white/80 backdrop-blur-sm">
+                  {heroResolved.credit?.sourceUrl ? (
+                    <a href={heroResolved.credit.sourceUrl} target="_blank" rel="noopener nofollow" className="hover:underline">
+                      {heroCredit}
+                    </a>
+                  ) : heroCredit}
+                </span>
+              </div>
+            )}
           </div>
           {activity.gallery && activity.gallery.length > 1 && (
             <div className="flex gap-2 mb-6 overflow-x-auto">
               {activity.gallery.map((img, i) => (
-                <div key={i} className="relative h-20 w-32 flex-shrink-0 overflow-hidden rounded-lg bg-gray-200">
-                  <Image src={img} alt={`${activity.name} ${i + 1}`} fill className="object-cover" sizes="128px" />
-                </div>
+                <GalleryThumb key={i} src={img} fallback={heroFallbacks} label={`${activity.name} ${i + 1}`} />
               ))}
             </div>
           )}
@@ -212,11 +356,17 @@ export default function ActivityDetailPage() {
                                 </p>
                                 <p className="text-xs capitalize text-gray-400">per {ageGroup}</p>
                               </div>
-                              <a href={getAffiliateUrl(provider.bookingUrl)} target="_blank" rel="noopener noreferrer">
+                              <AffiliateLink
+                                href={provider.bookingUrl}
+                                slot="activity-detail-provider"
+                                slug={activity.slug}
+                                providerName={provider.name}
+                                priceChf={provider.pricing[ageGroup]}
+                              >
                                 <Button className="gap-1.5 bg-red-600 hover:bg-red-700" size="sm">
                                   Book <ExternalLink className="h-3.5 w-3.5" />
                                 </Button>
-                              </a>
+                              </AffiliateLink>
                             </div>
                           </div>
                           <div className="mt-4 grid grid-cols-4 gap-2">
@@ -239,6 +389,9 @@ export default function ActivityDetailPage() {
                       );
                     })}
                 </div>
+
+                {/* ── Marketplace comparison panel ──────────────────────── */}
+                <MarketplacePanel activity={activity} />
               </div>
             )}
 
@@ -329,6 +482,7 @@ export default function ActivityDetailPage() {
                 <p className="mt-1 font-semibold text-gray-900">{recommendedProvider.provider.name}</p>
                 <p className="mt-1 text-sm text-gray-600">{recommendedProvider.reason}</p>
               </div>
+              <AffiliateDisclosure />
               <div className="grid grid-cols-2 gap-3 text-sm">
                 <div className="rounded-xl bg-gray-50 p-3">
                   <p className="text-gray-400">Best price</p>
@@ -348,11 +502,18 @@ export default function ActivityDetailPage() {
           </Card>
 
           <div className="space-y-3">
-            <a href={getAffiliateUrl(cheapest.bookingUrl)} target="_blank" rel="noopener noreferrer" className="block">
+            <AffiliateLink
+              href={cheapest.bookingUrl}
+              slot="activity-detail-cta"
+              slug={activity.slug}
+              providerName={cheapest.name}
+              priceChf={cheapest.pricing[ageGroup]}
+              className="block"
+            >
               <Button className="w-full bg-red-600 hover:bg-red-700 gap-2" size="lg">
                 <ExternalLink className="h-4 w-4" /> Book Best Price
               </Button>
-            </a>
+            </AffiliateLink>
             <Link href={plannerHref} className="block">
               <Button variant="outline" className="w-full gap-2">
                 <Calendar className="h-4 w-4" /> Add to Trip Planner
@@ -365,6 +526,7 @@ export default function ActivityDetailPage() {
             >
               {inComparison ? <><Check className="h-4 w-4" /> Added to Compare</> : <><Scale className="h-4 w-4" /> Add to Compare</>}
             </Button>
+            <AffiliateDisclosure />
           </div>
 
           <Card>

@@ -1,0 +1,75 @@
+{
+  "id": "147",
+  "slug": "klontalersee",
+  "name": "Klöntalersee",
+  "description": "A serene alpine lake in canton Glarus with turquoise waters, free access, and mountain backdrop.",
+  "longDescription": "Klöntalersee is a beautiful alpine lake in the Klöntal valley of canton Glarus. The turquoise-green waters reflect the surrounding Glärnisch massif. A popular but uncrowded spot for swimming, fishing, and walking, with free shore access and car-free zones.",
+  "category": "outdoor",
+  "subcategory": "Lake",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "Glarus",
+    "city": "Glarus",
+    "coordinates": {
+      "lat": 47.023,
+      "lng": 8.97
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free Public Access",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.glarus.ch",
+      "rating": 4.6
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1580137189272-c9379f8864fd?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Water Color",
+      "value": "Turquoise-green"
+    },
+    {
+      "label": "Mountain",
+      "value": "Glärnisch massif"
+    },
+    {
+      "label": "Free",
+      "value": "Public access"
+    },
+    {
+      "label": "Activities",
+      "value": "Swimming + fishing"
+    },
+    {
+      "label": "Canton",
+      "value": "Glarus"
+    }
+  ],
+  "tags": [
+    "lake",
+    "free",
+    "swimming",
+    "glarus",
+    "nature"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Activity",
+    "validUntil": "2026-12-31"
+  }
+}

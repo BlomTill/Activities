@@ -1,0 +1,69 @@
+{
+  "id": "119",
+  "slug": "augusta-raurica-roman-festival",
+  "name": "Augusta Raurica Roman Festival",
+  "description": "Annual living history festival bringing Roman times to life with gladiators, crafts, and feasts.",
+  "longDescription": "Every August, Augusta Raurica hosts Switzerland's largest Roman festival. Over 1,000 re-enactors bring the ancient city to life with gladiator fights, legionary drills, Roman cooking demonstrations, chariot displays, and artisan crafts. A spectacular immersive history experience.",
+  "category": "culture",
+  "subcategory": "Festival",
+  "location": {
+    "region": "Basel Region",
+    "canton": "Basel-Landschaft",
+    "city": "Augst",
+    "coordinates": {
+      "lat": 47.5347,
+      "lng": 7.7183
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Roman Festival Entry",
+      "pricing": {
+        "child": 0,
+        "student": 8,
+        "adult": 12,
+        "senior": 10
+      },
+      "bookingUrl": "https://www.augustaraurica.ch",
+      "rating": 4.6,
+      "description": "Weekend festival pass"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-8 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Re-enactors",
+      "value": "1,000+"
+    },
+    {
+      "label": "Gladiators",
+      "value": "Live combat"
+    },
+    {
+      "label": "When",
+      "value": "August annually"
+    },
+    {
+      "label": "Crafts",
+      "value": "Roman artisan demos"
+    },
+    {
+      "label": "Basel-Landschaft",
+      "value": "Augst"
+    }
+  ],
+  "tags": [
+    "festival",
+    "roman",
+    "history",
+    "gladiator",
+    "basel-landschaft"
+  ],
+  "featured": false
+}

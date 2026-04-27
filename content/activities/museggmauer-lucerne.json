@@ -1,0 +1,76 @@
+{
+  "id": "104",
+  "slug": "museggmauer-lucerne",
+  "name": "Museggmauer Walk Lucerne",
+  "description": "Walk along Lucerne's medieval fortification wall and climb its nine towers for free.",
+  "longDescription": "The Museggmauer is Lucerne's remarkably well-preserved medieval city wall dating from the 14th century. Walk along the top of the ramparts and climb three of its nine towers — including the Zytturm with the city's oldest clock (which chimes one minute before all others in town).",
+  "category": "culture",
+  "subcategory": "Historical Site",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Lucerne",
+    "city": "Lucerne",
+    "coordinates": {
+      "lat": 47.052,
+      "lng": 8.3032
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Free Access",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.luzern.com",
+      "rating": 4.5,
+      "description": "Free walk — open Apr to Nov"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-1.5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Built",
+      "value": "14th century"
+    },
+    {
+      "label": "Towers",
+      "value": "9 (3 climbable)"
+    },
+    {
+      "label": "Zytturm",
+      "value": "Oldest city clock"
+    },
+    {
+      "label": "Free",
+      "value": "Public access"
+    },
+    {
+      "label": "Length",
+      "value": "870m wall"
+    }
+  ],
+  "tags": [
+    "medieval",
+    "wall",
+    "tower",
+    "lucerne",
+    "free"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Activity",
+    "validUntil": "2026-12-31"
+  }
+}

@@ -7,7 +7,7 @@ import { Wallet, Sparkles, ArrowRight, Train } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { ActivityCard } from "@/components/activity-card";
-import { activities } from "@/data/activities";
+import { activities } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { AGE_GROUPS } from "@/lib/constants";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";

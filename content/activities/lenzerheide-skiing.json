@@ -1,0 +1,68 @@
+{
+  "id": "77",
+  "slug": "lenzerheide-skiing",
+  "name": "Lenzerheide Skiing",
+  "description": "Sun-drenched ski area with 155km of slopes connected to Arosa in the heart of Graubünden.",
+  "longDescription": "The Arosa Lenzerheide ski area offers 155km of perfectly groomed slopes across two resorts connected by the Urdenbahn aerial tramway. Known for excellent sunshine hours and varied terrain from gentle nursery slopes to challenging black runs.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Lenzerheide",
+    "coordinates": {
+      "lat": 46.73,
+      "lng": 9.56
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Arosa Lenzerheide Bergbahnen",
+      "pricing": {
+        "child": 35,
+        "student": 55,
+        "adult": 72,
+        "senior": 61
+      },
+      "bookingUrl": "https://www.arosalenzerheide.swiss",
+      "rating": 4.6
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slopes",
+      "value": "155 km"
+    },
+    {
+      "label": "Lifts",
+      "value": "43"
+    },
+    {
+      "label": "Summit",
+      "value": "2,865m"
+    },
+    {
+      "label": "Connected",
+      "value": "Arosa–Lenzerheide"
+    },
+    {
+      "label": "Sunshine",
+      "value": "Above average"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "winter",
+    "graubünden",
+    "sun",
+    "family"
+  ],
+  "featured": false
+}

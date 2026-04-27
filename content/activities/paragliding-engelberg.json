@@ -1,0 +1,71 @@
+{
+  "id": "129",
+  "slug": "paragliding-engelberg",
+  "name": "Paragliding Engelberg",
+  "description": "Tandem paraglide from Brunni or Titlis with views of snow-capped peaks and alpine valleys.",
+  "longDescription": "Soar above the Engelberg valley on a tandem paragliding flight with a certified pilot. Launch from Brunni or Titlis and glide over emerald meadows, alpine lakes, and snow-capped peaks. No experience needed — your pilot handles everything while you enjoy the views.",
+  "category": "adventure",
+  "subcategory": "Air Sports",
+  "location": {
+    "region": "Central Switzerland",
+    "canton": "Obwalden",
+    "city": "Engelberg",
+    "coordinates": {
+      "lat": 46.8197,
+      "lng": 8.4073
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Paragliding Engelberg",
+      "pricing": {
+        "child": 0,
+        "student": 150,
+        "adult": 180,
+        "senior": 180
+      },
+      "bookingUrl": "https://www.paragliding-engelberg.ch",
+      "rating": 4.8,
+      "description": "Tandem flight with photos/video"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Flight Time",
+      "value": "15-25 min"
+    },
+    {
+      "label": "Launch",
+      "value": "Brunni or Titlis"
+    },
+    {
+      "label": "Experience",
+      "value": "Not needed"
+    },
+    {
+      "label": "Photos",
+      "value": "Included"
+    },
+    {
+      "label": "Min Age",
+      "value": "5 years"
+    }
+  ],
+  "tags": [
+    "paragliding",
+    "adventure",
+    "engelberg",
+    "flying",
+    "tandem"
+  ],
+  "featured": false
+}

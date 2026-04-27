@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ActivityCard } from "@/components/activity-card";
 import { RecentlyViewed } from "@/components/recently-viewed";
-import { activities } from "@/data/activities";
+import { activities } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
 import { CATEGORIES, REGIONS } from "@/lib/constants";
@@ -126,27 +126,27 @@ function ActivitiesContent() {
       <div className="surface-panel mb-8 overflow-hidden p-6">
         <div className="grid gap-6 lg:grid-cols-[1.1fr_0.9fr] lg:items-end">
           <div>
-            <div className="flex items-center gap-2 text-sm font-medium text-red-600">
+            <div className="flex items-center gap-2 text-sm font-medium text-[#c4973a]">
               <Sparkles className="h-4 w-4" />
               Explore smarter
             </div>
-            <h1 className="mt-2 text-3xl font-bold text-gray-900 md:text-4xl">All Activities</h1>
-            <p className="mt-3 max-w-2xl text-gray-500">
+            <h1 className="mt-2 text-3xl font-bold text-[#ede8df] md:text-4xl">All Activities</h1>
+            <p className="mt-3 max-w-2xl text-[#9a9187]">
               Browse with fewer decisions at once: search first, then open filters only if you need to narrow the list.
             </p>
           </div>
           <div className="grid gap-3 sm:grid-cols-3">
-            <div className="rounded-2xl bg-gray-50 p-4">
-              <p className="text-xs uppercase tracking-wide text-gray-400">Results</p>
-              <p className="mt-2 text-2xl font-bold text-gray-900">{filtered.length}</p>
+            <div className="rounded-2xl bg-[#1e1b17] p-4">
+              <p className="text-xs uppercase tracking-wide text-[#9a9187]">Results</p>
+              <p className="mt-2 text-2xl font-bold text-[#ede8df]">{filtered.length}</p>
             </div>
-            <div className="rounded-2xl bg-gray-50 p-4">
-              <p className="text-xs uppercase tracking-wide text-gray-400">Filters</p>
-              <p className="mt-2 text-2xl font-bold text-gray-900">{activeFilterCount}</p>
+            <div className="rounded-2xl bg-[#1e1b17] p-4">
+              <p className="text-xs uppercase tracking-wide text-[#9a9187]">Filters</p>
+              <p className="mt-2 text-2xl font-bold text-[#ede8df]">{activeFilterCount}</p>
             </div>
-            <div className="rounded-2xl bg-gray-50 p-4">
-              <p className="text-xs uppercase tracking-wide text-gray-400">Season</p>
-              <p className="mt-2 text-lg font-bold text-gray-900">
+            <div className="rounded-2xl bg-[#1e1b17] p-4">
+              <p className="text-xs uppercase tracking-wide text-[#9a9187]">Season</p>
+              <p className="mt-2 text-lg font-bold text-[#ede8df]">
                 {showCurrentSeason && !selectedSeason ? getSeasonLabel(currentSeason) : selectedSeason ? getSeasonLabel(selectedSeason) : "All"}
               </p>
             </div>
@@ -161,7 +161,7 @@ function ActivitiesContent() {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search activities, regions, categories, or cities..."
-            className="h-12 rounded-2xl border-white bg-white/90 pl-10 text-gray-900 shadow-sm"
+            className="h-12 rounded-2xl border-[#2a261f] bg-[#131210] pl-10 text-[#ede8df] placeholder:text-[#9a9187] shadow-sm"
           />
         </div>
         <div className="flex gap-2">
@@ -181,7 +181,7 @@ function ActivitiesContent() {
           <select
             value={sortBy}
             onChange={(e) => setSortBy(e.target.value as typeof sortBy)}
-            className="rounded-2xl border border-gray-200 bg-white px-3 py-2 text-sm shadow-sm"
+            className="rounded-2xl border border-[#2a261f] bg-[#131210] px-3 py-2 text-sm text-[#ede8df] shadow-sm"
           >
             <option value="rating">Top Rated</option>
             <option value="price-asc">Price: Low to High</option>
@@ -193,17 +193,17 @@ function ActivitiesContent() {
 
       {/* Filters Panel */}
       {showFilters && (
-        <div className="mb-6 rounded-[28px] border bg-white p-6 shadow-sm space-y-5">
+        <div className="mb-6 rounded-[28px] border border-[#2a261f] bg-[#131210] p-6 shadow-sm space-y-5">
           <div className="flex items-center justify-between">
-            <h3 className="font-semibold">Filters</h3>
-            <Button variant="ghost" size="sm" onClick={clearFilters} className="text-xs text-gray-500">
+            <h3 className="font-semibold text-[#ede8df]">Filters</h3>
+            <Button variant="ghost" size="sm" onClick={clearFilters} className="text-xs text-[#9a9187]">
               Clear all
             </Button>
           </div>
 
           {/* Season Toggle */}
           <div>
-            <p className="text-sm font-medium text-gray-700 mb-2">Season</p>
+            <p className="text-sm font-medium text-[#b0a898] mb-2">Season</p>
             <div className="flex flex-wrap gap-2">
               <Button
                 variant={showCurrentSeason && !selectedSeason ? "default" : "outline"}
@@ -246,7 +246,7 @@ function ActivitiesContent() {
 
           {/* Category */}
           <div>
-            <p className="text-sm font-medium text-gray-700 mb-2">Category</p>
+            <p className="text-sm font-medium text-[#b0a898] mb-2">Category</p>
             <div className="flex flex-wrap gap-2">
               {CATEGORIES.map((cat) => (
                 <Button
@@ -264,7 +264,7 @@ function ActivitiesContent() {
 
           {/* Region */}
           <div>
-            <p className="text-sm font-medium text-gray-700 mb-2">Region</p>
+            <p className="text-sm font-medium text-[#b0a898] mb-2">Region</p>
             <div className="flex flex-wrap gap-2">
               {REGIONS.map((region) => (
                 <Button
@@ -283,7 +283,7 @@ function ActivitiesContent() {
 
           {/* Indoor / Price */}
           <div className="flex flex-wrap gap-4">
-            <label className="flex items-center gap-2 text-sm">
+            <label className="flex items-center gap-2 text-sm text-[#b0a898]">
               <input
                 type="checkbox"
                 checked={indoorOnly}
@@ -292,7 +292,7 @@ function ActivitiesContent() {
               />
               Indoor only
             </label>
-            <label className="flex items-center gap-2 text-sm">
+            <label className="flex items-center gap-2 text-sm text-[#b0a898]">
               <input
                 type="checkbox"
                 checked={maxPrice === 0}
@@ -335,7 +335,7 @@ function ActivitiesContent() {
       {filtered.length > 0 ? (
         <>
           <div className="mb-5 flex items-center justify-between gap-4">
-            <p className="text-sm text-gray-500">
+            <p className="text-sm text-[#9a9187]">
               {filtered.length} activities found
               {showCurrentSeason && !selectedSeason && ` for ${getSeasonLabel(currentSeason).toLowerCase()}`}
             </p>
@@ -348,7 +348,7 @@ function ActivitiesContent() {
         </>
       ) : (
         <div className="text-center py-16">
-          <p className="text-lg text-gray-500">No activities found matching your filters.</p>
+          <p className="text-lg text-[#9a9187]">No activities found matching your filters.</p>
           <Button variant="link" onClick={clearFilters} className="mt-2 text-red-600">
             Clear all filters
           </Button>

@@ -1,0 +1,72 @@
+{
+  "id": "97",
+  "slug": "museum-tinguely-basel",
+  "name": "Museum Tinguely Basel",
+  "description": "World's largest collection of kinetic art machines by Swiss artist Jean Tinguely.",
+  "longDescription": "Museum Tinguely on the Rhine houses the world's largest collection of works by Jean Tinguely — whimsical, clanking kinetic machines that blur the line between art and engineering. The Mario Botta-designed building is itself an architectural highlight.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Basel Region",
+    "canton": "Basel-Stadt",
+    "city": "Basel",
+    "coordinates": {
+      "lat": 47.5596,
+      "lng": 7.6128
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Museum Tinguely",
+      "pricing": {
+        "child": 0,
+        "student": 12,
+        "adult": 18,
+        "senior": 15
+      },
+      "bookingUrl": "https://www.tinguely.ch",
+      "rating": 4.6,
+      "description": "Full museum access — under 16 free"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-2.5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Artist",
+      "value": "Jean Tinguely"
+    },
+    {
+      "label": "Kinetic Art",
+      "value": "Moving machines"
+    },
+    {
+      "label": "Architect",
+      "value": "Mario Botta"
+    },
+    {
+      "label": "Under 16",
+      "value": "Free entry"
+    },
+    {
+      "label": "Collection",
+      "value": "World's largest Tinguely"
+    }
+  ],
+  "tags": [
+    "museum",
+    "kinetic art",
+    "tinguely",
+    "basel",
+    "contemporary"
+  ],
+  "featured": false
+}

@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Calendar, ArrowLeft, User } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { NewsletterSignup } from "@/components/newsletter-signup";
-import { getBlogPostBySlug, blogPosts } from "@/data/blog-posts";
+import { getBlogPostBySlug, blogPosts } from "@/lib/content/selectors";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { SITE_NAME } from "@/lib/constants";

@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { NewsletterSignup } from "@/components/newsletter-signup";
 import { getDestinationSummaries } from "@/lib/destinations";
 import { DestinationBrowser } from "@/components/destination-browser";
-import { activities } from "@/data/activities";
+import { activities } from "@/lib/content/selectors";
 import { Season } from "@/lib/types";
 
 export default function DestinationsPage() {

@@ -1,0 +1,4006 @@
+[
+  {
+    "id": "1",
+    "slug": "jungfraujoch-top-of-europe",
+    "name": "Jungfraujoch – Top of Europe",
+    "description": "Visit the highest railway station in Europe at 3,454m with stunning views of the Aletsch Glacier.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.5472,
+        "lng": 7.9853
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1605540436338-67b4aeb10709?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 3,
+    "minAdultPrice": 234
+  },
+  {
+    "id": "2",
+    "slug": "zermatt-matterhorn-glacier-paradise",
+    "name": "Matterhorn Glacier Paradise",
+    "description": "Europe's highest cable car station at 3,883m with breathtaking views of the Matterhorn.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Zermatt",
+      "coordinates": {
+        "lat": 45.9763,
+        "lng": 7.6586
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 2,
+    "minAdultPrice": 52
+  },
+  {
+    "id": "3",
+    "slug": "swiss-museum-of-transport",
+    "name": "Swiss Museum of Transport",
+    "description": "Switzerland's most visited museum with interactive exhibits on transport, communication, and travel.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Lucerne",
+      "city": "Lucerne",
+      "coordinates": {
+        "lat": 47.0536,
+        "lng": 8.3372
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1580060839134-2dc0a8f6309e?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "4",
+    "slug": "lake-geneva-boat-cruise",
+    "name": "Lake Geneva Boat Cruise",
+    "description": "Scenic boat cruise on Lake Geneva passing vineyards, castles, and the stunning Alpine backdrop.",
+    "category": "family",
+    "subcategory": "Boat Cruise",
+    "location": {
+      "region": "Geneva Region",
+      "canton": "Geneva",
+      "city": "Geneva",
+      "coordinates": {
+        "lat": 46.2044,
+        "lng": 6.1432
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7c?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 2,
+    "minAdultPrice": 45
+  },
+  {
+    "id": "5",
+    "slug": "titlis-glacier-excursion",
+    "name": "Mount Titlis Glacier Excursion",
+    "description": "Ride the world's first revolving cable car to the glacier summit at 3,238m.",
+    "category": "adventure",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Obwalden",
+      "city": "Engelberg",
+      "coordinates": {
+        "lat": 46.7721,
+        "lng": 8.4293
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 3,
+    "minAdultPrice": 92
+  },
+  {
+    "id": "6",
+    "slug": "chateau-de-chillon",
+    "name": "Château de Chillon",
+    "description": "Switzerland's most visited castle, a medieval fortress on the shores of Lake Geneva.",
+    "category": "culture",
+    "subcategory": "Castle",
+    "location": {
+      "region": "Vaud",
+      "canton": "Vaud",
+      "city": "Montreux",
+      "coordinates": {
+        "lat": 46.4142,
+        "lng": 6.9272
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "7",
+    "slug": "interlaken-paragliding",
+    "name": "Paragliding over Interlaken",
+    "description": "Tandem paragliding flight over the stunning Interlaken valley between two alpine lakes.",
+    "category": "adventure",
+    "subcategory": "Air Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.6863,
+        "lng": 7.8632
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 4,
+    "minAdultPrice": 165
+  },
+  {
+    "id": "8",
+    "slug": "grindelwald-first-cliff-walk",
+    "name": "Grindelwald First Cliff Walk & Flyer",
+    "description": "Walk along a cliff-side pathway and fly down the mountain on the First Flyer zip line.",
+    "category": "adventure",
+    "subcategory": "Mountain Activities",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Grindelwald",
+      "coordinates": {
+        "lat": 46.6586,
+        "lng": 8.0414
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1580227974546-fbd48825d991?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 66
+  },
+  {
+    "id": "9",
+    "slug": "rhine-falls-schaffhausen",
+    "name": "Rhine Falls",
+    "description": "Europe's largest waterfall — a thundering spectacle near Schaffhausen.",
+    "category": "outdoor",
+    "subcategory": "Waterfall",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "Schaffhausen",
+      "city": "Neuhausen",
+      "coordinates": {
+        "lat": 47.6779,
+        "lng": 8.6151
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1559128010-92a8ef05bd22?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 8
+  },
+  {
+    "id": "10",
+    "slug": "laederach-chocolate-factory",
+    "name": "Läderach Chocolate Factory Tour",
+    "description": "Swiss chocolate factory tour with tastings and hands-on chocolate-making workshop.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "Glarus",
+      "city": "Bilten",
+      "coordinates": {
+        "lat": 47.1408,
+        "lng": 9.0344
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652e52?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 29
+  },
+  {
+    "id": "11",
+    "slug": "bern-old-town-walking-tour",
+    "name": "Bern Old Town Walking Tour",
+    "description": "Explore the UNESCO-listed medieval old town of the Swiss capital with a local guide.",
+    "category": "culture",
+    "subcategory": "City Tour",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Bern",
+      "coordinates": {
+        "lat": 46.948,
+        "lng": 7.4474
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 3,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "12",
+    "slug": "lauterbrunnen-valley-hike",
+    "name": "Lauterbrunnen Valley Waterfalls Hike",
+    "description": "Hike through the valley of 72 waterfalls, including the 300m Staubbach Falls.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Lauterbrunnen",
+      "coordinates": {
+        "lat": 46.5936,
+        "lng": 7.9086
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "13",
+    "slug": "zurich-kunsthaus",
+    "name": "Kunsthaus Zürich",
+    "description": "One of Switzerland's premier art museums with works from the Middle Ages to contemporary art.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3703,
+        "lng": 8.5484
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "14",
+    "slug": "glacier-express",
+    "name": "Glacier Express",
+    "description": "The world's slowest express train — 8 hours of panoramic Swiss alpine scenery.",
+    "category": "outdoor",
+    "subcategory": "Scenic Railway",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Zermatt",
+      "coordinates": {
+        "lat": 46.0207,
+        "lng": 7.7491
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 3,
+    "minAdultPrice": 158
+  },
+  {
+    "id": "15",
+    "slug": "adventure-park-interlaken",
+    "name": "Adventure Park Interlaken",
+    "description": "High-ropes course and zip lines through the forest canopy above Interlaken.",
+    "category": "adventure",
+    "subcategory": "Rope Park",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.6863,
+        "lng": 7.8632
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 45
+  },
+  {
+    "id": "16",
+    "slug": "thermalbad-zurich",
+    "name": "Thermalbad & Spa Zürich",
+    "description": "Urban thermal baths in a converted historic brewery with rooftop pool overlooking Zurich.",
+    "category": "wellness",
+    "subcategory": "Thermal Bath",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3652,
+        "lng": 8.5285
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6e6977f35?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 44
+  },
+  {
+    "id": "17",
+    "slug": "cern-visit",
+    "name": "CERN Science Gateway",
+    "description": "Visit the world's largest particle physics laboratory near Geneva.",
+    "category": "culture",
+    "subcategory": "Science",
+    "location": {
+      "region": "Geneva Region",
+      "canton": "Geneva",
+      "city": "Geneva",
+      "coordinates": {
+        "lat": 46.233,
+        "lng": 6.0557
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1635070041409-e63e783fb069?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "18",
+    "slug": "verbier-skiing",
+    "name": "Verbier 4 Vallées Skiing",
+    "description": "World-class skiing across 410km of pistes in one of the Alps' most renowned resorts.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Verbier",
+      "coordinates": {
+        "lat": 46.0964,
+        "lng": 7.2283
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1610821210960-de11c4290c20?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 3,
+    "minAdultPrice": 59
+  },
+  {
+    "id": "19",
+    "slug": "lake-lucerne-paddle-steamer",
+    "name": "Lake Lucerne Paddle Steamer Cruise",
+    "description": "Cruise on a historic paddle steamer through the stunning mountain-framed Lake Lucerne.",
+    "category": "family",
+    "subcategory": "Boat Cruise",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Lucerne",
+      "city": "Lucerne",
+      "coordinates": {
+        "lat": 47.0502,
+        "lng": 8.3093
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 48
+  },
+  {
+    "id": "20",
+    "slug": "zoo-zurich",
+    "name": "Zoo Zürich",
+    "description": "Award-winning zoo with the Masoala Rainforest hall — a slice of Madagascar in Zurich.",
+    "category": "family",
+    "subcategory": "Zoo",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3851,
+        "lng": 8.5741
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "21",
+    "slug": "canyoning-interlaken",
+    "name": "Canyoning in Interlaken",
+    "description": "Descend through narrow gorges, slide down natural water slides, and jump into crystal pools.",
+    "category": "adventure",
+    "subcategory": "Water Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.6863,
+        "lng": 7.8632
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1545289414-1c3cb1c06238?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 3,
+    "minAdultPrice": 135
+  },
+  {
+    "id": "22",
+    "slug": "swiss-national-park",
+    "name": "Swiss National Park Hikes",
+    "description": "Hike through Switzerland's only national park — pristine wilderness in the Engadin valley.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Zernez",
+      "coordinates": {
+        "lat": 46.695,
+        "lng": 10.0956
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "23",
+    "slug": "bernaqua-water-park",
+    "name": "Bernaqua Water Park",
+    "description": "Indoor water park with slides, wave pool, and wellness area in Bern.",
+    "category": "family",
+    "subcategory": "Water Park",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Bern",
+      "coordinates": {
+        "lat": 46.9274,
+        "lng": 7.3862
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 32
+  },
+  {
+    "id": "24",
+    "slug": "aletsch-glacier-hike",
+    "name": "Aletsch Glacier Hike",
+    "description": "Guided hike along Europe's longest glacier — a UNESCO World Heritage Site.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Fiesch",
+      "coordinates": {
+        "lat": 46.4083,
+        "lng": 8.1003
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 48
+  },
+  {
+    "id": "25",
+    "slug": "escape-room-zurich",
+    "name": "Escape Room Zurich",
+    "description": "Immersive themed escape rooms in Zurich — solve puzzles, beat the clock.",
+    "category": "adventure",
+    "subcategory": "Escape Room",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3769,
+        "lng": 8.5417
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 3,
+    "minAdultPrice": 38
+  },
+  {
+    "id": "26",
+    "slug": "pilatus-golden-round-trip",
+    "name": "Pilatus Golden Round Trip",
+    "description": "A spectacular round trip by boat, cogwheel train, gondola, and cable car around Mount Pilatus.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Lucerne",
+      "city": "Lucerne",
+      "coordinates": {
+        "lat": 46.9793,
+        "lng": 8.2543
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 2,
+    "minAdultPrice": 78
+  },
+  {
+    "id": "27",
+    "slug": "appenzell-cheese-dairy",
+    "name": "Appenzell Show Dairy",
+    "description": "Watch traditional Appenzeller cheese being made and sample the famous varieties.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "Appenzell",
+      "city": "Stein",
+      "coordinates": {
+        "lat": 47.3697,
+        "lng": 9.3486
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 12
+  },
+  {
+    "id": "28",
+    "slug": "st-moritz-skiing",
+    "name": "St. Moritz Corviglia Skiing",
+    "description": "Ski the glamorous slopes of St. Moritz with 155km of runs and legendary sunshine.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "St. Moritz",
+      "coordinates": {
+        "lat": 46.4908,
+        "lng": 9.8355
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 3,
+    "minAdultPrice": 74
+  },
+  {
+    "id": "29",
+    "slug": "bungee-jumping-verzasca",
+    "name": "Bungee Jumping Verzasca Dam",
+    "description": "Leap 220m from the famous James Bond GoldenEye dam — Switzerland's highest bungee jump.",
+    "category": "adventure",
+    "subcategory": "Extreme Sports",
+    "location": {
+      "region": "Ticino",
+      "canton": "Ticino",
+      "city": "Locarno",
+      "coordinates": {
+        "lat": 46.2572,
+        "lng": 8.8481
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 255
+  },
+  {
+    "id": "30",
+    "slug": "leukerbad-thermal-baths",
+    "name": "Leukerbad Thermal Baths",
+    "description": "Europe's largest alpine thermal bath complex with hot springs and mountain panoramas.",
+    "category": "wellness",
+    "subcategory": "Thermal Bath",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Leukerbad",
+      "coordinates": {
+        "lat": 46.379,
+        "lng": 7.6267
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 33
+  },
+  {
+    "id": "31",
+    "slug": "rigi-queen-of-mountains",
+    "name": "Rigi – Queen of the Mountains",
+    "description": "360° panoramic mountain with Europe's first mountain railway and sunrise experience.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Lucerne",
+      "city": "Vitznau",
+      "coordinates": {
+        "lat": 47.0567,
+        "lng": 8.485
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 56
+  },
+  {
+    "id": "32",
+    "slug": "swiss-miniatur",
+    "name": "Swissminiatur Melide",
+    "description": "128 scale models of Switzerland's famous landmarks in a beautiful park on Lake Lugano.",
+    "category": "family",
+    "subcategory": "Theme Park",
+    "location": {
+      "region": "Ticino",
+      "canton": "Ticino",
+      "city": "Melide",
+      "coordinates": {
+        "lat": 45.9533,
+        "lng": 8.9446
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1566397135-18a6ec4b5e11?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 19
+  },
+  {
+    "id": "33",
+    "slug": "stanserhorn-cabrio",
+    "name": "CabriO Stanserhorn",
+    "description": "The world's first open-top cable car with 360° alpine views near Lucerne.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Nidwalden",
+      "city": "Stans",
+      "coordinates": {
+        "lat": 46.9278,
+        "lng": 8.3403
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 64
+  },
+  {
+    "id": "34",
+    "slug": "olympic-museum-lausanne",
+    "name": "Olympic Museum Lausanne",
+    "description": "The world's largest Olympic archive on the shores of Lake Geneva.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Vaud",
+      "canton": "Vaud",
+      "city": "Lausanne",
+      "coordinates": {
+        "lat": 46.5088,
+        "lng": 6.634
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "35",
+    "slug": "sledging-faulhorn",
+    "name": "Faulhorn Toboggan Run",
+    "description": "Europe's longest toboggan run — 15km downhill from Faulhorn to Grindelwald.",
+    "category": "outdoor",
+    "subcategory": "Sledding",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Grindelwald",
+      "coordinates": {
+        "lat": 46.6586,
+        "lng": 8.0414
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 35
+  },
+  {
+    "id": "36",
+    "slug": "lake-oeschinen",
+    "name": "Lake Oeschinen",
+    "description": "A turquoise alpine lake surrounded by towering peaks — hike, swim, or take a boat.",
+    "category": "outdoor",
+    "subcategory": "Lake",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Kandersteg",
+      "coordinates": {
+        "lat": 46.4975,
+        "lng": 7.7241
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 24
+  },
+  {
+    "id": "37",
+    "slug": "chaplin-world",
+    "name": "Chaplin's World",
+    "description": "Interactive museum celebrating Charlie Chaplin in his former lakeside mansion.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Vaud",
+      "canton": "Vaud",
+      "city": "Vevey",
+      "coordinates": {
+        "lat": 46.467,
+        "lng": 6.837
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e07?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 32
+  },
+  {
+    "id": "38",
+    "slug": "sup-lake-thun",
+    "name": "Stand-Up Paddleboarding on Lake Thun",
+    "description": "SUP on crystal-clear Lake Thun with views of the Bernese Oberland peaks.",
+    "category": "outdoor",
+    "subcategory": "Water Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Thun",
+      "coordinates": {
+        "lat": 46.758,
+        "lng": 7.628
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 30
+  },
+  {
+    "id": "39",
+    "slug": "ice-skating-davos",
+    "name": "Natural Ice Rink Davos",
+    "description": "Europe's largest natural ice rink — skate under the stars in the Swiss Alps.",
+    "category": "outdoor",
+    "subcategory": "Ice Skating",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Davos",
+      "coordinates": {
+        "lat": 46.8027,
+        "lng": 9.836
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 10
+  },
+  {
+    "id": "40",
+    "slug": "fondue-experience-gruyeres",
+    "name": "Fondue Experience in Gruyères",
+    "description": "Taste authentic Swiss fondue in the medieval town where Gruyère cheese originates.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Fribourg Region",
+      "canton": "Fribourg",
+      "city": "Gruyères",
+      "coordinates": {
+        "lat": 46.5839,
+        "lng": 7.0801
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 3,
+    "minAdultPrice": 12
+  },
+  {
+    "id": "41",
+    "slug": "technorama-winterthur",
+    "name": "Swiss Science Center Technorama",
+    "description": "Interactive science museum with 500+ hands-on experiments in Winterthur.",
+    "category": "family",
+    "subcategory": "Science Center",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Winterthur",
+      "coordinates": {
+        "lat": 47.4979,
+        "lng": 8.7112
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 29
+  },
+  {
+    "id": "42",
+    "slug": "bernina-express",
+    "name": "Bernina Express",
+    "description": "UNESCO World Heritage railway crossing the Alps from Chur to Tirano, Italy.",
+    "category": "outdoor",
+    "subcategory": "Scenic Railway",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Chur",
+      "coordinates": {
+        "lat": 46.8499,
+        "lng": 9.5329
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 68
+  },
+  {
+    "id": "43",
+    "slug": "go-karting-lyss",
+    "name": "Indoor Go-Karting Lyss",
+    "description": "High-speed indoor karting on a professional 400m track near Bern.",
+    "category": "adventure",
+    "subcategory": "Motor Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Lyss",
+      "coordinates": {
+        "lat": 47.075,
+        "lng": 7.3058
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 38
+  },
+  {
+    "id": "44",
+    "slug": "schilthorn-piz-gloria",
+    "name": "Schilthorn Piz Gloria",
+    "description": "James Bond's revolving restaurant at 2,970m with Eiger, Mönch & Jungfrau panorama.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Mürren",
+      "coordinates": {
+        "lat": 46.5587,
+        "lng": 7.8352
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1531984208440-b5a2e1f6bc1e?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 95
+  },
+  {
+    "id": "45",
+    "slug": "swimming-lake-brienz",
+    "name": "Swimming in Lake Brienz",
+    "description": "Swim in one of Switzerland's cleanest lakes with unreal turquoise waters.",
+    "category": "outdoor",
+    "subcategory": "Swimming",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Brienz",
+      "coordinates": {
+        "lat": 46.7544,
+        "lng": 8.0296
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "46",
+    "slug": "indoor-climbing-minimum",
+    "name": "Minimum Bouldering Zurich",
+    "description": "Top-rated indoor bouldering center with routes for all skill levels.",
+    "category": "adventure",
+    "subcategory": "Indoor Climbing",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3889,
+        "lng": 8.52
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 28
+  },
+  {
+    "id": "47",
+    "slug": "christmas-markets-basel",
+    "name": "Basel Christmas Market",
+    "description": "One of Europe's most enchanting Christmas markets with 180+ decorated stalls.",
+    "category": "culture",
+    "subcategory": "Festival",
+    "location": {
+      "region": "Basel Region",
+      "canton": "Basel-Stadt",
+      "city": "Basel",
+      "coordinates": {
+        "lat": 47.5596,
+        "lng": 7.5886
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1512389142860-9c449e58a814?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "48",
+    "slug": "snowshoe-hiking-engadin",
+    "name": "Snowshoe Hiking in the Engadin",
+    "description": "Guided snowshoe hikes through silent, snowy forests and frozen landscapes.",
+    "category": "outdoor",
+    "subcategory": "Snowshoeing",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "St. Moritz",
+      "coordinates": {
+        "lat": 46.4908,
+        "lng": 9.8355
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 55
+  },
+  {
+    "id": "49",
+    "slug": "via-ferrata-murren",
+    "name": "Via Ferrata Mürren",
+    "description": "Secured iron climbing routes along cliff faces above Lauterbrunnen Valley.",
+    "category": "adventure",
+    "subcategory": "Climbing",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Mürren",
+      "coordinates": {
+        "lat": 46.5587,
+        "lng": 7.8925
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 45
+  },
+  {
+    "id": "50",
+    "slug": "rapperswil-rose-town",
+    "name": "Rapperswil Rose Town & Castle",
+    "description": "The 'Town of Roses' with medieval castle, 15,000 roses, and lakeside promenade.",
+    "category": "culture",
+    "subcategory": "Town Visit",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "St. Gallen",
+      "city": "Rapperswil",
+      "coordinates": {
+        "lat": 47.2266,
+        "lng": 8.8184
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4f44baee?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "51",
+    "slug": "aquaparc-bouveret",
+    "name": "Aquaparc Le Bouveret",
+    "description": "Switzerland's largest water park with indoor/outdoor pools, slides, and wave pools.",
+    "category": "family",
+    "subcategory": "Water Park",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Le Bouveret",
+      "coordinates": {
+        "lat": 46.396,
+        "lng": 6.8548
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 45
+  },
+  {
+    "id": "52",
+    "slug": "wine-tasting-lavaux",
+    "name": "Lavaux Vineyard Wine Tasting",
+    "description": "UNESCO-listed terraced vineyards on Lake Geneva with wine tastings and guided walks.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Vaud",
+      "canton": "Vaud",
+      "city": "Lausanne",
+      "coordinates": {
+        "lat": 46.4917,
+        "lng": 6.7276
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 3,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "53",
+    "slug": "laax-freestyle-skiing",
+    "name": "LAAX Freestyle Park",
+    "description": "Europe's best freestyle ski and snowboard park with pro-level halfpipe.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Laax",
+      "coordinates": {
+        "lat": 46.8075,
+        "lng": 9.2544
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1565992441121-4367c2967103?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 72
+  },
+  {
+    "id": "54",
+    "slug": "rafting-interlaken",
+    "name": "White Water Rafting Interlaken",
+    "description": "Navigate thrilling rapids on the Lütschine river through the Bernese Oberland.",
+    "category": "adventure",
+    "subcategory": "Water Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.6863,
+        "lng": 7.8632
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 3,
+    "minAdultPrice": 99
+  },
+  {
+    "id": "55",
+    "slug": "skydiving-interlaken",
+    "name": "Skydiving over Interlaken",
+    "description": "Tandem skydive from 4,000m with views of Eiger, Mönch, and Jungfrau.",
+    "category": "adventure",
+    "subcategory": "Extreme Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.6863,
+        "lng": 7.8632
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1474623809196-26c1d33457cc?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 420
+  },
+  {
+    "id": "56",
+    "slug": "kayaking-lake-brienz",
+    "name": "Kayaking on Lake Brienz",
+    "description": "Paddle through crystal turquoise waters surrounded by waterfalls and cliffs.",
+    "category": "outdoor",
+    "subcategory": "Water Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Brienz",
+      "coordinates": {
+        "lat": 46.7544,
+        "lng": 8.0296
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 35
+  },
+  {
+    "id": "57",
+    "slug": "trummelbach-falls",
+    "name": "Trümmelbach Falls",
+    "description": "The only accessible glacier waterfalls inside a mountain — 20,000 liters per second.",
+    "category": "outdoor",
+    "subcategory": "Waterfall",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Lauterbrunnen",
+      "coordinates": {
+        "lat": 46.58,
+        "lng": 7.91
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1559128010-92a8ef05bd22?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 11
+  },
+  {
+    "id": "58",
+    "slug": "harder-kulm-interlaken",
+    "name": "Harder Kulm – Top of Interlaken",
+    "description": "Funicular to the viewing platform 1,322m above Interlaken with twin-lake panorama.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.69,
+        "lng": 7.86
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 32
+  },
+  {
+    "id": "59",
+    "slug": "swiss-knife-valley",
+    "name": "Swiss Knife Valley Visitor Center",
+    "description": "Discover the story of the iconic Victorinox Swiss Army Knife and build your own.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Schwyz",
+      "city": "Brunnen",
+      "coordinates": {
+        "lat": 46.9957,
+        "lng": 8.6053
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 8
+  },
+  {
+    "id": "60",
+    "slug": "creux-du-van",
+    "name": "Creux du Van",
+    "description": "A spectacular natural rock amphitheater — the 'Swiss Grand Canyon' in the Jura.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Jura & Three-Lakes",
+      "canton": "Neuchâtel",
+      "city": "Noiraigue",
+      "coordinates": {
+        "lat": 46.93,
+        "lng": 6.73
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "61",
+    "slug": "bikepark-lenzerheide",
+    "name": "Bike Park Lenzerheide",
+    "description": "One of Europe's best mountain bike parks with 30+ trails for all levels.",
+    "category": "adventure",
+    "subcategory": "Mountain Biking",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Lenzerheide",
+      "coordinates": {
+        "lat": 46.73,
+        "lng": 9.56
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 42
+  },
+  {
+    "id": "62",
+    "slug": "ballenberg-open-air-museum",
+    "name": "Ballenberg Open-Air Museum",
+    "description": "Over 100 historic Swiss buildings from every canton in a vast outdoor museum.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Brienz",
+      "coordinates": {
+        "lat": 46.76,
+        "lng": 8.08
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 32
+  },
+  {
+    "id": "63",
+    "slug": "lugano-monte-san-salvatore",
+    "name": "Monte San Salvatore Lugano",
+    "description": "Take the funicular to the 'Sugarloaf of Lugano' for Mediterranean-like panoramas.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Ticino",
+      "canton": "Ticino",
+      "city": "Lugano",
+      "coordinates": {
+        "lat": 45.96,
+        "lng": 8.94
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 28
+  },
+  {
+    "id": "64",
+    "slug": "wellness-bad-ragaz",
+    "name": "Tamina Therme Bad Ragaz",
+    "description": "Luxurious thermal spa in the Rhine Valley fed by the historic Tamina Gorge springs.",
+    "category": "wellness",
+    "subcategory": "Thermal Bath",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "St. Gallen",
+      "city": "Bad Ragaz",
+      "coordinates": {
+        "lat": 47,
+        "lng": 9.5
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540555700478-4be289fbec6d?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 30
+  },
+  {
+    "id": "65",
+    "slug": "zipline-grindelwald",
+    "name": "First Flyer Zip Line Grindelwald",
+    "description": "Soar at 84 km/h on a spectacular zip line from First mountain.",
+    "category": "adventure",
+    "subcategory": "Zip Line",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Grindelwald",
+      "coordinates": {
+        "lat": 46.6586,
+        "lng": 8.0414
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 31
+  },
+  {
+    "id": "66",
+    "slug": "segway-tour-zurich",
+    "name": "Segway Tour Zurich",
+    "description": "Glide through Zurich's highlights on a guided Segway tour.",
+    "category": "family",
+    "subcategory": "City Tour",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3769,
+        "lng": 8.5417
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1515488764276-beab7607c1e6?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 69
+  },
+  {
+    "id": "67",
+    "slug": "aareschlucht-gorge",
+    "name": "Aare Gorge (Aareschlucht)",
+    "description": "Walk through a dramatic 1.4km limestone gorge carved by glacial waters.",
+    "category": "outdoor",
+    "subcategory": "Gorge",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Meiringen",
+      "coordinates": {
+        "lat": 46.72,
+        "lng": 8.18
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 10
+  },
+  {
+    "id": "68",
+    "slug": "bachalpsee-hike",
+    "name": "Bachalpsee Lake Hike",
+    "description": "Instagram-famous alpine lake hike from First with mirror-perfect Eiger reflections.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Grindelwald",
+      "coordinates": {
+        "lat": 46.67,
+        "lng": 8.03
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 44
+  },
+  {
+    "id": "69",
+    "slug": "jet-boat-interlaken",
+    "name": "Jet Boat Ride Interlaken",
+    "description": "High-speed jet boat ride with 360° spins on Lake Brienz.",
+    "category": "adventure",
+    "subcategory": "Water Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.6863,
+        "lng": 7.8632
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 85
+  },
+  {
+    "id": "70",
+    "slug": "aare-swimming-bern",
+    "name": "Aare River Swimming in Bern",
+    "description": "Float down the turquoise Aare river through the Swiss capital — a beloved local tradition.",
+    "category": "outdoor",
+    "subcategory": "Swimming",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Bern",
+      "coordinates": {
+        "lat": 46.94,
+        "lng": 7.44
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "71",
+    "slug": "helicopter-tour-alps",
+    "name": "Helicopter Tour over the Alps",
+    "description": "See the Matterhorn, Mont Blanc, and Jungfrau from above on a scenic helicopter flight.",
+    "category": "adventure",
+    "subcategory": "Air Sports",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Zermatt",
+      "coordinates": {
+        "lat": 46.0207,
+        "lng": 7.7491
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 280
+  },
+  {
+    "id": "72",
+    "slug": "five-lakes-walk-zermatt",
+    "name": "Five Lakes Walk Zermatt",
+    "description": "Moderate alpine hike past 5 crystal-clear lakes with Matterhorn reflections.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Zermatt",
+      "coordinates": {
+        "lat": 46.0207,
+        "lng": 7.7491
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 40
+  },
+  {
+    "id": "73",
+    "slug": "e-bike-tour-graubunden",
+    "name": "E-Bike Tour Graubünden",
+    "description": "Explore the stunning valleys and passes of Graubünden on an electric mountain bike.",
+    "category": "outdoor",
+    "subcategory": "Cycling",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Chur",
+      "coordinates": {
+        "lat": 46.8499,
+        "lng": 9.5329
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 65
+  },
+  {
+    "id": "74",
+    "slug": "lindt-chocolate-museum",
+    "name": "Lindt Home of Chocolate",
+    "description": "The world's largest chocolate museum with a 9-meter chocolate fountain.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Kilchberg",
+      "coordinates": {
+        "lat": 47.32,
+        "lng": 8.55
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652e52?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 16
+  },
+  {
+    "id": "75",
+    "slug": "rope-jumping-stockhorn",
+    "name": "Rope Jumping Stockhorn",
+    "description": "Jump 130 meters from the Stockhorn cliff — a unique Swiss extreme sport experience.",
+    "category": "adventure",
+    "subcategory": "Extreme Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.69,
+        "lng": 7.85
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 195
+  },
+  {
+    "id": "76",
+    "slug": "andermatt-skiing",
+    "name": "Andermatt Skiing",
+    "description": "World-class ski resort in Uri with 120km of slopes and the modern SkiArena Andermatt-Sedrun.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Uri",
+      "city": "Andermatt",
+      "coordinates": {
+        "lat": 46.6363,
+        "lng": 8.5939
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 2,
+    "minAdultPrice": 75
+  },
+  {
+    "id": "77",
+    "slug": "lenzerheide-skiing",
+    "name": "Lenzerheide Skiing",
+    "description": "Sun-drenched ski area with 155km of slopes connected to Arosa in the heart of Graubünden.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Lenzerheide",
+      "coordinates": {
+        "lat": 46.73,
+        "lng": 9.56
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 72
+  },
+  {
+    "id": "78",
+    "slug": "arosa-skiing",
+    "name": "Arosa Skiing",
+    "description": "Charming alpine resort village connected to Lenzerheide with relaxed atmosphere and bear sanctuary.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Arosa",
+      "coordinates": {
+        "lat": 46.7834,
+        "lng": 9.6797
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1548777123-e216912df7d8?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 72
+  },
+  {
+    "id": "79",
+    "slug": "davos-klosters-skiing",
+    "name": "Davos Klosters Skiing",
+    "description": "One of Europe's largest ski regions with 300km of slopes across six interconnected areas.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Davos",
+      "coordinates": {
+        "lat": 46.8027,
+        "lng": 9.836
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 2,
+    "minAdultPrice": 79
+  },
+  {
+    "id": "80",
+    "slug": "engelberg-titlis-skiing",
+    "name": "Engelberg-Titlis Skiing",
+    "description": "Central Switzerland's top ski destination with glacier skiing and the revolving Rotair cable car.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Obwalden",
+      "city": "Engelberg",
+      "coordinates": {
+        "lat": 46.8197,
+        "lng": 8.4073
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 69
+  },
+  {
+    "id": "81",
+    "slug": "saas-fee-skiing",
+    "name": "Saas-Fee Glacier Skiing",
+    "description": "The 'Pearl of the Alps' with glacier skiing up to 3,600m and a car-free village.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Saas-Fee",
+      "coordinates": {
+        "lat": 46.1081,
+        "lng": 7.9271
+      }
+    },
+    "seasons": [
+      "winter",
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 72
+  },
+  {
+    "id": "82",
+    "slug": "crans-montana-skiing",
+    "name": "Crans-Montana Skiing",
+    "description": "Glamorous sun terrace of the Alps with 140km of slopes and spectacular Valais panoramas.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Crans-Montana",
+      "coordinates": {
+        "lat": 46.3076,
+        "lng": 7.4819
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 68
+  },
+  {
+    "id": "83",
+    "slug": "adelboden-lenk-skiing",
+    "name": "Adelboden-Lenk Skiing",
+    "description": "Traditional Bernese Oberland ski area with 210km of slopes and World Cup pedigree.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Adelboden",
+      "coordinates": {
+        "lat": 46.4921,
+        "lng": 7.5594
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 66
+  },
+  {
+    "id": "84",
+    "slug": "gstaad-glacier-3000-skiing",
+    "name": "Gstaad & Glacier 3000 Skiing",
+    "description": "Chic alpine resort with 250km of slopes including the spectacular Glacier 3000 area.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Gstaad",
+      "coordinates": {
+        "lat": 46.4748,
+        "lng": 7.2858
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1485470733090-0aae1788d668?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 74
+  },
+  {
+    "id": "85",
+    "slug": "flumserberg-skiing",
+    "name": "Flumserberg Skiing",
+    "description": "Eastern Switzerland's largest ski resort — ideal for families with panoramic Churfirsten views.",
+    "category": "outdoor",
+    "subcategory": "Skiing",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "St. Gallen",
+      "city": "Flumserberg",
+      "coordinates": {
+        "lat": 47.0928,
+        "lng": 9.2794
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1517483000871-1dbf64a6e1c6?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 56
+  },
+  {
+    "id": "86",
+    "slug": "kandersteg-cross-country",
+    "name": "Kandersteg Cross-Country Skiing",
+    "description": "50km of groomed cross-country trails through the stunning Kandertal valley.",
+    "category": "outdoor",
+    "subcategory": "Cross-Country Skiing",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Kandersteg",
+      "coordinates": {
+        "lat": 46.4953,
+        "lng": 7.6707
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 15
+  },
+  {
+    "id": "87",
+    "slug": "eiger-trail-hike",
+    "name": "Eiger Trail Hike",
+    "description": "Walk directly beneath the legendary Eiger North Face on this iconic alpine trail.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Grindelwald",
+      "coordinates": {
+        "lat": 46.634,
+        "lng": 7.98
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 1,
+    "minAdultPrice": 42
+  },
+  {
+    "id": "88",
+    "slug": "oeschinensee-circular-hike",
+    "name": "Oeschinensee Circular Hike",
+    "description": "Scenic loop around the UNESCO-listed turquoise Oeschinensee alpine lake.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Kandersteg",
+      "coordinates": {
+        "lat": 46.4975,
+        "lng": 7.7241
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1465188162913-8fb5709d6d57?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 24
+  },
+  {
+    "id": "89",
+    "slug": "panoramaweg-thunersee",
+    "name": "Panoramaweg Thunersee",
+    "description": "Elevated panoramic trail above Lake Thun with sweeping views of the Bernese Alps.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Thun",
+      "coordinates": {
+        "lat": 46.758,
+        "lng": 7.628
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1445363692815-ebcd1dafd1e3?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 34
+  },
+  {
+    "id": "90",
+    "slug": "walenpfad-pilatus",
+    "name": "Walenpfad Pilatus Ridge Walk",
+    "description": "Exposed ridge walk on Mount Pilatus with breathtaking views of central Swiss lakes and peaks.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Lucerne",
+      "city": "Kriens",
+      "coordinates": {
+        "lat": 46.9793,
+        "lng": 8.2543
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 62
+  },
+  {
+    "id": "91",
+    "slug": "tour-du-mont-blanc-swiss",
+    "name": "Tour du Mont Blanc – Swiss Section",
+    "description": "Walk the Swiss stage of the world-famous Tour du Mont Blanc through alpine valleys and villages.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Champex-Lac",
+      "coordinates": {
+        "lat": 46.0291,
+        "lng": 7.119
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "92",
+    "slug": "via-alpina-grindelwald-meiringen",
+    "name": "Via Alpina: Grindelwald to Meiringen",
+    "description": "Classic pass-crossing stage over the Grosse Scheidegg with Eiger and Wetterhorn views.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Grindelwald",
+      "coordinates": {
+        "lat": 46.6586,
+        "lng": 8.0414
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 22
+  },
+  {
+    "id": "93",
+    "slug": "aletsch-panorama-trail",
+    "name": "Aletsch Panorama Trail",
+    "description": "Walk along Europe's longest glacier with breathtaking views from the UNESCO World Heritage site.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Riederalp",
+      "coordinates": {
+        "lat": 46.3833,
+        "lng": 8.0333
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 36
+  },
+  {
+    "id": "94",
+    "slug": "muottas-muragl-panorama",
+    "name": "Muottas Muragl Panorama Trail",
+    "description": "Engadin's finest viewpoint with sweeping views over the lake chain and Bernina massif.",
+    "category": "outdoor",
+    "subcategory": "Mountain Experience",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Samedan",
+      "coordinates": {
+        "lat": 46.5028,
+        "lng": 9.95
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 36
+  },
+  {
+    "id": "95",
+    "slug": "lago-di-lugano-walking",
+    "name": "Lago di Lugano Lakeside Walk",
+    "description": "Scenic walking path along the shores of Lake Lugano through Mediterranean gardens and villages.",
+    "category": "outdoor",
+    "subcategory": "Hiking",
+    "location": {
+      "region": "Ticino",
+      "canton": "Ticino",
+      "city": "Lugano",
+      "coordinates": {
+        "lat": 46.0037,
+        "lng": 8.9511
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1516939884455-1445c8652f83?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 12
+  },
+  {
+    "id": "96",
+    "slug": "augusta-raurica",
+    "name": "Augusta Raurica Roman City",
+    "description": "The best-preserved Roman city north of the Alps with a reconstructed Roman house and theatre.",
+    "category": "culture",
+    "subcategory": "Archaeological Site",
+    "location": {
+      "region": "Basel Region",
+      "canton": "Basel-Landschaft",
+      "city": "Augst",
+      "coordinates": {
+        "lat": 47.5347,
+        "lng": 7.7183
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1494949360457-518eb54fe235?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "97",
+    "slug": "museum-tinguely-basel",
+    "name": "Museum Tinguely Basel",
+    "description": "World's largest collection of kinetic art machines by Swiss artist Jean Tinguely.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Basel Region",
+      "canton": "Basel-Stadt",
+      "city": "Basel",
+      "coordinates": {
+        "lat": 47.5596,
+        "lng": 7.6128
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 18
+  },
+  {
+    "id": "98",
+    "slug": "fondation-beyeler",
+    "name": "Fondation Beyeler",
+    "description": "World-class modern art museum by Renzo Piano in a stunning park setting near Basel.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Basel Region",
+      "canton": "Basel-Stadt",
+      "city": "Riehen",
+      "coordinates": {
+        "lat": 47.5912,
+        "lng": 7.6506
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1577720643272-265f09367456?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 1,
+    "minAdultPrice": 25
+  },
+  {
+    "id": "99",
+    "slug": "zentrum-paul-klee",
+    "name": "Zentrum Paul Klee",
+    "description": "The world's most comprehensive Paul Klee collection in a wave-shaped Renzo Piano building.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Bern",
+      "coordinates": {
+        "lat": 46.948,
+        "lng": 7.4744
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 22
+  },
+  {
+    "id": "100",
+    "slug": "fifa-museum-zurich",
+    "name": "FIFA Museum Zurich",
+    "description": "Interactive football museum with 1,000+ objects tracing the global history of the beautiful game.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3643,
+        "lng": 8.5283
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 24
+  },
+  {
+    "id": "101",
+    "slug": "abbey-library-st-gallen",
+    "name": "Abbey Library of St. Gallen",
+    "description": "UNESCO World Heritage baroque library — one of the oldest and most beautiful in the world.",
+    "category": "culture",
+    "subcategory": "Historical Site",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "St. Gallen",
+      "city": "St. Gallen",
+      "coordinates": {
+        "lat": 47.4237,
+        "lng": 9.377
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572953109213-3be62398eb95?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 1,
+    "minAdultPrice": 18
+  },
+  {
+    "id": "102",
+    "slug": "maison-cailler-broc",
+    "name": "Maison Cailler Chocolate Factory",
+    "description": "Switzerland's oldest chocolate brand invites you into a sensory chocolate experience in Broc.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Fribourg Region",
+      "canton": "Fribourg",
+      "city": "Broc",
+      "coordinates": {
+        "lat": 46.6073,
+        "lng": 7.0987
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 15
+  },
+  {
+    "id": "103",
+    "slug": "aargauer-kunsthaus",
+    "name": "Aargauer Kunsthaus",
+    "description": "Leading Swiss art museum in Aarau with an outstanding collection spanning five centuries.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Northwestern Switzerland",
+      "canton": "Aargau",
+      "city": "Aarau",
+      "coordinates": {
+        "lat": 47.3925,
+        "lng": 8.0444
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 15
+  },
+  {
+    "id": "104",
+    "slug": "museggmauer-lucerne",
+    "name": "Museggmauer Walk Lucerne",
+    "description": "Walk along Lucerne's medieval fortification wall and climb its nine towers for free.",
+    "category": "culture",
+    "subcategory": "Historical Site",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Lucerne",
+      "city": "Lucerne",
+      "coordinates": {
+        "lat": 47.052,
+        "lng": 8.3032
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "105",
+    "slug": "tinguely-fountain-basel",
+    "name": "Tinguely Fountain Basel",
+    "description": "Whimsical kinetic water fountain with 10 mechanical sculptures in Basel's Theaterplatz.",
+    "category": "culture",
+    "subcategory": "Public Art",
+    "location": {
+      "region": "Basel Region",
+      "canton": "Basel-Stadt",
+      "city": "Basel",
+      "coordinates": {
+        "lat": 47.5538,
+        "lng": 7.5941
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "106",
+    "slug": "rhine-swimming-basel",
+    "name": "Rhine Swimming Basel",
+    "description": "Join Basel's beloved summer tradition — float down the Rhine with a Wickelfisch dry bag.",
+    "category": "outdoor",
+    "subcategory": "Swimming",
+    "location": {
+      "region": "Basel Region",
+      "canton": "Basel-Stadt",
+      "city": "Basel",
+      "coordinates": {
+        "lat": 47.5596,
+        "lng": 7.5886
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "107",
+    "slug": "foxtrail-zurich",
+    "name": "Foxtrail Zurich",
+    "description": "Solve puzzles and follow clues through Zurich's hidden streets on this urban scavenger hunt.",
+    "category": "adventure",
+    "subcategory": "City Experience",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3769,
+        "lng": 8.5417
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 36
+  },
+  {
+    "id": "108",
+    "slug": "foxtrail-bern",
+    "name": "Foxtrail Bern",
+    "description": "Urban scavenger hunt through Bern's UNESCO old town, arcades, and secret passageways.",
+    "category": "adventure",
+    "subcategory": "City Experience",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Bern",
+      "coordinates": {
+        "lat": 46.948,
+        "lng": 7.4474
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1558443957-d056622e72cd?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 36
+  },
+  {
+    "id": "109",
+    "slug": "alpamare-water-park",
+    "name": "Alpamare Water Park Pfäffikon",
+    "description": "Switzerland's legendary indoor water park with slides, wave pool, and thermal baths.",
+    "category": "family",
+    "subcategory": "Water Park",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Schwyz",
+      "city": "Pfäffikon",
+      "coordinates": {
+        "lat": 47.2068,
+        "lng": 8.7806
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1527525443983-6e60c75fff46?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 49
+  },
+  {
+    "id": "110",
+    "slug": "hammam-spa-zurich",
+    "name": "Hammam & Spa Zurich",
+    "description": "Authentic Turkish bath experience with steam rooms, scrubs, and relaxation in central Zurich.",
+    "category": "wellness",
+    "subcategory": "Spa",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3752,
+        "lng": 8.532
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 65
+  },
+  {
+    "id": "111",
+    "slug": "bogn-engiadina-scuol",
+    "name": "Bogn Engiadina Scuol",
+    "description": "Engadin mineral baths fed by natural sulphur and iron springs with stunning mountain views.",
+    "category": "wellness",
+    "subcategory": "Thermal Bath",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Scuol",
+      "coordinates": {
+        "lat": 46.7963,
+        "lng": 10.2983
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1574015974293-2096b3f48519?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 28
+  },
+  {
+    "id": "112",
+    "slug": "bains-de-la-gruyere",
+    "name": "Bains de la Gruyère",
+    "description": "Alpine thermal baths in Charmey with panoramic mountain views and saltwater pools.",
+    "category": "wellness",
+    "subcategory": "Thermal Bath",
+    "location": {
+      "region": "Fribourg Region",
+      "canton": "Fribourg",
+      "city": "Charmey",
+      "coordinates": {
+        "lat": 46.6192,
+        "lng": 7.1631
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 25
+  },
+  {
+    "id": "113",
+    "slug": "glacier-garden-lucerne",
+    "name": "Glacier Garden Lucerne",
+    "description": "Geological museum with 20-million-year-old fossils, glacier potholes, and a mirror maze.",
+    "category": "culture",
+    "subcategory": "Museum",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Lucerne",
+      "city": "Lucerne",
+      "coordinates": {
+        "lat": 47.0585,
+        "lng": 8.3119
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550236520-7050f3582da0?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 19
+  },
+  {
+    "id": "114",
+    "slug": "drone-show-grindelwald",
+    "name": "Drone Light Show Grindelwald",
+    "description": "Spectacular choreographed drone light show against the Eiger North Face backdrop.",
+    "category": "family",
+    "subcategory": "Entertainment",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Grindelwald",
+      "coordinates": {
+        "lat": 46.6586,
+        "lng": 8.0414
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1516728778615-2d590ea1855e?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 35
+  },
+  {
+    "id": "115",
+    "slug": "swiss-vapeur-parc",
+    "name": "Swiss Vapeur Parc",
+    "description": "Ride miniature steam and electric trains through a landscaped park on Lake Geneva.",
+    "category": "family",
+    "subcategory": "Theme Park",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Le Bouveret",
+      "coordinates": {
+        "lat": 46.396,
+        "lng": 6.8548
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 22
+  },
+  {
+    "id": "116",
+    "slug": "conny-land-lipperswil",
+    "name": "Conny-Land Lipperswil",
+    "description": "Eastern Switzerland's largest amusement park with roller coasters, shows, and family rides.",
+    "category": "family",
+    "subcategory": "Theme Park",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "Thurgau",
+      "city": "Lipperswil",
+      "coordinates": {
+        "lat": 47.6028,
+        "lng": 9.1186
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1535930749574-1399327ce78f?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 42
+  },
+  {
+    "id": "117",
+    "slug": "knies-kinderzoo-rapperswil",
+    "name": "Knies Kinderzoo Rapperswil",
+    "description": "Switzerland's beloved children's zoo with elephant rides, camel tours, and feeding experiences.",
+    "category": "family",
+    "subcategory": "Zoo",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "St. Gallen",
+      "city": "Rapperswil",
+      "coordinates": {
+        "lat": 47.2266,
+        "lng": 8.8184
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1474511320723-9a56873571b7?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 22
+  },
+  {
+    "id": "118",
+    "slug": "seilpark-balmberg",
+    "name": "Seilpark Balmberg",
+    "description": "Rope park in the Solothurn Jura with treetop courses high above the forest floor.",
+    "category": "adventure",
+    "subcategory": "Rope Park",
+    "location": {
+      "region": "Northwestern Switzerland",
+      "canton": "Solothurn",
+      "city": "Balmberg",
+      "coordinates": {
+        "lat": 47.2422,
+        "lng": 7.5194
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1508873881324-c92a3fc536ba?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 38
+  },
+  {
+    "id": "119",
+    "slug": "augusta-raurica-roman-festival",
+    "name": "Augusta Raurica Roman Festival",
+    "description": "Annual living history festival bringing Roman times to life with gladiators, crafts, and feasts.",
+    "category": "culture",
+    "subcategory": "Festival",
+    "location": {
+      "region": "Basel Region",
+      "canton": "Basel-Landschaft",
+      "city": "Augst",
+      "coordinates": {
+        "lat": 47.5347,
+        "lng": 7.7183
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 12
+  },
+  {
+    "id": "120",
+    "slug": "solothurn-film-festival",
+    "name": "Solothurn Film Festival",
+    "description": "Switzerland's most important film festival showcasing Swiss cinema in the baroque city.",
+    "category": "culture",
+    "subcategory": "Festival",
+    "location": {
+      "region": "Northwestern Switzerland",
+      "canton": "Solothurn",
+      "city": "Solothurn",
+      "coordinates": {
+        "lat": 47.2088,
+        "lng": 7.5371
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 18
+  },
+  {
+    "id": "121",
+    "slug": "montreux-jazz-festival",
+    "name": "Montreux Jazz Festival",
+    "description": "World-famous music festival on Lake Geneva — two weeks of concerts from jazz to pop to rock.",
+    "category": "culture",
+    "subcategory": "Festival",
+    "location": {
+      "region": "Vaud",
+      "canton": "Vaud",
+      "city": "Montreux",
+      "coordinates": {
+        "lat": 46.4312,
+        "lng": 6.9107
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "122",
+    "slug": "zurich-street-parade",
+    "name": "Zürich Street Parade",
+    "description": "Europe's largest techno parade with over a million attendees dancing through Zurich.",
+    "category": "culture",
+    "subcategory": "Festival",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3667,
+        "lng": 8.541
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "123",
+    "slug": "basel-fasnacht",
+    "name": "Basel Fasnacht Carnival",
+    "description": "UNESCO-listed three-day carnival starting at 4 AM with the legendary fife-and-drum Morgenstreich.",
+    "category": "culture",
+    "subcategory": "Festival",
+    "location": {
+      "region": "Basel Region",
+      "canton": "Basel-Stadt",
+      "city": "Basel",
+      "coordinates": {
+        "lat": 47.5596,
+        "lng": 7.5886
+      }
+    },
+    "seasons": [
+      "winter",
+      "spring"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=800&h=500&fit=crop",
+    "featured": true,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "124",
+    "slug": "locarno-film-festival",
+    "name": "Locarno Film Festival",
+    "description": "Prestigious open-air cinema on Piazza Grande — up to 8,000 viewers under the stars.",
+    "category": "culture",
+    "subcategory": "Festival",
+    "location": {
+      "region": "Ticino",
+      "canton": "Ticino",
+      "city": "Locarno",
+      "coordinates": {
+        "lat": 46.171,
+        "lng": 8.7941
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 25
+  },
+  {
+    "id": "125",
+    "slug": "jungfrau-marathon",
+    "name": "Jungfrau Marathon",
+    "description": "One of the world's most spectacular mountain marathons — 42km from Interlaken to Kleine Scheidegg.",
+    "category": "adventure",
+    "subcategory": "Running",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Interlaken",
+      "coordinates": {
+        "lat": 46.6863,
+        "lng": 7.8632
+      }
+    },
+    "seasons": [
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 150
+  },
+  {
+    "id": "126",
+    "slug": "engadin-skimarathon",
+    "name": "Engadin Skimarathon",
+    "description": "Legendary 42km cross-country ski race across the frozen Engadin lakes with 14,000 participants.",
+    "category": "outdoor",
+    "subcategory": "Cross-Country Skiing",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "St. Moritz",
+      "coordinates": {
+        "lat": 46.4908,
+        "lng": 9.8355
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1547483238-2cbf881a559f?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 130
+  },
+  {
+    "id": "127",
+    "slug": "cheese-making-emmental",
+    "name": "Cheese-Making Workshop Emmental",
+    "description": "Learn to make traditional Emmentaler cheese by hand in the valleys where it originated.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Affoltern im Emmental",
+      "coordinates": {
+        "lat": 46.8833,
+        "lng": 7.7333
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559561853-08451507cbe7?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 10
+  },
+  {
+    "id": "128",
+    "slug": "truffle-hunting-ticino",
+    "name": "Truffle Hunting in Ticino",
+    "description": "Search for prized truffles with trained dogs in Ticino's forests followed by a truffle tasting.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Ticino",
+      "canton": "Ticino",
+      "city": "Bellinzona",
+      "coordinates": {
+        "lat": 46.1955,
+        "lng": 9.0234
+      }
+    },
+    "seasons": [
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1504387432042-8aca549e4729?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 120
+  },
+  {
+    "id": "129",
+    "slug": "paragliding-engelberg",
+    "name": "Paragliding Engelberg",
+    "description": "Tandem paraglide from Brunni or Titlis with views of snow-capped peaks and alpine valleys.",
+    "category": "adventure",
+    "subcategory": "Air Sports",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Obwalden",
+      "city": "Engelberg",
+      "coordinates": {
+        "lat": 46.8197,
+        "lng": 8.4073
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 180
+  },
+  {
+    "id": "130",
+    "slug": "paragliding-davos",
+    "name": "Paragliding Davos",
+    "description": "Tandem paragliding over the Davos valley with panoramic views of the Graubünden Alps.",
+    "category": "adventure",
+    "subcategory": "Air Sports",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Davos",
+      "coordinates": {
+        "lat": 46.8027,
+        "lng": 9.836
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1600944585003-27d11068bc91?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 190
+  },
+  {
+    "id": "131",
+    "slug": "wakeboarding-thunersee",
+    "name": "Wakeboarding Lake Thun",
+    "description": "Cable wakeboarding on Lake Thun with Bernese Alps as your backdrop.",
+    "category": "adventure",
+    "subcategory": "Water Sports",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Thun",
+      "coordinates": {
+        "lat": 46.745,
+        "lng": 7.61
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 38
+  },
+  {
+    "id": "132",
+    "slug": "sup-lake-zurich",
+    "name": "Stand-Up Paddling Lake Zurich",
+    "description": "SUP on Lake Zurich with city skyline views and the Alps in the background.",
+    "category": "outdoor",
+    "subcategory": "Water Sports",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3543,
+        "lng": 8.544
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1543332164-6e82f355badc?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 28
+  },
+  {
+    "id": "133",
+    "slug": "fishing-lake-thun",
+    "name": "Guided Fishing Lake Thun",
+    "description": "Guided fishing on Lake Thun for trout, perch, and whitefish with mountain scenery.",
+    "category": "outdoor",
+    "subcategory": "Fishing",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Thun",
+      "coordinates": {
+        "lat": 46.758,
+        "lng": 7.628
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1500463959177-e0869687df26?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 120
+  },
+  {
+    "id": "134",
+    "slug": "horse-riding-jura",
+    "name": "Horse Riding in the Jura",
+    "description": "Trail riding through the rolling Freiberge highlands — Switzerland's horse country.",
+    "category": "outdoor",
+    "subcategory": "Horse Riding",
+    "location": {
+      "region": "Jura & Three-Lakes",
+      "canton": "Jura",
+      "city": "Saignelégier",
+      "coordinates": {
+        "lat": 47.2555,
+        "lng": 6.9919
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 20
+  },
+  {
+    "id": "135",
+    "slug": "golf-crans-montana",
+    "name": "Golf Crans-Montana",
+    "description": "Play the championship course that hosts the European Masters at 1,500m altitude.",
+    "category": "outdoor",
+    "subcategory": "Golf",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Crans-Montana",
+      "coordinates": {
+        "lat": 46.3076,
+        "lng": 7.49
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 85
+  },
+  {
+    "id": "136",
+    "slug": "yoga-retreat-graubunden",
+    "name": "Mountain Yoga Retreat Graubünden",
+    "description": "Multi-day yoga retreat in the Arosa mountains with meditation, hiking, and alpine wellness.",
+    "category": "wellness",
+    "subcategory": "Yoga",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Arosa",
+      "coordinates": {
+        "lat": 46.7834,
+        "lng": 9.6797
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 450
+  },
+  {
+    "id": "137",
+    "slug": "cooking-class-zurich",
+    "name": "Swiss Cooking Class Zurich",
+    "description": "Learn to cook traditional Swiss dishes — fondue, rösti, Züri Gschnätzlets — in a hands-on class.",
+    "category": "culture",
+    "subcategory": "Food & Drink",
+    "location": {
+      "region": "Zurich Region",
+      "canton": "Zurich",
+      "city": "Zurich",
+      "coordinates": {
+        "lat": 47.3769,
+        "lng": 8.5417
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 145
+  },
+  {
+    "id": "138",
+    "slug": "photography-tour-lauterbrunnen",
+    "name": "Photography Tour Lauterbrunnen",
+    "description": "Guided photography walk through the Valley of 72 Waterfalls with expert composition tips.",
+    "category": "culture",
+    "subcategory": "Tour",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Lauterbrunnen",
+      "coordinates": {
+        "lat": 46.5934,
+        "lng": 7.9086
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 85
+  },
+  {
+    "id": "139",
+    "slug": "curling-zermatt",
+    "name": "Curling Experience Zermatt",
+    "description": "Try Olympic curling on outdoor ice rinks with Matterhorn views in Zermatt.",
+    "category": "adventure",
+    "subcategory": "Winter Sports",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Zermatt",
+      "coordinates": {
+        "lat": 46.0207,
+        "lng": 7.7491
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1575721150019-61b5f87bcee4?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 42
+  },
+  {
+    "id": "140",
+    "slug": "tobogganing-rigi",
+    "name": "Tobogganing on Rigi",
+    "description": "Sled down a scenic 6km toboggan run on the 'Queen of the Mountains' above Lake Lucerne.",
+    "category": "outdoor",
+    "subcategory": "Sledding",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Lucerne",
+      "city": "Vitznau",
+      "coordinates": {
+        "lat": 47.0567,
+        "lng": 8.485
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1611499616977-6c903e285400?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 38
+  },
+  {
+    "id": "141",
+    "slug": "fat-biking-gstaad",
+    "name": "Fat Biking Gstaad",
+    "description": "Ride oversized-tire bikes through snowy Gstaad trails for a unique winter cycling experience.",
+    "category": "adventure",
+    "subcategory": "Cycling",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Gstaad",
+      "coordinates": {
+        "lat": 46.4748,
+        "lng": 7.2858
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1540655037529-dec987e60295?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 48
+  },
+  {
+    "id": "142",
+    "slug": "cave-tour-holloch",
+    "name": "Hölloch Cave Tour",
+    "description": "Explore one of the world's longest cave systems — 200+ km of underground passages in Schwyz.",
+    "category": "adventure",
+    "subcategory": "Caving",
+    "location": {
+      "region": "Central Switzerland",
+      "canton": "Schwyz",
+      "city": "Muotathal",
+      "coordinates": {
+        "lat": 46.975,
+        "lng": 8.77
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504376379689-8d54347b26c6?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 115
+  },
+  {
+    "id": "143",
+    "slug": "gorner-gorge-zermatt",
+    "name": "Gorner Gorge Zermatt",
+    "description": "Walk through a dramatic glacier gorge carved by meltwater from the Gorner Glacier.",
+    "category": "outdoor",
+    "subcategory": "Gorge",
+    "location": {
+      "region": "Valais",
+      "canton": "Valais",
+      "city": "Zermatt",
+      "coordinates": {
+        "lat": 46.01,
+        "lng": 7.75
+      }
+    },
+    "seasons": [
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1504700610630-ac6edd918a0a?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 5
+  },
+  {
+    "id": "144",
+    "slug": "blausee-lake",
+    "name": "Blausee – Blue Lake",
+    "description": "A magical crystal-clear blue lake in an enchanted forest park near Kandersteg.",
+    "category": "outdoor",
+    "subcategory": "Lake",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Kandergrund",
+      "coordinates": {
+        "lat": 46.5281,
+        "lng": 7.6616
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 10
+  },
+  {
+    "id": "145",
+    "slug": "caumasee-flims",
+    "name": "Caumasee – Lake Cauma",
+    "description": "A hidden emerald-green swimming lake in the forest above Flims — one of Switzerland's gems.",
+    "category": "outdoor",
+    "subcategory": "Lake",
+    "location": {
+      "region": "Graubünden",
+      "canton": "Graubünden",
+      "city": "Flims",
+      "coordinates": {
+        "lat": 46.8272,
+        "lng": 9.2714
+      }
+    },
+    "seasons": [
+      "summer"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 10
+  },
+  {
+    "id": "146",
+    "slug": "oeschinen-lake-winter",
+    "name": "Oeschinen Lake Winter Experience",
+    "description": "Visit the frozen UNESCO lake for ice fishing, winter hiking, and a magical snow-covered landscape.",
+    "category": "outdoor",
+    "subcategory": "Winter Experience",
+    "location": {
+      "region": "Bern Region",
+      "canton": "Bern",
+      "city": "Kandersteg",
+      "coordinates": {
+        "lat": 46.4975,
+        "lng": 7.7241
+      }
+    },
+    "seasons": [
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 24
+  },
+  {
+    "id": "147",
+    "slug": "klontalersee",
+    "name": "Klöntalersee",
+    "description": "A serene alpine lake in canton Glarus with turquoise waters, free access, and mountain backdrop.",
+    "category": "outdoor",
+    "subcategory": "Lake",
+    "location": {
+      "region": "Eastern Switzerland",
+      "canton": "Glarus",
+      "city": "Glarus",
+      "coordinates": {
+        "lat": 47.023,
+        "lng": 8.97
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1580137189272-c9379f8864fd?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 1,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "148",
+    "slug": "thermal-baths-yverdon",
+    "name": "Thermal Baths Yverdon-les-Bains",
+    "description": "Natural sulphur thermal springs in the lakeside town of Yverdon-les-Bains.",
+    "category": "wellness",
+    "subcategory": "Thermal Bath",
+    "location": {
+      "region": "Vaud",
+      "canton": "Vaud",
+      "city": "Yverdon-les-Bains",
+      "coordinates": {
+        "lat": 46.7785,
+        "lng": 6.6389
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": true,
+    "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 20
+  },
+  {
+    "id": "149",
+    "slug": "solothurn-old-town",
+    "name": "Solothurn Old Town Tour",
+    "description": "Explore the 'most beautiful baroque city in Switzerland' — the city built on the number 11.",
+    "category": "culture",
+    "subcategory": "City Tour",
+    "location": {
+      "region": "Northwestern Switzerland",
+      "canton": "Solothurn",
+      "city": "Solothurn",
+      "coordinates": {
+        "lat": 47.2088,
+        "lng": 7.5371
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1564429238961-bf4213e78bbf?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  },
+  {
+    "id": "150",
+    "slug": "aarau-old-town",
+    "name": "Aarau Old Town & Painted Eaves",
+    "description": "Discover Aarau's unique painted roof eaves (Dachhimmel) — the most beautiful in Switzerland.",
+    "category": "culture",
+    "subcategory": "City Tour",
+    "location": {
+      "region": "Northwestern Switzerland",
+      "canton": "Aargau",
+      "city": "Aarau",
+      "coordinates": {
+        "lat": 47.3925,
+        "lng": 8.0444
+      }
+    },
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "indoor": false,
+    "imageUrl": "https://images.unsplash.com/photo-1571168136613-46401b03904e?w=800&h=500&fit=crop",
+    "featured": false,
+    "providerCount": 2,
+    "minAdultPrice": 0
+  }
+]

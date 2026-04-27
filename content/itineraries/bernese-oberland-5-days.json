@@ -1,0 +1,82 @@
+{
+  "id": "2",
+  "slug": "bernese-oberland-5-days",
+  "title": "5 Days in the Bernese Oberland",
+  "subtitle": "Interlaken, Grindelwald, Lauterbrunnen & the Big Three Peaks",
+  "description": "Dive deep into the most spectacular mountain region in Switzerland. Base yourself in Interlaken and explore three iconic peaks (Jungfraujoch, Schilthorn, and First), 72 waterfalls in Lauterbrunnen, and thrilling outdoor adventures.",
+  "duration": "5 days",
+  "days": 5,
+  "difficulty": "Moderate",
+  "bestSeason": "June – September",
+  "estimatedBudget": {
+    "budget": "CHF 800",
+    "mid": "CHF 1,500",
+    "luxury": "CHF 3,000"
+  },
+  "coverImage": "https://images.unsplash.com/photo-1605540436338-67b4aeb10709?w=1200&h=600&fit=crop",
+  "regions": [
+    "Bern Region"
+  ],
+  "tags": [
+    "mountains",
+    "adventure",
+    "hiking",
+    "peaks",
+    "waterfalls"
+  ],
+  "featured": true,
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Interlaken",
+      "location": "Interlaken",
+      "description": "Settle in and explore Interlaken's Höheweg promenade between the two lakes. Afternoon paragliding over the town with views of Eiger, Mönch, and Jungfrau.",
+      "activitySlugs": [
+        "paragliding-interlaken"
+      ],
+      "tip": "Stay in Interlaken for all 5 nights — it's the perfect hub"
+    },
+    {
+      "day": 2,
+      "title": "Jungfraujoch — Top of Europe",
+      "location": "Jungfraujoch",
+      "description": "Full day at Europe's highest railway station. Visit the Ice Palace, Sphinx observation terrace, and Alpine Sensation exhibition. Views of the Aletsch Glacier.",
+      "activitySlugs": [
+        "jungfraujoch-top-of-europe"
+      ],
+      "transport": "Interlaken → Jungfraujoch: 2h by cogwheel train via Kleine Scheidegg",
+      "tip": "Take the first train (6:35) for the least clouds and smallest crowds"
+    },
+    {
+      "day": 3,
+      "title": "Lauterbrunnen Valley & Schilthorn",
+      "location": "Lauterbrunnen",
+      "description": "Morning exploring the Lauterbrunnen valley with its 72 waterfalls including Staubbach Falls. Cable car up to Schilthorn for the rotating Piz Gloria restaurant (James Bond location).",
+      "activitySlugs": [
+        "lauterbrunnen-waterfalls",
+        "schilthorn-piz-gloria"
+      ],
+      "transport": "Interlaken → Lauterbrunnen: 20 min by train"
+    },
+    {
+      "day": 4,
+      "title": "Grindelwald-First & Adventure",
+      "location": "Grindelwald",
+      "description": "Take the gondola to First (2,168m) for the First Cliff Walk, First Glider zip-line, and Mountain Cart ride. Hike to Bachalpsee for iconic Eiger reflections.",
+      "activitySlugs": [
+        "grindelwald-first-adventure"
+      ],
+      "transport": "Interlaken → Grindelwald: 35 min"
+    },
+    {
+      "day": 5,
+      "title": "Lake Brienz & Departure",
+      "location": "Interlaken",
+      "description": "Morning cruise on turquoise Lake Brienz to Giessbach Falls. Visit the open-air museum Ballenberg if time allows. Afternoon departure.",
+      "activitySlugs": [
+        "lake-brienz-cruise"
+      ],
+      "transport": "Boat from Interlaken Ost to Giessbach: 45 min"
+    }
+  ]
+}

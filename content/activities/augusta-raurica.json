@@ -1,0 +1,89 @@
+{
+  "id": "96",
+  "slug": "augusta-raurica",
+  "name": "Augusta Raurica Roman City",
+  "description": "The best-preserved Roman city north of the Alps with a reconstructed Roman house and theatre.",
+  "longDescription": "Augusta Raurica near Basel was once a thriving Roman colony of 20,000 inhabitants. Today it is the best-preserved Roman site north of the Alps with a fully reconstructed Roman house, a 10,000-seat theatre, a museum with the famous silver treasure, and free-access archaeological park.",
+  "category": "culture",
+  "subcategory": "Archaeological Site",
+  "location": {
+    "region": "Basel Region",
+    "canton": "Basel-Landschaft",
+    "city": "Augst",
+    "coordinates": {
+      "lat": 47.5347,
+      "lng": 7.7183
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Augusta Raurica (Outdoor Park)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.augustaraurica.ch",
+      "rating": 4.5,
+      "description": "Free access to archaeological park and theatre"
+    },
+    {
+      "name": "Augusta Raurica Museum",
+      "pricing": {
+        "child": 0,
+        "student": 6,
+        "adult": 8,
+        "senior": 6
+      },
+      "bookingUrl": "https://www.augustaraurica.ch",
+      "rating": 4.4,
+      "description": "Museum with silver treasure and Roman artefacts"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1494949360457-518eb54fe235?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Founded",
+      "value": "44 BC"
+    },
+    {
+      "label": "Theatre",
+      "value": "10,000 seats"
+    },
+    {
+      "label": "Silver Treasure",
+      "value": "58 kg hoard"
+    },
+    {
+      "label": "Roman House",
+      "value": "Fully reconstructed"
+    },
+    {
+      "label": "Park Access",
+      "value": "Free"
+    }
+  ],
+  "tags": [
+    "roman",
+    "ruins",
+    "history",
+    "basel-landschaft",
+    "archaeology"
+  ],
+  "featured": false,
+  "deal": {
+    "discount": 100,
+    "label": "Free Outdoor Access",
+    "validUntil": "2026-12-31"
+  }
+}

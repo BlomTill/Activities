@@ -1,0 +1,69 @@
+{
+  "id": "81",
+  "slug": "saas-fee-skiing",
+  "name": "Saas-Fee Glacier Skiing",
+  "description": "The 'Pearl of the Alps' with glacier skiing up to 3,600m and a car-free village.",
+  "longDescription": "Saas-Fee is surrounded by 13 four-thousand-metre peaks and offers year-round glacier skiing up to 3,600m. The car-free village, the Metro Alpin funicular (the world's highest), and 100km of slopes make it a unique destination.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Saas-Fee",
+    "coordinates": {
+      "lat": 46.1081,
+      "lng": 7.9271
+    }
+  },
+  "seasons": [
+    "winter",
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Saastal Bergbahnen",
+      "pricing": {
+        "child": 36,
+        "student": 56,
+        "adult": 72,
+        "senior": 61
+      },
+      "bookingUrl": "https://www.saas-fee.ch",
+      "rating": 4.6
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slopes",
+      "value": "100 km"
+    },
+    {
+      "label": "Summit",
+      "value": "3,600m"
+    },
+    {
+      "label": "4000ers",
+      "value": "13 peaks"
+    },
+    {
+      "label": "Metro Alpin",
+      "value": "Highest funicular"
+    },
+    {
+      "label": "Car-Free",
+      "value": "Village"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "glacier",
+    "saas-fee",
+    "car-free",
+    "winter"
+  ],
+  "featured": false
+}

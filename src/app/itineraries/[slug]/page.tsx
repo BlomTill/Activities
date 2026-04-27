@@ -8,8 +8,8 @@ import { MapPin, Clock, Mountain, Wallet, Calendar, ArrowLeft, Train, Lightbulb,
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { getItineraryBySlug } from "@/data/itineraries";
-import { getActivityBySlug } from "@/data/activities";
+import { getItineraryBySlug } from "@/lib/content/selectors";
+import { getActivityBySlug } from "@/lib/content/selectors";
 import { NewsletterSignup } from "@/components/newsletter-signup";
 import { getBestPrice } from "@/lib/types";
 import { useAgeGroup } from "@/context/age-group-context";

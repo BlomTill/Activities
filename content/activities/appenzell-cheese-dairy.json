@@ -1,0 +1,72 @@
+{
+  "id": "27",
+  "slug": "appenzell-cheese-dairy",
+  "name": "Appenzell Show Dairy",
+  "description": "Watch traditional Appenzeller cheese being made and sample the famous varieties.",
+  "longDescription": "Visit the Appenzeller Schaukäserei in Stein and watch master cheesemakers craft the famous Appenzeller cheese using a secret herbal brine recipe. Interactive exhibits and generous tastings.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "Appenzell",
+    "city": "Stein",
+    "coordinates": {
+      "lat": 47.3697,
+      "lng": 9.3486
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Appenzeller Schaukäserei",
+      "pricing": {
+        "child": 5,
+        "student": 8,
+        "adult": 12,
+        "senior": 10
+      },
+      "bookingUrl": "https://www.schaukaeserei.ch",
+      "rating": 4.3,
+      "description": "Self-guided tour with tasting"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Cheese Type",
+      "value": "Appenzeller"
+    },
+    {
+      "label": "Secret Recipe",
+      "value": "Herbal brine"
+    },
+    {
+      "label": "Tastings",
+      "value": "Generous"
+    },
+    {
+      "label": "Founded",
+      "value": "Traditional"
+    },
+    {
+      "label": "Interactive",
+      "value": "Exhibits"
+    }
+  ],
+  "tags": [
+    "cheese",
+    "food",
+    "appenzell",
+    "tradition",
+    "tasting"
+  ],
+  "featured": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "85",
+  "slug": "flumserberg-skiing",
+  "name": "Flumserberg Skiing",
+  "description": "Eastern Switzerland's largest ski resort — ideal for families with panoramic Churfirsten views.",
+  "longDescription": "Flumserberg is the largest ski area in Eastern Switzerland with 65km of slopes and 17 lifts. Renowned as an excellent family resort with gentle nursery slopes, a snow park, and spectacular views of the Churfirsten peaks and Walensee below.",
+  "category": "outdoor",
+  "subcategory": "Skiing",
+  "location": {
+    "region": "Eastern Switzerland",
+    "canton": "St. Gallen",
+    "city": "Flumserberg",
+    "coordinates": {
+      "lat": 47.0928,
+      "lng": 9.2794
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Bergbahnen Flumserberg",
+      "pricing": {
+        "child": 28,
+        "student": 42,
+        "adult": 56,
+        "senior": 48
+      },
+      "bookingUrl": "https://www.flumserberg.ch",
+      "rating": 4.4
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Full day",
+  "imageUrl": "https://images.unsplash.com/photo-1517483000871-1dbf64a6e1c6?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Slopes",
+      "value": "65 km"
+    },
+    {
+      "label": "Lifts",
+      "value": "17"
+    },
+    {
+      "label": "Family",
+      "value": "Excellent"
+    },
+    {
+      "label": "Views",
+      "value": "Churfirsten + Walensee"
+    },
+    {
+      "label": "Region",
+      "value": "Eastern Switzerland's largest"
+    }
+  ],
+  "tags": [
+    "skiing",
+    "family",
+    "winter",
+    "eastern switzerland",
+    "panorama"
+  ],
+  "featured": false
+}

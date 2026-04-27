@@ -1,0 +1,72 @@
+{
+  "id": "137",
+  "slug": "cooking-class-zurich",
+  "name": "Swiss Cooking Class Zurich",
+  "description": "Learn to cook traditional Swiss dishes — fondue, rösti, Züri Gschnätzlets — in a hands-on class.",
+  "longDescription": "Master Swiss culinary classics in a hands-on cooking class in Zurich. Professional chefs guide you through recipes like cheese fondue, Bernese rösti, Züri Gschnätzlets, and Swiss chocolate desserts. Includes market visit, cooking, and communal dining with wine.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3769,
+      "lng": 8.5417
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Zurich Cooking Class",
+      "pricing": {
+        "child": 0,
+        "student": 110,
+        "adult": 145,
+        "senior": 135
+      },
+      "bookingUrl": "https://www.cookingclass-zurich.ch",
+      "rating": 4.6,
+      "description": "3-hour class with market visit and dinner"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-4 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Dishes",
+      "value": "Fondue, rösti, Gschnätzlets"
+    },
+    {
+      "label": "Hands-On",
+      "value": "Cook everything"
+    },
+    {
+      "label": "Market",
+      "value": "Visit included"
+    },
+    {
+      "label": "Wine",
+      "value": "Paired dinner"
+    },
+    {
+      "label": "Chef",
+      "value": "Professional instruction"
+    }
+  ],
+  "tags": [
+    "cooking",
+    "class",
+    "fondue",
+    "zurich",
+    "food"
+  ],
+  "featured": false
+}

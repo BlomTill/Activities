@@ -1,0 +1,109 @@
+{
+  "id": "1",
+  "slug": "classic-switzerland-7-days",
+  "title": "Classic Switzerland in 7 Days",
+  "subtitle": "Zurich, Lucerne, Interlaken, Zermatt, and Geneva",
+  "description": "The ultimate first-timer's route hitting Switzerland's greatest highlights — from vibrant cities to iconic Alpine peaks. This itinerary covers the Jungfraujoch, Matterhorn, Lake Geneva, and charming old towns, all connected by scenic train rides.",
+  "duration": "7 days",
+  "days": 7,
+  "difficulty": "Easy",
+  "bestSeason": "May – October",
+  "estimatedBudget": {
+    "budget": "CHF 1,200",
+    "mid": "CHF 2,200",
+    "luxury": "CHF 4,500"
+  },
+  "coverImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1200&h=600&fit=crop",
+  "regions": [
+    "Zurich Region",
+    "Central Switzerland",
+    "Bern Region",
+    "Valais",
+    "Geneva Region"
+  ],
+  "tags": [
+    "first-time",
+    "classic",
+    "mountains",
+    "cities",
+    "train"
+  ],
+  "featured": true,
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Arrive in Zurich",
+      "location": "Zurich",
+      "description": "Explore Zurich's old town (Altstadt), stroll along the Limmat river, visit Bahnhofstrasse, and take in views from Lindenhof hill. Evening at a lakeside restaurant.",
+      "activitySlugs": [
+        "zurich-old-town-walking-tour"
+      ],
+      "transport": "Airport to city: 10 min by train",
+      "tip": "Get a Zurich Card for free public transport and museum entry"
+    },
+    {
+      "day": 2,
+      "title": "Zurich to Lucerne",
+      "location": "Lucerne",
+      "description": "Morning train to Lucerne (45 min). Walk across Chapel Bridge, visit the Lion Monument, and explore the charming old town. Afternoon boat cruise on Lake Lucerne.",
+      "activitySlugs": [
+        "lake-lucerne-steamboat-cruise",
+        "swiss-museum-of-transport"
+      ],
+      "transport": "Zurich → Lucerne: 45 min direct train",
+      "tip": "The Swiss Museum of Transport is perfect if weather turns"
+    },
+    {
+      "day": 3,
+      "title": "Mount Pilatus Day Trip",
+      "location": "Lucerne",
+      "description": "The Golden Round Trip: boat from Lucerne to Alpnachstad, cogwheel railway up Pilatus, cable car down to Kriens, bus back to Lucerne. One of Switzerland's best day trips.",
+      "activitySlugs": [
+        "mount-pilatus-golden-round-trip"
+      ],
+      "transport": "All included in Golden Round Trip ticket"
+    },
+    {
+      "day": 4,
+      "title": "Lucerne to Interlaken & Jungfraujoch",
+      "location": "Interlaken",
+      "description": "Morning train to Interlaken via the scenic Brünig Pass. Afternoon ascent to Jungfraujoch – Top of Europe. Views of the Aletsch Glacier from 3,454m.",
+      "activitySlugs": [
+        "jungfraujoch-top-of-europe"
+      ],
+      "transport": "Lucerne → Interlaken: 2h scenic Brünig line",
+      "tip": "Book Jungfraujoch early — morning slots are less cloudy"
+    },
+    {
+      "day": 5,
+      "title": "Interlaken to Zermatt",
+      "location": "Zermatt",
+      "description": "Scenic train through the Lötschberg tunnel to Zermatt. Afternoon cable car to Matterhorn Glacier Paradise (3,883m) for 360° views of 38 Alpine peaks.",
+      "activitySlugs": [
+        "zermatt-matterhorn-glacier-paradise"
+      ],
+      "transport": "Interlaken → Zermatt: 2.5h (change at Visp)",
+      "tip": "Zermatt is car-free — take the shuttle train from Täsch"
+    },
+    {
+      "day": 6,
+      "title": "Zermatt to Geneva via Montreux",
+      "location": "Geneva",
+      "description": "Morning train through the Rhône valley. Stop in Montreux to visit Château de Chillon, then continue to Geneva. Evening walk along Lake Geneva with views of Jet d'Eau.",
+      "activitySlugs": [
+        "chateau-de-chillon"
+      ],
+      "transport": "Zermatt → Montreux: 2.5h | Montreux → Geneva: 1h"
+    },
+    {
+      "day": 7,
+      "title": "Geneva & Departure",
+      "location": "Geneva",
+      "description": "Visit the United Nations, the Reformation Wall, and the old town. Lake Geneva cruise if time allows. Head to Geneva Airport for departure.",
+      "activitySlugs": [
+        "lake-geneva-boat-cruise"
+      ],
+      "transport": "Geneva city to airport: 7 min by train"
+    }
+  ]
+}

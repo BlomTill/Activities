@@ -1,0 +1,84 @@
+{
+  "id": "148",
+  "slug": "thermal-baths-yverdon",
+  "name": "Thermal Baths Yverdon-les-Bains",
+  "description": "Natural sulphur thermal springs in the lakeside town of Yverdon-les-Bains.",
+  "longDescription": "The Centre Thermal Yverdon-les-Bains draws on natural sulphur-rich hot springs that have been known since Roman times. Indoor and outdoor pools, a fitness pool, massage jets, and a wellness area. Set on the shores of Lake Neuchâtel with views of the Jura mountains.",
+  "category": "wellness",
+  "subcategory": "Thermal Bath",
+  "location": {
+    "region": "Vaud",
+    "canton": "Vaud",
+    "city": "Yverdon-les-Bains",
+    "coordinates": {
+      "lat": 46.7785,
+      "lng": 6.6389
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Centre Thermal (2 hours)",
+      "pricing": {
+        "child": 10,
+        "student": 15,
+        "adult": 20,
+        "senior": 17
+      },
+      "bookingUrl": "https://www.cty.ch",
+      "rating": 4.3,
+      "description": "2-hour pool access"
+    },
+    {
+      "name": "Centre Thermal (Full Day)",
+      "pricing": {
+        "child": 15,
+        "student": 22,
+        "adult": 29,
+        "senior": 25
+      },
+      "bookingUrl": "https://www.cty.ch",
+      "rating": 4.4,
+      "description": "Full-day access with wellness area"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Springs",
+      "value": "Sulphur-rich"
+    },
+    {
+      "label": "Since",
+      "value": "Roman times"
+    },
+    {
+      "label": "Pools",
+      "value": "Indoor + outdoor"
+    },
+    {
+      "label": "Lake",
+      "value": "Neuchâtel shore"
+    },
+    {
+      "label": "Views",
+      "value": "Jura mountains"
+    }
+  ],
+  "tags": [
+    "thermal bath",
+    "sulphur",
+    "wellness",
+    "yverdon",
+    "spa"
+  ],
+  "featured": false
+}

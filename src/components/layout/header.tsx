@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Mountain, Menu, X, Scale, ChevronDown } from "lucide-react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { LanguageSwitcher } from "@/components/language-switcher";
@@ -71,7 +71,14 @@ export function Header() {
   const pathname = usePathname();
   const [mobileOpen, setMobileOpen] = useState(false);
   const [openMenu, setOpenMenu] = useState<string | null>(null);
+  const [scrolled, setScrolled] = useState(false);
   const { comparisonList } = useComparison();
+
+  useEffect(() => {
+    const handleScroll = () => setScrolled(window.scrollY > 24);
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
 
   function isActive(item: NavItem) {
     if (pathname === item.href) return true;
@@ -79,21 +86,48 @@ export function Header() {
     return false;
   }
 
+  const isHome = pathname === "/";
+
   return (
-    <header className="sticky top-0 z-50 border-b border-white/40 bg-white/80 backdrop-blur-xl">
-      <div className="alpine-rule absolute inset-x-0 top-0 opacity-70" aria-hidden />
+    <header
+      className={cn(
+        "top-0 z-50 border-b transition-all duration-300",
+        isHome
+          ? cn(
+              "fixed w-full",
+              scrolled
+                ? "border-[#1e1b17]/80 bg-[#0c0b09]/90 backdrop-blur-xl"
+                : "border-transparent bg-transparent"
+            )
+          : cn(
+              "sticky",
+              scrolled
+                ? "border-[#1e1b17] bg-[#0c0b09]/95 backdrop-blur-xl"
+                : "border-[#1e1b17]/60 bg-[#0c0b09]/90 backdrop-blur-xl"
+            )
+      )}
+    >
+      {!isHome && <div className="alpine-rule absolute inset-x-0 top-0 opacity-70" aria-hidden />}
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
         <Link href="/" className="group flex items-center gap-2">
-          <span className="relative flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-red-500 to-red-700 shadow-[0_8px_18px_-6px_rgba(220,38,38,0.55)] transition-transform group-hover:-rotate-6 group-hover:scale-105">
-            <Mountain className="h-5 w-5 text-white" />
-            <span className="absolute -right-0.5 -top-0.5 h-2 w-2 rounded-full bg-amber-300 ring-2 ring-white" />
-          </span>
-          <span className="text-lg font-semibold tracking-tight">
-            <span className="font-story italic text-slate-800">Explore</span>
-            <span className="ml-1 bg-gradient-to-r from-red-600 to-red-500 bg-clip-text text-transparent">
-              Switzerland
+          {isHome ? (
+            <span className="font-[Cormorant_Garamond,serif] text-[1.05rem] font-semibold tracking-[0.05em] text-[#ede8df]">
+              Explore<span className="text-[oklch(74%_0.13_63deg)]">.</span>Switzerland
             </span>
-          </span>
+          ) : (
+            <>
+              <span className="relative flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-red-500 to-red-700 shadow-[0_8px_18px_-6px_rgba(220,38,38,0.55)] transition-transform group-hover:-rotate-6 group-hover:scale-105">
+                <Mountain className="h-5 w-5 text-white" />
+                <span className="absolute -right-0.5 -top-0.5 h-2 w-2 rounded-full bg-amber-300 ring-2 ring-white" />
+              </span>
+              <span className="text-lg font-semibold tracking-tight">
+                <span className="font-[var(--font-geist-sans)] font-semibold tracking-tight text-[#ede8df]">Explore</span>
+                <span className="ml-1 text-[oklch(74%_0.13_63deg)]">
+                  Switzerland
+                </span>
+              </span>
+            </>
+          )}
         </Link>
 
         <nav
@@ -112,8 +146,10 @@ export function Header() {
                 <Link
                   href={item.href}
                   className={cn(
-                    "link-flourish relative inline-flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium transition-colors hover:text-red-700",
-                    active ? "text-red-700" : "text-gray-700"
+                    "link-flourish relative inline-flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium transition-colors",
+                    isHome
+                      ? cn("text-[#9a9187] hover:text-[#ede8df] tracking-[0.12em] uppercase text-xs", active && "text-[#ede8df]")
+                      : cn("hover:text-[#c4973a] transition-colors", active ? "text-[#c4973a]" : "text-[#b0a898]")
                   )}
                 >
                   {item.label}
@@ -122,19 +158,19 @@ export function Header() {
 
                 {hasSub && openMenu === item.label && (
                   <div className="absolute left-1/2 top-full -translate-x-1/2 pt-2">
-                    <div className="w-80 rounded-xl border border-gray-200 bg-white p-2 shadow-xl animate-fade-up">
+                    <div className="w-80 rounded-xl border border-[#2a261f] bg-[#131210] p-2 shadow-xl animate-fade-up">
                       {item.sub!.map((s) => (
                         <Link
                           key={s.href}
                           href={s.href}
-                          className="block rounded-lg px-3 py-2 transition hover:bg-gray-50"
+                          className="block rounded-lg px-3 py-2 transition hover:bg-[#1e1b17]"
                           onClick={() => setOpenMenu(null)}
                         >
-                          <div className="text-sm font-medium text-gray-900">
+                          <div className="text-sm font-medium text-[#ede8df]">
                             {s.label}
                           </div>
                           {s.blurb && (
-                            <div className="mt-0.5 text-xs text-gray-500">{s.blurb}</div>
+                            <div className="mt-0.5 text-xs text-[#8a7e70]">{s.blurb}</div>
                           )}
                         </Link>
                       ))}
@@ -160,6 +196,9 @@ export function Header() {
         </nav>
 
         <div className="hidden md:flex items-center gap-2">
+          <Link href="/privacy" className="text-xs font-medium text-[#8a7e70] transition-colors hover:text-[#c4973a]">
+            Privacy
+          </Link>
           <LanguageSwitcher />
         </div>
 
@@ -174,7 +213,7 @@ export function Header() {
       </div>
 
       {mobileOpen && (
-        <div className="border-t bg-white px-4 pb-4 md:hidden">
+        <div className="border-t border-[#1e1b17] bg-[#0c0b09] px-4 pb-4 md:hidden animate-fade-up" style={{ animationDuration: "0.2s" }}>
           <nav className="flex flex-col gap-1 pt-2">
             {NAV.map((item) => (
               <div key={item.label} className="py-1">
@@ -182,8 +221,8 @@ export function Header() {
                   href={item.href}
                   onClick={() => setMobileOpen(false)}
                   className={cn(
-                    "block rounded-md px-3 py-2 text-sm font-semibold transition-colors hover:bg-gray-100",
-                    isActive(item) ? "bg-gray-100 text-red-700" : "text-gray-900"
+                    "block rounded-md px-3 py-2 text-sm font-semibold transition-colors hover:bg-[#131210]",
+                    isActive(item) ? "bg-[#131210] text-[#c4973a]" : "text-[#ede8df]"
                   )}
                 >
                   {item.label}
@@ -193,7 +232,7 @@ export function Header() {
                     key={s.href}
                     href={s.href}
                     onClick={() => setMobileOpen(false)}
-                    className="block rounded-md px-6 py-1.5 text-sm text-gray-600 hover:bg-gray-50 hover:text-red-700"
+                    className="block rounded-md px-6 py-1.5 text-sm text-[#8a7e70] hover:bg-[#131210] hover:text-[#c4973a]"
                   >
                     {s.label}
                   </Link>
@@ -204,13 +243,20 @@ export function Header() {
               <Link
                 href="/compare"
                 onClick={() => setMobileOpen(false)}
-                className="rounded-md px-3 py-2 text-sm font-medium text-gray-700"
+                className="rounded-md px-3 py-2 text-sm font-medium text-[#b0a898]"
               >
                 Compare ({comparisonList.length})
               </Link>
             )}
           </nav>
-          <div className="mt-3 border-t pt-3">
+          <div className="mt-3 border-t border-[#1e1b17] pt-3">
+            <Link
+              href="/privacy"
+              onClick={() => setMobileOpen(false)}
+              className="mb-2 block rounded-md px-3 py-2 text-sm text-[#8a7e70] hover:bg-[#131210] hover:text-[#c4973a]"
+            >
+              Privacy
+            </Link>
             <LanguageSwitcher />
           </div>
         </div>

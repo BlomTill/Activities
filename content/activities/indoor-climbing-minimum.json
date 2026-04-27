@@ -1,0 +1,84 @@
+{
+  "id": "46",
+  "slug": "indoor-climbing-minimum",
+  "name": "Minimum Bouldering Zurich",
+  "description": "Top-rated indoor bouldering center with routes for all skill levels.",
+  "longDescription": "Minimum is Zurich's premier bouldering facility with over 3,000m² of climbing surface. Routes for all levels, modern facility with bistro and rental shop.",
+  "category": "adventure",
+  "subcategory": "Indoor Climbing",
+  "location": {
+    "region": "Zurich Region",
+    "canton": "Zurich",
+    "city": "Zurich",
+    "coordinates": {
+      "lat": 47.3889,
+      "lng": 8.52
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Minimum Bouldering",
+      "pricing": {
+        "child": 16,
+        "student": 24,
+        "adult": 32,
+        "senior": 28
+      },
+      "bookingUrl": "https://www.minimum.ch",
+      "rating": 4.5,
+      "description": "Day pass (shoe rental CHF 5 extra)"
+    },
+    {
+      "name": "Bloczone Zurich",
+      "pricing": {
+        "child": 14,
+        "student": 22,
+        "adult": 28,
+        "senior": 25
+      },
+      "bookingUrl": "https://www.bloczone.ch",
+      "rating": 4.4,
+      "description": "Alternative bouldering gym — smaller but less crowded"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Climbing Area",
+      "value": "3,000m²"
+    },
+    {
+      "label": "Routes",
+      "value": "All levels"
+    },
+    {
+      "label": "Shoe Rental",
+      "value": "CHF 5"
+    },
+    {
+      "label": "Bistro",
+      "value": "On-site"
+    },
+    {
+      "label": "Operators",
+      "value": "2"
+    }
+  ],
+  "tags": [
+    "bouldering",
+    "climbing",
+    "indoor",
+    "sport",
+    "zurich"
+  ],
+  "featured": false
+}

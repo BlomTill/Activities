@@ -1,14 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { Flame, ArrowRight, TrendingUp } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { activities } from "@/data/activities";
+import { activities } from "@/lib/content/selectors";
 import { getTrendingActivityIds, getTrendingInfo } from "@/data/trending";
 import { getBestPrice } from "@/lib/types";
 import { useAgeGroup } from "@/context/age-group-context";
+import { ActivityPhoto } from "@/components/activity-photo";
 
 export function TrendingBar() {
   const { ageGroup } = useAgeGroup();
@@ -54,12 +54,12 @@ export function TrendingBar() {
               >
                 <div className="relative overflow-hidden rounded-xl bg-white shadow-sm transition-all hover:shadow-lg hover:-translate-y-1">
                   <div className="relative h-36 overflow-hidden">
-                    <Image
-                      src={activity.imageUrl}
-                      alt={activity.name}
+                    <ActivityPhoto
+                      activity={activity}
+                      aspect="16/9"
                       fill
-                      className="object-cover transition-transform group-hover:scale-105"
                       sizes="256px"
+                      className="absolute inset-0 h-full w-full transition-transform group-hover:scale-105"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                     <div className="absolute top-2 left-2 flex items-center gap-1">

@@ -1,0 +1,71 @@
+{
+  "id": "102",
+  "slug": "maison-cailler-broc",
+  "name": "Maison Cailler Chocolate Factory",
+  "description": "Switzerland's oldest chocolate brand invites you into a sensory chocolate experience in Broc.",
+  "longDescription": "Maison Cailler in Broc is the home of Switzerland's oldest chocolate brand (since 1819). The immersive visitor experience guides you through the history of chocolate, cacao origins, and Cailler's craftsmanship — finishing with generous tastings of the entire range.",
+  "category": "culture",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Fribourg Region",
+    "canton": "Fribourg",
+    "city": "Broc",
+    "coordinates": {
+      "lat": 46.6073,
+      "lng": 7.0987
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Maison Cailler",
+      "pricing": {
+        "child": 8,
+        "student": 12,
+        "adult": 15,
+        "senior": 13
+      },
+      "bookingUrl": "https://www.cailler.ch",
+      "rating": 4.5
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1-2 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Since",
+      "value": "1819"
+    },
+    {
+      "label": "Tastings",
+      "value": "Entire range"
+    },
+    {
+      "label": "Interactive",
+      "value": "Sensory experience"
+    },
+    {
+      "label": "Brand",
+      "value": "Oldest in CH"
+    },
+    {
+      "label": "Near",
+      "value": "Gruyères"
+    }
+  ],
+  "tags": [
+    "chocolate",
+    "cailler",
+    "factory",
+    "tasting",
+    "fribourg"
+  ],
+  "featured": false
+}

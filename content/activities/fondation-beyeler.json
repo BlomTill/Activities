@@ -1,0 +1,72 @@
+{
+  "id": "98",
+  "slug": "fondation-beyeler",
+  "name": "Fondation Beyeler",
+  "description": "World-class modern art museum by Renzo Piano in a stunning park setting near Basel.",
+  "longDescription": "Fondation Beyeler in Riehen is one of Europe's finest art museums, housed in a luminous Renzo Piano-designed building. The collection spans Impressionism to Contemporary art with masterpieces by Monet, Picasso, Warhol, and Basquiat, set amidst a sculpture garden.",
+  "category": "culture",
+  "subcategory": "Museum",
+  "location": {
+    "region": "Basel Region",
+    "canton": "Basel-Stadt",
+    "city": "Riehen",
+    "coordinates": {
+      "lat": 47.5912,
+      "lng": 7.6506
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Fondation Beyeler",
+      "pricing": {
+        "child": 0,
+        "student": 18,
+        "adult": 25,
+        "senior": 20
+      },
+      "bookingUrl": "https://www.fondationbeyeler.ch",
+      "rating": 4.8,
+      "description": "Full museum access — under 25 reduced"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1577720643272-265f09367456?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Architect",
+      "value": "Renzo Piano"
+    },
+    {
+      "label": "Artists",
+      "value": "Monet to Basquiat"
+    },
+    {
+      "label": "Park",
+      "value": "Sculpture garden"
+    },
+    {
+      "label": "Collection",
+      "value": "400+ works"
+    },
+    {
+      "label": "Rated",
+      "value": "Top museum in CH"
+    }
+  ],
+  "tags": [
+    "museum",
+    "modern art",
+    "beyeler",
+    "renzo piano",
+    "basel"
+  ],
+  "featured": true
+}
