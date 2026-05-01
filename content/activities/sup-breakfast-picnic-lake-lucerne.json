@@ -1,0 +1,85 @@
+{
+  "id": "697",
+  "slug": "sup-breakfast-picnic-lake-lucerne",
+  "name": "\"SUP‑Z'Morning\": Breakfast on Lake Lucerne",
+  "description": "Discover \"SUP‑Z'Morning\": Breakfast on Lake Lucerne in Switzerland.",
+  "longDescription": "Discover \"SUP‑Z'Morning\": Breakfast on Lake Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/sup-breakfast-picnic-lake-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "SUP-Breakfast: healthy snacks and drinks on the SUP outdoors in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_06327_fa38f410f9.jpg"
+    },
+    {
+      "alternativeText": "SUP Breakfast: delicious breakfast by the water with fresh fruits and a relaxed atmosphere",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_06382_a1a5884039.jpg"
+    },
+    {
+      "alternativeText": "SUP Breakfast: Delicious breakfast on the water with fresh fruits and pastries.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_06440_4a88c39131.jpg"
+    },
+    {
+      "alternativeText": "SUP breakfast with fresh snacks, healthy fruits, and drinks by the water for a perfect summer start.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_06351_297da2e42e.jpg"
+    },
+    {
+      "alternativeText": "SUP breakfast with snacks on the water, ideal for exciting summer days while stand-up paddling.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_06418_8734f74c46.jpg"
+    },
+    {
+      "alternativeText": "SUP Breakfast: Enjoy your breakfast on the water with healthy snacks and coffee.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_06452_3730273eb9.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "lucerne"
+  ],
+  "featured": false
+}

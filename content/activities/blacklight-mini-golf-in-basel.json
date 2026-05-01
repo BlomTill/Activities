@@ -1,0 +1,67 @@
+{
+  "id": "821",
+  "slug": "blacklight-mini-golf-in-basel",
+  "name": "Blacklight Mini Golf in Basel",
+  "description": "Discover Blacklight Mini Golf in Basel in Switzerland.",
+  "longDescription": "Discover Blacklight Mini Golf in Basel in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "133",
+    "title": "Minigolf",
+    "slug": "minigolf",
+    "description": "Book your next minigolf outing here. Minigolf is a name for all types of course golf and is a leisure activity for the whole family, with friends or colleagues. You need skill in the first place. The ball is first placed in a prescribed teeing area. Now the goal is to get the ball into the hole in as few strokes as possible. The equipment consists of a club and a ball. The course systems used vary, but usually a complete round consists of 18 holes.\n"
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/minigolf/blacklight-mini-golf-in-basel/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Schwarzlichtparadies",
+      "caption": "Minigolf in Basel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7aa7e7343c74990707e2cdb54369567a.jpg"
+    },
+    {
+      "alternativeText": "Schwarzlichtparadies",
+      "caption": "Minigolf in Basel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/794b0e2e5171fa80f9387634652067e4.JPG"
+    },
+    {
+      "alternativeText": "Schwarzlichtparadies",
+      "caption": "Minigolf in Basel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b37962d2081b8acebe3356f7d7375e08.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

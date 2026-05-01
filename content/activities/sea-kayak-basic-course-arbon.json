@@ -1,0 +1,82 @@
+{
+  "id": "809",
+  "slug": "sea-kayak-basic-course-arbon",
+  "name": "Sea kayak basic course in Arbon",
+  "description": "Discover Sea kayak basic course in Arbon in Switzerland.",
+  "longDescription": "Discover Sea kayak basic course in Arbon in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "26",
+    "title": "Kayak",
+    "slug": "kayak",
+    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/kayak/sea-kayak-basic-course-arbon/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kayaking on Lake Constance: Experience canoeing in nature with friends and family on calm waters",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kayak_auf_dem_Bodensee_25829a42a5.JPG"
+    },
+    {
+      "alternativeText": "Canoeing school Lake Constance: Group kayaking in summer, ideal for adventures and team outings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruppenfoto_viele_Kayaks_f7f1dcdf86.jpeg"
+    },
+    {
+      "alternativeText": "Canoe School Lake Constance: Kayaking with friends in nature, summer activity by the lake.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seekayak_4_Pax_Ksb_7134c1caac.jpg"
+    },
+    {
+      "alternativeText": "Canoe School Lake Constance: Group activity while kayaking on Lake Constance with a cheerful team.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Teamfoto_f7d883e68a.jpeg"
+    },
+    {
+      "alternativeText": "Canoe School Lake Constance: Enjoy the sunset while kayaking on Lake Constance with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seekayak_Sonnenuntergang_fbe500a514.jpeg"
+    },
+    {
+      "alternativeText": "Canoe School Lake Constance: Experience kayaking at sunrise with friends on Lake Constance.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sunrise_Seekajak_Kanuschule_Bodensee_7d8b007d88.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

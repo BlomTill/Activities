@@ -1,0 +1,70 @@
+{
+  "id": "92",
+  "slug": "via-alpina-grindelwald-meiringen",
+  "name": "Via Alpina: Grindelwald to Meiringen",
+  "description": "Classic pass-crossing stage over the Grosse Scheidegg with Eiger and Wetterhorn views.",
+  "longDescription": "This legendary Via Alpina stage crosses the Grosse Scheidegg pass (1,962m) between Grindelwald and Meiringen. The full-day hike offers stunning views of the Eiger, Wetterhorn, and Upper and Lower Grindelwald Glaciers before descending to the Reichenbach Falls.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Grindelwald",
+    "coordinates": {
+      "lat": 46.6586,
+      "lng": 8.0414
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "PostBus Return (Grosse Scheidegg)",
+      "pricing": {
+        "child": 10,
+        "student": 16,
+        "adult": 22,
+        "senior": 20
+      },
+      "bookingUrl": "https://www.postauto.ch",
+      "rating": 4.5,
+      "description": "Bus access — trail free"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "6-8 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Pass",
+      "value": "Grosse Scheidegg (1,962m)"
+    },
+    {
+      "label": "Distance",
+      "value": "~20 km"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Challenging"
+    },
+    {
+      "label": "Highlights",
+      "value": "Eiger + Wetterhorn"
+    },
+    {
+      "label": "End Point",
+      "value": "Reichenbach Falls"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "via alpina",
+    "pass",
+    "grindelwald",
+    "long-distance"
+  ],
+  "featured": false
+}

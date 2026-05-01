@@ -1,0 +1,150 @@
+{
+  "id": "218",
+  "slug": "pontirone-gorge-advanced-canyoning",
+  "name": "Pontirone Gorge canyoning 3 hours for advanced canyoners",
+  "description": "Discover Pontirone Gorge canyoning 3 hours for advanced canyoners in Switzerland.",
+  "longDescription": "Discover Pontirone Gorge canyoning 3 hours for advanced canyoners in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/pontirone-gorge-advanced-canyoning/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Canyoning in the Pontirone Gorge with bubbling water. A participant in a wetsuit and helmet.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pontirone_canyoning_akos_5ab64d677f.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Groups for Canyoning, Adventure in Nature in Summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_14_bd7680044c.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge with canyoning activity and rocky surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pontirone_canyoning_IMG_5977_pmcwyfdk4lzuph1pqawy38090hg7wkq1d4j7fyxmr4_c3b73213fd.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Pontirone: Swimmers in clear water between rocks, ideal for adventure and nature enthusiasts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1805_7ab8e60797.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning with Friends in Summer in a Picturesque Natural Setting",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_7b8b8c347f.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning Team in the water between rocks, exciting nature experience for groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_26_0d54d5b08c.JPG"
+    },
+    {
+      "alternativeText": "Pontirone Gorge, Canyoning, Swimmers in the Water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pontirone_canyoning_IMG_8309_06f72249ec.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in the Pontirone Gorge, climber with rope in rocky environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pontirone_canyoning_P8010497_6ec1f8b8cc.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning with friends in nature during summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_3_323dbeaaa9.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning Adventure in the Mountains, Ideal for Groups and Children in Summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_6_3e22829cb3.JPG"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning Adventure in the Stunning Nature of the Gorge in Summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_12_44598520c1.JPG"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning with friendship in nature, experience exciting adventures in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_24_2a319631d5.JPG"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Experience Canyoning with Friends in the Impressive Nature of Italy.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_32_1e8d80a179.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning experience in impressive nature with climbing and action.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_280_582225dfee.JPG"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning adventure in an impressive mountain landscape with waterfall.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1783_1eb34f6794.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Experience canyoning in a fascinating gorge full of adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1787_8de91531f5.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning Adventure in Impressive Nature with Waterfall and Rock Formations.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1790_4f200cb1a0.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning Adventure in Beautiful Nature, Perfect for Groups and Children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1809_1d74b122d2.jpg"
+    },
+    {
+      "alternativeText": "Pontirone Gorge: Canyoning experience in nature, ideal for adventure and groups in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_6659_5248469e52.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

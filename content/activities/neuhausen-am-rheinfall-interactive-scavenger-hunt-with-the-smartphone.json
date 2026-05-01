@@ -1,0 +1,72 @@
+{
+  "id": "668",
+  "slug": "neuhausen-am-rheinfall-interactive-scavenger-hunt-with-the-smartphone",
+  "name": "Neuhausen am Rheinfall interactive scavenger hunt with the smartphone",
+  "description": "Discover Neuhausen am Rheinfall interactive scavenger hunt with the smartphone in Switzerland.",
+  "longDescription": "Discover Neuhausen am Rheinfall interactive scavenger hunt with the smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/neuhausen-am-rheinfall-interactive-scavenger-hunt-with-the-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Neuhausen am Rheinfall: Discover escape game adventure fun for groups in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/neuhausen_carousel_1_da42973c30.jpg"
+    },
+    {
+      "alternativeText": "Neuhausen am Rheinfall: cheerful group at the escape game, ideal for adventures and leisure activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/neuhausen_carousel_2_6499911ecb.jpg"
+    },
+    {
+      "alternativeText": "Neuhausen am Rheinfall Escape Game: Solve exciting puzzles at the community center.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/neuhausen_carousel_4_cb47d74828.jpg"
+    },
+    {
+      "alternativeText": "Neuhausen am Rheinfall: Group solves an escape game together and uses smartphones for clues.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/neuhausen_carousel_5_bfb9f35f09.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

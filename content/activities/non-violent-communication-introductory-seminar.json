@@ -1,0 +1,80 @@
+{
+  "id": "1454",
+  "slug": "non-violent-communication-introductory-seminar",
+  "name": "Non-violent communication - introductory seminar",
+  "description": "Discover Non-violent communication - introductory seminar in Switzerland.",
+  "longDescription": "Discover Non-violent communication - introductory seminar in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/non-violent-communication-introductory-seminar/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "talking in a lively group discussion with friends and family, creative conversations and collective learning",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/redenistsilber_4_e82adb1145.jpg"
+    },
+    {
+      "alternativeText": "Nonviolent Communication: Group activity in the seminar room with participants and notes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gewaltfreie_Kommunikation_Seminar_2_0fa33fcfbf.jpg"
+    },
+    {
+      "alternativeText": "Nonviolent Communication: Human interaction, joy, smiles, relaxed atmosphere",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gewaltfreie_Kommunikation_Impressionen_10_783f130728.jpg"
+    },
+    {
+      "alternativeText": "redenistsilber: Participation in a creative discussion group in a modern room",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/redenistsilber_3_a26d886c63.jpg"
+    },
+    {
+      "alternativeText": "silverisredden: cheerful conversations between friends in a minimalist environment, harmonious and relaxed",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Helen_Dominik_redenistsilber_1536x1536_5d347db78a.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

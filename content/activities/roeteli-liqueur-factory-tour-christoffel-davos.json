@@ -1,0 +1,107 @@
+{
+  "id": "405",
+  "slug": "roeteli-liqueur-factory-tour-christoffel-davos",
+  "name": "Röteli liqueur factory tour at Christoffel Rötali in Davos",
+  "description": "Discover Röteli liqueur factory tour at Christoffel Rötali in Davos in Switzerland.",
+  "longDescription": "Discover Röteli liqueur factory tour at Christoffel Rötali in Davos in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "145",
+    "title": "Distillery",
+    "slug": "distillery",
+    "description": "A visit to a distillery will give you an exciting insight into the art of making spirits. During a guided tour, you will get to know the various production areas. A knowledgeable member of staff will explain the process of making spirits from start to finish. You will learn which raw materials and ingredients are used to produce the spirits and what is involved in the distillation process. A highlight of the visit is the tasting of the distillery's products, where you will get to know their aromas, flavors and nuances under expert guidance.\n"
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/distillery/roeteli-liqueur-factory-tour-christoffel-davos/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Edelbrand from Röteli Davos in an oak barrel",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Liebeseit_1910_Christoffel_Roeteli_Likoer_Graubuenden_Davos_1_3b146f8265.jpg"
+    },
+    {
+      "alternativeText": "Bartender prepares drinks at Röteli Davos",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Betriebsbesichtigung_Christoffel_Roeteli_Likoer_Davos_Graubuenden_3_bbc95016d0.png"
+    },
+    {
+      "alternativeText": "Röteli Davos Operations Management shows the pouring of drinks in a social gathering.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Betriebsbesichtigung_Christoffel_Roeteli_Likoer_Davos_Graubuenden_6_01bbbfd4b8.png"
+    },
+    {
+      "alternativeText": "Christoffel Röteli liqueur is served in Davos.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zitate_Patrick_Christoffel_Roeteli_Likoer_Davos_Buendner_10_14b81c7194.png"
+    },
+    {
+      "alternativeText": "Employees at Röteli Davos are filling liquids.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Betriebsbesichtigung_Christoffel_Roeteli_Likoer_Davos_Graubuenden_5_b123fdf803.png"
+    },
+    {
+      "alternativeText": "Röteli Davos: Bottles with wooden corks in production",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Betriebsbesichtigung_Christoffel_Roeteli_Likoer_Davos_Graubuenden_9_59d2cb6186.png"
+    },
+    {
+      "alternativeText": "Christoffel Röteli liqueur in Davos with cheerful people in a bar.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zitate_Patrick_Christoffel_Roeteli_Likoer_Davos_Buendner_11_1ec9fbbe6c.png"
+    },
+    {
+      "alternativeText": "Christoffel Rötali Liqueur Davos shows ingredients like fruits and spices on a table",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zutaten_Christoffel_Roeteli_Davos_Buendner_1_118e43ebc3.png"
+    },
+    {
+      "alternativeText": "Christoffel Rötele Liqueur is made from fresh lemons.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zitate_Patrick_Christoffel_Roeteli_Likoer_Davos_Buendner_5_ccd323a2ab.png"
+    },
+    {
+      "alternativeText": "Röteli Davos Operations Management: Employee packs bottles in cartons",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Betriebsbesichtigung_Christoffel_Roeteli_Likoer_Davos_Graubuenden_13_669b210239.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "davos"
+  ],
+  "featured": false
+}

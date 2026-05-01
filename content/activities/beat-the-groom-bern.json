@@ -1,0 +1,79 @@
+{
+  "id": "532",
+  "slug": "beat-the-groom-bern",
+  "name": "\"Beat the groom\" in Bern: action-packed stag party",
+  "description": "Discover \"Beat the groom\" in Bern: action-packed stag party in Switzerland.",
+  "longDescription": "Discover \"Beat the groom\" in Bern: action-packed stag party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-bern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bern: picturesque view of the Rhine and the old town with historic buildings and the Zytglogge.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dimitri_photography_Uv_U81_OT_2hv_E_unsplash_43b409127c.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Group of friends at an outdoor activity by the water in a relaxed mood.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_301cd67665.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Group celebrates with action and fun in nature during a summer adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_0f810788b8.jpg"
+    },
+    {
+      "alternativeText": "Bern: Historic city with flags, charming buildings and lively streets in the heart of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern_unsplash_4c4c6a07a9.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: fun outdoor games with friends in summer in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_f44d801b04.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bern"
+  ],
+  "featured": false
+}

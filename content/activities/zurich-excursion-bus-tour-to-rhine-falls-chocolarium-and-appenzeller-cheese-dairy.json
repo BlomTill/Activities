@@ -1,0 +1,134 @@
+{
+  "id": "295",
+  "slug": "zurich-excursion-bus-tour-to-rhine-falls-chocolarium-and-appenzeller-cheese-dairy",
+  "name": "Zurich excursion: Bus tour to Rhine Falls, Chocolarium, and Appenzeller cheese dairy",
+  "description": "Discover Zurich excursion: Bus tour to Rhine Falls, Chocolarium, and Appenzeller cheese dairy in Switzerland.",
+  "longDescription": "Discover Zurich excursion: Bus tour to Rhine Falls, Chocolarium, and Appenzeller cheese dairy in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/zurich-excursion-bus-tour-to-rhine-falls-chocolarium-and-appenzeller-cheese-dairy/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Bustour zum Rheinfall, Chocolarium und Appenzeller Schaukäserei  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5bb4a5b035e50030db7bf4ec867526ac.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Schaukäserei",
+      "caption": "Bustour zum Rheinfall, Chocolarium und Appenzeller Schaukäserei  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/565e12ff7b97aade83b58ae14f357108.jpg"
+    },
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Bustour zum Rheinfall, Chocolarium und Appenzeller Schaukäserei  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/262c46eb115eabc67c47f1477f90b51f.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Schaukäserei",
+      "caption": "Bustour zum Rheinfall, Chocolarium und Appenzeller Schaukäserei  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8bfca03c7e0ca73a833ab5570646c21f.jpg"
+    },
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Bustour zum Rheinfall, Chocolarium und Appenzeller Schaukäserei  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d4e678d0b1306829fed5784e02165f8.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Cheese Dairy: View into the cheese cellar with many cheese wheels on shelves.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a2cd9e1284ef967b27c2401f8935e42e.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Cheese Dairy: Visit the cheese production in Appenzell and experience traditional methods.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/245c58bcc804706d0da049864de88612.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Schaukäserei",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb93d9b1dd3c1a318b01e1c760994ed6.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e2eae23cd8c46c631cfafe85431c1392.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Schaukäserei",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a69787ebfa5c922c832669a62ee8571.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Show Cheese Dairy: Experience Cheese Production and Flavor in Picturesque Appenzell",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8f417685dcc49ae1f566b1717b68b2ff.jpeg"
+    },
+    {
+      "alternativeText": "Chocolarium: Create and enjoy together in a chocolate paradise, ideal for pleasure seekers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/96795f2748e5f479ad30e10544e6825b.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium: Experience a sweet chocolate tour with Keytours in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/65746b716ee73ffdbfcc6f510a4c7d95.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium: Experience the fascinating world of chocolate in Switzerland, ideal for groups and children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/38ad6ddc7733872d4d50748114342e32.jpg"
+    },
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Bustour zum Rheinfall, Chocolarium und Appenzeller Schaukäserei  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/075518e1b9dc811a943a91fa735385a5.jpg"
+    },
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Bustour zum Rheinfall, Chocolarium und Appenzeller Schaukäserei  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/74e2ac33c34bbc2faedcd9a04dcc0529.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cheese"
+  ],
+  "featured": false
+}

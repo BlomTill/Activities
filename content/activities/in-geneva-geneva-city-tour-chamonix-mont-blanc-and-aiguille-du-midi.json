@@ -1,0 +1,124 @@
+{
+  "id": "348",
+  "slug": "in-geneva-geneva-city-tour-chamonix-mont-blanc-and-aiguille-du-midi",
+  "name": "In Geneva: Geneva City Tour, Chamonix Mont-Blanc and Aiguille du Midi",
+  "description": "Discover In Geneva: Geneva City Tour, Chamonix Mont-Blanc and Aiguille du Midi in Switzerland.",
+  "longDescription": "Discover In Geneva: Geneva City Tour, Chamonix Mont-Blanc and Aiguille du Midi in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-and-aiguille-du-midi/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Aiguille du midi",
+      "caption": "Genf, Chamonix und Mont-Blanc",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5dbfeb59d57a97285ef2db2e446b88fa.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du midi",
+      "caption": "Genf, Chamonix und Mont-Blanc",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/80aa29ce90305287c926e40fc67c30b6.JPG"
+    },
+    {
+      "alternativeText": "Jet d'Eau in Geneva, colorful rainbow, lake, city background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_parks_and_residences5_2048_10_35c52890b7.jpg"
+    },
+    {
+      "alternativeText": "Geneva with flags in front of the United Nations building",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSD_0415_0c154a1c2d.JPG"
+    },
+    {
+      "alternativeText": "Flower Clock in Geneva shows flower arrangement",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Horloge_Fleurie_6bbbd440f8.jpg"
+    },
+    {
+      "alternativeText": "Globe at the fountain in front of the Palace of Nations in Geneva",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international1_2048_10_6f7dd8e25e.jpg"
+    },
+    {
+      "alternativeText": "Large chair in Geneva, visitors circle artwork, flags",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international5_2048_10_0d66a30d38.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi cable car floats over snow-covered mountains and glaciers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_aiguille_du_2_43c85a5b89.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du midi",
+      "caption": "Genf, Chamonix und Mont-Blanc",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31cd938d76903ea05d2348334cb3b935.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du midi",
+      "caption": "Genf, Chamonix und Mont-Blanc",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c32d579665a88ce5b451b56c6c3a3427.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du midi",
+      "caption": "Genf, Chamonix und Mont-Blanc",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4e2dd0f0bb945ab91a93756eb6c97443.jpg"
+    },
+    {
+      "alternativeText": "Chamonix ",
+      "caption": "Genf, Chamonix und Mont-Blanc",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c65cc27ecd47d45195b9331d31442fd6.jpg"
+    },
+    {
+      "alternativeText": "Chamonix ",
+      "caption": "Genf, Chamonix und Mont-Blanc",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45031d01ca7ab1d21f33ab28f2099de3.jpg"
+    },
+    {
+      "alternativeText": "Chamonix ",
+      "caption": "Genf, Chamonix und Mont-Blanc",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cbdc9a514b88bae00e45db09c8315232.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

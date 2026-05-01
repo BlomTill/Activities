@@ -1,0 +1,77 @@
+{
+  "id": "1113",
+  "slug": "private-ski-school-for-all-ages-in-laax",
+  "name": "Private Ski School for All Ages in Laax",
+  "description": "Discover Private Ski School for All Ages in Laax in Switzerland.",
+  "longDescription": "Discover Private Ski School for All Ages in Laax in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/private-ski-school-for-all-ages-in-laax/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "0050bd_5955be0d64a84740b5f1fc04a69c90f6mv2-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b89e56f9eae06579461343c5dd22f170.jpg"
+    },
+    {
+      "alternativeText": "eff1d0_abf54451250f4f8c9ea6787e4540d9b6mv2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5eb00a551669c0308522030ee3b5cba0.jpg"
+    },
+    {
+      "alternativeText": "2025-02-03",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e79ef6635e0c5a430bd97f734b12c5a9.jpg"
+    },
+    {
+      "alternativeText": "eff1d0_eccc27fc15684d07ae4d6c667193c277mv2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3e4dd775405c7c26c83c168753769d76.jpg"
+    },
+    {
+      "alternativeText": "2025-02-11",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cddbe75f2d089f70d54c5d586596881e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

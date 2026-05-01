@@ -1,0 +1,101 @@
+{
+  "id": "946",
+  "slug": "julier-postbus-pass-ride-chur-stmoritz",
+  "name": "Julier Postbus pass ride from Chur or St. Moritz",
+  "description": "Discover Julier Postbus pass ride from Chur or St. Moritz in Switzerland.",
+  "longDescription": "Discover Julier Postbus pass ride from Chur or St. Moritz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "141",
+    "title": "Postbus",
+    "slug": "postbus",
+    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/julier-postbus-pass-ride-chur-stmoritz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lenzerheide: picturesque autumn scene with bus on winding road between colorful trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Lenzerheide_5bb08645f8.png"
+    },
+    {
+      "alternativeText": "Summer bus ride through the picturesque landscape of the Alps with plenty of greenery and mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/11_Julier_Sommer_38cb364f5f.jpg"
+    },
+    {
+      "alternativeText": "Postauto Station Chur: Modern buses and impressive architecture in Chur, ideal for travelers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Postauto_Station_Chur_36aadb03f4.jpg"
+    },
+    {
+      "alternativeText": "Winter landscape: impressive mountain road with snow-covered peaks in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/12_Julier_Winter_587c015bb5.jpg"
+    },
+    {
+      "alternativeText": "Valbella Heidesee: idyllic mountain lake surrounded by forests and mountains in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01a_Valbella_Heidesee_unsplash_5c560a83bb.jpg"
+    },
+    {
+      "alternativeText": "Lenzerheide: picturesque view of mountains, forests, and a sparkling lake in the Swiss Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_lenzerheide_pixabay_209bba6665.jpg"
+    },
+    {
+      "alternativeText": "Lenzerheide: beautiful lake and surroundings with mountains, forests, and picturesque places in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_lenzerheide1_Pixabay_a033a2f009.jpg"
+    },
+    {
+      "alternativeText": "Marmorera Reservoir: picturesque landscape with mountains, lake, and fascinating nature in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_Marmorera_reservoir_Foto_Schweiz_Tourismus_Nico_Schaerer_13e38e6e57.jpg"
+    },
+    {
+      "alternativeText": "Silvaplana Lake: picturesque autumn landscape with mountains, forests, and sparkling water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/13_Silvaplana_Lake_Silvaplana_Foto_Switzerland_Tourism_Stefan_Gruenig_03b095a8e4.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "st.-moritz"
+  ],
+  "featured": false
+}

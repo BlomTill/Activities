@@ -1,0 +1,82 @@
+{
+  "id": "1419",
+  "slug": "first-steps-in-the-world-of-wine-at-the-vineyard-in-sion",
+  "name": "\"First Steps in the World of Wine\" at the Vineyard in Sion",
+  "description": "Discover \"First Steps in the World of Wine\" at the Vineyard in Sion in Switzerland.",
+  "longDescription": "Discover \"First Steps in the World of Wine\" at the Vineyard in Sion in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/first-steps-in-the-world-of-wine-at-the-vineyard-in-sion/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "tasting",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/91c3cdf06c47996c6d8bb570fa7c84bf.jpg"
+    },
+    {
+      "alternativeText": "beginner-tasting",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c6190ffd6a059c8ed1b7bbb07451e69c.jpg"
+    },
+    {
+      "alternativeText": "tasting-introduction",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87781b012e8457a25082ae140dac0b1c.jpg"
+    },
+    {
+      "alternativeText": "first-steps-in-the-world-of-wine",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/de4cba5a312b8e075d111b2d82c17a69.jpg"
+    },
+    {
+      "alternativeText": "xheader-oenoparc-1.jpg.pagespeed.ic.N6TSkFHf85",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ca686c2c023c0542dc7c0d8187509d5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

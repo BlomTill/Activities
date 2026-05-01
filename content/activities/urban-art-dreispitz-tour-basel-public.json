@@ -1,0 +1,80 @@
+{
+  "id": "1224",
+  "slug": "urban-art-dreispitz-tour-basel-public",
+  "name": "Urban Art Dreispitz Tour Basel public",
+  "description": "Discover Urban Art Dreispitz Tour Basel public in Switzerland.",
+  "longDescription": "Discover Urban Art Dreispitz Tour Basel public in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/urban-art-dreispitz-tour-basel-public/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Beikirch_Tschudin",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8195b6c4d2c004da2c645a95aa9a0c5.jpg"
+    },
+    {
+      "alternativeText": "Campus",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2dfdf48769f1e761e94c557297167682.jpg"
+    },
+    {
+      "alternativeText": "spy-madrid-urbanart",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9fbd7334592cf50210407a053063f5cc.jpg"
+    },
+    {
+      "alternativeText": "Tika",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/88e1dbc375f00ac27b726334f76de677.jpg"
+    },
+    {
+      "alternativeText": "A band of floating mushrooms",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0e90cd4f1569c5e16cba18572b3a5eff.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

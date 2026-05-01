@@ -1,0 +1,79 @@
+{
+  "id": "1023",
+  "slug": "hufi-glacier-flight-with-glacier-landing",
+  "name": "Hüfi glacier helicopter flight with glacier landing",
+  "description": "Discover Hüfi glacier helicopter flight with glacier landing in Switzerland.",
+  "longDescription": "Discover Hüfi glacier helicopter flight with glacier landing in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/hufi-glacier-flight-with-glacier-landing/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "hu-fi-saddle3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2c6d3571bf897381ddc95edd428813a0.jpg"
+    },
+    {
+      "alternativeText": "407_Unterrothorn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c85bc44985f26e40b5d02d8470b35972.jpg"
+    },
+    {
+      "alternativeText": "csm_Heliski_Switzerland_03_e8f474044b",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a1d91fc1c31cad11e127585e37c58e7f.jpg"
+    },
+    {
+      "alternativeText": "hu-figletscher1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/548938eba3d15392fa040934e36a79da.jpg"
+    },
+    {
+      "alternativeText": "IMG_7083_2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/34d4217fc2c08876d9624da4ec41b73d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier"
+  ],
+  "featured": false
+}

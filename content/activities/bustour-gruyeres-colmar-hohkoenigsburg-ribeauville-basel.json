@@ -1,0 +1,115 @@
+{
+  "id": "386",
+  "slug": "bustour-gruyeres-colmar-hohkoenigsburg-ribeauville-basel",
+  "name": "From Basel: day trip to Colmar, Hohkönigsburg and Ribeauvillé",
+  "description": "Discover From Basel: day trip to Colmar, Hohkönigsburg and Ribeauvillé in Switzerland.",
+  "longDescription": "Discover From Basel: day trip to Colmar, Hohkönigsburg and Ribeauvillé in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/bustour-gruyeres-colmar-hohkoenigsburg-ribeauville-basel/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Hohkönigsburg ",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d0616f3e5ad9f3869e6eca30a1832523.jpg"
+    },
+    {
+      "alternativeText": "Minibus",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/edd1ec0b188697215b5ed95abfd998d6.jpg"
+    },
+    {
+      "alternativeText": "Landschaft",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3758ed600b17992ab7eb740bf1c39742.jpg"
+    },
+    {
+      "alternativeText": "Colmar",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f7b894e285e1a126a24ca38d9802f5d.jpg"
+    },
+    {
+      "alternativeText": "Colmar",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48b9b9ecfd1bd65a3ea6d7dd9f41147e.jpg"
+    },
+    {
+      "alternativeText": "Colmar",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be4031b9c18410e7e909085263700a49.jpg"
+    },
+    {
+      "alternativeText": "Ribeauville ",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13d4213bc274f7479a6bf7671135b9b8.jpg"
+    },
+    {
+      "alternativeText": "Elsass",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d0fbb7a9ec255b3b020bf97897b3f28.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2956790e733ab771699546dde067712.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4e4ab167113c4750a85a3540cba39ffc.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5be371ffacee835091173f435fd51b2e.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Fahrt ins Elsass",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8265662d38f7bd77ac8b7320556d67bf.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

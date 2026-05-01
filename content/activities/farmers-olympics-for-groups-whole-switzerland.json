@@ -1,0 +1,87 @@
+{
+  "id": "240",
+  "slug": "farmers-olympics-for-groups-whole-switzerland",
+  "name": "Farmers Olympics for groups",
+  "description": "Discover Farmers Olympics for groups in Switzerland.",
+  "longDescription": "Discover Farmers Olympics for groups in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "102",
+    "title": "Competition",
+    "slug": "competition",
+    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/competition/farmers-olympics-for-groups-whole-switzerland/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sawing Activity during Farmers' Olympics in Switzerland 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/foto_14_fff8e53949.jpg"
+    },
+    {
+      "alternativeText": "Farm Olympics with participants and a cow figure in the Alps",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bmms9712_31ee8f54ef.jpg"
+    },
+    {
+      "alternativeText": "Milk Driving at Farmer Olympics 2023 in Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Hauptbild_ker131013_87_b5b345ffd2.jpg"
+    },
+    {
+      "alternativeText": "Farm Olympics Switzerland 2023, participants in team positions, fun outdoors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/img_0107_e1082230b0.jpg"
+    },
+    {
+      "alternativeText": "Young man pulls rope at the Swiss Farm Olympics in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/img_0068_9f7abdabc0.jpg"
+    },
+    {
+      "alternativeText": "Farm Olympics with groups from Switzerland, participants play, green meadow, summer weather",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/img_0116_4f18ca2a7b.jpg"
+    },
+    {
+      "alternativeText": "Target board with arrows of the Farm Olympics 2023 in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zielscheibe_559d70e55a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

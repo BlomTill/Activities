@@ -1,0 +1,70 @@
+{
+  "id": "266",
+  "slug": "ski-cool-stmoritz-cross-country-private",
+  "name": "Private cross-country skiing lessons in St. Moritz",
+  "description": "Discover Private cross-country skiing lessons in St. Moritz in Switzerland.",
+  "longDescription": "Discover Private cross-country skiing lessons in St. Moritz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "89",
+    "title": "Cross country skiing",
+    "slug": "cross-country-skiing",
+    "description": "Book your cross-country skiing course or rent your equipment now. Cross-country skiing is a popular sport in Switzerland. There is a total of over 5000 km of trails where this holistic and healthy sport can be practiced. Cross-country skiing is particularly popular in Graubünden, more precisely in the Engadine. Here, with about 1700 kilometers of trails, more than a third of all Swiss trails are available. Cross-country skiing can be practiced in two styles: Classic and Skating. For beginners, the classic style is more suitable, as it is easier to learn."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/cross-country-skiing/ski-cool-stmoritz-cross-country-private/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Langläufer",
+      "caption": "St. Moritz",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e17d965b3375c46d3dad23409e52f1f3.jpg"
+    },
+    {
+      "alternativeText": "Langlaufloipe",
+      "caption": "St. Moritz",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09d47ed2f3348e3e06a49e2e6f3b743d.jpg"
+    },
+    {
+      "alternativeText": "Langlaufloipe",
+      "caption": "St. Moritz",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3b6ceb76e00705fcf80e3c26aed94293.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "skiing",
+    "st.-moritz"
+  ],
+  "featured": false
+}

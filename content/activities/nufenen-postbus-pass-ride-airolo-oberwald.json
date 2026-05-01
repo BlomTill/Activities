@@ -1,0 +1,84 @@
+{
+  "id": "957",
+  "slug": "nufenen-postbus-pass-ride-airolo-oberwald",
+  "name": "Nufenen Postbus pass ride from Airolo or Oberwald",
+  "description": "Discover Nufenen Postbus pass ride from Airolo or Oberwald in Switzerland.",
+  "longDescription": "Discover Nufenen Postbus pass ride from Airolo or Oberwald in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "141",
+    "title": "Postbus",
+    "slug": "postbus",
+    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/nufenen-postbus-pass-ride-airolo-oberwald/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Nufenen Pass: Postbus next to snow-covered terrain and turquoise water, ideal for nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/17_TI_Nufenenpass_a9515b894a.png"
+    },
+    {
+      "alternativeText": "Postbus on a picturesque mountain road in summer with a bicycle in the foreground",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/postauto2_pixabay_9e6d132874.jpg"
+    },
+    {
+      "alternativeText": "Airolo: impressive mountain landscape with green slopes and clear sky for nature lovers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Airolo_unsplash_991b166ff1.jpg"
+    },
+    {
+      "alternativeText": "PostBus on a winding road near Airolo, surrounded by colorful autumn foliage.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20_Leventina_Airolo_964ba0c027.png"
+    },
+    {
+      "alternativeText": "Bedretto-Ossasco: Winter landscape with snow-covered mountains and illuminated village at night.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bedretto_Ossasco_Foto_Switzerland_Tourism_Jan_Geerk_489396fe66.jpg"
+    },
+    {
+      "alternativeText": "Nufenen Pass: impressive mountain landscape with hiker and view of the Alps",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bedretto_Nufenen_Pass_Foto_Switzerland_Tourism_Martin_Maegli_6555610154.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

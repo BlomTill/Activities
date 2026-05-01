@@ -1,0 +1,204 @@
+{
+  "id": "1490",
+  "slug": "ticket-chateau-chillon-in-montreux",
+  "name": "Ticket Chateau Chillon in Montreux",
+  "description": "Discover Ticket Chateau Chillon in Montreux in Switzerland.",
+  "longDescription": "Discover Ticket Chateau Chillon in Montreux in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "52",
+    "title": "Castles",
+    "slug": "castles",
+    "description": "Book the right entrance ticket or a guided tour of a castle here. A total of 600 castles and palaces want to be visited in Switzerland. By the way, you can combine this very well with a boat trip or a ride on a panorama train. By the way, the canton of Aargau is especially famous for its many castles and palaces. The most visited historical building in Switzerland is Chateau Chillon, a moated castle at the eastern end of Lake Geneva."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/chillon-castle/ticket-chateau-chillon-in-montreux/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Chillon Castle, boat on Lake Geneva, clear sky, summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chateau_Chillon_Schiffahrt_Genfersee_2_4d0deff040.jpeg"
+    },
+    {
+      "alternativeText": "Chillon Castle with Garden and Cafe Byron at Lake Geneva",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Cafe_Byron_Park_Garten_um_Chateau_Chillon_Genfersee_8_9ac221fa0a.jpg"
+    },
+    {
+      "alternativeText": "Château de Chillon by Lake Geneva with a calm water surface and the Alps in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Sicht_vom_Ufer_Chateau_Chillon_Genfersee_4_d4f836528d.jpeg"
+    },
+    {
+      "alternativeText": "View of Chateau Chillon with autumn trees",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Sicht_zwischen_Baeumen_Chateau_Chillon_Genfersee_56264653a6.jpeg"
+    },
+    {
+      "alternativeText": "Café Byron at Château Chillon with outdoor seating.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cafe_Byron_Chateau_Chillon_7d677ae8b6.jpg"
+    },
+    {
+      "alternativeText": "Chateau Chillon on Lake Geneva with colorful autumn trees and calm water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chateau_Chillon_Genfersee_Blick_a446719764.jpg"
+    },
+    {
+      "alternativeText": "Château de Chillon on Lake Geneva with historic towers and water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chateau_Chillon_Genfersee_Luftsicht_1_d67ab707f1.jpg"
+    },
+    {
+      "alternativeText": "Château de Chillon on Lake Geneva with distinctive towers and trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Details_Chateau_Chillon_Burg_Genfersee_1_bee6322abb.jpeg"
+    },
+    {
+      "alternativeText": "Chillon Castle on Lake Geneva showcases historical castle architecture and the adjacent lake",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Details_Chateau_Chillon_Burg_Genfersee_3_d675ee5e01.jpeg"
+    },
+    {
+      "alternativeText": "Garden at Lake Geneva with paths, trees, and green lawn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Park_Garten_um_Chateau_Chillon_Genfersee_2_474f9cab16.jpg"
+    },
+    {
+      "alternativeText": "Chateau Chillon from above, Lake Geneva with boats and surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chateau_Chillion_von_oben_Genfersee_6fa0f8ec67.jpg"
+    },
+    {
+      "alternativeText": "Chateau Chillon at sunset on Lake Geneva with rowers on the water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Abendsonne_Chateau_Chillon_Genfersee_3_97ed37858c.jpeg"
+    },
+    {
+      "alternativeText": "Chateau Chillon on Lake Geneva showcases historical architecture at sunset.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abendsonne_Chateau_Chillon_Genfersee_2_9ba71cb4a7.jpeg"
+    },
+    {
+      "alternativeText": "Chateau Chillon on Lake Geneva with sunset and reflecting waves",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abendsonne_Chateau_Chillon_Genfersee_5_48dc15b830.jpeg"
+    },
+    {
+      "alternativeText": "Château de Chillon on Lake Geneva: historical castle view surrounded by water and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chateau_Chillon_Genfersee_Luftsicht_2_7fde091500.jpeg"
+    },
+    {
+      "alternativeText": "Chillon Castle on Lake Geneva in winter with snow and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winter_Chateau_Chillon_Genfersee_2_c7d275d6e8.jpg"
+    },
+    {
+      "alternativeText": "Chateau Chillon map with rooms and courtyards",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Plan_Chateau_Chillon_7fdccddb08.jpg"
+    },
+    {
+      "alternativeText": "Château Chillon Interiors with Stone Arches and Historic Ambiance",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chateau_Chillon_Innen_c1bbc26b68.jpg"
+    },
+    {
+      "alternativeText": "Chateau Chillon with rocky surroundings at Lake Geneva",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Details_Chateau_Chillon_Burg_Genfersee_2_4a5342fd35.jpeg"
+    },
+    {
+      "alternativeText": "Chateau Chillon on Lake Geneva, medieval architecture, gray stone walls, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Details_Chateau_Chillon_Burg_Genfersee_4_af7f81f89d.jpeg"
+    },
+    {
+      "alternativeText": "Chillon Castle in the park garden by Lake Geneva in the autumn sun.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Park_Garten_um_Chateau_Chillon_Genfersee_1_6db06124f2.jpeg"
+    },
+    {
+      "alternativeText": "Château Chillon on Lake Geneva with garden and benches",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Park_Garten_um_Chateau_Chillon_Genfersee_4_25d060503d.jpg"
+    },
+    {
+      "alternativeText": "Chillon Castle on Lake Geneva, Park Landscape with Hikers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Park_Garten_um_Chateau_Chillon_Genfersee_5_ae5739cf59.jpg"
+    },
+    {
+      "alternativeText": "Chillon Castle on Lake Geneva with park and garden.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Park_Garten_um_Chateau_Chillon_Genfersee_6_25cdebb450.jpg"
+    },
+    {
+      "alternativeText": "Chateau Chillon on Lake Geneva with garden and blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Park_Garten_um_Chateau_Chillon_Genfersee_7_76d6c02194.jpg"
+    },
+    {
+      "alternativeText": "Chateau Chillon on Lake Geneva with medieval architecture and green trees in the foreground.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sicht_vom_Ufer_Chateau_Chillon_Genfersee_1_52a5a882ba.jpg"
+    },
+    {
+      "alternativeText": "Château de Chillon in autumn, surrounded by colorful leaves and soft light",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chateau_Chillon_Herbst_852fec97b6.jpg"
+    },
+    {
+      "alternativeText": "Armors Chateau Chillon, historical armors, exhibits, museum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_72e94571f348c4f620b5996f3c1f434f_e34b7a4211.jpg"
+    },
+    {
+      "alternativeText": "Château de Chillon, interior with columns and rocks, historical architecture, 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Details_Chateau_Chillon_Burg_Genfersee_1_3aaf27c8cb.jpg"
+    },
+    {
+      "alternativeText": "Chillon Castle on Lake Geneva with red tower roof and historic masonry.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Details_Chateau_Chillon_Burg_Genfersee_2_5bf1f08354.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

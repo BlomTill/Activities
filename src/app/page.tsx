@@ -1,706 +1,239 @@
 "use client";
 
 import Link from "next/link";
+import { useEffect, useState } from "react";
 
-/* ─── Design tokens ─── */
-const G = "oklch(74% 0.13 63deg)"; // gold accent
+/* ──────────────────────────────────────────────────────────────
+   ALPINE SUNSHINE HOME — warm, lively, postcard editorial.
+   Scoped via .alpine-page wrapper (see globals.css).
+─────────────────────────────────────────────────────────────── */
 
 const CATEGORIES = [
-  {
-    num: "01",
-    name: "Mountain",
-    nameItalic: "Experiences",
-    desc: "From Europe's highest railway station to cable cars that touch 3,883m. Switzerland's peaks aren't just scenery — they're destinations.",
-    count: "45 experiences",
-    image:
-      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=900&fit=crop",
-    href: "/activities?category=mountain",
-  },
-  {
-    num: "02",
-    name: "Adventure",
-    nameItalic: "& Thrills",
-    desc: "Paragliding over two lakes. Bungee jumping into a dam. Canyoning through gorges. Switzerland has a quiet way of making your heart race.",
-    count: "32 experiences",
-    image:
-      "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?w=1200&h=900&fit=crop",
-    href: "/activities?category=adventure",
-  },
-  {
-    num: "03",
-    name: "Scenic",
-    nameItalic: "Railways",
-    desc: "The Glacier Express, Bernina Express, GoldenPass Line. Not transportation — destinations in themselves. 291 bridges. 91 tunnels. 8 hours of pure alpine cinema.",
-    count: "8 routes",
-    image:
-      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&h=900&fit=crop",
-    href: "/activities?category=trains",
-  },
-  {
-    num: "04",
-    name: "Wellness",
-    nameItalic: "& Thermal",
-    desc: "Hot springs at 1,411m altitude. Roman baths in a valley spa. Rooftop pools with mountain panoramas. The alpine cure is real.",
-    count: "18 experiences",
-    image:
-      "https://images.unsplash.com/photo-1545389336-cf090694435e?w=1200&h=900&fit=crop",
-    href: "/activities?category=wellness",
-  },
-  {
-    num: "05",
-    name: "Culture",
-    nameItalic: "& History",
-    desc: "A 12th-century lakeside castle. A Roman ruin in a Swiss suburb. A chocolate factory that gives you samples you didn't ask for. Four languages, one country.",
-    count: "40 experiences",
-    image:
-      "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?w=1200&h=900&fit=crop",
-    href: "/activities?category=culture",
-  },
+  { num: "01", name: "Mountain", italic: "Experiences", count: 45, desc: "Cable cars, peaks, glaciers.",
+    photo: "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=600&q=80&auto=format&fit=crop", href: "/activities?category=outdoor" },
+  { num: "02", name: "Adventure", italic: "& Thrills", count: 32, desc: "Paragliding, canyoning, bungee.",
+    photo: "https://images.unsplash.com/photo-1600618528240-fb9fc964b853?w=600&q=80&auto=format&fit=crop", href: "/activities?category=adventure" },
+  { num: "03", name: "Scenic", italic: "Railways", count: 8, desc: "Glacier Express & friends.",
+    photo: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80&auto=format&fit=crop", href: "/activities?q=train" },
+  { num: "04", name: "Wellness", italic: "& Thermal", count: 18, desc: "Hot springs in the Alps.",
+    photo: "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=600&q=80&auto=format&fit=crop", href: "/activities?category=wellness" },
+  { num: "05", name: "Culture", italic: "& History", count: 40, desc: "Castles, chocolate, four tongues.",
+    photo: "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600&q=80&auto=format&fit=crop", href: "/activities?category=culture" },
 ];
 
 const STORIES = [
-  {
-    num: "01",
-    tags: ["Lakes", "Nature"],
-    title: "15 Most Beautiful Lakes in Switzerland You Must Visit",
-    excerpt:
-      "From the unreal turquoise of Lake Brienz to the remote alpine tarn of Bachalpsee — every one worth the journey.",
-    author: "Jonas Weber",
-    date: "Mar 28",
-    readTime: "8 min",
-    href: "/stories/most-beautiful-lakes",
-  },
-  {
-    num: "02",
-    tags: ["Hidden Gems"],
-    title: "9 Swiss Villages You Should Visit Instead of the Famous Ones",
-    excerpt:
-      "Grindelwald gets the crowds. These nine villages get the real Switzerland — and far fewer tourists.",
-    author: "Emma Clarke",
-    date: "Apr 18",
-    readTime: "12 min",
-    href: "/stories/swiss-villages",
-  },
-  {
-    num: "03",
-    tags: ["Trains", "Scenic"],
-    title: "5 Most Scenic Train Rides — With Honest Prices",
-    excerpt:
-      "Which scenic trains are genuinely worth the supplement, and which routes can you ride for free on a Swiss Pass.",
-    author: "Tom Lindqvist",
-    date: "Feb 22",
-    readTime: "10 min",
-    href: "/stories/scenic-trains",
-  },
+  { num: "01", tags: ["Lakes", "Nature"], title: "15 Most Beautiful Lakes in Switzerland",
+    excerpt: "From the unreal turquoise of Lake Brienz to the remote tarn of Bachalpsee.", read: "8 min",
+    photo: "https://images.unsplash.com/photo-1502784444187-359ac186c5bb?w=600&q=80&auto=format&fit=crop",
+    href: "/stories/most-beautiful-lakes-switzerland" },
+  { num: "02", tags: ["Hidden Gems"], title: "9 Swiss Villages You Should Visit Instead",
+    excerpt: "Grindelwald gets the crowds. These nine get the real Switzerland.", read: "12 min",
+    photo: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80&auto=format&fit=crop",
+    href: "/stories" },
+  { num: "03", tags: ["Trains", "Scenic"], title: "5 Most Scenic Train Rides — With Honest Prices",
+    excerpt: "Which scenic trains are worth the supplement, and which ride free on a Swiss Pass.", read: "10 min",
+    photo: "https://images.unsplash.com/photo-1543349689-9a4d426bee8e?w=600&q=80&auto=format&fit=crop",
+    href: "/stories/scenic-train-rides-switzerland" },
 ];
 
-/* ──────────────────────────────────────────────────────────────
-   HERO
-─────────────────────────────────────────────────────────────── */
+const QUICK = ["Hiking", "Trains", "Wellness", "Family", "Free"];
+
+function Cloud({ className }: { className: string }) {
+  return (
+    <svg className={"a-cloud " + className} viewBox="0 0 120 50" xmlns="http://www.w3.org/2000/svg">
+      <ellipse cx="30" cy="32" rx="22" ry="14" fill="#fff" />
+      <ellipse cx="60" cy="28" rx="28" ry="18" fill="#fff" />
+      <ellipse cx="90" cy="34" rx="20" ry="13" fill="#fff" />
+    </svg>
+  );
+}
+
+function ArrowIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+         strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M5 12h14M13 5l7 7-7 7" />
+    </svg>
+  );
+}
+
+function SearchIcon() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+         strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" />
+    </svg>
+  );
+}
+
 function Hero() {
+  const [q, setQ] = useState("");
   return (
-    <section
-      style={{
-        position: "relative",
-        height: "100svh",
-        minHeight: "580px",
-        display: "flex",
-        flexDirection: "column",
-        justifyContent: "flex-end",
-        overflow: "hidden",
-      }}
-    >
-      {/* Alpine photo */}
-      <div
-        style={{
-          position: "absolute",
-          inset: 0,
-          backgroundImage:
-            "url('https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1920&h=1080&fit=crop')",
-          backgroundPosition: "center 40%",
-          backgroundSize: "cover",
-          animation: "es-revealScale 2.2s cubic-bezier(0.16,1,0.3,1) both",
-        }}
-      />
-      {/* Gradient veil */}
-      <div
-        style={{
-          position: "absolute",
-          inset: 0,
-          background:
-            "linear-gradient(to bottom, rgba(12,11,9,0.15) 0%, rgba(12,11,9,0) 35%, rgba(12,11,9,0.6) 70%, rgba(12,11,9,1) 100%)",
-        }}
-      />
-      {/* Copy */}
-      <div style={{ position: "relative", zIndex: 2, padding: "0 6vw 8vh" }}>
-        <p
-          style={{
-            fontSize: "0.62rem",
-            letterSpacing: "0.3em",
-            textTransform: "uppercase",
-            color: G,
-            marginBottom: "1.4rem",
-            animation: "es-fadeUp 0.8s 0.3s both",
-          }}
-        >
-          The whole Switzerland experience
-        </p>
-        <h1
-          style={{
-            fontSize: "clamp(3rem, 9vw, 8rem)",
-            fontWeight: 800,
-            lineHeight: 0.92,
-            letterSpacing: "-0.03em",
-            color: "#ede8df",
-            animation: "es-fadeUp 1s 0.45s both",
-          }}
-        >
-          Explore
-          <br />
-          <em style={{ fontStyle: "italic", color: G }}>Switzerland</em>
-        </h1>
-        <p
-          style={{
-            marginTop: "2rem",
-            fontSize: "clamp(0.9rem, 1.5vw, 1.1rem)",
-            color: "#9a9187",
-            fontWeight: 300,
-            maxWidth: "420px",
-            lineHeight: 1.65,
-            animation: "es-fadeUp 0.9s 0.6s both",
-          }}
-        >
-          Every peak. Every hidden lake. Every story worth telling. Real
-          activities, honest prices.
-        </p>
-        <Link
-          href="#experiences"
-          style={{
-            display: "inline-flex",
-            alignItems: "center",
-            gap: "0.75rem",
-            marginTop: "2.5rem",
-            fontSize: "0.68rem",
-            letterSpacing: "0.15em",
-            textTransform: "uppercase",
-            color: "#ede8df",
-            textDecoration: "none",
-            borderBottom: "1px solid #504840",
-            paddingBottom: "3px",
-            animation: "es-fadeUp 0.9s 0.75s both",
-          }}
-          className="es-hero-cta"
-        >
-          Discover what&apos;s here{" "}
-          <span className="es-arr">→</span>
-        </Link>
-      </div>
-    </section>
-  );
-}
+    <section style={{ position: "relative", overflow: "hidden" }}>
+      <div aria-hidden style={{
+        position: "absolute", top: -120, right: -120, width: 380, height: 380, borderRadius: "50%",
+        background: "radial-gradient(circle, var(--accent-3), transparent 60%)", opacity: .55,
+        pointerEvents: "none", animation: "a-sunRise 2s cubic-bezier(.2,.7,.2,1) both",
+      }}/>
+      <Cloud className="a-cloud-1" />
+      <Cloud className="a-cloud-2" />
 
-/* ──────────────────────────────────────────────────────────────
-   INTRO
-─────────────────────────────────────────────────────────────── */
-function Intro() {
-  return (
-    <div
-      className="es-intro"
-      style={{
-        padding: "8rem 6vw",
-        display: "grid",
-        gridTemplateColumns: "1fr 2fr",
-        gap: "4vw",
-        alignItems: "start",
-      }}
-    >
-      <div
-        style={{
-          fontSize: "0.62rem",
-          letterSpacing: "0.25em",
-          textTransform: "uppercase",
-          color: "#9a9187",
-          paddingTop: "0.4rem",
-        }}
-      >
-        About this place
-      </div>
-      <p
-        style={{
-          fontSize: "clamp(1.05rem, 1.8vw, 1.35rem)",
-          fontWeight: 400,
-          lineHeight: 1.7,
-          color: "#b0a898",
-        }}
-      >
-        Switzerland is{" "}
-        <em style={{ fontStyle: "italic", color: "#ede8df" }}>41,285 km²</em> of
-        mountains, lakes, and villages — and most of it is still waiting to be
-        found. This is the guide that tells you what&apos;s actually worth it,
-        what it costs, and how to get there.
-      </p>
-    </div>
-  );
-}
+      <div className="a-container" style={{ paddingTop: 56, paddingBottom: 28, position: "relative" }}>
+        <div className="hero-grid" style={{
+          display: "grid", gridTemplateColumns: "1.1fr 1fr", gap: 56, alignItems: "center",
+        }}>
+          <div className="a-fade-up">
+            <span className="a-kicker"><span className="bar" />Switzerland · 215 experiences, real prices</span>
+            <h1 className="alpine-display" style={{
+              fontSize: "clamp(44px, 7vw, 92px)", lineHeight: .98, margin: "18px 0 18px",
+              letterSpacing: "-0.035em",
+            }}>
+              <span style={{
+                display: "inline-block", borderRight: "3px solid var(--accent)",
+                whiteSpace: "nowrap", overflow: "hidden", maxWidth: 0,
+                animation: "a-typewriter 1.1s steps(11, end) .2s forwards, a-blinkCaret .8s step-end infinite",
+              }}>Find your</span>
+              <em style={{
+                fontStyle: "italic", color: "var(--accent)", display: "block",
+                opacity: 0, transform: "translateY(12px)",
+                animation: "a-fadeUp .6s cubic-bezier(.2,.7,.2,1) 1.4s forwards",
+              }}>Swiss day out.</em>
+            </h1>
+            <p style={{ fontSize: 18, color: "var(--ink-soft)", maxWidth: 520, marginBottom: 28 }}>
+              Hand-picked alpine adventures, scenic trains, hot springs and storybook villages — sorted by what&apos;s actually worth your francs.
+            </p>
 
-/* ──────────────────────────────────────────────────────────────
-   CATEGORY STRIPS
-─────────────────────────────────────────────────────────────── */
-function CategoryItem({
-  cat,
-  index,
-}: {
-  cat: (typeof CATEGORIES)[0];
-  index: number;
-}) {
-  const isEven = index % 2 === 1;
-  return (
-    <Link
-      href={cat.href}
-      className="es-cat-item"
-      data-even={isEven ? "true" : "false"}
-      style={{
-        display: "grid",
-        gridTemplateColumns: "1fr 1fr",
-        minHeight: "55vh",
-        borderTop: "1px solid #1e1b17",
-        textDecoration: "none",
-        color: "inherit",
-        overflow: "hidden",
-        direction: isEven ? "rtl" : "ltr",
-      }}
-    >
-      {/* Text */}
-      <div
-        className="es-cat-text"
-        style={{
-          direction: "ltr",
-          padding: "4rem 6vw",
-          display: "flex",
-          flexDirection: "column",
-          justifyContent: "space-between",
-          background: "#0c0b09",
-          transition: "background 0.4s",
-        }}
-      >
-        <div
-          style={{
-            fontSize: "0.75rem",
-            fontWeight: 300,
-            color: "#9a9187",
-            letterSpacing: "0.1em",
-          }}
-        >
-          {cat.num}
-        </div>
-        <div>
-          <div
-            className="es-cat-name"
-            style={{
-                fontSize: "clamp(2rem, 4.5vw, 3.5rem)",
-              fontWeight: 700,
-              lineHeight: 1.05,
-              color: "#ede8df",
-              transition: "color 0.3s",
-            }}
-          >
-            {cat.name}
-            <br />
-            <em style={{ fontStyle: "italic" }}>{cat.nameItalic}</em>
-          </div>
-        </div>
-        <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-          <p style={{ fontSize: "0.85rem", color: "#9a9187", lineHeight: 1.65, maxWidth: "360px" }}>
-            {cat.desc}
-          </p>
-          <span
-            className="es-cat-link"
-            style={{
-              fontSize: "0.65rem",
-              letterSpacing: "0.2em",
-              textTransform: "uppercase",
-              color: "#9a9187",
-              display: "flex",
-              alignItems: "center",
-              gap: "0.5rem",
-              transition: "color 0.2s",
-            }}
-          >
-            {cat.count}{" "}
-            <span className="es-arr" style={{ display: "inline-block", transition: "transform 0.25s" }}>→</span>
-          </span>
-        </div>
-      </div>
-
-      {/* Image */}
-      <div style={{ direction: "ltr", overflow: "hidden", position: "relative" }}>
-        <div
-          className="es-cat-img"
-          style={{
-            width: "100%",
-            height: "100%",
-            backgroundImage: `url(${cat.image})`,
-            backgroundSize: "cover",
-            backgroundPosition: "center",
-            transition: "transform 0.8s cubic-bezier(0.16,1,0.3,1)",
-          }}
-        />
-        <div
-          style={{
-            position: "absolute",
-            bottom: "1.5rem",
-            right: "1.5rem",
-            fontSize: "0.6rem",
-            letterSpacing: "0.15em",
-            textTransform: "uppercase",
-            color: "#9a9187",
-            background: "rgba(12,11,9,0.65)",
-            padding: "0.35rem 0.8rem",
-            backdropFilter: "blur(6px)",
-          }}
-        >
-          {cat.count}
-        </div>
-      </div>
-    </Link>
-  );
-}
-
-function Categories() {
-  return (
-    <section id="experiences" style={{ paddingTop: "2rem" }}>
-      {CATEGORIES.map((cat, i) => (
-        <CategoryItem key={i} cat={cat} index={i} />
-      ))}
-      <div style={{ borderBottom: "1px solid #1e1b17" }} />
-    </section>
-  );
-}
-
-/* ──────────────────────────────────────────────────────────────
-   FEATURE SPOTLIGHT
-─────────────────────────────────────────────────────────────── */
-function Feature() {
-  const facts = [
-    { val: "3,454m", key: "Altitude" },
-    { val: "6–8h", key: "Full day" },
-    { val: "CHF 234", key: "From" },
-  ];
-  return (
-    <section
-      className="es-feature"
-      style={{
-        padding: "10rem 6vw",
-        display: "grid",
-        gridTemplateColumns: "1fr 1fr",
-        gap: "8vw",
-        alignItems: "center",
-      }}
-    >
-      <div style={{ position: "relative", aspectRatio: "3/4", overflow: "hidden" }}>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=1000&fit=crop"
-          alt="Jungfraujoch — Top of Europe"
-          className="es-feature-img"
-          style={{
-            width: "100%",
-            height: "100%",
-            objectFit: "cover",
-            transition: "transform 0.8s cubic-bezier(0.16,1,0.3,1)",
-            display: "block",
-          }}
-        />
-        <div
-          style={{
-            position: "absolute",
-            top: "1.5rem",
-            left: "1.5rem",
-            fontSize: "0.58rem",
-            letterSpacing: "0.18em",
-            textTransform: "uppercase",
-            background: G,
-            color: "#0c0b09",
-            padding: "0.3rem 0.7rem",
-            fontWeight: 500,
-          }}
-        >
-          This Month&apos;s Highlight
-        </div>
-      </div>
-
-      <div>
-        <div style={{ fontSize: "0.62rem", letterSpacing: "0.25em", textTransform: "uppercase", color: G, marginBottom: "1.5rem" }}>
-          Mountain Experience
-        </div>
-        <h2
-          style={{
-            fontSize: "clamp(2rem, 3.5vw, 3rem)",
-            fontWeight: 700,
-            lineHeight: 1.1,
-            color: "#ede8df",
-            marginBottom: "0.5rem",
-          }}
-        >
-          Jungfraujoch
-        </h2>
-        <p style={{ fontStyle: "italic", fontSize: "1.1rem", color: "#9a9187", marginBottom: "2rem" }}>
-          Top of Europe
-        </p>
-        <p style={{ fontSize: "0.88rem", color: "#9a9187", lineHeight: 1.8, marginBottom: "2.5rem", maxWidth: "420px" }}>
-          A cogwheel train tunnels through the Eiger itself to reach the highest
-          railway station in Europe at 3,454m. An ice palace carved into a
-          glacier. The Aletsch — the Alps&apos; longest glacier — stretching to the
-          horizon. On clear days, you can see the Black Forest in Germany.
-        </p>
-
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(3,1fr)",
-            gap: "1px",
-            background: "#1e1b17",
-            marginBottom: "2.5rem",
-          }}
-        >
-          {facts.map((f) => (
-            <div key={f.key} style={{ background: "#0c0b09", padding: "1.2rem 1rem" }}>
-              <div style={{ fontSize: "1.6rem", fontWeight: 700, color: "#ede8df" }}>
-                {f.val}
-              </div>
-              <div style={{ fontSize: "0.6rem", letterSpacing: "0.12em", textTransform: "uppercase", color: "#9a9187", marginTop: "0.15rem" }}>
-                {f.key}
-              </div>
+            <div style={{
+              display: "flex", alignItems: "center", gap: 6, padding: 8,
+              background: "var(--card)", border: "1px solid var(--line)",
+              borderRadius: 999, boxShadow: "var(--shadow-2)", maxWidth: 560,
+            }}>
+              <span style={{ paddingLeft: 12, color: "var(--ink-mute)", display: "inline-flex" }}><SearchIcon /></span>
+              <input
+                value={q} onChange={(e) => setQ(e.target.value)}
+                onKeyDown={(e) => { if (e.key === "Enter") window.location.href = `/activities?q=${encodeURIComponent(q)}`; }}
+                placeholder="Try ‘paragliding’, ‘Zermatt’, or ‘rainy day’"
+                style={{
+                  flex: 1, border: 0, outline: 0, background: "transparent",
+                  fontFamily: "inherit", fontSize: 15, color: "var(--ink)", padding: "10px 4px",
+                }}
+              />
+              <Link className="a-btn a-btn-primary" href={`/activities${q ? `?q=${encodeURIComponent(q)}` : ""}`}>Search</Link>
             </div>
-          ))}
-        </div>
 
-        <Link
-          href="/activities?category=mountain"
-          className="es-feature-link"
-          style={{
-            display: "inline-flex",
-            alignItems: "center",
-            gap: "0.75rem",
-            fontSize: "0.68rem",
-            letterSpacing: "0.15em",
-            textTransform: "uppercase",
-            color: "#9a9187",
-            textDecoration: "none",
-            borderBottom: "1px solid #2d2920",
-            paddingBottom: "3px",
-            transition: "color 0.2s, border-color 0.2s",
-          }}
-        >
-          See all mountain experiences{" "}
-          <span className="es-arr" style={{ display: "inline-block", transition: "transform 0.2s" }}>→</span>
-        </Link>
-      </div>
-    </section>
-  );
-}
-
-/* ──────────────────────────────────────────────────────────────
-   ITINERARY TEASER
-─────────────────────────────────────────────────────────────── */
-function ItinTeaser() {
-  const route = ["Zurich", "Lucerne", "Interlaken", "Zermatt", "Geneva"];
-  return (
-    <div
-      id="itinerary"
-      className="es-itin"
-      style={{
-        borderTop: "1px solid #1e1b17",
-        borderBottom: "1px solid #1e1b17",
-        padding: "6rem 6vw",
-        display: "grid",
-        gridTemplateColumns: "auto 1fr auto",
-        gap: "4vw",
-        alignItems: "center",
-      }}
-    >
-      <div
-        className="es-itin-label"
-        style={{
-          fontSize: "0.62rem",
-          letterSpacing: "0.25em",
-          textTransform: "uppercase",
-          color: "#9a9187",
-          writingMode: "vertical-rl",
-          transform: "rotate(180deg)",
-        }}
-      >
-        Itinerary
-      </div>
-
-      <div>
-        <div style={{ fontSize: "0.62rem", letterSpacing: "0.25em", textTransform: "uppercase", color: G, marginBottom: "1rem" }}>
-          Curated Route · 7 Days
-        </div>
-        <h2
-          style={{
-            fontSize: "clamp(2rem, 3.5vw, 3rem)",
-            fontWeight: 700,
-            lineHeight: 1.1,
-            color: "#ede8df",
-            marginBottom: "0.75rem",
-          }}
-        >
-          Classic{" "}
-          <em style={{ fontStyle: "italic", color: "#9a9187" }}>Switzerland</em>
-        </h2>
-
-        <div style={{ display: "flex", alignItems: "center", flexWrap: "wrap", marginBottom: "1.5rem" }}>
-          {route.map((city, i) => (
-            <span key={city} style={{ display: "flex", alignItems: "center" }}>
-              <span style={{ fontSize: "0.75rem", letterSpacing: "0.08em", color: "#9a9187" }}>{city}</span>
-              {i < route.length - 1 && (
-                <span style={{ width: "20px", height: "1px", background: "#8a7e70", margin: "0 0.5rem" }} />
-              )}
-            </span>
-          ))}
-        </div>
-
-        <p style={{ fontSize: "0.85rem", color: "#9a9187", lineHeight: 1.7, maxWidth: "520px", marginBottom: "2rem" }}>
-          The definitive first-timer&apos;s route. Five cities, two iconic peaks, one
-          legendary train ride, and a medieval castle on a lake. Everything in
-          the right order, at the right pace. Budget to luxury: CHF 1,200 –
-          4,500 per person.
-        </p>
-
-        <Link
-          href="/itineraries"
-          className="es-itin-link"
-          style={{
-            display: "inline-flex",
-            alignItems: "center",
-            gap: "0.75rem",
-            fontSize: "0.68rem",
-            letterSpacing: "0.15em",
-            textTransform: "uppercase",
-            color: "#9a9187",
-            textDecoration: "none",
-            borderBottom: "1px solid #2d2920",
-            paddingBottom: "3px",
-            transition: "color 0.2s, border-color 0.2s",
-          }}
-        >
-          View full itinerary{" "}
-          <span className="es-arr" style={{ display: "inline-block", transition: "transform 0.2s" }}>→</span>
-        </Link>
-      </div>
-
-      <div className="es-itin-img-wrap" style={{ width: "280px", aspectRatio: "3/4", overflow: "hidden", flexShrink: 0 }}>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&h=800&fit=crop"
-          alt="Classic Switzerland route"
-          className="es-itin-img"
-          style={{
-            width: "100%",
-            height: "100%",
-            objectFit: "cover",
-            transition: "transform 0.8s cubic-bezier(0.16,1,0.3,1)",
-            display: "block",
-          }}
-        />
-      </div>
-    </div>
-  );
-}
-
-/* ──────────────────────────────────────────────────────────────
-   STORIES
-─────────────────────────────────────────────────────────────── */
-function Stories() {
-  return (
-    <section id="stories" style={{ padding: "8rem 6vw" }}>
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginBottom: "4rem" }}>
-        <h2
-          style={{
-            fontSize: "clamp(1.8rem, 3vw, 2.6rem)",
-            fontWeight: 700,
-            color: "#ede8df",
-          }}
-        >
-          Read before
-          <br />
-          <em style={{ fontStyle: "italic", color: "#9a9187" }}>you go</em>
-        </h2>
-        <Link
-          href="/stories"
-          className="es-stories-see"
-          style={{
-            fontSize: "0.65rem",
-            letterSpacing: "0.15em",
-            textTransform: "uppercase",
-            color: "#9a9187",
-            textDecoration: "none",
-            borderBottom: "1px solid #1e1b17",
-            paddingBottom: "2px",
-            transition: "color 0.2s, border-color 0.2s",
-          }}
-        >
-          All stories →
-        </Link>
-      </div>
-
-      <div
-        className="es-story-row"
-        style={{ display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: "2px" }}
-      >
-        {STORIES.map((s) => (
-          <Link
-            key={s.num}
-            href={s.href}
-            className="es-story-item"
-            style={{
-              padding: "2rem 2rem 2rem 0",
-              borderRight: "1px solid #1e1b17",
-              textDecoration: "none",
-              color: "inherit",
-              display: "block",
-              transition: "opacity 0.2s",
-            }}
-          >
-            <div
-              style={{
-                    fontSize: "3.5rem",
-                fontWeight: 300,
-                color: "#5a5040",
-                lineHeight: 1,
-                marginBottom: "1.5rem",
-              }}
-            >
-              {s.num}
-            </div>
-            <div style={{ display: "flex", gap: "0.5rem", marginBottom: "0.75rem" }}>
-              {s.tags.map((t) => (
-                <span key={t} style={{ fontSize: "0.58rem", letterSpacing: "0.15em", textTransform: "uppercase", color: G }}>
-                  {t}
-                </span>
+            <div style={{ display: "flex", gap: 8, marginTop: 16, flexWrap: "wrap" }}>
+              <span style={{ alignSelf: "center", fontSize: 13, color: "var(--ink-mute)", marginRight: 4 }}>Popular:</span>
+              {QUICK.map((qx) => (
+                <Link key={qx} className="a-chip" href={`/activities?q=${encodeURIComponent(qx)}`}>{qx}</Link>
               ))}
             </div>
-            <h3
-              style={{
-                    fontSize: "1.3rem",
-                fontWeight: 400,
-                lineHeight: 1.3,
-                color: "#ede8df",
-                marginBottom: "0.75rem",
-              }}
-            >
-              {s.title}
-            </h3>
-            <p style={{ fontSize: "0.78rem", color: "#9a9187", lineHeight: 1.65, marginBottom: "1.25rem" }}>
-              {s.excerpt}
-            </p>
-            <div style={{ fontSize: "0.65rem", letterSpacing: "0.08em", color: "#9a9187", display: "flex", gap: "0.75rem" }}>
-              <span>{s.author}</span>
-              <span>·</span>
-              <span>{s.date}</span>
-              <span>·</span>
-              <span>{s.readTime} read</span>
+
+            <div style={{ display: "flex", gap: 22, marginTop: 28, flexWrap: "wrap" }}>
+              {[["215", "experiences"], ["26", "cantons"], ["4.7★", "avg rating"], ["CHF 0–500", "all budgets"]].map(([n, l]) => (
+                <div key={l}>
+                  <div className="alpine-display" style={{ fontSize: 22, lineHeight: 1 }}>{n}</div>
+                  <div style={{ fontSize: 12, color: "var(--ink-mute)", marginTop: 4 }}>{l}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Hero collage */}
+          <div className="hero-art a-fade-up" style={{ position: "relative", height: 540 }}>
+            <div className="a-floaty" style={{
+              ["--rot" as string]: "-3deg", position: "absolute", top: 30, right: 0, width: "82%", height: 360,
+              borderRadius: 26, overflow: "hidden", boxShadow: "var(--shadow-2)",
+              border: "6px solid #FFFDF6", background: "var(--bg-2)",
+            } as React.CSSProperties}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=900&q=80&auto=format&fit=crop"
+                alt="Snowy alpine peaks" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+              <span style={{ position: "absolute", left: 14, bottom: 12, color: "#fff", fontFamily: "JetBrains Mono, monospace", fontSize: 11, letterSpacing: ".14em", textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,.5)" }}>Jungfraujoch · 3,454m</span>
+            </div>
+            <div className="a-floaty" style={{
+              ["--rot" as string]: "5deg", animationDelay: "1.5s",
+              position: "absolute", bottom: 40, left: 0, width: 220, height: 180,
+              borderRadius: 22, overflow: "hidden", boxShadow: "var(--shadow-2)",
+              border: "5px solid #FFFDF6", background: "var(--bg-2)",
+            } as React.CSSProperties}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="https://images.unsplash.com/photo-1502784444187-359ac186c5bb?w=600&q=80&auto=format&fit=crop"
+                alt="Lake Brienz" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+              <span style={{ position: "absolute", left: 14, bottom: 10, color: "#fff", fontFamily: "JetBrains Mono, monospace", fontSize: 11, letterSpacing: ".14em", textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,.5)" }}>Lake Brienz</span>
+            </div>
+            <div className="a-floaty" style={{
+              ["--rot" as string]: "-8deg", animationDelay: "3s",
+              position: "absolute", bottom: 0, right: 50, width: 180, height: 140,
+              borderRadius: 18, overflow: "hidden", boxShadow: "var(--shadow-2)",
+              border: "5px solid #FFFDF6", background: "var(--bg-2)",
+            } as React.CSSProperties}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="https://images.unsplash.com/photo-1551524559-8af4e6624178?w=500&q=80&auto=format&fit=crop"
+                alt="Alpine lake" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+              <span style={{ position: "absolute", left: 14, bottom: 8, color: "#fff", fontFamily: "JetBrains Mono, monospace", fontSize: 11, letterSpacing: ".14em", textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,.5)" }}>Bachalpsee</span>
+            </div>
+            <div style={{
+              position: "absolute", top: 0, left: 30, transform: "rotate(-10deg)",
+              background: "#FFFDF6", border: "2px dashed var(--accent)", color: "var(--accent)",
+              padding: "8px 14px", borderRadius: 8,
+              fontFamily: "JetBrains Mono, monospace", fontSize: 11, letterSpacing: ".14em", textTransform: "uppercase",
+              boxShadow: "var(--shadow-1)", zIndex: 2,
+            }}>★ Hand-picked</div>
+            <div className="a-floaty hide-mobile-tag" style={{
+              ["--rot" as string]: "8deg", animationDelay: "2s",
+              position: "absolute", top: 220, left: -10,
+              background: "var(--ink)", color: "#fff",
+              padding: "10px 14px", borderRadius: 14,
+              boxShadow: "var(--shadow-2)",
+              fontFamily: "JetBrains Mono, monospace", fontSize: 12, letterSpacing: ".06em", zIndex: 2,
+            } as React.CSSProperties}>
+              <div style={{ opacity: .65, fontSize: 10, textTransform: "uppercase" }}>From</div>
+              <div style={{ fontSize: 18, fontWeight: 700 }}>CHF 0 ✦ Free</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function CategoryStrip() {
+  return (
+    <section className="a-container" style={{ padding: "72px 24px 24px" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "end", flexWrap: "wrap", gap: 16, marginBottom: 28 }}>
+        <div>
+          <span className="a-kicker"><span className="bar" />Browse by mood</span>
+          <h2 className="alpine-display" style={{ fontSize: "clamp(30px, 4vw, 48px)", lineHeight: 1.05, margin: "10px 0 0" }}>
+            Pick a vibe. <em style={{ fontStyle: "italic", color: "var(--accent)" }}>We sort the rest.</em>
+          </h2>
+        </div>
+        <Link className="a-btn a-btn-ghost" href="/activities">See all 215 <ArrowIcon /></Link>
+      </div>
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", gap: 14 }}>
+        {CATEGORIES.map((c) => (
+          <Link key={c.num} href={c.href} className="cat-card" style={{
+            background: "var(--card)", borderRadius: 22, border: "1px solid var(--line)",
+            padding: 18, display: "flex", flexDirection: "column", gap: 12,
+            cursor: "pointer", textDecoration: "none", color: "inherit",
+            boxShadow: "var(--shadow-1)", transition: "transform .25s, box-shadow .25s, border-color .25s",
+          }}>
+            <div style={{ height: 130, borderRadius: 14, overflow: "hidden", background: "var(--bg-2)" }}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={c.photo} alt={c.name} loading="lazy"
+                style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            </div>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline" }}>
+              <div className="alpine-display" style={{ fontSize: 22, lineHeight: 1.05 }}>
+                {c.name} <em style={{ fontStyle: "italic", color: "var(--ink-mute)" }}>{c.italic}</em>
+              </div>
+              <span className="alpine-mono" style={{ fontSize: 11, color: "var(--ink-mute)" }}>{c.num}</span>
+            </div>
+            <p style={{ fontSize: 14, color: "var(--ink-soft)", margin: 0 }}>{c.desc}</p>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: 4 }}>
+              <span className="a-tag">{c.count} experiences</span>
+              <span style={{ color: "var(--accent)", display: "flex", gap: 6, alignItems: "center", fontWeight: 600, fontSize: 13 }}>
+                Browse <ArrowIcon />
+              </span>
             </div>
           </Link>
         ))}
@@ -709,95 +242,227 @@ function Stories() {
   );
 }
 
-/* ──────────────────────────────────────────────────────────────
-   PAGE ROOT
-─────────────────────────────────────────────────────────────── */
-export default function HomePage() {
+function FeatureRow() {
+  const facts = [["3,454m", "Altitude"], ["6–8h", "Full day"], ["CHF 234", "From"], ["★4.7", "2.8k reviews"]] as const;
   return (
-    <>
-      <style>{`
-        /* ── Keyframes ── */
-        @keyframes es-fadeUp {
-          from { opacity: 0; transform: translateY(24px); }
-          to   { opacity: 1; transform: translateY(0); }
-        }
-        @keyframes es-revealScale {
-          from { transform: scale(1.1); }
-          to   { transform: scale(1); }
-        }
-
-        /* ── Wrapper ── */
-        .es-home {
-          background: #0c0b09;
-          color: #ede8df;
-          font-family: 'DM Sans', 'Geist Sans', sans-serif;
-          font-weight: 300;
-          line-height: 1.6;
-          overflow-x: hidden;
-        }
-        .es-home ::selection { background: oklch(74% 0.13 63deg); color: #0c0b09; }
-
-        /* ── Hero CTA ── */
-        .es-hero-cta:hover { color: oklch(74% 0.13 63deg) !important; border-color: oklch(74% 0.13 63deg) !important; }
-        .es-hero-cta:hover .es-arr { transform: translateX(4px) !important; }
-
-        /* ── Divider ── */
-        .es-divider { height: 1px; background: #1e1b17; margin: 0 6vw; }
-
-        /* ── Intro ── */
-        @media (max-width: 700px) {
-          .es-intro { grid-template-columns: 1fr !important; gap: 1.5rem !important; padding: 5rem 6vw !important; }
-        }
-
-        /* ── Category items ── */
-        .es-cat-item:hover .es-cat-text { background: #131210 !important; }
-        .es-cat-item:hover .es-cat-name { color: oklch(74% 0.13 63deg) !important; }
-        .es-cat-item:hover .es-cat-link { color: oklch(74% 0.13 63deg) !important; }
-        .es-cat-item:hover .es-cat-link .es-arr { transform: translateX(5px) !important; }
-        .es-cat-item:hover .es-cat-img { transform: scale(1.04) !important; }
-        @media (max-width: 800px) {
-          .es-cat-item { grid-template-columns: 1fr !important; direction: ltr !important; min-height: auto !important; }
-          .es-cat-item > div:last-child { height: 45vw; min-height: 200px; }
-        }
-
-        /* ── Feature ── */
-        .es-feature:hover .es-feature-img { transform: scale(1.04); }
-        .es-feature-link:hover { color: oklch(74% 0.13 63deg) !important; border-color: oklch(74% 0.13 63deg) !important; }
-        .es-feature-link:hover .es-arr { transform: translateX(4px) !important; }
-        @media (max-width: 800px) {
-          .es-feature { grid-template-columns: 1fr !important; padding: 6rem 6vw !important; gap: 3rem !important; }
-        }
-
-        /* ── Itinerary ── */
-        .es-itin:hover .es-itin-img { transform: scale(1.04); }
-        .es-itin-link:hover { color: oklch(74% 0.13 63deg) !important; border-color: oklch(74% 0.13 63deg) !important; }
-        .es-itin-link:hover .es-arr { transform: translateX(4px) !important; }
-        @media (max-width: 900px) {
-          .es-itin { grid-template-columns: 1fr !important; gap: 2rem !important; }
-          .es-itin-label { writing-mode: horizontal-tb !important; transform: none !important; }
-          .es-itin-img-wrap { width: 100% !important; aspect-ratio: 16/9 !important; }
-        }
-
-        /* ── Stories ── */
-        .es-stories-see:hover { color: #9a9187 !important; border-color: #504840 !important; }
-        .es-story-item:last-child { border-right: none !important; padding-right: 0 !important; }
-        .es-story-item:hover { opacity: 0.7; }
-        @media (max-width: 800px) {
-          .es-story-row { grid-template-columns: 1fr !important; }
-          .es-story-item { border-right: none !important; border-bottom: 1px solid #1e1b17 !important; padding: 2rem 0 !important; }
-          .es-story-item:last-child { border-bottom: none !important; }
-        }
-      `}</style>
-
-      <div className="es-home">
-        <Hero />
-        <div className="es-divider" />
-        <Intro />
-        <Categories />
-        <Feature />
-        <ItinTeaser />
-        <Stories />
+    <section className="a-container" style={{ padding: "72px 24px" }}>
+      <div className="feature-grid" style={{ display: "grid", gridTemplateColumns: "1.1fr 1fr", gap: 48, alignItems: "center" }}>
+        <div style={{ position: "relative", aspectRatio: "4/5", borderRadius: 26, overflow: "hidden", boxShadow: "var(--shadow-2)", background: "var(--bg-2)" }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=900&q=80&auto=format&fit=crop"
+            alt="Jungfraujoch" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          <div style={{ position: "absolute", top: 16, left: 16 }}>
+            <span className="a-tag coral" style={{ background: "var(--ink)", color: "#fff" }}>✦ This month&apos;s pick</span>
+          </div>
+        </div>
+        <div>
+          <span className="a-kicker"><span className="bar" />Mountain experience</span>
+          <h2 className="alpine-display" style={{ fontSize: "clamp(36px, 5vw, 64px)", lineHeight: 1.02, margin: "12px 0 6px" }}>Jungfraujoch</h2>
+          <p className="alpine-display" style={{ fontStyle: "italic", color: "var(--accent)", fontWeight: 500, fontSize: 22, margin: 0 }}>Top of Europe</p>
+          <p style={{ fontSize: 17, color: "var(--ink-soft)", lineHeight: 1.7, margin: "20px 0 26px", maxWidth: 520 }}>
+            A cogwheel train tunnels through the Eiger to reach the highest railway station in Europe. An ice palace carved into a glacier. The Aletsch — the longest glacier in the Alps — stretching to the horizon.
+          </p>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(2, 1fr)", gap: 1, background: "var(--line)", borderRadius: 18, overflow: "hidden", marginBottom: 26 }}>
+            {facts.map(([v, k]) => (
+              <div key={k} style={{ background: "var(--card)", padding: "16px 18px" }}>
+                <div className="alpine-display" style={{ fontSize: 22, lineHeight: 1 }}>{v}</div>
+                <div style={{ fontSize: 11, letterSpacing: ".14em", textTransform: "uppercase", color: "var(--ink-mute)", marginTop: 6 }}>{k}</div>
+              </div>
+            ))}
+          </div>
+          <Link className="a-btn a-btn-dark" href="/activities?category=outdoor">Book this experience <ArrowIcon /></Link>
+        </div>
       </div>
-    </>
+    </section>
+  );
+}
+
+function ItinTeaser() {
+  const route = ["Zurich", "Lucerne", "Interlaken", "Zermatt", "Geneva"];
+  return (
+    <section style={{ padding: "16px 0 72px" }}>
+      <div className="a-container">
+        <div className="itin-card" style={{
+          background: "var(--ink)", color: "#FFF7EC",
+          borderRadius: 30, padding: "44px 36px",
+          display: "grid", gridTemplateColumns: "1.4fr 1fr", gap: 36, alignItems: "center",
+          position: "relative", overflow: "hidden",
+        }}>
+          <div style={{ position: "absolute", inset: 0, opacity: .25, pointerEvents: "none" }}>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="https://images.unsplash.com/photo-1543634806-d12bf25b8074?w=1200&q=80&auto=format&fit=crop"
+              alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          </div>
+          <div style={{ position: "relative" }}>
+            <span className="a-kicker" style={{ color: "var(--accent-3)" }}>
+              <span className="bar" style={{ background: "var(--accent-3)" }} />Curated route · 7 days
+            </span>
+            <h2 className="alpine-display" style={{ color: "#FFF7EC", fontSize: "clamp(34px, 4.4vw, 56px)", lineHeight: 1.02, margin: "12px 0 18px" }}>
+              Classic <em style={{ fontStyle: "italic", color: "var(--accent-3)" }}>Switzerland</em>
+            </h2>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginBottom: 18 }}>
+              {route.map((c, i) => (
+                <span key={c} style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                  <span style={{
+                    background: "rgba(255,255,255,.08)", border: "1px solid rgba(255,255,255,.12)",
+                    padding: "6px 12px", borderRadius: 999, fontSize: 13,
+                  }}>{c}</span>
+                  {i < route.length - 1 && <span style={{ opacity: .5 }}>→</span>}
+                </span>
+              ))}
+            </div>
+            <p style={{ color: "rgba(255,247,236,.78)", fontSize: 15.5, lineHeight: 1.7, maxWidth: 560 }}>
+              The definitive first-timer&apos;s route. Five cities, two iconic peaks, one legendary train ride, and a medieval castle on a lake. Budget to luxury: <strong style={{ color: "#fff" }}>CHF 1,200 – 4,500</strong> per person.
+            </p>
+            <div style={{ display: "flex", gap: 10, marginTop: 22, flexWrap: "wrap" }}>
+              <Link className="a-btn" style={{ background: "var(--accent-3)", color: "#1F2A2E" }}
+                href="/itineraries/classic-switzerland-7-days">View itinerary <ArrowIcon /></Link>
+              <Link className="a-btn" style={{ background: "rgba(255,255,255,.1)", color: "#fff", border: "1px solid rgba(255,255,255,.18)" }}
+                href="/planner">Customize</Link>
+            </div>
+          </div>
+          <div style={{ position: "relative", aspectRatio: "4/5", borderRadius: 22, overflow: "hidden", boxShadow: "var(--shadow-2)", background: "var(--bg-2)" }}>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="https://images.unsplash.com/photo-1560704198-d36d8836f1cd?w=600&q=80&auto=format&fit=crop"
+              alt="Swiss train" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function StoriesRow() {
+  return (
+    <section style={{ padding: "16px 0 80px" }}>
+      <div className="a-container">
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "end", flexWrap: "wrap", gap: 16, marginBottom: 28 }}>
+          <div>
+            <span className="a-kicker"><span className="bar" />Stories</span>
+            <h2 className="alpine-display" style={{ fontSize: "clamp(30px, 4vw, 48px)", lineHeight: 1.05, margin: "10px 0 0" }}>
+              Read before <em style={{ fontStyle: "italic", color: "var(--accent)" }}>you go.</em>
+            </h2>
+          </div>
+          <Link className="a-btn a-btn-ghost" href="/stories">All stories <ArrowIcon /></Link>
+        </div>
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))", gap: 14 }}>
+          {STORIES.map((s) => (
+            <Link key={s.num} href={s.href} className="cat-card" style={{
+              background: "var(--card)", borderRadius: 22, border: "1px solid var(--line)",
+              padding: 16, display: "flex", flexDirection: "column", gap: 12,
+              textDecoration: "none", color: "inherit", cursor: "pointer", boxShadow: "var(--shadow-1)",
+              transition: "transform .25s, box-shadow .25s, border-color .25s",
+            }}>
+              <div style={{ height: 160, borderRadius: 14, overflow: "hidden", background: "var(--bg-2)" }}>
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={s.photo} alt={s.title} loading="lazy"
+                  style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+              </div>
+              <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
+                {s.tags.map((t) => <span key={t} className="a-tag">{t}</span>)}
+              </div>
+              <h3 className="alpine-display" style={{ fontSize: 22, lineHeight: 1.15, margin: 0 }}>{s.title}</h3>
+              <p style={{ color: "var(--ink-soft)", fontSize: 14, margin: 0 }}>{s.excerpt}</p>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginTop: 4 }}>
+                <span className="alpine-mono" style={{ fontSize: 11, color: "var(--ink-mute)" }}>{s.num} · {s.read}</span>
+                <span style={{ color: "var(--accent)", fontWeight: 600, fontSize: 13, display: "flex", gap: 6, alignItems: "center" }}>Read <ArrowIcon /></span>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
+/* ──────────────────────────────────────────────────────────────
+   Easter eggs (Konami → confetti, ripples)
+─────────────────────────────────────────────────────────────── */
+function useEasterEggs() {
+  useEffect(() => {
+    const KONAMI = ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"];
+    let buf: string[] = [];
+    const onKey = (e: KeyboardEvent) => {
+      buf.push(e.key);
+      if (buf.length > KONAMI.length) buf.shift();
+      if (KONAMI.every((k, i) => buf[i] && buf[i].toLowerCase() === k.toLowerCase())) {
+        buf = [];
+        triggerConfetti(160);
+        const banner = document.createElement("div");
+        banner.className = "alpine-yodel-banner";
+        banner.innerHTML = "🎶 YODEL MODE UNLOCKED — Echoooo through the Alps! Click to dismiss.";
+        banner.addEventListener("click", () => banner.remove());
+        document.body.appendChild(banner);
+        setTimeout(() => banner.remove(), 5500);
+      }
+    };
+    const onClick = (e: MouseEvent) => {
+      const target = e.target as HTMLElement | null;
+      const btn = target?.closest(".a-btn") as HTMLElement | null;
+      if (!btn) return;
+      const r = btn.getBoundingClientRect();
+      const span = document.createElement("span");
+      span.style.position = "absolute";
+      span.style.borderRadius = "50%";
+      span.style.transform = "scale(0)";
+      span.style.background = "rgba(255,255,255,.4)";
+      span.style.pointerEvents = "none";
+      span.style.animation = "a-rippleAnim .6s ease-out";
+      const size = Math.max(r.width, r.height);
+      span.style.width = span.style.height = size + "px";
+      span.style.left = (e.clientX - r.left - size / 2) + "px";
+      span.style.top = (e.clientY - r.top - size / 2) + "px";
+      btn.appendChild(span);
+      setTimeout(() => span.remove(), 650);
+    };
+    document.addEventListener("keydown", onKey);
+    document.addEventListener("click", onClick);
+    return () => {
+      document.removeEventListener("keydown", onKey);
+      document.removeEventListener("click", onClick);
+    };
+  }, []);
+}
+
+function triggerConfetti(count = 80, colors?: string[]) {
+  const palette = colors || ["#E8634A", "#F4B43E", "#2E6F5E", "#6FB6D9", "#FFFDF6"];
+  for (let i = 0; i < count; i++) {
+    const e = document.createElement("div");
+    e.className = "alpine-confetti";
+    e.style.left = Math.random() * 100 + "vw";
+    e.style.background = palette[i % palette.length];
+    e.style.transform = `rotate(${Math.random() * 360}deg)`;
+    e.style.animationDuration = (3 + Math.random() * 2) + "s";
+    e.style.animationDelay = (Math.random() * .6) + "s";
+    e.style.borderRadius = Math.random() < .3 ? "50%" : "2px";
+    document.body.appendChild(e);
+    setTimeout(() => e.remove(), 6000);
+  }
+}
+
+export default function HomePage() {
+  useEasterEggs();
+  return (
+    <div className="alpine-page">
+      <style dangerouslySetInnerHTML={{ __html: `
+        @media (max-width: 820px) {
+          .alpine-page .hero-grid { grid-template-columns: 1fr !important; gap: 24px !important; }
+          .alpine-page .hero-art { height: 320px !important; }
+          .alpine-page .feature-grid { grid-template-columns: 1fr !important; gap: 24px !important; }
+          .alpine-page .itin-card { grid-template-columns: 1fr !important; padding: 28px 20px !important; }
+          .alpine-page .hide-mobile-tag { display: none !important; }
+        }
+        .alpine-page .cat-card:hover {
+          transform: translateY(-3px);
+          box-shadow: var(--shadow-2);
+          border-color: color-mix(in oklab, var(--accent) 30%, var(--line)) !important;
+        }
+      `}} />
+      <Hero />
+      <CategoryStrip />
+      <FeatureRow />
+      <ItinTeaser />
+      <StoriesRow />
+    </div>
   );
 }

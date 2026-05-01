@@ -1,0 +1,85 @@
+{
+  "id": "487",
+  "slug": "star-wars-prison-escape-room-dietlikon",
+  "name": "\"Star Wars Prison\" Escape Room in Dietlikon",
+  "description": "Discover \"Star Wars Prison\" Escape Room in Dietlikon in Switzerland.",
+  "longDescription": "Discover \"Star Wars Prison\" Escape Room in Dietlikon in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/star-wars-prison-escape-room-dietlikon/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Star Wars Prison",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/83335d750a0b74d03a4b3caef329f6c2.jpeg"
+    },
+    {
+      "alternativeText": "Star Wars Prison",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f1e0081adc34ef5ac7f6ffd02cd115e.png"
+    },
+    {
+      "alternativeText": "Star Wars Prison",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7716fbe26b7bc5e75f43e1e5001bd7c6.jpeg"
+    },
+    {
+      "alternativeText": "Star Wars Prison",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1046593fe973c16bed6cd387c585bb1c.jpeg"
+    },
+    {
+      "alternativeText": "Star Wars Prison",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8a618877c83a16b4999f774c5b6a5382.jpg"
+    },
+    {
+      "alternativeText": "Star Wars Prison",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/605b7e461eff767a0debddf0cf2433be.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

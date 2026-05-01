@@ -1,0 +1,125 @@
+{
+  "id": "385",
+  "slug": "culinary-sightseeing-tour-interlaken-by-bus",
+  "name": "Culinary Sightseeing Tour Interlaken by Bus",
+  "description": "Discover Culinary Sightseeing Tour Interlaken by Bus in Switzerland.",
+  "longDescription": "Discover Culinary Sightseeing Tour Interlaken by Bus in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/culinary-sightseeing-tour-interlaken-by-bus/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Beatus Caves Waterfall Teaser - Seraina Zellweger",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/288ce3d7d62d79924089b79172b2a630.jpg"
+    },
+    {
+      "alternativeText": "Boat Dock Iseltwald",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64c009b119ef4c8da121eebfa17cc239.jpeg"
+    },
+    {
+      "alternativeText": "Sigriswil Bridge",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/638c6dc757dd08bad88c90dd28f42838.jpeg"
+    },
+    {
+      "alternativeText": "Brienz Brunngasse",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/059386ec7aa8cf9f85493cdc6a0411a3.jpg"
+    },
+    {
+      "alternativeText": "CHALET CHIARA Raclette",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f68225c596fd904a268ff2de3d3cba29.jpeg"
+    },
+    {
+      "alternativeText": "Giessbach aerial photograph",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/83cdcdeb4cbfcefd9ab2dae305af3cc7.jpeg"
+    },
+    {
+      "alternativeText": "Giessbach with hotel",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb93f119ebd02ce59803d1642b506691.jpeg"
+    },
+    {
+      "alternativeText": "Giessbach Falls",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3d2933ee9e56fb29df66a4964d7cc96.jpg"
+    },
+    {
+      "alternativeText": "01 Beatus Caves Rock Face - Seraina Zellweger",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/78b8f817401784dfd9d0bcfc6376d77d.jpg"
+    },
+    {
+      "alternativeText": "St Beatus Caves Garden",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d51e9dd817d0d0e6e8a04ed64f526615.jpeg"
+    },
+    {
+      "alternativeText": "Lungern Lake",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7260b8e951d92edc3491c84deb85863.jpeg"
+    },
+    {
+      "alternativeText": "Schwanden",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c5e67c92069e8d60232177a84af7ad2f.jpeg"
+    },
+    {
+      "alternativeText": "Thun Lake Road",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4b302329f2690313af493dd83be493b6.jpg"
+    },
+    {
+      "alternativeText": "Swiss Chocolate",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7f3b1c7e4c6d97defa5f87d0a23e1dd5.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

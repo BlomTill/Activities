@@ -1,0 +1,54 @@
+{
+  "id": "1473",
+  "slug": "swiss-facts",
+  "name": "Plan your trip to Switzerland",
+  "description": "Switzerland is a very diverse country and has an incredible amount to offer for your trip. So don&#x27;t let the small area fool you. Although Switzerland is around ten times smaller than Sweden, California or Morocco, you will find something for every taste. In Mediterranean Ticino you are in a completely different world than in busy Basel. And the mountainous Alpstein has a very different climate than the mild Lake Geneva region. And this, although these places are only three to four hours apart. In our blog we help you with your travel planning. We provide you with helpful travel tips and useful information so that you can prepare perfectly. It doesn&#x27;t matter whether you&#x27;re traveling to Switzerland for the first time or already know your way around. Our articles are suitable for first-time visitors as well as for real Switzerland connoisseurs.",
+  "longDescription": "Switzerland is a very diverse country and has an incredible amount to offer for your trip. So don&#x27;t let the small area fool you. Although Switzerland is around ten times smaller than Sweden, California or Morocco, you will find something for every taste. In Mediterranean Ticino you are in a completely different world than in busy Basel. And the mountainous Alpstein has a very different climate than the mild Lake Geneva region. And this, although these places are only three to four hours apart. In our blog we help you with your travel planning. We provide you with helpful travel tips and useful information so that you can prepare perfectly. It doesn&#x27;t matter whether you&#x27;re traveling to Switzerland for the first time or already know your way around. Our articles are suitable for first-time visitors as well as for real Switzerland connoisseurs.",
+  "category": "outdoor",
+  "subcategory": "outdoor",
+  "location": {
+    "region": "Switzerland",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0.3,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/travel-guide/swiss-facts/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "From",
+      "value": "CHF 0.3"
+    }
+  ],
+  "tags": [
+    "lake",
+    "mountain",
+    "geneva"
+  ],
+  "featured": false
+}

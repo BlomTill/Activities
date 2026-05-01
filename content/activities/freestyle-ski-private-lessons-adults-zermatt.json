@@ -1,0 +1,79 @@
+{
+  "id": "1072",
+  "slug": "freestyle-ski-private-lessons-adults-zermatt",
+  "name": "Freestyle ski private course Zermatt",
+  "description": "Discover Freestyle ski private course Zermatt in Switzerland.",
+  "longDescription": "Discover Freestyle ski private course Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/freestyle-ski-private-lessons-adults-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Freestyle skiing in class in Zermatt, a skier jumps over snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ski_Freestyle_Zermatt_Zermatters_7defefcd02.jpg"
+    },
+    {
+      "alternativeText": "Freestyle Ski Zermatt, skiing on fresh snow, clear sky, Matterhorn in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/category_ski_0_0b5f88782c.jpg"
+    },
+    {
+      "alternativeText": "Ski instructor in red clothing, on the slopes in Zermatt, in the snow, on a sunny day.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skilehrer_Zermatt_Zermatters_09a7258427.jpg"
+    },
+    {
+      "alternativeText": "Gornergrat winter with Matterhorn, snow-covered mountains, clear sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gornergrat_Winter_Gabriela_Keusch_7cc038a018.jpg"
+    },
+    {
+      "alternativeText": "Skiing in Zermatt with a view of the Matterhorn and modern ski equipment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Skifahren_Gabriela_Keusch_791a65ce83.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zermatt"
+  ],
+  "featured": false
+}

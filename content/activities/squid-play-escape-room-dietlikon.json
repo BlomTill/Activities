@@ -1,0 +1,85 @@
+{
+  "id": "488",
+  "slug": "squid-play-escape-room-dietlikon",
+  "name": "\"Squid Play\" Escape Room in Dietlikon",
+  "description": "Discover \"Squid Play\" Escape Room in Dietlikon in Switzerland.",
+  "longDescription": "Discover \"Squid Play\" Escape Room in Dietlikon in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/squid-play-escape-room-dietlikon/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Squid Play",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1be5d11e24fd6d75c79cea058a50a26.jpg"
+    },
+    {
+      "alternativeText": "Squid Play",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a7a15142505b85770280e7dd10af8d2.jpg"
+    },
+    {
+      "alternativeText": "Squid Play",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9200e7ca7eeb292b77005b9fb49ffd68.jpeg"
+    },
+    {
+      "alternativeText": "Squid Play",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2eb70725aa0effcb6ffb12169b1db673.jpeg"
+    },
+    {
+      "alternativeText": "Squid Play",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/364e5709e62f18258177fad33ff55647.jpeg"
+    },
+    {
+      "alternativeText": "Squid Play",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c6514d6b64b4b610a90c613a110f9173.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,108 @@
+{
+  "id": "948",
+  "slug": "susten-postbus-pass-ride-andermatt-meiringen",
+  "name": "Susten Postbus pass ride from Andermatt or Meiringen",
+  "description": "Discover Susten Postbus pass ride from Andermatt or Meiringen in Switzerland.",
+  "longDescription": "Discover Susten Postbus pass ride from Andermatt or Meiringen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "141",
+    "title": "Postbus",
+    "slug": "postbus",
+    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/susten-postbus-pass-ride-andermatt-meiringen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sustenpass: Postbus in front of a sparkling lake and majestic mountains in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_18_BE_Sustenpass_9ec56ce3a8.png"
+    },
+    {
+      "alternativeText": "Postbus on mountain road, ideal for summer outings with bike and nature experience.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/postauto2_pixabay_cbdd33abce.jpg"
+    },
+    {
+      "alternativeText": "Sustenpass: Winding road surrounded by mountains and green spaces in Switzerland in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sustenpass_3023859df5.jpg"
+    },
+    {
+      "alternativeText": "Innertkirchen-Gauligletscher: impressive landscape with blooming meadows and turquoise glacier lake in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Innertkirchen_Gauligletscher_Foto_Switzerland_Tourism_Martin_Maegli_052d943b41.jpg"
+    },
+    {
+      "alternativeText": "Susten Pass Summit: Panoramic view of mountain landscape and winding road in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/susten_passhoehe_pixabay_d5c9904df8.jpg"
+    },
+    {
+      "alternativeText": "Susten Pass: impressive view of the mountains, green meadows, and snow in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mountain_pass_Susten_8eee68a0ab.jpg"
+    },
+    {
+      "alternativeText": "Susten Glacier: Majestic mountain landscape with impressive glacier and steep mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/glacier_Susten_fd3ac5a3b8.jpg"
+    },
+    {
+      "alternativeText": "Meien: picturesque landscape with green meadows and a flowing river in Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Meien_Wassen_unsplash_4ea2bd1f9d.jpg"
+    },
+    {
+      "alternativeText": "Göschenen: impressive tunnel portal surrounded by majestic mountains and rocks, perfect for adventure and exploration.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Goeschenen_unsplash_9eb7de9384.jpg"
+    },
+    {
+      "alternativeText": "Göschenen Devil's Bridge: impressive stone bridge in the mountains, surrounded by snow and rocky nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Goeschenen_Teufelsbruecke_unsplash_d7ff06c4e7.jpg"
+    },
+    {
+      "alternativeText": "Andermatt: View of the Urserntal with green hills and mountains, ideal for hiking.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/andermatt_Urserntal_a559819dd2.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

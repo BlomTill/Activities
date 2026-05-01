@@ -1,0 +1,101 @@
+{
+  "id": "1302",
+  "slug": "train-ticket-lausanne-montreux",
+  "name": "Train ticket between Lausanne and Montreux",
+  "description": "Discover Train ticket between Lausanne and Montreux in Switzerland.",
+  "longDescription": "Discover Train ticket between Lausanne and Montreux in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/train-ticket-lausanne-montreux/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lavaux: magnificent wine region on Lake Geneva in Switzerland with mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/22_Lavaux_Seraina_4528b0ed6f.jpg"
+    },
+    {
+      "alternativeText": "Lausanne: bustling train station with travelers, trains, and modern architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lausanne_Unsplash_91c95a1790.jpg"
+    },
+    {
+      "alternativeText": "Lavaux: picturesque wine region on Lake Geneva in autumn with colorful vines and clear water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavaux_Pixabay_5ef641079f.jpg"
+    },
+    {
+      "alternativeText": "Lavaux: Vineyards overlooking Lake Geneva and the Alps, ideal for relaxation and nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavaux_Unsplash_2aa2eb35d4.jpg"
+    },
+    {
+      "alternativeText": "Lavaux: picturesque wine region on Lake Geneva with vineyards and charming villages",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavaux_1_Pixabay_73e5fb16b7.jpg"
+    },
+    {
+      "alternativeText": "Lavaux: Beautiful wine-growing area on Lake Geneva with green vineyards and picturesque sunsets.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavaux_1_Unsplash_eb661b1abb.jpg"
+    },
+    {
+      "alternativeText": "Lavaux: picturesque vineyards with Zug and village in the background of Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavaux_2_Pixabay_209a5800b5.jpg"
+    },
+    {
+      "alternativeText": "Montreux: View of Lake Geneva with colorful flowers and impressive mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Montreux_Pixabay_eb9c465ad1.jpg"
+    },
+    {
+      "alternativeText": "Montreux: Statue of Freddie Mercury in front of impressive mountains and sky in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Montreux_unsplash_93fef6b6fb.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train",
+    "lausanne"
+  ],
+  "featured": false
+}

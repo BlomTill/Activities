@@ -1,0 +1,75 @@
+{
+  "id": "729",
+  "slug": "steinamrhein-gourmet-trail-selfguided",
+  "name": "Gourmet trail Stein am Rhein self-guided",
+  "description": "Discover Gourmet trail Stein am Rhein self-guided in Switzerland.",
+  "longDescription": "Discover Gourmet trail Stein am Rhein self-guided in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/steinamrhein-gourmet-trail-selfguided/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Genusspfad",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/78b1bfbd20e799069ed01a6ac582a513.jpg"
+    },
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Genusspfad",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4dd0591062c7fa2a0d819f0861e9a80b.jpg"
+    },
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Genusspfad",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ee1f6c89f3363a514ef3a833d8c9e78.jpg"
+    },
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Genusspfad",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1019376714c40e8d2528061f6b6c3373.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

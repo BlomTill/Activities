@@ -1,0 +1,83 @@
+{
+  "id": "283",
+  "slug": "from-zurich--adventure-on-the-grindelwald-first",
+  "name": "From Zurich: Adventure to Grindelwald First",
+  "description": "Discover From Zurich: Adventure to Grindelwald First in Switzerland.",
+  "longDescription": "Discover From Zurich: Adventure to Grindelwald First in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich--adventure-on-the-grindelwald-first/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Grindelwald Mountain Cart on a viewing platform overlooking the mountains and the valley",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_grindelwald_first_cliff_walk_viewing_platform_f03aec7461_68703b9fff.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald Mountain Railway with cable car and mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_grindelwald_first_cablecar_ac1bcff5e7_3e9a03e5ff.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald mountain with majestic peaks and hiking trails.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_grindelwald_first_cliff_walk_mountain_view_b79e417535_57bf6acf31.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald Mountain Cart drives through green meadows with a view of the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_grindelwald_glacier_village_aerial_view_4fc3f64e52_1_5925dda163.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald Railway travels through blooming meadows in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_grindelwald_scenic_train_berner_oberlandbahn_1b190b43cb_a92653c1df.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure",
+    "grindelwald"
+  ],
+  "featured": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "196",
+  "slug": "nala-canyoning-for-advanced",
+  "name": "Nala Canyoning for advanced",
+  "description": "Discover Nala Canyoning for advanced in Switzerland.",
+  "longDescription": "Discover Nala Canyoning for advanced in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/nala-canyoning-for-advanced/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Canyoning: Woman sliding in wild water in the nature park, fun in summer, pure adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2448_2_1f63691de4.jpg"
+    },
+    {
+      "alternativeText": "Canyoning: A spectacular waterfall in the Nala Canyon during an outdoor adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_IMG_2430_71e21c56c4.jpg"
+    },
+    {
+      "alternativeText": "Canyoning: Fun climbing tour with friends in the Alps on a sunny day",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2438_adf2b04e26.jpg"
+    },
+    {
+      "alternativeText": "Canyoning: Experience the thrilling abseiling in the Nala Gorge, surrounded by stunning nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2419_aa64a84ffa.jpg"
+    },
+    {
+      "alternativeText": "Canyoning: Woman on an adventure in nature, surrounded by water and rocks, summer activity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2424_f5808557bf.jpg"
+    },
+    {
+      "alternativeText": "Canyoning: young woman rappelling in an impressive gorge outdoors, summer, adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2441_64a507cc19.jpg"
+    },
+    {
+      "alternativeText": "Nala Canyoning: professional treasures in the adventure team in breathtaking nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2453_853840438b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

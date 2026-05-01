@@ -1,0 +1,100 @@
+{
+  "id": "811",
+  "slug": "ski-day-pass-with-overnight-stay-at-hotel-national-davos",
+  "name": "Ski day pass with overnight stay at Hotel National Davos",
+  "description": "Discover Ski day pass with overnight stay at Hotel National Davos in Switzerland.",
+  "longDescription": "Discover Ski day pass with overnight stay at Hotel National Davos in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "29",
+    "title": "Lift tickets",
+    "slug": "lift-tickets",
+    "description": "Discover and book your next ski ticket in Switzerland here. Ski tickets are offered for different time periods. They are valid for several hours or half a day, one day, several days or a whole season. With a ski ticket you get access to the ski area with all ski lifts and cable cars. Often other attractions are included. In total there are about 7000 km of ski slopes in Switzerland. Some higher ski resorts are located on a glacier. Thanks to them, depending on the region, it is even possible to ski in summer."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/lift-tickets/ski-day-pass-with-overnight-stay-at-hotel-national-davos/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "20220114-_DSC7830",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f472c819928aba2d29a31c371eda034f.jpg"
+    },
+    {
+      "alternativeText": "20230418-_KD_0719",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a5531ee2c3cc6291ffe398f800222947.jpg"
+    },
+    {
+      "alternativeText": "IMG_6049",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f3257a9a8930ec626c6a18b06d7db751.jpg"
+    },
+    {
+      "alternativeText": "20211209-_DSC6832",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/965e734bb4c0e143ac844decbc684607.jpg"
+    },
+    {
+      "alternativeText": "_DSC1919",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd5094aaf985856172913d03f90393e9.jpg"
+    },
+    {
+      "alternativeText": "_KD_0915",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cddf4a5896d43ae47c5ca9f6ab56f43c.jpg"
+    },
+    {
+      "alternativeText": "_A7C9466",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/398634378505903870c3b1e2a2dbc2ae.jpg"
+    },
+    {
+      "alternativeText": "_KD_1002",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/21758c0ca18704fd9b144e78a9aacbe6.jpg"
+    },
+    {
+      "alternativeText": "20220120-_DSC7928",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5691a37dd26a590e76dbc49e19594129.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "davos"
+  ],
+  "featured": false
+}

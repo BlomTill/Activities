@@ -1,0 +1,93 @@
+{
+  "id": "798",
+  "slug": "big-canoe-lake-lucerne",
+  "name": "Team event with the big canoe on Lake Lucerne",
+  "description": "Discover Team event with the big canoe on Lake Lucerne in Switzerland.",
+  "longDescription": "Discover Team event with the big canoe on Lake Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "26",
+    "title": "Kayak",
+    "slug": "kayak",
+    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/kayak/big-canoe-lake-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Grosskanadier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6411b6bbb9ee4f9cb77320bf43c212ea.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Grosskanadier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2cac0d704933b3ea2427200f3280bc27.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Grosskanadier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a555e704022d038063da039610eb3b4c.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Grosskanadier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c174a4780902f37f9a3e7eddf23dea82.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Grosskanadier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1bf16b747f1d5d3342b09245dea8e2f1.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Grosskanadier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fa1bb1cf4f148ea321e564cb05fc364a.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Grosskanadier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10053d049259127bfb1b8a70d79e145a.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "lucerne"
+  ],
+  "featured": false
+}

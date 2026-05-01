@@ -1,0 +1,84 @@
+{
+  "id": "1415",
+  "slug": "heidi-wine-tour-bundner-herrschaft",
+  "name": "Heidi wine tour Bündner Herrschaft",
+  "description": "Discover Heidi wine tour Bündner Herrschaft in Switzerland.",
+  "longDescription": "Discover Heidi wine tour Bündner Herrschaft in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/heidi-wine-tour-bundner-herrschaft/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Child feeds goat, rural setting, summer 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weintour_Heidi_und_Peter_188660a0d3.jpg"
+    },
+    {
+      "alternativeText": "Lampert Winery in Graubünden with wine bottle and glasses",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weintour_Buendnerland_5714ab9827.JPG"
+    },
+    {
+      "alternativeText": "Heidibrunnen sculpture shows a sitting figure on a stone, surrounded by trees and grass",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Heidi_Weintour_dc272c4704.JPG"
+    },
+    {
+      "alternativeText": "Grapes of the Wine Tour 2023, ripe wine grapes grow on vines",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weintour_Trauben_793a8c23df.JPG"
+    },
+    {
+      "alternativeText": "Winery wine tour with wooden barrels in wine barrel storage",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kellnerei_Weintour_567d375ead.JPG"
+    },
+    {
+      "alternativeText": "Wine tour Bündnerland with visitors in vineyards, beautiful landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinwanderung_Buendnerland_05951fbfd7.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

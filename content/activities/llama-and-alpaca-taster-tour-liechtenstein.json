@@ -1,0 +1,87 @@
+{
+  "id": "816",
+  "slug": "llama-and-alpaca-taster-tour-liechtenstein",
+  "name": "Llama and alpaca taster tour Liechtenstein",
+  "description": "Discover Llama and alpaca taster tour Liechtenstein in Switzerland.",
+  "longDescription": "Discover Llama and alpaca taster tour Liechtenstein in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "28",
+    "title": "Llama and alpaca trekking",
+    "slug": "llama-and-alpaca-trekking",
+    "description": "Book now your excursion with llama or alpaca trekking. The beautiful and curious animals fit almost every event: whether children's birthday party, wedding or school trip. A hike with the animals through the mountains or along meadows and rivers is a special experience for young and old. Get to know the cute animals up close while you walk with them through beautiful landscapes."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-taster-tour-liechtenstein/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lama Triesenberg is eating grass in a field in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_258b210d44e1a6a62391e253677cf307_2387b07169.jpg"
+    },
+    {
+      "alternativeText": "Lamatrekking Triesenberg with a view of mountains and clouds",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_537b3fb97808cf1659f83b4b1ea9b625_86f8356a31.jpg"
+    },
+    {
+      "alternativeText": "Llama with grass and flowers in mouth on meadow, summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_9de5289186976f1b8241ae49a6248df4_6ffdc2cf93.jpg"
+    },
+    {
+      "alternativeText": "Lama trekking group hikes on a pasture road with llamas.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_eb642720ee2a6bf20b21ec6631f2a92d_23374afbe4.jpg"
+    },
+    {
+      "alternativeText": "Alpaca trekking in Liechtenstein with alpacas during feeding in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/62419632_2467750733245150_5556954156444418048_n_4a90f886df.jpg"
+    },
+    {
+      "alternativeText": "Family Alpaca Trekking in the Alps in 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/69310016_2603670829653139_7824000279396745216_n_9f3cb7b99e.jpg"
+    },
+    {
+      "alternativeText": "Llama Trekking in Liechtenstein, impressive landscapes, hiking in the mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/71655119_2673287746024780_6264443881228599296_n_5345ec9a5d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

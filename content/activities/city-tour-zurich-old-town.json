@@ -1,0 +1,93 @@
+{
+  "id": "1163",
+  "slug": "city-tour-zurich-old-town",
+  "name": "Zurich Old Town Guided Tour",
+  "description": "Discover Zurich Old Town Guided Tour in Switzerland.",
+  "longDescription": "Discover Zurich Old Town Guided Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-zurich-old-town/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "City tour Zurich Old Town with historic buildings and cobblestone streets.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Niederdorf_2dd024b744.jpg"
+    },
+    {
+      "alternativeText": "Grossmünster in Zurich during a city tour, surrounded by historical buildings and the river.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Grossmuenster_e357aeaae8.jpg"
+    },
+    {
+      "alternativeText": "City tour in Zurich's Old Town with a view of the river and historic buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_Stadttour_c3d23fdcd4.jpg"
+    },
+    {
+      "alternativeText": "Zurich Old Town, guided tour through historic lanes, lined with flowers and houses",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Altstadt_813e67498c.jpg"
+    },
+    {
+      "alternativeText": "Zürich Old Town with harbor, boats, and houses",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6_Sommer_1daee81785.jpg"
+    },
+    {
+      "alternativeText": "Fountain in Zurich Old Town with water feature and surrounding buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Muensterhof_830e300e8e.jpg"
+    },
+    {
+      "alternativeText": "View over Zurich with water and mountain backdrop in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8_Zuerichsee_763f6e8f6a.jpg"
+    },
+    {
+      "alternativeText": "Zurich in winter with snow-covered roofs and trees, historic city view",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_Winter_471a3caeb9.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,100 @@
+{
+  "id": "239",
+  "slug": "climbing-families-ticino",
+  "name": "Climbing for families in Ticino",
+  "description": "Discover Climbing for families in Ticino in Switzerland.",
+  "longDescription": "Discover Climbing for families in Ticino in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "117",
+    "title": "Climbing",
+    "slug": "climbing",
+    "description": "Book your next climbing experience here. Climbing is an increasingly popular sport that is primarily vertical. Usually, several people climb, using a rope to save each other from falling. Climbing is done both in climbing gyms and outdoors. Climbing includes the difficulty levels T3 to T6 of the SAC Scala. Climbers find climbing aids only in the level T3."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/climbing/climbing-families-ticino/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Family climbing: Mattia climbing on the rock in summer with helmet and safety harness.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mattia_sul_muro_91432b9221.jpg"
+    },
+    {
+      "alternativeText": "Family climbing: Child climbing in nature, perfect activity for families in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/991_FC_95_C_A30_F_46_B9_98_D5_9_C02844_F0271_47b42ce0ae.JPG"
+    },
+    {
+      "alternativeText": "Family climbing: Experience exciting climbing for children in nature with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_5257_b15b0e0b16.jpg"
+    },
+    {
+      "alternativeText": "Family climbing: Experience safety and fun while climbing in the Alps with your children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/C123_EE_09_1356_4_D2_E_9645_13_C839372522_d55c4369c5.JPG"
+    },
+    {
+      "alternativeText": "Family climbing with children outdoors, adventure in nature, summer activity, group fun.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/family_rock_climbing3775_1024x768_dcf035bc4c.jpeg"
+    },
+    {
+      "alternativeText": "Family climbing at a rock in nature during the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_4997_aab0b3bc4e.jpg"
+    },
+    {
+      "alternativeText": "Family climbing: Kids climbing on a rock in nature under a blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_5001_7521168a50.jpg"
+    },
+    {
+      "alternativeText": "Family climbing: Enjoy mountain hiking through green nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_5171_7db09f1f73.jpg"
+    },
+    {
+      "alternativeText": "Family Climbing: Shadows of climbers on a green hillside in nature during summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_5226_2a0075e41a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "climbing"
+  ],
+  "featured": false
+}

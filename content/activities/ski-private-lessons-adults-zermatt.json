@@ -1,0 +1,82 @@
+{
+  "id": "1067",
+  "slug": "ski-private-lessons-adults-zermatt",
+  "name": "Private ski course Sunnegga or Matterhorn Ski Paradise",
+  "description": "Discover Private ski course Sunnegga or Matterhorn Ski Paradise in Switzerland.",
+  "longDescription": "Discover Private ski course Sunnegga or Matterhorn Ski Paradise in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/ski-private-lessons-adults-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Private Ski Course Zermatt, participants skiing, sunny day, slope.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wiedereinsteiger_e5b4d0d04b.jpg"
+    },
+    {
+      "alternativeText": "Ski course in Zermatt with private skiers on the piste.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ski_privatunterricht_82d9fdfaaf.jpg"
+    },
+    {
+      "alternativeText": "Private ski course in Zermatt with a view of the Matterhorn in winter, snow-covered mountains, and clear sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Riffelsee_Zermatt_Pixabay_7cd64a4599.jpg"
+    },
+    {
+      "alternativeText": "Zermatt skiing, two skis and ski poles in front of the Matterhorn.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Skifahren_Gabriela_Keusch_1cf944441f.jpg"
+    },
+    {
+      "alternativeText": "Ski course in Zermatt with adults, skiers on the slopes, clear visibility, sunny weather.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skischule_Zermatt_2_Zermatters_26e1467e7d.jpg"
+    },
+    {
+      "alternativeText": "Ski instructor Zermatt wearing a red anorak and helmet, the mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skilehrer_Zermatt_Zermatters_efd3fe26e0.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,141 @@
+{
+  "id": "357",
+  "slug": "from-geneva-bus-tour-to-interlaken-and-jungfraujoch",
+  "name": "From Geneva: Bus tour to Interlaken and Jungfraujoch",
+  "description": "Discover From Geneva: Bus tour to Interlaken and Jungfraujoch in Switzerland.",
+  "longDescription": "Discover From Geneva: Bus tour to Interlaken and Jungfraujoch in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "View of the mountains from Jungfraujoch with visitors on the observation deck.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_360_Keytours_excursions_Swisstours_interlaken_jungfraujoch4_2048_10_2_13a2038f47.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch Eishöhle",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0a71c2da47ff021c87db03d2a716682b.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch with glacier landscape, snow and mountain panorama",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/68eaf870_d52b_4435_be8b_c7c449c04fc0_38ea6dd82e.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch: View of the mountain station, glacier, snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/609a590c99954_c1f4a037da.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch with a view of snowy mountains in winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3681_7e713c7ce8.JPG"
+    },
+    {
+      "alternativeText": "Jungfraubahn at the station, red locomotive, tunnel ambiance",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3685_ff09e5738d.JPG"
+    },
+    {
+      "alternativeText": "Jungfraujoch by train along the route, majestic mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_360_Keytours_excursions_Swisstours_interlaken_jungfraujoch1_2048_10_2_6637552718.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch with snow-covered peaks and blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_360_Keytours_excursions_Swisstours_interlaken_jungfraujoch2_2048_10_2_b8c4e11c28.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch with ski tours, snow-covered peaks, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_360_Keytours_excursions_Swisstours_interlaken_jungfraujoch5_2048_10_2_8684b43a3d.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45f6c442a96be2224ffb508a93a85c56.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9baa5fe749150c80b7f89e08638eb8ac.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f75bc94ed07f4761ae75328d0b968ff1.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7b4a12ea1e3e67bc502bd45f75ec6676.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch Alpine Sensation",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/49ef75041eb544b2d7113711356b3b8e.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch Alpine Sensation",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d2de3a21b9b0e0415111f290986d072.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch Alpine Sensation",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af28921c61ef0543d6be4a306e924638.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch Alpine Sensation",
+      "caption": "Busfahrt Interlaken und Jungfraujoch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/95300e038f08400e2b8a18a872b3eade.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken",
+    "geneva"
+  ],
+  "featured": false
+}

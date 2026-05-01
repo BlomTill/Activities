@@ -1,0 +1,74 @@
+{
+  "id": "693",
+  "slug": "etuktuk-luzern-apero-city-tour",
+  "name": "\"Apéro-Tuk\" - city tour with the Tuk Tuk in Lucerne",
+  "description": "Discover \"Apéro-Tuk\" - city tour with the Tuk Tuk in Lucerne in Switzerland.",
+  "longDescription": "Discover \"Apéro-Tuk\" - city tour with the Tuk Tuk in Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/etuktuk-luzern-apero-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Apero: Delicious tapas and charcuterie boards for sociable moments with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ab93ddf5f92c838415d113cdd103ec12.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: View of the city with illuminated buildings by the water at night. Romantic atmosphere in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/663ad5e734a10229bfcff8a2f20dcb6e.jpg"
+    },
+    {
+      "alternativeText": "Water tower in Lucerne with bridge, blooming flowers and clear sky, ideal for hikers and photographers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2310f88ed3d65d1306f7b9678116b645.jpg"
+    },
+    {
+      "alternativeText": "Wine in Tuk Tuk: relax with a unique wine experience in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/621cf2f9cd0b910ec850fe0ede1c5a1a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,119 @@
+{
+  "id": "345",
+  "slug": "in-geneva-half-day-tour-to-chamonix-with-aiguille-du-midi-and-mer-de-glace",
+  "name": "In Geneva: Half-day tour to Chamonix with Aiguille du Midi and Mer de Glace",
+  "description": "Discover In Geneva: Half-day tour to Chamonix with Aiguille du Midi and Mer de Glace in Switzerland.",
+  "longDescription": "Discover In Geneva: Half-day tour to Chamonix with Aiguille du Midi and Mer de Glace in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-tour-to-chamonix-with-aiguille-du-midi-and-mer-de-glace/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Aiguille du Midi with a view of the snow-covered Alps and Chamonix.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TAM_Pas_de_le_Vide_5_B_2019_B_DELAPIERRE_b9145ca068.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi, Pas dans le Vide with a view of the Mer de Glace.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aiguille_Du_Midi_Pas_Dans_Le_Vide_OT_Chamonix_f2f8e9b555.JPG"
+    },
+    {
+      "alternativeText": "Aiguille du Midi with cable car, snow-covered mountains and glaciers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_aiguille_du_2_a51357144d.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi with snow-covered slopes and clear blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_aiguille_du_mid_2e5f4e5285.jpg"
+    },
+    {
+      "alternativeText": "Sculptures in Chamonix with a view of Mont Blanc and Aiguille du Midi.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village3_2048_10_4_c02c5ba8d9.jpg"
+    },
+    {
+      "alternativeText": "Chamonix with Aiguille du Midi and Mer de Glace, snowy mountain landscape and sunny sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village4_2048_10_d5d700edc1.jpg"
+    },
+    {
+      "alternativeText": "Chamonix with Aiguille du Midi and Mer de Glace as well as surrounding mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village5_2048_1_7a566e234b.jpg"
+    },
+    {
+      "alternativeText": "Chamonix with Aiguille du Midi and Mer de Glace, blooming trees, clear view",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village6_2048_1_108d2f6fb8.jpg"
+    },
+    {
+      "alternativeText": "Chamonix with Aiguille du Midi, blooming flowers and Mer de Glace",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village7_2048_10_31242196bf.jpg"
+    },
+    {
+      "alternativeText": "Street performance in Chamonix, people watching the performance with Aiguille du Midi in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village8_2048_1_053b22463f.jpg"
+    },
+    {
+      "alternativeText": "Ice Cave in Chamonix with colored ice lights",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MDG_Grotte_de_Glace_B_2020_Jool_CHX_8a48d2ae88.jpg"
+    },
+    {
+      "alternativeText": "Chamonix with Mer de Glace and Aiguille du Midi, hiker on snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/valle_blanche_2245235_9ba13ef819.jpg"
+    },
+    {
+      "alternativeText": "Ice Cave in Chamonix, blue ice path, light-filled tunnel",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grotte_de_glace_OT_Vallee_de_Chamonix_fa37235e05.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

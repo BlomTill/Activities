@@ -1,0 +1,90 @@
+{
+  "id": "574",
+  "slug": "beat-the-groom-schaffhausen",
+  "name": "\"Beat the groom\" in Schaffhausen: action-packed stag party",
+  "description": "Discover \"Beat the groom\" in Schaffhausen: action-packed stag party in Switzerland.",
+  "longDescription": "Discover \"Beat the groom\" in Schaffhausen: action-packed stag party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-schaffhausen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Schaffhausen: View of the castle with vineyards and hilly landscape in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schaffhausen_unsplash_6f8af0d821.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Outdoor group activity for men with beer and fun in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_fdf618d83f.jpg"
+    },
+    {
+      "alternativeText": "Schaffhausen Monastery: The historic arcades surround a green meadow with flowers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kloster_schaffhausen_pixabay_1e2d2d1345.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Funny Activity with Friends at the Lake, Ideal for Bachelor Party.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_2af669d90f.jpg"
+    },
+    {
+      "alternativeText": "Bridge Schaffhausen: Picturesque stone bridge over the Rhine, surrounded by greenery and idyllic nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bridge_Schaffhausen_Pixabay_b08b8e9b71.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Playful team activity outdoors in a natural setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_461c89c88a.jpg"
+    },
+    {
+      "alternativeText": "House of the Knight in Schaffhausen with colorful frescoes and traditional architecture in the old town.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schaffhausen_Haus_zum_Ritter_unsplash_55e334121a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

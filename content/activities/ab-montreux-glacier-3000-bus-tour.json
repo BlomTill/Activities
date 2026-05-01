@@ -1,0 +1,112 @@
+{
+  "id": "391",
+  "slug": "ab-montreux-glacier-3000-bus-tour",
+  "name": "Ab Montreux: Glacier 3000 Bus Tour",
+  "description": "Discover Ab Montreux: Glacier 3000 Bus Tour in Switzerland.",
+  "longDescription": "Discover Ab Montreux: Glacier 3000 Bus Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/ab-montreux-glacier-3000-bus-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Peak Walk",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ca3b2b2ad79a25d4002f62fa55129d3.jpg"
+    },
+    {
+      "alternativeText": "Ice Express",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87ad630b742b3f15c46171ed5fdcc0cd.jpg"
+    },
+    {
+      "alternativeText": "Alpine Coaster",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7eae8ddadc08753b251b10f253e9511.jpg"
+    },
+    {
+      "alternativeText": "Peak Walk",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0027eb5c46a56bcb9f4666d9f059bd2.jpg"
+    },
+    {
+      "alternativeText": "Peak Walk",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/529d1fa592aaf4ee075b1e8d326ce9ca.jpg"
+    },
+    {
+      "alternativeText": "Peak Walk",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/043d1debf8076248ffa0f3050b4cbaba.jpg"
+    },
+    {
+      "alternativeText": "Alpine Coaster",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/812e340a4888350e17791ca41ff31f39.jpg"
+    },
+    {
+      "alternativeText": "Peak Walk",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/65b109aaeec2704c1ff1eee60a54dae9.jpg"
+    },
+    {
+      "alternativeText": "Peak Walk",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/072bcfaa94407969af3eb5bb3e3229af.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9cfb017e68f6417957b0992814e9ba52.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Bustour Glacier 3000",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/28e0eeaf0b8181488fb795e91951eb5a.JPEG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier"
+  ],
+  "featured": false
+}

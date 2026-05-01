@@ -1,0 +1,85 @@
+{
+  "id": "236",
+  "slug": "summer-climbing-school-for-families-in-adelboden-2-afternoons",
+  "name": "Summer climbing school for families in Adelboden 2 afternoons",
+  "description": "Discover Summer climbing school for families in Adelboden 2 afternoons in Switzerland.",
+  "longDescription": "Discover Summer climbing school for families in Adelboden 2 afternoons in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "117",
+    "title": "Climbing",
+    "slug": "climbing",
+    "description": "Book your next climbing experience here. Climbing is an increasingly popular sport that is primarily vertical. Usually, several people climb, using a rope to save each other from falling. Climbing is done both in climbing gyms and outdoors. Climbing includes the difficulty levels T3 to T6 of the SAC Scala. Climbers find climbing aids only in the level T3."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/climbing/summer-climbing-school-for-families-in-adelboden-2-afternoons/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Familienklettern",
+      "caption": "Kletterschule ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/20409958301a6159ea85c89374999c85.jpg"
+    },
+    {
+      "alternativeText": "Familienklettern",
+      "caption": "Kletterschule ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41966216a9a1b98d83ee06bea3dc34b7.jpg"
+    },
+    {
+      "alternativeText": "Familienklettern",
+      "caption": "Kletterschule ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31e4234dc88598013ba049bc8393ba57.jpg"
+    },
+    {
+      "alternativeText": "Familienklettern",
+      "caption": "Kletterschule ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/308019c948312b1f878655c033627c52.jpg"
+    },
+    {
+      "alternativeText": "Familienklettern",
+      "caption": "Kletterschule ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2a2a8f81089a57540c143e6c9459f94c.jpg"
+    },
+    {
+      "alternativeText": "Familienklettern",
+      "caption": "Kletterschule ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5eb4c74e7c865f09e0a0d10d01d62183.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "climbing"
+  ],
+  "featured": false
+}

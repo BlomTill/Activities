@@ -1,0 +1,87 @@
+{
+  "id": "1215",
+  "slug": "city-tour-basel-guided-christmas",
+  "name": "City tour Basel guided Christmas magic",
+  "description": "Discover City tour Basel guided Christmas magic in Switzerland.",
+  "longDescription": "Discover City tour Basel guided Christmas magic in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-guided-christmas/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Christmas Magic in Basel with Luminous Stalls and Snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Basel_Tourismus_Weihnachtszauber_Stadtfuehrung_Weihnachtsmarkt_3f485821d8.jpg"
+    },
+    {
+      "alternativeText": "Christmas magic Basel with glowing decorations and visitors at the marketplace.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Basel_Tourismus_Weihnachtszauber_Stadtfuehrung_Weihnachtsmarkt_dd53cced6d.jpg"
+    },
+    {
+      "alternativeText": "Christmas Magic in Basel with Lights and Festive Decorations",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Basel_Tourismus_Weihnachtszauber_Stadtfuehrung_Stadtbeleuchtung_bc49ff8f1d.jpg"
+    },
+    {
+      "alternativeText": "Basel Christmas Magic with a lit Christmas tree and the historic Town Hall in the background at night.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/weihnachtsbaum_am_marktplatz_in_basel_christmas_tree_at_marktplatz_basel_67c624bb89.jpg"
+    },
+    {
+      "alternativeText": "Basel Christmas market shows festively illuminated stalls and visitors in a winter atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/weihnachtsmarkt_barfuesserplatz_basel_9aa50a5bb6.jpg"
+    },
+    {
+      "alternativeText": "Basel Christmas Market with festive lights, stalls, and historic houses",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/weihnachtsmarkt_muensterplatz_basel_752x501_ad25c918ce.jpg"
+    },
+    {
+      "alternativeText": "Christmas Market in Basel 2023 with festive lighting, stalls, and visitors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/view_717aeea230.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

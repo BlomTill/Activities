@@ -1,0 +1,90 @@
+{
+  "id": "1158",
+  "slug": "bernese-oberland-pass",
+  "name": "Bernese Oberland Pass",
+  "description": "Discover Bernese Oberland Pass in Switzerland.",
+  "longDescription": "Discover Bernese Oberland Pass in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "130",
+    "title": "Swiss Rail Passes",
+    "slug": "rail-pass",
+    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rail-pass/bernese-oberland-pass/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Jungfrau Railway: Experience the ride to Kleine Scheidegg with a view of the majestic mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jungfraubahn_Kleine_Scheidegg_Foto_Swiss_Travel_System_AG_8f6b00d617.jpeg"
+    },
+    {
+      "alternativeText": "Berner Oberland Pass: Map of the region with connections to Interlaken and Thun for travelers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Berner_Oberland_Pass_Geltungsbereich_45fb7b3f71.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald First Cliff Walk: experience stunning views of the Eiger and the winter landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_First_Cliff_Walk_Foto_Swiss_Travel_System_AG_b9bc177021.jpeg"
+    },
+    {
+      "alternativeText": "Harderbahn: Scenic train ride through colorful autumn forest to Harder Kulm, ideal for nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Harderbahn_im_Herbst_Foto_Swiss_travel_System_AG_86009400d5.jpeg"
+    },
+    {
+      "alternativeText": "BLS RegioExpress Lötschberger in winter near Kandersteg, Bernese Oberland. Winter landscape with mountains and train.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/BLS_Regio_Express_Loetschberger_im_Winter_bei_Kandersteg_Berner_Oberland_Foto_Swiss_Travel_System_AG_c94f4c2758.jpeg"
+    },
+    {
+      "alternativeText": "Jungfrau Railways: Image of gondolas over snow-covered mountains in Grindelwald in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jungfraubahnen_Grindelwald_First_Foto_Swiss_Travel_System_AG_02e2bb6d8d.jpeg"
+    },
+    {
+      "alternativeText": "Lungern Winter: Snow-covered landscape with lake and mountains, ideal for winter activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lungern_Winter_Luzern_Interlaken_Express_Foto_Swiss_Travel_System_AG_3eac862e81.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bern"
+  ],
+  "featured": false
+}

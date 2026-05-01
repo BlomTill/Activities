@@ -1,0 +1,95 @@
+{
+  "id": "570",
+  "slug": "item-1767115130529-2gkgd",
+  "name": "\"Find-the-Code: The Torpedo Drill\" Outdoor Escape Game Thun",
+  "description": "Discover \"Find-the-Code: The Torpedo Drill\" Outdoor Escape Game Thun in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: The Torpedo Drill\" Outdoor Escape Game Thun in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/item-1767115130529-2gkgd/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-thun",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/21f79db65601c93f97eec664d2c1a063.jpg"
+    },
+    {
+      "alternativeText": "group-hk-file-daniel-puzzle-solved-party-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/821484db864e94d6439c065af260c293.jpg"
+    },
+    {
+      "alternativeText": "Site Plan Thun",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/060f6eb36c98f2bc8c4321c39c36b9ed.jpg"
+    },
+    {
+      "alternativeText": "SitePlan1-Thun",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/34d65e53322492ccaf0bbd0c2d149347.jpg"
+    },
+    {
+      "alternativeText": "group-photo-landscape-front-happy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d10a69819f70a9ead905875593ce84be.jpg"
+    },
+    {
+      "alternativeText": "group-photo-landscape-file-phone-neutral-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7737eaa992322d05182a2e84c4f1d9da.jpg"
+    },
+    {
+      "alternativeText": "group-photo-hk-flowers-file-phone-neutral",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f6f64cee58279847370184e0b56d4855.jpg"
+    },
+    {
+      "alternativeText": "photoshoot_karlsruhe_58_edited",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2e4c5b6ffa277a47f161ffcec2d6c51f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

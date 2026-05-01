@@ -1,0 +1,92 @@
+{
+  "id": "1065",
+  "slug": "private-ski-school-in-the-jungfrau-region",
+  "name": "Private ski school in the Jungfrau region",
+  "description": "Discover Private ski school in the Jungfrau region in Switzerland.",
+  "longDescription": "Discover Private ski school in the Jungfrau region in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/private-ski-school-in-the-jungfrau-region/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG-20230214-WA0008",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0e45a537ebd6727d009170d9b685e301.jpg"
+    },
+    {
+      "alternativeText": "20250122_132935",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b75b7afa860b93b18bc985de35a7beb2.jpg"
+    },
+    {
+      "alternativeText": "20250207_121734",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7096de765c5865be47c38d670baea974.jpg"
+    },
+    {
+      "alternativeText": "4507572995",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f3b018f72e1386045c72961cc9be0cff.JPG"
+    },
+    {
+      "alternativeText": "174508527549",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7a569b07cfa033f4880acb22713ee939.JPG"
+    },
+    {
+      "alternativeText": "IMG_20220206_093114",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1e8d93190533a23f1452f047e7636b12.jpg"
+    },
+    {
+      "alternativeText": "IMG-20220205-WA0037",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c1657a40656838c71bb2c1f0c41e853c.jpg"
+    },
+    {
+      "alternativeText": "IMG-20230129-WA0000",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e840950866bb8649991f0f1a1ecb6fe.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

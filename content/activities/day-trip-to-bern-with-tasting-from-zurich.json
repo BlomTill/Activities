@@ -1,0 +1,95 @@
+{
+  "id": "282",
+  "slug": "day-trip-to-bern-with-tasting-from-zurich",
+  "name": "From Zurich: Day trip to Bern with Kambly and cheese tasting",
+  "description": "Discover From Zurich: Day trip to Bern with Kambly and cheese tasting in Switzerland.",
+  "longDescription": "Discover From Zurich: Day trip to Bern with Kambly and cheese tasting in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/day-trip-to-bern-with-tasting-from-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "View of Bern with the Aare River, bridge, and green spaces.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern_Best_of_Switzerland_Tours_229ea2a485.jpg"
+    },
+    {
+      "alternativeText": "Landscape near Bern, during a day trip, with trees and hills in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Landschaft_bei_Bern_Best_of_Switzerland_Tours_8e1b7c044a.jpg"
+    },
+    {
+      "alternativeText": "Landscape view of Bern with gentle hills and wooded areas",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_02872f6a76ff8712b7c92c603ecb4a16_feac88e788.jpg"
+    },
+    {
+      "alternativeText": "Kambly Experience World: Two bakers present freshly baked cookies in the bakery",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kambly_Degustation_Best_of_Switzerland_Tours_cd55f55ced.jpg"
+    },
+    {
+      "alternativeText": "In the Kambly Experience World, visitors can taste various treats in a modern setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_7558_61c2ee953b.jpg"
+    },
+    {
+      "alternativeText": "Federal Palace in Bern, afternoon sun, heated seats, summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bundeshaus_Best_of_Switzerland_Tours_05a120a269.jpg"
+    },
+    {
+      "alternativeText": "Show Dairy Emmental: Presentation of Cheese Varieties, Tasting Indoors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schaukaeserei_Best_of_Switzerland_Tours_7efb7dd9ea.jpg"
+    },
+    {
+      "alternativeText": "Wooden house in Switzerland, day trip, group activity, landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_19b2f3551c187906237578ccc6f1b40f_2df90becb3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cheese",
+    "bern"
+  ],
+  "featured": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "1235",
+  "slug": "old-town-winterthur-with-church-tower-city-tour",
+  "name": "Old town Winterthur with church tower city tour",
+  "description": "Discover Old town Winterthur with church tower city tour in Switzerland.",
+  "longDescription": "Discover Old town Winterthur with church tower city tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/old-town-winterthur-with-church-tower-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "City tour Winterthur with group in shopping street",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Einkaufsstrasse_House_of_Winterthur_55049d3e21.jpg"
+    },
+    {
+      "alternativeText": "Church tower in Winterthur with old town view and blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Kirchturm_House_of_Winterthur_60d7b73d2b.jpg"
+    },
+    {
+      "alternativeText": "City tour Winterthur shows historic houses and visitors in the old town.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Altstadt_House_of_Winterthur_24f81e4be4.jpg"
+    },
+    {
+      "alternativeText": "City tour Winterthur in a church with wooden benches",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Kirche_House_of_Winterthur_f12104ecdc.jpg"
+    },
+    {
+      "alternativeText": "City tour Winterthur with a small group of participants in the city center.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Altstadt2_House_of_Winterthur_86b9634f63.jpg"
+    },
+    {
+      "alternativeText": "City tour Winterthur with visitors in the old town, beautiful architecture, daylight",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Altstadt3_House_of_Winterthur_5583655bc7.jpg"
+    },
+    {
+      "alternativeText": "City tour Winterthur with a guide in the old town",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Guide_House_of_Winterthur_3b5d6d22a6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

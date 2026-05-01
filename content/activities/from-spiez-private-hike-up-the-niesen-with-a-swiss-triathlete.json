@@ -1,0 +1,100 @@
+{
+  "id": "785",
+  "slug": "from-spiez-private-hike-up-the-niesen-with-a-swiss-triathlete",
+  "name": "From Spiez: Private hike up the Niesen with a Swiss triathlete",
+  "description": "Discover From Spiez: Private hike up the Niesen with a Swiss triathlete in Switzerland.",
+  "longDescription": "Discover From Spiez: Private hike up the Niesen with a Swiss triathlete in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/from-spiez-private-hike-up-the-niesen-with-a-swiss-triathlete/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_9001",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a788ecfac79a5eaa84525dcf65614d7d.jpg"
+    },
+    {
+      "alternativeText": "IMG_7693",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1777ad820ad2f2b73f8d76bc7e5e77e2.jpg"
+    },
+    {
+      "alternativeText": "IMG_7664",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/94b3b2aabcf75aca2798931465ecc100.jpg"
+    },
+    {
+      "alternativeText": "IMG_8709",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b15aa18c86277408f6f8326d2ee8f302.jpg"
+    },
+    {
+      "alternativeText": "IMG_8730",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2005807d194fcb133c1d065fb75f557f.jpg"
+    },
+    {
+      "alternativeText": "IMG_8761",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e0b516bcd59aba572754c765ba016a53.jpg"
+    },
+    {
+      "alternativeText": "IMG_8762",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/00c1b9d82a940b6189540ba4e2dfd01f.jpg"
+    },
+    {
+      "alternativeText": "IMG_8935",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66307eb9aa32f2d7812eb9df65eea2a5.jpg"
+    },
+    {
+      "alternativeText": "IMG_8943",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/92d5f3a8ae4a3b89250597fec4a649a5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

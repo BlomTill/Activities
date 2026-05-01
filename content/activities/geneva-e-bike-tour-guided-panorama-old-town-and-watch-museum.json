@@ -1,0 +1,119 @@
+{
+  "id": "428",
+  "slug": "geneva-e-bike-tour-guided-panorama-old-town-and-watch-museum",
+  "name": "E-Bike Tour: Panorama, Old Town, and Watch Museum in Geneva",
+  "description": "Discover E-Bike Tour: Panorama, Old Town, and Watch Museum in Geneva in Switzerland.",
+  "longDescription": "Discover E-Bike Tour: Panorama, Old Town, and Watch Museum in Geneva in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/geneva-e-bike-tour-guided-panorama-old-town-and-watch-museum/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "408543",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d26bcd3856827d536bafabab02cfa128.jpg"
+    },
+    {
+      "alternativeText": "363932",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/55efd23f20b3fc6ef7b8c7dbcbae6317.jpg"
+    },
+    {
+      "alternativeText": "363930",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4798115fce89309609e34a0faeea2a84.jpg"
+    },
+    {
+      "alternativeText": "363939",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06b33ce9fe9e1926d5cbb0793b216caf.jpg"
+    },
+    {
+      "alternativeText": "363943",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6992314f9ed3ce7306e6f5c34a7be4d9.jpg"
+    },
+    {
+      "alternativeText": "363956",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c471a56c7df49cd2854c894cdf0f69c1.jpg"
+    },
+    {
+      "alternativeText": "364816",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1770bae4965319751e0adcb2470c74fe.jpg"
+    },
+    {
+      "alternativeText": "364817",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d7d1bb16d069451e4658f63c93b838a0.jpg"
+    },
+    {
+      "alternativeText": "408,542",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c254beb903bc7b53479aba54bfe8bd53.jpg"
+    },
+    {
+      "alternativeText": "408544",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c47c8441c8fd9a19bb956897f09c1d4.jpg"
+    },
+    {
+      "alternativeText": "Lake View",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e7083fda9944c5f0d3631eedaadae535.jpg"
+    },
+    {
+      "alternativeText": "planpalace",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/353530ca0dc5a623680d0a7586a8a666.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "museum",
+    "watch",
+    "geneva"
+  ],
+  "featured": false
+}

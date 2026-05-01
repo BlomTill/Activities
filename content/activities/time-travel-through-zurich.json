@@ -1,0 +1,90 @@
+{
+  "id": "1179",
+  "slug": "time-travel-through-zurich",
+  "name": "\"Time Travel Through Zurich\" private immersive city experience",
+  "description": "Discover \"Time Travel Through Zurich\" private immersive city experience in Switzerland.",
+  "longDescription": "Discover \"Time Travel Through Zurich\" private immersive city experience in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/time-travel-through-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "City Illusion6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f83eded5302914dd15813eed041abe1a.jpg"
+    },
+    {
+      "alternativeText": "City Illusion8",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/322e8e2488d6ba8f44bbee14622fcb82.jpg"
+    },
+    {
+      "alternativeText": "City Illusion7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/532c87eac892d0ab47cc01558aadd319.jpg"
+    },
+    {
+      "alternativeText": "City Illusion4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/acc3b9da84a02e9fac981b77ecfb50b2.jpg"
+    },
+    {
+      "alternativeText": "City Illusion3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c6818cd598a223adbc0f8fe09140588b.jpg"
+    },
+    {
+      "alternativeText": "City Illusion2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3b7bc1b3c1b630a653398a3e5b3d45da.jpg"
+    },
+    {
+      "alternativeText": "City Illusion1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da48633dc642f30244485ceb55b9187e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

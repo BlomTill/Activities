@@ -1,0 +1,85 @@
+{
+  "id": "288",
+  "slug": "from-zurich-express-tour-to-interlaken-and-the-schilthorn",
+  "name": "From Zurich: Express Tour to Interlaken and the Schilthorn",
+  "description": "Discover From Zurich: Express Tour to Interlaken and the Schilthorn in Switzerland.",
+  "longDescription": "Discover From Zurich: Express Tour to Interlaken and the Schilthorn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-express-tour-to-interlaken-and-the-schilthorn/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Schilthorn: View from Piz Gloria with visitors, surrounded by impressive mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bcad5d32723bb6c91ff9a155044fd734.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: Idyllic village with mountains, nature and leisure activities in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fd478bd0a9795e855961027bb2293a16.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: View of mountains and lakes with beautiful nature and clear sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a22fba1840a0d5643abf1dd913384296.jpg"
+    },
+    {
+      "alternativeText": "Birg_Thrill_Walk_y8a2344_webalbum_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9550cc8e6a5df4ddb6513e45a40fb697.jpg"
+    },
+    {
+      "alternativeText": "cabin-schilthorn-h2a8662-webalbum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/46858d04f1669a14e4e9ea4f9cdf8869.jpg"
+    },
+    {
+      "alternativeText": "birg-thrill-walk-y8a2434-webalbum-print NEMO OK",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dadfd0fc48efb68865f583b4ec43b846.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

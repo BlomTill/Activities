@@ -1,0 +1,102 @@
+{
+  "id": "224",
+  "slug": "from-zurich--canyoning-adventure-in-interlaken",
+  "name": "From Zurich: Canyoning adventure in Interlaken",
+  "description": "Discover From Zurich: Canyoning adventure in Interlaken in Switzerland.",
+  "longDescription": "Discover From Zurich: Canyoning adventure in Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/from-zurich--canyoning-adventure-in-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Canyoning Interlaken: Group of people having fun in the water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_group_picture_2_5977ccd552_5843e90a88.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Interlaken with participants in the water between rocks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_410cc3b9f8_e4134bfdfc.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Interlaken with group members rappelling down rocks in a green environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_abseiling_7c6fc57ff3_743589d951.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Interlaken rappelling down rocks over raging water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_abseiling_1_27d3112fda_be81657261.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Interlaken - Two people laughing under a waterfall in the river",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_group_picture_567714a7cd_37b6ef0189.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Interlaken with a Group in Waterproof Suits",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_group_picture_1_be9a1905d4_4c79f5267a.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Interlaken with a jump into the water, group in wetsuits",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_jump_3e569d9384_1849d1c8ea.jpg"
+    },
+    {
+      "alternativeText": "Interlaken paragliding with mountains in the background on a sunny day.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_hohematte_jungfrau_view_8af5f39b50_c0be34f7f2.jpg"
+    },
+    {
+      "alternativeText": "Interlaken Panorama with Alps, Lake, and Meadows",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_paragliding_aerial_view_788ca3e85f_95777e33b8.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning",
+    "lake",
+    "adventure",
+    "interlaken"
+  ],
+  "featured": false
+}

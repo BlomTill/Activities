@@ -1,0 +1,75 @@
+{
+  "id": "414",
+  "slug": "e-bike-tour-to-lauterbrunnen-and-isenfluh",
+  "name": "E-Bike Tour to Lauterbrunnen and Isenfluh",
+  "description": "Discover E-Bike Tour to Lauterbrunnen and Isenfluh in Switzerland.",
+  "longDescription": "Discover E-Bike Tour to Lauterbrunnen and Isenfluh in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/e-bike-tour-to-lauterbrunnen-and-isenfluh/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "E-Bike Tour Lauterbrunnen-Isenfluh_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc7c27c48fd0aae6cd3b766f74598865.jpg"
+    },
+    {
+      "alternativeText": "E-Bike Tour Lauterbrunnen-Isenfluh_2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed0e5529b875692919d434fd8ed0884a.jpg"
+    },
+    {
+      "alternativeText": "E-Bike Tour Lauterbrunnen-Isenfluh_3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5cd6e86e4772f758af0de0e85a2ca6bd.jpg"
+    },
+    {
+      "alternativeText": "E-Bike Tour Lauterbrunnen-Isenfluh_4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/34a2be573db0406817538c4798f1a0e6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

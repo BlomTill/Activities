@@ -1,0 +1,79 @@
+{
+  "id": "993",
+  "slug": "scuol-and-giarsun-rafting-in-the-engadine-incl--bbq",
+  "name": "Scuol and Giarsun rafting on the Inn in the Engadin incl. BBQ",
+  "description": "Discover Scuol and Giarsun rafting on the Inn in the Engadin incl. BBQ in Switzerland.",
+  "longDescription": "Discover Scuol and Giarsun rafting on the Inn in the Engadin incl. BBQ in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/scuol-and-giarsun-rafting-in-the-engadine-incl--bbq/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rafting in Giarsun: Experience adventure on the river with guides and groups in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_2_Schluchten_Engadin_Adventure_7d4f2bc64a.jpg"
+    },
+    {
+      "alternativeText": "Rafting Scuol: Experience exciting rafting adventures on the Giarsun River in the nature of Engadin.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_Scuol_Engadin_Adventure_e11aaf7329.jpg"
+    },
+    {
+      "alternativeText": "Rafting in Scuol: Experience the thrill of the white-water adventure with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_Unsplash_670b27248d.jpg"
+    },
+    {
+      "alternativeText": "Engadin: Seraina rafting in Scuol with a view of Giarsun and the surrounding mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engadin_Seraina_d71cdee3be.jpg"
+    },
+    {
+      "alternativeText": "Engadin: beautiful landscape with meadows, mountains, and blue sky in Scuol in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engadin_2_Seraina_07bb909ff6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

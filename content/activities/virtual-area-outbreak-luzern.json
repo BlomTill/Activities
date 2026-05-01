@@ -1,0 +1,102 @@
+{
+  "id": "1363",
+  "slug": "virtual-area-outbreak-luzern",
+  "name": "\"The Outbreak\" Virtual Area in Lucerne",
+  "description": "Discover \"The Outbreak\" Virtual Area in Lucerne in Switzerland.",
+  "longDescription": "Discover \"The Outbreak\" Virtual Area in Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/virtual-area-outbreak-luzern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "VR Game: Experience exciting adventures in a virtual reality group with interactive games.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5aaedc141a7b4c96cb3169b6ceaaac5e.jpg"
+    },
+    {
+      "alternativeText": "VR Game: exciting VR group gaming in a modern gaming experience room",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e029efaaae6218a62e0c1c4523215920.jpg"
+    },
+    {
+      "alternativeText": "VR game: group experiences an interactive e-sport adventure in Virtual Area with impressive technology.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/28b5114f51f475102bda9d67130cb9b4.jpg"
+    },
+    {
+      "alternativeText": "VR game: Two players in action, experiencing virtual reality, teamwork, excitement, and interaction.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5fa062f355383e414235c80bbf6e591b.jpg"
+    },
+    {
+      "alternativeText": "VR game: thrilling atmosphere with a group of players in virtual reality gear.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/964c148b808715d1b096d6a14582eaff.jpg"
+    },
+    {
+      "alternativeText": "VR game: group uses virtual reality in a modern gaming hall for collective play.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/df84183a3497cf85474f1cf3a844fbd3.jpg"
+    },
+    {
+      "alternativeText": "VR Game: Experience action-packed adventures with soldiers and helicopters in an impressive 3D simulation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9e72a08297cca48fb1d1ab4bed30f167.png"
+    },
+    {
+      "alternativeText": "VR Game: Realistic Zombie Action in an Engaging Game Set, Experience Thrill and Teamwork.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0c2ab49687c8fb2d4d071b07c88e6546.png"
+    },
+    {
+      "alternativeText": "VR game with a group of players experiencing realistic virtual action",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/842a6e36f728187f1e41c4a6dddd23ee.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

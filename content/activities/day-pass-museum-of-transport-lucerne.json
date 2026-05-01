@@ -1,0 +1,155 @@
+{
+  "id": "1486",
+  "slug": "day-pass-museum-of-transport-lucerne",
+  "name": "Ticket Swiss Museum of Transport Lucerne",
+  "description": "Discover Ticket Swiss Museum of Transport Lucerne in Switzerland.",
+  "longDescription": "Discover Ticket Swiss Museum of Transport Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/day-pass-museum-of-transport-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Children riding scooters at the Swiss Museum of Transport in Lucerne under an airplane",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Verkehrshaus_Luzern_1_09debbca62.jpg"
+    },
+    {
+      "alternativeText": "World of Mobility: Families visit the Transport Museum Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_deea74d06a57e77fd816697a5346cc28_4442513fd7.jpg"
+    },
+    {
+      "alternativeText": "Planetarium Lucerne presents an exciting lecture on astrology and planets",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Planetarium_Verhehrshaus_Luzern_f9fd6de840.jpg"
+    },
+    {
+      "alternativeText": "Visitors engage with multimedia exhibition at the Verkehrshaus Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Media_World_Evolution_Lernen_Verhehrshaus_Luzern_e3048a0290.jpg"
+    },
+    {
+      "alternativeText": "Swiss Chocolate Adventure shows visitors experiencing cocoa production in Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chocolate_Verkehrshaus_Luzern_1d0aa35b97.jpg"
+    },
+    {
+      "alternativeText": "Turtle swims through the sea in a movie theater",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_a913dee6d05e72737dedd9845a48ffb4_43bedbe86e.jpg"
+    },
+    {
+      "alternativeText": "Old Riggenbach Railway in the Verkehrshaus Lucerne showcases a historic locomotive in a modern exhibition.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Alte_Bahn_Riggenbach_Verhehrshaus_Luzern_694b690718.jpg"
+    },
+    {
+      "alternativeText": "Cars from the exhibition on road traffic at the Verkehrshaus Lucerne, various models and colors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Autos_Strassrenverkehr_Verhehrshaus_Luzern_7008782a92.jpg"
+    },
+    {
+      "alternativeText": "Train Exhibition at the Swiss Museum of Transport Lucerne with Snow Plow Locomotive",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bahn_Verhehrshaus_Luzern_3b8e6f8169.jpeg"
+    },
+    {
+      "alternativeText": "Planetarium Earth shows the Earth from space with clouds and water. Accurate representation of air and water surfaces.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Planetarium_Erde_Verhehrshaus_Luzern_3101679cba.jpg"
+    },
+    {
+      "alternativeText": "Astronaut on Moon landing uses tool for soil sample collection",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mondlandung_Verkehrshaus_Luzern_f01a6eb33e.jpg"
+    },
+    {
+      "alternativeText": "Space astronaut in space sees Earth",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Planetarium_Luzern_844af50095.jpg"
+    },
+    {
+      "alternativeText": "Garden train in Lucerne with children riding",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gartenbahn_Kinder_Verhehrshaus_Luzern_6deed334f8.jpg"
+    },
+    {
+      "alternativeText": "Children's experience at the Swiss Transport Museum in Lucerne: Two children are riding in a green car, accompanied by an adult.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kinder_Auto_Verhehrshaus_Luzern_dd7565e2e5.jpg"
+    },
+    {
+      "alternativeText": "Rega Jet in front of the Transport Museum in Lucerne, red and white color scheme, on a sunny day",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Regajet_Verhehrshaus_Luzern_bf129a1a6b.jpg"
+    },
+    {
+      "alternativeText": "Experience Media World Logistics: Visitors use VR technology at the Verkehrshaus Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Logistik_erleben_Verhehrshaus_Luzern_be35ef9143.jpg"
+    },
+    {
+      "alternativeText": "Media World Verhehrshaus Lucerne: Visitors experience virtual reality in a modern environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Media_World_Verhehrshaus_Luzern_d7d5bae4f8.jpg"
+    },
+    {
+      "alternativeText": "Visitors at the Swiss Transport Museum walk through a modern exhibition hall with interactive screens.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Media_World_Verkehrshaus_3459c9df10.jpg"
+    },
+    {
+      "alternativeText": "Chocolate with nuts and cocoa beans on table",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chocolate_Adventure_Schokolade_27e798c5b6.jpg"
+    },
+    {
+      "alternativeText": "Family at Chocolate Experience in the Swiss Museum of Transport Lucerne",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chocolate_Adventure_Verkehrshaus_Luzern_6537c24854.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "museum",
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": "710",
+  "slug": "basel-swiss-cheese-tasting",
+  "name": "Swiss Cheese Tasting in Basel",
+  "description": "Discover Swiss Cheese Tasting in Basel in Switzerland.",
+  "longDescription": "Discover Swiss Cheese Tasting in Basel in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/basel-swiss-cheese-tasting/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "gruyeres-cheese-wheel-and-vacherin-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/571dc0b5f9b09c2afc3f5677626efe5c.jpg"
+    },
+    {
+      "alternativeText": "cheese-platter-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/676b752d55d65640faa66825edbcda1c.jpg"
+    },
+    {
+      "alternativeText": "emmental-18-months-aged",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f885151ca7b3d458e8a8dab1b8b30c8c.jpg"
+    },
+    {
+      "alternativeText": "Cows-in-Valais-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6fb8970c6d33cdd010bf77daf6171994.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cheese"
+  ],
+  "featured": false
+}

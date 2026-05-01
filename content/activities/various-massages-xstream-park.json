@@ -1,0 +1,67 @@
+{
+  "id": "1397",
+  "slug": "various-massages-xstream-park",
+  "name": "Various massages in Xstream Park 45-90 min",
+  "description": "Discover Various massages in Xstream Park 45-90 min in Switzerland.",
+  "longDescription": "Discover Various massages in Xstream Park 45-90 min in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "69",
+    "title": "Wellness and adventure pools",
+    "slug": "wellness",
+    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/various-massages-xstream-park/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Relax with a professional massage in a quiet wellness area",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Massage_1_015df69787.jpg"
+    },
+    {
+      "alternativeText": "Massage: Relaxing massage for well-being and stress relief in a modern spa.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_IMG_2503_750b2b1c03.jpg"
+    },
+    {
+      "alternativeText": "Massage: Quiet massage room with a pleasant atmosphere and relaxing decor.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Massage_2_0e679c6536.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

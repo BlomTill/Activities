@@ -1,0 +1,93 @@
+{
+  "id": "287",
+  "slug": "from-zurich-bus-tour-to-interlaken",
+  "name": "From Zurich: Bus tour to Interlaken",
+  "description": "Discover From Zurich: Bus tour to Interlaken in Switzerland.",
+  "longDescription": "Discover From Zurich: Bus tour to Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Interlaken: Overview of the picturesque village with mountains and nature in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0e42f581b55810c81bafe3a071aa303c.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: impressive mountains and lakes, ideal for adventures in nature and relaxation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8dc3161ec541f8008885f7d9aec2255d.jpg"
+    },
+    {
+      "alternativeText": "Fluss",
+      "caption": "Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ede2bca61c3a050508307d60108a0ad.jpg"
+    },
+    {
+      "alternativeText": "Allmendhubel",
+      "caption": "Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08a961aa426cd904805aee1b9b7bcb3f.jpg"
+    },
+    {
+      "alternativeText": "Harder Kulm",
+      "caption": "Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9bb81391ee79fca57f3a9733d12c49a0.jpg"
+    },
+    {
+      "alternativeText": "Harder Kulm",
+      "caption": "Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/60fa6d9f9b09ba15e9dabfc94af0fb49.jpg"
+    },
+    {
+      "alternativeText": "Harder Kulm",
+      "caption": "Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/88fb334ae3ba6a8cfbafc08625a809a9.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

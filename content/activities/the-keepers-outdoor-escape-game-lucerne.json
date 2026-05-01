@@ -1,0 +1,82 @@
+{
+  "id": "448",
+  "slug": "the-keepers-outdoor-escape-game-lucerne",
+  "name": "\"The Keepers\" Outdoor Escape Game Lucerne",
+  "description": "Discover \"The Keepers\" Outdoor Escape Game Lucerne in Switzerland.",
+  "longDescription": "Discover \"The Keepers\" Outdoor Escape Game Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-keepers-outdoor-escape-game-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "1 The Keepers Piramyd",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aeaf08941d361f64484cf03ff7f8223b.jpg"
+    },
+    {
+      "alternativeText": "5-The-Keepers-Gameplay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c4485fd54a7dd27e9ed8f2d50f814a6.jpg"
+    },
+    {
+      "alternativeText": "6-The-Keepers-Gameplay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b8565eb221ef1f766177d7ba2959bf77.jpg"
+    },
+    {
+      "alternativeText": "7 TheKeepers Gameplay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f6583666219618a5feef045046d14ffc.jpg"
+    },
+    {
+      "alternativeText": "8 The Keepers Letter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/38fcf213477f954f742d304cf2ed520c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

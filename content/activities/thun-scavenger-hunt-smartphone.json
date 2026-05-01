@@ -1,0 +1,75 @@
+{
+  "id": "566",
+  "slug": "thun-scavenger-hunt-smartphone",
+  "name": "Thun interactive scavenger hunt with smartphone",
+  "description": "Discover Thun interactive scavenger hunt with smartphone in Switzerland.",
+  "longDescription": "Discover Thun interactive scavenger hunt with smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/thun-scavenger-hunt-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Scavenger hunt: Smartphone shows map at a picturesque bridge over the river.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/thun_carousel_1_7f87b26590.jpg"
+    },
+    {
+      "alternativeText": "Treasure hunt: group solves smartphone riddle in urban environment, experiencing teamwork and adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/thun_carousel_2_0d09139655.jpg"
+    },
+    {
+      "alternativeText": "Treasure hunt: Smartphone displays tasks in front of a historical facade in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/thun_carousel_4_defdf45c1f.jpg"
+    },
+    {
+      "alternativeText": "Treasure Hunt Smartphone Riddle: discover exciting puzzles and challenges outdoors with friends",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/thun_carousel_5_632d20f41d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

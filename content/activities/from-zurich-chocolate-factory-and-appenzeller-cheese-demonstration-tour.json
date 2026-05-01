@@ -1,0 +1,113 @@
+{
+  "id": "289",
+  "slug": "from-zurich-chocolate-factory-and-appenzeller-cheese-demonstration-tour",
+  "name": "From Zurich: Chocolate Factory and Appenzeller Cheese Demonstration Tour",
+  "description": "Discover From Zurich: Chocolate Factory and Appenzeller Cheese Demonstration Tour in Switzerland.",
+  "longDescription": "Discover From Zurich: Chocolate Factory and Appenzeller Cheese Demonstration Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-chocolate-factory-and-appenzeller-cheese-demonstration-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Chocolarium",
+      "caption": "Bustour Chocolarium und Appenzeller Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8488bb884b406846edac38418cf50be.jpg"
+    },
+    {
+      "alternativeText": "Chocolate fountain: discover the delicious world of chocolate at the Chocolarium with various fondues.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1d8e9a09bfecfdf7e56087ee2c957200.jpeg"
+    },
+    {
+      "alternativeText": "Chocolarium",
+      "caption": "Bustour Chocolarium und Appenzeller Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10e2c08952040c79db8ce94269a3a729.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium",
+      "caption": "Bustour Chocolarium und Appenzeller Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64cbb801c9e666a9e70d780ae2610502.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium",
+      "caption": "Bustour Chocolarium und Appenzeller Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/174558c182cbbfd25e5b9dee071221d4.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium",
+      "caption": "Bustour Chocolarium und Appenzeller Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3b50a48c365897fd778f9d3147eaad3f.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Cheese Dairy: A Look into Cheese Production with State-of-the-Art Technology and Traditional Craftsmanship.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9bd82887939634bf5d66e1cfcf2201de.jpg"
+    },
+    {
+      "alternativeText": "Appenzeller Cheese Cellar: discover the world of cheese with regional specialties in Appenzell.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3cf319f098621c47f7a756ff17049b4a.jpg"
+    },
+    {
+      "alternativeText": "Schaukäserei",
+      "caption": "Bustour Chocolarium und Appenzeller Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/33273762f94611f18851d4eb8f112407.jpg"
+    },
+    {
+      "alternativeText": "Schaukäserei",
+      "caption": "Bustour Chocolarium und Appenzeller Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1cde28ff48ff4737b360cdc1c780dafc.jpg"
+    },
+    {
+      "alternativeText": "Schaukäserei",
+      "caption": "Bustour Chocolarium und Appenzeller Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cca8a2905aead66c73a71b4a0274ff30.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "cheese"
+  ],
+  "featured": false
+}

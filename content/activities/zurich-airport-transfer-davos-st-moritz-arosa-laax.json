@@ -1,0 +1,88 @@
+{
+  "id": "1322",
+  "slug": "zurich-airport-transfer-davos-st-moritz-arosa-laax",
+  "name": "From Zurich Airport: Transfer to Davos, St. Moritz, Arosa or Laax",
+  "description": "Discover From Zurich Airport: Transfer to Davos, St. Moritz, Arosa or Laax in Switzerland.",
+  "longDescription": "Discover From Zurich Airport: Transfer to Davos, St. Moritz, Arosa or Laax in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "105",
+    "title": "Transfer",
+    "slug": "transfer",
+    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/transfer/zurich-airport-transfer-davos-st-moritz-arosa-laax/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "E-Class: Luxurious transfer at the Waldhotel Zurich with comfortable vehicle and elegant ambiance.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_E_Class_7a4fe07d28.jpg"
+    },
+    {
+      "alternativeText": "V-Class Zurich Airport Transfer - comfortable vehicle for group travels and family outings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_2_db190b21bb.jpg"
+    },
+    {
+      "alternativeText": "S-Class: luxurious airport transfer in Zurich with modern interior and multimedia features",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_2_c06c0655af.jpg"
+    },
+    {
+      "alternativeText": "S-Class: Luxurious airport transfer in Zurich with stylish vehicle and elegant ambiance.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/S_Class_4a91958b96.jpg"
+    },
+    {
+      "alternativeText": "V-Class: luxurious transfer vehicle for airport transfers in Zurich, comfortable and spacious.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_048ed77c15.jpg"
+    },
+    {
+      "alternativeText": "Mercedes S-Class for elegant airport transfer in Zurich, luxurious and comfortable.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_a85c3a14e1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "st.-moritz",
+    "davos"
+  ],
+  "featured": false
+}

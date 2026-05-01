@@ -1,0 +1,104 @@
+{
+  "id": "1299",
+  "slug": "rail-ticket-interlaken-ost-zermatt",
+  "name": "Rail ticket between Interlaken Ost and Zermatt",
+  "description": "Discover Rail ticket between Interlaken Ost and Zermatt in Switzerland.",
+  "longDescription": "Discover Rail ticket between Interlaken Ost and Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/rail-ticket-interlaken-ost-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "SBB: Train journey through Switzerland in spring between meadows and mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Pixabay_5fad1f5f25.jpg"
+    },
+    {
+      "alternativeText": "Kandertal Train: modern train travels through the impressive nature of the Kandertal in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_Kandertal_Pixabay_2f2bbe66c7.jpg"
+    },
+    {
+      "alternativeText": "Spiez: picturesque view of the lake with colorful autumn colors and the Alps in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spiez_Unsplash_9682f72f1e.jpg"
+    },
+    {
+      "alternativeText": "MGB: Image of a modern railway in the mountains, surrounded by nature and trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_Pixabay_630ddd06e3.jpg"
+    },
+    {
+      "alternativeText": "MGB train through the mountains with breathtaking nature and clear skies in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_2_Seraina_6de2151966.jpg"
+    },
+    {
+      "alternativeText": "Täsch: picturesque river next to the mountains and the train station in the beautiful nature of autumn.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Taesch_Seraina_3b787e14a7.jpg"
+    },
+    {
+      "alternativeText": "MGB: Leisure with the train in the beautiful landscape of Zermatt with mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_5_Seraina_e55167a408.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: idyllic landscape with clear water, mountains, and typical architecture, ideal for relaxation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Interlaken_Unsplash_f30ea78910.jpg"
+    },
+    {
+      "alternativeText": "Zermatt: Winter landscape with snow-covered mountains and a picturesque village in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Unsplash_219ce8d86c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "zermatt",
+    "interlaken"
+  ],
+  "featured": false
+}

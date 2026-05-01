@@ -1,0 +1,108 @@
+{
+  "id": "372",
+  "slug": "lucerne-stanserhorn-train",
+  "name": "Stanserhorn - self-guided tour from Lucerne including train ride",
+  "description": "Discover Stanserhorn - self-guided tour from Lucerne including train ride in Switzerland.",
+  "longDescription": "Discover Stanserhorn - self-guided tour from Lucerne including train ride in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/lucerne-stanserhorn-train/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "CabriO Seilbahn",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/718a3d46baf86a90952317907cca3c00.jpg"
+    },
+    {
+      "alternativeText": "Bergstation",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/94a0e92ef004c272a9c29f03908e6b8c.jpg"
+    },
+    {
+      "alternativeText": "CabriO Seilbahn",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b8f2bcd18ffa62633253054bb5fef340.jpg"
+    },
+    {
+      "alternativeText": "CabriO Seilbahn",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5089e45f57999da35b494fce126af1b3.jpg"
+    },
+    {
+      "alternativeText": "CabriO Seilbahn",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6134f5bf19eb44e9cacab1811884b025.jpg"
+    },
+    {
+      "alternativeText": "Murmeltiere",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6efededfbe9904e72de3bdae85727c7a.jpg"
+    },
+    {
+      "alternativeText": "Restaurant",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0301f9ac3d91e7fac677e58605d3596a.jpg"
+    },
+    {
+      "alternativeText": "Restaurant",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/47dac3c22699455b4dba08a4978e812b.jpg"
+    },
+    {
+      "alternativeText": "Nostalgische Standseilbahn",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c0571e77ac4e2c5ddc8de3759e32994f.jpg"
+    },
+    {
+      "alternativeText": "Nostalgische Standseilbahn",
+      "caption": "Stanserhorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/443817d43761f286130a20086308fac5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train",
+    "lucerne"
+  ],
+  "featured": false
+}

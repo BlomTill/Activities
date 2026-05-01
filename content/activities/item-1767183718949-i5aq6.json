@@ -1,0 +1,87 @@
+{
+  "id": "509",
+  "slug": "item-1767183718949-i5aq6",
+  "name": "\"Find-the-Code: Fireballs in the Garden City\" Outdoor Escape Game Winterthur",
+  "description": "Discover \"Find-the-Code: Fireballs in the Garden City\" Outdoor Escape Game Winterthur in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Fireballs in the Garden City\" Outdoor Escape Game Winterthur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/item-1767183718949-i5aq6/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-winterthur",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b5cc927af8f62e53b8b9838a0215b54.jpg"
+    },
+    {
+      "alternativeText": "group-hk-frontal-running",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/74f08c1a60bbc3274868c23237e39bdc.jpg"
+    },
+    {
+      "alternativeText": "photoshoot-karlsruhe-55-edited",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d33a317a659068dc814899b8b5a2698.jpg"
+    },
+    {
+      "alternativeText": "Map1-Winterthur",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24779f7a7411e06abd67a856299bba79.jpg"
+    },
+    {
+      "alternativeText": "Product image Winterthur",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/799809b80cdeac3f7af846f635b38712.JPEG"
+    },
+    {
+      "alternativeText": "Card2-Winterthur",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b96ff611fe9b2b56ea3263f365a3f2df.jpg"
+    },
+    {
+      "alternativeText": "group-photo-hk-flowers-document-mobile-neutral-",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/36ff60e0b8a83f74e48364bf9697462f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

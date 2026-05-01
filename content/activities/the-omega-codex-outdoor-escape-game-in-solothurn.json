@@ -1,0 +1,90 @@
+{
+  "id": "524",
+  "slug": "the-omega-codex-outdoor-escape-game-in-solothurn",
+  "name": "\"The Omega Codex\" Outdoor Escape Game in Solothurn",
+  "description": "Discover \"The Omega Codex\" Outdoor Escape Game in Solothurn in Switzerland.",
+  "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game in Solothurn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-omega-codex-outdoor-escape-game-in-solothurn/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "OmegaCodex_6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/38a8da7c59148e5b82ef678bdb3371dc.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/db141992f7ba4d83f554399ee45ab83e.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5df3bb374c46ea61f701fa65d1755f7a.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cb570b068b57da60f270fcd9540081dd.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0075c423ac4fd770abf966a7bc21089f.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/98462c6f86ef2c8aa9a1e1cee6fdbd1c.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/005f4dbec921f514bca6a9f5f9b1b744.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

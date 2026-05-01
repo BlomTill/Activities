@@ -1,0 +1,85 @@
+{
+  "id": "404",
+  "slug": "turicum-gin-lab",
+  "name": "\"Turicum Gin Lab\" Gin Workshop",
+  "description": "Discover \"Turicum Gin Lab\" Gin Workshop in Switzerland.",
+  "longDescription": "Discover \"Turicum Gin Lab\" Gin Workshop in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "145",
+    "title": "Distillery",
+    "slug": "distillery",
+    "description": "A visit to a distillery will give you an exciting insight into the art of making spirits. During a guided tour, you will get to know the various production areas. A knowledgeable member of staff will explain the process of making spirits from start to finish. You will learn which raw materials and ingredients are used to produce the spirits and what is involved in the distillation process. A highlight of the visit is the tasting of the distillery's products, where you will get to know their aromas, flavors and nuances under expert guidance.\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/distillery/turicum-gin-lab/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gin-Lab-by-Sarah-Vonesch-Photography-59",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0cc90901befdb2a10c43f9573507eada.JPG"
+    },
+    {
+      "alternativeText": "gin-lab-by-sarah-vonesch-photography-35",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9359ec702a8a4b77dd75391653678eec.JPG"
+    },
+    {
+      "alternativeText": "gin-lab-by-sarah-vonesch-photography-41",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/acd187e83e28b9b4ef5328f659cf7677.JPG"
+    },
+    {
+      "alternativeText": "Photos by Valentina Verdesca, www.valentinaverdesca.format.com-9805",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5bbf544c1de649a5dbe7a6c76c4af174.jpg"
+    },
+    {
+      "alternativeText": "Photos by Valentina Verdesca, www.valentinaverdesca.format.com-9997",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a959802e14197cb00af6ae11e5a3d09f.jpg"
+    },
+    {
+      "alternativeText": "Production-by-Sarah-Vonesch-Photography-1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d4ef1eafa72eeeab996d9b32d77bee18.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,136 @@
+{
+  "id": "990",
+  "slug": "white-water-rafting-luetschine-interlaken",
+  "name": "White water rafting Lütschine Interlaken",
+  "description": "Discover White water rafting Lütschine Interlaken in Switzerland.",
+  "longDescription": "Discover White water rafting Lütschine Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/white-water-rafting-luetschine-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rafting Lütschine: Experience the thrilling adventure on wild waters with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_7_Swissraft_Activity_69dd4b0c74.jpg"
+    },
+    {
+      "alternativeText": "Rafting on the Lütschine with an adventurous team in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_8_Swissraft_Activity_b7026f28dd.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: Experience excitement in the white water with friends during the summer adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_9_Swissraft_Activity_d10699e2f3.jpg"
+    },
+    {
+      "alternativeText": "Rafting on the Lütschine: Experience thrilling adventures in white water with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_10_Swissraft_Activity_0931dcc9ef.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: Experience exciting adventures with white-water rafting in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_11_Swissraft_Activity_53dba765bf.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: Experience exciting adventures with the team in the summer in the nature of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_12_Swissraft_Activity_3c36df0efc.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: Experience thrilling rafting in nature with adventure and teamwork",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_13_Swissraft_Activity_b2d5f43cbb.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: exciting rafting tour with friends in the natural paradise of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_14_Swissraft_Activity_24fe288382.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: exciting rafting tour with friends in beautiful nature under excellent conditions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_15_Swissraft_Activity_270b1d406c.jpg"
+    },
+    {
+      "alternativeText": "Rafting on the Lütschine with your team - an exciting adventure in nature during summer weather.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_16_Swissraft_Activity_7dc681b53d.jpg"
+    },
+    {
+      "alternativeText": "Rafting on the Lütschine: Exciting adventure with a dedicated team in the mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_1_Swissraft_Activity_40019a1f77.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: exciting rafting tour on the Lütschine in Switzerland with a team of adventurers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_2_Swissraft_Activity_cd791b085c.jpg"
+    },
+    {
+      "alternativeText": "Rafting on the Lütschine in Switzerland with friends, summer adventure, group activity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_3_Swissraft_Activity_0c8b239b86.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: Experience exciting adventures while rafting in nature with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_4_Swissraft_Activity_2594966950.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: exciting water adventure with friends in the midst of nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_5_Swissraft_Activity_a466d12303.jpg"
+    },
+    {
+      "alternativeText": "Rafting Lütschine: Experience the adventure with your team in the summer water rush.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_6_Swissraft_Activity_f838fce156.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting",
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

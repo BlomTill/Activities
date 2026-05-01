@@ -1,0 +1,87 @@
+{
+  "id": "1053",
+  "slug": "training-at-indoor-shooting-range-zurich",
+  "name": "Indoor Experience Package Shooting at Lake Zurich",
+  "description": "Discover Indoor Experience Package Shooting at Lake Zurich in Switzerland.",
+  "longDescription": "Discover Indoor Experience Package Shooting at Lake Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "30614",
+    "title": "Shooting and Throwing Sports",
+    "slug": "shooting-and-throwing-sports",
+    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/training-at-indoor-shooting-range-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Teaser",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e6456bc94a8b366f4d65783ce294aa8b.jpg"
+    },
+    {
+      "alternativeText": "9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/710ed64732abba4626010841457a1003.jpg"
+    },
+    {
+      "alternativeText": "10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/808924398f2cf252e6aedb0ab0060012.jpg"
+    },
+    {
+      "alternativeText": "Experience Package",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ce73b73e5e9ecb5e2b45d425bd8cb5f.jpg"
+    },
+    {
+      "alternativeText": "Pistol Test Package",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f2c9176645ff8c0dfac32ab47b43d71.jpg"
+    },
+    {
+      "alternativeText": "Safety Introduction",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64797b3f420d600ab254f91239b0efa2.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

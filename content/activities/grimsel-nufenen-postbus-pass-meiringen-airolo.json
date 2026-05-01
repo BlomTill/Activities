@@ -1,0 +1,88 @@
+{
+  "id": "947",
+  "slug": "grimsel-nufenen-postbus-pass-meiringen-airolo",
+  "name": "Grimsel and Nufenen Postbus pass trip from Meiringen or Airolo",
+  "description": "Discover Grimsel and Nufenen Postbus pass trip from Meiringen or Airolo in Switzerland.",
+  "longDescription": "Discover Grimsel and Nufenen Postbus pass trip from Meiringen or Airolo in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "141",
+    "title": "Postbus",
+    "slug": "postbus",
+    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/grimsel-nufenen-postbus-pass-meiringen-airolo/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Grimsel Pass: panoramic view of the mountains, breathtaking nature, and winding road.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/grimselpass2_Guttannen_Foto_Schweiz_Tourismus_e68cdeac58.jpg"
+    },
+    {
+      "alternativeText": "Grimsel Pass: impressive rock landscape by the lake, ideal for hiking and nature experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14_Grimsel_b301e2fc18.jpg"
+    },
+    {
+      "alternativeText": "Postbus: Yellow coach in a picturesque setting with mountains, ideal for excursions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pixabay_ce831f80dc.jpg"
+    },
+    {
+      "alternativeText": "Nufenen Pass: Winter landscape with snow-covered mountains and sparkling blue water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/17_TI_Nufenenpass_c913e286bd.png"
+    },
+    {
+      "alternativeText": "Grimsel Pass: Winding road surrounded by mountains and green nature in Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grimselpass_Guttannen_Foto_Schweiz_Tourismus_9189ac4192.jpg"
+    },
+    {
+      "alternativeText": "Innertkirchen-Gauligletscher: sparkling glacier lakes and blossoming meadows in the Alps. Ideal for nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Innertkirchen_Gauligletscher_Foto_Switzerland_Tourism_Martin_Maegli_d378af03da.jpg"
+    },
+    {
+      "alternativeText": "Nufenen Pass: Picturesque autumn landscape with mountains and road in a beautiful natural area.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Nufenenpass_unsplash_e25313e7f5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

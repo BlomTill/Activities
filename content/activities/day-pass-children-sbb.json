@@ -1,0 +1,87 @@
+{
+  "id": "1013",
+  "slug": "day-pass-children-sbb",
+  "name": "Day Pass Children SBB",
+  "description": "Discover Day Pass Children SBB in Switzerland.",
+  "longDescription": "Discover Day Pass Children SBB in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "136",
+    "title": "SBB Day Pass",
+    "slug": "sbb-day-pass",
+    "description": "Find the right SBB Day Pass for you here. SBB Day Passes allow you to travel for a whole day. You only need one ticket, even if you have to change trains several times. Within the validity of your day ticket, you can travel as often as you like. You should only check the timetables so that you don't miss the \"last train\" or your connection. Your day pass is valid for the entire day of the date printed on it and beyond until 5:00 a.m. the following day."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-children-sbb/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Train journey: Creative interior design with colorful illustrations, ideal for art lovers and adventure seekers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6_7424026db8.jpg"
+    },
+    {
+      "alternativeText": "Train station: Child stands in silhouette at sunset on the platform.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kind_Bahnhof_Unsplash_9cfe1b675b.jpg"
+    },
+    {
+      "alternativeText": "Zürich HB: main train station full of travelers, modern trains, bustling atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_HB_Unsplash_97ddbe6ad4.jpg"
+    },
+    {
+      "alternativeText": "IC 1: colorful train decoration with animals and landscapes, ideal for children and family tours.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_cb3979d926.jpg"
+    },
+    {
+      "alternativeText": "Children's playground with colorful figures and a friendly environment. Ideal for creative adventures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_d6212acabc.jpg"
+    },
+    {
+      "alternativeText": "SBB FFS train with colorful graffiti artwork at a station, ideal for art lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_a0fd6e8bb1.jpg"
+    },
+    {
+      "alternativeText": "Lake Lucerne: Boat trip with passengers, surrounded by mountains and nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Vierwaldstaettersee_12_Seraina_297cb427b3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

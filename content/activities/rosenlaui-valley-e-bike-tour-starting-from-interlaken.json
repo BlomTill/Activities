@@ -1,0 +1,123 @@
+{
+  "id": "419",
+  "slug": "rosenlaui-valley-e-bike-tour-starting-from-interlaken",
+  "name": "\"Rosenlaui Valley\" - E-Bike Tour Starting from Interlaken",
+  "description": "Discover \"Rosenlaui Valley\" - E-Bike Tour Starting from Interlaken in Switzerland.",
+  "longDescription": "Discover \"Rosenlaui Valley\" - E-Bike Tour Starting from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/rosenlaui-valley-e-bike-tour-starting-from-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 IMG_4645",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3608c056a3ac53eafb1e767d7f9efdfd.jpg"
+    },
+    {
+      "alternativeText": "01 IMG_4815",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08a5cf8f4881cfdcd82e8bdfb723edba.jpg"
+    },
+    {
+      "alternativeText": "02 IMG_4757",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3897a22ef8ba73e3ed2cbb28ed9d45da.jpg"
+    },
+    {
+      "alternativeText": "hotel-rosenlaui-historic-stop-ebike-tour-interlaken",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/309b4d8bc3e6c38723ff90d026bc0d32.JPEG"
+    },
+    {
+      "alternativeText": "IMG_4724",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bfbcaac361ae872c51f13d4b15458682.jpg"
+    },
+    {
+      "alternativeText": "IMG_6303",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/798dd74468a5ad1dc8d6ed4a9ba89995.JPEG"
+    },
+    {
+      "alternativeText": "IMG_8612",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/56eac7f52a7960217c2327af1759e777.JPEG"
+    },
+    {
+      "alternativeText": "jungfrau-region-view-grosse-scheidegg-ebike-tour",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/05365b292476e8f22ccd7ac7997d3f5b.jpg"
+    },
+    {
+      "alternativeText": "rosenlaui-glacier-gorge-swiss-alps-interlaken-tour",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4fc4a4ca5fabd3f20019fb6d42ca4c61.jpg"
+    },
+    {
+      "alternativeText": "rosenlaui-valley-ebike-tour-from-interlaken",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dd186833928e6b795ebea81fcb0d3013.jpg"
+    },
+    {
+      "alternativeText": "rosenlaui-valley-ebike-tour-riders-interlaken",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/920ad3575e6ceff12cb52511331f8c89.jpg"
+    },
+    {
+      "alternativeText": "rosenlaui-valley-swiss-alps-ebike-tour-interlaken",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a76840b98c74f596c40051c2a2c71fc8.jpg"
+    },
+    {
+      "alternativeText": "traditional-sawmill-rosenlaui-valley-ebike-tour",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c0cbe6cd89282717bfc973af3cf4525.JPEG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

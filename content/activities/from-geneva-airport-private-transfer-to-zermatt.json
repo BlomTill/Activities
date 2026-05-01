@@ -1,0 +1,88 @@
+{
+  "id": "1313",
+  "slug": "from-geneva-airport-private-transfer-to-zermatt",
+  "name": "From Geneva airport: private transfer to Zermatt",
+  "description": "Discover From Geneva airport: private transfer to Zermatt in Switzerland.",
+  "longDescription": "Discover From Geneva airport: private transfer to Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "105",
+    "title": "Transfer",
+    "slug": "transfer",
+    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/transfer/from-geneva-airport-private-transfer-to-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Transfer from Geneva to Zermatt with a view of the Matterhorn, surrounding mountains, and alpine architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Unsplash_edd8977256.jpg"
+    },
+    {
+      "alternativeText": "Transfer from Geneva to Zermatt with a black van, the terminal in Täsch in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/V_Class_3_Swiss_Airport_Transfers_271dc05274.jpg"
+    },
+    {
+      "alternativeText": "Transfer Geneva to Zermatt with black leather seats and flowers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/V_Class_inside_Swiss_Airport_Transfers_12d854e1f2.jpg"
+    },
+    {
+      "alternativeText": "Transfer from Geneva to Zermatt: black car on cobblestone.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Class_1_Swiss_Airport_Transfers_1e13487766.jpg"
+    },
+    {
+      "alternativeText": "Mercedes-Benz limousine for transfer from Geneva to Zermatt, modern furnishings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Class_3_Swiss_Airport_Transfers_78466f6f52.jpg"
+    },
+    {
+      "alternativeText": "Mercedes limousine on transfer from Geneva to Zermatt, green meadows",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Class_5_Swiss_Airport_Transfers_315ffffa36.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zermatt",
+    "geneva"
+  ],
+  "featured": false
+}

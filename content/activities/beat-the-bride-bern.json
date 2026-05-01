@@ -1,0 +1,84 @@
+{
+  "id": "531",
+  "slug": "beat-the-bride-bern",
+  "name": "\"Beat the bride\" in Bern: action-packed hen party",
+  "description": "Discover \"Beat the bride\" in Bern: action-packed hen party in Switzerland.",
+  "longDescription": "Discover \"Beat the bride\" in Bern: action-packed hen party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-bern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bern: Historic Old Town with flags and interesting buildings, ideal for city trips and culture enthusiasts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern_unsplash_c7b43d31be.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bride: Fun at the team event in the city with friends and creative activities",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_1_797b8aba96.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bride: Exciting group game outdoors with friends in the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_4_4431a9d0b6.jpg"
+    },
+    {
+      "alternativeText": "Bride party with friends, celebrating outdoors, team spirit and good vibes on a summer evening",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_2_65d1c7e87f.jpg"
+    },
+    {
+      "alternativeText": "Bachelorette party with friends in the city. Celebrate with great activities and good vibes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_3_4d36cff192.jpg"
+    },
+    {
+      "alternativeText": "Bern: Beautiful old town along the Aare River with historic buildings and green surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dimitri_photography_Uv_U81_OT_2hv_E_unsplash_d84ac56eb7.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bern"
+  ],
+  "featured": false
+}

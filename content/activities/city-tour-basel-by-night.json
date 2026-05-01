@@ -1,0 +1,75 @@
+{
+  "id": "1275",
+  "slug": "city-tour-basel-by-night",
+  "name": "City tour Basel by night",
+  "description": "Discover City tour Basel by night in Switzerland.",
+  "longDescription": "Discover City tour Basel by night in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-by-night/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Night city tour Basel with guide and participant",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Basel_Stadtfuehrung_Nacht_Sagen_066fdade13.jpg"
+    },
+    {
+      "alternativeText": "Basel Night Tour with Historical Characters in Front of a Lantern.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Basel_Stadtfuehrung_Nacht_1c26230da3.jpg"
+    },
+    {
+      "alternativeText": "Night City Tour in Basel with Historical Costumes",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Basel_Stadtfuehrung_Nacht_ccfb34964f.jpg"
+    },
+    {
+      "alternativeText": "Night city tour Basel with fountains and historic scenery.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Basel_Stadtfuehrung_Brunnen_24395cf2a4.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

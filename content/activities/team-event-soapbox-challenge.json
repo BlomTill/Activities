@@ -1,0 +1,125 @@
+{
+  "id": "247",
+  "slug": "team-event-soapbox-challenge",
+  "name": "Soapbox Challenge for Team Event Across Switzerland",
+  "description": "Discover Soapbox Challenge for Team Event Across Switzerland in Switzerland.",
+  "longDescription": "Discover Soapbox Challenge for Team Event Across Switzerland in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "102",
+    "title": "Competition",
+    "slug": "competition",
+    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/competition/team-event-soapbox-challenge/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Fertige Seifenkiste",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b72cea760f5519188d3eeb0cbe2c9193.JPG"
+    },
+    {
+      "alternativeText": "Teamarbeit",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e1434ee75fdd06f6f491cc36f5f8d41f.JPG"
+    },
+    {
+      "alternativeText": "Teamarbeit",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/287dd1e3b98f5d0a46e6ea5cce9913e6.JPG"
+    },
+    {
+      "alternativeText": "Teamarbeit",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b9a6124241590676c23873ecfa44c41b.JPG"
+    },
+    {
+      "alternativeText": "Teamarbeit",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5232d3ec5831dddbc4a8fbc0acd323e.JPG"
+    },
+    {
+      "alternativeText": "Teamarbeit",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d3b98fe0665f5eb57bd78e273053c67.JPG"
+    },
+    {
+      "alternativeText": "Teamarbeit",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f68ac3e6da6361d26cf7aae1809cd61c.JPG"
+    },
+    {
+      "alternativeText": "Teamarbeit",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6b82d8170a058ed43f2a3bbded5bf2fe.JPG"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b82d0d2a86cfcc322e605f1e724cf919.jpeg"
+    },
+    {
+      "alternativeText": "Teamarbeit",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3073c08f44a1be293b5ccaacc5342326.jpeg"
+    },
+    {
+      "alternativeText": "Fertige Seifenkiste",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c21f366ca2541bd8be6778d665b244fc.jpeg"
+    },
+    {
+      "alternativeText": "Fertige Seifenkiste",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ab2b88f59cdb963f8e0a01442b87a6a.jpeg"
+    },
+    {
+      "alternativeText": "Fertige Seifenkiste",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d587c9e9b26270522b4afc42f0c5afb1.JPG"
+    },
+    {
+      "alternativeText": "Fertige Seifenkiste",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ebdb3dcdbd8b331fa503751c9e744a5.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

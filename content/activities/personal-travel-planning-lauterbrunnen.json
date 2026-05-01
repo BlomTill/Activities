@@ -1,0 +1,102 @@
+{
+  "id": "1330",
+  "slug": "personal-travel-planning-lauterbrunnen",
+  "name": "Personal itinerary planning with the professional in Lauterbrunnen via video call",
+  "description": "Discover Personal itinerary planning with the professional in Lauterbrunnen via video call in Switzerland.",
+  "longDescription": "Discover Personal itinerary planning with the professional in Lauterbrunnen via video call in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "106",
+    "title": "Travel preparation",
+    "slug": "travel-preparation",
+    "description": "Let a professional prepare your trip for you. Preparing a trip is not only time-consuming, it often requires a lot of detailed knowledge. Local travel professionals do this work for you. For example, in a video call or a personal conversation, you ask your questions or requirements for the trip. If you wish, all the necessary tickets will be put together and booked for you. You will receive the complete package after the consultation\n"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/travel-preparation/personal-travel-planning-lauterbrunnen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lauterbrunnen with yellow flowers and church in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00005_c750fa21ce.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen Alpine panorama with snow-covered peaks and green slopes",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00007_d16f051769.jpeg"
+    },
+    {
+      "alternativeText": "View from a wooden door of the mountains in Lauterbrunnen",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00008_2f9b9187b5.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen with a view of mountains and church, surrounded by green meadows",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00009_8be4828ca1.jpeg"
+    },
+    {
+      "alternativeText": "Snowboarding in Lauterbrunnen with a view of the Eiger in winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00022_4b8831fb90.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding in Lauterbrunnen with red parachute over the landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00023_db65bd15fc.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen with a view of the mountains and the sun, meadows and soft light",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00025_a6c5784a2f.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen landscape by the lake with mountains in the background and clear water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00026_4742717804.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen, view of green meadows, flowers and mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00044_0d14f2d3ee.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen Snow Hiking, people enjoying the view, mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00014_94ba889608.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

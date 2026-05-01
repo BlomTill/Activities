@@ -1,0 +1,85 @@
+{
+  "id": "774",
+  "slug": "culinary-hike-forest-and-water-from-flims",
+  "name": "Culinary hike \"Forest and Water\" from Flims",
+  "description": "Discover Culinary hike \"Forest and Water\" from Flims in Switzerland.",
+  "longDescription": "Discover Culinary hike \"Forest and Water\" from Flims in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/culinary-hike-forest-and-water-from-flims/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kulinarische Wanderung",
+      "caption": "Flims Laax",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b477f22f44d01f796e851f72d2992270.jpg"
+    },
+    {
+      "alternativeText": "Kulinarik_Trail_Wald_und_Wasser_Caumasee_Flims_Laax",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e4b05d1036c9b4a8e9bf0906af997ef1.jpg"
+    },
+    {
+      "alternativeText": "Kopie von Caumasee 10 - Seraina",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ac2d91011cc5f13e4f2e6585bf1fdef.jpg"
+    },
+    {
+      "alternativeText": "Kopie von Caumasee 2 - Seraina",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/20c494c1ec9a901a6a4f98ae05f7dc48.jpg"
+    },
+    {
+      "alternativeText": "Kopie von 05 lake-pixabay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4268b71d7955db7c0ac801616e10f1a9.jpg"
+    },
+    {
+      "alternativeText": "01 lake-cresta pixabay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2bd17a7148db10cd342bcaa076f69546.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

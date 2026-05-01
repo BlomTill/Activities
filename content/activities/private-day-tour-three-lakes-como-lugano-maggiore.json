@@ -1,0 +1,108 @@
+{
+  "id": "390",
+  "slug": "private-day-tour-three-lakes-como-lugano-maggiore",
+  "name": "Private Day Tour Three Lakes: Como, Lugano, Maggiore",
+  "description": "Discover Private Day Tour Three Lakes: Como, Lugano, Maggiore in Switzerland.",
+  "longDescription": "Discover Private Day Tour Three Lakes: Como, Lugano, Maggiore in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/private-day-tour-three-lakes-como-lugano-maggiore/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/51b6838af5306a92c8b082a889068e14.jpg"
+    },
+    {
+      "alternativeText": "Hero",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/443bcc4a05c8e3ac00f1d91df1d3215a.jpg"
+    },
+    {
+      "alternativeText": "2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a5a391430674b54f6215aa96acdc583.jpg"
+    },
+    {
+      "alternativeText": "3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e43e98fe1f92377c2b26bf81a9ec8546.jpg"
+    },
+    {
+      "alternativeText": "4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dd4300d6d4f1879d4b202ac528822ef8.jpg"
+    },
+    {
+      "alternativeText": "5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fb0124956319de10ef18142609d4e626.jpg"
+    },
+    {
+      "alternativeText": "7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4d5de0d17ae9bf0ab04999c81cedc932.jpg"
+    },
+    {
+      "alternativeText": "8",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/005530d8ff5ef2b65db4ca74d8f9184b.jpg"
+    },
+    {
+      "alternativeText": "9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3c4caef19a03f6162b7b387a7cca94da.jpg"
+    },
+    {
+      "alternativeText": "11",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/54cc59107ba753e4197d89fbec916542.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "lugano"
+  ],
+  "featured": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "369",
+  "slug": "ski-trip-grindelwald-for-beginners-from-lucerne",
+  "name": "From Lucerne: Day trip to Grindelwald with ski course for beginners",
+  "description": "Discover From Lucerne: Day trip to Grindelwald with ski course for beginners in Switzerland.",
+  "longDescription": "Discover From Lucerne: Day trip to Grindelwald with ski course for beginners in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/ski-trip-grindelwald-for-beginners-from-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Skiers in Grindelwald in winter, snow and mountains, active movement",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_Skifahren_Winter_Best_of_Switzerland_74c0cec50e.jpg"
+    },
+    {
+      "alternativeText": "Bodmi Arena Grindelwald with children playing in the snow and skiing.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bodmi_Arena_Best_of_Switzerland_7e2aaa58b1.jpg"
+    },
+    {
+      "alternativeText": "Skiing in Grindelwald beginners in the snow with skiers and huts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bodmi_Arena_Skifahren_Best_of_Switzerland_e2a47e6d4f.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald winter features snow-covered mountains and a ski resort in the Jungfrau region.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_Winter_Best_of_Switzerland_3db33d11a1.jpg"
+    },
+    {
+      "alternativeText": "Ski instructor explains skiing to beginners in Oberstdorf",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Skilehrer_Anfaenger_Best_of_Switzerland_57508125fa.jpg"
+    },
+    {
+      "alternativeText": "Ski instructor course with participants on the slopes in winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Skilehrer_Kurs_Best_of_Switzerland_d686b03db2.jpg"
+    },
+    {
+      "alternativeText": "Skiing in Grindelwald with skiers on the slope in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Zauberteppich_Best_of_Switzerland_a1b9e90f8e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne",
+    "grindelwald"
+  ],
+  "featured": false
+}

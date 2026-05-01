@@ -1,0 +1,100 @@
+{
+  "id": "1305",
+  "slug": "train-ticket-domodossola-italy-switzerland",
+  "name": "Train ticket from Domodossola (Italy) to Switzerland",
+  "description": "Discover Train ticket from Domodossola (Italy) to Switzerland in Switzerland.",
+  "longDescription": "Discover Train ticket from Domodossola (Italy) to Switzerland in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "455",
+      "title": "Italy"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/train-ticket-domodossola-italy-switzerland/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Zürich station: modern station with trains and the lively hustle of travelers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0_Bahnhof_Zuerich_Seraina_f3e66e4f9c.jpg"
+    },
+    {
+      "alternativeText": "Rhaetian Railway: impressive train ride along the Rhine Gorge with green mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Rhaetische_Bahn_Rheinschlucht_Seraina_Zellweger_0e51b967f6.jpg"
+    },
+    {
+      "alternativeText": "Voralpenexpress: modern train with comfortable seats in Switzerland for travelers in winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Voralpenexpress_Seraina_63efeb7ee5.jpg"
+    },
+    {
+      "alternativeText": "Ospizio Bernina: train station building with a view of the mountain and train in summer, ideal for traveling.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/72_Ospizio_Bernina_Seraina_7c0030a94b.jpg"
+    },
+    {
+      "alternativeText": "SBB train: modern train in Switzerland passes by the station, fast and comfortable for travelers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_Unsplash_bf6f94f077.jpg"
+    },
+    {
+      "alternativeText": "View BLS: Look at the mountains of Switzerland and a picturesque cityscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_BLS_Zug_Unsplash_8f66e2bd36.jpg"
+    },
+    {
+      "alternativeText": "Train journey: relax during the train ride and enjoy the view from the window.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bahnreise_Unsplash_ab9838a6da.jpg"
+    },
+    {
+      "alternativeText": "SBB Intercity Train: modern interior with comfortable seats for relaxed train journeys through Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Intercity_Zug_Seraina_4f71bba230.jpg"
+    },
+    {
+      "alternativeText": "SBB Intercity train at the station with narrow tracks and a clear blue sky. Experience the Swiss landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Intercity_Zug_1_Seraina_878e2547de.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train"
+  ],
+  "featured": false
+}

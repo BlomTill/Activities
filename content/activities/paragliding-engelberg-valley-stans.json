@@ -1,0 +1,87 @@
+{
+  "id": "911",
+  "slug": "paragliding-engelberg-valley-stans",
+  "name": "Paragliding in Engelberg Valley from Stans",
+  "description": "Discover Paragliding in Engelberg Valley from Stans in Switzerland.",
+  "longDescription": "Discover Paragliding in Engelberg Valley from Stans in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Engelbergertal",
+      "caption": "Gleitschirmfliegen ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86d8898cccaa6170e5c27230dc396a30.jpg"
+    },
+    {
+      "alternativeText": "Sicht auf den Vierwaldstättersee",
+      "caption": "Gleitschirmfliegen ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/62887abdf877ad5c107c575ff76c8641.JPG"
+    },
+    {
+      "alternativeText": "G0029184",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/19b1675e8f19a5e1d61910332fd9f95d.jpg"
+    },
+    {
+      "alternativeText": "GOPR4544",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b12d56eb0d684b9a52ed66723b069049.JPG"
+    },
+    {
+      "alternativeText": "GOPR7520",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3cbbb6cb51c842a94f608f7a1673dbcf.jpg"
+    },
+    {
+      "alternativeText": "IMG_3139",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c55137264451c0862e4065e370b3b639.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding"
+  ],
+  "featured": false
+}

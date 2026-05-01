@@ -1,0 +1,86 @@
+{
+  "id": "741",
+  "slug": "hiking-ticket-grindelwald-schreckfeld-with-the-firstbahn",
+  "name": "Hiking ticket Grindelwald - Schreckfeld with the Firstbahn",
+  "description": "Discover Hiking ticket Grindelwald - Schreckfeld with the Firstbahn in Switzerland.",
+  "longDescription": "Discover Hiking ticket Grindelwald - Schreckfeld with the Firstbahn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/hiking-ticket-grindelwald-schreckfeld-with-the-firstbahn/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Grindelwald First Cable Car: A combination of nature, mountains, and breathtaking views of the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Seilbahn_Grindelwald_First_Seraina_d0a4fdcfa6.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald Mountain Cart: thrilling descent in the mountains with a view of the Eiger and sea of clouds.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/grindelwald_first_sommer_mountain_cart_eiger_611f830878.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald Mountain Cart on the track, sun, Wetterhorn, summer, experience adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/grindelwald_first_sommer_mountain_cart_firstbahn_wetterhorn_f8b56d1d0e.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald mountain cart with children on the meadow, cows in the background, magnificent mountain landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/grindelwald_first_sommer_mountain_cart_kuh_1_28fb076fc0.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald Glider: Experience winter at the Eiger with spectacular views and adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/grindelwald_first_winter_first_glider_eiger_01_7f2cb4a23c.jpg"
+    },
+    {
+      "alternativeText": "The Grindelwald First cable car offers a spectacular view of the Alps and is a popular destination for hikers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Seilbahn_Grindelwald_First_1_Seraina_058b564c9e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "hiking",
+    "grindelwald"
+  ],
+  "featured": false
+}

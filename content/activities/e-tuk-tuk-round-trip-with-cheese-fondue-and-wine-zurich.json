@@ -1,0 +1,104 @@
+{
+  "id": "682",
+  "slug": "e-tuk-tuk-round-trip-with-cheese-fondue-and-wine-zurich",
+  "name": "Fondue tuk round trip in Zurich",
+  "description": "Discover Fondue tuk round trip in Zurich in Switzerland.",
+  "longDescription": "Discover Fondue tuk round trip in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/e-tuk-tuk-round-trip-with-cheese-fondue-and-wine-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "E-Tuk Sightseeing Fondue Zurich with Friends, Cheese Fondue, Night",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_0269aeff36280d670e127eed1c89ced3_cf4e1e1c88.jpg"
+    },
+    {
+      "alternativeText": "Zürich E-Tuk Night Ride Through the City with Illuminated Background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_c15e0828977f1a21dcaf16542ebde406_b388eebf37.jpg"
+    },
+    {
+      "alternativeText": "E-Tuk fondue with melted cheese and cheerful guests at night.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_698a7d1425e3ddddd6e6fc1ff8d56f95_56b1be4b73.jpg"
+    },
+    {
+      "alternativeText": "Tuk Tuk Fondue in Zurich, seasonal specialty by the lake",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fondue_0d66292067.jpg"
+    },
+    {
+      "alternativeText": "Fondue with wine, enjoyable atmosphere, people in city life.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_f4b396cdea2b639274a06aae4d03d5e5_fa648d87ac.jpg"
+    },
+    {
+      "alternativeText": "E-Tuk during a city tour in a group with cocktails.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_2f49625739aa3e7c658a6e44bbe897cd_c92a9babaf.jpg"
+    },
+    {
+      "alternativeText": "Tuk-Tuk ride in Zurich on Bahnhofstrasse with participants and colorful balloons.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Bahnhofstrasse_ec0e716555.jpg"
+    },
+    {
+      "alternativeText": "Tuk Tuk ride in Zurich, people in the vehicle, sunny day",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Rundfahrt_775dd128f2.jpg"
+    },
+    {
+      "alternativeText": "Tuk-Tuk ride through Zurich with colorful vehicles and autumn trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_d997614f01.jpg"
+    },
+    {
+      "alternativeText": "Tuk-Tuk vehicles in Zurich on a city street",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrzeuge_01dc3a7c58.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "fondue"
+  ],
+  "featured": false
+}

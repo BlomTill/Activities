@@ -1,0 +1,87 @@
+{
+  "id": "1482",
+  "slug": "tschentenalp-sledding-ticket-optional-sled-rental",
+  "name": "Tschentenalp toboggan pass with optional toboggan rental",
+  "description": "Discover Tschentenalp toboggan pass with optional toboggan rental in Switzerland.",
+  "longDescription": "Discover Tschentenalp toboggan pass with optional toboggan rental in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "31",
+    "title": "Sledding and bobsleighing",
+    "slug": "sledding",
+    "description": "Book your ticket here for tobogganing or bobsledding. Tobogganing is a blast in Switzerland. In each of the 345 ski resorts, you’ll find at least one toboggan run. Once you go tobogganing, you’ll be hooked. The crunching of the runners on fresh snow and the thrilling fun in the midst of a magical winter landscape has enchanted people since ancient times. In bobsledding, teams ride in special sleds called bobs down an icy bobsled track. There, they reach speeds of up to 150 km/h."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/the-tschentenalp/tschentenalp-sledding-ticket-optional-sled-rental/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Family sledding on Tschentenalp, blue sky, snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_9c0fcb06fe4bcee863f5c2eca54e5704_d2ad2525d7.png"
+    },
+    {
+      "alternativeText": "Sledding on the Tschentenalp in the snow with family",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_1b0ea84e83b54e0f58b6f2978ed22960_885e81ea2c.png"
+    },
+    {
+      "alternativeText": "Family sledding on the Tschentenalp in winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_63eb37b16cfd806b58f33a7e52a94fa9_be627495ff.jpg"
+    },
+    {
+      "alternativeText": "Sledding on the Tschentenalp with a sled in the snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Tschentenalp_Skibock_46985bc690.jpg"
+    },
+    {
+      "alternativeText": "Tobogganing on Tschentenalp in the snow, winter activity in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_76a81abd5f1354ff66f5e739df302120_b43c934b6c.jpg"
+    },
+    {
+      "alternativeText": "Sledding on the Tschentenalp, wooden sleds, snow, mountain landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Tschentenalp_Schlitten_12325ca961.webp"
+    },
+    {
+      "alternativeText": "Sledding Tschentenalp Mountain Station with sled and snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Tschentenalp_Bergstation_3950027176.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

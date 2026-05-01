@@ -1,0 +1,95 @@
+{
+  "id": "478",
+  "slug": "shortcut-tour-wow-city-rally-zurich",
+  "name": "\"Shortcut Tour\" WOW City Rally in Zurich",
+  "description": "Discover \"Shortcut Tour\" WOW City Rally in Zurich in Switzerland.",
+  "longDescription": "Discover \"Shortcut Tour\" WOW City Rally in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/shortcut-tour-wow-city-rally-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "WOW City Rally: Enjoy fresh water sources in the city, ideal for groups and children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_WOW_City_Rally_quer_RGB_a4bb070a0b.png"
+    },
+    {
+      "alternativeText": "WOW City Rally: Fun character against a creative background, ideal for shared adventures with kids.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_WOW_City_Rally_Pressemappe_A4_quer_RGB_f831b0857d.jpg"
+    },
+    {
+      "alternativeText": "WOW City Rally: Discover the picturesque city of Zurich with impressive architecture and waterways.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_WOW_City_Rally_Pressemappe_A4_quer_RGB_ohne_3449e7f915.jpg"
+    },
+    {
+      "alternativeText": "WOW City Rally: Discover the city through a crystal ball with historic buildings and colorful flags.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_WOW_City_Rally_Pressemappe_A4_quer_RGB_ohne_0990733be5.jpg"
+    },
+    {
+      "alternativeText": "WOW City Rally Shortcut: Discover the city with friends and experience exciting adventures in creative styles.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_WOW_City_Rally_Pressemappe_A4_RGB_3c0173b700.jpg"
+    },
+    {
+      "alternativeText": "WOW City Rally: discover the city through an interactive adventure with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_WOW_City_Rally_quer_RGB_8696af0d2e.png"
+    },
+    {
+      "alternativeText": "WOW City Rally Shortcut: Fun and Games in the City with Friends and Team Activities for Kids",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_WOW_City_Rally_quer_RGB_a1b7d373e6.png"
+    },
+    {
+      "alternativeText": "WOW City Rally: Experience an exciting team event with group activities in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/09_WOW_City_Rally_quer_RGB_9a21d8e32a.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

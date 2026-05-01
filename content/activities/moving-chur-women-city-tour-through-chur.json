@@ -1,0 +1,85 @@
+{
+  "id": "1242",
+  "slug": "moving-chur-women-city-tour-through-chur",
+  "name": "\"Moving Chur women's stories\" City tour through Chur",
+  "description": "Discover \"Moving Chur women's stories\" City tour through Chur in Switzerland.",
+  "longDescription": "Discover \"Moving Chur women's stories\" City tour through Chur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/moving-chur-women-city-tour-through-chur/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Women’s Tour in Chur: Discover the art, nature, and history of the region with a local guide.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Wahl_2020_Trilogie_Frauenfuehrung_Chur_Tourismus_e495d69df4.jpg"
+    },
+    {
+      "alternativeText": "Wassali Women’s Tour in Chur: Cultural Exploration and Historical Insights into the City.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wassali_Frauenfuehrung_Chur_Tourismus_59be8d0f90.jpg"
+    },
+    {
+      "alternativeText": "Guided tour of the old town of Chur – experience history and culture, an ideal group activity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_Chur_Tourismus_dc0319f5f9.JPG"
+    },
+    {
+      "alternativeText": "Experience a city tour of Chur through the old town with sights and history.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_9_Stadtfuehrung_Chur_Chur_Tourismus_JPG_b72072de38.jpg"
+    },
+    {
+      "alternativeText": "City tour in Chur: Discover the old town with interesting buildings and groups of visitors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_8_Stadtfuehrung_Chur_Chur_Tourismus_JPG_f31259c6e9.jpg"
+    },
+    {
+      "alternativeText": "City tour through the old town of Chur with cultural highlights and historical buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_7_Stadtfuehrung_Chur_Chur_Tourismus_JPG_81ae0168c7.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

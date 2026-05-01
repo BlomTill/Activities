@@ -1,0 +1,165 @@
+{
+  "id": "190",
+  "slug": "canyoning-ticino-for-beginners-boggera-gorge-hiking",
+  "name": "Boggera canyoning for beginners",
+  "description": "Discover Boggera canyoning for beginners in Switzerland.",
+  "longDescription": "Discover Boggera canyoning for beginners in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-beginners-boggera-gorge-hiking/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Canyoning Boggera: exciting adventure outdoors, ideal for groups and children in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_199_77a079147d.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience adventure with our team in nature while canyoning in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_187_67a60f8054.JPG"
+    },
+    {
+      "alternativeText": "Beginner Canyoning Group in Boggera, Waterfall and Rocks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Boggera_Anfaenger_Canyoning_432f7527c5.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Group in wetsuits in front of waterfall, ideal for adventures in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_209_145fe49dd1.jpg"
+    },
+    {
+      "alternativeText": "Beginner Canyoning in Boggera, Competition in the Water, Athletes in Wetsuits",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Boggera_Anfaenger_Canyoning_Wasser_98a0d5aaa7.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience thrilling adventures with friends in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_141_31ab332029.JPG"
+    },
+    {
+      "alternativeText": "Boggera Canyoning: Person slides down a waterfall, surrounded by rocks and water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rutsche_Boggera_Canyoning_289f8ea478.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Boggera, rappelling at the waterfall, sunny day, adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Boggera_d77267b016.jpg"
+    },
+    {
+      "alternativeText": "Boggera Canyoning Ticino, group during canyoning, life vest, rocks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Boggera_Canyoning_164670c422.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience an exciting adventure in the nature of the Swiss summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Boggera_10m_jump_fdfb009d82.webp"
+    },
+    {
+      "alternativeText": "Canyoning in Boggera: Experience thrilling adventures in the mountains and nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GH_011946_164521b0aa.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience thrilling canyoning in nature at Boggera in the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_170_6093a280f0.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience thrilling adventures in nature with friends during the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_173_ccab4ba533.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience exciting adventures in summer with friends in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_174_51bc7a3f6b.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience exciting adventures with an experienced team in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_175_5056721ced.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience rushing water in breathtaking nature during the adventure in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_188_24fbe66060.JPG"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience exciting canyoning in the mountains with your team in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_201_aa59e97fd3.JPG"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Watersports with friends in nature, adventure in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_210_da087341b4.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: exciting adventure activity in nature during the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_271_58108d04ae.JPG"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience adventure in the clear water surrounded by unique nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_292_23103083e3.JPG"
+    },
+    {
+      "alternativeText": "Canyoning in Boggera: An unforgettable adventure in the Swiss mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GX_011939_54f6140d82.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Boggera: Experience adventure in nature with friends through watersports.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GX_011943_3d2218e8ce.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "862",
+  "slug": "public-guided-tour-emsorama",
+  "name": "Free guided tour EMSORAMA in Domat Ems",
+  "description": "Discover Free guided tour EMSORAMA in Domat Ems in Switzerland.",
+  "longDescription": "Discover Free guided tour EMSORAMA in Domat Ems in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museums/public-guided-tour-emsorama/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Family visit to Emsorama, children explore the globe, modern museum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fuehrung_domat_ems_emsorama_1_6e8062c06e.jpg"
+    },
+    {
+      "alternativeText": "Emsorama exhibition in Emsland showcases interactive exhibits.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fuehrung_domat_ems_emsorama_2_80a96f92a8.jpg"
+    },
+    {
+      "alternativeText": "Emsorama: Child observes adults through slits in a wall, museum participation, 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013005610309_sized_800_0_f486bfbd58.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,122 @@
+{
+  "id": "859",
+  "slug": "world-nature-forum-private-guided-tour",
+  "name": "World Nature Forum private guided tour",
+  "description": "Discover World Nature Forum private guided tour in Switzerland.",
+  "longDescription": "Discover World Nature Forum private guided tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museums/world-nature-forum-private-guided-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "World Nature Forum: Kids explore interactive nature exhibition in exciting museum.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_DSC_4821_65fe771677.jpg"
+    },
+    {
+      "alternativeText": "Alps Learning: Explore the fascinating world of the Alps at the World Nature Forum with group activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2022_Alpen_Lernen_LWB_JH_126_c8f58c6d09.jpg"
+    },
+    {
+      "alternativeText": "World Nature Forum Films: impressive presentation of nature in the cinema hall with groups of visitors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_4814_596169fd44.jpg"
+    },
+    {
+      "alternativeText": "LWB Alps learning: Group activities in the Alps for nature and wildlife research.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/LWB_Alpen_Lernen_2022_8_5e8850e95d.jpg"
+    },
+    {
+      "alternativeText": "WNF Dialects: Experience regional languages and their diversity at the World Nature Forum.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_WNF_Dialekte_eb8ca0f06c.jpg"
+    },
+    {
+      "alternativeText": "WNF Alpine Animals: High-quality exhibits of the alpine world featuring numerous animals from the region.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Alpentiere_c9e1902d1e.jpg"
+    },
+    {
+      "alternativeText": "World Nature Forum: Interactive exhibition on nature in the region with inspiring information and impressions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Aufgang_0f74b6b269.jpg"
+    },
+    {
+      "alternativeText": "Pollinators: Interactive exhibition about pollinators featuring butterflies and a learning game.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Bestaeuber_6f46d982de.jpg"
+    },
+    {
+      "alternativeText": "Thistle Butterfly: Photography of a butterfly in the World Nature Forum with a person in the foreground.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Distelfalter_95dc5ab838.jpg"
+    },
+    {
+      "alternativeText": "World Nature Forum Flora: Discover fascinating plants and animals in an informative exhibition space.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Flora_bc2557addf.jpg"
+    },
+    {
+      "alternativeText": "Jungfrau Railway: View from the train of the impressive Jungfrau and the surrounding mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Jungfraubahn_0f9c3b3d0a.jpg"
+    },
+    {
+      "alternativeText": "Cinema: Experience the impressive visualizations of a 360-degree projection in the movie room.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Neuer_Film_1c719ed857.jpg"
+    },
+    {
+      "alternativeText": "Relief: impressive 3D representation of the Alpine landscape with mountains and valleys.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Relief_0f4f7b3675.jpg"
+    },
+    {
+      "alternativeText": "Sandbox: creative sand play activity for children to experiment with colors and shapes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/WNF_Sandbox_e62613f7c9.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

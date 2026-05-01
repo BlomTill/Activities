@@ -1,0 +1,115 @@
+{
+  "id": "1354",
+  "slug": "ufl-unbound-fighting-league-virtual-reality-game-zurich",
+  "name": "\"UFL- Unbound Fighting League\" virtual reality game in Zurich",
+  "description": "Discover \"UFL- Unbound Fighting League\" virtual reality game in Zurich in Switzerland.",
+  "longDescription": "Discover \"UFL- Unbound Fighting League\" virtual reality game in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/ufl-unbound-fighting-league-virtual-reality-game-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "UFL: Unbound Fighting League in the spectacular sports stadium with enthusiastic spectators",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_07_05_bc1fc8f9ed.png"
+    },
+    {
+      "alternativeText": "UFL: Intense fight event with participants and spectators in a vibrant arena.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_07_32_24464f8c3f.png"
+    },
+    {
+      "alternativeText": "UFL: Exciting E-Sport tournament with action in the arena and an enthusiastic audience.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_08_23_7fb22646c3.png"
+    },
+    {
+      "alternativeText": "UFL: Exciting fight in the Unbound Fighting League with spectacular movements and team strategies.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_09_10_ef16460184.png"
+    },
+    {
+      "alternativeText": "UFL: exciting match at the Unbound Fighting League with enthusiastic spectators.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_09_29_335becbee6.png"
+    },
+    {
+      "alternativeText": "UFL: Exciting combat game with passionate spectators and spectacular action scenes",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_09_56_8ec8f64f5b.png"
+    },
+    {
+      "alternativeText": "UFL: Exciting combat sports competition between two fighters with impressive effects.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_10_20_1ed185def8.png"
+    },
+    {
+      "alternativeText": "UFL: Exciting VR combat arena with intense battles and futuristic characters.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_10_45_cd5f41b7b7.png"
+    },
+    {
+      "alternativeText": "UFL: exciting e-sport event with impressive battles and VR technology.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_11_00_ffaa6830f4.png"
+    },
+    {
+      "alternativeText": "UFL: Experience thrilling battles in the Unbound Fighting League with spectacular VR action graphics.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_11_25_983847667b.png"
+    },
+    {
+      "alternativeText": "UFL: action-packed event of the Unbound Fighting League with exciting fights in an arena.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_11_42_dfe5051b40.png"
+    },
+    {
+      "alternativeText": "UFL: thrilling scenes from the Unbound Fighting League with cheering crowds and exciting fights.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_17_um_09_11_56_0bcf2eb066.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

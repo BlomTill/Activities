@@ -1,0 +1,65 @@
+{
+  "id": "1450",
+  "slug": "coffee-roasting-workshop-with-aperitif",
+  "name": "Coffee roasting workshop with aperitif",
+  "description": "Discover Coffee roasting workshop with aperitif in Switzerland.",
+  "longDescription": "Discover Coffee roasting workshop with aperitif in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/coffee-roasting-workshop-with-aperitif/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "coffee-roasting-768x576",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f74e7307f7c5fec080848a1c8b7f193f.jpg"
+    },
+    {
+      "alternativeText": "cupping-in-the-roastery-1000x500",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/59dc1380e308b38d193eaabf393cd83f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

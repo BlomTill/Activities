@@ -1,0 +1,80 @@
+{
+  "id": "674",
+  "slug": "the-keepers-outdoor-escape-game-wadenswil",
+  "name": "\"The Keepers\" Outdoor Escape Game Wädenswil",
+  "description": "Discover \"The Keepers\" Outdoor Escape Game Wädenswil in Switzerland.",
+  "longDescription": "Discover \"The Keepers\" Outdoor Escape Game Wädenswil in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-keepers-outdoor-escape-game-wadenswil/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "1 The Keepers Pyramid",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4e913590cb3bf9c1faad5a93f50dfd19.jpg"
+    },
+    {
+      "alternativeText": "5 The Keepers_Gameplay (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ff303d5d94545632c72310fddd79baf8.jpg"
+    },
+    {
+      "alternativeText": "6 The Keepers_Gameplay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d626835d40195f0b424d7b106b9766b.jpg"
+    },
+    {
+      "alternativeText": "7 TheKeepers Gameplay Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0cb1f6ea9810fed841c2c68f2742211a.jpg"
+    },
+    {
+      "alternativeText": "escape-room-wadenswil-banner",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/19652900444aa6233acd99fc4aef1375.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

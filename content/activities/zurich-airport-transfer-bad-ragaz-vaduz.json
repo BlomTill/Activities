@@ -1,0 +1,82 @@
+{
+  "id": "1323",
+  "slug": "zurich-airport-transfer-bad-ragaz-vaduz",
+  "name": "From Zurich Airport: Transfer to Bad Ragaz or Vaduz",
+  "description": "Discover From Zurich Airport: Transfer to Bad Ragaz or Vaduz in Switzerland.",
+  "longDescription": "Discover From Zurich Airport: Transfer to Bad Ragaz or Vaduz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "105",
+    "title": "Transfer",
+    "slug": "transfer",
+    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/transfer/zurich-airport-transfer-bad-ragaz-vaduz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Mercedes S-Class: Elegant interior with state-of-the-art technology and luxurious materials.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_92d43ae649.jpg"
+    },
+    {
+      "alternativeText": "Mercedes E Class in front of the forest hotel, elegant design, luxury vehicle, perfect backdrop for your excursions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_E_Class_62e79d3645.jpg"
+    },
+    {
+      "alternativeText": "Mercedes S-Class: luxurious interior with modern screens and high-quality furnishings in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_2_1ca90a4a51.jpg"
+    },
+    {
+      "alternativeText": "Mercedes V Class: Family car in the Alps, ideal for travel and adventures with the family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_2_a1535c3f70.jpg"
+    },
+    {
+      "alternativeText": "Mercedes V Class: elegant interior for group travel, ideal for family or friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_ccddfe100f.jpg"
+    },
+    {
+      "alternativeText": "S-Class: Black luxury car in front of an elegant building in a beautiful summer garden.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/S_Class_b0a6951375.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

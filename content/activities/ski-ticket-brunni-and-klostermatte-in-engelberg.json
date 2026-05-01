@@ -1,0 +1,98 @@
+{
+  "id": "813",
+  "slug": "ski-ticket-brunni-and-klostermatte-in-engelberg",
+  "name": "Ski ticket Brunni and Klostermatte in Engelberg",
+  "description": "Discover Ski ticket Brunni and Klostermatte in Engelberg in Switzerland.",
+  "longDescription": "Discover Ski ticket Brunni and Klostermatte in Engelberg in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "29",
+    "title": "Lift tickets",
+    "slug": "lift-tickets",
+    "description": "Discover and book your next ski ticket in Switzerland here. Ski tickets are offered for different time periods. They are valid for several hours or half a day, one day, several days or a whole season. With a ski ticket you get access to the ski area with all ski lifts and cable cars. Often other attractions are included. In total there are about 7000 km of ski slopes in Switzerland. Some higher ski resorts are located on a glacier. Thanks to them, depending on the region, it is even possible to ski in summer."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/lift-tickets/ski-ticket-brunni-and-klostermatte-in-engelberg/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Ski Ticket Brunni: Experience the snow-covered Alps and ski adventures in the winter landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Brunni_2_Brunni_Bergbahnen_c19b2daead.jpg"
+    },
+    {
+      "alternativeText": "Ski Ticket Brunni: Skiing in Klostermatte, Winter Wonderland in the Canton of Uri, Snow Fun for Everyone.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winter_Skilift_Brunni_Gondel_Brunni_Bahnen_4af228744d.jpg"
+    },
+    {
+      "alternativeText": "Ski ticket Brunni: Experience winter joy while skiing in the impressive mountains with snow-covered slopes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Brunni_1_Brunni_Bergbahnen_23529c71d6.jpg"
+    },
+    {
+      "alternativeText": "Brunni Gondola: This gondola takes you up the mountain, perfect for your ski holiday in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunni_Gondel_Brunni_Bahnen_c3ed551afc.jpg"
+    },
+    {
+      "alternativeText": "Brunni Gondola: Ride the gondola over the snowy Alps in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunni_Gondel_1_Brunni_Bergbahnen_3f08938c2d.JPG"
+    },
+    {
+      "alternativeText": "Brunni Winter Cable Cars: Cable car in winter through snowy fir trees and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunni_Winter_Bergbahnen_Brunni_Bahnen_169aa0da17.jpg"
+    },
+    {
+      "alternativeText": "Brunni Winter: impressive mountain railway in front of a snow-covered peak and clear blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seilbahn_Brunni_Winter_Brunni_Bahnen_945571cb8e.jpg"
+    },
+    {
+      "alternativeText": "Brunni Winter: Snow-covered mountains and forests, perfect for winter activities in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wandern_Winter_Brunni_4_Brunni_Bergbahnen_b8b42bb731.jpg"
+    },
+    {
+      "alternativeText": "Brunni Winter Mountain Railways: idyllic cabin in the snow, perfect for winter activities in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winterlandschaft_Brunni_Haus_Brunni_Bahnen_d2388f6343.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

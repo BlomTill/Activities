@@ -1,0 +1,76 @@
+{
+  "id": "1317",
+  "slug": "from-geneva-transfer-to-basel-bern-lucerne-zurich",
+  "name": "From Geneva or Geneva Airport: Transfer to Basel, Bern, Lucerne or Zurich",
+  "description": "Discover From Geneva or Geneva Airport: Transfer to Basel, Bern, Lucerne or Zurich in Switzerland.",
+  "longDescription": "Discover From Geneva or Geneva Airport: Transfer to Basel, Bern, Lucerne or Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "105",
+    "title": "Transfer",
+    "slug": "transfer",
+    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/transfer/from-geneva-transfer-to-basel-bern-lucerne-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Basel: picturesque waterfront promenade with bridge, trees, and calm water in the city during summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Basel_Pixabay_1916e9ec32.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: Picturesque view of the city by the lake with historic buildings and mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_Unsplash_d2c89a2aee.jpg"
+    },
+    {
+      "alternativeText": "Zurich: Picturesque cityscape by the water, with historic buildings and green hills in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Seraina_5bad19da8c.jpg"
+    },
+    {
+      "alternativeText": "Bern: View of the city with green trees and the Aare. Historical buildings and nature combined.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern_Seraina_7d0ed7b28a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne",
+    "geneva",
+    "bern"
+  ],
+  "featured": false
+}

@@ -1,0 +1,97 @@
+{
+  "id": "1161",
+  "slug": "day-pass-tariff-association-ostwind",
+  "name": "Day pass for all zones in the Ostwind tariff association",
+  "description": "Discover Day pass for all zones in the Ostwind tariff association in Switzerland.",
+  "longDescription": "Discover Day pass for all zones in the Ostwind tariff association in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "130",
+    "title": "Swiss Rail Passes",
+    "slug": "rail-pass",
+    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rail-pass/day-pass-tariff-association-ostwind/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dd36acac3daa62e4505bfa7f477895f6.jpg"
+    },
+    {
+      "alternativeText": "Äscher",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b03e38c06dbcba64c9d01d6e540a3b79.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium ",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aca7e02879d69d1e97eac670bb91d482.jpg"
+    },
+    {
+      "alternativeText": "Wasserauen",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/def49152657122c871d140373134ef78.jpg"
+    },
+    {
+      "alternativeText": "Alpstein",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6196df50c5f69229d1da01abfba485c8.jpg"
+    },
+    {
+      "alternativeText": "Alpstein",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fd721e311dfa6a361be36bebe8cbbd7b.jpg"
+    },
+    {
+      "alternativeText": "Essen in der Natur",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dd1e0f0b73d31bf41755b3364e4e2699.jpg"
+    },
+    {
+      "alternativeText": "Rapperswil",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16c06b1abe084a9ffea27a5c582bb2d0.jpg"
+    },
+    {
+      "alternativeText": "Gallusplatz St Gallen",
+      "caption": "Tarifverbund Ostwind",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c79016f02e5581b70ad6c67d8cf57f2.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

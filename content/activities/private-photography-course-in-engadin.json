@@ -1,0 +1,72 @@
+{
+  "id": "940",
+  "slug": "private-photography-course-in-engadin",
+  "name": "Private Photography Course in Engadin",
+  "description": "Discover Private Photography Course in Engadin in Switzerland.",
+  "longDescription": "Discover Private Photography Course in Engadin in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "85",
+    "title": "Photo course",
+    "slug": "photo-course",
+    "description": "Book your photography course here. You'll explore the world through the lens of your camera during a photography course. With professional guidance, you'll learn how to get the most out of your photos and either build your skills from the ground up or deepen your knowledge."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/photo-course/private-photography-course-in-engadin/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "8527958",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/896357e5118e40a231905dc438c79f9f.jpg"
+    },
+    {
+      "alternativeText": "8525525-Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8ce6b9cbbd046d1f2f9cca06f8c8930a.jpg"
+    },
+    {
+      "alternativeText": "rot_4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ce7775fc1e169bfde9d18d6b599b09cc.jpg"
+    },
+    {
+      "alternativeText": "D8E7517-Print-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9abe3831e47d2a5ddbf31ebb4bc1ceb2.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

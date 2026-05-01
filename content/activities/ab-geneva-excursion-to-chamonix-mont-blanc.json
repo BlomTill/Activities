@@ -1,0 +1,87 @@
+{
+  "id": "341",
+  "slug": "ab-geneva-excursion-to-chamonix-mont-blanc",
+  "name": "Ab Geneva: Excursion to Chamonix Mont-Blanc",
+  "description": "Discover Ab Geneva: Excursion to Chamonix Mont-Blanc in Switzerland.",
+  "longDescription": "Discover Ab Geneva: Excursion to Chamonix Mont-Blanc in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/ab-geneva-excursion-to-chamonix-mont-blanc/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Chamonix Mont-Blanc",
+      "caption": "Tagesausflug",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5a983fc743bf970d2858d6fa9d98455.jpg"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc",
+      "caption": "Tagesausflug",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3553f59f83fb7ae34ac492e4101c401a.jpg"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc",
+      "caption": "Tagesausflug",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/37d3e06fe4caee0e7562245a5a2df364.jpg"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc",
+      "caption": "Tagesausflug",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/925065aad3a20db6b73535c3351a654d.jpg"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc",
+      "caption": "Tagesausflug",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fb6920045522bc940ecefa67368bfecf.jpg"
+    },
+    {
+      "alternativeText": "Seilbahn ab Chamonix",
+      "caption": "Tagesausflug",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ee968b384fcf1da3ded754de409c455.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

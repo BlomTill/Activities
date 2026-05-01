@@ -1,0 +1,68 @@
+{
+  "id": "1409",
+  "slug": "wine-hiking-tours-of-the-cotes-de-l-orbe-vineyards-for-private-groups",
+  "name": "Wine Hiking Tours of the Côtes de l’Orbe Vineyards for Private Groups",
+  "description": "Discover Wine Hiking Tours of the Côtes de l’Orbe Vineyards for Private Groups in Switzerland.",
+  "longDescription": "Discover Wine Hiking Tours of the Côtes de l’Orbe Vineyards for Private Groups in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/wine-hiking-tours-of-the-cotes-de-l-orbe-vineyards-for-private-groups/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Gamay©WALK&WINE",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4cd569fc5a94cc979da2ad26781ad136.jpg"
+    },
+    {
+      "alternativeText": "Cheers©WALK&WINE",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c7c289f84b9661520efc85df4cbce957.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "hiking",
+    "wine"
+  ],
+  "featured": false
+}

@@ -1,0 +1,85 @@
+{
+  "id": "1104",
+  "slug": "private-premium-ski-course-adults-children-davos",
+  "name": "Private Premium Ski Lesson for Adults and Kids in Davos",
+  "description": "Discover Private Premium Ski Lesson for Adults and Kids in Davos in Switzerland.",
+  "longDescription": "Discover Private Premium Ski Lesson for Adults and Kids in Davos in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/private-premium-ski-course-adults-children-davos/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Skifahrer blickt in die Bergwelt",
+      "caption": "Skigebiet Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8eeeefaaf2148b37dd1b2a46eb096c5c.jpg"
+    },
+    {
+      "alternativeText": "Landschaft",
+      "caption": "Skigebiet Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/126bbb53aae20fe01d9fc7b13fbf6773.jpg"
+    },
+    {
+      "alternativeText": "Kind",
+      "caption": "Skigebiet Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e679d86256c48e952b5a3f6ab2e6e938.jpg"
+    },
+    {
+      "alternativeText": "Landschaft im Winter",
+      "caption": "Skigebiet Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6b0f8ebacbb3d0e232371d526398736c.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Gruppe",
+      "caption": "Skigebiet Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f0f07a667f4d544ecabb0d290c66cd7e.jpg"
+    },
+    {
+      "alternativeText": "Skitransport",
+      "caption": "Skigebiet Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5fcec9542ac758576b9dcd24a0e57cca.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "kids",
+    "davos"
+  ],
+  "featured": false
+}

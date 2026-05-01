@@ -1,0 +1,118 @@
+{
+  "id": "418",
+  "slug": "item-1772135553351-eeulp",
+  "name": "\"Griesalp UNESCO Alpine Valleys\" - E-bike tour from Interlaken",
+  "description": "Discover \"Griesalp UNESCO Alpine Valleys\" - E-bike tour from Interlaken in Switzerland.",
+  "longDescription": "Discover \"Griesalp UNESCO Alpine Valleys\" - E-bike tour from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/item-1772135553351-eeulp/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "griesalp-unesco-kiental-ebike-tour-swiss-alps-cyclists",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/03c1571a5354b791815f9200c3ad69c1.JPEG"
+    },
+    {
+      "alternativeText": "00 IMG_2366",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dd15d4757eda0630d472cc518f49e00e.JPEG"
+    },
+    {
+      "alternativeText": "01 IMG_4224",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/127e74b5c118cf59a01a24089aec925c.jpg"
+    },
+    {
+      "alternativeText": "02 IMG_4242",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a83b60e063dd03b613a8fce30f169ebb.JPEG"
+    },
+    {
+      "alternativeText": "griesalp-unesco-alpine-valley-kiental-view",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b86b2d2a05749799a30f0e80065c0f8.JPEG"
+    },
+    {
+      "alternativeText": "griesalp-unesco-ebike-tour-interlaken-group",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7e2a3ae12daf10a03afa72e6a5748a1.jpeg"
+    },
+    {
+      "alternativeText": "griesalp-unesco-kiental-steep-road-ebike-tour",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b29787d253146af328b5925c65711537.JPEG"
+    },
+    {
+      "alternativeText": "IMG_4162",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48fed5dc0cdc6ea660f7608197304fce.JPEG"
+    },
+    {
+      "alternativeText": "IMG_7105",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c86a604685a5021c4fa75d6fd335ace6.jpg"
+    },
+    {
+      "alternativeText": "IMG_7165",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/68fe9c8b29a71e350999c79d7ed0e323.jpg"
+    },
+    {
+      "alternativeText": "IMG_7174",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e4fc8d4248f9fa64d805bce0d436cd9.jpg"
+    },
+    {
+      "alternativeText": "IMG_7207",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/07647d24c1b1c8d7915a05bd45677877.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

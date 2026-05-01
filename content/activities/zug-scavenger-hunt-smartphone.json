@@ -1,0 +1,75 @@
+{
+  "id": "546",
+  "slug": "zug-scavenger-hunt-smartphone",
+  "name": "Zug interactive scavenger hunt with smartphone",
+  "description": "Discover Zug interactive scavenger hunt with smartphone in Switzerland.",
+  "longDescription": "Discover Zug interactive scavenger hunt with smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/zug-scavenger-hunt-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Treasure Hunt: Smartphone shows knight statue in front of historic buildings in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zug_carousel_1_EN_3c2930fef2.jpg"
+    },
+    {
+      "alternativeText": "Scavenger Hunt: Two laughing women with smartphones in the city, solving a riddle.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zug_carousel_3_333c309e9e.jpg"
+    },
+    {
+      "alternativeText": "Scavenger Hunt: Interactive Smartphone Tour with Street Art and Historical Elements in Urban Environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zug_carousel_4_a9f7649390.jpg"
+    },
+    {
+      "alternativeText": "Scavenger hunt smartphone riddle group, active participants in a cheerful mood outdoors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zug_carousel_5_cbab98f45e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

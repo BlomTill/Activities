@@ -1,0 +1,87 @@
+{
+  "id": "832",
+  "slug": "individual-bike-tour-full-day-from-st-moritz",
+  "name": "Custom day trip by bike from St. Moritz",
+  "description": "Discover Custom day trip by bike from St. Moritz in Switzerland.",
+  "longDescription": "Discover Custom day trip by bike from St. Moritz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "58",
+    "title": "Mountain bike",
+    "slug": "mountain-bike",
+    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/mountain-bike/individual-bike-tour-full-day-from-st-moritz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "bl individual 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f03e83cd7bb304dd43279bc6d7f240db.jpeg"
+    },
+    {
+      "alternativeText": "bl individual 2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c688633b4a94735890a51cd6f4b324b0.jpeg"
+    },
+    {
+      "alternativeText": "bl individual 3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb261fb9de0595bfc46c280f98f80bdc.jpeg"
+    },
+    {
+      "alternativeText": "custom 4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c5ab2eaddfad136b7d73f2840e6e3b68.jpeg"
+    },
+    {
+      "alternativeText": "bl individual 5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d2d0e08cb3a6b711e2037ba964126772.jpg"
+    },
+    {
+      "alternativeText": "bl individual 6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/42eabc46556e6eeb5c98b1c45eb63e1d.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "st.-moritz"
+  ],
+  "featured": false
+}

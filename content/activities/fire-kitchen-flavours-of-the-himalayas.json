@@ -1,0 +1,87 @@
+{
+  "id": "257",
+  "slug": "fire-kitchen-flavours-of-the-himalayas",
+  "name": "Fire Kitchen \"Flavors of the Himalayas\" in Zurich Wine Country",
+  "description": "Discover Fire Kitchen \"Flavors of the Himalayas\" in Zurich Wine Country in Switzerland.",
+  "longDescription": "Discover Fire Kitchen \"Flavors of the Himalayas\" in Zurich Wine Country in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "61",
+    "title": "Cooking course",
+    "slug": "cooking-course",
+    "description": "Choose your special cooking class from various topics and book it here. Whether alone, as a couple or in a group, a cooking class expands all the senses and is a welcome change for the busy everyday life. Often it's about discovering an unknown or particularly exotic cuisine and learning new tricks. Of course, the subsequent enjoyment of the created masterpiece may not be missing."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/cooking-course/fire-kitchen-flavours-of-the-himalayas/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Still 2025-12-23 144735_1.45.1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a19521106ce4202994dfcbb572511767.jpg"
+    },
+    {
+      "alternativeText": "Still 2025-12-23 144735_1.36.1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e97f09cb11ee31f276677d74f64704b.jpg"
+    },
+    {
+      "alternativeText": "batch_Still 2025-12-23 144735_1.28.1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02a31e08a89454d6f91cd993a488bc3f.jpg"
+    },
+    {
+      "alternativeText": "batch_Still 2025-12-23 144735_1.54.1 (2)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7a489380b86c9f933ad3f75534a252d9.jpg"
+    },
+    {
+      "alternativeText": "batch_cooking_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/17018f070e57d5d2dd9787c2e1820b41.jpg"
+    },
+    {
+      "alternativeText": "batch-cooking-17",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26f4d1ed85b8251be25f0a168835ee1f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

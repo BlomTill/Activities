@@ -1,0 +1,100 @@
+{
+  "id": "278",
+  "slug": "lucerne-day-trip-from-zurich-boat-trip",
+  "name": "From Zurich: Day trip to Lucerne incl. boat tour",
+  "description": "Discover From Zurich: Day trip to Lucerne incl. boat tour in Switzerland.",
+  "longDescription": "Discover From Zurich: Day trip to Lucerne incl. boat tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/lucerne-day-trip-from-zurich-boat-trip/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Boat trips on Lake Lucerne, Lucerne, in summer. Promenade with historic buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bootsfahrt_Luzern_Best_of_Switzerland_Tours_a04afb94b9.jpg"
+    },
+    {
+      "alternativeText": "Boat trip Lucerne with a view of the city and the lake, clear visibility, blue clouds.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_saphir_yacht_cruise_lake_deck_389806047c_bda5d2d144.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Lion Monument with Water Feature and Greenery",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_lion_monument_9618699652_15752b4d23.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Day Trip: View of the Old Town, relaxed atmosphere by the water, and historic buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_old_town_town_hall_brewery_c67d8e2903_bdd33c34ca.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Old Town with historic buildings and market stalls.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_old_town_weinmarkt_square_2eba94bf30_41f6b375bc.jpg"
+    },
+    {
+      "alternativeText": "Jesuit Church Lucerne on a sunny day with green water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jesuitenkirche_Best_of_Switzerland_Tours_b7827b063e.jpg"
+    },
+    {
+      "alternativeText": "Chapel Bridge Lucerne with Water Tower in the Sunshine, surrounded by Water and Plants",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kapellbruecke_2_Best_of_Switzerland_Tours_efef940f8c.jpg"
+    },
+    {
+      "alternativeText": "Chapel Bridge Lucerne with wooden structure and image elements on the roof.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kapellbruecke_Luzern_Best_of_Switzerland_Tours_4fbf685455.jpg"
+    },
+    {
+      "alternativeText": "Lucerne day trip with cafés by the river, people enjoying the weather",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_Restaurant_Fluss_Best_of_Switzerland_Tours_9f6c8cdd80.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "boat",
+    "lucerne"
+  ],
+  "featured": false
+}

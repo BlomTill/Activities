@@ -1,0 +1,80 @@
+{
+  "id": "177",
+  "slug": "brunch-etuktuk-city-tour-zurich",
+  "name": "Brunch in E-Tuk Tuk with city tour of Zurich",
+  "description": "Discover Brunch in E-Tuk Tuk with city tour of Zurich in Switzerland.",
+  "longDescription": "Discover Brunch in E-Tuk Tuk with city tour of Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "30390",
+    "title": "Brunch",
+    "slug": "brunch",
+    "description": "Book a brunch here for a cozy get-together. A brunch is a combination of breakfast and lunch, usually taking place in the morning or early afternoon. At a brunch, a variety of dishes are offered, which can include both breakfast and lunch items, like eggs, pastries, salads, hot dishes, and desserts. Besides the classic brunch in a restaurant, you'll also find it in unusual places like in a tuk-tuk, on a boat, or at the top of a mountain."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/brunch/brunch-etuktuk-city-tour-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "eTukTuk Brunch Zurich: Enjoy a delicious outdoor breakfast with friends in nice weather.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunch_Tuk_e_Tuk_Tuk_Gmb_H_5d025456bc.jpg"
+    },
+    {
+      "alternativeText": "eTukTuk Brunch: Enjoy the tour through Zurich with great attractions and delicious food.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunch_Tuk_1_e_Tuk_Tuk_Gmb_H_e97b18c54d.jpg"
+    },
+    {
+      "alternativeText": "eTukTuk Brunch in Zurich: relax during brunch with a view of the city and the river.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunch_Tuk_2_e_Tuk_Tuk_Gmb_H_56c440e05b.jpg"
+    },
+    {
+      "alternativeText": "eTukTuk brunch at Zurich Opera House with fresh treats in a lively atmosphere",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Opernhaus_cdf47e7af0.jpg"
+    },
+    {
+      "alternativeText": "eTukTuk Brunch in Zurich: Enjoy culinary highlights in a picturesque setting with terraces",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Stadtrundfahrt_224ad109d6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

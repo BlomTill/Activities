@@ -1,0 +1,115 @@
+{
+  "id": "1055",
+  "slug": "archery-course-oklahomagrill-tipi-village",
+  "name": "Archery with Oklahomagrill in the Tipi Village",
+  "description": "Discover Archery with Oklahomagrill in the Tipi Village in Switzerland.",
+  "longDescription": "Discover Archery with Oklahomagrill in the Tipi Village in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "30614",
+    "title": "Shooting and Throwing Sports",
+    "slug": "shooting-and-throwing-sports",
+    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/archery-course-oklahomagrill-tipi-village/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bogenschiessen lernen",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c4dbebb7e628662df1d6cc8dad8843a.jpg"
+    },
+    {
+      "alternativeText": "Schiessübungen",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f6cfc4542757b54df78e1bf11d7f1ba.jpg"
+    },
+    {
+      "alternativeText": "Schiessübungen",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c2c07cffea527d132c35be8cdd4e58fe.jpg"
+    },
+    {
+      "alternativeText": "Schiessübungen",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/96ad15da08cf693fbe8b3147e320c0e4.jpg"
+    },
+    {
+      "alternativeText": "Schiessübungen",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dfb807965ead6b930950b56766feccd5.jpg"
+    },
+    {
+      "alternativeText": "Schiessübungen",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10e27389158e30ad9ad1b0c69795b810.jpg"
+    },
+    {
+      "alternativeText": "Schiessübungen",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aa27cc32034e7c2c55a921b6da1b5b57.jpg"
+    },
+    {
+      "alternativeText": "Schiessübungen",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d6cabdbc3fc612a178c2a3670b2464eb.jpg"
+    },
+    {
+      "alternativeText": "Oklahoma Grill",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/75b1babaa78c57f62968cba8aa2ef562.jpg"
+    },
+    {
+      "alternativeText": "Salat",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50f6ce403bfbfa6f14eca2b476f5cbac.jpg"
+    },
+    {
+      "alternativeText": "Oklahoma Grill",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e578693d82c13e1d2831bddda2286e94.jpg"
+    },
+    {
+      "alternativeText": "Tipidorf",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2db557221a827cc0825766c1a2760441.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,106 @@
+{
+  "id": "382",
+  "slug": "in-lausanne-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy",
+  "name": "In Lausanne: Bus tour to Gruyères, chocolate factory, and cheese dairy",
+  "description": "Discover In Lausanne: Bus tour to Gruyères, chocolate factory, and cheese dairy in Switzerland.",
+  "longDescription": "Discover In Lausanne: Bus tour to Gruyères, chocolate factory, and cheese dairy in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gruyeres: Discover the picturesque old town and the impressive castle view in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b3ecd3470a3ea5ab8dbe8a0931d2b209.jpg"
+    },
+    {
+      "alternativeText": "Gruyeres: Visit to Maison Caillers, chocolate factory, sightseeing destination in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e825cc2b24805be63fa8cf43f68723f3.jpg"
+    },
+    {
+      "alternativeText": "Gruyeres: Experience the Chocolarium with delicious chocolate and fascinating exhibitions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c9f770e1257fa807731854fe46945c0d.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium: Children and adults experience sweet specialties in Gruyeres.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b807922b475fa2daf760d417384f90b9.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium",
+      "caption": "Bustour Gruyères, Schokoladenfabrik und Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b11988756696dbcf80dd3ec17dc6c6de.jpg"
+    },
+    {
+      "alternativeText": "Chocolarium",
+      "caption": "Bustour Gruyères, Schokoladenfabrik und Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e4b608a4c5df9eddff1b4d2f3c72091.jpg"
+    },
+    {
+      "alternativeText": "Dairy in Gruyeres: Production of delicious cheese in a traditional atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2c86da2865be8a7d38edf43870364301.jpg"
+    },
+    {
+      "alternativeText": "Käserei",
+      "caption": "Bustour Gruyères, Schokoladenfabrik und Schaukäserei",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c871a794ca57f981b7f8a38abeb1f1a6.jpg"
+    },
+    {
+      "alternativeText": "Cheesery in Gruyeres: Experience traditional cheese making and regional specialties.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a26195348758e6014c3f51e5db7437da.jpg"
+    },
+    {
+      "alternativeText": "Cheese dairy in Gruyeres: Tour of cheese production with a view of the impressive facilities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cd5f6aa47f84ba5393913acfdda9c880.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "cheese",
+    "lausanne"
+  ],
+  "featured": false
+}

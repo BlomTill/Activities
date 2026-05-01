@@ -1,0 +1,75 @@
+{
+  "id": "643",
+  "slug": "montreux-interactive-scavenger-hunt-smartphone",
+  "name": "Montreux interactive scavenger hunt with the smartphone",
+  "description": "Discover Montreux interactive scavenger hunt with the smartphone in Switzerland.",
+  "longDescription": "Discover Montreux interactive scavenger hunt with the smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/montreux-interactive-scavenger-hunt-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Montreux: Discover the statue of Freddie Mercury in the beautiful surroundings of Lake Geneva.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/montreux_carousel_1_EN_234f3a39b8.jpg"
+    },
+    {
+      "alternativeText": "Montreux Escape Game: Experience exciting adventures with friends in the fascinating city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/montreux_carousel_2_2d9d66cc3f.jpg"
+    },
+    {
+      "alternativeText": "Montreux Escape Game: Experience thrilling adventures for your team in the picturesque setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/montreux_carousel_3_0aa720ae96.jpg"
+    },
+    {
+      "alternativeText": "Montreux Escape Game: Solve exciting challenges at Château de Chillon with a stunning lake view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/montreux_carousel_4_25c106e56b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,88 @@
+{
+  "id": "873",
+  "slug": "tandem-delta-flight-from-interlaken",
+  "name": "Tandem Delta Flight from Interlaken",
+  "description": "Discover Tandem Delta Flight from Interlaken in Switzerland.",
+  "longDescription": "Discover Tandem Delta Flight from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/tandem-delta-flight-from-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bumblebee Hang Gliding in Interlaken, two pilots fly over green landscapes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hanggliding_Interlaken_Bumblebee_5_ae3adfb126.JPG"
+    },
+    {
+      "alternativeText": "Hang Gliding Interlaken with a View of the Alps",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hanggliding_Interlaken_Bumblebee_2_2c6c6530ac.JPG"
+    },
+    {
+      "alternativeText": "Bumblebee Hang Gliding in Interlaken on a nice day",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hanggliding_Interlaken_Bumblebee_3_8cc4f6efb7.JPG"
+    },
+    {
+      "alternativeText": "Hang Gliding Interlaken with a pilot over green mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hanggliding_Interlaken_Bumblebee_4_3309aa479f.JPG"
+    },
+    {
+      "alternativeText": "Bumblebee Hang Gliding over Interlaken with two people",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hanggliding_Interlaken_Bumblebee_6_85f957244a.JPG"
+    },
+    {
+      "alternativeText": "Hang gliding in Interlaken with a view of the equipment and the meadow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hanggliding_Interlaken_Bumblebee_4180259d22.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

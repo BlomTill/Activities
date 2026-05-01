@@ -1,0 +1,94 @@
+{
+  "id": "902",
+  "slug": "paragliding-tandem-pilatus",
+  "name": "Pilatus paragliding tandem from Kriens",
+  "description": "Discover Pilatus paragliding tandem from Kriens in Switzerland.",
+  "longDescription": "Discover Pilatus paragliding tandem from Kriens in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-pilatus/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Pilatus: Experience the tandem flight over Lucerne with breathtaking views and first impressions of freedom.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_25cb6225cd.JPG"
+    },
+    {
+      "alternativeText": "Paragliding tandem flight over Pilatus, beautiful view of the lake and landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/separador1_884abfd41a.jpg"
+    },
+    {
+      "alternativeText": "Paragliding at Pilatus, tandem flight with passenger, green landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_ecf94a554b.jpg"
+    },
+    {
+      "alternativeText": "Paragliding Tandem over snow-covered mountains in Berchtesgaden",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0083262_a9c5cd3535.JPG"
+    },
+    {
+      "alternativeText": "Tandem Paragliding over the Snow-Covered Mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Your_screen_1920x1080_1024x576_86e60d869b.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding tandem flight over Lake Constance in 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0045759_cd298a892f.JPG"
+    },
+    {
+      "alternativeText": "Tandem paragliding over Lake Obersee in 2023 with participants in sportswear.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0045761_f26c64e0d1.JPG"
+    },
+    {
+      "alternativeText": "Paragliding tandem over Lucerne on a clear sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0112691_5aa27e9f27.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding"
+  ],
+  "featured": false
+}

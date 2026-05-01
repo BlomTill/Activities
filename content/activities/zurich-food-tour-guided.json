@@ -1,0 +1,105 @@
+{
+  "id": "683",
+  "slug": "zurich-food-tour-guided",
+  "name": "Zurich Guided Food Tour",
+  "description": "Discover Zurich Guided Food Tour in Switzerland.",
+  "longDescription": "Discover Zurich Guided Food Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/zurich-food-tour-guided/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Food tour Zurich with culinary specialties in a cozy atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Les_Halles_1a0c65daf0.jpg"
+    },
+    {
+      "alternativeText": "Food tour Zurich in the Viaduct with passersby in casual clothing.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Viadukt_a4dfb272a5.jpg"
+    },
+    {
+      "alternativeText": "Food Tour Zurich Viadukt with colorful food stalls and floral arrangements.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Viadukt_4617e723dc.jpg"
+    },
+    {
+      "alternativeText": "Food during the food tour in Zurich, 2023 with salad, bread, and drinks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_Neni_97dacf606b.jpg"
+    },
+    {
+      "alternativeText": "Shipbuilding Zurich with modern bar ambiance, wood and glass elements, stylish interior design",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Schiffbau_1d9ab48955.jpg"
+    },
+    {
+      "alternativeText": "Zürich West Prime Tower with surrounding buildings and tracks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6_Zuerich_West_95e2d4157e.jpg"
+    },
+    {
+      "alternativeText": "Curry sausage on a wooden plate with French fries in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Currywurst_5efdefd1cd.jpg"
+    },
+    {
+      "alternativeText": "Les Halles Zurich with tables and chairs in the gastronomy area, posters on the wall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8_Les_Halles_0b3bf86a87.jpg"
+    },
+    {
+      "alternativeText": "Restaurant Foifi in Zurich, sustainable concept, cozy atmosphere, urban life",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_Foifi_795c51d261.jpg"
+    },
+    {
+      "alternativeText": "Drink with ice and flowers in Zurich",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10_Drink_f7300de9a3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

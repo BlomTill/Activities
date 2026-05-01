@@ -1,0 +1,72 @@
+{
+  "id": "822",
+  "slug": "trottiplausch-with-optional-barbecue-kerenzerberg-groups",
+  "name": "Trottiplausch with optional aperitif or barbecue",
+  "description": "Discover Trottiplausch with optional aperitif or barbecue in Switzerland.",
+  "longDescription": "Discover Trottiplausch with optional aperitif or barbecue in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "66",
+    "title": "Monster Scooter",
+    "slug": "monster-scooter",
+    "description": "Book for you and your family the next trip with a Monster Scooter. You stand on the stable scooter and let nature pass you by. Hand brakes on the handlebars and wide tires make the scooter easy to control. A trip together in a group is a nice and relaxing experience. With a Monster Scooter you have the choice whether you want to enjoy the view comfortably or organize a rapid descent"
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/monster-scooter/trottiplausch-with-optional-barbecue-kerenzerberg-groups/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Trotti fun Switzerland, cycling, group, summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/trottia5_4616de1793.jpg"
+    },
+    {
+      "alternativeText": "Trottiplausch Switzerland: Woman rides scooter on meadow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_dsc_0951_be1546e48e.jpg"
+    },
+    {
+      "alternativeText": "Trotti fun Switzerland: Youth ride bicycles on the street",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_0945_6780260f1f.jpg"
+    },
+    {
+      "alternativeText": "Scooter at the trotti fun in Switzerland, set up for use, outdoors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_2042_2a0396305d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

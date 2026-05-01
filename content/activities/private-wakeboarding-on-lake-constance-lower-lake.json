@@ -1,0 +1,82 @@
+{
+  "id": "1382",
+  "slug": "private-wakeboarding-on-lake-constance-lower-lake",
+  "name": "Private wakeboarding on Lake Constance (Lower Lake)",
+  "description": "Discover Private wakeboarding on Lake Constance (Lower Lake) in Switzerland.",
+  "longDescription": "Discover Private wakeboarding on Lake Constance (Lower Lake) in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "110",
+    "title": "Wakeboarding and Wakesurfing",
+    "slug": "wakeboarding",
+    "description": "Find your wakeboarding or wakesurfing experience here under professional guidance. Wakeboarding is a water sport that uses a board. You are strapped to this board and pulled over the water by a motorboat. The name wakeboard comes from the keel wave of the boat (wake). It is used as a launch ramp when wakeboarding. In wakesurfing, the surfer rides the wave created by the boat. They let go of the rope once they have enough speed. Both sports, especially wakeboarding, are relatively quick to learn. It's also not exhausting."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wakeboarding/private-wakeboarding-on-lake-constance-lower-lake/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "DSC_0811",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1a21bc65ba5fd6e00ed59f0e535d0b4.JPG"
+    },
+    {
+      "alternativeText": "dsc_0178-2-1-e1607100828163",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e76a545d16b7b06c3efcc6b4a9a332c7.jpg"
+    },
+    {
+      "alternativeText": "20230814_204223",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af7bb5f902e455a6e6522a9592e0bd88.jpg"
+    },
+    {
+      "alternativeText": "20220719_210151",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ae227bb84fcdd3a87c94109b0c3ceae.jpg"
+    },
+    {
+      "alternativeText": "GOPR1579_1663614681621",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/838e75391e1ad9ddd4eb31bafd6394ad.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

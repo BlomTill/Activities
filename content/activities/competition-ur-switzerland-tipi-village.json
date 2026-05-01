@@ -1,0 +1,85 @@
+{
+  "id": "254",
+  "slug": "competition-ur-switzerland-tipi-village",
+  "name": "Ur-Swiss Challenge in the Tipi Village",
+  "description": "Discover Ur-Swiss Challenge in the Tipi Village in Switzerland.",
+  "longDescription": "Discover Ur-Swiss Challenge in the Tipi Village in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "102",
+    "title": "Competition",
+    "slug": "competition",
+    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/competition/competition-ur-switzerland-tipi-village/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Challenge",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04907e080f76da2fb2f8da4af1c366a2.jpg"
+    },
+    {
+      "alternativeText": "Challenge",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f61a43a8399d8fab29439944a76060a6.jpg"
+    },
+    {
+      "alternativeText": "Challenge",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e3dd98a06490a338c522db4e6b702bb.jpg"
+    },
+    {
+      "alternativeText": "Challenge",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c3d10b812febbd626c3954f41a22a05f.jpg"
+    },
+    {
+      "alternativeText": "Challenge",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e642f4157db2319e7c6220d59928cd3.jpg"
+    },
+    {
+      "alternativeText": "Challenge",
+      "caption": "Tipidorf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2ff53ccef7dfe320bd236df389bcc8a0.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

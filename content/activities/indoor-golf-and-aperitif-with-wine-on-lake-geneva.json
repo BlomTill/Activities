@@ -1,0 +1,86 @@
+{
+  "id": "731",
+  "slug": "indoor-golf-and-aperitif-with-wine-on-lake-geneva",
+  "name": "Apéro & Golf Indoor with wine by Lake Geneva",
+  "description": "Discover Apéro & Golf Indoor with wine by Lake Geneva in Switzerland.",
+  "longDescription": "Discover Apéro & Golf Indoor with wine by Lake Geneva in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/indoor-golf-and-aperitif-with-wine-on-lake-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Golf Fit Performance Center: Indoor Golf Training with Innovative Technology and Professional Support",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Golf_fit_performance_center_Passionnement_Vin_3c730ba874.jpg"
+    },
+    {
+      "alternativeText": "Lavaux: picturesque vineyards by Lake Geneva in the summer landscape with mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavaux_2_Passionnement_Vin_6655c737b8.jpg"
+    },
+    {
+      "alternativeText": "Lavaux: picturesque wine landscape on Lake Geneva with green vines and mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavaux_1_Passionnement_Vin_49a12ed5fb.jpg"
+    },
+    {
+      "alternativeText": "Vineyards: picturesque landscape with grapevines, lake, and mountains in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinberge_1_Seraina_3ae213c12f.jpg"
+    },
+    {
+      "alternativeText": "Vineyards: Enjoy the view of vineyards and Lake Geneva in Vevey during summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinberge_3_Seraina_cc2d0fc5ea.jpg"
+    },
+    {
+      "alternativeText": "Vineyards overlooking the lake in Switzerland, perfect for day trips and nature experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinberge_4_Seraina_21aa858bf1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "wine",
+    "geneva"
+  ],
+  "featured": false
+}

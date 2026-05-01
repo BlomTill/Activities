@@ -1,0 +1,105 @@
+{
+  "id": "1293",
+  "slug": "alpenrhein-express-ticket-between-st-gallen-and-chur",
+  "name": "Alpenrhein Express Ticket between St. Gallen and Chur",
+  "description": "Discover Alpenrhein Express Ticket between St. Gallen and Chur in Switzerland.",
+  "longDescription": "Discover Alpenrhein Express Ticket between St. Gallen and Chur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/alpenrhein-express-ticket-between-st-gallen-and-chur/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "chur city-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/69b66ac907985aed76133b9d369452f4.jpg"
+    },
+    {
+      "alternativeText": "unsplash of clouds",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0214d688de612c449a1dcb2d30e49f7c.jpg"
+    },
+    {
+      "alternativeText": "chur-pixabay4850412_1920",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e4831a5b2ffa0dc11f80a18e3dd0a129.jpg"
+    },
+    {
+      "alternativeText": "pexels SG",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/80d77e3740f066083b30d38249c37435.jpg"
+    },
+    {
+      "alternativeText": "Pexels-Buchs SG",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3ac983b6dbf56d07622b067b32dd4f70.jpg"
+    },
+    {
+      "alternativeText": "Pixabay Rhine Valley St. Gallen",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/898132da2703da48d0b7af109b4eab7d.jpg"
+    },
+    {
+      "alternativeText": "Pixabay St. Gallen Churfirsten",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/555814192a9da010a92f169925ac9d61.jpg"
+    },
+    {
+      "alternativeText": "St Gallen Pixabay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b9de23970bd5e045d3998a2c51e8083.jpg"
+    },
+    {
+      "alternativeText": "St-Gallen Stock Free",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/101a085f0e694f84fb69f14bc5abf47a.jpg"
+    },
+    {
+      "alternativeText": "travel-suisse-Chur-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6bde36ad1362792d3f7699a3a8a9576a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

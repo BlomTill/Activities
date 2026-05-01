@@ -1,0 +1,122 @@
+{
+  "id": "327",
+  "slug": "geneva-to-chamonix-with-aiguille-du-midi",
+  "name": "From Geneva: Tour to Chamonix with Aiguille du Midi",
+  "description": "Discover From Geneva: Tour to Chamonix with Aiguille du Midi in Switzerland.",
+  "longDescription": "Discover From Geneva: Tour to Chamonix with Aiguille du Midi in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/geneva-to-chamonix-with-aiguille-du-midi/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ee922d9759f0c0300241521fe49e371f.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d84cac943244799b0ff49e45feac867.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/329baf1c5bec35f537b4cf2e32511259.JPG"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e01f36efe15d36cac2a6ca645a2d144a.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/079a0c5fad8583fc4d9c82028240e88a.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c94661516adbe9a155580afead1a1318.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/295dc4ccd80903e757b672ca1f21031b.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2415651c978b522bcf5f0bf6ac016036.jpg"
+    },
+    {
+      "alternativeText": "Chamonix",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3771a0a74e3673d74b084cce97f29c2.jpg"
+    },
+    {
+      "alternativeText": "Chamonix",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4631ff383a6629cf6727f4a79c835ff2.jpg"
+    },
+    {
+      "alternativeText": "Chamonix",
+      "caption": "Tour nach Chamonix mit Aiguille du Midi",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/951be66c8bc653f5a3ca819a61dba72f.jpg"
+    },
+    {
+      "alternativeText": "Chamonix",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dab2aad5b4edfc1a8e280b46edfbc818.jpg"
+    },
+    {
+      "alternativeText": "Chamonix",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c33bdecca5d2b53bdedbab7e08cdfcc9.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "671",
+  "slug": "the-origin-outdoor-escape-game-como-schweiz",
+  "name": "\"The Origin\" Outdoor Escape Game Como (Schweiz)",
+  "description": "Discover \"The Origin\" Outdoor Escape Game Como (Schweiz) in Switzerland.",
+  "longDescription": "Discover \"The Origin\" Outdoor Escape Game Como (Schweiz) in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "455",
+      "title": "Italy"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-origin-outdoor-escape-game-como-schweiz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sato Code: young man at the window with a creative installation in the city, Urban Art, Creativity",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code6_98e354721c.png"
+    },
+    {
+      "alternativeText": "Sato Code: Fashionable woman with sunglasses in the city at night, modern and urban.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code7_a2878fff2d.jpg"
+    },
+    {
+      "alternativeText": "Sato Code - two people explore artistic details in Como, Italy, in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code5_910dbb6b6b.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Two people explore the surroundings in Como, creative activities in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code4_6ca043fea9.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Explore nature and discover exciting details in sunlight.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code1_0129954349.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: discover creative graffiti in a vibrant urban environment with a woman enthusiastically pointing.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code2_f1ed2dab09.png"
+    },
+    {
+      "alternativeText": "Sato Code: A couple is looking at a piece of art on a wall in the city, urban life and creative expression.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code3_7d56ab87b2.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

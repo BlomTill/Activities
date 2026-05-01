@@ -1,0 +1,82 @@
+{
+  "id": "1488",
+  "slug": "swiss-chocolate-adventure-tour-museum-of-transport-lucerne",
+  "name": "Ticket Swiss Chocolate Adventure Museum of Transport Lucerne",
+  "description": "Discover Ticket Swiss Chocolate Adventure Museum of Transport Lucerne in Switzerland.",
+  "longDescription": "Discover Ticket Swiss Chocolate Adventure Museum of Transport Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/swiss-chocolate-adventure-tour-museum-of-transport-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Family trip to a chocolate factory, children tasting chocolate, relaxed atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_18d07d6b51f883b134c2512969ce6c21_eca61f585c.jpg"
+    },
+    {
+      "alternativeText": "Maitre Degustation presents chocolate at the Transport Museum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_11ef8a5754f4bc0639c9b48f8305a147_51e341a68d.jpg"
+    },
+    {
+      "alternativeText": "Chocolate from the Chocolate Adventure at the Transport Museum 2023, various types visible",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chocolate_Adventure_Schokolade_2e0eeca35b.jpg"
+    },
+    {
+      "alternativeText": "Experience Tour in Lucerne for Chocolate and Cocoa, Family Outing",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chocolate_Verkehrshaus_Luzern_3ee4a0ea86.jpg"
+    },
+    {
+      "alternativeText": "Visitors observe cargo ships behind glass during the Chocolate Adventure exhibition.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chocolate_Adventure_Transport_7dc78395de.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "museum",
+    "adventure",
+    "chocolate",
+    "lucerne"
+  ],
+  "featured": false
+}

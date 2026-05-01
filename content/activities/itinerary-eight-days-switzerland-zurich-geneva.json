@@ -1,0 +1,52 @@
+{
+  "id": "1511",
+  "slug": "itinerary-eight-days-switzerland-zurich-geneva",
+  "name": "8 days in Switzerland - 10 itineraries from Zurich or Geneva",
+  "description": "With eight days in Switzerland, there is plenty to see and do. Find your Switzerland itinerary starting in Zurich or Geneva to plan your trip.",
+  "longDescription": "With eight days in Switzerland, there is plenty to see and do. Find your Switzerland itinerary starting in Zurich or Geneva to plan your trip.",
+  "category": "outdoor",
+  "subcategory": "outdoor",
+  "location": {
+    "region": "Switzerland",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 127,
+        "student": 203,
+        "adult": 254,
+        "senior": 229
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/switzerland-itineraries/itinerary-eight-days-switzerland-zurich-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "From",
+      "value": "CHF 254"
+    }
+  ],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

@@ -1,0 +1,79 @@
+{
+  "id": "767",
+  "slug": "discovery-set-play-experience-walensee",
+  "name": "Discovery set play experience Walensee",
+  "description": "Discover Discovery set play experience Walensee in Switzerland.",
+  "longDescription": "Discover Discovery set play experience Walensee in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/discovery-set-play-experience-walensee/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Children play at Lake Walen on a meadow and discover the adventure course.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0_TDS_00020013159160573_sized_800_0_f1d2bf67d3.jpg"
+    },
+    {
+      "alternativeText": "The Walensee play experience shows a child on a spring rocker outdoors. It is summer and located at Walensee.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013159160289_sized_800_0_1ce187f783.jpg"
+    },
+    {
+      "alternativeText": "Walensee Experience: Children go with backpacks, beautiful park",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013159160422_sized_800_0_717bdb64b5.jpg"
+    },
+    {
+      "alternativeText": "Lake Walensee experience. Children play on a playground overlooking the lake.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013159160729_sized_800_0_b5ebed4190.jpg"
+    },
+    {
+      "alternativeText": "Boat on Lake Walensee with passengers, beautiful weather, autumn surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013159161003_sized_800_0_d531c2ad3e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

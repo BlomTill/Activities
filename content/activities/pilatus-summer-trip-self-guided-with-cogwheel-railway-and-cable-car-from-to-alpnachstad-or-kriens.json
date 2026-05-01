@@ -1,0 +1,129 @@
+{
+  "id": "1476",
+  "slug": "pilatus-summer-trip-self-guided-with-cogwheel-railway-and-cable-car-from-to-alpnachstad-or-kriens",
+  "name": "Pilatus summer trip self-guided with cogwheel railway and cable car from/to Alpnachstad or Kriens",
+  "description": "Discover Pilatus summer trip self-guided with cogwheel railway and cable car from/to Alpnachstad or Kriens in Switzerland.",
+  "longDescription": "Discover Pilatus summer trip self-guided with cogwheel railway and cable car from/to Alpnachstad or Kriens in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-summer-trip-self-guided-with-cogwheel-railway-and-cable-car-from-to-alpnachstad-or-kriens/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Pilatus Cog Railway: impressive cog railway over steep cliffs in the Alps, ideal for adventures in high mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Zahnradbahn_2022_91f1e18a10.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Cable Car: Experience the view of Lake Lucerne and the mountains during the summer adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luftseilbahn_Pilatus_5ae6f36fa4.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Dragon Ride: Cable car with a view of the blue sky and the surrounding mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Dragon_Ride_blauer_Himmel_8178556ea8.jpg"
+    },
+    {
+      "alternativeText": "View from the summit of Pilatus with a clear sight of Lake Lucerne and the surrounding mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seeblick_vom_Oberhaupt_Pilatus_050a36cb72.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: Cogwheel train runs along the Eselwand viaduct in the Swiss Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Zahnradbahn_Viadukt_Eselwand_f67841d9a4.jpg"
+    },
+    {
+      "alternativeText": "Hotel Pilatus Kulm with a view of the mountain landscape in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hotel_Pilatus_Kulm_9cb1e88e20.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: A cozy gathering with coffee and cake in the restaurant with breathtaking mountain views.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Pilatus_Restaurant_Bellevue_Kaffee_und_Kuchen_mit_Personen_fd6d51dd2e.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Summit with Hikers, View of the Mountains, Clear Visibility",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gipfel_Pilatus_509568f09a.jpg"
+    },
+    {
+      "alternativeText": "View of Pilatus with green mountains and the Alps in the background, clear visibility",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_b6bbe02714ed8fd415722ae630c37478_da539f6859.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: breathtaking morning atmosphere above the Hotel Pilatus Kulm in the mountains with stunning views.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Hotel_Pilatus_Kulm_Morgenstimmung_abd0663e15.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: impressive view of Lake Lucerne at sunrise, natural landscape and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Sonnenaufgang_Aussicht_vom_Esel_178ebf3349.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: Family hikes up the mountain slopes and enjoys nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Familie_am_Wandern_b1746043f6.jpg"
+    },
+    {
+      "alternativeText": "PILU Rope Park: Kids experience adventures in nature at Pilatus in the Swiss Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_PILU_Seilpark_mit_Kindern_faa6a35025.jpg"
+    },
+    {
+      "alternativeText": "PILU Playground with playground equipment for children, ideal for family outings and outdoor adventures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_PILU_Land_Erlebnis_Spielplatz_preview_89b35d6808.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Cogwheel Railway: View from inside, mountain landscape, adventurous ride in the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Zahnradbahn_Aussicht_von_innen_c398258df5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cable-car"
+  ],
+  "featured": false
+}

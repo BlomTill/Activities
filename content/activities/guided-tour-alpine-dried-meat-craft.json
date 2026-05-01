@@ -1,0 +1,77 @@
+{
+  "id": "727",
+  "slug": "guided-tour-alpine-dried-meat-craft",
+  "name": "Guided tour alpine dried meat craft incl. tasting",
+  "description": "Discover Guided tour alpine dried meat craft incl. tasting in Switzerland.",
+  "longDescription": "Discover Guided tour alpine dried meat craft incl. tasting in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/guided-tour-alpine-dried-meat-craft/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Alps: artisanal dried meat craftsmanship in the mountains with high-quality alpine enjoyment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Teaser_image_Bacharia_Alpine_Benjamin_Hasenclever_17afbfb11c.jpg"
+    },
+    {
+      "alternativeText": "So Church Scuol: Discover the alpine dried meat craft in a picturesque setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/So_Kirche_Scuol_Andrea_Badrutt_fd2b9d8db3.jpg"
+    },
+    {
+      "alternativeText": "Engadine House: charming building in the mountain village with historic architecture and surrounding mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engadiner_Haus_Pixabay_6f0252585f.jpg"
+    },
+    {
+      "alternativeText": "Village tour in Scuol: Local shows historical entrance, ideal for groups and adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dorffuehrung_scuol_dominik_taeuber_13_b1c47e6a36.jpg"
+    },
+    {
+      "alternativeText": "Engadin house in a narrow alley with wood details and blooming windows in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engadin_Unsplash_110eedc172.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

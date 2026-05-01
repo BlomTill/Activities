@@ -1,0 +1,75 @@
+{
+  "id": "688",
+  "slug": "tea-ceremony-omakase",
+  "name": "Traditional Korean tea ceremony",
+  "description": "Discover Traditional Korean tea ceremony in Switzerland.",
+  "longDescription": "Discover Traditional Korean tea ceremony in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/tea-ceremony-omakase/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Tea Ceremony: Enjoy the relaxed atmosphere with delicious tea and snacks in an urban setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1c64d24692b89e451ce9215437d049ea.jpg"
+    },
+    {
+      "alternativeText": "Tea ceremony: fine powder, utensils, and natural surroundings for relaxing moments.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9cdcd02f4f5b3a6baf30d7baba557c58.jpg"
+    },
+    {
+      "alternativeText": "Tea ceremony: Tea ingredients with fresh green tea and exquisite tea biscuits on a wooden plate.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/94bd8d8c3c5ced3f7192d3c9c92700cb.jpg"
+    },
+    {
+      "alternativeText": "Tea ceremony: tea leaves in white cups, inspired by nature and traditional culture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/75f108297cb853225fbf89535aa9d528.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

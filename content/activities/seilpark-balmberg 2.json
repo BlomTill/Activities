@@ -1,0 +1,70 @@
+{
+  "id": "118",
+  "slug": "seilpark-balmberg",
+  "name": "Seilpark Balmberg",
+  "description": "Rope park in the Solothurn Jura with treetop courses high above the forest floor.",
+  "longDescription": "Seilpark Balmberg offers thrilling treetop adventures in the Jura mountains above Solothurn. Multiple courses of varying difficulty lead through the forest canopy with zip lines, rope bridges, Tarzan swings, and climbing elements up to 20 metres high.",
+  "category": "adventure",
+  "subcategory": "Rope Park",
+  "location": {
+    "region": "Northwestern Switzerland",
+    "canton": "Solothurn",
+    "city": "Balmberg",
+    "coordinates": {
+      "lat": 47.2422,
+      "lng": 7.5194
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Seilpark Balmberg",
+      "pricing": {
+        "child": 22,
+        "student": 30,
+        "adult": 38,
+        "senior": 34
+      },
+      "bookingUrl": "https://www.seilpark-balmberg.ch",
+      "rating": 4.4
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1508873881324-c92a3fc536ba?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Courses",
+      "value": "Multiple difficulty levels"
+    },
+    {
+      "label": "Height",
+      "value": "Up to 20m"
+    },
+    {
+      "label": "Zip Lines",
+      "value": "Included"
+    },
+    {
+      "label": "Min Age",
+      "value": "5 years"
+    },
+    {
+      "label": "Canton",
+      "value": "Solothurn"
+    }
+  ],
+  "tags": [
+    "rope park",
+    "climbing",
+    "adventure",
+    "forest",
+    "solothurn"
+  ],
+  "featured": false
+}

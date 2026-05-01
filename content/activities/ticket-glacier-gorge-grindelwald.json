@@ -1,0 +1,90 @@
+{
+  "id": "1479",
+  "slug": "ticket-glacier-gorge-grindelwald",
+  "name": "Ticket Glacier Gorge Grindelwald",
+  "description": "Discover Ticket Glacier Gorge Grindelwald in Switzerland.",
+  "longDescription": "Discover Ticket Glacier Gorge Grindelwald in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "54",
+    "title": "Natural attractions",
+    "slug": "natural-attractions",
+    "description": "Discover and book here your excursion, guided tour or entrance ticket to a natural\nto a natural attraction. In a country with spectacular glaciers, huge waterfalls and beautiful caves, there are many more attractions than you can look at. They are often related to glacier retreats of the last decades and can be visited thanks to well-maintained trails and sometimes with professional guides."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/glacier-gorge-grindelwald/ticket-glacier-gorge-grindelwald/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Walkable spider web in a gorge with visitors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_005d7f58e0d04ad920553645930f316e_ae27dc274f.jpg"
+    },
+    {
+      "alternativeText": "Glacier gorge with bridge and rushing river showcases impressive rocks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_1ba5871aae6367d39d18a585b5d2cebe_f602f43fe8.jpg"
+    },
+    {
+      "alternativeText": "Glacier Gorge Grindelwald with steep rock formations and rushing water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_662bd61d3201eb200d418797bb0c99a2_de4096f376.jpg"
+    },
+    {
+      "alternativeText": "Glacier gorge with bubbling river and steep cliffs",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_56a82ea9321b49441c9d55c7a4794ea1_9997205ff7.jpg"
+    },
+    {
+      "alternativeText": "Steel net glacier gorge with people on blue net surface, rock walls in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_9f3e00842680320c3f3f87a02249efa0_2913fb8cfc.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald Glacier Gorge with spider web, children and adults on the web.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gletscherschlucht_Grindelwald3_2d93ff141e.jpeg"
+    },
+    {
+      "alternativeText": "Glacier Gorge Grindelwald with Hikers and Waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gletscherschlucht_grindelwald1_a21ebc9a53.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "grindelwald"
+  ],
+  "featured": false
+}

@@ -1,0 +1,95 @@
+{
+  "id": "1049",
+  "slug": "lucerne-glacier-express-swiss-alps-and-lucerne-tour",
+  "name": "From Lucerne: Glacier Express Swiss Alps and Lucerne Tour",
+  "description": "Discover From Lucerne: Glacier Express Swiss Alps and Lucerne Tour in Switzerland.",
+  "longDescription": "Discover From Lucerne: Glacier Express Swiss Alps and Lucerne Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "143",
+    "title": "Scenic train",
+    "slug": "scenic-train",
+    "description": "There are several world-famous scenic trains in Switzerland, such as the Glacier Express, the Bernina Express and the Golden Pass Line. A panoramic train runs on routes that are particularly worth seeing. Whether beautiful landscapes, remarkable natural attractions or extraordinary buildings, the view is always very special. That's why a panoramic train has particularly large windows that allow a good view and great photos. In addition to the panoramic windows, a panoramic train often also offers elevated seats from which you can get an even better view of the surroundings."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Realp-Glacier-Express",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e97000cc4d2163ffc416eab3e0ba5ee6.jpg"
+    },
+    {
+      "alternativeText": "glacier-express-zermatt-st-moritz",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a20a756a335f0ca8a2fb6c79c5765d01.jpg"
+    },
+    {
+      "alternativeText": "rhine-gorge-glacier-express",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/70083213c57bc0803f4d7148b5857898.jpg"
+    },
+    {
+      "alternativeText": "Summer-Meadows-Glacier-Express",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/417ee34e0def7f09cbf8cb855bed24df.jpg"
+    },
+    {
+      "alternativeText": "St-Leodegard-Cathedral-Interior",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cbddd49fd75cbe4ae605e8c594f6e624.jpg"
+    },
+    {
+      "alternativeText": "Lucerne-Square",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f09406e68b70bd47a4b28d2f989fe814.jpg"
+    },
+    {
+      "alternativeText": "Lucerne-Chapel-Bridge-Summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4bda157f312c1a13541d6b373c1d4821.jpg"
+    },
+    {
+      "alternativeText": "lion-monument",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7e052a7b22ff49f167554e2782b269a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "lucerne"
+  ],
+  "featured": false
+}

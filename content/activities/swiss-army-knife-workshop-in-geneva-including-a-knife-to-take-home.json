@@ -1,0 +1,87 @@
+{
+  "id": "1448",
+  "slug": "swiss-army-knife-workshop-in-geneva-including-a-knife-to-take-home",
+  "name": "Swiss Army Knife Workshop in Geneva including a knife to take home",
+  "description": "Discover Swiss Army Knife Workshop in Geneva including a knife to take home in Switzerland.",
+  "longDescription": "Discover Swiss Army Knife Workshop in Geneva including a knife to take home in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/swiss-army-knife-workshop-in-geneva-including-a-knife-to-take-home/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Schweizer Taschenmesser",
+      "caption": "Workshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/081e652a077441cd6bcd947d9ecb4859.jpg"
+    },
+    {
+      "alternativeText": "Schweizer Taschenmesser",
+      "caption": "Workshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7d9fcd044cca19ebf177d856c4a23c1.jpg"
+    },
+    {
+      "alternativeText": "Schweizer Taschenmesser",
+      "caption": "Workshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c1a6519d124ce3c9d1dc68bc42810ad0.jpg"
+    },
+    {
+      "alternativeText": "Schweizer Taschenmesser",
+      "caption": "Workshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c7ac8dbeef5b9a25b15bd5b6d932a3c0.jpg"
+    },
+    {
+      "alternativeText": "Schweizer Taschenmesser",
+      "caption": "Workshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0c17bce7d99b408ea2dd518052a232cb.jpg"
+    },
+    {
+      "alternativeText": "Schweizer Taschenmesser",
+      "caption": "Workshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b63a7d60cd026b8acd19dba6acfdfd7.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

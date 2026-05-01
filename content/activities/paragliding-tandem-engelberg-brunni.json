@@ -1,0 +1,84 @@
+{
+  "id": "907",
+  "slug": "paragliding-tandem-engelberg-brunni",
+  "name": "Engelberg Brunni paragliding tandem",
+  "description": "Discover Engelberg Brunni paragliding tandem in Switzerland.",
+  "longDescription": "Discover Engelberg Brunni paragliding tandem in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-engelberg-brunni/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paragliding in Engelberg-Brunni, snow-covered mountains, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Your_screen_1920x1080_1024x576_34a001faab.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding Engelberg-Brunni with passenger in the Alps",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0083262_97cd62d162.JPG"
+    },
+    {
+      "alternativeText": "Paragliding Engelberg-Brunni under lightly cloudy skies, two people in outdoor clothing ready to take off",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engelberg_0092edec98.JPG"
+    },
+    {
+      "alternativeText": "Paragliding over Engelberg-Brunni, view of the lake, green land",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0045759_db691cc079.JPG"
+    },
+    {
+      "alternativeText": "Paragliding in Engelberg-Brunni, paragliding over lake and mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0112691_9c94052e8f.JPG"
+    },
+    {
+      "alternativeText": "Paragliding Engelberg-Brunni, two people with a paraglider, green meadow, blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0133316_13e6f60ecc.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding"
+  ],
+  "featured": false
+}

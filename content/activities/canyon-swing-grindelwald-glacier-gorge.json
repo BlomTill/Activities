@@ -1,0 +1,88 @@
+{
+  "id": "179",
+  "slug": "canyon-swing-grindelwald-glacier-gorge",
+  "name": "Canyon Swing Grindelwald Glacier Canyon",
+  "description": "Discover Canyon Swing Grindelwald Glacier Canyon in Switzerland.",
+  "longDescription": "Discover Canyon Swing Grindelwald Glacier Canyon in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "45",
+    "title": "Bungee jumping",
+    "slug": "bungee-jumping",
+    "description": "Experience the special kick and book your next bungee jump here. For adrenaline junkies there are many opportunities for bungee jumping in Switzerland. There is even a jumping location that became world famous through the 007 movie \"GoldenEye\": the dam in the Verzasca Valley in the south of Switzerland. Here you jump from a 220-meter-high dam wall. This is the third highest bungee jump in the world."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-grindelwald-glacier-gorge/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Canyon Swing",
+      "caption": "Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/170eaf07b98d43b866516c87234a0962.jpg"
+    },
+    {
+      "alternativeText": "Canyon Swing",
+      "caption": "Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d468616a066a11f29f1a47260b4f5d43.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/519229ba455b1ba0bb7c3f895204b57f.jpg"
+    },
+    {
+      "alternativeText": "Canyon Swing",
+      "caption": "Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3babbca7972de583f0068bdff4df061.jpg"
+    },
+    {
+      "alternativeText": "Canyon Swing",
+      "caption": "Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f256a0b6a95d3f12dd6fecdd7bddee1.jpg"
+    },
+    {
+      "alternativeText": "Canyon Swing",
+      "caption": "Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/159f1954b4585df280cbcef08fdfa23e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "grindelwald"
+  ],
+  "featured": false
+}

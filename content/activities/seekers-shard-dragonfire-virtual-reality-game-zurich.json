@@ -1,0 +1,117 @@
+{
+  "id": "1351",
+  "slug": "seekers-shard-dragonfire-virtual-reality-game-zurich",
+  "name": "\"Seekers of the Shard: Dragonfire\" virtual reality game in Zurich",
+  "description": "Discover \"Seekers of the Shard: Dragonfire\" virtual reality game in Zurich in Switzerland.",
+  "longDescription": "Discover \"Seekers of the Shard: Dragonfire\" virtual reality game in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/seekers-shard-dragonfire-virtual-reality-game-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Dragonfire: Magical battle with fascinating characters and fantastic elements, discover the world of adventurers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Dragonfire_be565a6fb0.png"
+    },
+    {
+      "alternativeText": "Dragonfire: epic scene with bold heroes in the face of red magic - pure adventure and action",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_23_12_84859f8d14.png"
+    },
+    {
+      "alternativeText": "Players experience virtual reality in an exciting environment with modern technology and team spirit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_23_46_5b558a10c8.png"
+    },
+    {
+      "alternativeText": "Dragonfire: Fantasy characters in a mystical setting, ideal for adventure and art enthusiasts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_24_02_b899ddb240.png"
+    },
+    {
+      "alternativeText": "Dragonfire: Exciting adventures with a team in a mysterious natural environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_24_21_a9619a7bef.png"
+    },
+    {
+      "alternativeText": "Dragonfire: impressive statue in a mystical setting with candlelight in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_24_32_acab357a99.png"
+    },
+    {
+      "alternativeText": "Virtual Reality: Players with VR headset and controllers in a modern environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_24_59_b06b87bd91.png"
+    },
+    {
+      "alternativeText": "Players experience virtual reality games in an action-packed environment with challenges and teamwork.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_25_15_f1d996b206.png"
+    },
+    {
+      "alternativeText": "Dragonfire: Adventures with skeleton actions in a mystical environment that combines nature and team spirit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_25_30_d6acbfc650.png"
+    },
+    {
+      "alternativeText": "Dragonfire: Players in battle with unique weapons in a mystical environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_25_59_92136b9980.png"
+    },
+    {
+      "alternativeText": "Dragonfire: exciting scene with fighters on a wooden plank and an impressive waterfall.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_26_27_d1ed389a0d.png"
+    },
+    {
+      "alternativeText": "Dragonfire: Experience thrilling shooting action in a fantastic world with dragons and adventures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_26_42_d1d41be76b.png"
+    },
+    {
+      "alternativeText": "Virtual Reality players in action experience, technology, teamwork, immersive gameplay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_16_26_54_7b0a049bc0.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

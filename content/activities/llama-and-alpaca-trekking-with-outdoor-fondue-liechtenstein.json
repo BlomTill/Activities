@@ -1,0 +1,84 @@
+{
+  "id": "817",
+  "slug": "llama-and-alpaca-trekking-with-outdoor-fondue-liechtenstein",
+  "name": "Llama and Alpaca Trekking with Outdoor Fondue in Liechtenstein",
+  "description": "Discover Llama and Alpaca Trekking with Outdoor Fondue in Liechtenstein in Switzerland.",
+  "longDescription": "Discover Llama and Alpaca Trekking with Outdoor Fondue in Liechtenstein in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "28",
+    "title": "Llama and alpaca trekking",
+    "slug": "llama-and-alpaca-trekking",
+    "description": "Book now your excursion with llama or alpaca trekking. The beautiful and curious animals fit almost every event: whether children's birthday party, wedding or school trip. A hike with the animals through the mountains or along meadows and rivers is a special experience for young and old. Get to know the cute animals up close while you walk with them through beautiful landscapes."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-outdoor-fondue-liechtenstein/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Fondue while hiking with alpacas, steaming, rustic surroundings, evening ambiance.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fondue_draussen_46323b8669.jpg"
+    },
+    {
+      "alternativeText": "Alpaca Trekking at Night with Torches in the Snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Alpaka_und_Lama_Trekking_abends_1b25749d4f.jpg"
+    },
+    {
+      "alternativeText": "Man cooking outdoors next to tipi and fire pit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Alpaka_und_Lama_Trekking_Triesenberg_a9f22a2337.jpg"
+    },
+    {
+      "alternativeText": "Group activity at the outdoor fondue with alpacas in 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Outdoorfondue_Alpakawanderung_819f7f7576.jpg"
+    },
+    {
+      "alternativeText": "Alpaca trekking in winter with people in warm clothing and snowy landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/52679071_2290114171008808_3714962203539931136_n_801fa09a15.jpg"
+    },
+    {
+      "alternativeText": "Alpaca eats fresh grass on a trekking tour",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/62419632_2467750733245150_5556954156444418048_n_fb172fc64f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "fondue"
+  ],
+  "featured": false
+}

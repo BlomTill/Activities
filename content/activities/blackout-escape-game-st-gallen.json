@@ -1,0 +1,80 @@
+{
+  "id": "457",
+  "slug": "blackout-escape-game-st-gallen",
+  "name": " \"Blackout\" Escape Game St. Gallen",
+  "description": "Discover  \"Blackout\" Escape Game St. Gallen in Switzerland.",
+  "longDescription": "Discover  \"Blackout\" Escape Game St. Gallen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/blackout-escape-game-st-gallen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Escape Game: Group solves puzzles in nature on a sunny day with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1d204c8aa7fb746e4146932cf7ad2a39.jpg"
+    },
+    {
+      "alternativeText": "Escape Game: Four friends enjoy an exciting adventure solving puzzles in a picturesque town.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d20c72f783f27e7f06e9be5504cd1d8f.jpg"
+    },
+    {
+      "alternativeText": "Escape Game: exciting team activity outdoors for friends and families.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/404e311a79edc100c2477adb7cdd6da0.jpg"
+    },
+    {
+      "alternativeText": "Escape Game: solve tricky puzzles as a team and experience exciting adventures in an engaging room.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d56abf59bb845aabeefc7676ccb8e47b.jpg"
+    },
+    {
+      "alternativeText": "Escape Game: Group solves puzzles and has fun in an exciting team challenge.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/82c5cb4f1c34c955a68b3423f9b44693.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

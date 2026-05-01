@@ -1,0 +1,102 @@
+{
+  "id": "277",
+  "slug": "appenzell-culinary-bus-tour",
+  "name": "From Zurich: Culinary bus tour to Appenzell",
+  "description": "Discover From Zurich: Culinary bus tour to Appenzell in Switzerland.",
+  "longDescription": "Discover From Zurich: Culinary bus tour to Appenzell in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/appenzell-culinary-bus-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Cheese platter at cheese tasting in Appenzell with grapes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_cheese_tasting_swiss_cheese_3d7b6c0f17_44cb5fb64b.jpg"
+    },
+    {
+      "alternativeText": "Appenzell Chocolate Factory showcases a selection of pralines in various flavors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_chocolat_manufacture_swiss_chocolate_aada0ecbdb_f4b9521ad5.jpg"
+    },
+    {
+      "alternativeText": "Appenzell Chocolate Factory showcases a selection of fine chocolates",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_chocolat_manufacture_swiss_chocolate_1_1fe1271ce4_c48ba36e80.jpg"
+    },
+    {
+      "alternativeText": "Gift bag with design from Appenzell, 2023, man holding bag",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_goodie_bag_brauerei_locher_64a455b045_4b60e8da31.jpg"
+    },
+    {
+      "alternativeText": "Restaurant Appenzell with guests on a bench, friendly atmosphere, view",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_hoher_kasten_alpine_garden_restaurant_b35584b55a_117a1dee83.jpg"
+    },
+    {
+      "alternativeText": "Hoher Kasten viewpoint with panoramic views of the mountains and Lake Constance.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_hoher_kasten_lake_platform_fb80bf2354_5c00a4595d.jpg"
+    },
+    {
+      "alternativeText": "Hoher Kasten Grand Tour with a view of Alpstein, mountain landscape, and sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_hoher_kasten_photo_spot_grand_tour_switzerland_6c6a605c0c_f6c88402a2.jpg"
+    },
+    {
+      "alternativeText": "Swiss cheese production with fresh cheese curd in large molds.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_show_dairy_swiss_cheese_442b4b7a00_65dc73921e.jpg"
+    },
+    {
+      "alternativeText": "Appenzell Land with blooming meadows, cows grazing in the landscape in spring",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_swiss_countryside_blooming_meadows_0d780b71c7_402e211e53.jpg"
+    },
+    {
+      "alternativeText": "Appenzell village with typical houses and Swiss flags.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_appenzell_village_pedestrian_zone_06e2d71add_90d57fb2e4.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

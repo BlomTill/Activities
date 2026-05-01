@@ -1,0 +1,82 @@
+{
+  "id": "1186",
+  "slug": "lucerne-middle-ages-city-tour",
+  "name": "Time travel to the Middle Ages Lucerne city tour",
+  "description": "Discover Time travel to the Middle Ages Lucerne city tour in Switzerland.",
+  "longDescription": "Discover Time travel to the Middle Ages Lucerne city tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-middle-ages-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Guided tour Lucerne with historical viewpoints and representations",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kapellbruecke_Mittelalter_LT_Stadtfuehrung13_2884_60ed66b0a5.jpg"
+    },
+    {
+      "alternativeText": "Old Pharmacy Lucerne with historic facade and signs on Bahnhofstrasse",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Alte_Apotheke_DSC_02122_36b68e0ba1.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Medieval City Tour with participants in the historic building.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spreuerbruecke_Mittelalter_LT_Stadtfuehrung13_3072_67694a3584.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Medieval City Tour with Historical Buildings and Participants",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/stadtfuehrung_luzern_hirschenplatz_MG_2273_c0bcabd424.jpg"
+    },
+    {
+      "alternativeText": "View of Lucerne with the city and Alps in the background, cloudy sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussich_auf_Luzern_Luzern_Tourismus_478345c58b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,92 @@
+{
+  "id": "407",
+  "slug": "fat-boy-escooter-tour-locarno-maggiavalley-tenero",
+  "name": "Fat Boy E-Scooter Tour Locarno and Maggia Valley from Tenero",
+  "description": "Discover Fat Boy E-Scooter Tour Locarno and Maggia Valley from Tenero in Switzerland.",
+  "longDescription": "Discover Fat Boy E-Scooter Tour Locarno and Maggia Valley from Tenero in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "103",
+    "title": "E-Scooter",
+    "slug": "e-scooter",
+    "description": "Book an e-scooter excursion here, self-guided or with a professional guide. E-scooters are often used for sightseeing to quickly cover shorter distances. These are usually e-scooters, which are usually offered without a seat. The maneuverable e-scooters quickly reach their destinations even in narrow alleys. Rides along the banks of rivers or lakes are particularly popular. You enjoy the view, are in the middle of nature and don't have to exert yourself. E-scooters can reach up to 20 km/h.\n"
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-scooter/fat-boy-escooter-tour-locarno-maggiavalley-tenero/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "ticinoquad: Group relaxing in the Maggiatal surrounded by picturesque nature in spring",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20230401_145135_12bf9245f5.jpg"
+    },
+    {
+      "alternativeText": "ticinoquad: discover the landscape of the Maggia Valley while quad biking with friends and family",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20230401_144810_a690d271b0.jpg"
+    },
+    {
+      "alternativeText": "Ticinoquad: Experience the Maggia Valley while biking and enjoy the surrounding nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20230401_142457_1d0153ec30.jpg"
+    },
+    {
+      "alternativeText": "Maggiatal: Impression of a narrow bridge in nature, ideal for adventures and group activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20220810_095041_bba80824a5.jpg"
+    },
+    {
+      "alternativeText": "Ticinoquad: Roller in Nature in the Maggia Valley with impressive surroundings and riverbed.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20220810_093823_2_19958b8636.jpg"
+    },
+    {
+      "alternativeText": "ticinoquad: Bicycle group with safety vests in the Maggia Valley, ideal for adventures and nature experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20230401_152247_edc6be5480.jpg"
+    },
+    {
+      "alternativeText": "ticinoquad: Experience the spectacular backdrop of the Maggia Valley with unforgettable adventures on scooters.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ticinoquad_Scootertouren6_672494bc7d.jpg"
+    },
+    {
+      "alternativeText": "Ticinoquad: Culinary selection with sausages, cheese, pickled vegetables, and fresh ingredients in Maggiatal.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20230401_154718_2c4f1e8823.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

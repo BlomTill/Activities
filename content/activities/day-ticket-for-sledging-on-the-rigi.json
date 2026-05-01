@@ -1,0 +1,79 @@
+{
+  "id": "1499",
+  "slug": "day-ticket-for-sledging-on-the-rigi",
+  "name": "Sledding Rigi day ticket incl. train ticket",
+  "description": "Discover Sledding Rigi day ticket incl. train ticket in Switzerland.",
+  "longDescription": "Discover Sledding Rigi day ticket incl. train ticket in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "31",
+    "title": "Sledding and bobsleighing",
+    "slug": "sledding",
+    "description": "Book your ticket here for tobogganing or bobsledding. Tobogganing is a blast in Switzerland. In each of the 345 ski resorts, you’ll find at least one toboggan run. Once you go tobogganing, you’ll be hooked. The crunching of the runners on fresh snow and the thrilling fun in the midst of a magical winter landscape has enchanted people since ancient times. In bobsledding, teams ride in special sleds called bobs down an icy bobsled track. There, they reach speeds of up to 150 km/h."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rigi/day-ticket-for-sledging-on-the-rigi/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rigi sledge riding with drivers on a snow slope in winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_7a645295eafc0241a281a93203c11507_1a0e10cc32.jpg"
+    },
+    {
+      "alternativeText": "Sledding on Rigi with friends in sunny weather in the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_5c9c7b5b94d74509b8dca6006a98bb24_3c792f90d3.jpg"
+    },
+    {
+      "alternativeText": "Rigi Sledding 2023: Sledding in the Snow, Two People, Sunny Weather",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_347590469388b23909f0a9cb112c237a_d5a717a459.jpg"
+    },
+    {
+      "alternativeText": "Sledging on a snowy alpine meadow with a backdrop of the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_243ba67057b4462e01804dbf2c05ac66_b7aaa46f85.jpg"
+    },
+    {
+      "alternativeText": "Rigi sledging with snow, spruce forest, and mountain landscape in winter 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_3ee908ac6298420644532d1942fc2c86_6439bb033d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train"
+  ],
+  "featured": false
+}

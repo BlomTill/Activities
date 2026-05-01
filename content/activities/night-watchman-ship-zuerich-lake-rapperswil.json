@@ -1,0 +1,102 @@
+{
+  "id": "691",
+  "slug": "night-watchman-ship-zuerich-lake-rapperswil",
+  "name": "Night Watchman Ship with Soup from Rapperswil",
+  "description": "Discover Night Watchman Ship with Soup from Rapperswil in Switzerland.",
+  "longDescription": "Discover Night Watchman Ship with Soup from Rapperswil in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/night-watchman-ship-zuerich-lake-rapperswil/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Nachtwächter am Zürichsee",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e3e26ec7777d4a03f3c0efeb6a4ebc22.jpg"
+    },
+    {
+      "alternativeText": "Abendstimmung am Zürichsee",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6b58ff0feb6afd295df66e4cbb40f2b6.jpg"
+    },
+    {
+      "alternativeText": "Abendstimmung am Zürichsee",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f0c736cd452bbcac72cdaaec2277e9f7.jpg"
+    },
+    {
+      "alternativeText": "Abendstimmung am Zürichsee",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/17726d1814f664fec2facecaa1cb7ff6.jpg"
+    },
+    {
+      "alternativeText": "Abendstimmung am Zürichsee",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1a11d1b9600352449cb513116b575b1f.jpg"
+    },
+    {
+      "alternativeText": "Gedeckte Tische",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8674dba4c952bf49940739ab485492fe.jpg"
+    },
+    {
+      "alternativeText": "Motorschiff Obersee II",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/169d0b0a8353793e8fc26af07c5136f4.jpg"
+    },
+    {
+      "alternativeText": "Gedeckte Tische",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b540c8bf768d484f0796a266c7a897d.jpg"
+    },
+    {
+      "alternativeText": "Motorschiff Obersee II",
+      "caption": "Schifffahrt Zürichsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9b45c6e4dc32548a0f070dc738f54b3e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "watch"
+  ],
+  "featured": false
+}

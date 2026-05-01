@@ -1,0 +1,85 @@
+{
+  "id": "1348",
+  "slug": "deadwood-valley-virtual-reality-game-zurich",
+  "name": "\"Deadwood Valley\" virtual reality game in Zurich",
+  "description": "Discover \"Deadwood Valley\" virtual reality game in Zurich in Switzerland.",
+  "longDescription": "Discover \"Deadwood Valley\" virtual reality game in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/deadwood-valley-virtual-reality-game-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Deadwood Valley: thrilling scenery with survivors fighting against zombies in a dystopian world.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Deadwood_Valley_667d6744a0.jpg"
+    },
+    {
+      "alternativeText": "Deadwood Valley: Adventure game with mysterious character and thrilling backdrop of the ghost world.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Deadwood_Valley_2_8cedb06625.jpg"
+    },
+    {
+      "alternativeText": "Deadwood Valley: Action-packed scene with zombies and helicopters during the night in an urban environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Experience_Artwork_Horizontal1_1000x650_new_d8b1594107.jpg"
+    },
+    {
+      "alternativeText": "Deadwood Valley: an action-packed game with monsters in a dark city at night, full of suspense.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Experience_Artwork_Horizontal2_1000x650_new_1_f34968959f.jpg"
+    },
+    {
+      "alternativeText": "Deadwood Valley: gripping action scene with teams in a dark, vampiric landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Experience_Artwork_Large_2000x1000_new_a0a7e1c173.jpg"
+    },
+    {
+      "alternativeText": "Deadwood Valley: fascinating piece of art with a haunting atmosphere and impressive nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Artwork_Verticle_eb2cc9b11e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

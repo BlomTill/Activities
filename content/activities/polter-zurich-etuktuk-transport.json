@@ -1,0 +1,70 @@
+{
+  "id": "1328",
+  "slug": "polter-zurich-etuktuk-transport",
+  "name": "Polter-eTuk private transfer in Zurich",
+  "description": "Discover Polter-eTuk private transfer in Zurich in Switzerland.",
+  "longDescription": "Discover Polter-eTuk private transfer in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "105",
+    "title": "Transfer",
+    "slug": "transfer",
+    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/transfer/polter-zurich-etuktuk-transport/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Pink Lady",
+      "caption": "Polter Tuk",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24e678f3940c6b4b32410a0b138fd2e9.jpg"
+    },
+    {
+      "alternativeText": "weisser Tuk Tuk",
+      "caption": "Polter Tuk",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/267b27362cf0cea38a98b35d9d1adc01.jpg"
+    },
+    {
+      "alternativeText": "weisser Tuk Tuk",
+      "caption": "Polter Tuk",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/101d598b3c7ee91cf003ebb74bd5a207.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

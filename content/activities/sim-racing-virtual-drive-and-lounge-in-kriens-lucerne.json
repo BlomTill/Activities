@@ -1,0 +1,82 @@
+{
+  "id": "984",
+  "slug": "sim-racing-virtual-drive-and-lounge-in-kriens-lucerne",
+  "name": "\"Sim Racing\" virtual drive and lounge in Kriens",
+  "description": "Discover \"Sim Racing\" virtual drive and lounge in Kriens in Switzerland.",
+  "longDescription": "Discover \"Sim Racing\" virtual drive and lounge in Kriens in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "30151",
+    "title": "Racing simulator",
+    "slug": "racing-simulator",
+    "description": "Experience the excitement of motorsport up close with a racing simulator. These state-of-the-art simulators offer you realistic driving simulations that are also used by professional racing drivers for training purposes. Immerse yourself in detailed replicas of real racetracks and vehicles and improve your driving skills and strategies in a safe, controlled environment. Enjoy lifelike graphics and physically precise driving dynamics, complemented by variable weather conditions. Give it a try and feel the thrill of motorsport."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-kriens-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Nurburgring E Sports Event_82",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48c43d26dfc3ccdca63e67a72f053126.jpg"
+    },
+    {
+      "alternativeText": "1Z3A8043",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7f51ca1bcef233464e366d06131bcf7c.JPG"
+    },
+    {
+      "alternativeText": "23",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec3b33c1bc368711d64c0451e073b21f.jpg"
+    },
+    {
+      "alternativeText": "A guy at the Nürburgring (2)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/96ed801d774f453c42e39668447f7452.jpg"
+    },
+    {
+      "alternativeText": "249A7744",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/669b3ed1998d5830cf6925ca69fdacf1.jpg"
+    },
+    {
+      "alternativeText": "nurburgring eSports Lounge Bar Buffet2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b676100e383773e7dfd331eaf0548c3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

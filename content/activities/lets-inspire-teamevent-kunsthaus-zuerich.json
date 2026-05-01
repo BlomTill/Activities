@@ -1,0 +1,97 @@
+{
+  "id": "856",
+  "slug": "lets-inspire-teamevent-kunsthaus-zuerich",
+  "name": "\"Let's inspire\" team event at the Kunsthaus Zurich",
+  "description": "Discover \"Let's inspire\" team event at the Kunsthaus Zurich in Switzerland.",
+  "longDescription": "Discover \"Let's inspire\" team event at the Kunsthaus Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museums/lets-inspire-teamevent-kunsthaus-zuerich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/958c64ede300d9a1e7efc9cbd887478e.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3e84fe7d48a1bbd201cd136df1a158a.JPG"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f3fec5a46647f0ba807a3622b561141.JPG"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0499f2bb71b65b8ae1bdedb7c50533db.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8fb000036588c7e31bd94442a03a317c.JPG"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7737ebd802fa4057b74b8a9e1b90e4db.JPG"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10bdaadf792a736458031d1a4dd5be0e.jpg"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/85cabed4567077b826fae4ee0b478ca4.JPG"
+    },
+    {
+      "alternativeText": "Teamevent",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b0d83bf54ef4541d60c901157bc3a9f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

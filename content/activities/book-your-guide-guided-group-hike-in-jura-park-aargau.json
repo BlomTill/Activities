@@ -1,0 +1,82 @@
+{
+  "id": "758",
+  "slug": "book-your-guide-guided-group-hike-in-jura-park-aargau",
+  "name": "Book Your Guide - Guided Group Hike in Jura Park Aargau",
+  "description": "Discover Book Your Guide - Guided Group Hike in Jura Park Aargau in Switzerland.",
+  "longDescription": "Discover Book Your Guide - Guided Group Hike in Jura Park Aargau in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/book-your-guide-guided-group-hike-in-jura-park-aargau/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Herb hiking: Explore wild plants in the forest with friends and experience nature up close.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kraeuterwanderung_d02ad82025.JPG"
+    },
+    {
+      "alternativeText": "Summer hike: Explore the idyllic nature in Wittnau-Frick with a group hike.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/AZ_Sommerwanderung_Wittnau_Frick_2010_Jurapark_5_560e402a8f.JPG"
+    },
+    {
+      "alternativeText": "Networking event: People gather in nature for an event about landscape care and nature conservation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Netzwerkanlass_Natur_und_Landschaft_bc6cdc4209.JPG"
+    },
+    {
+      "alternativeText": "Crayfish: discover the fascinating animal world on an excursion in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Steinkrebs_Exkursion_52a2eb3dd1.JPG"
+    },
+    {
+      "alternativeText": "Bird course: Discovering the bird world together in nature, equipment, and group activity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Vogelkurs_Luzia_Zust_0d13e0ba06.JPG"
+    },
+    {
+      "alternativeText": "Wine hiking: Discover the wine region with tastings and expert advice - an unforgettable experience.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinwanderung_2015_78bf12ddce.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

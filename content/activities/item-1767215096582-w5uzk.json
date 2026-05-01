@@ -1,0 +1,95 @@
+{
+  "id": "551",
+  "slug": "item-1767215096582-w5uzk",
+  "name": "\"Find the Code: Traditions versus Artificial Intelligence\" Outdoor Escape Game Zug",
+  "description": "Discover \"Find the Code: Traditions versus Artificial Intelligence\" Outdoor Escape Game Zug in Switzerland.",
+  "longDescription": "Discover \"Find the Code: Traditions versus Artificial Intelligence\" Outdoor Escape Game Zug in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/item-1767215096582-w5uzk/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-train",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5223dcb667a5bc3eea8075f5c338460.jpg"
+    },
+    {
+      "alternativeText": "Card1-Train",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c746185320fb50e81aba0184e7522aab.jpg"
+    },
+    {
+      "alternativeText": "group-photo-landscape-file-phone-neutral-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d49c41e875e09cf629bc924a6d3a8da2.jpg"
+    },
+    {
+      "alternativeText": "Card2-Train",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba308fe498b7b5323da7775e2fe6f237.jpg"
+    },
+    {
+      "alternativeText": "group-photo-hk-flowers-file-phone-neutral",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/efaff46fafc166cd2f8ec4b28874ecfc.jpg"
+    },
+    {
+      "alternativeText": "group_sideways_happily-chatting-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/80e3ca07a502d4339060336098a9000e.jpg"
+    },
+    {
+      "alternativeText": "group-hk-frontal-running",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/85500239026cd258a2d2d864efba7235.jpg"
+    },
+    {
+      "alternativeText": "group-photo-landscape-front-happy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d0ed7b2f8b51da4ab95dc0373ba0026b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

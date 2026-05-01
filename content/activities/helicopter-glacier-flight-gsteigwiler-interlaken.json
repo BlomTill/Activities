@@ -1,0 +1,84 @@
+{
+  "id": "1043",
+  "slug": "helicopter-glacier-flight-gsteigwiler-interlaken",
+  "name": "Helicopter flight over glaciers with aperitif from Interlaken",
+  "description": "Discover Helicopter flight over glaciers with aperitif from Interlaken in Switzerland.",
+  "longDescription": "Discover Helicopter flight over glaciers with aperitif from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-glacier-flight-gsteigwiler-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paar am Helicopter",
+      "caption": "Rundflug Gletscher",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16b6aa9728c389083823d1f7cccbeb91.jpg"
+    },
+    {
+      "alternativeText": "Helicopter",
+      "caption": "Rundflug Gletscher",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d2789d623583ffb1a140fb2c540a68e.jpg"
+    },
+    {
+      "alternativeText": "Essen unterwegs",
+      "caption": "Rundflug Gletscher",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/364daeaa3b3bb9b1447784a23bc5036d.jpg"
+    },
+    {
+      "alternativeText": "Helicopter",
+      "caption": "Rundflug Gletscher",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e12e73e1e4bc2766cc288afc7652b29f.jpg"
+    },
+    {
+      "alternativeText": "Schilthorn",
+      "caption": "Rundflug Gletscher",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/96bd27ff5d4de6a7276e2181afbdf50c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "glacier",
+    "interlaken"
+  ],
+  "featured": false
+}

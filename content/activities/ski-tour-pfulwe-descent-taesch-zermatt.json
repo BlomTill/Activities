@@ -1,0 +1,89 @@
+{
+  "id": "1121",
+  "slug": "ski-tour-pfulwe-descent-taesch-zermatt",
+  "name": "Pfulwe ski tour with descent Täsch Zermatt guided: Private or group",
+  "description": "Discover Pfulwe ski tour with descent Täsch Zermatt guided: Private or group in Switzerland.",
+  "longDescription": "Discover Pfulwe ski tour with descent Täsch Zermatt guided: Private or group in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "95",
+    "title": "Ski touring",
+    "slug": "ski-touring",
+    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-touring/ski-tour-pfulwe-descent-taesch-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Ski tour Zermatt, active skiers, alpine landscape, clear visibility",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mp18196_5b5b9984cb.jpg"
+    },
+    {
+      "alternativeText": "Ski Tour Zermatt Pfulwe Täsch with Snow-Covered Mountains and Participants",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mp18512_4f9dd8a280.jpg"
+    },
+    {
+      "alternativeText": "Ski tour Zermatt Pfulwe Täsch with participants in mountain surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Matterhorn_Zermatters_ea9c8677fa.png"
+    },
+    {
+      "alternativeText": "Ski tour Zermatt to Pfulwe Täsch, snow-covered mountains, Matterhorn in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Bergfuehrer_Zermatters_4aa74f1483.jpg"
+    },
+    {
+      "alternativeText": "Ski tour Zermatt Pfulwe Täsch, mountain landscape, snow, winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Winter_Zermatters_0ad318b836.jpg"
+    },
+    {
+      "alternativeText": "Ski tour Zermatt Pfulwe Täsch with a view of the Matterhorn.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitouren_Zermatt_1_Zermatters_36d2a4a1ee.jpg"
+    },
+    {
+      "alternativeText": "Ski tour Zermatt Pfulwe Täsch in the snow with Matterhorn backdrop.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gornergrat_Winter_Gabriela_Keusch_1196964e4b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zermatt"
+  ],
+  "featured": false
+}

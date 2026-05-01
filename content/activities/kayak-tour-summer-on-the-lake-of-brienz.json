@@ -1,0 +1,94 @@
+{
+  "id": "806",
+  "slug": "kayak-tour-summer-on-the-lake-of-brienz",
+  "name": "Kayak tour in summer on Lake Brienz",
+  "description": "Discover Kayak tour in summer on Lake Brienz in Switzerland.",
+  "longDescription": "Discover Kayak tour in summer on Lake Brienz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "26",
+    "title": "Kayak",
+    "slug": "kayak",
+    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/kayak/kayak-tour-summer-on-the-lake-of-brienz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kayaking on Lake Brienz. Two paddlers in yellow kayaks surrounded by mountains. Clear sky and calm water surface.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_11d6da80569d3627fe2b2d10ac1e2b3c_a567960fee.jpg"
+    },
+    {
+      "alternativeText": "Group kayak tour on Lake Brienz, participants in different kayaks, rocks in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruppentour_Kajak_Brienzersee_ac06a32b02.jpg"
+    },
+    {
+      "alternativeText": "Kayak tour on Lake Brienz with group, participants on the beach, relaxed atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_915e272a874959b64c618f2a36244764_57b7755d9a.jpg"
+    },
+    {
+      "alternativeText": "Kayaking on Lake Brienz with several kayaks in bright colors and mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_e35eeb3bf34157c38c1cd0fa2ba58d3e_f03a596d78.jpg"
+    },
+    {
+      "alternativeText": "Kayaking on Lake Brienz with a guide paddling on the water in front of mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_445e7060f9b1c82c9a685e888b48cce5_1c75fc5510.jpg"
+    },
+    {
+      "alternativeText": "Kayaking on Lake Constance, two people in a kayak, turquoise water, surrounding rocks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Halbtagestour_Kajak_ccd1b03f96.jpg"
+    },
+    {
+      "alternativeText": "Kayak School Brienzersee during kayak training on the water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kajak_Schule_Brienzersee_ff5964209d.jpg"
+    },
+    {
+      "alternativeText": "Guided kayaking tour on Lake Brienz, participants paddle in kayak, sunny weather.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gefuehrte_Kajaktour_Brienzersee_942144149e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

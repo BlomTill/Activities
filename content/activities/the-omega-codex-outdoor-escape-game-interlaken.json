@@ -1,0 +1,98 @@
+{
+  "id": "593",
+  "slug": "the-omega-codex-outdoor-escape-game-interlaken",
+  "name": "\"The Omega Codex\" Outdoor Escape Game Interlaken",
+  "description": "Discover \"The Omega Codex\" Outdoor Escape Game Interlaken in Switzerland.",
+  "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-omega-codex-outdoor-escape-game-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "OmegaCodex_2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99c950237c25b95f88e042226a9bd252.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0238b587eeb95ea660c562fb4f8f024d.jpg"
+    },
+    {
+      "alternativeText": "escape-room-interlaken-banner",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba97623c8c47c3df4b0055617e190375.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fd20bac1f3bbc6bfdae4a1cf8dd140b0.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e64250afb7d37a65dbd9f51393a60e4.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fbf05efadb3f0d03ccd9d4cb71c0a5b5.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/37ca84f25787d9b80f7dd8c98a602b43.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8a1d4b999a08111ac392944738f3574c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

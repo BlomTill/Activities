@@ -1,0 +1,100 @@
+{
+  "id": "412",
+  "slug": "e-scooter-picnic-tour-graubunden-dominion",
+  "name": "E-scooter picnic tour Graubünden dominion self-guided",
+  "description": "Discover E-scooter picnic tour Graubünden dominion self-guided in Switzerland.",
+  "longDescription": "Discover E-scooter picnic tour Graubünden dominion self-guided in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "103",
+    "title": "E-Scooter",
+    "slug": "e-scooter",
+    "description": "Book an e-scooter excursion here, self-guided or with a professional guide. E-scooters are often used for sightseeing to quickly cover shorter distances. These are usually e-scooters, which are usually offered without a seat. The maneuverable e-scooters quickly reach their destinations even in narrow alleys. Rides along the banks of rivers or lakes are particularly popular. You enjoy the view, are in the middle of nature and don't have to exert yourself. E-scooters can reach up to 20 km/h.\n"
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-scooter/e-scooter-picnic-tour-graubunden-dominion/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "E-Scooter Tour: Experience the breathtaking nature of the Grisons region with friends on an exciting ride.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Photokleinformat_3_2_E_Scooter_Tour_Buendner_Herrschaft_d79e82d9a0.jpg"
+    },
+    {
+      "alternativeText": "E-Scooter Tour in Buendner Herrschaft, enjoy nature and the landscape in the region.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Computerformat_4_3_E_Scooter_Tour_Buendner_Herrschaft_1_d0c4e8ba0a.jpg"
+    },
+    {
+      "alternativeText": "E-Scooter Tour in the Bündner Herrschaft with two riders in a picturesque natural setting",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Computerformat_4_3_E_Scooter_Tour_Buendner_Herrschaft_2_d2c337af2d.jpg"
+    },
+    {
+      "alternativeText": "E-Scooter Tour: Experience the beautiful Grisons region with an E-Scooter in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Computerformat_4_3_E_Scooter_Tour_Buendner_Herrschaft_3_0a5cd50f5a.jpg"
+    },
+    {
+      "alternativeText": "E-Scooter Tour: Explore the Grisons Herrschaft with friends in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Computerformat_4_3_E_Scooter_Tour_Buendner_Herrschaft_4_858e9132ec.jpg"
+    },
+    {
+      "alternativeText": "E-Scooter tour with friends in the Grisons region to explore nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Computerformat_4_3_E_Scooter_Tour_Buendner_Herrschaft_5_5d8cb196e1.jpg"
+    },
+    {
+      "alternativeText": "E-Scooter Tour: discover the Bündner Herrschaft with modern scooters and enjoy nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Computerformat_4_3_E_Scooter_Tour_Buendner_Herrschaft_6_acbc135616.jpg"
+    },
+    {
+      "alternativeText": "E-Scooter Tour: Experience the Graubünden Herrschaft with scooters through green vineyards and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Computerformat_4_3_E_Scooter_Tour_Buendner_Herrschaft_f503cdbc93.jpg"
+    },
+    {
+      "alternativeText": "E-Scooter Tour in the Bündner Herrschaft with impressive vineyards and beautiful landscapes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Computerformat_4_3_Flaesch_Buendner_Herrschaft_644a141ab1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

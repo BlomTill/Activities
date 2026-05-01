@@ -1,0 +1,75 @@
+{
+  "id": "744",
+  "slug": "brunni-panoramaweg-wandern-gefuehrt",
+  "name": "Guided hike along the Brunni panorama path",
+  "description": "Discover Guided hike along the Brunni panorama path in Switzerland.",
+  "longDescription": "Discover Guided hike along the Brunni panorama path in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/brunni-panoramaweg-wandern-gefuehrt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Brunni: Panoramic view over the mountains with blooming meadows and sea of clouds.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d2caa0a248902a4027cc623182fd2cfd.jpg"
+    },
+    {
+      "alternativeText": "Härzlisee: quiet mountain lake in Brunni with beautiful views and hiking trails for nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b16de339582cf657fa4f910337268e8.jpg"
+    },
+    {
+      "alternativeText": "Brunni: panoramic view of the Alps, ideal for hiking and relaxing in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f50ae05c299087018cd890d146401b6.jpg"
+    },
+    {
+      "alternativeText": "Hahnen: Panoramic view of Titlis and surrounding mountains during a hike in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/46554470a9a709ee1b94ac5fd181eb12.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,80 @@
+{
+  "id": "484",
+  "slug": "exorcist-escape-room-dietlikon",
+  "name": "\"Exorcist\" Escape Room in Dietlikon",
+  "description": "Discover \"Exorcist\" Escape Room in Dietlikon in Switzerland.",
+  "longDescription": "Discover \"Exorcist\" Escape Room in Dietlikon in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/exorcist-escape-room-dietlikon/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Szene aus Exorcist",
+      "caption": "Escape Room Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f4e6f75822a3708e6a17f68ca17d169.jpg"
+    },
+    {
+      "alternativeText": "Szene aus Exorcist",
+      "caption": "Escape Room Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e7e445aca7d319a640c8b21909773332.jpg"
+    },
+    {
+      "alternativeText": "Szene aus Exorcist",
+      "caption": "Escape Room Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/014194e85183b6e182a041b0d929cfd2.jpeg"
+    },
+    {
+      "alternativeText": "Szene aus Exorcist",
+      "caption": "Escape Room Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/75824dd057edc71184eb5f8495159aea.jpeg"
+    },
+    {
+      "alternativeText": "Szene aus Exorcist",
+      "caption": "Escape Room Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/518e02acb35f67413424896cddaa7f81.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

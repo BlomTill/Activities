@@ -1,0 +1,82 @@
+{
+  "id": "1220",
+  "slug": "best-basel-escooter-guided-private-tour",
+  "name": "Best of Basel e-scooter guided private tour",
+  "description": "Discover Best of Basel e-scooter guided private tour in Switzerland.",
+  "longDescription": "Discover Best of Basel e-scooter guided private tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/best-basel-escooter-guided-private-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "E-scooter: Lined up e-scooters along the banks of the Rhine in Basel for environmentally friendly mobility.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_2000x2000_0_70_2f31037ef89f748d4852a67d5074f73b_ee3fe30e3b.jpg"
+    },
+    {
+      "alternativeText": "Escooter: group of riders on e-scooters in Basel in wintery weather",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2000x2000_0_70_50a90172f7fa68e67873e5b162b3aebb_669de3cfba.jpg"
+    },
+    {
+      "alternativeText": "E-scooter in Basel: Discover the city with modern e-scooters and experience the surroundings up close.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2000x2000_0_70_b0d45ad6b14db5f16d46aaf24a7e42d8_f155140aad.jpg"
+    },
+    {
+      "alternativeText": "E-scooter in Basel: Discover the city with eco-friendly e-scooters for flexible mobility.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2000x2000_0_70_8f321786f41f05542c876708637f913a_89c3ad3b00.jpg"
+    },
+    {
+      "alternativeText": "Escooter tour in Basel with friends, relaxing city exploration on electric scooters.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2000x2000_0_70_ed0cb5b18ff21ad090d85f80c30416ae_1d07660205.jpg"
+    },
+    {
+      "alternativeText": "Escooter: Discover the trendy escooters in Basel for an exciting city exploration",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_26039d934b787bef5b9007d5ba984029_8fba98a838.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

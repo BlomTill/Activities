@@ -1,0 +1,80 @@
+{
+  "id": "542",
+  "slug": "escape-game-house-money-rapperswil",
+  "name": "\"The Money Heist\" Escape Game in Rapperswil",
+  "description": "Discover \"The Money Heist\" Escape Game in Rapperswil in Switzerland.",
+  "longDescription": "Discover \"The Money Heist\" Escape Game in Rapperswil in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/escape-game-house-money-rapperswil/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "La Casa de Dinero",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e41add74031a3fa96558c8218af19be6.jpeg"
+    },
+    {
+      "alternativeText": "La Casa de Dinero",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a953a89371e64fe05031b2f42ef9af93.jpeg"
+    },
+    {
+      "alternativeText": "La Casa de Dinero",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8affd92a9ec757e6bb4b10ad7ca6f6af.jpeg"
+    },
+    {
+      "alternativeText": "Stadt",
+      "caption": "Rapperswil",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6e62d097c9e9cb4e587e69cabe5963e0.jpg"
+    },
+    {
+      "alternativeText": "Rosengarten",
+      "caption": "Rapperswil",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a17b483789c74e4721028f2ba0bca2f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

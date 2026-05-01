@@ -1,4 +1,5 @@
 import activityImagesData from "@/data/activity-images.json";
+import swissActivitiesImagesData from "@/data/activity-images-swissactivities.json";
 import type { Activity, Category, ImageCredit } from "@/lib/types";
 
 /**
@@ -8,19 +9,23 @@ import type { Activity, Category, ImageCredit } from "@/lib/types";
  *  Each activity gets a photo that actually MATCHES it (not a generic
  *  "random Alps" shot). We resolve in this priority order:
  *
- *    1. `activity.image`           — manual curator override
- *    2. activity-images.json       — populated by `npm run fetch-images`,
- *                                     pulls real CC photos from Wikimedia
- *                                     Commons via the activity's wikipediaTitle
- *    3. `activity.imageUrl`        — the original (usually Unsplash) fallback
- *    4. category fallback          — a generic, category-appropriate photo
+ *    1. `activity.image`                       — manual curator override
+ *    2. activity-images-swissactivities.json   — photos scraped from
+ *                                                 SwissActivities.com — the
+ *                                                 highest-quality match because
+ *                                                 they show the actual experience
+ *                                                 the user will buy
+ *    3. activity-images.json                   — Wikipedia / Unsplash fallbacks
+ *                                                 (populated by `npm run fetch-images`)
+ *    4. `activity.imageUrl`                    — legacy field on the activity
+ *    5. category fallback                      — generic, category-appropriate photo
  *
  *  buildFallbackChain() returns all sources in priority order so the
  *  ActivityPhoto component can cascade through them client-side if any
  *  URL fails to load (404, CORS, etc.).
  *
  *  We also return optional attribution text so we can display a small
- *  "Photo: <author> · <license>" line on detail pages (Wikipedia CC rules).
+ *  "Photo: <author> · <license>" line on detail pages.
  * ──────────────────────────────────────────────────────────────────
  */
 
@@ -29,11 +34,14 @@ interface StoredImage {
   /** Which fetch source produced this image (recorded by the fetch script). */
   source?: string;
   credit?: ImageCredit;
+  alt?: string;
+  sourceUrl?: string;
 }
 
 type StoredMap = Record<string, StoredImage>;
 
 const stored = (activityImagesData as { images?: StoredMap }).images ?? {};
+const swissActivitiesStored = (swissActivitiesImagesData as { images?: StoredMap }).images ?? {};
 
 /**
  * Tiny, rights-cleared category fallback. Unsplash Source with a fixed
@@ -55,7 +63,7 @@ export interface ResolvedImage {
   /** Credit info for display (optional). */
   credit?: ImageCredit;
   /** How the resolver found this — useful for debugging / admin UI. */
-  source: "manual" | "wikipedia" | "unsplash" | "pexels" | "pixabay" | "legacy" | "category-fallback";
+  source: "manual" | "swissactivities" | "wikipedia" | "unsplash" | "pexels" | "pixabay" | "legacy" | "category-fallback";
 }
 
 /**
@@ -72,7 +80,19 @@ export function resolveActivityImage(activity: Activity): ResolvedImage {
     };
   }
 
-  // 2. Pre-fetched photo from activity-images.json (Wikipedia, Unsplash, Pexels, or Pixabay)
+  // 2. SwissActivities scraped photo — these are the actual experience photos
+  //    used on the booking page, so they're the most accurate match.
+  const fromSwissActivities = swissActivitiesStored[activity.slug];
+  if (fromSwissActivities?.src) {
+    return {
+      src: fromSwissActivities.src,
+      alt: fromSwissActivities.alt || activity.name,
+      credit: fromSwissActivities.credit ?? activity.imageCredit,
+      source: "swissactivities",
+    };
+  }
+
+  // 3. Pre-fetched photo from activity-images.json (Wikipedia, Unsplash, Pexels, or Pixabay)
   const prefetched = stored[activity.slug];
   if (prefetched?.src) {
     const knownSources = ["wikipedia", "unsplash", "pexels", "pixabay"] as const;
@@ -85,7 +105,7 @@ export function resolveActivityImage(activity: Activity): ResolvedImage {
     };
   }
 
-  // 3. Legacy imageUrl field (existing data)
+  // 4. Legacy imageUrl field (existing data)
   if (activity.imageUrl) {
     return {
       src: activity.imageUrl,
@@ -95,7 +115,7 @@ export function resolveActivityImage(activity: Activity): ResolvedImage {
     };
   }
 
-  // 4. Category fallback
+  // 5. Category fallback
   return {
     src: CATEGORY_FALLBACK[activity.category],
     alt: `${activity.category} activity in Switzerland`,
@@ -129,6 +149,7 @@ export function buildFallbackChain(activity: Activity): string[] {
   }
 
   add(activity.image);
+  add(swissActivitiesStored[activity.slug]?.src);
   add(stored[activity.slug]?.src);
   add(activity.imageUrl);
   add(CATEGORY_FALLBACK[activity.category]);

@@ -1,0 +1,107 @@
+{
+  "id": "286",
+  "slug": "zurich-heidi-swiss-farm-escape-luxury-day-tour",
+  "name": "From Zurich: Heidi Swiss Farm Escape luxury day tour",
+  "description": "Discover From Zurich: Heidi Swiss Farm Escape luxury day tour in Switzerland.",
+  "longDescription": "Discover From Zurich: Heidi Swiss Farm Escape luxury day tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/zurich-heidi-swiss-farm-escape-luxury-day-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Heidi Swiss Farm: Woman with cheese and fruits on the farm in Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_6_bc39c7d588.jpg"
+    },
+    {
+      "alternativeText": "Heidi Swiss Farm: idyllic landscape with flowers and mountains in the background, perfect for nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_54_1_da66e47759.JPG"
+    },
+    {
+      "alternativeText": "Cheese fondue: Enjoy Swiss cheese and social moments outdoors while cooking.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_4_7d19dd3dc2.jpg"
+    },
+    {
+      "alternativeText": "Heidi Swiss Farm: picturesque landscape with lush meadows and impressive mountains in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3326_bc6d971aed.jpg"
+    },
+    {
+      "alternativeText": "Cow barn: Kid in the barn with cows, rural idyll, farm and animal encounters.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IM_8_CB_9_1_Kopie_fe99221a2a.jpg"
+    },
+    {
+      "alternativeText": "Heidi Swiss Farm: Cows in the meadow in Switzerland in summer, idyllic landscape with nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_3_e1b8c07b9e.jpg"
+    },
+    {
+      "alternativeText": "Heidi Swiss Farm: idyllic landscape with church, green meadows, and mountains in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_1_209ae99e0d.jpg"
+    },
+    {
+      "alternativeText": "Heidi Swiss Farm: Idyllic nature with green meadows and farmhouse in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_8_7f0c05d98b.JPG"
+    },
+    {
+      "alternativeText": "Heidi Swiss Farm: idyllic scenery, green meadows, mountains, and a peaceful environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/APPI_2_1_7056133cab.jpg"
+    },
+    {
+      "alternativeText": "Heidi Swiss Farm: picturesque landscape with meadows, hills, and charming buildings in the Zurich Oberland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_9_40948a76a7.JPG"
+    },
+    {
+      "alternativeText": "Heidi Swiss Farm: picturesque landscape with spacious fields and traditional architecture",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/HANSJO_1_318be07a85.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

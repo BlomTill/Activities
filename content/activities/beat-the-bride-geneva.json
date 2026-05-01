@@ -1,0 +1,87 @@
+{
+  "id": "582",
+  "slug": "beat-the-bride-geneva",
+  "name": "\"Beat the bride\" in Geneva: action-packed hen party",
+  "description": "Discover \"Beat the bride\" in Geneva: action-packed hen party in Switzerland.",
+  "longDescription": "Discover \"Beat the bride\" in Geneva: action-packed hen party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Geneva: View of Lake Geneva and the fountain with historic buildings in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Genf_unsplash_d0f462db6d.jpg"
+    },
+    {
+      "alternativeText": "Bachelorette Party: Celebrate with friends on a city stroll in a lively environment full of fun",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_3_bb86d43448.jpg"
+    },
+    {
+      "alternativeText": "Bachelorette Party: Celebrate with friends at an unforgettable outdoor activity in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_2_2cd6550dff.jpg"
+    },
+    {
+      "alternativeText": "Team Bride: Friends celebrate an unforgettable bachelorette party in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_1_2ecd17d300.jpg"
+    },
+    {
+      "alternativeText": "City view in Geneva: historic buildings, charming streets, and vibrant atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pablo_velasquez_qwzly_FC_Hr_LA_unsplash_53c3f3e970.jpg"
+    },
+    {
+      "alternativeText": "Team building with the bride in a garden full of flowers, friends are keeping her balanced.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_4_4eae682f17.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

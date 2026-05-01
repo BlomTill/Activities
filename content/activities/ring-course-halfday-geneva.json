@@ -1,0 +1,85 @@
+{
+  "id": "1446",
+  "slug": "ring-course-halfday-geneva",
+  "name": "Half-day ring course with a ring to take home",
+  "description": "Discover Half-day ring course with a ring to take home in Switzerland.",
+  "longDescription": "Discover Half-day ring course with a ring to take home in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/ring-course-halfday-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Ringbearbeitung",
+      "caption": "Ringkurs",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/542489b16de0207b9bade7f19b69e1e8.jpg"
+    },
+    {
+      "alternativeText": "Ringbearbeitung",
+      "caption": "Ringkurs",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be750e863f4423b1318b6af162dff8a5.jpg"
+    },
+    {
+      "alternativeText": "Ringbeispiel",
+      "caption": "Ringkurs",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/425a5d8005d30fd9ae44c49b44e857c6.jpg"
+    },
+    {
+      "alternativeText": "Ringbeispiel",
+      "caption": "Ringkurs",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c67acbb135da7543ab7aa3eb31056459.jpg"
+    },
+    {
+      "alternativeText": "Oberflächen",
+      "caption": "Ringkurs",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0a693cfe727de0990eab09f6ee01b534.jpg"
+    },
+    {
+      "alternativeText": "Modelle",
+      "caption": "Ringkurs",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3064d471b1eaf481e77a5ee8c2b5d1b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

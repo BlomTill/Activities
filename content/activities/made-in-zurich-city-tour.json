@@ -1,0 +1,85 @@
+{
+  "id": "1170",
+  "slug": "made-in-zurich-city-tour",
+  "name": "\"Made in Zurich\" City Tour Zurich",
+  "description": "Discover \"Made in Zurich\" City Tour Zurich in Switzerland.",
+  "longDescription": "Discover \"Made in Zurich\" City Tour Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/made-in-zurich-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Made in Zürich: interesting tour with a focus on nature, group activities, and art.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3d789650d94f8f10c25dbe2c225b8243.jpg"
+    },
+    {
+      "alternativeText": "Made in Zurich: relaxed people enjoying coffee in a charming café in the city",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fdbb303a89d578c2c218b9053970887a.jpg"
+    },
+    {
+      "alternativeText": "Made in Zurich: Discover the exciting tour with enjoyment and great people at local delicacies.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a619c0b3d6ce7a0b4ef87ac05ccd8c8c.jpg"
+    },
+    {
+      "alternativeText": "Made in Zurich: Discover local products and creative crafts in Zurich's vibrant shopping atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/eaf96a0ca464bd0b3e562df9441154c2.jpg"
+    },
+    {
+      "alternativeText": "Made in Zurich: Discover local products with friends while enjoying art and creativity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bee62651f0138c1fde86392cd5e47e94.jpg"
+    },
+    {
+      "alternativeText": "Made in Zurich: Discover exclusive products in a great atmosphere in the heart of the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5e6b4d9d049e08e6e57b68a4d1cbf6d8.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

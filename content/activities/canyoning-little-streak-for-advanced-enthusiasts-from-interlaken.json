@@ -1,0 +1,109 @@
+{
+  "id": "205",
+  "slug": "canyoning-little-streak-for-advanced-enthusiasts-from-interlaken",
+  "name": "Canyoning Little Streak for Advanced Enthusiasts from Interlaken",
+  "description": "Discover Canyoning Little Streak for Advanced Enthusiasts from Interlaken in Switzerland.",
+  "longDescription": "Discover Canyoning Little Streak for Advanced Enthusiasts from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-little-streak-for-advanced-enthusiasts-from-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Schliere photoshoot 202539",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4966ed25289214e09dcd6894ad9d8529.jpg"
+    },
+    {
+      "alternativeText": "Shliere photoshoot 202543",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3ebda0aab3e730b1fb527c2aafd1a480.jpg"
+    },
+    {
+      "alternativeText": "Schliere photoshoot 20253",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be99fd58cdd193ba71661820bd185016.jpg"
+    },
+    {
+      "alternativeText": "Schliere photoshoot 202513",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b0c97d8df0ba05fbadc15d9ec8c617b4.jpg"
+    },
+    {
+      "alternativeText": "Shutter photoshoot 202519",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1e63910e1e0bbb2ca0310efdc614a76c.jpg"
+    },
+    {
+      "alternativeText": "Shooting photos 202530",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b07ae470344ef1cd52c160d2e0d71437.jpg"
+    },
+    {
+      "alternativeText": "Schliere photoshoot 202545",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a63f0bf40eac9d131426a957aff2fce3.jpg"
+    },
+    {
+      "alternativeText": "Schliere photoshoot 202550",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/78ed4a4b963352d39ca329d9593c48d8.jpg"
+    },
+    {
+      "alternativeText": "Shutter photoshoot 202552",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5974dbf98f45d5081ec86e6b902b2f90.jpg"
+    },
+    {
+      "alternativeText": "Schliere photoshoot 202558",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb8669fa58127d6ba159a298199d1e0a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning",
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

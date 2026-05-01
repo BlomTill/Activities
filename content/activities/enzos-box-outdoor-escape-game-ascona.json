@@ -1,0 +1,90 @@
+{
+  "id": "651",
+  "slug": "enzos-box-outdoor-escape-game-ascona",
+  "name": "\"Enzo's Box\" Outdoor Escape Game Ascona",
+  "description": "Discover \"Enzo's Box\" Outdoor Escape Game Ascona in Switzerland.",
+  "longDescription": "Discover \"Enzo's Box\" Outdoor Escape Game Ascona in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/enzos-box-outdoor-escape-game-ascona/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Sato Code Ascona 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b0bab072a1aff7f74087e8f36539a442.jpg"
+    },
+    {
+      "alternativeText": "01 Sato Code Ascona 4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6998f641f1a7242e3e27e158a42d6c1e.jpg"
+    },
+    {
+      "alternativeText": "02 Escape-Room-Ascona-Banner-a",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50e38d5b560ecfad3c22f8808712d006.jpg"
+    },
+    {
+      "alternativeText": "03 Escape-Room-Ascona-Banner",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/68bce37f82cd2124947aaa7621189437.jpg"
+    },
+    {
+      "alternativeText": "04 Sato Code Ascona 2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0126145239a51034a18ac536a005575.jpg"
+    },
+    {
+      "alternativeText": "escape-room-ascona-6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6939491f6e95fc793e7f9b5d8d43cc4c.jpg"
+    },
+    {
+      "alternativeText": "Sato Code Ascona 3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2c751225fdb747c232e8e662c7c3c2ef.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

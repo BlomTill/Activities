@@ -1,0 +1,80 @@
+{
+  "id": "166",
+  "slug": "private-sunrise-balloon-ride-eastern-switzerland",
+  "name": "Private Sunrise Balloon Ride Eastern Switzerland",
+  "description": "Discover Private Sunrise Balloon Ride Eastern Switzerland in Switzerland.",
+  "longDescription": "Discover Private Sunrise Balloon Ride Eastern Switzerland in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "44",
+    "title": "Ballooning",
+    "slug": "ballooning",
+    "description": "Book a hot air balloon ride in Switzerland. Since the first balloon went up over Basel in 1788, ballooning has been one of the most special experiences. You float almost silently over the mountains, lakes or cities and can see the world from a bird's eye view. You will enjoy views and a silence that you can only enjoy in a balloon. In good weather, balloon flights are possible all year round."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ballooning/private-sunrise-balloon-ride-eastern-switzerland/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_7486",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5075b7b627bc0ad229ff28a1b90e858a.JPG"
+    },
+    {
+      "alternativeText": "IMG_5852",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ab57fcea11a0ed00cc0105061f91df43.JPG"
+    },
+    {
+      "alternativeText": "IMG_5853",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9b5b50d602db30be799c778134ccceb6.JPG"
+    },
+    {
+      "alternativeText": "IMG_5857",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a9473f50104f46c3bdc54829c5f22abe.JPG"
+    },
+    {
+      "alternativeText": "IMG_6149",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/51097abdc3ae2674a163157720e29847.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

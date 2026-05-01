@@ -1,0 +1,67 @@
+{
+  "id": "1469",
+  "slug": "penguin-feeding-at-knies-kinderzoo-rapperswil",
+  "name": "Penguin Feeding at Knies Kinderzoo Rapperswil",
+  "description": "Discover Penguin Feeding at Knies Kinderzoo Rapperswil in Switzerland.",
+  "longDescription": "Discover Penguin Feeding at Knies Kinderzoo Rapperswil in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "129",
+    "title": "Zoo",
+    "slug": "zoo",
+    "description": "Book your ticket for the zoo here. There are more than 30 zoos and animal parks in Switzerland. Most of them offer a high variety of animals that you can visit and marvel at. The oldest and also the largest zoo in Switzerland is the Basel Zoo, founded in 1874. The \"Zolli\" is located in the middle of the city and is home to more than 600 species of animals. The large Zurich zoo is known for many exotic offspring and is also very popular. Unlike the zoos in the big cities, regional zoos often display animal species that live or have lived in the wild in Switzerland. A good example is the zoo in Goldau"
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Penguins",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/432fa95dd80a07e922f912c5e82eae86.jpg"
+    },
+    {
+      "alternativeText": "penguin-knees-children-zoo-1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0717db14e5daa4b8e580968940079de3.jpg"
+    },
+    {
+      "alternativeText": "penguin-kneeling-zoo-3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/76fa9f5d29aec3ba07f8db72f038fbcb.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

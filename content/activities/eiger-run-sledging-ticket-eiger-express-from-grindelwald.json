@@ -1,0 +1,75 @@
+{
+  "id": "1494",
+  "slug": "eiger-run-sledging-ticket-eiger-express-from-grindelwald",
+  "name": "\"Eiger Run\" from the Eiger Glacier Sledging ticket Eiger Express from Grindelwald",
+  "description": "Discover \"Eiger Run\" from the Eiger Glacier Sledging ticket Eiger Express from Grindelwald in Switzerland.",
+  "longDescription": "Discover \"Eiger Run\" from the Eiger Glacier Sledging ticket Eiger Express from Grindelwald in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "31",
+    "title": "Sledding and bobsleighing",
+    "slug": "sledding",
+    "description": "Book your ticket here for tobogganing or bobsledding. Tobogganing is a blast in Switzerland. In each of the 345 ski resorts, you’ll find at least one toboggan run. Once you go tobogganing, you’ll be hooked. The crunching of the runners on fresh snow and the thrilling fun in the midst of a magical winter landscape has enchanted people since ancient times. In bobsledding, teams ride in special sleds called bobs down an icy bobsled track. There, they reach speeds of up to 150 km/h."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/eiger-glacier/eiger-run-sledging-ticket-eiger-express-from-grindelwald/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sledding on the Eiger Run: Family enjoys winter fun in the Jungfrau Region.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Eiger_Run_Jungfraubahnen_ebadcd8e58.jpg"
+    },
+    {
+      "alternativeText": "Eiger Run tobogganing in the Jungfrau region with children and mountains in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Eiger_Run_Nordwand_Jungfraubahnen_cdb9a279fd.jpg"
+    },
+    {
+      "alternativeText": "Sledding at the Eiger Glacier with a view of the impressive mountains, ideal for winter adventures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Eigergletscher_Jungfraubahnen_9216ffa553.jpg"
+    },
+    {
+      "alternativeText": "Sledding at the Eiger Glacier: Winter activity in the mountains with friends and impressive views.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Eigergletscher_Station_Jungfraubahnen_872c74e8f7.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "grindelwald"
+  ],
+  "featured": false
+}

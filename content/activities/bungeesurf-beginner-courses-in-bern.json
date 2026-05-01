@@ -1,0 +1,93 @@
+{
+  "id": "1384",
+  "slug": "bungeesurf-beginner-courses-in-bern",
+  "name": "Bungeesurf Beginner Courses in Bern",
+  "description": "Discover Bungeesurf Beginner Courses in Bern in Switzerland.",
+  "longDescription": "Discover Bungeesurf Beginner Courses in Bern in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "110",
+    "title": "Wakeboarding and Wakesurfing",
+    "slug": "wakeboarding",
+    "description": "Find your wakeboarding or wakesurfing experience here under professional guidance. Wakeboarding is a water sport that uses a board. You are strapped to this board and pulled over the water by a motorboat. The name wakeboard comes from the keel wave of the boat (wake). It is used as a launch ramp when wakeboarding. In wakesurfing, the surfer rides the wave created by the boat. They let go of the rope once they have enough speed. Both sports, especially wakeboarding, are relatively quick to learn. It's also not exhausting."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wakeboarding/bungeesurf-beginner-courses-in-bern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Picture 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ea130459ea5501dc325361abb69c438e.jpg"
+    },
+    {
+      "alternativeText": "Image2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dfce2c5fe1b102eed4a372d4379280ac.jpg"
+    },
+    {
+      "alternativeText": "Image3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16148e874ae4283d1bb1e80479e8b3a5.jpg"
+    },
+    {
+      "alternativeText": "Image4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a35d1853c2b3b98953397e8e6c2c2b3c.jpg"
+    },
+    {
+      "alternativeText": "Picture5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/520a28b8ff106010832ebb8631d6eb33.jpg"
+    },
+    {
+      "alternativeText": "Image6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c2a9cc0b5a3fb5fe70cb06824d52831.jpg"
+    },
+    {
+      "alternativeText": "Image7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/57a54481aea05c18dfe54cb783e1db17.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bungee",
+    "bern"
+  ],
+  "featured": false
+}

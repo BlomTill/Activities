@@ -1,0 +1,101 @@
+{
+  "id": "365",
+  "slug": "from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise",
+  "name": "From Geneva: Day trip to Zermatt, Matterhorn, and Glacier Paradise",
+  "description": "Discover From Geneva: Day trip to Zermatt, Matterhorn, and Glacier Paradise in Switzerland.",
+  "longDescription": "Discover From Geneva: Day trip to Zermatt, Matterhorn, and Glacier Paradise in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "SOM-north-STE-wan-5see-act-quer-hres-gpe-nat-mat-1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec8544a7a0dc1463eb758bcecb14e909.jpg"
+    },
+    {
+      "alternativeText": "SOM South TRO train timetable source factory HRES BHP NAT BER - Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/81106d7730800183fe6dd9f6d43f29c0.jpg"
+    },
+    {
+      "alternativeText": "Visitor - Zermatt letters 1 - ©Basic Home Production_v2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d15dfbacde407acd450f66186003cfbb.jpg"
+    },
+    {
+      "alternativeText": "ZBAG Small Matterhorn Observation Platform Summer 2023-4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/69199d0b22dfcdedcfbd6d0efaba040a.jpg"
+    },
+    {
+      "alternativeText": "ZBAG Bus Day of Open Train-35",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d02a8298493db49e4d7e182f8b5b1219.jpg"
+    },
+    {
+      "alternativeText": "ZBAG MAC Open Day at the Railway-36",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9951712c04ad8e2b9a1717f090d83b62.jpg"
+    },
+    {
+      "alternativeText": "ZBAG Manager Summer 2023-5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a88620e124f2ffa74edf07774946efc6.jpg"
+    },
+    {
+      "alternativeText": "ZBAG Manager Summer 2023-28",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e839663a5f434bc789322b0cb6566356.jpg"
+    },
+    {
+      "alternativeText": "ZBAG Schwarzsee Summer 2023-26",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09edcb939057a7c8bd603b0d9beaddde.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "zermatt",
+    "geneva"
+  ],
+  "featured": false
+}

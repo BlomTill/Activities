@@ -1,0 +1,93 @@
+{
+  "id": "799",
+  "slug": "canoe-rental-lake-lucerne",
+  "name": "Kayak or Canoe Rental at Lake Lucerne from Brunnen",
+  "description": "Discover Kayak or Canoe Rental at Lake Lucerne from Brunnen in Switzerland.",
+  "longDescription": "Discover Kayak or Canoe Rental at Lake Lucerne from Brunnen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "26",
+    "title": "Kayak",
+    "slug": "kayak",
+    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/kayak/canoe-rental-lake-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kanus",
+      "caption": "Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/60d5579342bcc8b25ab7e60c80f5f6f2.jpg"
+    },
+    {
+      "alternativeText": "Kanu und Steinbock",
+      "caption": "Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9944386f82aba357722f684d07bb00ba.jpg"
+    },
+    {
+      "alternativeText": "Kanu",
+      "caption": "Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b96b7bc814844bcf0268f53b09c72c34.jpg"
+    },
+    {
+      "alternativeText": "Kanus",
+      "caption": "Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/43dad4afea6bdaba8b8e8bab01643e49.jpg"
+    },
+    {
+      "alternativeText": "mehrere Kanus",
+      "caption": "Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2cfb290c4dc83f9036f1dd3fea40c232.jpg"
+    },
+    {
+      "alternativeText": "Karte Westen",
+      "caption": "Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1783336c629c9913604c373f63da5656.jpg"
+    },
+    {
+      "alternativeText": "Karte Osten",
+      "caption": "Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/546b03812eb06b1c28ad1d258fb6efad.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "lucerne"
+  ],
+  "featured": false
+}

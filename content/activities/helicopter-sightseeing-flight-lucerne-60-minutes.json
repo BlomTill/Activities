@@ -1,0 +1,100 @@
+{
+  "id": "1034",
+  "slug": "helicopter-sightseeing-flight-lucerne-60-minutes",
+  "name": "Lucerne, Jungfrau and Emmental scenic helicopter flight 60 minutes",
+  "description": "Discover Lucerne, Jungfrau and Emmental scenic helicopter flight 60 minutes in Switzerland.",
+  "longDescription": "Discover Lucerne, Jungfrau and Emmental scenic helicopter flight 60 minutes in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-lucerne-60-minutes/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Helicopter flight over Eiger, Mönch and Jungfrau in the Alps",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rundfluege_Helikopter_32726f2082.jpg"
+    },
+    {
+      "alternativeText": "Scenic helicopter flight Lucerne, snow-covered mountains, clear skies",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_30e3c80026eecd346c9d02a01bc47a86_d565bed3d6.jpg"
+    },
+    {
+      "alternativeText": "Helicopter flight over Switzerland with pilots in the cockpit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_deac57c54bd84a534a36800336e687ca_db54c5d558.jpg"
+    },
+    {
+      "alternativeText": "Lucerne helicopter tour over the city, lakes, and mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_6d28fc579527ec2e8fda8b2851896bbc_28c1795452.jpg"
+    },
+    {
+      "alternativeText": "Helicopter on stopover at the glacier in 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_cea0d06f01875cd39f8579fdf0acc1f3_df7391d50f.jpg"
+    },
+    {
+      "alternativeText": "Helicopter Lucerne, two men doing a fist bump in front of the helicopter, green meadow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_13c6514b1226cffc7ab4793bfad0bd7a_c859a655df.jpg"
+    },
+    {
+      "alternativeText": "Glacier view by helicopter over a cloud-covered valley",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_Gletscher_Helikopter_9c3383139d.jpg"
+    },
+    {
+      "alternativeText": "Helicopter flight over the Alps with a view of the sunset and clouds.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Helikopterrundflug_Aussicht_bc26508a38.jpg"
+    },
+    {
+      "alternativeText": "Helicopter flight with a view of the landscape and clouds over Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Heli_Rundflug_b9ff54ccb4.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "scenic",
+    "lucerne"
+  ],
+  "featured": false
+}

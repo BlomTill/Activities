@@ -1,0 +1,95 @@
+{
+  "id": "587",
+  "slug": "bomb-threat-escape-game-sursee",
+  "name": "\"Bomb alert\" smartphone scavenger hunt in Sursee",
+  "description": "Discover \"Bomb alert\" smartphone scavenger hunt in Sursee in Switzerland.",
+  "longDescription": "Discover \"Bomb alert\" smartphone scavenger hunt in Sursee in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/bomb-threat-escape-game-sursee/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bombenalarm, Gruppe",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fe1bfbc6bc8954a9eaba9593509f5d96.jpg"
+    },
+    {
+      "alternativeText": "Bombenalarm, Gruppe",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e2e05811c3f381d05996748faa241fb3.jpg"
+    },
+    {
+      "alternativeText": "Bombenalarm, Gruppe",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e5e8b88227094312ada699ed538c4ed6.jpg"
+    },
+    {
+      "alternativeText": "Bombenalarm, Gruppe",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5605fa5e53c3ed35ec3668ae2eb62f8d.jpg"
+    },
+    {
+      "alternativeText": "Bombenalarm, Gruppe",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5457636cc721ac61895bbeba9d51f82d.jpg"
+    },
+    {
+      "alternativeText": "Bombenalarm, Gruppe",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d6a3aa36c2193c52dac808ab8f90803f.jpg"
+    },
+    {
+      "alternativeText": "Bombenalarm, Gruppe",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0749c9649a9fb7a7c4914a5efbf7143b.jpg"
+    },
+    {
+      "alternativeText": "Bombenalarm, Gruppe",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/007a200693a3a5d3e636278b5ee52050.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,102 @@
+{
+  "id": "1368",
+  "slug": "virtual-adventure-play-story",
+  "name": "\"Play Story\" virtual adventure in Zofingen",
+  "description": "Discover \"Play Story\" virtual adventure in Zofingen in Switzerland.",
+  "longDescription": "Discover \"Play Story\" virtual adventure in Zofingen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/virtual-adventure-play-story/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Virtual Adventure: Play with colorful building blocks and discover creative possibilities in your space.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b912a6a1aff4552b9c2e891d9a949a41.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventures: Play scenario in a children's room with toys and decorations.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/90217de355c3e543f4a1250eebc8cd0b.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventures: Play different stories with children and discover creative possibilities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/eca9ac2f6ce1226f5cf15eaa9c5f2883.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: experience exciting stories with friends in a virtual world.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a7cbaeae0b2cbbe3e97c9ac5fbd33995.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Experience an exciting VR adventure with friends in an exhilarating environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4f2913609a3660be535fbdbf7bf7e347.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Play your story in an exciting environment with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/38d7a636551d37b2fce5b857e7668fb8.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventures: Experience interactive games in a creative environment with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cb51f343b341eb363011d4c837492704.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Group playing in a stylish indoor environment with a creative atmosphere",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cc3ac662ad6e2ce2b97334321890206d.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventures: Experience exciting escape room challenges with friends in a modern setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1dcd1af6220ab04a12a641ef46199a58.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure"
+  ],
+  "featured": false
+}

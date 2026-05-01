@@ -1,0 +1,94 @@
+{
+  "id": "1110",
+  "slug": "private-half-day-snowboard-lesson-for-kids-and-adults-in-leysin",
+  "name": "Private snowboard lessons for kids and adults in Leysin",
+  "description": "Discover Private snowboard lessons for kids and adults in Leysin in Switzerland.",
+  "longDescription": "Discover Private snowboard lessons for kids and adults in Leysin in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/private-half-day-snowboard-lesson-for-kids-and-adults-in-leysin/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Snowboard",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7ba66af606408a57ee9a6a43abd25589.jpg"
+    },
+    {
+      "alternativeText": "SB private",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b9ae6f0f03c6a93782909cb6339ac528.jpg"
+    },
+    {
+      "alternativeText": "Fresh snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45fa5ab43f3b320e099b78d469fba17b.jpg"
+    },
+    {
+      "alternativeText": "Berceuse lift",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7159dde802a3a1da9e39d068285fa038.jpg"
+    },
+    {
+      "alternativeText": "SB",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a810672254a562a86ae93e46d95f92b.jpg"
+    },
+    {
+      "alternativeText": "Sophie",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e33f0536fe9a37fd53d3019cccf11cf3.jpg"
+    },
+    {
+      "alternativeText": "Les Fers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e3ae433253abc5c40584ca2baeb2407.jpg"
+    },
+    {
+      "alternativeText": "Red slope",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5a87200eb19c87b5c1600e6aabde84c5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "kids"
+  ],
+  "featured": false
+}

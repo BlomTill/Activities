@@ -1,0 +1,87 @@
+{
+  "id": "167",
+  "slug": "private-balloon-ride-in-the-bern-city-region",
+  "name": "Private Balloon Ride in the Bern City Region",
+  "description": "Discover Private Balloon Ride in the Bern City Region in Switzerland.",
+  "longDescription": "Discover Private Balloon Ride in the Bern City Region in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "44",
+    "title": "Ballooning",
+    "slug": "ballooning",
+    "description": "Book a hot air balloon ride in Switzerland. Since the first balloon went up over Basel in 1788, ballooning has been one of the most special experiences. You float almost silently over the mountains, lakes or cities and can see the world from a bird's eye view. You will enjoy views and a silence that you can only enjoy in a balloon. In good weather, balloon flights are possible all year round."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ballooning/private-balloon-ride-in-the-bern-city-region/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Hot-air-balloon_Ballooning_Panoramic-view_Bern_6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0699cb48ac0d8d224355fbd64bab8b2a.jpg"
+    },
+    {
+      "alternativeText": "Hot-air-balloon_Ballooning_Panorama Bern_7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10a9cb8651d477a176151b0f70a7317e.jpg"
+    },
+    {
+      "alternativeText": "Hot-Air-Balloon_Balloon-Ride_Panorama Bern_12",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/81a485d87ada120533514eac0bb87c23.jpg"
+    },
+    {
+      "alternativeText": "Hot-air-balloon_Ballooning_Panorama Bern_9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c8ccd5a29b71f28acff8c3da650c639b.jpg"
+    },
+    {
+      "alternativeText": "Hot-Air Balloon_Ballooning_Panorama Bern_10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b2d28541ac17a5720a8a6309723d412.jpg"
+    },
+    {
+      "alternativeText": "Hot-Air-Balloon_Ballooning_Panorama Bern_11",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a28dc9367f6c87bd0485b70aebb2c60d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bern"
+  ],
+  "featured": false
+}

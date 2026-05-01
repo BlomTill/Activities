@@ -1,0 +1,80 @@
+{
+  "id": "754",
+  "slug": "ticket-from-gimmelwald-to-stechelberg",
+  "name": "Ticket from Gimmelwald to Stechelberg",
+  "description": "Discover Ticket from Gimmelwald to Stechelberg in Switzerland.",
+  "longDescription": "Discover Ticket from Gimmelwald to Stechelberg in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/ticket-from-gimmelwald-to-stechelberg/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gimmelwald Pixabay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/db392986cb974b121c760be1f0b07960.jpg"
+    },
+    {
+      "alternativeText": "01 Stechelberg_ZUR08539_webalbum_1_print",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f118a3f5f46d2029748f027fef1bc11d.jpg"
+    },
+    {
+      "alternativeText": "02 Gimmelwald-untouched",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/90ff02cf3132ff894714c316303700c5.jpg"
+    },
+    {
+      "alternativeText": "03 Alps-40743 Gimmelwald - Pixabay1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0492eedfe618daa35bfc440b1cd34cd5.jpg"
+    },
+    {
+      "alternativeText": "04 241213_1130_SBAG_deuring_webalbum_1_print",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b10b911b9669a38a25a627bcf9337a0.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,105 @@
+{
+  "id": "660",
+  "slug": "the-iguanas-outdoor-escape-game-bellinzona",
+  "name": "\"The Iguanas\" Outdoor Escape Game Bellinzona",
+  "description": "Discover \"The Iguanas\" Outdoor Escape Game Bellinzona in Switzerland.",
+  "longDescription": "Discover \"The Iguanas\" Outdoor Escape Game Bellinzona in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-iguanas-outdoor-escape-game-bellinzona/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sato Code: Discover urban life in Bellinzona with two people examining a measurement point.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code4_e317ec7882.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Discover the urban artworks in Bellinzona with friends and experience the art scene.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code3_0db83bb451.png"
+    },
+    {
+      "alternativeText": "Sato Code: Man looks at plants in Bellinzona, nature, art, group activity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code1_9dc74913e2.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: a woman proudly points at colorful wall art in Bellinzona, art, nature, city life",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code2_9f3eaf6e23.png"
+    },
+    {
+      "alternativeText": "Sato Code: People engaging in an activity in Bellinzona, group interaction, city life, exploration.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code5_14606c6173.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: A person installs a code system at a window in Bellinzona, technology and city life.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code6_1336e79b8f.png"
+    },
+    {
+      "alternativeText": "Sato Code: Woman with Sunglasses at Night in Bellinzona, Urban Style and Lifestyle",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code7_29e5fdf0ac.jpg"
+    },
+    {
+      "alternativeText": "Group of women using Sato Code in Bellinzona, 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_4199_b48f5e5c34.jpg"
+    },
+    {
+      "alternativeText": "Bellinzona: impressive castle in Ticino with views of the mountains and city, ideal for culture enthusiasts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bellinzona1_2435a7e48a.jpg"
+    },
+    {
+      "alternativeText": "Sato Code Bellinzona: modern art and colorful house facades in Bellinzona.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bellinzona2_23aa3a17e9.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

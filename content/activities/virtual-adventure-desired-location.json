@@ -1,0 +1,107 @@
+{
+  "id": "1371",
+  "slug": "virtual-adventure-desired-location",
+  "name": "Virtual Adventure Game at your desired location",
+  "description": "Discover Virtual Adventure Game at your desired location in Switzerland.",
+  "longDescription": "Discover Virtual Adventure Game at your desired location in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/virtual-adventure-desired-location/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b2de32d9f0ba7680f30709dc8e4dcc5c.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5c4d41bef933eafdf588a325663de503.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/67b921a7d7838da9c111377e1090aa73.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed8b5843e490060905b7267e8853b64b.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/afdc94482057201eee3a8d1d28712372.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d49179c33784b293862af108abc74bfe.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb570afedea1ae5b34165235052065ce.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9404d039b08d7d91c81cf6d0935db143.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/47e4cad7930ed8e38c32879556a4adf4.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure Spiel ",
+      "caption": "Virtual Reality Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9d91abf0060dc7cffcae4dd6839c3f63.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure"
+  ],
+  "featured": false
+}

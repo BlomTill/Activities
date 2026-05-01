@@ -1,0 +1,92 @@
+{
+  "id": "581",
+  "slug": "geneva-international-quarter-interactive-scavenger-hunt-smartphone",
+  "name": "Geneva (international quarter) interactive scavenger hunt with smartphone",
+  "description": "Discover Geneva (international quarter) interactive scavenger hunt with smartphone in Switzerland.",
+  "longDescription": "Discover Geneva (international quarter) interactive scavenger hunt with smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/geneva-international-quarter-interactive-scavenger-hunt-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Explorial Geneva: Experience the architecture of the Palais des Nations and discover historical places.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_1_EN_4fabcf3563.jpg"
+    },
+    {
+      "alternativeText": "Explorial Geneva: Giant armchairs in the park, ideal for groups and exploring the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_3_233ed325dc.jpg"
+    },
+    {
+      "alternativeText": "Statue of Mahatma Gandhi in Geneva, a cultural outdoor attraction among trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_2_5916877e78.jpg"
+    },
+    {
+      "alternativeText": "Explorial Geneva Int: elegant building in the park with historic charm and well-maintained landscaping",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_4_3609388b75.jpg"
+    },
+    {
+      "alternativeText": "Explorial Geneva: Discover the historic Palais des Nations with impressive architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_1_DE_eefddc27ed.jpg"
+    },
+    {
+      "alternativeText": "Explorial Geneva: impressive historical building with art installation against a picturesque backdrop.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_5_c4b94aedb3.jpg"
+    },
+    {
+      "alternativeText": "Explorial Geneva: Elegant hotel building in the city, surrounded by beautiful greenery and flowers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_6_2b404cf1c1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

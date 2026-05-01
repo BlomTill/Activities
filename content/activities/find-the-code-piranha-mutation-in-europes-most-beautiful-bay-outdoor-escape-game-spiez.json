@@ -1,0 +1,90 @@
+{
+  "id": "669",
+  "slug": "find-the-code-piranha-mutation-in-europes-most-beautiful-bay-outdoor-escape-game-spiez",
+  "name": "\"Find-the-Code: Piranha Mutation in Europe's Most Beautiful Bay\" Outdoor Escape Game Spiez",
+  "description": "Discover \"Find-the-Code: Piranha Mutation in Europe's Most Beautiful Bay\" Outdoor Escape Game Spiez in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Piranha Mutation in Europe's Most Beautiful Bay\" Outdoor Escape Game Spiez in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/find-the-code-piranha-mutation-in-europes-most-beautiful-bay-outdoor-escape-game-spiez/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-spiez",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99a17f3d96f494cd28f9b9707cd69c50.jpg"
+    },
+    {
+      "alternativeText": "map-spiez1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/61b2ebe25251efd469bb834a2e3285b8.jpg"
+    },
+    {
+      "alternativeText": "map-spiez2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6dce96ebb74538dd1c020b288dffb270.jpg"
+    },
+    {
+      "alternativeText": "find-the-code-team-photo15-fullsize",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ac75ab6a8088f82ce1189823964d8510.jpeg"
+    },
+    {
+      "alternativeText": "photo-shooting-karlsruhe-55-edited",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7280275e247532c189ef722b3b76545.jpg"
+    },
+    {
+      "alternativeText": "group-hk-file-daniel-puzzle-solved-party-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6462ebcd01c973723fb39047127d79f9.jpg"
+    },
+    {
+      "alternativeText": "photoshoot-karlsruhe-61",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/07ed76f9e6b4728c7f001c4d48bc77b3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

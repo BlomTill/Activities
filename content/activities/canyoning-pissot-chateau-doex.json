@@ -1,0 +1,72 @@
+{
+  "id": "213",
+  "slug": "canyoning-pissot-chateau-doex",
+  "name": "Pissot Canyoning in Chateau-d'Oex",
+  "description": "Discover Pissot Canyoning in Chateau-d'Oex in Switzerland.",
+  "longDescription": "Discover Pissot Canyoning in Chateau-d'Oex in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-pissot-chateau-doex/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Pissot: Experience canyoning in the gorge with a group, adventure and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/50148ac046763a10499ade8898dc74c4.jpg"
+    },
+    {
+      "alternativeText": "Canyoning at Pissot. Experience thrilling gorges and refreshing water with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/330e3dc719824ede3ef199f4ac04c359.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in the Pissot Gorge, experience the thrill of nature as you descend in the water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b6208b77de8a7b84dfd70edcf1711058.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

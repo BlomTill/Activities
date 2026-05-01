@@ -1,0 +1,74 @@
+{
+  "id": "792",
+  "slug": "football-bot-360-virtual-football-training-in-dubendorf",
+  "name": "\"Football Bot 360\" virtual football training in Dübendorf",
+  "description": "Discover \"Football Bot 360\" virtual football training in Dübendorf in Switzerland.",
+  "longDescription": "Discover \"Football Bot 360\" virtual football training in Dübendorf in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "68",
+    "title": "Indoor amusement park",
+    "slug": "indoor-amusement-park",
+    "description": "Find your indoor recreational pleasure in an adventure pool, the Citywave or a\na sports or climbing hall. Indoor amusement parks offer an activity field for all those who like to do sports, even in bad weather and in winter. They are often equipped with action-packed facilities such as trampoline areas, ball fields, climbing facilities or water sports facilities. Did you know, for example, that you can also go indoor surfing in Switzerland? In an indoor amusement park, both children and adults will find something entertaining to do"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/indoor-amusement-park/football-bot-360-virtual-football-training-in-dubendorf/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Fussballerinnen im Bot360",
+      "caption": "Fussballtraining",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/80366ef024223f3175bde0fb9b5a1864.jpg"
+    },
+    {
+      "alternativeText": "Fussballer im Bot360",
+      "caption": "Fussballtraining",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8bc332b233f99e8db699a7f9dc723499.jpg"
+    },
+    {
+      "alternativeText": "Fussballer im Bot360",
+      "caption": "Fussballtraining",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e36f18a7325c1738c1b1c7f887abc70.jpg"
+    },
+    {
+      "alternativeText": "Arena",
+      "caption": "Fussballtraining",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26f3e83db7678f2d3c6f7e89700e3e2b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train"
+  ],
+  "featured": false
+}

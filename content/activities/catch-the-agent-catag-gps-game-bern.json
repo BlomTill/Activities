@@ -1,0 +1,102 @@
+{
+  "id": "530",
+  "slug": "catch-the-agent-catag-gps-game-bern",
+  "name": "\"Catch the Agent\" GPS game for team events in Bern",
+  "description": "Discover \"Catch the Agent\" GPS game for team events in Bern in Switzerland.",
+  "longDescription": "Discover \"Catch the Agent\" GPS game for team events in Bern in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/catch-the-agent-catag-gps-game-bern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Bern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c3dc69f79e086e0a441721c98df6212.jpg"
+    },
+    {
+      "alternativeText": "7 - Action E",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c462368223a9406a5bfd8982f5fa9d74.jpg"
+    },
+    {
+      "alternativeText": "Bern: beautiful city view with river and historic buildings in the Swiss nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern_unsplash_e21d6bc75a.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Bern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b753deb4b84b046d3c210870f381e745.jpg"
+    },
+    {
+      "alternativeText": "Bern Cathedral: impressive architecture with historical flags in the city center.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern3_unsplash_8abe83689f.jpg"
+    },
+    {
+      "alternativeText": "Spieler Gruppe",
+      "caption": "Catch the Agent Bern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4dcb8bdbb9c96530bf66ec98de4147ad.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Bern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ae24fa67d19fb511e2699afd26eb48c.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Bern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cf630c6b6f4d80f61a01e39b4e4ac2d8.jpg"
+    },
+    {
+      "alternativeText": "Plan",
+      "caption": "Catch the Agent Bern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/056f0e2497625d9ef2a34c678b01810d.PNG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bern"
+  ],
+  "featured": false
+}

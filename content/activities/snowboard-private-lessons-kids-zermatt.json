@@ -1,0 +1,82 @@
+{
+  "id": "1070",
+  "slug": "snowboard-private-lessons-kids-zermatt",
+  "name": "Snowboard private course Sunnegga or Matterhorn Ski Paradise",
+  "description": "Discover Snowboard private course Sunnegga or Matterhorn Ski Paradise in Switzerland.",
+  "longDescription": "Discover Snowboard private course Sunnegga or Matterhorn Ski Paradise in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/snowboard-private-lessons-kids-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Private snowboard lessons for children in Zermatt show two kids on a snowboard. The kids are wearing colorful clothing and are on a jump. Visible mountains and a blue sky in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gravitiy_Park_cr_Michael_Portmann_4_71a903c8e8.jpg"
+    },
+    {
+      "alternativeText": "Private Snowboarding Lessons Zermatt with Kids in the Snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privatunterricht_Snowboard_Zermatters_3d04a59bb2.jpg"
+    },
+    {
+      "alternativeText": "Snowboard private lessons Zermatt for children in the Alps, jumps over a ramp.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_Freestyle_Zermatt_Zermatters_0961c370cf.jpg"
+    },
+    {
+      "alternativeText": "Private snowboard lessons for children in Zermatt 2023, snow-covered slopes, snowboarders",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_Kurs_Zermatt_1_Zermatters_146c2622bc.jpg"
+    },
+    {
+      "alternativeText": "Ski instructor in Zermatt skiing with a view of the Matterhorn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatters_Ski_Re_Grade_20_9af6c456c4.jpg"
+    },
+    {
+      "alternativeText": "Riffelsee in winter with Matterhorn in the background and snow-covered mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Riffelsee_Zermatt_Pixabay_7604289f24.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

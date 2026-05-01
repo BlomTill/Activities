@@ -1,0 +1,82 @@
+{
+  "id": "781",
+  "slug": "geowalk-in-the-sardona-geopark",
+  "name": "Geowalk in the Sardona Geopark",
+  "description": "Discover Geowalk in the Sardona Geopark in Switzerland.",
+  "longDescription": "Discover Geowalk in the Sardona Geopark in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/geowalk-in-the-sardona-geopark/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Geopark Sardona with turquoise lakes and mountain backdrop in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/geotour_1_dcd21ff685.jpg"
+    },
+    {
+      "alternativeText": "Geopark Sardona hike with tourists on benches in the forest",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/denkwerkstatt_20150724_657_f79de35215.jpg"
+    },
+    {
+      "alternativeText": "Geowandering in the Geopark Sardona with impressive rock formations.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/geotour_2_eyecatcher_a19b849ada.jpg"
+    },
+    {
+      "alternativeText": "Geowandering Geopark Sardona with a cheerful group in kilts, surrounded by trees",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/highlandgames_0037_b34af07443.jpg"
+    },
+    {
+      "alternativeText": "Geowandering in the Sardona Geopark in clear weather, surrounded by forest and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/img_5022_eyecatcher_d0314b1873.jpg"
+    },
+    {
+      "alternativeText": "Geowandering Geopark Sardona with a view of a quiet lake and mountain landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/murgseehuette_b598a95782.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

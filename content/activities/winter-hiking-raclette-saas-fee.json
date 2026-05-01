@@ -1,0 +1,105 @@
+{
+  "id": "719",
+  "slug": "winter-hiking-raclette-saas-fee",
+  "name": "Hiking with raclette from Saas-Fee",
+  "description": "Discover Hiking with raclette from Saas-Fee in Switzerland.",
+  "longDescription": "Discover Hiking with raclette from Saas-Fee in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/winter-hiking-raclette-saas-fee/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Raclette to go: Enjoyment outdoors with friends, summer picnic in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/92b4bf1854bc47d9cad19bacbb8cce34.jpg"
+    },
+    {
+      "alternativeText": "Raclette to go: Backpack with picnic accessories for unforgettable outdoor experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2b7dee3c6f29b7d665ab8198abefd54d.jpg"
+    },
+    {
+      "alternativeText": "Raclette in summer: Enjoy a delicious raclette meal outdoors with bread and cucumbers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/92aff4ea8acdcaf87f0b8274a2dcb227.jpg"
+    },
+    {
+      "alternativeText": "Raclette in summer: delicious food outdoors with a picnic blanket and wine.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3a2605e4d13950f6ba1ecd9bb75ee850.jpg"
+    },
+    {
+      "alternativeText": "Raclette to go: enjoy your Raclette in winter against a stunning mountain backdrop in Saastal.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Raclette_to_Go_Winter_23_Foto_Saastal_Tourismus_5_da75742fc5.jpg"
+    },
+    {
+      "alternativeText": "Raclette: Enjoy raclette in winter while snowshoeing in Saastal.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Raclette_to_Go_Winter_23_Foto_Saastal_Tourismus_3_a5a31ce115.jpg"
+    },
+    {
+      "alternativeText": "Raclette to go: romantic couple enjoys raclette in winter in the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Raclette_to_Go_Winter_23_Foto_Saastal_Tourismus_6_a142c56543.jpg"
+    },
+    {
+      "alternativeText": "Raclette in the nature with a view of the winter mountain landscape in Saastal.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Raclette_to_Go_Winter_23_Foto_Saastal_Tourismus_1_86ae8b9d6a.jpg"
+    },
+    {
+      "alternativeText": "Raclette to go: Enjoy Raclette in winter with a breathtaking view of the snow-covered mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Raclette_to_Go_Winter_23_Foto_Saastal_Tourismus_4_e00a2c91bc.jpg"
+    },
+    {
+      "alternativeText": "Raclette to go: enjoy delicious Raclette in winter in the idyllic Saas Gorge.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Raclette_to_Go_Winter_23_Foto_Saastal_Tourismus_2_b409ca028a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "hiking"
+  ],
+  "featured": false
+}

@@ -1,0 +1,108 @@
+{
+  "id": "450",
+  "slug": "unreal-adventures-mega-interactive-game-for-large-groups-in-lucerne",
+  "name": "“Unreal Adventures MEGA” interactive game for large groups in Lucerne",
+  "description": "Discover “Unreal Adventures MEGA” interactive game for large groups in Lucerne in Switzerland.",
+  "longDescription": "Discover “Unreal Adventures MEGA” interactive game for large groups in Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/unreal-adventures-mega-interactive-game-for-large-groups-in-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "WhatsApp Image 2025-04-07 at 18:25:29",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ca72406c92649c7b689776cc11062bcd.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp Image 2025-04-07 at 18:24:30",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3fe7cce6a5f1236d49b57918a12907df.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp Image 2025-04-07 at 18.23.55",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9bdb7f7f9a3ed963799f8a3f18d4edb.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp image 2024-01-10 at 11:29:44",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24b0f657116d44cb5929f08bcaddc400.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp Image 2024-01-10 at 11:29:30",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a64769dab1306a4de48eacbc8d7c7503.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp Image 2024-01-10 at 11:29:15",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f55891978696c08d149a1f0e62f1ce0d.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp image 2024-01-10 at 11:29:09",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64327e7f41a6060456f589baee74528c.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp image 2024-01-10 at 11:28:34",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f0605626b275eae15ea9136349736c88.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp Image 2024-01-10 at 11.27.49",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8053ccc6162fd865fac37bd1c6bfbfb8.jpeg"
+    },
+    {
+      "alternativeText": "WhatsApp Image 2024-01-10 at 11:23:51",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3bf6247e14452953a5f97afe4b81848d.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure",
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1294",
+  "slug": "train-ticket-zurich-chur",
+  "name": "Train ticket between Zurich and Chur",
+  "description": "Discover Train ticket between Zurich and Chur in Switzerland.",
+  "longDescription": "Discover Train ticket between Zurich and Chur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/train-ticket-zurich-chur/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Zug am Walensee: Picturesque route with mountains, lake, and green landscapes in Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_am_Walensee_Pixabay_ea7c2caba9.jpg"
+    },
+    {
+      "alternativeText": "Chur: picturesque town with stunning alpine landscape in the background and traditional architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Pixabay_df7bbcb98f.jpg"
+    },
+    {
+      "alternativeText": "Walensee: Train ride at Lake Walensee with impressive mountains in the background and clear sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Walensee_Pixabay_6d6a7eccdd.jpg"
+    },
+    {
+      "alternativeText": "Walensee: impressive mountain landscape with clear water and green meadows in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Walensee_1_Pixabay_95486dd964.jpg"
+    },
+    {
+      "alternativeText": "Walensee Zug: Train journey along Lake Walensee with a view of the surrounding mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Walensee_Zug_Pixabay_422827383f.jpg"
+    },
+    {
+      "alternativeText": "Zurich: modern train station with trains and beautiful landscape surrounded by trees. Perfect for adventures and discoveries.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Pixabay_4f45af46f3.jpg"
+    },
+    {
+      "alternativeText": "Zürich: Modern trains and city view at sunset with beautiful buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Zug_unsplash_c8772331f8.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train"
+  ],
+  "featured": false
+}

@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { resetConsent } from "@/components/analytics-consent";
 
 export function Footer() {
   return (
@@ -55,6 +58,15 @@ export function Footer() {
               <li><Link href="/privacy" className="hover:text-[#c4973a] transition-colors">Privacy</Link></li>
               <li><Link href="/partners" className="hover:text-[#c4973a] transition-colors">Partners</Link></li>
               <li><a href="mailto:hello@exploreswitzerland.ch" className="hover:text-[#c4973a] transition-colors">Contact</a></li>
+              <li>
+                <button
+                  type="button"
+                  onClick={() => resetConsent()}
+                  className="hover:text-[#c4973a] transition-colors text-left"
+                >
+                  Manage cookies
+                </button>
+              </li>
             </ul>
           </div>
         </div>

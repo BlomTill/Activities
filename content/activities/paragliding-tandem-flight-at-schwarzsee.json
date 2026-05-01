@@ -1,0 +1,112 @@
+{
+  "id": "935",
+  "slug": "paragliding-tandem-flight-at-schwarzsee",
+  "name": "Paragliding tandem flight at Schwarzsee",
+  "description": "Discover Paragliding tandem flight at Schwarzsee in Switzerland.",
+  "longDescription": "Discover Paragliding tandem flight at Schwarzsee in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "197",
+      "title": "Fribourg region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-at-schwarzsee/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6976c2786f1591c1f9cf0ba8973df931.jpg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e655febc8ebea07648ce2bbceb67bd35.jpg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9dfe92ba28079a22eb549d409d932c26.jpeg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0561625b31975b5a536db2926c0024ac.jpeg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a5fba9277f2fffc4991085a8858b06b.jpeg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3c177df24bcc5128b3450689d777832.jpeg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/044428253e480663b4e693bcd36fd643.jpeg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5685bcfb72669a9801ac46e68f66b740.jpeg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3aa5dab0a01d7f41b7b5774ca2b5c269.jpeg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d01cef1c20ba9950ff5b144a518e172a.jpeg"
+    },
+    {
+      "alternativeText": "Tandemflug Schwarzsee",
+      "caption": "Paragliding",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b0f954227bb5dcdf170026555ef90681.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding"
+  ],
+  "featured": false
+}

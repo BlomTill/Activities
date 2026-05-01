@@ -1,0 +1,91 @@
+{
+  "id": "592",
+  "slug": "interlaken-interactive-scavenger-hunt-smartphone",
+  "name": "Interlaken interactive scavenger hunt with the smartphone",
+  "description": "Discover Interlaken interactive scavenger hunt with the smartphone in Switzerland.",
+  "longDescription": "Discover Interlaken interactive scavenger hunt with the smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/interlaken-interactive-scavenger-hunt-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Explorial: discover Interlaken with your smartphone tour along picturesque bridges and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/INT_carousel_1_EN_a1da0486c6.jpg"
+    },
+    {
+      "alternativeText": "Casino Interlaken surrounded by nature and mountains, ideal for relaxing outings in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/INT_carousel_3_1de025ef54.jpg"
+    },
+    {
+      "alternativeText": "Tourismuseum in Interlaken: informative and cultural, ideal for visitors and groups in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/INT_carousel_2_210affd7b2.jpg"
+    },
+    {
+      "alternativeText": "Explorial: Discover Interlaken with the family through exciting adventures and experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/INT_carousel_1_DE_9cda8586af.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: impressive church with detailed facade and view of the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/INT_carousel_4_f319cd2499.jpg"
+    },
+    {
+      "alternativeText": "Explorial Interlaken: Historic building with artistic details and beautiful floral splendor.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/INT_carousel_5_0a21add139.jpg"
+    },
+    {
+      "alternativeText": "Explorial Interlaken: colorful flowers in the park in front of a monument in spring.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/INT_carousel_6_5dff78a77b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

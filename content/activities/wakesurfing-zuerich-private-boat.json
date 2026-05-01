@@ -1,0 +1,129 @@
+{
+  "id": "1383",
+  "slug": "wakesurfing-zuerich-private-boat",
+  "name": "Wakesurfing in Zurich in a private boat",
+  "description": "Discover Wakesurfing in Zurich in a private boat in Switzerland.",
+  "longDescription": "Discover Wakesurfing in Zurich in a private boat in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "110",
+    "title": "Wakeboarding and Wakesurfing",
+    "slug": "wakeboarding",
+    "description": "Find your wakeboarding or wakesurfing experience here under professional guidance. Wakeboarding is a water sport that uses a board. You are strapped to this board and pulled over the water by a motorboat. The name wakeboard comes from the keel wave of the boat (wake). It is used as a launch ramp when wakeboarding. In wakesurfing, the surfer rides the wave created by the boat. They let go of the rope once they have enough speed. Both sports, especially wakeboarding, are relatively quick to learn. It's also not exhausting."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wakeboarding/wakesurfing-zuerich-private-boat/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich with a private boat, perfect summer activity on the water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0cecae04ec0d8cb16f77155b1e21cf3b.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich, private boat, summer activity, water sport for adventure seekers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01fa4afa04507d385450053f2da3b0af.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing: Enjoy the water sports pleasure on Lake Zurich in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/62c2cc8ea187d8482a95b129e07e88dc.jpg"
+    },
+    {
+      "alternativeText": "Surfing: Experience wakesurfing on Lake Zurich with friends and a private boat.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aa9cc5348b1f63da35537ca36cc9bd37.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich: Enjoy the private boat experience with friends in the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5ea23df2f6930a535d46b42c5790e625.jpg"
+    },
+    {
+      "alternativeText": "Wake surfing on Lake Zurich: Experience summer with friends and exciting water sports activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1251fa4f1b211232eaa4b963083a02cc.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich: private boat, sunny atmosphere, and relaxed water activities in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3d11d45e3a47f3a619e3431cfa48e071.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing: Experience thrilling moments on Lake Zurich with a private boat.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0afc12d32d430271306f0f97ae391859.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich: private boat, water sports, adventure, summer, Zurich.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dec0af2553d446e1937461460cd3b773.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich with a great view of the private boat and the landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fdabe7e3577b2c0613abd78c20661090.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich with a private boat and the sun on the horizon, summer outdoor activity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d16e47e68ddaf25ffd45d0f84900e7fd.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing: Experience thrilling hours on Lake Zurich with a private boat and fun on the water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/669ba742779979a79656b4aaa1d720c6.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich with friendship, fun, and summer. Enjoy a private boat experience.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/440393b502d0575b695359ae1a45afbb.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich with friends at sunset, fun and water sports.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/caa02c6e8ba67a55640d1ba7d09dbf00.jpg"
+    },
+    {
+      "alternativeText": "Wakesurfing on Lake Zurich with a private boat and view of the Alps",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/68c29aecec7bd5960e181ff2a24f815c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "boat"
+  ],
+  "featured": false
+}

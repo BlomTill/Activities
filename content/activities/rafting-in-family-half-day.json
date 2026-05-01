@@ -1,0 +1,85 @@
+{
+  "id": "991",
+  "slug": "rafting-in-family-half-day",
+  "name": "Family rafting on the Inn",
+  "description": "Discover Family rafting on the Inn in Switzerland.",
+  "longDescription": "Discover Family rafting on the Inn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-in-family-half-day/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rafting: Experience exciting family rafting with friends on wild waters and fun in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c49dc26e7e38b12c21695b9b540921fa.jpg"
+    },
+    {
+      "alternativeText": "Family rafting: Enjoy exciting rafting in clear water with friends and family",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7dbfaec5029b491c3544add778137150.jpg"
+    },
+    {
+      "alternativeText": "Family rafting: A shared adventure on wild waters with friends and children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1e01bf80910be5b8b9be4f0bf9136416.JPG"
+    },
+    {
+      "alternativeText": "Family rafting: Experience thrilling white-water rafting with a group and children in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2d8d49dd64bc69371ad589f9a57483ea.JPG"
+    },
+    {
+      "alternativeText": "Family rafting in summer with adventure team on the river for groups and kids",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/38d51485a449ddc73ea12a6385df694e.jpg"
+    },
+    {
+      "alternativeText": "Family rafting: Enjoy a great adventure with friends and children in nature while rafting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5c39aef6a089a03b0ccaf7a84d266175.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting",
+    "family"
+  ],
+  "featured": false
+}

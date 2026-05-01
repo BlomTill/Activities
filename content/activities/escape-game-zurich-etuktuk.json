@@ -1,0 +1,95 @@
+{
+  "id": "483",
+  "slug": "escape-game-zurich-etuktuk",
+  "name": "Escape-eTuk private Tour in Zurich",
+  "description": "Discover Escape-eTuk private Tour in Zurich in Switzerland.",
+  "longDescription": "Discover Escape-eTuk private Tour in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/escape-game-zurich-etuktuk/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Spiel im Team",
+      "caption": "escape-Tuk Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb301b1c41ca8471de7276a0f3373f91.jpg"
+    },
+    {
+      "alternativeText": "Spiel im Team",
+      "caption": "escape-Tuk Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a574f2fd056c8e8900c0306009b234e.jpg"
+    },
+    {
+      "alternativeText": "Spiel im Team",
+      "caption": "escape-Tuk Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/90557f4cbb142e4e89171713204c98f0.jpg"
+    },
+    {
+      "alternativeText": "Spiel im Team",
+      "caption": "escape-Tuk Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/375236f9e44bcbe8aa7d086916c89dfc.jpg"
+    },
+    {
+      "alternativeText": "Spiel im Team",
+      "caption": "escape-Tuk Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/639e031e7a26978d3208371e2e31e732.jpg"
+    },
+    {
+      "alternativeText": "Spiel im Team",
+      "caption": "escape-Tuk Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/546a8970ff7da740f992b37d5555197e.jpg"
+    },
+    {
+      "alternativeText": "Spiel im Team",
+      "caption": "escape-Tuk Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41fb70b97528b9b709ac9db3b9b54ff1.jpg"
+    },
+    {
+      "alternativeText": "Spiel im Team",
+      "caption": "escape-Tuk Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/307938fafb322721cd6a7ff7e48d9660.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

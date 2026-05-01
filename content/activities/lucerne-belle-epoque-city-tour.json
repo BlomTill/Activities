@@ -1,0 +1,82 @@
+{
+  "id": "1187",
+  "slug": "lucerne-belle-epoque-city-tour",
+  "name": "Belle Epoque guided city tour Lucerne",
+  "description": "Discover Belle Epoque guided city tour Lucerne in Switzerland.",
+  "longDescription": "Discover Belle Epoque guided city tour Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-belle-epoque-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lucerne City Tour Belle Époque with participants on the promenade",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/22042015_9085_7dfb5165e8.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Belle Époque City Tour with Group at the Fountain",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/22042015_8764_dd89c8873c.jpg"
+    },
+    {
+      "alternativeText": "Lucerne City Tour Belle Epoque, participants listen to a guide",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/22042015_8780_b0bbba10ca.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Belle Époque city tour with tourist activities in a historic building.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/22042015_8830_06181431fd.jpg"
+    },
+    {
+      "alternativeText": "City tour Lucerne Belle Époque with wooden bridge and water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/LU_Tourismus_Kapellbru_ecke_10_f32e6b2779.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

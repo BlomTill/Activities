@@ -1,0 +1,100 @@
+{
+  "id": "868",
+  "slug": "sledding-in-interlaken-at-night",
+  "name": "Night sledding guided tour from Interlaken",
+  "description": "Discover Night sledding guided tour from Interlaken in Switzerland.",
+  "longDescription": "Discover Night sledding guided tour from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "32",
+    "title": "Night sledding",
+    "slug": "night-sledding",
+    "description": "Experience the special thing about night sledding and book your ticket with optional fondue fun or choose a guided tour. In an increasing number of tobogganing regions, mountain railroads, buses and restaurants also open the slopes in the evening. Many of them even light up the track. After sledding, enjoy a fine fondue or a glass of mulled wine. Enjoy a leisurely or a speedy descent in the dark, silent winter wonderland."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/night-sledding/sledding-in-interlaken-at-night/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "night sledding-18",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d9ccc7f7544cf3361b4ead844a30d48.jpg"
+    },
+    {
+      "alternativeText": "night sledding-14",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a8a77c1974b0da42a072e34e2c8277bb.jpg"
+    },
+    {
+      "alternativeText": "night sledding-7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6fcbbf10bef49295c25cd5a9828c9f43.jpg"
+    },
+    {
+      "alternativeText": "night sledding-8",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/de617aac9af0116c389820697cda5b7f.jpg"
+    },
+    {
+      "alternativeText": "image5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4e153f6581fe3f458178571cbd4f5627.jpeg"
+    },
+    {
+      "alternativeText": "_DSC3649-3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f4ab04fe2e7f51f3383fbe8ba65ac9d.jpg"
+    },
+    {
+      "alternativeText": "night sledding-22",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b933130448458357913c0bbcb9d1603c.jpg"
+    },
+    {
+      "alternativeText": "night sledding-11",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c7d1cab0c5b1f78dd32091e841bd51d.jpg"
+    },
+    {
+      "alternativeText": "night sledding-16",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/457f5620fc1c3f20cfa340ede9520c15.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

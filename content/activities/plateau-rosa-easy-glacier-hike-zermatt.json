@@ -1,0 +1,75 @@
+{
+  "id": "847",
+  "slug": "plateau-rosa-easy-glacier-hike-zermatt",
+  "name": "Plateau Rosa easy glacier hike from Zermatt",
+  "description": "Discover Plateau Rosa easy glacier hike from Zermatt in Switzerland.",
+  "longDescription": "Discover Plateau Rosa easy glacier hike from Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "59",
+    "title": "Mountain tour",
+    "slug": "mountain-tour",
+    "description": "Discover and book your next mountain adventure here. Switzerland's mountain hiking trails in the difficulty levels T2 and T3 are marked in white-red-white, while the alpine mountain hiking trails (T4) are marked in white-blue-white. On a guided mountain tour you can explore unknown terrain that would be too dangerous on your own. Mountain tours are offered in Switzerland wherever you encounter high alpine mountains."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/mountain-tour/plateau-rosa-easy-glacier-hike-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "easy glacier tour in the mountains with groups on the icy terrain - an adventure in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gefuehrte_einfache_gletschertour_2919365e66_a026ce9945.jpg"
+    },
+    {
+      "alternativeText": "Glacier tour: Adventurous group climbing in the Alps in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cr_Pascal_Gertschen_2017_MICE_Hi_Res_17_9aee544b75.jpg"
+    },
+    {
+      "alternativeText": "Breithorn: impressive mountain in Zermatt, ideal for skiing and nature experiences in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/breithorn_zermatt_0_c697781bc4.jpg"
+    },
+    {
+      "alternativeText": "Glacier tour: Group hiking in the snow on a glacier in Austria, ideal for adventure lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cr_pascal_gertschen_2017_mice_hires_1_5670e87466.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "zermatt"
+  ],
+  "featured": false
+}

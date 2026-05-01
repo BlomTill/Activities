@@ -1,0 +1,90 @@
+{
+  "id": "1141",
+  "slug": "snowshoe-tour-and-sledding-guided-from-isenfluh-interlaken",
+  "name": "Winter alpine adventure with guided snowshoeing, sledding, and fondue fun",
+  "description": "Discover Winter alpine adventure with guided snowshoeing, sledding, and fondue fun in Switzerland.",
+  "longDescription": "Discover Winter alpine adventure with guided snowshoeing, sledding, and fondue fun in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "23",
+    "title": "Snowshoeing",
+    "slug": "snowshoeing",
+    "description": "Rent your snowshoes here or book a guided tour with or without fondue fun. In the past, snowshoes were the usual means of transportation in snowy areas. The weight is distributed over a larger area, making it easier for the snowshoe wearer to walk through deep snow. Today, snowshoeing is a popular winter sport that can be done in the mountains but also guided or individually at lower altitudes."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/snowshoeing/snowshoe-tour-and-sledding-guided-from-isenfluh-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Snowshoe Tour in Interlaken with two women in the snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuh_Tour_Outdoor_Interlaken_2878920560.jpg"
+    },
+    {
+      "alternativeText": "Fun in the snow with snowshoes in Interlaken, two people playing in the snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spass_im_Schnee_Schneeschuhe_Outdoor_Interlaken_0b4736c108.jpg"
+    },
+    {
+      "alternativeText": "Guided snowshoe tour through snow-covered forests in Interlaken in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gefuehrte_Schneeschuhtour_Outdoor_Interlaken_629a763056.jpg"
+    },
+    {
+      "alternativeText": "Snowshoeing Interlaken in winter, active participants in their own clothing, snow-covered landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuhlaufen_Interlaken_Outdoor_Interlaken_e798d01151.jpg"
+    },
+    {
+      "alternativeText": "Sledding in Isenfluh with a view of the Bernese Alps on a clear day.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Isenfluh_09f2973321.jpg"
+    },
+    {
+      "alternativeText": "Sledding in Isenfluh in winter with snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Isenfluh_gefuehrt_d154f1c732.jpg"
+    },
+    {
+      "alternativeText": "Sledding in Isenfluh, group activity in the snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlitteln_Isenfluh_Gruppe_9b5dd43d32.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure",
+    "fondue"
+  ],
+  "featured": false
+}

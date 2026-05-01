@@ -1,0 +1,89 @@
+{
+  "id": "1201",
+  "slug": "bike-cab-urban-art-city-tour-geneva",
+  "name": "Bike cab urban art city tour in Geneva",
+  "description": "Discover Bike cab urban art city tour in Geneva in Switzerland.",
+  "longDescription": "Discover Bike cab urban art city tour in Geneva in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/bike-cab-urban-art-city-tour-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bike taxi city tour Urban Art: Discover graffiti and outdoor art on your city tour.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Strassenkunst_Welo_f5fb708921.JPG"
+    },
+    {
+      "alternativeText": "Bicycle Taxi Tour Urban Art: Discover the creative street art in picturesque surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Graffiti_Welo_c0de9bd380.JPG"
+    },
+    {
+      "alternativeText": "Bike taxi: Experience exciting bike tours through the city with friends during the summer months.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fahrradtaxi_Welo_328208146b.jpg"
+    },
+    {
+      "alternativeText": "Urban Art Tour: discover creative graffiti in the city, ideal for art lovers and group activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Art_Welo_5e31809e3e.JPG"
+    },
+    {
+      "alternativeText": "Urban Art Tour: Discover impressive street art with graffiti in the city during the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Art_Tour_Welo_1ba8f4b03d.jpg"
+    },
+    {
+      "alternativeText": "Urban Art Tour: Discover impressive graffiti and street art in the city with creative motifs.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Art_Welo_561889785f.JPG"
+    },
+    {
+      "alternativeText": "Bicycle taxi Geneva: experience relaxed city tours with friends in beautiful Geneva.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fahrradtaxi_Genf_Welo_4514151522.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

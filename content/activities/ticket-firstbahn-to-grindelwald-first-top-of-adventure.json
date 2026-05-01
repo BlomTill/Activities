@@ -1,0 +1,131 @@
+{
+  "id": "1474",
+  "slug": "ticket-firstbahn-to-grindelwald-first-top-of-adventure",
+  "name": "Ticket Firstbahn to Grindelwald First - Top of Adventure",
+  "description": "Discover Ticket Firstbahn to Grindelwald First - Top of Adventure in Switzerland.",
+  "longDescription": "Discover Ticket Firstbahn to Grindelwald First - Top of Adventure in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/first-cliff-walk-by-tissot-with-thrills/ticket-firstbahn-to-grindelwald-first-top-of-adventure/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Grindelwald First Cliff Walk with Views of Eiger, Mönch, and Jungfrau.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_First_Cliff_Walk_Eiger_Moench_Jungfrau_Bergpanorama_4653546e26.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald First View of the Green Mountain Landscape with Peaks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_First_Cliff_Walk_Panorama_43675eaf94.jpg"
+    },
+    {
+      "alternativeText": "Firstbahn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09d1d9c1bdda36c63eb8418679d5fc09.jpg"
+    },
+    {
+      "alternativeText": "First glider in Grindelwald with participants in colorful suits, clear view of mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Glider_Grindelwald_First_200a1b1564.jpg"
+    },
+    {
+      "alternativeText": "Mountain Cart Tour with a View of Eiger and Wetterhorn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Mountaincart_Panorama_Eiger_Wetterhorn_Grindelwald_7f3042f622.jpg"
+    },
+    {
+      "alternativeText": "Mountain cart ride in Grindelwald First, clear view of the mountains, green meadows",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_First_Sommer_Mountaincart_f4be437be9.jpg"
+    },
+    {
+      "alternativeText": "Grindelwald First Flyer with a view of the Jungfrau, summer, two people in climbing gear",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_First_Flieger_Tyrolienne_Jungfrau_9d1bad9f97.jpg"
+    },
+    {
+      "alternativeText": "[object Object]",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_First_Flieger_Winter_Grindelwald_First_Jungfrau_dc3b243119.jpg"
+    },
+    {
+      "alternativeText": "Trotti Bike Jungfrau Grindelwald First, riders on the track in the mountain panorama",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Trottibike_Jungfrau_ab_7b2765b0c1.jpg"
+    },
+    {
+      "alternativeText": "Trottibike Grindelwald First in the mountains, cyclists ride through the landscape with mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Trottibike_Grindelwald_First_ff8b2c8db6.jpg"
+    },
+    {
+      "alternativeText": "First Flyer Adventure in Grindelwald with Green Meadows",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Flieger_Adventure_Grindelwald_06a400cb73.jpg"
+    },
+    {
+      "alternativeText": "Eismeer Jungfrau with snow-covered mountains in the background, clear visibility, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eismeer_Jungfrau_6e46d01ccf.jpeg"
+    },
+    {
+      "alternativeText": "Snow hiking Jungfrau with family group, snow-covered landscape, mountain huts",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneewandern_Jungfrau_cab081325d.jpg"
+    },
+    {
+      "alternativeText": "Winter hiking in Grindelwald First with snow-covered mountains and clear sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winterwandern_Grindelwald_First_8173fcb785.jpg"
+    },
+    {
+      "alternativeText": "Snowpark Grindelwald First with Children Snowboarding, Snow and Mountains Visible.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowpark_Grindelwald_First_Kinder_352be90f2a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure",
+    "grindelwald"
+  ],
+  "featured": false
+}

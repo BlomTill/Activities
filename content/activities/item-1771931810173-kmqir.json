@@ -1,0 +1,79 @@
+{
+  "id": "1453",
+  "slug": "item-1771931810173-kmqir",
+  "name": "Chocolate Workshop at Funky Chocolate Club Interlaken",
+  "description": "Discover Chocolate Workshop at Funky Chocolate Club Interlaken in Switzerland.",
+  "longDescription": "Discover Chocolate Workshop at Funky Chocolate Club Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/item-1771931810173-kmqir/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 workshops",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0efd09c7130154589e610685c60da384.jpg"
+    },
+    {
+      "alternativeText": "chocolate-workshops1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/14ffd92aadfcf1a4e3fd7897dc60b682.jpg"
+    },
+    {
+      "alternativeText": "chocolate-background-890x664",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c66262c80a7f70a2374e95eab4603b81.jpg"
+    },
+    {
+      "alternativeText": "625103021_822334520857192_2937450220582208941_nfull Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d4b1c72d904f350811c5ccd2b7d5644d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "chocolate",
+    "interlaken"
+  ],
+  "featured": false
+}

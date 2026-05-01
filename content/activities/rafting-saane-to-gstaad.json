@@ -1,0 +1,80 @@
+{
+  "id": "1005",
+  "slug": "rafting-saane-to-gstaad",
+  "name": "Rafting from Château-d'Oex along the Saane river, starting at Saanen/Gstaad and ending in Château-d'Oex",
+  "description": "Discover Rafting from Château-d'Oex along the Saane river, starting at Saanen/Gstaad and ending in Château-d'Oex in Switzerland.",
+  "longDescription": "Discover Rafting from Château-d'Oex along the Saane river, starting at Saanen/Gstaad and ending in Château-d'Oex in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-saane-to-gstaad/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rafting on the Saane in Gstaad with a group in a rushing river landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_d559e527a64cd1fa3baa1066c3030f39_9fefacafca.jpg"
+    },
+    {
+      "alternativeText": "River rafting on the Saane with a group in the river, splashing water, outdoor activity in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_967f2b1de45d1a2fef3c342acc4e1060_d0ef86b16d.jpg"
+    },
+    {
+      "alternativeText": "River Rafting Saane in Chateau d'Oex with multiple boats in flowing water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_dc967a992763787b2188734cc2275d0e_67923a7870.jpg"
+    },
+    {
+      "alternativeText": "Rafting Tour Switzerland, participants in canoe, white water, green surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_de585f2a158b74e46c87557b0bb8f5b9_2654900dab.jpg"
+    },
+    {
+      "alternativeText": "River Rafting Switzerland with paddling people in the river, green surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_7cc2bbd61c77122bb60f09bae0e082ca_3a335e732a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting",
+    "river"
+  ],
+  "featured": false
+}

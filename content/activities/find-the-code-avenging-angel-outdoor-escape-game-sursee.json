@@ -1,0 +1,85 @@
+{
+  "id": "591",
+  "slug": "find-the-code-avenging-angel-outdoor-escape-game-sursee",
+  "name": "\"Find-the-Code: Avenging Angel\" Outdoor Escape Game Sursee",
+  "description": "Discover \"Find-the-Code: Avenging Angel\" Outdoor Escape Game Sursee in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Avenging Angel\" Outdoor Escape Game Sursee in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/find-the-code-avenging-angel-outdoor-escape-game-sursee/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-sursee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0e258bd69decb395d144e28795204d0.jpg"
+    },
+    {
+      "alternativeText": "Map-Sursee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/94358fc37b85ca06b2851a78e173ff10.jpg"
+    },
+    {
+      "alternativeText": "group-sideways-cheerful-chatting-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0029c4b6e4854d97eb9db465e7de1a86.jpg"
+    },
+    {
+      "alternativeText": "group-hk-frontal-running",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f603bb25961dc838734c05e29b1a9da.jpg"
+    },
+    {
+      "alternativeText": "photo-shoot-karlsruhe-88-edited",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b5d93bbcd9efb95acd02ca0e61b63b00.jpg"
+    },
+    {
+      "alternativeText": "group-photo-landscape-front-happy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b1bc786779210419411cd1f7f3dc6d3c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

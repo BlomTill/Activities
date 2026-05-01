@@ -1,0 +1,113 @@
+{
+  "id": "696",
+  "slug": "legends-five-course-menu-gallia-lucerne",
+  "name": "\"Legends of Lake Lucerne\" Steamship Experience",
+  "description": "Discover \"Legends of Lake Lucerne\" Steamship Experience in Switzerland.",
+  "longDescription": "Discover \"Legends of Lake Lucerne\" Steamship Experience in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/legends-five-course-menu-gallia-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 SGV_Legends25_05",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7b682799e04a11a04f707c9aca7cb717.jpg"
+    },
+    {
+      "alternativeText": "01 SGV_Legends25_38",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/05ac16e6ac0af5478ae7d5e891e64be0.jpg"
+    },
+    {
+      "alternativeText": "02 SGV_Legends25_36",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3cb3d60668d584104ebcfad00bbd2384.jpg"
+    },
+    {
+      "alternativeText": "03 SGV_Legends25_09",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3167ff636990608d6790ef1f9ffa07af.jpg"
+    },
+    {
+      "alternativeText": "04 240709_DS_Gallia Beat Brechbuehl (48)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f608da3bd635b7a452486caab5fb1f9f.jpg"
+    },
+    {
+      "alternativeText": "05 Cruise Map English",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e86bdbc07e0c73d14969ce6b4ca66f5e.jpg"
+    },
+    {
+      "alternativeText": "06 SGV_Legends25_03",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a70823a2fc7b3c9fd7ce016aa0314bb2.jpg"
+    },
+    {
+      "alternativeText": "September 20240921_SGV_Legends of Lake Lucerne (91)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/845db98be62a38856e5f62e03f9e8401.jpg"
+    },
+    {
+      "alternativeText": "08 SGV_Legends25_01",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/756185fa306d4a36b2c7a7ec4ba968b2.jpg"
+    },
+    {
+      "alternativeText": "10 SGV_Legends25_42",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a306611d39d450b821589558eae2e15e.jpg"
+    },
+    {
+      "alternativeText": "12 SGV_Legends25_65",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c8349f44c51c0f71528f81b1c1ece627.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "lucerne"
+  ],
+  "featured": false
+}

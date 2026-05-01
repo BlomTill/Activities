@@ -1,0 +1,101 @@
+{
+  "id": "1390",
+  "slug": "day-spa-at-the-wellness-hotel-bella-vista-in-zermatt",
+  "name": "Day Spa at the Wellness Hotel Bella Vista in Zermatt",
+  "description": "Discover Day Spa at the Wellness Hotel Bella Vista in Zermatt in Switzerland.",
+  "longDescription": "Discover Day Spa at the Wellness Hotel Bella Vista in Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "69",
+    "title": "Wellness and adventure pools",
+    "slug": "wellness",
+    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-wellness-hotel-bella-vista-in-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Relaxation room with Matterhorn view at Hotel Bella Vista in Zermatt for relaxation and rejuvenation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a3da62dc122d7ea0c4f46f0e0bc20493.jpg"
+    },
+    {
+      "alternativeText": "Relaxation Room Cave: Relaxing Break at the Day Spa Hotel Bella Vista Zermatt.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/acbfe9505031b7e7be62878120b68f59.jpg"
+    },
+    {
+      "alternativeText": "Relaxation room with Matterhorn view at Hotel Bella Vista, relaxing, wellness, Zermatt",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/18a92d33b21e7224f55d828bf6fc9d66.jpg"
+    },
+    {
+      "alternativeText": "Sauna at Hotel Bella Vista: relaxing, wellness, hotel, Zermatt",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/89d8b846a4e6368505a5d31ab2c2046b.jpg"
+    },
+    {
+      "alternativeText": "Spa at the Day Spa Hotel Bella Vista with Matterhorn view, relax in style and comfort.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/072b11d99dc96924bd6bd5de8f6b215e.png"
+    },
+    {
+      "alternativeText": "Arvenstube: Relax in the luxurious day spa at Hotel Bella Vista in Zermatt.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/96bf4c7c339a24344eac4afc7e88bc57.jpg"
+    },
+    {
+      "alternativeText": "Steam bath: Relax at Hotel Bella Vista Zermatt with a wellness atmosphere and luxurious ambiance.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fcb1e824ac21c09b965f2d61072f640f.jpg"
+    },
+    {
+      "alternativeText": "Shower Spa with modern design, Zermatt relaxation, wellness, relaxation",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/77d7b3ebcaf2c499d2d67473ee2e8c4a.jpg"
+    },
+    {
+      "alternativeText": "Infrared sauna at Hotel Bella Vista with a view of the mountains in Zermatt, relaxing and comfortable.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0e2f44ee3e4b97e536ebf0881cd64d11.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wellness",
+    "spa",
+    "zermatt"
+  ],
+  "featured": false
+}

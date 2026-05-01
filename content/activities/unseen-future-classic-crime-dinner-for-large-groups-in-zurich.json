@@ -1,0 +1,110 @@
+{
+  "id": "851",
+  "slug": "unseen-future-classic-crime-dinner-for-large-groups-in-zurich",
+  "name": "\"Unseen Future Classic\" Crime Dinner for Large Groups in Zurich",
+  "description": "Discover \"Unseen Future Classic\" Crime Dinner for Large Groups in Zurich in Switzerland.",
+  "longDescription": "Discover \"Unseen Future Classic\" Crime Dinner for Large Groups in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "35358",
+    "title": "Murder mystery dinner",
+    "slug": "murder-mystery-dinner",
+    "description": "Book your murder mystery dinner here. At the murder mystery dinner, you become part of an exciting story. While enjoying a multi-course meal, a staged criminal case unfolds right before your eyes. Actors slip into various roles and involve you and the other guests in the plot. You need to think along, as clues and suspects appear throughout the evening. This way, you combine culinary pleasure with puzzle fun and find out who the culprit is in the end. Sometimes, you even take on a small role yourself, becoming directly part of the mystery."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/murder-mystery-dinner/unseen-future-classic-crime-dinner-for-large-groups-in-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f51468c39041bca22e3605f6e9160bc.jpg"
+    },
+    {
+      "alternativeText": "33",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86120963c4f5043184dc6160bfd6d361.jpg"
+    },
+    {
+      "alternativeText": "KD_Photo.34",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/92ed08ee203ed76c39627314d893e013.jpeg"
+    },
+    {
+      "alternativeText": "Untitled-design-5-2048x1148",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eaec61529ff469bdd994df120b92413f.jpg"
+    },
+    {
+      "alternativeText": "42",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/37edbfc75d6bc61a9431533a55085b0a.jpg"
+    },
+    {
+      "alternativeText": "39",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a34684b2da7e8ee7d19e528b164c808.jpg"
+    },
+    {
+      "alternativeText": "35",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/648ff7b69f95688c4ea2a9d9f03946eb.jpg"
+    },
+    {
+      "alternativeText": "37",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/32a21c26aeb2fb34891e1dd8cae94763.jpg"
+    },
+    {
+      "alternativeText": "44",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/df78ac3f6220b185e207fd2258a66e23.jpg"
+    },
+    {
+      "alternativeText": "untitled-design-4-1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2aa224622292eee636ce9551af89e7c2.jpg"
+    },
+    {
+      "alternativeText": "Untitled-design-8",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b31f6566ef6cc091a1c5f1c45af3c946.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,102 @@
+{
+  "id": "1484",
+  "slug": "in-zurich-daily-tour-to-stanserhorn-including-cable-car",
+  "name": "In Zurich: Daily Tour to Stanserhorn including Cable Car",
+  "description": "Discover In Zurich: Daily Tour to Stanserhorn including Cable Car in Switzerland.",
+  "longDescription": "Discover In Zurich: Daily Tour to Stanserhorn including Cable Car in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/in-zurich-daily-tour-to-stanserhorn-including-cable-car/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Stanserhorn Cable Car with a view of Lake Lucerne and the mountain landscape in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stanserhorn_open_top_cablecar_station_a79056a1c6_957c076701.jpg"
+    },
+    {
+      "alternativeText": "Stanserhorn Cable Car with a View of Lake Lucerne and Lucerne",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stanserhorn_open_top_cablecar_cabrio_163a3a0672_09e1599cd7.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Lake Lucerne with Swans and Old Town",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_old_town_river_swans_74489ebdf8_79d91dafd7.jpg"
+    },
+    {
+      "alternativeText": "Stanserhorn outlook with viewing platform and mountain backdrop.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stanserhorn_eagles_peak_viewing_platform_37463f57bf_8a8bc8a803.jpg"
+    },
+    {
+      "alternativeText": "Stanserhorn train ride with guests along a blooming meadow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stanserhorn_funicular_blooming_meadows_b134788a3d_d665a99c05.jpg"
+    },
+    {
+      "alternativeText": "Family hikes on the Stanserhorn, surrounded by alpine flowers and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stanserhorn_hiking_family_18f901f359_758550b066.jpg"
+    },
+    {
+      "alternativeText": "Marmot eating grass in the meadow at Stanserhorn in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stanserhorn_marmot_enclosure_ee5b29702c_84761004c1.jpg"
+    },
+    {
+      "alternativeText": "Stanserhorn viewpoint with a view of the landscape and activity",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stanserhorn_open_top_cablecar_cabrio_upper_deck_db1276b75e_e2d98c89ca.jpg"
+    },
+    {
+      "alternativeText": "Rondorama Restaurant on a mountain with a view of the Alps",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stanserhorn_rondorama_restaurant_c8f33087e6_cf2a900b1e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cable-car"
+  ],
+  "featured": false
+}

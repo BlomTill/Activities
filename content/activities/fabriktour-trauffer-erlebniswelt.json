@@ -1,0 +1,92 @@
+{
+  "id": "858",
+  "slug": "fabriktour-trauffer-erlebniswelt",
+  "name": "Trauffer factory tour for groups",
+  "description": "Discover Trauffer factory tour for groups in Switzerland.",
+  "longDescription": "Discover Trauffer factory tour for groups in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museums/fabriktour-trauffer-erlebniswelt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Trauffer Experience World: Discover the creative workshop with wooden toys and family activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1f6690bbb36c63f3ac47b9609be43c56.jpg"
+    },
+    {
+      "alternativeText": "Trauffer Experience World in Grindelwald: modern building, nature, experience adventure in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/209ea38b093597d9c50f9454882b137a.jpg"
+    },
+    {
+      "alternativeText": "Trauffer Experience World: Colorful figures in a unique art setting for creative play.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1dc3a0198ae31b14c3940899acac35f4.jpg"
+    },
+    {
+      "alternativeText": "Trauffer Experience World: Children discover creative Trauffer figures in the interactive exhibition space.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fd8aaabc0ac10ccee187a086b15ff0b7.jpg"
+    },
+    {
+      "alternativeText": "Trauffer Adventure World: Kids experience creative building fun in the toy world.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bbf1c3925694d14044c97ca44f9ed79d.jpg"
+    },
+    {
+      "alternativeText": "Trauffer Experience World: Children discover colorful figures in a fantastic environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/440d3cff5e3bb8d0d45db9ea1453f4d9.jpg"
+    },
+    {
+      "alternativeText": "Trauffer Experience World: Experience colorful Trauffer figures and creative designs in a unique environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c54c4a3ed335cb0001b8648250456d40.jpg"
+    },
+    {
+      "alternativeText": "Trauffer Experience World: Creative Crafting with Kids in the Workshop for Colorful Wooden Figures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/527a713ed4eb21acaf9c9dba1aefec33.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

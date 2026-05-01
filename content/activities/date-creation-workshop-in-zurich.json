@@ -1,0 +1,80 @@
+{
+  "id": "1441",
+  "slug": "date-creation-workshop-in-zurich",
+  "name": "Date Creation Workshop in Zurich",
+  "description": "Discover Date Creation Workshop in Zurich in Switzerland.",
+  "longDescription": "Discover Date Creation Workshop in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/date-creation-workshop-in-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "6191c8_4757a746cd4b4a4e8cc2f2e91810a416~mv2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ff330cddfaf88879d68a18200d27b33.jpg"
+    },
+    {
+      "alternativeText": "IMG-20260303-WA0021",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3b4f8bc49a9cae9f319ee8eef7d9341b.jpg"
+    },
+    {
+      "alternativeText": "IMG-20260303-WA0017",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16b3811f14f957e2f1caf234a9be0804.jpg"
+    },
+    {
+      "alternativeText": "IMG-20260303-WA0014",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7fb7c6b963b61691a072bde709c0affc.jpg"
+    },
+    {
+      "alternativeText": "IMG-20260303-WA0020",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b13160bffb7d22effc4250e54b308577.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

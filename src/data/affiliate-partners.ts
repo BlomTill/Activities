@@ -146,13 +146,20 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     domains: ["swissactivities.com"],
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_SWISSACTIVITIES_PARAMS",
-      "tap_a=XXXXX&utm_source=exploreswitzerland"
+      // Real affiliate ref — program: "Swiss Activities Affiliate Program English"
+      // Commission tiers: 5% (high), 3% (standard), 1% (low), 0% (standard/free)
+      "ref=odbhodn"
     ),
-    commissionRate: "10%",
+    commissionRate: "3–5%",
     active: true,
     disclosure:
-      "A Swiss-focused activity marketplace with a curated catalogue of day trips and excursions.",
-    tier: "secondary",
+      "Switzerland's largest leisure activities marketplace. Commission (3–5%) is paid by SwissActivities, not added to the price you pay.",
+    tier: "primary",
+    // Deep link format (discovered from real link):
+    //   https://www.swissactivities.com/en-ch/{venue-slug}/{ticket-slug}/?ref=odbhodn
+    // Append ?ref=odbhodn to ANY swissactivities.com page URL — no generator needed.
+    searchUrlTemplate: "https://www.swissactivities.com/en-ch/activities/?q={name}&ref=odbhodn",
+    showInMarketplace: true,
   },
   {
     id: "rentalcars",

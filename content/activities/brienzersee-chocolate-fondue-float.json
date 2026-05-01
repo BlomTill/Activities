@@ -1,0 +1,94 @@
+{
+  "id": "723",
+  "slug": "brienzersee-chocolate-fondue-float",
+  "name": " Chocolate Fondue Float on Lake Brienz",
+  "description": "Discover  Chocolate Fondue Float on Lake Brienz in Switzerland.",
+  "longDescription": "Discover  Chocolate Fondue Float on Lake Brienz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/brienzersee-chocolate-fondue-float/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Schokofondue Brienzersee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/44a7e3ab726fe0268960335c568076b0.jpg"
+    },
+    {
+      "alternativeText": "Schokofondue Brienzersee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a8f0b8704e8ca5283571d26129182889.jpg"
+    },
+    {
+      "alternativeText": "Schokofondue Brienzersee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fb06325cf1b634988147e312abe51318.jpg"
+    },
+    {
+      "alternativeText": "Schokofondue Brienzersee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6d1d6089a7d132b82c5ce2a8a97d3814.jpg"
+    },
+    {
+      "alternativeText": "Schokofondue Brienzersee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ae1ede839c3bd799aaff7c6a816130c.jpg"
+    },
+    {
+      "alternativeText": "Schokofondue Brienzersee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d8a3f4f6694b352dbb6a54510c07b39.jpg"
+    },
+    {
+      "alternativeText": "Schokofondue Brienzersee",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11bb9071b8e3ab585e385221ad1bd41c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "chocolate",
+    "fondue"
+  ],
+  "featured": false
+}

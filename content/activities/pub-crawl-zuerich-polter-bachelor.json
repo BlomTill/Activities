@@ -1,0 +1,95 @@
+{
+  "id": "686",
+  "slug": "pub-crawl-zuerich-polter-bachelor",
+  "name": "Pub Crawl Party Tour Zurich (Men)",
+  "description": "Discover Pub Crawl Party Tour Zurich (Men) in Switzerland.",
+  "longDescription": "Discover Pub Crawl Party Tour Zurich (Men) in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-zuerich-polter-bachelor/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Männer beim Polterabend",
+      "caption": "Pub Crawl Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d226bc3d63adabadeddc1ad1a6a1e27b.JPG"
+    },
+    {
+      "alternativeText": "Männer beim Polterabend",
+      "caption": "Pub Crawl Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9a89ce8f605d0dd1873b600c7af3161.jpg"
+    },
+    {
+      "alternativeText": "Männer beim Polterabend",
+      "caption": "Pub Crawl Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9f93522a85120c45d6907d2f6f8b5758.jpg"
+    },
+    {
+      "alternativeText": "Männer beim Polterabend",
+      "caption": "Pub Crawl Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a1af7c464979b96f83fdf15727edf72.JPG"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Pub Crawl Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7f6d6a572aac0ebff41a2822a011ea59.JPG"
+    },
+    {
+      "alternativeText": "Männer beim Polterabend",
+      "caption": "Pub Crawl Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f724be64a3b39a501bbba9a8c897dbe5.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Pub Crawl Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/baad326e0c7045789059fdd6240e5f2d.JPG"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Pub Crawl Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eab476aad93b8334d324691d5c519fd7.PNG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

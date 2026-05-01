@@ -1,0 +1,88 @@
+{
+  "id": "220",
+  "slug": "orino-canyoning-for-experienced-adventurers-from-malvaglia",
+  "name": "Orino Canyoning for Experienced Adventurers from Malvaglia",
+  "description": "Discover Orino Canyoning for Experienced Adventurers from Malvaglia in Switzerland.",
+  "longDescription": "Discover Orino Canyoning for Experienced Adventurers from Malvaglia in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/orino-canyoning-for-experienced-adventurers-from-malvaglia/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "purelements-canyoning-orino-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9c850a3e8cd36fe54be4024e8bea047f.jpg"
+    },
+    {
+      "alternativeText": "purelements-canyoning-orino-3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3bd81725b36fe0ded1c1e1a30bbc315a.jpg"
+    },
+    {
+      "alternativeText": "purelements-canyoning-orino-1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/36cabd07ff1b019c816e79e60c1f3ceb.jpg"
+    },
+    {
+      "alternativeText": "purelements-canyoning-orino-4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13acb9b0276d8318cb802b8c9aded913.jpg"
+    },
+    {
+      "alternativeText": "purelements-canyoning-orino-5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/80cb183d6b05ac071fb9b66b9ccacdd0.jpg"
+    },
+    {
+      "alternativeText": "purelements_canyoning_orino_6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da4b982e18524b8bd943acca252e63df.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning",
+    "adventure"
+  ],
+  "featured": false
+}

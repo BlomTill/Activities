@@ -1,0 +1,75 @@
+{
+  "id": "572",
+  "slug": "stag-party-challenge-hangover-wolf-pack-by-thun",
+  "name": "Stag Party Challenge \"Hangover - Wolf Pack\" by Thun",
+  "description": "Discover Stag Party Challenge \"Hangover - Wolf Pack\" by Thun in Switzerland.",
+  "longDescription": "Discover Stag Party Challenge \"Hangover - Wolf Pack\" by Thun in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/stag-party-challenge-hangover-wolf-pack-by-thun/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Thun Wolf Pack 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ce82a482f7176bef3177af5f6a373c7.jpg"
+    },
+    {
+      "alternativeText": "Wolf pack Thun 4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d425ff00e242fcc3ce9cec9e9123ce4c.jpg"
+    },
+    {
+      "alternativeText": "Wolf Pack Thun 3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/60d9cb6a3a4745290b619973ec5219b9.jpg"
+    },
+    {
+      "alternativeText": "Wolf Pack Thun 2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3e9a1bcc197d7eea48de00b59c31742b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

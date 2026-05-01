@@ -1,0 +1,82 @@
+{
+  "id": "771",
+  "slug": "culinary-hike-mountain-and-view-from-laax",
+  "name": "Culinary hike \"Mountain and View\" from Laax",
+  "description": "Discover Culinary hike \"Mountain and View\" from Laax in Switzerland.",
+  "longDescription": "Discover Culinary hike \"Mountain and View\" from Laax in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/culinary-hike-mountain-and-view-from-laax/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kulinarische Wanderung",
+      "caption": "Wandern Flims Laax",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f57b7b93680e6bf80009a83d68a6e12.jpg"
+    },
+    {
+      "alternativeText": "TDS00020013985757634_sized_800_0",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b69e32d59540ee8ad524c6b80e72edab.png"
+    },
+    {
+      "alternativeText": "Kulinarik-Trail-Slide-6",
+      "caption": "ffd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e52acae95282523ff8262b58194ee163.jpg"
+    },
+    {
+      "alternativeText": "Kulinarik-Trail-Slide-5f",
+      "caption": "f",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1df8a34cf713e3d84a8407c217a40447.jpg"
+    },
+    {
+      "alternativeText": "Kulinarik_Trail_Berg_und_Sicht_Landschaft_Flims_Laax",
+      "caption": "d",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ea9787afdd8385c5a42d554a0c2104a3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "mountain"
+  ],
+  "featured": false
+}

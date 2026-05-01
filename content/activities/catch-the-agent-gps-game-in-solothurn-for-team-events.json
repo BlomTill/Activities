@@ -1,0 +1,120 @@
+{
+  "id": "523",
+  "slug": "catch-the-agent-gps-game-in-solothurn-for-team-events",
+  "name": "\"Catch the Agent\" GPS game in Solothurn for team events",
+  "description": "Discover \"Catch the Agent\" GPS game in Solothurn for team events in Switzerland.",
+  "longDescription": "Discover \"Catch the Agent\" GPS game in Solothurn for team events in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/catch-the-agent-gps-game-in-solothurn-for-team-events/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Solothurn Pixabay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a45a10664b48fedffe55aa5ce8444439.jpg"
+    },
+    {
+      "alternativeText": "1 - Schweizweit",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fa7e98d4b353d70d12eeee9f32dabeee.jpg"
+    },
+    {
+      "alternativeText": "Solothurn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8ff442bed2ee9645af4e90094c69f515.jpg"
+    },
+    {
+      "alternativeText": "6 - Action D",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/260c2da69c6b6fe01d5e8060ea68d909.jpg"
+    },
+    {
+      "alternativeText": "3 - Action A",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/300b978fe5c5ccd611f1db68909f045a.jpg"
+    },
+    {
+      "alternativeText": "4 - Action B",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4832ce4c1f36f532479a620fa01b7c20.jpg"
+    },
+    {
+      "alternativeText": "5 - Action C",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5506f3b71d4266b7a4b2ad1f19922bd9.jpg"
+    },
+    {
+      "alternativeText": "2 - Gruppenfoto",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3caa5231b4c660b7efee6157c074ce24.jpg"
+    },
+    {
+      "alternativeText": "Solothurn-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/799667308d4e55b01c3d5951825b82cb.jpg"
+    },
+    {
+      "alternativeText": "7 - Action E",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/71501c140d4b7ddecc3456718c22ee3b.jpg"
+    },
+    {
+      "alternativeText": "7 - City View",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4f61accb3909bd59dd61e7fea11acb7f.PNG"
+    },
+    {
+      "alternativeText": "Solothurn1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8167622b86fe508be3e9e1fd56ff2066.jpg"
+    },
+    {
+      "alternativeText": "Solothurn2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/61add6cdb7f6d25a152af4d50cfea717.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

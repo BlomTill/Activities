@@ -1,0 +1,80 @@
+{
+  "id": "1127",
+  "slug": "dufourspitze-ski-tour-zermatt",
+  "name": "Dufourspitze and Schwarztor 2-day ski tour with private mountain guide from Zermatt",
+  "description": "Discover Dufourspitze and Schwarztor 2-day ski tour with private mountain guide from Zermatt in Switzerland.",
+  "longDescription": "Discover Dufourspitze and Schwarztor 2-day ski tour with private mountain guide from Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "95",
+    "title": "Ski touring",
+    "slug": "ski-touring",
+    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-touring/dufourspitze-ski-tour-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Ski tour Dufourspitze Matterhorn: skiers in a winter mountain landscape, adventurous skiing activity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Matterhorn_Zermatters_e3cda9c663.png"
+    },
+    {
+      "alternativeText": "Ski tour Dufourspitze: group of mountain guides skiing in the Alps, winter high mountain area.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Bergfuehrer_Zermatters_ffd6d4abdd.jpg"
+    },
+    {
+      "alternativeText": "Ski tour Dufourspitze: Group on the way to the Matterhorn, snowy landscape, winter adventure in the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Matterhorn_Glacier_Trail_Zermatters_17fe7b7d06.jpg"
+    },
+    {
+      "alternativeText": "Ski tour Dufourspitze: Instruction in the snow with team and equipment for group activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Instruktion_Zermatters_5d0e70521d.jpg"
+    },
+    {
+      "alternativeText": "Ski tour Dufourspitze: guided high tour with friends in the mountains in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hochtour_Zermatters_4ee7dd9657.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "mountain",
+    "zermatt"
+  ],
+  "featured": false
+}

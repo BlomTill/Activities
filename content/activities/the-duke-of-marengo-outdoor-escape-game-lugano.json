@@ -1,0 +1,109 @@
+{
+  "id": "645",
+  "slug": "the-duke-of-marengo-outdoor-escape-game-lugano",
+  "name": "\"The Duke of Marengo\" Outdoor Escape Game Lugano",
+  "description": "Discover \"The Duke of Marengo\" Outdoor Escape Game Lugano in Switzerland.",
+  "longDescription": "Discover \"The Duke of Marengo\" Outdoor Escape Game Lugano in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-duke-of-marengo-outdoor-escape-game-lugano/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sato Code: Discover wall art in Lugano with friends and enjoy the creative atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code3_78ee31b73d.png"
+    },
+    {
+      "alternativeText": "Sato Code on a mobile device in Lugano",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2d085618_f2de_4c82_a27a_27e5d0944ad9_47f071f525.JPG"
+    },
+    {
+      "alternativeText": "Sato Code Lugano: Person uses mobile phone to interact with digital tool.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/16c2e884_e1c4_42e7_84ff_b222822898fb_fe534c7ba3.JPG"
+    },
+    {
+      "alternativeText": "Sato Code: creative team at work in Lugano. Ideal for group activities and adventures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code5_1ebf4449cf.jpg"
+    },
+    {
+      "alternativeText": "Woman in a striped shirt examining products in a store in Lugano",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/85dc00bb_3cd5_4f33_a9bf_400b470f40a1_2ab51dd78f.JPG"
+    },
+    {
+      "alternativeText": "Sato Code: The couple examines an interesting point in the city center of Lugano in nice weather.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code4_d9d1e35843.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: The woman shows artwork with abstract lines, perfect for creative inspiration in Lugano.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code2_60fba91dda.png"
+    },
+    {
+      "alternativeText": "Sato Code: Man looks at plants indoors, nature, plants, discovery",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code1_11b492e583.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Person installs Sato Code for information in Lugano.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code6_8f677ebd6a.png"
+    },
+    {
+      "alternativeText": "Sato Code: Young woman with sunglasses in Lugano at night, urban lifestyle and technology in focus.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code7_a732db726b.jpg"
+    },
+    {
+      "alternativeText": "Lugano: beautiful view of the lake and the mountains in summer with blooming flowers along the shore.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lugano1_82d0d21768.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lugano"
+  ],
+  "featured": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "653",
+  "slug": "the-omega-codex-outdoor-escape-game-davos",
+  "name": "\"The Omega Codex\" Outdoor Escape Game Davos",
+  "description": "Discover \"The Omega Codex\" Outdoor Escape Game Davos in Switzerland.",
+  "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game Davos in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-omega-codex-outdoor-escape-game-davos/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Omega Codex",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/46253cb85d5ba8493df4005d84723e02.png"
+    },
+    {
+      "alternativeText": "Omega Codex",
+      "caption": "Escape Game Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0572681c5d3f613e979dc966994a2953.png"
+    },
+    {
+      "alternativeText": "Omega Codex",
+      "caption": "Escape Game Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9239d364875b54fe9678035f6f437586.png"
+    },
+    {
+      "alternativeText": "Omega Codex",
+      "caption": "Escape Game Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87bdf112805a55d5eb236ffb08553a99.png"
+    },
+    {
+      "alternativeText": "Davos",
+      "caption": "Escape Game Davos",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ccb85ebc294f826765e14acaf644969b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "davos"
+  ],
+  "featured": false
+}

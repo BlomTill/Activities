@@ -1,0 +1,107 @@
+{
+  "id": "1015",
+  "slug": "friends-day-pass-youth-sbb",
+  "name": "Friends Day Pass for Youth SBB",
+  "description": "Discover Friends Day Pass for Youth SBB in Switzerland.",
+  "longDescription": "Discover Friends Day Pass for Youth SBB in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "136",
+    "title": "SBB Day Pass",
+    "slug": "sbb-day-pass",
+    "description": "Find the right SBB Day Pass for you here. SBB Day Passes allow you to travel for a whole day. You only need one ticket, even if you have to change trains several times. Within the validity of your day ticket, you can travel as often as you like. You should only check the timetables so that you don't miss the \"last train\" or your connection. Your day pass is valid for the entire day of the date printed on it and beyond until 5:00 a.m. the following day."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sbb-day-pass/friends-day-pass-youth-sbb/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Friends at sunset in nature, relaxed atmosphere, group activity, beautiful landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Freunde_Unsplash_5c3a8e4c81.jpg"
+    },
+    {
+      "alternativeText": "Teenagers taking a selfie outdoors, surrounded by nature, friendship, summer vibes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pexels_andrea_piacquadio_3776813_0f702cd025.jpg"
+    },
+    {
+      "alternativeText": "SBB train passes by a picturesque lake with mountains and vineyards in the surroundings in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_1_Unsplash_3b6f451228.jpg"
+    },
+    {
+      "alternativeText": "BLS train view with a look at mountains, green nature, and a picturesque town in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_BLS_Zug_Unsplash_eae90589b9.jpg"
+    },
+    {
+      "alternativeText": "Pfaeffikersee: Friendly group relaxing by the lakeshore in summer. Recreation, nature, leisure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pfaeffikersee_unsplash_c3b8a138ca.jpg"
+    },
+    {
+      "alternativeText": "Baden Zug: Beautiful bridge over the river with historic city background and Zug vehicle. Experience the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Baden_Zug_Pixabay_8ef635a930.jpg"
+    },
+    {
+      "alternativeText": "SBB Train: modern train in Switzerland, perfect for travel and transport in the area.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_Unsplash_8dc87b1a7c.jpg"
+    },
+    {
+      "alternativeText": "Rhaetian Railway: Train ride along the Rhine Gorge in Graubünden with impressive mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Rhaetische_Bahn_Rheinschlucht_Seraina_Zellweger_08c4d7923b.jpg"
+    },
+    {
+      "alternativeText": "Brienzersee: Experience a boat trip with views of mountains and clear water in the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/17_Brienzersee_Seraina_b44d750a16.jpeg"
+    },
+    {
+      "alternativeText": "SBB train at a station at night, perfect for travelers and photography enthusiasts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_2_Unsplash_158a46a415.jpg"
+    },
+    {
+      "alternativeText": "Zurich HB: vibrant train station with travelers and modern trains in the city of Zurich",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_HB_Unsplash_760d8cbe55.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

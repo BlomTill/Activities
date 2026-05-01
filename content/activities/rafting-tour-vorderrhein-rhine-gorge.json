@@ -1,0 +1,99 @@
+{
+  "id": "1008",
+  "slug": "rafting-tour-vorderrhein-rhine-gorge",
+  "name": "Rafting tour Vorderrhein Rhine Gorge",
+  "description": "Discover Rafting tour Vorderrhein Rhine Gorge in Switzerland.",
+  "longDescription": "Discover Rafting tour Vorderrhein Rhine Gorge in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-rhine-gorge/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "River Rafting Rheinschlucht with a group in colorful boats and helmets, rushing river, summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Rafting_Vorderrhein_Rheinschlucht_cff7183e91.jpg"
+    },
+    {
+      "alternativeText": "River Rafting Rhine Gorge with Paddlers in a Wave",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Rafting_Vorderrhein_Rheinschlucht_f9cc486a1d.jpg"
+    },
+    {
+      "alternativeText": "Rafting in the Ruinaulta Rhine Gorge, splashing water, adventurous activity, participants in wetsuits",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Rafting_Vorderrhein_Rheinschlucht_Stromschnelle_cfd2dd051c.jpg"
+    },
+    {
+      "alternativeText": "Rafting Vorderrhein on a river with green banks and rocks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_Rafting_Vorderrhein_Rheinschlucht_Aussicht_Berge_ed41bea242.jpg"
+    },
+    {
+      "alternativeText": "Rafting on the Vorderrhein with adventurous boat rides in the river, surrounded by lush nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Rafting_Vorderrhein_Rheinschlucht_Stromschnelle_76a5b2b5d2.jpg"
+    },
+    {
+      "alternativeText": "Rafting Ruinaulta in the Rhine Gorge, group in inflatable boat, white water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Rafting_Vorderrhein_Rheinschlucht_Wellen_258362f97c.jpg"
+    },
+    {
+      "alternativeText": "Rheinschlucht UNESCO with steep cliffs and green forest",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinschlucht_Rafting_850287417c.jpg"
+    },
+    {
+      "alternativeText": "Stein pillar in the Rhine gorge, surrounded by water and rocks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinschlucht_Unesco_Ruinaulta_ec2b173384.jpg"
+    },
+    {
+      "alternativeText": "Rheinschlucht with red train, green mountains and blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ruinaulta_Rheinschlucht_a05100e65b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

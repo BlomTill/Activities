@@ -1,0 +1,81 @@
+{
+  "id": "708",
+  "slug": "e-tuktuk-wine-cheese-city-tour-geneva",
+  "name": " Wine and Cheese City Tour E-TukTuk in Geneva",
+  "description": "Discover  Wine and Cheese City Tour E-TukTuk in Geneva in Switzerland.",
+  "longDescription": "Discover  Wine and Cheese City Tour E-TukTuk in Geneva in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/e-tuktuk-wine-cheese-city-tour-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "ETukTuk Wine Cheese: enjoy a culinary experience in the city at night with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e_Tuk_Tuk_Wein_ed014f6577.jpg"
+    },
+    {
+      "alternativeText": "ETukTuk Wine Cheese: Enjoy red wine and fine cheese with fresh fruits and snacks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kaese_Tour_Tuk_Tuk_Welo_4398236833.png"
+    },
+    {
+      "alternativeText": "ETukTuk Wine Cheese: Enjoyment with Friends in the City during the Summer Outing.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Party_Tuk_Welo_4e8f4a8e26.jpeg"
+    },
+    {
+      "alternativeText": "ETukTuk Wine Cheese: Enjoy wine and cheese with friends in a picturesque setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Party_Tuk_Tuk_Welo_7b70428d1d.jpeg"
+    },
+    {
+      "alternativeText": "ETukTuk Wine Cheese: Dive into the night with friends in a colorful tuk-tuk at a wine tasting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wein_und_Kaese_Welo_e3329e12aa.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cheese",
+    "wine",
+    "geneva"
+  ],
+  "featured": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "680",
+  "slug": "personal-training-in-sion",
+  "name": "Personal training in Sion",
+  "description": "Discover Personal training in Sion in Switzerland.",
+  "longDescription": "Discover Personal training in Sion in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "90",
+    "title": "Fitness",
+    "slug": "fitness",
+    "description": "Choose the right fitness fun for the time period of your choice. Fitness is practiced in many different ways in Switzerland. There are individuals who love outdoor physical activity, while others prefer to go to a gym to strengthen their muscles and work on their fitness. With strength and endurance equipment as well as and group classes, the offer is very extensive. Exercising is possible all day and many studios have long opening hours even on weekends"
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/fitness/personal-training-in-sion/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "20230901_090115",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9534227f175b891f4d5c04336e93a2ed.jpg"
+    },
+    {
+      "alternativeText": "20250609_192519a",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50433bc72800f52d44c50066bfc5db79.JPG"
+    },
+    {
+      "alternativeText": "20250609_193655a",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ff257252c57c3f1666d2b64c421be242.JPG"
+    },
+    {
+      "alternativeText": "20250609_194302",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06803cf073eb27d5ab4239e30a863be5.jpg"
+    },
+    {
+      "alternativeText": "20250609_194609",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d58a5e959b522fac2706ab50b28901fd.jpg"
+    },
+    {
+      "alternativeText": "20250609_194741a",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3872fe8dae950a93c69ae589c874089a.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train"
+  ],
+  "featured": false
+}

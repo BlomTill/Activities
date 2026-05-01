@@ -1,0 +1,132 @@
+{
+  "id": "877",
+  "slug": "paragliding-with-fondue-for-two-in-davos",
+  "name": "Davos paragliding for two with fondue",
+  "description": "Discover Davos paragliding for two with fondue in Switzerland.",
+  "longDescription": "Discover Davos paragliding for two with fondue in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-with-fondue-for-two-in-davos/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paragliding Davos over snow-covered mountains in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Paragliding_Davos_Flug_1a6ab67e0d.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos with two people on a tandem flight",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_027_5533e02134.JPG"
+    },
+    {
+      "alternativeText": "Fondue in bowl with bread. Cozy meal.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fondue_8375884b3a.jfif"
+    },
+    {
+      "alternativeText": "Paragliding in Davos with a view of the mountains in summer 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Paragliding_Davos_Absprung_Sommer_2_ab357e0e8c.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos, pilot started in the snow, clear visibility",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Paragliding_Davos_Absprung_Winter_6d6424dfe5.jpg"
+    },
+    {
+      "alternativeText": "Winter Paragliding Tandem Flight with a View of the Sky and Clouds",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_005_b99e899a16.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos with cheerful people, summer 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Paragliding_Davos_Fliegen_Sommer_4cbe3cdd3b.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos in winter over snow-covered mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_084_5e7e7ad297.jpg"
+    },
+    {
+      "alternativeText": "Tandem paragliding over Davos with snow-covered mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_001_c9b3522dca.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos in winter, white snow, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_069_d2f02e2723.jpg"
+    },
+    {
+      "alternativeText": "Fondue in Davos with bread and cheese on a table",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cheese_fondue_5733700_1920_db1e521df9.jpg"
+    },
+    {
+      "alternativeText": "Jakobshorn Restaurant with panoramic view, restaurant and mountain landscape in summer 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fondue_Tandemflug_27568d83b1.webp"
+    },
+    {
+      "alternativeText": "Paragliding Davos in winter with a flying athlete and snow-covered mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cheese_fondue_2803840_1920_7e7af4fb1e.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos in winter, winter landscape, skiers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_029_e45141b4c3.JPG"
+    },
+    {
+      "alternativeText": "Davos from a bird's eye view with snow-covered mountains and forests in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_044_5a8950df11.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "fondue",
+    "davos"
+  ],
+  "featured": false
+}

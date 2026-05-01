@@ -1,0 +1,72 @@
+{
+  "id": "130",
+  "slug": "paragliding-davos",
+  "name": "Paragliding Davos",
+  "description": "Tandem paragliding over the Davos valley with panoramic views of the Graubünden Alps.",
+  "longDescription": "Experience the thrill of flying above Davos on a tandem paragliding flight. Launch from Jakobshorn or Parsenn and soar over the highest town in Europe, enjoying views of the Silvretta and Albula Alps. Year-round flights available.",
+  "category": "adventure",
+  "subcategory": "Air Sports",
+  "location": {
+    "region": "Graubünden",
+    "canton": "Graubünden",
+    "city": "Davos",
+    "coordinates": {
+      "lat": 46.8027,
+      "lng": 9.836
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Fly Davos",
+      "pricing": {
+        "child": 0,
+        "student": 160,
+        "adult": 190,
+        "senior": 190
+      },
+      "bookingUrl": "https://www.flydavos.ch",
+      "rating": 4.7,
+      "description": "Tandem flight from Jakobshorn"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "2-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1600944585003-27d11068bc91?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Flight Time",
+      "value": "15-30 min"
+    },
+    {
+      "label": "Launch",
+      "value": "Jakobshorn 2,590m"
+    },
+    {
+      "label": "Year-Round",
+      "value": "All seasons"
+    },
+    {
+      "label": "Photos",
+      "value": "Available"
+    },
+    {
+      "label": "Town",
+      "value": "Highest in Europe"
+    }
+  ],
+  "tags": [
+    "paragliding",
+    "adventure",
+    "davos",
+    "flying",
+    "alps"
+  ],
+  "featured": false
+}

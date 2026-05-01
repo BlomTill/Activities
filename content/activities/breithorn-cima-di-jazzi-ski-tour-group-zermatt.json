@@ -1,0 +1,79 @@
+{
+  "id": "1125",
+  "slug": "breithorn-cima-di-jazzi-ski-tour-group-zermatt",
+  "name": "Breithorn and Cima di Jazzi 2-day ski tour group from Zermatt",
+  "description": "Discover Breithorn and Cima di Jazzi 2-day ski tour group from Zermatt in Switzerland.",
+  "longDescription": "Discover Breithorn and Cima di Jazzi 2-day ski tour group from Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "95",
+    "title": "Ski touring",
+    "slug": "ski-touring",
+    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-touring/breithorn-cima-di-jazzi-ski-tour-group-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Ski tour Cima di Jazzi panorama with snow-covered mountains and an impressive sunset.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cima_di_Jazzi_Zermatters_36c03d3370.PNG"
+    },
+    {
+      "alternativeText": "Ski tour Cima di Jazzi: Winter sports enthusiasts with crampons on snow-covered terrain.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Instruktion_Zermatters_57010d0416.jpg"
+    },
+    {
+      "alternativeText": "Ski Tour Cima di Jazzi: Preparations with a mountain guide on snow-covered terrain in the Alps",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitouren_Zermatt_1_Zermatters_0f4c5745bb.jpg"
+    },
+    {
+      "alternativeText": "Ski Tour Cima di Jazzi: Experience thrilling adventures with professional mountain guides in the snow-covered Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Winter_Zermatters_b836c8a392.jpg"
+    },
+    {
+      "alternativeText": "Ski tour Cima di Jazzi: Experience the wonderful winter landscape with mountain guides through snow-covered peaks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Bergfuehrer_Zermatters_2dbff953ff.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zermatt"
+  ],
+  "featured": false
+}

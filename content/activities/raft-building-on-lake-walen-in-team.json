@@ -1,0 +1,72 @@
+{
+  "id": "255",
+  "slug": "raft-building-on-lake-walen-in-team",
+  "name": "Building rafts on Lake Walen in a team",
+  "description": "Discover Building rafts on Lake Walen in a team in Switzerland.",
+  "longDescription": "Discover Building rafts on Lake Walen in a team in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "102",
+    "title": "Competition",
+    "slug": "competition",
+    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/competition/raft-building-on-lake-walen-in-team/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paddleboarding at Lake Walensee with friends on the water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_82a81c30b81c967031e76873cdbb8694_38663ba709.jpg"
+    },
+    {
+      "alternativeText": "Raft building at the team event Walensee, participants are working together at the shore",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_bf722b595436625d9827ee14fa54b2c8_b48aa725d2.jpg"
+    },
+    {
+      "alternativeText": "Walensee with raft trip, groups on water, mountain backdrop in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_81656a8ae992e77599e07f8640ee5eb1_f7a9e7a079.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

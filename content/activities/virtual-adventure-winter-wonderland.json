@@ -1,0 +1,119 @@
+{
+  "id": "1366",
+  "slug": "virtual-adventure-winter-wonderland",
+  "name": "\"Winter Wonderland\" Virtual Adventure in Zofingen",
+  "description": "Discover \"Winter Wonderland\" Virtual Adventure in Zofingen in Switzerland.",
+  "longDescription": "Discover \"Winter Wonderland\" Virtual Adventure in Zofingen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/virtual-adventure-winter-wonderland/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Winter Wonderland: discover a magical winter landscape with snowy areas and lights.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/845a51011b6e220bed699ec07c0d013c.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Kids experience Winter Wonderland with friends and fun in the snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/073740016c6c689e918d68f1f1b603a7.jpg"
+    },
+    {
+      "alternativeText": "Winter Wonderland: Experience enchanting winter adventures in a snow-covered setting with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b5f7c82617e6ca9a2c1b9be7956a243f.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: exciting VR experience with friends in an urban environment, for all adventure seekers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/65e8990e206f45b91d7d5a3b94990f59.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Experience a fantastic winter wonderland with snow and winter activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/83c9969599f669e4257783283d9cbc8b.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Experience an exciting winter wonderland with adventure and fun in the snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0c244070260152aa6672a339a3a0cbee.jpg"
+    },
+    {
+      "alternativeText": "Virtual adventure with VR equipment for groups in an exciting winter wonderland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4e4dcde39fd58cb05694cbd3d0eb590a.jpg"
+    },
+    {
+      "alternativeText": "Winter Wonderland: Beautiful winter landscape with children, play equipment, and snow-covered huts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cdf06fd300b43c0b4cfe03eaad1ae167.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Experience a breathtaking winter wonderland with adventure and community.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/76c7471a4ef29155d975b04be6f4c0ac.jpg"
+    },
+    {
+      "alternativeText": "Winter Wonderland: Children play and experience adventures in the snow with groups in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3dc609fc2efc0a6e6c16274a88b37766.jpg"
+    },
+    {
+      "alternativeText": "Winter Wonderland: digital space for group adventure in an urban environment with graffiti and games.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/43747f78afd03efbe4b73d8038e6a472.jpg"
+    },
+    {
+      "alternativeText": "Winter Wonderland: cozy atmosphere with friends in a modern setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9c563d332fff4c5445e2cc8cbb614506.jpg"
+    },
+    {
+      "alternativeText": "Winter Wonderland: Experience an adventure with friends in an urban space full of creative colors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/618baab008050a368fdd29b6597a5354.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure"
+  ],
+  "featured": false
+}

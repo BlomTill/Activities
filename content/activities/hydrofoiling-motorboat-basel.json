@@ -1,0 +1,84 @@
+{
+  "id": "174",
+  "slug": "hydrofoiling-motorboat-basel",
+  "name": "Hydrofoiling on the Rhine behind the motorboat in Basel",
+  "description": "Discover Hydrofoiling on the Rhine behind the motorboat in Basel in Switzerland.",
+  "longDescription": "Discover Hydrofoiling on the Rhine behind the motorboat in Basel in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "40",
+    "title": "Boat tour",
+    "slug": "boat-tour",
+    "description": "Discover your next adventure and book a boat tour in Switzerland here. Switzerland is considered the water castle of Europe. So it's no surprise that there are more than enough opportunities for boat tours on the more than 1500 Swiss lakes and rivers. The experience on the water is intense, relaxing and full of views. The view of the surrounding landscape and mountain panorama makes the boat trip perfect."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/boat-tour/hydrofoiling-motorboat-basel/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Boat tour: Experience hydrofoiling on the Rhine with leisure fun in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3499f4296ac9ea97ef7cbc12ae2d8323.jpg"
+    },
+    {
+      "alternativeText": "Boat tour: Enjoy hydrofoiling on the Rhine and the summer sun.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/948a8895602b14c1f24616acdef07b35.jpg"
+    },
+    {
+      "alternativeText": "guided boat tour: hydrofoiling on the Rhine, experience fun on the water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5400a018803ff50ce5dab384307145ad.jpg"
+    },
+    {
+      "alternativeText": "Boat tour on the Rhine with accessories for group activities in summer by the water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a520390f048f09d6f039638c75c56a6b.jpg"
+    },
+    {
+      "alternativeText": "Rhine Boat Tour: Relax on a guided boat trip on the Rhine with views of nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7a9a0fd01132fa3c62c63ab86594d0dc.jpg"
+    },
+    {
+      "alternativeText": "Rhein boat tour: The boat driver navigates the boat on the clear water during the summer months.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/61ea2ae841a69fd2d019760eab441cd1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "boat"
+  ],
+  "featured": false
+}

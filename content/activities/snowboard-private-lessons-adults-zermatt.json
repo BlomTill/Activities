@@ -1,0 +1,77 @@
+{
+  "id": "1068",
+  "slug": "snowboard-private-lessons-adults-zermatt",
+  "name": "Private snowboard course Riffelberg or Matterhorn Ski Paradise",
+  "description": "Discover Private snowboard course Riffelberg or Matterhorn Ski Paradise in Switzerland.",
+  "longDescription": "Discover Private snowboard course Riffelberg or Matterhorn Ski Paradise in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/snowboard-private-lessons-adults-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Private snowboarding lessons in Zermatt on snowy slopes with the Matterhorn.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privatunterricht_Snowboard_Zermatters_e410ec1679.jpg"
+    },
+    {
+      "alternativeText": "Private snowboarding lessons in Zermatt with instructors and students on the slopes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_Kurs_Zermatt_1_Zermatters_0313441cc0.jpg"
+    },
+    {
+      "alternativeText": "Private snowboarding lessons in Zermatt, winter sports activity, snowboarder on a rail",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_freestyle_Zermatters_9118043393.jpg"
+    },
+    {
+      "alternativeText": "Private Snowboarding Lessons with Jump in the Snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_Freestyle_Zermatt_Zermatters_910f742bd5.jpg"
+    },
+    {
+      "alternativeText": "Private Snowboarding Lessons Zermatt with Snowball Fight, Fun in the Snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_Kurs_Zermatt_Zermatters_d3577823f3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

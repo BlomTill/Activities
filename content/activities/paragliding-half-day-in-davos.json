@@ -1,0 +1,116 @@
+{
+  "id": "878",
+  "slug": "paragliding-half-day-in-davos",
+  "name": "Davos paragliding with private pilot half day",
+  "description": "Discover Davos paragliding with private pilot half day in Switzerland.",
+  "longDescription": "Discover Davos paragliding with private pilot half day in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-half-day-in-davos/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paragliding in Davos with a view of the mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_005_084fecab11.jpg"
+    },
+    {
+      "alternativeText": "Tandem Paragliding in Davos, two people in the air, mountain landscape and green valley visible.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_2e2add734c4d1b64cba9975e74a044cb_34699dfedd.jpg"
+    },
+    {
+      "alternativeText": "Tandem Paragliding in Davos, Pilot gliding above Clouds, Forested Mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_4efbf9a39bd620502aba30cce3b70fdf_d9b01e505b.jpg"
+    },
+    {
+      "alternativeText": "Tandem paragliding in Davos in summer against a picturesque mountain landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_91679a52bfe636ce5bbfc82fce4ea899_99cccf1e3c.jpg"
+    },
+    {
+      "alternativeText": "Tandem flight with paragliders over Davos in summer, blue skies and mountains visible.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_006_6a51355449.jpg"
+    },
+    {
+      "alternativeText": "Paraglider in Davos with mountain panorama in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_007_73a4ca605a.JPG"
+    },
+    {
+      "alternativeText": "Paragliding in Davos with two people in warm clothing over snow-covered mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_001_4971e7981d.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos in winter, two people glide over snow-covered mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_011_7b9284744a.jpg"
+    },
+    {
+      "alternativeText": "Paragliding over a snow-covered landscape in Davos in winter, ski resort, active person with an orange-blue parachute",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_004_038b1daaa4.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos over snow-covered terrain",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_072_627a010de3.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos, winter activity over snow-covered mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_074_8706f65dd0.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Davos in winter with snowy mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_080_4329f3c97b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "davos"
+  ],
+  "featured": false
+}

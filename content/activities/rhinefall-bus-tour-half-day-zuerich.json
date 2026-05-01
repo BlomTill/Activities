@@ -1,0 +1,83 @@
+{
+  "id": "275",
+  "slug": "rhinefall-bus-tour-half-day-zuerich",
+  "name": "From Zurich: Tour by coach to the Rhine Falls half day",
+  "description": "Discover From Zurich: Tour by coach to the Rhine Falls half day in Switzerland.",
+  "longDescription": "Discover From Zurich: Tour by coach to the Rhine Falls half day in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/rhinefall-bus-tour-half-day-zuerich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rhine Falls: impressive waterfalls on a tour from Zurich, surrounded by nature and green hills.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/90588bc2463cc2d99368ffd79be17f2b.jpg"
+    },
+    {
+      "alternativeText": "Rhine Falls: Experience the majestic waterfall near Zurich in summer with family and friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3a35177d3c95ed7bbf03594d904719a2.jpg"
+    },
+    {
+      "alternativeText": "Rhine Falls: stunning view of the waterfall and boat tour near Zurich.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0227a0dfd415528f16d78ba92f92f8ca.jpg"
+    },
+    {
+      "alternativeText": "Rhine Falls: impressive waterfall near Zurich, tours for groups and families, experience nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6c5874bea7c6970101258f0798504871.jpg"
+    },
+    {
+      "alternativeText": "Rhine Falls near Zurich: captivating waterfalls, nature, and leisure activities for groups and children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9410f61071c9f06a41fcb8f77b8afc44.jpg"
+    },
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Tour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/db47f5c42c61a1834f8a3f56b9b69289.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "1148",
+  "slug": "stand-up-paddle-board-rental-boenigen",
+  "name": "SUP hire on Lake Brienz",
+  "description": "Discover SUP hire on Lake Brienz in Switzerland.",
+  "longDescription": "Discover SUP hire on Lake Brienz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "39",
+    "title": "Stand up paddle",
+    "slug": "stand-up-paddle",
+    "description": "Book your SUP tour with an experienced guide or rent your SUP equipment. Stand-up paddling has become a way of life in Switzerland and has experienced a real surge in popularity in recent years. There are already quite a few SUP spots on several lakes and rivers. For example, you can find SUP schools on Lake Biel, Lake Brienz and Lake Lucerne, just to name a few."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/stand-up-paddle/stand-up-paddle-board-rental-boenigen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "SUP on Lake Brienz with a view of the mountains, ideal for water sports and group activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/775babf844bb6b58207fc92597115729.jpeg"
+    },
+    {
+      "alternativeText": "SUP on Lake Brienz with impressive mountains in the background during the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6e15259493d615caa3edf9a8cca86afd.jpeg"
+    },
+    {
+      "alternativeText": "SUP on Lake Brienz with friends, relaxing water sport activity on blue water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/63eb00170e3f85cbb0c0868babc24567.jpeg"
+    },
+    {
+      "alternativeText": "SUP on Lake Brienz during stand-up paddling in nature, ideal for adventures and groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ac982137d51fcb776e25cc83c794f5ae.jpeg"
+    },
+    {
+      "alternativeText": "SUP on Lake Brienz: Paddle sports against a picturesque mountain backdrop in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1f9e4bf6c3629c2e066c2ed1fdc507fe.jpeg"
+    },
+    {
+      "alternativeText": "SUP on Lake Brienz: relax while stand-up paddling in the beautiful nature of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1082c2d69a5b79cea383da921b7cb4ee.jpeg"
+    },
+    {
+      "alternativeText": "SUP on Lake Brienz with clear water and green mountain landscape in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6cf5d017cda203dcaca74c40b47bc6ec.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

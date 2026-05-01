@@ -1,0 +1,80 @@
+{
+  "id": "950",
+  "slug": "simplon-pass-postbus-from-brig-or-domodossola",
+  "name": "Simplon Pass Postbus from Brig or Domodossola",
+  "description": "Discover Simplon Pass Postbus from Brig or Domodossola in Switzerland.",
+  "longDescription": "Discover Simplon Pass Postbus from Brig or Domodossola in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "141",
+    "title": "Postbus",
+    "slug": "postbus",
+    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/simplon-pass-postbus-from-brig-or-domodossola/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Simplon Pass-UNPLASH",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1518fb697c2a34bda42ce24783084078.jpg"
+    },
+    {
+      "alternativeText": "02 Simplon Hospice-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3dc150fe8343ad2288712fedbf875dbc.jpg"
+    },
+    {
+      "alternativeText": "Brig-Gils-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86a543b7117699290ee607a67b086242.jpg"
+    },
+    {
+      "alternativeText": "simplon1-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb51a888baae43921fd55b36a3f6617e.jpg"
+    },
+    {
+      "alternativeText": "Simplon Pass Pixabay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d313fa45c4bcc24a1d7747943da9f46d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,103 @@
+{
+  "id": "449",
+  "slug": "unreal-adventures-interactive-city-game-in-lucerne",
+  "name": "“Unreal Adventures” interactive city game in Lucerne",
+  "description": "Discover “Unreal Adventures” interactive city game in Lucerne in Switzerland.",
+  "longDescription": "Discover “Unreal Adventures” interactive city game in Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/unreal-adventures-interactive-city-game-in-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "9f5ddedf-b946-49a1-a520-2b7d75dc9c7a",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5dabc89b7d52322d972a857e6073f9fa.jpg"
+    },
+    {
+      "alternativeText": "4a234550-2074-4932-ab69-4e1d4e75b38f (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7757a4acf97b85382e366dae591ff4e.JPG"
+    },
+    {
+      "alternativeText": "0a47334b-f22d-46b3-aa25-2e0df89ac1c7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c8313563f4f889e45c9c1446aa8dfb1.JPG"
+    },
+    {
+      "alternativeText": "1cf75646-91f7-469d-89e1-aabc3c272c2f",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/325a88a51260ec366295c57d4a0d4103.JPG"
+    },
+    {
+      "alternativeText": "76adcb02-1f5b-4dff-bbf8-4bab67f25f70",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8059a8ed95b285fe80e0383b8d326a6a.JPG"
+    },
+    {
+      "alternativeText": "e9ef1d43-6469-455c-9944-fd7d6a08fe21",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/56f698afef06cec615b81fae43118b20.JPG"
+    },
+    {
+      "alternativeText": "fd8c1b91-8f6e-45a7-9d0c-02a2a9405e76",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bda8139efd23c584baf5a2c687e6de2e.jpg"
+    },
+    {
+      "alternativeText": "PHOTO-2023-07-15-19-37-22 2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a58331b0ce37dca74578090a4be4a016.jpg"
+    },
+    {
+      "alternativeText": "PHOTO-2023-07-17-15-17-40",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2801daf39dcd580b80bc58d3ad891e15.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure",
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "432",
+  "slug": "self-guided-bike-tour-at-the-vineyard-including-a-meal-from-sion",
+  "name": "Self-guided e-bike tour through the vineyard including menu from Sion",
+  "description": "Discover Self-guided e-bike tour through the vineyard including menu from Sion in Switzerland.",
+  "longDescription": "Discover Self-guided e-bike tour through the vineyard including menu from Sion in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/self-guided-bike-tour-at-the-vineyard-including-a-meal-from-sion/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Vineyard by Bike (meal option)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/91d7cac7947984b8baf2d141f8058de4.jpg"
+    },
+    {
+      "alternativeText": "Vineyard by Bike 3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7696857bd60d6a74a0b0b67bb232be69.jpg"
+    },
+    {
+      "alternativeText": "00 Vineyard by Bike 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ad7aef09f675042734373c97882e7784.jpeg"
+    },
+    {
+      "alternativeText": "Vineyard by Bike 2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66303359242696820c88cac6ec30ba4f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

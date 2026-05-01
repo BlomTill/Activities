@@ -1,0 +1,92 @@
+{
+  "id": "12",
+  "slug": "lauterbrunnen-valley-hike",
+  "name": "Lauterbrunnen Valley Waterfalls Hike",
+  "description": "Hike through the valley of 72 waterfalls, including the 300m Staubbach Falls.",
+  "longDescription": "Lauterbrunnen Valley is one of the most dramatic landscapes in the Alps, featuring 72 waterfalls cascading from sheer cliffs. The easy valley hike takes you past the iconic 300-meter Staubbach Falls, through charming villages, and to the Trümmelbach Falls — the only underground glacier waterfalls in Europe accessible by lift. J.R.R. Tolkien's inspiration for Rivendell.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "Bern",
+    "city": "Lauterbrunnen",
+    "coordinates": {
+      "lat": 46.5936,
+      "lng": 7.9086
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Self-guided (Free)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.lauterbrunnen.swiss",
+      "rating": 4.9,
+      "description": "Free valley hike — no guide or ticket needed"
+    },
+    {
+      "name": "SwissHiking Tours",
+      "pricing": {
+        "child": 30,
+        "student": 55,
+        "adult": 75,
+        "senior": 65
+      },
+      "bookingUrl": "https://www.swisshikingtours.ch",
+      "rating": 4.7,
+      "description": "Guided full-day hike with local expert and lunch"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "3-5 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=800&fit=crop",
+    "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=800&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "Waterfalls",
+      "value": "72"
+    },
+    {
+      "label": "Staubbach",
+      "value": "300m high"
+    },
+    {
+      "label": "Difficulty",
+      "value": "Easy"
+    },
+    {
+      "label": "Trail Length",
+      "value": "~8 km"
+    },
+    {
+      "label": "Tolkien",
+      "value": "Rivendell"
+    }
+  ],
+  "tags": [
+    "hiking",
+    "waterfall",
+    "free",
+    "nature",
+    "lauterbrunnen"
+  ],
+  "featured": true,
+  "deal": {
+    "discount": 100,
+    "label": "Free Activity",
+    "validUntil": "2026-12-31"
+  }
+}

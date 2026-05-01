@@ -1,0 +1,77 @@
+{
+  "id": "1022",
+  "slug": "item-1770891957178-92tdc",
+  "name": "\"Lucerne from Above\" Private Helicopter Tour from Buttwil",
+  "description": "Discover \"Lucerne from Above\" Private Helicopter Tour from Buttwil in Switzerland.",
+  "longDescription": "Discover \"Lucerne from Above\" Private Helicopter Tour from Buttwil in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/item-1770891957178-92tdc/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "batch_Berge__Bu__rgenstock",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/714b14171a45358c7686a668c376ea0d.jpg"
+    },
+    {
+      "alternativeText": "batch_8E9A4267",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/985f9547b6fe9cb39725b3913382e18e.jpeg"
+    },
+    {
+      "alternativeText": "batch_IMG_2504",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4ab030b741397fbb7219f23504e4f9b9.jpg"
+    },
+    {
+      "alternativeText": "batch_Lucerne",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2fefb76d475ce3380c420c93c4c38480.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

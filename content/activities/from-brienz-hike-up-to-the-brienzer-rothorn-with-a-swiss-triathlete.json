@@ -1,0 +1,120 @@
+{
+  "id": "764",
+  "slug": "from-brienz-hike-up-to-the-brienzer-rothorn-with-a-swiss-triathlete",
+  "name": "From Brienz: Private hike to the Brienzer Rothorn with a Swiss triathlete",
+  "description": "Discover From Brienz: Private hike to the Brienzer Rothorn with a Swiss triathlete in Switzerland.",
+  "longDescription": "Discover From Brienz: Private hike to the Brienzer Rothorn with a Swiss triathlete in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/from-brienz-hike-up-to-the-brienzer-rothorn-with-a-swiss-triathlete/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_0669",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e42e81ce525621e773ed7b54d8e0ff10.jpg"
+    },
+    {
+      "alternativeText": "IMG_0529",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06e708f47c1cf5bd017ed5e4f9eab81b.jpg"
+    },
+    {
+      "alternativeText": "IMG_0676",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6b25e5b0cfe580b3f706ef7ede5e39d0.jpg"
+    },
+    {
+      "alternativeText": "IMG_1171",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1899ff7ea2bd0f72658ef2c1ecb3251d.jpg"
+    },
+    {
+      "alternativeText": "IMG_2147",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aa6a6f6fc049b7d5d13c8f2311359ec6.jpg"
+    },
+    {
+      "alternativeText": "IMG_2531",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4d7b8ff66d875eebf80b2d53fe2d7988.jpg"
+    },
+    {
+      "alternativeText": "IMG_8613",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48be33e088c5550a5c1d62cbbfd34415.jpg"
+    },
+    {
+      "alternativeText": "IMG_9323",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4a71065d800d06bd98c9e0dddbc61d54.JPEG"
+    },
+    {
+      "alternativeText": "IMG_9310",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/03644e9d0fa62b756520f7b1e36946b0.JPEG"
+    },
+    {
+      "alternativeText": "IMG_9271",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7c9315c55b8cf6bb3cd7a0561ae0c6b.JPEG"
+    },
+    {
+      "alternativeText": "IMG_9257",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/43433c4fcf74e41c3ece9bb7ffe80c04.JPEG"
+    },
+    {
+      "alternativeText": "IMG_9252",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e2de91b5596abbc93da494e780976ae6.JPEG"
+    },
+    {
+      "alternativeText": "IMG_8674",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2501cae2e3e2dc0b68b7db72a0d25c7.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

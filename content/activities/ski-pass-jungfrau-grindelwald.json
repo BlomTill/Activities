@@ -1,0 +1,125 @@
+{
+  "id": "815",
+  "slug": "ski-pass-jungfrau-grindelwald",
+  "name": "Grindelwald Ski Pass",
+  "description": "Discover Grindelwald Ski Pass in Switzerland.",
+  "longDescription": "Discover Grindelwald Ski Pass in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "29",
+    "title": "Lift tickets",
+    "slug": "lift-tickets",
+    "description": "Discover and book your next ski ticket in Switzerland here. Ski tickets are offered for different time periods. They are valid for several hours or half a day, one day, several days or a whole season. With a ski ticket you get access to the ski area with all ski lifts and cable cars. Often other attractions are included. In total there are about 7000 km of ski slopes in Switzerland. Some higher ski resorts are located on a glacier. Thanks to them, depending on the region, it is even possible to ski in summer."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/lift-tickets/ski-pass-jungfrau-grindelwald/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Skifahrer Kleine Scheidegg",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d71a0fde17cd0c70e9c04a315772de3c.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Männlichen",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/95fed79194cb0d459e80404785da9305.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer ",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8209f434565c25de7422d6d146aa0eaf.jpg"
+    },
+    {
+      "alternativeText": "Männlichen Luftseilbahn",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ca090b4f8acceb3cb711bb956329708a.jpg"
+    },
+    {
+      "alternativeText": "Lauberhornabfahrt",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f51bd4f2316e3ecab93e5e5811d14e4.jpg"
+    },
+    {
+      "alternativeText": "Männlichen Luftseilbahn",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7f5e3768926c77602f3f8c3cc92d194d.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Kleine Scheidegg",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0b2ba5e440ff622711768be65512ffba.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Kleine Scheidegg",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb86ff8f7f1a0e1c88b82b1d9731c273.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Kleine Scheidegg",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7289c5500736334c7c9644bdd7913913.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Kleine Scheidegg",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bd3fe3996f2c1c1b8c448cc502e3eb5a.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Kleine Scheidegg",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9fbbbc6607ef005aeb7fc7c8cdc46063.jpg"
+    },
+    {
+      "alternativeText": "Männlichen Luftseilbahn",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/28ce9a1948f2bc2c97e92f564d83a695.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Kleine Scheidegg",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/257801b98e0ba1cbd69145f62def91bd.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Kleine Scheidegg",
+      "caption": "Skigebiet Grindelwald",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f17dc569e20d4da4bdbd78ce17c52f7.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "grindelwald"
+  ],
+  "featured": false
+}

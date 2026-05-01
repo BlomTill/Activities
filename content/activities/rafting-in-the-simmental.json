@@ -1,0 +1,89 @@
+{
+  "id": "997",
+  "slug": "rafting-in-the-simmental",
+  "name": "Rafting in the Simmental from Därstetten",
+  "description": "Discover Rafting in the Simmental from Därstetten in Switzerland.",
+  "longDescription": "Discover Rafting in the Simmental from Därstetten in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-in-the-simmental/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rafting adventure in Germany with a group in an inflatable boat on wild waters.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/L0_I4280_49470824f5.jpg"
+    },
+    {
+      "alternativeText": "Rafting on the river with people in an inflatable boat, yellow paddles, summery surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/L0_I4193_1660cb2e69.jpg"
+    },
+    {
+      "alternativeText": "Rafting on a river in 2023 with participants in an inflatable boat.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10_6b5329aed1.JPG"
+    },
+    {
+      "alternativeText": "Rafting on a river with wild currents in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/12_0773044b62.JPG"
+    },
+    {
+      "alternativeText": "Rafting adventure in white water with kayakers in the river.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_0039_5b6c56c77a.JPG"
+    },
+    {
+      "alternativeText": "Rafting Adventure on Lake Constance in 2023 with participants in life jackets",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_0049_9c854a9420.JPG"
+    },
+    {
+      "alternativeText": "Rafting adventure on wild waters with a group in yellow helmets and red vests",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/River_Rafting_a42dabf3a0.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

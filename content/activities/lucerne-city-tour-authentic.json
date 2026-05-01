@@ -1,0 +1,79 @@
+{
+  "id": "1184",
+  "slug": "lucerne-city-tour-authentic",
+  "name": "\"Ächt Lozärn\" (authentic Lucerne) guided city tour Lucerne",
+  "description": "Discover \"Ächt Lozärn\" (authentic Lucerne) guided city tour Lucerne in Switzerland.",
+  "longDescription": "Discover \"Ächt Lozärn\" (authentic Lucerne) guided city tour Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-city-tour-authentic/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Zöpfli Ronca House Lucerne with red wooden door and mailboxes",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zoepfli_Ronca_Haus_IMG_8936_286adff87b.jpg"
+    },
+    {
+      "alternativeText": "Brandgässli in Lucerne with the Schiff restaurant and historic buildings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brandgaessli_IMG_8950_5a0ff38ffd.jpg"
+    },
+    {
+      "alternativeText": "Lucerne City Tour by the Lake with View of the Lakeside Promenade and Churches",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Herbst_Luzern_Luzern_Tourismus_f2142fc2c2.jpg"
+    },
+    {
+      "alternativeText": "Lucerne city view by the lake with a boat dock and city buildings in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Herbst_Vierwaldstaettersee_Luzern_Luzern_Tourismus_806cdc3bfa.jpg"
+    },
+    {
+      "alternativeText": "Lucerne city tour with a view of the city panorama and the mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussich_auf_Luzern_Luzern_Tourismus_4aa5104962.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

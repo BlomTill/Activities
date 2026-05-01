@@ -1,0 +1,77 @@
+{
+  "id": "473",
+  "slug": "last-man-standing-bachelor-party-escape-game-zurich",
+  "name": "\"Last Man Standing\" bachelor party Escape Game in Zurich",
+  "description": "Discover \"Last Man Standing\" bachelor party Escape Game in Zurich in Switzerland.",
+  "longDescription": "Discover \"Last Man Standing\" bachelor party Escape Game in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/last-man-standing-bachelor-party-escape-game-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bridge: impressive bridge in Zurich with city skyline and waterfront, ideal for relaxation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bridge_g8ac09c071_1920_c586b85c08.jpg"
+    },
+    {
+      "alternativeText": "Drinks: Refreshing drink with citrus fruits and chili on a plate, perfect for summer enjoyment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_von_Fernando_Andrade_auf_Unsplash_bbbfbad56d.jpg"
+    },
+    {
+      "alternativeText": "City view with lights and streets at sunset, perfect for urban photography and night shots.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Foto_von_Eric_Weber_auf_Unsplash_60185ba6f9.jpg"
+    },
+    {
+      "alternativeText": "Zurich: View of decorated streets with Christmas lights at night in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Zuerich_Foto_von_OMID_VISUALS_auf_Unsplash_8182e8fb9e.jpg"
+    },
+    {
+      "alternativeText": "mezcal: Refreshing drink with lemon and salt rim, ideal for summer evenings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mezcal_Foto_von_Gastro_Editorial_auf_Unsplash_8513629231.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "629",
+  "slug": "escape-room-high-noon-in-aargau",
+  "name": "\"High Noon\" Escape Room in Niederwil Aargau",
+  "description": "Discover \"High Noon\" Escape Room in Niederwil Aargau in Switzerland.",
+  "longDescription": "Discover \"High Noon\" Escape Room in Niederwil Aargau in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/escape-room-high-noon-in-aargau/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "High Noon Aargau Escape Room with participants in costumes and props.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/High_Noon_Gruppe_ba767dfdbc.jpg"
+    },
+    {
+      "alternativeText": "High Noon Aargau Escape Room features a detailed scene with a Wild West setting, including a jail door, old furniture, and accessories.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/High_Noon_ad8d39cc01.jpg"
+    },
+    {
+      "alternativeText": "High Noon Aargau Escape Room with locks, exciting puzzles, and atmosphere",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/LOGO_a093e73f03.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

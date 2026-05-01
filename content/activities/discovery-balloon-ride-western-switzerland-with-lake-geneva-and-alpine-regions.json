@@ -1,0 +1,93 @@
+{
+  "id": "162",
+  "slug": "discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions",
+  "name": "Discovery Balloon Ride: Western Switzerland with Lake Geneva and Alpine Regions",
+  "description": "Discover Discovery Balloon Ride: Western Switzerland with Lake Geneva and Alpine Regions in Switzerland.",
+  "longDescription": "Discover Discovery Balloon Ride: Western Switzerland with Lake Geneva and Alpine Regions in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "44",
+    "title": "Ballooning",
+    "slug": "ballooning",
+    "description": "Book a hot air balloon ride in Switzerland. Since the first balloon went up over Basel in 1788, ballooning has been one of the most special experiences. You float almost silently over the mountains, lakes or cities and can see the world from a bird's eye view. You will enjoy views and a silence that you can only enjoy in a balloon. In good weather, balloon flights are possible all year round."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ballooning/discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_5575",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/369813637324812cd065ad585f4f9cbf.JPG"
+    },
+    {
+      "alternativeText": "DSC01339",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b71eda830576f9aacb4b40c90719d60b.jpg"
+    },
+    {
+      "alternativeText": "IMG_20250501_190125",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02de77784c7dcf1d0463785feb182f5d.jpg"
+    },
+    {
+      "alternativeText": "20250920_182424",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d897793bd8e5d734894f694f0d5f7615.jpg"
+    },
+    {
+      "alternativeText": "IMG_2125",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5652cfae13cb8ff6671336d1a1642c8a.JPG"
+    },
+    {
+      "alternativeText": "DSC01378",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/55a42a483bd3ea936f52bc5a1b72de3a.jpg"
+    },
+    {
+      "alternativeText": "Fondue photo",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9fc15e18d92c49dd58e11ff1e2c84114.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "geneva"
+  ],
+  "featured": false
+}

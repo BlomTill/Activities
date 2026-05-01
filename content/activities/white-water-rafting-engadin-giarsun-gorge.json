@@ -1,0 +1,102 @@
+{
+  "id": "996",
+  "slug": "white-water-rafting-engadin-giarsun-gorge",
+  "name": "Giarsun Gorge Rafting on the Inn in the Engadin",
+  "description": "Discover Giarsun Gorge Rafting on the Inn in the Engadin in Switzerland.",
+  "longDescription": "Discover Giarsun Gorge Rafting on the Inn in the Engadin in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/white-water-rafting-engadin-giarsun-gorge/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "White Water Rafting Adventure in Giarsun Engadin with participants in a raft on turbulent waters.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Wildwasser_Rafting_Abenteuer_Giarsun_Engadin_680de849e6.jpg"
+    },
+    {
+      "alternativeText": "Engadin Rafting at Rafting Tour in Wild Surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Wildwasser_Rafting_Abenteuer_Giarsun_Engadin_Stromschnelle_cd2ff7c85b.jpg"
+    },
+    {
+      "alternativeText": "Whitewater rafting adventure on the Giarsun in the Engadin. Participants in orange vests paddling. Mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Wildwasser_Rafting_Abenteuer_Giarsun_Engadin_db67f69238.jpg"
+    },
+    {
+      "alternativeText": "Rafting Adventure Giarsun Engadin with Splashing Water in Nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_Wildwasser_Rafting_Abenteuer_Giarsun_Engadin_d825e2a4da.jpg"
+    },
+    {
+      "alternativeText": "White Water Rafting in the Engadin with several people paddling",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Wildwasser_Rafting_Abenteuer_Giarsun_Engadin_Welle_96999e0fd8.jpg"
+    },
+    {
+      "alternativeText": "White Water Rafting Adventure in Giarsun, Engadin, Sound of Water, Kayakers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6_Wildwasser_Rafting_Abenteuer_Giarsun_Engadin_Welle_74e2505ca6.jpg"
+    },
+    {
+      "alternativeText": "Rafting Giarsun in Engadin, group in a red rubber boat on white water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6_Wildwasser_Rafting_Abenteuer_Giarsun_Schlucht_Engadin_808145b8d6.jpg"
+    },
+    {
+      "alternativeText": "White Water Rafting Adventure in Giarsun, Engadin, participants paddling, wave splashes",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Wildwasser_Rafting_Abenteuer_Giarsun_Engadin_560adc75a6.jpg"
+    },
+    {
+      "alternativeText": "Whitewater Rafting Adventure in the Engadine with Kayaks Between Rocks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8_Wildwasser_Rafting_Abenteuer_Giarsun_Engadin_3e41f10e0b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

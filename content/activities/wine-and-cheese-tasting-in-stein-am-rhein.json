@@ -1,0 +1,103 @@
+{
+  "id": "1406",
+  "slug": "wine-and-cheese-tasting-in-stein-am-rhein",
+  "name": "Public Wine and Cheese Tasting in Stein am Rhein",
+  "description": "Discover Public Wine and Cheese Tasting in Stein am Rhein in Switzerland.",
+  "longDescription": "Discover Public Wine and Cheese Tasting in Stein am Rhein in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/wine-and-cheese-tasting-in-stein-am-rhein/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "FLORIN_WB4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d6d6405ac726892950122b2122ebc3f4.JPG"
+    },
+    {
+      "alternativeText": "FLORIN_WB5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e88120c74b43862008171dfac6d4b420.jpg"
+    },
+    {
+      "alternativeText": "FLORIN_WB2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/89bbc0dd3fffa39f3ddf9160f5e7bc3f.jpg"
+    },
+    {
+      "alternativeText": "FLORIN_WB1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7de0fa90df6c430c04e96fa77aca0227.jpg"
+    },
+    {
+      "alternativeText": "FLORIN_WB3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8d6a2c967e57c4ad77dfefa72fcd0ac.jpg"
+    },
+    {
+      "alternativeText": "FLORIN_W&K4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f83244bbc832659c2fbf45c16eb1d1c8.jpg"
+    },
+    {
+      "alternativeText": "FLORIN_W&K6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aba5896fdcdeb209d94e8ea9aa65d7e5.jpg"
+    },
+    {
+      "alternativeText": "FLORIN_W&K7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f042be7ff5ee1cff7fa375613a401174.jpg"
+    },
+    {
+      "alternativeText": "FLORIN_W&K3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/644ea8eab23961eabf27bb6107f7bb83.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cheese",
+    "wine"
+  ],
+  "featured": false
+}

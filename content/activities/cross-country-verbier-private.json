@@ -1,0 +1,57 @@
+{
+  "id": "267",
+  "slug": "cross-country-verbier-private",
+  "name": "Private cross-country ski lessons in Verbier",
+  "description": "Discover Private cross-country ski lessons in Verbier in Switzerland.",
+  "longDescription": "Discover Private cross-country ski lessons in Verbier in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "89",
+    "title": "Cross country skiing",
+    "slug": "cross-country-skiing",
+    "description": "Book your cross-country skiing course or rent your equipment now. Cross-country skiing is a popular sport in Switzerland. There is a total of over 5000 km of trails where this holistic and healthy sport can be practiced. Cross-country skiing is particularly popular in Graubünden, more precisely in the Engadine. Here, with about 1700 kilometers of trails, more than a third of all Swiss trails are available. Cross-country skiing can be practiced in two styles: Classic and Skating. For beginners, the classic style is more suitable, as it is easier to learn."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/cross-country-skiing/cross-country-verbier-private/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Nordic",
+      "caption": "Skischule Verbier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d7391b0cbc67a75553be22f1fa465577.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

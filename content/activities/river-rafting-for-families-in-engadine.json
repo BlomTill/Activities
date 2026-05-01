@@ -1,0 +1,106 @@
+{
+  "id": "995",
+  "slug": "river-rafting-for-families-in-engadine",
+  "name": "River rafting for families on the Inn in the Engadin",
+  "description": "Discover River rafting for families on the Inn in the Engadin in Switzerland.",
+  "longDescription": "Discover River rafting for families on the Inn in the Engadin in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/river-rafting-for-families-in-engadine/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rafting in Engadin with a family in a red boat",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Engadin_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_5ca2829ecc.jpg"
+    },
+    {
+      "alternativeText": "River Rafting Engadin with paddlers on wild water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Engadin_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_d4ff6cc10c.jpg"
+    },
+    {
+      "alternativeText": "River Rafting Engadin Inn, Kids jumping into the water, summer activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Engadin_Kinder_Springen_Spass_Familie_Rafting_Wildwasser_Inn_Flaz_40f6cd8cb0.jpg"
+    },
+    {
+      "alternativeText": "Flaz Rafting Engadin Family on White Water Adventure in the Mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_Engadin_Bergpanorama_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_d0f5cc8e64.jpg"
+    },
+    {
+      "alternativeText": "Flaz Rafting Engadin: Family paddles on white water in a boat.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Engadin_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_Stromschnelle_1f2b840dcc.jpg"
+    },
+    {
+      "alternativeText": "Engadin River Rafting Inn during rafting in the river, surrounded by trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6_Engadin_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_Stromschnelle_9308d27f22.jpg"
+    },
+    {
+      "alternativeText": "Engadin River Rafting with Participants in White Water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Engadin_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_Stromschnelle_f3bc1577a6.jpg"
+    },
+    {
+      "alternativeText": "Engadin River Rafting: Group in an inflatable boat navigating through rushing water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8_Engadin_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_fb524e6709.jpg"
+    },
+    {
+      "alternativeText": "River Rafting Engadin with families in a red inflatable boat paddling in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_Engadin_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_b1116d1ef8.jpg"
+    },
+    {
+      "alternativeText": "River Rafting Engadin for Families: Group paddles in a red boat on a wild river with flowers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10_Engadin_Kinder_Familie_Rafting_Wildwasser_Inn_Flaz_ee9afb3169.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting",
+    "river"
+  ],
+  "featured": false
+}

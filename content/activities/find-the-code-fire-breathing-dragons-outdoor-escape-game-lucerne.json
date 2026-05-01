@@ -1,0 +1,92 @@
+{
+  "id": "451",
+  "slug": "find-the-code-fire-breathing-dragons-outdoor-escape-game-lucerne",
+  "name": "\"Find-the-Code: Fire-Breathing Dragons\" Outdoor Escape Game Lucerne",
+  "description": "Discover \"Find-the-Code: Fire-Breathing Dragons\" Outdoor Escape Game Lucerne in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Fire-Breathing Dragons\" Outdoor Escape Game Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/find-the-code-fire-breathing-dragons-outdoor-escape-game-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-lucerne",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5a30637a68dddb1e794cdab438b5aee3.jpg"
+    },
+    {
+      "alternativeText": "map-lucerne1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/30b220d5454669433f3c8266a9f42724.jpg"
+    },
+    {
+      "alternativeText": "map-lucerne",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/85e3c4ec58e8de3b19dbc7958891167d.jpg"
+    },
+    {
+      "alternativeText": "group_across_sideways_cheerfully-chatting-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ad3318392cf82ba9d28fc40ba9b40ac9.jpg"
+    },
+    {
+      "alternativeText": "group-hk-frontal-running",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f6f016afdae0de4d142b1ac99239fc3d.jpg"
+    },
+    {
+      "alternativeText": "find-the-code-team-photo15-fullsize",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eeb1553d3e9f3b8f4392a017fcda484b.jpeg"
+    },
+    {
+      "alternativeText": "photoshoot_karlsruhe (55edited)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a312d04b6d9b8d76e6d4442899388cc4.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

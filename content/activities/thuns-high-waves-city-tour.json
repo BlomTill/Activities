@@ -1,0 +1,77 @@
+{
+  "id": "1232",
+  "slug": "thuns-high-waves-city-tour",
+  "name": "“Thun’s High Waves” Public City Tour Thun",
+  "description": "Discover “Thun’s High Waves” Public City Tour Thun in Switzerland.",
+  "longDescription": "Discover “Thun’s High Waves” Public City Tour Thun in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/thuns-high-waves-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "City tour Thun: Discover the high waves of the Aare in summer at Lake Thun.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_hohe_wellen_Aebersord_iris_Aare_Sommer_2022_mikekaufmann_1_6f006896d9.jpg"
+    },
+    {
+      "alternativeText": "City tour Thun with high waves on Lake Thun, relaxed atmosphere, and bright weather",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_Aebersold_hohe_Wellen_Sommer_2022_mikekaufmann_30c99a1312.jpg"
+    },
+    {
+      "alternativeText": "Guided Tour Thun: Informative tour at Lake Thun with fascinating insights into the city history.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/thun_stadtfuehrung_mikekaufmann_49103_0ec5a18492.jpg"
+    },
+    {
+      "alternativeText": "City tour in Thun at high waves on Lake Thun with impressive water view and historic stone wall.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20221001_172720_1_b2a2cb0bac.jpg"
+    },
+    {
+      "alternativeText": "Thun-high-waves",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/65d88b2a3bedd4825f56e5a3cddcd965.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

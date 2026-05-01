@@ -1,0 +1,98 @@
+{
+  "id": "1168",
+  "slug": "cheese-fondue-at-sunset-zurich",
+  "name": "From Zurich: City tour and cable car ride to fondue fun at sunset",
+  "description": "Discover From Zurich: City tour and cable car ride to fondue fun at sunset in Switzerland.",
+  "longDescription": "Discover From Zurich: City tour and cable car ride to fondue fun at sunset in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/cheese-fondue-at-sunset-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Fondue with melted cheese and side dishes on a table",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_felsenegg_traditional_swiss_cheese_fondue_b620ea5cb1_321545c382.jpg"
+    },
+    {
+      "alternativeText": "Lindt Chocolate Fountain in a bright indoor space with visitors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lindt_home_of_chocolate_chocolate_fountain_efe60edbff_9bc5100092.jpg"
+    },
+    {
+      "alternativeText": "Lindt Chocolate Factory with modern building and visitors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lindt_home_of_chocolate_exterior_view_49c286c7d3_04c5aeec45.jpg"
+    },
+    {
+      "alternativeText": "Lake Zurich with cable car to viewpoint, green surroundings, clear visibility",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_felsenegg_aerial_cablecar_above_lake_zurich_ac523d526f_333bd1a524.jpg"
+    },
+    {
+      "alternativeText": "Felsenegg Zurich: Terrace with a view of Lake Zurich and the landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_felsenegg_restaurant_terrace_lake_zurich_8612924238_5c423a2b99.jpg"
+    },
+    {
+      "alternativeText": "Felsenegg Terrace Restaurant with guests eating and drinking, view of Lake Zug and the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_felsenegg_restaurant_terrace_national_day_e1e0e1f711_e41a74866a.jpg"
+    },
+    {
+      "alternativeText": "Terrace Restaurant Felsenegg with table and view of Lake Zurich.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_felsenegg_swiss_cheese_fondue_view_c1cae79655_5f22a01344.jpg"
+    },
+    {
+      "alternativeText": "Viewpoint Zurich with a view of the Swiss Alps and Lake Zurich.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_felsenegg_viewpoint_lake_zurich_swiss_alps_bef8f71db1_2a55c91662.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "fondue",
+    "cable-car"
+  ],
+  "featured": false
+}

@@ -1,0 +1,118 @@
+{
+  "id": "1411",
+  "slug": "private-wine-hike-in-lavaux-from-lausanne",
+  "name": "Private Wine Hike in Lavaux from Lausanne",
+  "description": "Discover Private Wine Hike in Lavaux from Lausanne in Switzerland.",
+  "longDescription": "Discover Private Wine Hike in Lavaux from Lausanne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/private-wine-hike-in-lavaux-from-lausanne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_0180",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d7dbfde23e9578d0a2ead6176a4b8c8.jpeg"
+    },
+    {
+      "alternativeText": "IMG_0365",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7b045d96f888f15d967fba8551074a09.jpeg"
+    },
+    {
+      "alternativeText": "IMG_0663",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/89c676208c67d44f2af9a864dad80059.jpeg"
+    },
+    {
+      "alternativeText": "IMG_1678",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be89a53870e69c59b58843204f8a0103.jpeg"
+    },
+    {
+      "alternativeText": "IMG_5140",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f427577e39524f63c102b2f45839caae.jpeg"
+    },
+    {
+      "alternativeText": "IMG_5572",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5729b7586ec57262585d8646d3bb77c7.jpeg"
+    },
+    {
+      "alternativeText": "IMG_6393",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22676f265d54134e43a09b54643afaa6.jpeg"
+    },
+    {
+      "alternativeText": "IMG_6493",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec8be4af58755cae851e6884e580fe56.jpeg"
+    },
+    {
+      "alternativeText": "IMG_7327",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5114b48df3728a7a36ffed9cb7ef312f.jpeg"
+    },
+    {
+      "alternativeText": "IMG_8448",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/acc8032e59c99b952e6fa79ded1eec9f.jpeg"
+    },
+    {
+      "alternativeText": "IMG_8894",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/597272742a5da8400a03096baff34e4e.jpeg"
+    },
+    {
+      "alternativeText": "IMG_9530",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c5476b8e5bbcedfee4cff12e538641d4.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine",
+    "lausanne"
+  ],
+  "featured": false
+}

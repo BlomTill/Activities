@@ -1,0 +1,95 @@
+{
+  "id": "578",
+  "slug": "the-omega-codex-outdoor-escape-game-schaffhausen",
+  "name": "\"The Omega Codex\" Outdoor Escape Game Schaffhausen",
+  "description": "Discover \"The Omega Codex\" Outdoor Escape Game Schaffhausen in Switzerland.",
+  "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game Schaffhausen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-omega-codex-outdoor-escape-game-schaffhausen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "OmegaCodex_5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5aa68adff5b2f0f2af30375ba282b849.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3db8646eb569f78967050ac270d63794.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/163e7e9302395e423bc57e2e2399c9fa.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/570efd0f35a1629861ad08f4ab50f513.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e51fe45aac2e049a40d6ce0ee58ab7d3.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a24a83d7455b7636785cb56bab302228.jpg"
+    },
+    {
+      "alternativeText": "OmegaCodex_9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e01224daabfb824ac1f59d944c6577e.jpg"
+    },
+    {
+      "alternativeText": "Schaffhausen-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9584e72a0aafaab39a09c38cdba1234b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

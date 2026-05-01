@@ -1,0 +1,94 @@
+{
+  "id": "992",
+  "slug": "rafting-inn-scuol-half-day",
+  "name": "Rafting Scuolerschlucht on the Inn",
+  "description": "Discover Rafting Scuolerschlucht on the Inn in Switzerland.",
+  "longDescription": "Discover Rafting Scuolerschlucht on the Inn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-inn-scuol-half-day/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rafting in the Scuoler Gorge, exciting white-water rafting adventure for groups in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/75029c027dc2f618ce66feb2dfde8de8.JPG"
+    },
+    {
+      "alternativeText": "Rafting in the Scuoler Gorge: experience adventurous tours between forest and river.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/50d5ff5d117d0643ff51dbd1703a64e5.jpg"
+    },
+    {
+      "alternativeText": "Rafting in the Scuoler Gorge: exciting adventure with friends in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a71c4b485a8d9b566a7d8e896f296545.jpg"
+    },
+    {
+      "alternativeText": "Rafting in the Scuoler Gorge with thrilling rapids. Experience the thrill of nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1429c97ccab0ce460b87f9ca63b3d92c.JPG"
+    },
+    {
+      "alternativeText": "Rafting in the Scuoler Gorge: Experience thrilling adventures in the natural paradise of the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/53f0fa61b63e28a28485558720e10bac.jpg"
+    },
+    {
+      "alternativeText": "Rafting in the Scuoler Gorge with a group of adventurers on white water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/32e266e21ebf47bdb266caaa6c207901.jpg"
+    },
+    {
+      "alternativeText": "Scuoler Gorge: Experience thrilling rafting amidst nature, ideal for groups and families.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7764667a9ce2076938a5721f846ba37a.JPG"
+    },
+    {
+      "alternativeText": "Rafting in the Scuoler Gorge: experience adventure in the Inn with perfect summer conditions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5a61984136ea76367351f1b64a3714ec.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

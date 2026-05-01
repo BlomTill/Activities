@@ -1,0 +1,90 @@
+{
+  "id": "1295",
+  "slug": "rail-ticket-zurich-airport-interlaken-ost",
+  "name": "Rail ticket between Zurich Airport and Interlaken Ost",
+  "description": "Discover Rail ticket between Zurich Airport and Interlaken Ost in Switzerland.",
+  "longDescription": "Discover Rail ticket between Zurich Airport and Interlaken Ost in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-interlaken-ost/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Zurich Airport: impressive view of the airport in the winter landscape with airplanes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kloten_unsplash_2ce8a269e2.jpg"
+    },
+    {
+      "alternativeText": "Zurich: City railway station surrounded by trees, ideal for nature and city lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Pixabay_502cab88fc.jpg"
+    },
+    {
+      "alternativeText": "Zurich Airport: Waiting area with a view of the runway. An important transportation hub in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Flughafen_unsplash_cfa37b8da9.jpg"
+    },
+    {
+      "alternativeText": "Zürich train station: modern station with travelers and display boards in the city of Zurich.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ZH_Bh_unsplash_8f36e03bcb.jpg"
+    },
+    {
+      "alternativeText": "Zurich: Overview of tracks and city landscape with trains and mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Gleise_unsplash_1593d9e37e.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: picturesque waterfront along clear water, surrounded by mountains and blooming trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Interlaken_unsplash_Kopie_ea0e27d6ee.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: View of Lake Thun and the mountains, surrounded by lush nature and green meadows.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/j_Interlaken_Seeblick_unsplash_ea0357a476.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

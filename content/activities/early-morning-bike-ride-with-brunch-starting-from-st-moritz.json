@@ -1,0 +1,77 @@
+{
+  "id": "834",
+  "slug": "early-morning-bike-ride-with-brunch-starting-from-st-moritz",
+  "name": "Early morning bike ride with brunch starting from St. Moritz",
+  "description": "Discover Early morning bike ride with brunch starting from St. Moritz in Switzerland.",
+  "longDescription": "Discover Early morning bike ride with brunch starting from St. Moritz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "58",
+    "title": "Mountain bike",
+    "slug": "mountain-bike",
+    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/mountain-bike/early-morning-bike-ride-with-brunch-starting-from-st-moritz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "bl brunch 2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ce447c10eaf0625f8eeb28538769af2.jpg"
+    },
+    {
+      "alternativeText": "bl brunch 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/55735b5dd0a79f72939cefe57156925d.jpeg"
+    },
+    {
+      "alternativeText": "bl brunch 4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f73b211011048369e6c59a47adb9a41c.jpg"
+    },
+    {
+      "alternativeText": "bl brunch 3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c92caeea91a1051392580148b9957008.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "st.-moritz"
+  ],
+  "featured": false
+}

@@ -1,0 +1,97 @@
+{
+  "id": "253",
+  "slug": "olympiad-team-in-winterthur",
+  "name": "Olympiad Team in Winterthur",
+  "description": "Discover Olympiad Team in Winterthur in Switzerland.",
+  "longDescription": "Discover Olympiad Team in Winterthur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "102",
+    "title": "Competition",
+    "slug": "competition",
+    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/competition/olympiad-team-in-winterthur/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Tischtennisspieler",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e7f667f45ac15330238ad7200c0bd583.jpg"
+    },
+    {
+      "alternativeText": "Rudern am Gerät",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/85a34cf3de88da07746526efcd8c0ce1.jpg"
+    },
+    {
+      "alternativeText": "Fussball",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bf6206f5edb72566e263e20355855587.jpg"
+    },
+    {
+      "alternativeText": "Ballwurf",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b746f281f061f3dcdf5bbe0e6cee46fe.jpg"
+    },
+    {
+      "alternativeText": "Team",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/51724293ed594abe64e56d35bd544050.jpg"
+    },
+    {
+      "alternativeText": "Tischtennis",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2c6ffa98779af147437b7ba7b343ffd3.jpg"
+    },
+    {
+      "alternativeText": "Rudern am Gerät",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31a9178d5245503ab226ea1d1a523ef2.jpg"
+    },
+    {
+      "alternativeText": "Team",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f5b3767bb8dc73b0a2ccb0b0a241969.jpg"
+    },
+    {
+      "alternativeText": "Ballwurf",
+      "caption": "Teamolympiade  ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0362d4588bd924cd83b03bd54869f0b1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

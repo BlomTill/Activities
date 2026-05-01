@@ -1,0 +1,87 @@
+{
+  "id": "1420",
+  "slug": "wine-seminar-professional-wine-knowledge-in-practice-in-adelboden",
+  "name": "Wine seminar 'Professional wine knowledge in practice' in Adelboden",
+  "description": "Discover Wine seminar 'Professional wine knowledge in practice' in Adelboden in Switzerland.",
+  "longDescription": "Discover Wine seminar 'Professional wine knowledge in practice' in Adelboden in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/wine-seminar-professional-wine-knowledge-in-practice-in-adelboden/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "1homepage",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3406a0f0b9dba362dbb8626bfe32f31b.jpg"
+    },
+    {
+      "alternativeText": "5 current prices below",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6bc3407bf3765da5926d4fdbacbd93b9.jpg"
+    },
+    {
+      "alternativeText": "2 offers above",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7b0c4cddaf7e963f1f34990731e3fe6.jpg"
+    },
+    {
+      "alternativeText": "3 glamorous wines for glamorous ladies",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/17c2fe0b312de5b7ac120c85cf324ab7.jpg"
+    },
+    {
+      "alternativeText": "Haueter Large Wine Seminar",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ea5e28f972f8c9129c7e6d3f69044d84.JPG"
+    },
+    {
+      "alternativeText": "IMG_1828",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ca3f837b4b81220e7cb7677645c36537.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

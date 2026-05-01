@@ -1,0 +1,50 @@
+{
+  "id": "1506",
+  "slug": "4-days-switzerland-itineraries-zurich",
+  "name": "4 days Switzerland - 13 itineraries from Zurich",
+  "description": "Find your itinerary to spend four days in Switzerland. Our 13 itineraries offer you many options for your trip.",
+  "longDescription": "Find your itinerary to spend four days in Switzerland. Our 13 itineraries offer you many options for your trip.",
+  "category": "outdoor",
+  "subcategory": "outdoor",
+  "location": {
+    "region": "Switzerland",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 127,
+        "student": 203,
+        "adult": 254,
+        "senior": 229
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/switzerland-itineraries/4-days-switzerland-itineraries-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "From",
+      "value": "CHF 254"
+    }
+  ],
+  "tags": [],
+  "featured": false
+}

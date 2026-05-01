@@ -1,0 +1,74 @@
+{
+  "id": "176",
+  "slug": "surf-motorboat-basel",
+  "name": "Surfing behind the motorboat on the Rhine",
+  "description": "Discover Surfing behind the motorboat on the Rhine in Switzerland.",
+  "longDescription": "Discover Surfing behind the motorboat on the Rhine in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "40",
+    "title": "Boat tour",
+    "slug": "boat-tour",
+    "description": "Discover your next adventure and book a boat tour in Switzerland here. Switzerland is considered the water castle of Europe. So it's no surprise that there are more than enough opportunities for boat tours on the more than 1500 Swiss lakes and rivers. The experience on the water is intense, relaxing and full of views. The view of the surrounding landscape and mountain panorama makes the boat trip perfect."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/boat-tour/surf-motorboat-basel/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Boating: A boy is surfing on the water in the sun with various trees in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/37567f5d8c5c6c21311ce26d33a5f37d.jpg"
+    },
+    {
+      "alternativeText": "Boat trip with surfboard in the water, joy in water sports in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f54b9700455faae9d856304c4a7651a7.jpg"
+    },
+    {
+      "alternativeText": "Surfing: A cheerful woman on a board in the water surfing in a summery environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/137ffeb5412d1f9dd17be4e89da2a7f0.jpg"
+    },
+    {
+      "alternativeText": "Boat trip: boat captain at the helm of a boat on clear water in summer, surrounded by nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a7c78f9b3a0052835d476cc3949a1f46.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "boat"
+  ],
+  "featured": false
+}

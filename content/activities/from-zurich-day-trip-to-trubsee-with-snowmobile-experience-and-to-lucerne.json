@@ -1,0 +1,74 @@
+{
+  "id": "304",
+  "slug": "from-zurich-day-trip-to-trubsee-with-snowmobile-experience-and-to-lucerne",
+  "name": "From Zurich: Day trip to Trübsee with Snowmobile Experience and to Lucerne",
+  "description": "Discover From Zurich: Day trip to Trübsee with Snowmobile Experience and to Lucerne in Switzerland.",
+  "longDescription": "Discover From Zurich: Day trip to Trübsee with Snowmobile Experience and to Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-day-trip-to-trubsee-with-snowmobile-experience-and-to-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Schneemobil am Trübsee",
+      "caption": "Tagesausflug Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/58048b527a5267b60520f3a317385801.jpg"
+    },
+    {
+      "alternativeText": "Snowtubing",
+      "caption": "Tagesausflug Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/947c3bf428e095d2d416db08e11ae502.jpg"
+    },
+    {
+      "alternativeText": "Luzern",
+      "caption": "Tagesausflug Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/113f7242935310722b98c93a62072f06.jpg"
+    },
+    {
+      "alternativeText": "Luzern",
+      "caption": "Tagesausflug Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6f2a897b84b53ef7fa3227c027cf34fc.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

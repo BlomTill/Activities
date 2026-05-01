@@ -1,0 +1,84 @@
+{
+  "id": "994",
+  "slug": "rafting-inn-giarsun-half-day",
+  "name": "Whitewater rafting Giarsun Gorge on the Inn for advanced rafters",
+  "description": "Discover Whitewater rafting Giarsun Gorge on the Inn for advanced rafters in Switzerland.",
+  "longDescription": "Discover Whitewater rafting Giarsun Gorge on the Inn for advanced rafters in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-inn-giarsun-half-day/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rafting Inn: Experience the fun of rafting with friends in Giarsun.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/893fdfd2250df68f2e222d6650e59b33.jpg"
+    },
+    {
+      "alternativeText": "Rafting in Giarsun: thrilling white-water rafting adventure with friends in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/eae6cc82804ea2ab2282e0afe63b740d.jpg"
+    },
+    {
+      "alternativeText": "Rafting Inn: Experience thrilling rafting in Giarsun, surrounded by nature and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7bcb7f05f2a2997242ff1da785704f45.jpg"
+    },
+    {
+      "alternativeText": "Rafting in Giarsun: exciting water activity with friends in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c330fd57ffdccb32d06bedde0e3a16b8.jpg"
+    },
+    {
+      "alternativeText": "Rafting Inn: Exciting rafting experience in Giarsun with friends and family in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2e2a84fcd20c704518dd2f94496f4ab5.jpg"
+    },
+    {
+      "alternativeText": "Rafting Inn: Active rafting tour among trees in summer with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5f99cf4eebd1f3a0e3c46a8c14837778.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

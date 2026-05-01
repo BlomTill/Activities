@@ -1,0 +1,94 @@
+{
+  "id": "1030",
+  "slug": "helicopter-flight-bern-belp-jungfraujoch",
+  "name": "Scenic helicopter flight 45 min to Jungfraujoch",
+  "description": "Discover Scenic helicopter flight 45 min to Jungfraujoch in Switzerland.",
+  "longDescription": "Discover Scenic helicopter flight 45 min to Jungfraujoch in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-flight-bern-belp-jungfraujoch/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Helicopter flies over alpine mountain landscape in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_da8935305ed54127d7a89589198a84a7_1dc3fa514b.jpg"
+    },
+    {
+      "alternativeText": "Helicopter over the Alps during a scenic flight",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_c6e7818370c2e7b6e0e30cc55117b9f6_23f0919130.jpg"
+    },
+    {
+      "alternativeText": "Helicopter tour over the Swiss Alps, wide peaks and clouds.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_628e8f91a1bd2e897f18bd17b83d3bc9_cf577bb12a.jpg"
+    },
+    {
+      "alternativeText": "Brienz Lake from above with surrounding villages, agriculture, and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_0c70168f51369ecd27c58623d01db523_4e8431d0a0.jpg"
+    },
+    {
+      "alternativeText": "Thun Lake from above with clouds and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rundflug_Thunersee_f5b84d0b9c.webp"
+    },
+    {
+      "alternativeText": "Helicopter tour over the Alps, passengers in the helicopter, snow-covered mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_9b3effb5017f944b48abbe6c66496e21_51cf17084a.jpg"
+    },
+    {
+      "alternativeText": "Glacier flight over impressive glacier landscapes, majestic mountains, and icy expanses. Clear view of snow-covered peaks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gletscher_Rundflug_e8c0f30de7.webp"
+    },
+    {
+      "alternativeText": "Alpine Helicopter Flight with Snow-Covered Mountains and Blue Sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Alpine_Flight_Tour_image_1_jpg_4f68f46eaf.webp"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "scenic"
+  ],
+  "featured": false
+}

@@ -1,0 +1,108 @@
+{
+  "id": "954",
+  "slug": "gotthard-postbus-pass-trip-andermatt-airolo",
+  "name": "Gotthard Postbus pass trip between Andermatt and Airolo",
+  "description": "Discover Gotthard Postbus pass trip between Andermatt and Airolo in Switzerland.",
+  "longDescription": "Discover Gotthard Postbus pass trip between Andermatt and Airolo in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "141",
+    "title": "Postbus",
+    "slug": "postbus",
+    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/gotthard-postbus-pass-trip-andermatt-airolo/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gotthard Pass Postbus: Relax while hiking in the Swiss mountains, ideal for adventure and relaxation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gotthard_Pass_Postbus_Foto_Switzerland_Tourism_Andre_Meier_2f52523746.jpg"
+    },
+    {
+      "alternativeText": "Bus ride through the picturesque Leventina with colorful autumn leaves and a stunning mountain landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_20_Leventina_Airolo_3990482a35.png"
+    },
+    {
+      "alternativeText": "Postbus drives through a blooming landscape in the mountains in summer, ideal for excursions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Postauto_41d9150ee8.jpg"
+    },
+    {
+      "alternativeText": "Andermatt: picturesque view of the Ursern Valley with mountains, nature, and hiking opportunities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/andermatt_Urserntal_f135f81567.jpg"
+    },
+    {
+      "alternativeText": "Gotthard: impressive mountain landscape with green slopes and a winding road, ideal for explorations.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gotthard_Pixabay_20966ae762.jpg"
+    },
+    {
+      "alternativeText": "Gotthard Pass: Spectacular alpine landscape with roads and mountains in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gotthard_Pass_Pixabay_7e198e0304.jpg"
+    },
+    {
+      "alternativeText": "Gotthard Pass: picturesque view of the valley with green meadows and mountains, perfect for hiking.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gotthard_Pass_1_Pixabay_28e0c3dd1c.jpg"
+    },
+    {
+      "alternativeText": "Gotthard Pass: impressive view of winding road in the Swiss Alps during the summer season",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gotthard_Pass_2_Pixabay_308c5ca6d3.jpg"
+    },
+    {
+      "alternativeText": "Gotthard Pass: picturesque mountain road in Switzerland, surrounded by nature and high mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gotthardpass_Unsplash_35efaab781.jpg"
+    },
+    {
+      "alternativeText": "Schöllenen Gorge: impressive gorge with steep rocks and a picturesque road in the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/s_Schoellenenschlucht_Gotthard_4c54a6808c.jpg"
+    },
+    {
+      "alternativeText": "Airolo: picturesque mountain landscape with roads and hiking trails in the summer heat.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Airolo_unsplash_27a3664151.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

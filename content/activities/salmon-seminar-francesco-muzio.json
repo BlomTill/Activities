@@ -1,0 +1,75 @@
+{
+  "id": "1433",
+  "slug": "salmon-seminar-francesco-muzio",
+  "name": "Private Lach Seminar (all over Switzerland)",
+  "description": "Discover Private Lach Seminar (all over Switzerland) in Switzerland.",
+  "longDescription": "Discover Private Lach Seminar (all over Switzerland) in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/salmon-seminar-francesco-muzio/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Laughter seminar: Muzio delights the audience with humorous stories and shared joy.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/96a0aecc9547ecccbebd82d12cf55548.png"
+    },
+    {
+      "alternativeText": "Laughter seminar: laughing people in a cheerful mood at a seminar, experiencing team spirit and joy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/15b3d0a1c7765eca0d08e2db1d398c01.jpg"
+    },
+    {
+      "alternativeText": "Laughter seminar: laughing people at the workshop, community experience, good atmosphere and joy.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4d50c8230f2233bf0394f987f3cddb7b.jpg"
+    },
+    {
+      "alternativeText": "Laughter seminar: laughing people in a group during a seminar, cheerful and relaxed",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7af4e1b1edf8fd3767d68b28c6245ce0.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

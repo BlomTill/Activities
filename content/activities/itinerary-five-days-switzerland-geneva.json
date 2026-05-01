@@ -1,0 +1,52 @@
+{
+  "id": "1508",
+  "slug": "itinerary-five-days-switzerland-geneva",
+  "name": "5 days Switzerland - 4 itineraries from Geneva",
+  "description": "There are several options to spend five days in Switzerland. Discover your Switzerland itinerary starting in Geneva and plan your perfect trip.",
+  "longDescription": "There are several options to spend five days in Switzerland. Discover your Switzerland itinerary starting in Geneva and plan your perfect trip.",
+  "category": "outdoor",
+  "subcategory": "outdoor",
+  "location": {
+    "region": "Switzerland",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 127,
+        "student": 203,
+        "adult": 254,
+        "senior": 229
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/switzerland-itineraries/itinerary-five-days-switzerland-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "From",
+      "value": "CHF 254"
+    }
+  ],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

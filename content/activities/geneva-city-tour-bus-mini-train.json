@@ -1,0 +1,118 @@
+{
+  "id": "1199",
+  "slug": "geneva-city-tour-bus-mini-train",
+  "name": "Geneva: City tour by bus and mini-train",
+  "description": "Discover Geneva: City tour by bus and mini-train in Switzerland.",
+  "longDescription": "Discover Geneva: City tour by bus and mini-train in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-bus-mini-train/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Genf",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/830cf9e5dc2aa0ce26dcea0af0bf9a65.jpg"
+    },
+    {
+      "alternativeText": "Genf",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e74dbec581672066cfa9094d205c850f.jpg"
+    },
+    {
+      "alternativeText": "Genf Stuhl",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7f9fb9f87a29b9ad777465707acdf9f.jpg"
+    },
+    {
+      "alternativeText": "Genfersee",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a32ffea283b89ff30277c840fb88560a.jpg"
+    },
+    {
+      "alternativeText": "Schachspieler",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a8ba39ed2cf7aa179c453522a16e95ca.jpg"
+    },
+    {
+      "alternativeText": "Genf",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/415c4b5c0e1f1a44fc249fb6ed5d40d1.jpg"
+    },
+    {
+      "alternativeText": "Genf",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/67bd1cd5918d23e67eaad0e4b45d96b1.jpg"
+    },
+    {
+      "alternativeText": "Genf",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b908948dbadbea3e1e7179867ab6cb9.jpg"
+    },
+    {
+      "alternativeText": "Genf",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4eeff4f598e3796c165567d35e228ec7.JPG"
+    },
+    {
+      "alternativeText": "Genfersee",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/32ae9c0c0dc9c7182b4422a3b16e68b1.jpg"
+    },
+    {
+      "alternativeText": "Genfersee",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4ba88f5de0e0c973da164f3b0dc2ae7e.jpg"
+    },
+    {
+      "alternativeText": "Genf Blumenuhr",
+      "caption": "Genf City Tour",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7232d7fc94a9103162af5fae65fd8d18.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train",
+    "geneva"
+  ],
+  "featured": false
+}

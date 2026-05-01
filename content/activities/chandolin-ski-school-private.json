@@ -1,0 +1,82 @@
+{
+  "id": "1096",
+  "slug": "chandolin-ski-school-private",
+  "name": "Private ski school in Chandolin in the Val d'Anniviers",
+  "description": "Discover Private ski school in Chandolin in the Val d'Anniviers in Switzerland.",
+  "longDescription": "Discover Private ski school in Chandolin in the Val d'Anniviers in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/chandolin-ski-school-private/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Skifahrer ",
+      "caption": "Skischule Chandolin",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/93e98dc3e5ca00cdd39b981b42445749.JPG"
+    },
+    {
+      "alternativeText": "Skifahrer ",
+      "caption": "Skischule Chandolin",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/94d1545fbda4012f530fd9d2f8961c7a.JPG"
+    },
+    {
+      "alternativeText": "Skifahrer ",
+      "caption": "Skischule Chandolin",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f3f348395dbbda9e588ff1b4e11e5566.JPG"
+    },
+    {
+      "alternativeText": "Skifahrer ",
+      "caption": "Skischule Chandolin",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b73d403be144b40c686c6114bb82741f.jpeg"
+    },
+    {
+      "alternativeText": "Skifahrer ",
+      "caption": "Skischule Chandolin",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fe48da6f68c8fde6153a53ef5451e2b9.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer ",
+      "caption": "Skischule Chandolin",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/55ac99e3cabd5a166691d699cf00be01.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

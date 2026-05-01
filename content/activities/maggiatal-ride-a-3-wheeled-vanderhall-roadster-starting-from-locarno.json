@@ -1,0 +1,95 @@
+{
+  "id": "975",
+  "slug": "maggiatal-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno",
+  "name": "Maggiatal: Ride a 3-wheeled Vanderhall roadster starting from Locarno",
+  "description": "Discover Maggiatal: Ride a 3-wheeled Vanderhall roadster starting from Locarno in Switzerland.",
+  "longDescription": "Discover Maggiatal: Ride a 3-wheeled Vanderhall roadster starting from Locarno in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "63",
+    "title": "Quad",
+    "slug": "quad",
+    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/maggiatal-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "batch_maggia5 (1) Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f071a7424c4c31b754984e4b50f04a56.jpg"
+    },
+    {
+      "alternativeText": "MG_5716-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/063f6efe6d39ba4c900f8fd6671ca178.jpg"
+    },
+    {
+      "alternativeText": "MG_5714-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/20f54eb713e50d4d4b1a465721ebf477.jpg"
+    },
+    {
+      "alternativeText": "batch-maggia2-1-copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4aa97d427fdcb98c215caf27b1b1148.jpg"
+    },
+    {
+      "alternativeText": "batch_maggia1 (1) Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1955fc319ef55da21780862ce7450924.jpg"
+    },
+    {
+      "alternativeText": "batch_maggia3 (1) Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7b23b43ec6f2c7b74453536a8ee8080c.jpg"
+    },
+    {
+      "alternativeText": "batch_maggia4 copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4008485ab92d29fd57a459511e8eef06.jpg"
+    },
+    {
+      "alternativeText": "batch_maggia6 (1) Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/728c7853df515a33b292bbb2b4266e11.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

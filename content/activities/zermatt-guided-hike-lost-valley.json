@@ -1,0 +1,76 @@
+{
+  "id": "845",
+  "slug": "zermatt-guided-hike-lost-valley",
+  "name": "Lost valley guided mountain tour Zermatt",
+  "description": "Discover Lost valley guided mountain tour Zermatt in Switzerland.",
+  "longDescription": "Discover Lost valley guided mountain tour Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "59",
+    "title": "Mountain tour",
+    "slug": "mountain-tour",
+    "description": "Discover and book your next mountain adventure here. Switzerland's mountain hiking trails in the difficulty levels T2 and T3 are marked in white-red-white, while the alpine mountain hiking trails (T4) are marked in white-blue-white. On a guided mountain tour you can explore unknown terrain that would be too dangerous on your own. Mountain tours are offered in Switzerland wherever you encounter high alpine mountains."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/mountain-tour/zermatt-guided-hike-lost-valley/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Matterhorn while hiking in Zermatt in the Lost Valley",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/verlorenes_Tal_1_74fdaf8315.jpg"
+    },
+    {
+      "alternativeText": "Matterhorn while hiking in the Lost Valley, glacier moraines and green meadows.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/verlorenes_Tal_2_8b1e8fbf37.jpg"
+    },
+    {
+      "alternativeText": "Hiking Zermatt Lost Valley with Matterhorn, autumn landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Trail_Running_Zermatt_Matterhorn_4b8bae6a9f.jpg"
+    },
+    {
+      "alternativeText": "High Alps in Zermatt show snow-covered peaks and glaciers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hochalpen_9a7b307e92.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "mountain",
+    "zermatt"
+  ],
+  "featured": false
+}

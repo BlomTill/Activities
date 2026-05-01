@@ -1,0 +1,79 @@
+{
+  "id": "968",
+  "slug": "birthday-quad-tour-2-hours-at-lake-constance",
+  "name": "Birthday quad tour 2 hours at Lake Constance",
+  "description": "Discover Birthday quad tour 2 hours at Lake Constance in Switzerland.",
+  "longDescription": "Discover Birthday quad tour 2 hours at Lake Constance in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "63",
+    "title": "Quad",
+    "slug": "quad",
+    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/birthday-quad-tour-2-hours-at-lake-constance/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "ATV tour at Lake Constance with friends, motorcycles, summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Bodensee_7ae91bec2f.jpg"
+    },
+    {
+      "alternativeText": "ATV tour in the forest with friends, relaxed outing in overcast weather.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Spass_in_der_Natur_1024x680_a65b2b08a0.jpg"
+    },
+    {
+      "alternativeText": "Birthday party with banners and lights outdoors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/geburtstags_tour_kl_54e5ff2959.jpg"
+    },
+    {
+      "alternativeText": "ATV tour with friends in nature, green landscape, relaxed atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/BBQ_Tour_kl_26f88b6777.jpg"
+    },
+    {
+      "alternativeText": "ATV tour on unpaved roads in nature, sunny weather",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_2h_kl_9926c1d915.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

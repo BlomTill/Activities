@@ -1,0 +1,95 @@
+{
+  "id": "479",
+  "slug": "duo-tour-wow-city-rally-zurich",
+  "name": "\"Duo Tour\" WOW City Rally in Zurich",
+  "description": "Discover \"Duo Tour\" WOW City Rally in Zurich in Switzerland.",
+  "longDescription": "Discover \"Duo Tour\" WOW City Rally in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/duo-tour-wow-city-rally-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "WOW City Rally: Experience exciting adventures in the city with creative team challenges.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_WOW_City_Rally_quer_RGB_b736b18ddc.png"
+    },
+    {
+      "alternativeText": "WOW City Rally: Discover the city through the lens of a glass ball on your tour.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05_WOW_City_Rally_Pressemappe_A4_quer_RGB_4c9731cd71.jpg"
+    },
+    {
+      "alternativeText": "WOW City Rally: Experience the creative Duo Tour fun in Zurich with friends and family",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_WOW_City_Rally_quer_RGB_6c75be0c11.png"
+    },
+    {
+      "alternativeText": "WOW City Rally Duo Tour: Discover exciting adventures and experiences for groups in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_WOW_City_Rally_quer_RGB_e076e97915.jpg"
+    },
+    {
+      "alternativeText": "WOW City Rally Duo Tour: Two people experiencing an exciting city tour together, full of fun and adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_WOW_City_Rally_Pressemappe_A4_RGB_7df402c521.jpg"
+    },
+    {
+      "alternativeText": "WOW City Rally: exciting city rally for adventure, kids, and groups in a dynamic environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_WOW_City_Rally_Pressemappe_A4_quer_RGB_ohne_55693d3c80.jpg"
+    },
+    {
+      "alternativeText": "WOW City Rally Duo Tour: Enjoy a refreshing water fountain experience in a vibrant city atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_WOW_City_Rally_quer_RGB_aaad7abd6c.png"
+    },
+    {
+      "alternativeText": "WOW City Rally Duo Tour: explore the city with friends in an exciting team experience",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/09_WOW_City_Rally_quer_RGB_109943d3fb.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

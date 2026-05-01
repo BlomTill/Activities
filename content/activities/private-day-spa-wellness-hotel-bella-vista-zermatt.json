@@ -1,0 +1,96 @@
+{
+  "id": "1391",
+  "slug": "private-day-spa-wellness-hotel-bella-vista-zermatt",
+  "name": "Private Day Spa at Wellness Hotel Bella Vista in Zermatt",
+  "description": "Discover Private Day Spa at Wellness Hotel Bella Vista in Zermatt in Switzerland.",
+  "longDescription": "Discover Private Day Spa at Wellness Hotel Bella Vista in Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "69",
+    "title": "Wellness and adventure pools",
+    "slug": "wellness",
+    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/private-day-spa-wellness-hotel-bella-vista-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Private day spa with a view of the Matterhorn, enjoy in the mountains of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/318174b7ddff53e275dfd4f7d0ddde46.png"
+    },
+    {
+      "alternativeText": "Arvenstube: Cozy day spa with wooden decor in Zermatt for relaxation and wellness.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/25c60907a6a2d914c24606f0325dc882.jpg"
+    },
+    {
+      "alternativeText": "Steam bath: luxurious private day spa at Hotel Bella Vista Zermatt with authentic wellness atmosphere",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/18828341a664729e1b7ab26ee96e53c6.jpg"
+    },
+    {
+      "alternativeText": "Showers Spa: Relax in a private day spa in Zermatt with a luxurious ambiance and nature-inspired design.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9379b0b12951d1b354d4218ce608be51.jpg"
+    },
+    {
+      "alternativeText": "Relaxation room with Matterhorn view at Hotel Bella Vista Zermatt for relaxation and wellness.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b2432a546f79e65ed200c61a4ffd0080.jpg"
+    },
+    {
+      "alternativeText": "Relaxation Room Cave: Unwind in a private day spa with cozy loungers in Zermatt.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/085b83b04f53d2644ba5f537ddefc79b.jpg"
+    },
+    {
+      "alternativeText": "Relaxation room with a view of the Matterhorn at Hotel Bella Vista Zermatt for relaxing hours.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cf6c40470daa706b87fe96e051286d51.jpg"
+    },
+    {
+      "alternativeText": "Sauna at Hotel Bella Vista with relaxing offers and a luxurious ambiance in Zermatt.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/33208c911098ce5cd47fc26fc6a2c7f3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wellness",
+    "spa",
+    "zermatt"
+  ],
+  "featured": false
+}

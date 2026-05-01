@@ -1,0 +1,50 @@
+{
+  "id": "1501",
+  "slug": "itinerary-two-days-switzerland-zurich",
+  "name": "2 days Switzerland - 12 itineraries from Zurich",
+  "description": "Two days in Switzerland are only a short time for your trip. But you still have several options to plan your itinerary from Zurich.",
+  "longDescription": "Two days in Switzerland are only a short time for your trip. But you still have several options to plan your itinerary from Zurich.",
+  "category": "outdoor",
+  "subcategory": "outdoor",
+  "location": {
+    "region": "Switzerland",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 127,
+        "student": 203,
+        "adult": 254,
+        "senior": 229
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/switzerland-itineraries/itinerary-two-days-switzerland-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "From",
+      "value": "CHF 254"
+    }
+  ],
+  "tags": [],
+  "featured": false
+}

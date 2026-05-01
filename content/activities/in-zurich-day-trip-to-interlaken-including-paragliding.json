@@ -1,0 +1,100 @@
+{
+  "id": "321",
+  "slug": "in-zurich-day-trip-to-interlaken-including-paragliding",
+  "name": "From Zürich: Day trip to Interlaken including paragliding",
+  "description": "Discover From Zürich: Day trip to Interlaken including paragliding in Switzerland.",
+  "longDescription": "Discover From Zürich: Day trip to Interlaken including paragliding in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-interlaken-including-paragliding/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "kt-2020-360-keytours-excursions-swisstours-interlaken-paragliding4-2048-10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cb4e3645380b8062fc4791f74e544817.jpg"
+    },
+    {
+      "alternativeText": "kt-2020-360-keytours-excursions-swisstours-interlaken-paragliding3-2048-10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e6720f57a4ef6afd2bb3e8c60e8c5686.jpg"
+    },
+    {
+      "alternativeText": "keytours-excursions-swisstours-interlaken-paragliding",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/52bd63e7117c2cdbd095d5b444b478b1.jpg"
+    },
+    {
+      "alternativeText": "kt-2020-360-keytours-excursions-swisstours-interlaken-paragliding1-2048-10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e19e913b25d017211f6a58cd3159ca6c.jpg"
+    },
+    {
+      "alternativeText": "kt-2020-360-keytours-excursions-swisstours-interlaken-paragliding2-2048-10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f3c517a0d709eee68fdf55f653c61818.jpg"
+    },
+    {
+      "alternativeText": "kt-2020-360-keytours-excursions-swisstours-interlaken-paragliding9-2048-10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f01ff803e222b214bb5c29acb2c02f08.jpg"
+    },
+    {
+      "alternativeText": "kt-2020-360-keytours-excursions-swisstours-interlaken-paragliding12-2048-10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09e1110cafe68f25a8cdfbca7a724b65.jpg"
+    },
+    {
+      "alternativeText": "kt-2020-360-keytours-excursions-swisstours-interlaken-paragliding6-2048-10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/03e26985fb42a40235dc14b6213700bf.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "lake",
+    "zürich",
+    "interlaken"
+  ],
+  "featured": false
+}

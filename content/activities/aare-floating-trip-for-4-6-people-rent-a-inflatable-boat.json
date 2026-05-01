@@ -1,0 +1,74 @@
+{
+  "id": "182",
+  "slug": "aare-floating-trip-for-4-6-people-rent-a-inflatable-boat",
+  "name": "Rafting for 3-6 people: Rent a rubber dinghy",
+  "description": "Discover Rafting for 3-6 people: Rent a rubber dinghy in Switzerland.",
+  "longDescription": "Discover Rafting for 3-6 people: Rent a rubber dinghy in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "27",
+    "title": "Böötle",
+    "slug": "boeoetle",
+    "description": "Find the right river and book your Böötle experience here. Whether in the Aare, on the Limmat or on the Rhine, rafting is a leisure activity that is possible on almost every river and enjoys immense popularity in Switzerland. More and more providers make the boat available to you ready to float and pick it up again at the drop-off point. It is important to note that you should get off the boat in good time before dangerous places, power stations and weirs."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/boeoetle/aare-floating-trip-for-4-6-people-rent-a-inflatable-boat/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "4-6 Personen Schlauchboot_Jugendlich seite",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/169a9e631b7dd5e7aa2df4c56a5dcb85.jpg"
+    },
+    {
+      "alternativeText": "4-6 Personen Schlauchboot_Familie Closeup",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6510b547ba28a144bddc140bcc38bd26.jpg"
+    },
+    {
+      "alternativeText": "4-6 Personen Schlauchboot_familie front",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f6e08cc966d53a6c2dd6150fe8153822.jpg"
+    },
+    {
+      "alternativeText": "4-6 Personen Schlauchboot_reinspringen",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6addb5455f4540515a58717cd5b23b32.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

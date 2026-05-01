@@ -1,0 +1,95 @@
+{
+  "id": "1020",
+  "slug": "bike-day-ticket-sbb",
+  "name": "Bike Day Pass SBB",
+  "description": "Discover Bike Day Pass SBB in Switzerland.",
+  "longDescription": "Discover Bike Day Pass SBB in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "136",
+    "title": "SBB Day Pass",
+    "slug": "sbb-day-pass",
+    "description": "Find the right SBB Day Pass for you here. SBB Day Passes allow you to travel for a whole day. You only need one ticket, even if you have to change trains several times. Within the validity of your day ticket, you can travel as often as you like. You should only check the timetables so that you don't miss the \"last train\" or your connection. Your day pass is valid for the entire day of the date printed on it and beyond until 5:00 a.m. the following day."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sbb-day-pass/bike-day-ticket-sbb/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bicycle: Bicycle symbol on train, ideal for cyclists and traveling by train. Connection between nature and mobility.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Whats_App_Bild_2023_09_07_um_11_01_27_5d19a14e07.jpg"
+    },
+    {
+      "alternativeText": "Bike Compartment Train: Bicycle parking space on the train for transporting bicycles in public transport.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Velo_Abteil_Zug_Seraina_6b68b3237c.jpg"
+    },
+    {
+      "alternativeText": "SBB train travels through picturesque vineyards by Lake Geneva in Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_1_Unsplash_5c0760f425.jpg"
+    },
+    {
+      "alternativeText": "Tram Zurich: Modern means of transportation in the city with passengers and trees in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tram_Zuerich_Unsplash_6ec9ac895a.jpg"
+    },
+    {
+      "alternativeText": "SBB train: modern train of the Swiss Federal Railways passing quickly by the station",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_Unsplash_ac11df2c07.jpg"
+    },
+    {
+      "alternativeText": "Zurich Station: modern and bustling with trains, travelers, and impressive architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0_Bahnhof_Zuerich_Seraina_8554e0b864.jpg"
+    },
+    {
+      "alternativeText": "Bus Zurich: Urban transport and mobility in Zurich with modern transport solutions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_Bus_Zuerich_Seraina_6670b927da.jpg"
+    },
+    {
+      "alternativeText": "Bipperlisi: Train at the station in front of historical buildings with blue sky and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bipperlisi_Seraina_e91372fc8d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

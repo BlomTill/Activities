@@ -1,0 +1,106 @@
+{
+  "id": "303",
+  "slug": "at-zurich-lucerne-and-titlis-tour-with-beginner-skiing-including-rotair",
+  "name": "At Zürich: Lucerne and Titlis tour with beginner skiing including Rotair",
+  "description": "Discover At Zürich: Lucerne and Titlis tour with beginner skiing including Rotair in Switzerland.",
+  "longDescription": "Discover At Zürich: Lucerne and Titlis tour with beginner skiing including Rotair in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/at-zurich-lucerne-and-titlis-tour-with-beginner-skiing-including-rotair/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rotair Bahn Titlis",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ca64af754a03841772c1ff41d22f75d.jpg"
+    },
+    {
+      "alternativeText": "Ice Flyer Titlis",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/950bdaea5b8bb6bafbc7f658ba25dba4.jpg"
+    },
+    {
+      "alternativeText": "Titlis",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d989064bc583c0bd1e322d2407df00d.jpg"
+    },
+    {
+      "alternativeText": "Trübsee Anfängerskifahren",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/095ff46617662f2d36d23d4e0752439c.jpg"
+    },
+    {
+      "alternativeText": "Trübsee Anfängerskifahren",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6bf7b08b315696add354c135e2997e1a.jpg"
+    },
+    {
+      "alternativeText": "Trübsee Anfängerskifahren",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/52517706bd079d43e7f3a4513d8d1a67.jpg"
+    },
+    {
+      "alternativeText": "Snowtubing Trübsee",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb02eb132e1729ae0f464005fdafe48a.jpg"
+    },
+    {
+      "alternativeText": "Snowtubing Trübsee",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a14e105128c98cdd09f7949bea43a213.jpg"
+    },
+    {
+      "alternativeText": "Luzern",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2fccd350515be77f67b8a420be9c2543.jpg"
+    },
+    {
+      "alternativeText": "Eishöhle Titlis",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ac335a41dd1a78b356f87dc510887b72.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "skiing",
+    "zürich",
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "160",
+  "slug": "bagger-fun-with-a-21-tonne-excavator-in-gossau",
+  "name": "Bagger fun with a 21-tonne excavator in Gossau",
+  "description": "Discover Bagger fun with a 21-tonne excavator in Gossau in Switzerland.",
+  "longDescription": "Discover Bagger fun with a 21-tonne excavator in Gossau in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "35324",
+    "title": "Baggage pass",
+    "slug": "baggage-pass",
+    "description": "Book your childhood dream here. At Bagger Fun, you choose your favourite excavator and get a close-up experience of what it's like to operate a real construction machine yourself. You decide which model awaits you. Available are small compact excavators weighing 8t or powerful excavators weighing 21t. After a brief introduction, you move the control levers and practise digging in the gravel pile or in the soil. Afterwards, you demonstrate your newly acquired skills with agility tasks."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/baggage-pass/bagger-fun-with-a-21-tonne-excavator-in-gossau/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "21t",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/172a9b9a083c57d21e9282733b0728b6.jpg"
+    },
+    {
+      "alternativeText": "Voucher 21st Event L",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/509128538aa6a0a4860d79d7cc596e4d.jpg"
+    },
+    {
+      "alternativeText": "Voucher 21t",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/caa74fd320202691096cd42205879489.jpg"
+    },
+    {
+      "alternativeText": "Voucher2 21st",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d8ee8ff04a4f080586e2b0c6ae4b9e6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

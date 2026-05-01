@@ -1,0 +1,147 @@
+{
+  "id": "1445",
+  "slug": "watchmaking-course-full-day-tourbillon-geneva",
+  "name": "Full-day watchmaking course including lunch and take-home tourbillon watch",
+  "description": "Discover Full-day watchmaking course including lunch and take-home tourbillon watch in Switzerland.",
+  "longDescription": "Discover Full-day watchmaking course including lunch and take-home tourbillon watch in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-full-day-tourbillon-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Uhrgehäuse",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c8a2e7dac86916fcdcc642974e254f78.jpg"
+    },
+    {
+      "alternativeText": "Uhr",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f5dab4e2f17a7bd783a28b7efd828a0.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c4f2edb66e44b34e74d538e1fe8707f8.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64d191d03f5dd36e78a38ec11fa9381a.jpg"
+    },
+    {
+      "alternativeText": "Uhrgehäuse",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be09afe27614af4612b0ac59b0eda42f.jpg"
+    },
+    {
+      "alternativeText": "Uhrgehäuse",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ad4455bdc3801b815ceec20916df626.jpg"
+    },
+    {
+      "alternativeText": "Uhrgehäuse",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0fbcfdbaa4b4afd4f87f4f33972788e5.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da72e4a6c3a52774899a93c4ecfa56bb.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8eb2bfc7b1c57048338bde116dcc148f.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26842e0051c8e677daa6e8d2753265dc.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e39fc725dfb7b2c05e54a777420f5473.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/edf9fd8db12b5e19018010762805a968.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cffdbce444440405d265319bad9a818b.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/584c53f9034cb26561fb43ca5868cfcf.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5fea5bc8d4c9d3b6e83ac434c8066ecd.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e104d0bdcf84c8c4ce48985e335d3fd0.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a64e5f14aa70ecc838d050a6de4a96a5.jpg"
+    },
+    {
+      "alternativeText": "Uhr ",
+      "caption": "Tourbillon Uhrenworkshop",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d3bb028246f0bd706772e8883d6975e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "watch"
+  ],
+  "featured": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": "501",
+  "slug": "escape-room-jewels-pondicherry-winterthur",
+  "name": "\"The Jewels from Pondicherry\" Escape Room Winterthur",
+  "description": "Discover \"The Jewels from Pondicherry\" Escape Room Winterthur in Switzerland.",
+  "longDescription": "Discover \"The Jewels from Pondicherry\" Escape Room Winterthur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/escape-room-jewels-pondicherry-winterthur/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Plakat",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af9405adf7fe6d22948c0e233d97049b.jpg"
+    },
+    {
+      "alternativeText": "Araber",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b0f7179a9958e530698a33e5ded8358e.jpg"
+    },
+    {
+      "alternativeText": "Juwelen ",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e76de507b7c1735802251a1f6b5a8905.jpg"
+    },
+    {
+      "alternativeText": "Juwelen",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/334110523a4c12e2c2bebd9eb06b4b23.jpg"
+    },
+    {
+      "alternativeText": "Indoorspiel",
+      "caption": "Escape Room",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/febdddd629ee6a33c861be9eed54b75a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

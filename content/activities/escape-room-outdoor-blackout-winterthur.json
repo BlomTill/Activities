@@ -1,0 +1,87 @@
+{
+  "id": "507",
+  "slug": "escape-room-outdoor-blackout-winterthur",
+  "name": "\"Blackout\" Outdoor Escape Mission Winterthur",
+  "description": "Discover \"Blackout\" Outdoor Escape Mission Winterthur in Switzerland.",
+  "longDescription": "Discover \"Blackout\" Outdoor Escape Mission Winterthur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/escape-room-outdoor-blackout-winterthur/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Plakat",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5aab799ca803180543bc68498aac2f09.jpg"
+    },
+    {
+      "alternativeText": "Winterthur",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d96bc2d6f300f8a788d27683b322d5fb.jpg"
+    },
+    {
+      "alternativeText": "Spiele Zubehör",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b992d1a77104f03f23c7f496f2a84f4b.jpg"
+    },
+    {
+      "alternativeText": "Winterthur",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7ec2482d93dde32b2fe87455cbb84165.png"
+    },
+    {
+      "alternativeText": "Winterthur",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/caec9bd4dc852f7816c7818d30c5ba06.jpg"
+    },
+    {
+      "alternativeText": "Spiel",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/244ed466f90652a93f6198f9c9a2d5a1.jpg"
+    },
+    {
+      "alternativeText": "Spiel",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8366d0954d70583e2b8f614e216b491.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

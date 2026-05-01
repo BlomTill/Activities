@@ -1,0 +1,79 @@
+{
+  "id": "583",
+  "slug": "beat-the-groom-geneva",
+  "name": "\"Beat the groom\" in Geneva: action-packed stag party",
+  "description": "Discover \"Beat the groom\" in Geneva: action-packed stag party in Switzerland.",
+  "longDescription": "Discover \"Beat the groom\" in Geneva: action-packed stag party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "City view: historic buildings in Geneva, picturesque streets and colorful facades in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pablo_velasquez_qwzly_FC_Hr_LA_unsplash_634411cf69.jpg"
+    },
+    {
+      "alternativeText": "Group games for the groom, experience exciting team activities outdoors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_26ffd443c5.jpg"
+    },
+    {
+      "alternativeText": "Geneva: View of Lake Geneva and the Jet d'eau, fascinating architecture in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Genf_unsplash_f92f9bcb54.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Celebrate with friends in the park with cheerful activities and a good atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_534edd1c18.jpg"
+    },
+    {
+      "alternativeText": "Bachelor party with friends outdoors, team event with fun and action in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_7458d36bd1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

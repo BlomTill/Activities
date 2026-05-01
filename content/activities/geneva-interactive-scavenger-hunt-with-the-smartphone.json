@@ -1,0 +1,77 @@
+{
+  "id": "580",
+  "slug": "geneva-interactive-scavenger-hunt-with-the-smartphone",
+  "name": "Geneva (old town) interactive scavenger hunt with the smartphone",
+  "description": "Discover Geneva (old town) interactive scavenger hunt with the smartphone in Switzerland.",
+  "longDescription": "Discover Geneva (old town) interactive scavenger hunt with the smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/geneva-interactive-scavenger-hunt-with-the-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Geneva Escape Game: Experience the adventure with friends against a monumental backdrop.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/genf_carousel_1_EN_ef92627d67.jpg"
+    },
+    {
+      "alternativeText": "Geneva Escape Game: Experience thrilling adventures with friends in this unique environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/genf_carousel_3_d7eec21ade.jpg"
+    },
+    {
+      "alternativeText": "Geneva: Discover exciting escape games by the beautiful Lake Geneva with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/genf_carousel_4_9b9fe5c7c5.jpg"
+    },
+    {
+      "alternativeText": "Geneva: Friends at the escape game, digital fun in the city for groups and adventure seekers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/genf_carousel_5_9898e85c04.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

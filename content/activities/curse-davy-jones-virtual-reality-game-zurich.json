@@ -1,0 +1,120 @@
+{
+  "id": "1352",
+  "slug": "curse-davy-jones-virtual-reality-game-zurich",
+  "name": "\"Curse of Davy Jones\" virtual reality game in Zurich",
+  "description": "Discover \"Curse of Davy Jones\" virtual reality game in Zurich in Switzerland.",
+  "longDescription": "Discover \"Curse of Davy Jones\" virtual reality game in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/curse-davy-jones-virtual-reality-game-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Curse of Davy Jones: exciting pirate adventure with characters and Dolby Surround sound.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_31_44_6f97492309.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones: impressive pirate ship with skull and green landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_32_10_61a6563b6d.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones, epic adventures with fantastic creatures and thrilling stories",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_36_18_351cc93aad.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones: Discover the exciting pirate experience in a lively environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_32_23_6b90347c54.png"
+    },
+    {
+      "alternativeText": "Players in a virtual reality pirate world with captivating adventure and innovative technology.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_32_43_154585c854.png"
+    },
+    {
+      "alternativeText": "Experience virtual reality players in an action-packed environment with innovative gameplay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_32_58_c350f5fef9.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones: exciting adventure with pirates and weapons in the game, together with the team.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_33_12_398a20b2aa.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones: thrilling pirate adventure on a ship with action-packed scenes",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_33_40_90163b7dbe.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones: Spooky Skeleton in the Adventure Game, action-packed sea battle, and eerie atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_34_13_bb015b5650.png"
+    },
+    {
+      "alternativeText": "VR-Player experience interactive gaming with cutting-edge technology and teamwork.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_34_29_2973af2ec0.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones: exciting pirate group in bright blue light, adventure and team spirit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_34_42_9fe0395516.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones: 4 pirates with flaming swords in an exciting adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_34_56_59ca1dbf4a.png"
+    },
+    {
+      "alternativeText": "Curse of Davy Jones: exciting adventure with cannon fire and pirate ship at night",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_21_35_22_8b0a552800.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

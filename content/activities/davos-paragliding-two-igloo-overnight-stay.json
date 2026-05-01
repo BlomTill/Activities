@@ -1,0 +1,80 @@
+{
+  "id": "880",
+  "slug": "davos-paragliding-two-igloo-overnight-stay",
+  "name": "Davos paragliding for two with an overnight stay in an igloo",
+  "description": "Discover Davos paragliding for two with an overnight stay in an igloo in Switzerland.",
+  "longDescription": "Discover Davos paragliding for two with an overnight stay in an igloo in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/davos-paragliding-two-igloo-overnight-stay/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paragliding in the mountains with igloo in winter, enjoying snow, adventure, and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_facdbbfa99cadc7c968363027a5c8dce_6acdf45f16.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in the Alps with an igloo in the background and snow-covered mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_237d87fec04c8ab8eec17b8cd12c3e3b_5ad28cecda.jpg"
+    },
+    {
+      "alternativeText": "Paragliding over snow-covered Alps with an igloo in the background, ideal for adventure in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_b40bfa0ec0120e1b0876247f59af17db_ed6c00156b.jpg"
+    },
+    {
+      "alternativeText": "Paragliding flights with an igloo in winter on snow-covered mountains with a dreamy view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_8e06c9daa5db85b5d432018c8e42b6f2_8ecf8f97f2.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in an igloo, winter experience with breathtaking views of the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_402387dada9307b9ab824dfd0cfb3836_607a9e432a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "davos"
+  ],
+  "featured": false
+}

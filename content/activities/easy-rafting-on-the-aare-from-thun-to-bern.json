@@ -1,0 +1,73 @@
+{
+  "id": "1004",
+  "slug": "easy-rafting-on-the-aare-from-thun-to-bern",
+  "name": "Easy rafting on the Aare from Thun to Bern",
+  "description": "Discover Easy rafting on the Aare from Thun to Bern in Switzerland.",
+  "longDescription": "Discover Easy rafting on the Aare from Thun to Bern in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/easy-rafting-on-the-aare-from-thun-to-bern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "photo for Aare (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99a72eb18814f8e8ef92d321fccf9abe.jpg"
+    },
+    {
+      "alternativeText": "DSC_6848",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f8c3721b4c0e53b6908684d7acf43ef.jpg"
+    },
+    {
+      "alternativeText": "8E3A3519",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e1a1947e8ab581395acbbf1ee03587ec.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting",
+    "bern"
+  ],
+  "featured": false
+}

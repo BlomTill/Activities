@@ -1,0 +1,95 @@
+{
+  "id": "1434",
+  "slug": "action-painting-private-zurich",
+  "name": "Action Painting in Zurich Private Workshop",
+  "description": "Discover Action Painting in Zurich Private Workshop in Switzerland.",
+  "longDescription": "Discover Action Painting in Zurich Private Workshop in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/action-painting-private-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gruppe beim Experimentieren mit Farben",
+      "caption": "Malevent",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3026f11c755bf584f7421acdaa59b9b0.JPG"
+    },
+    {
+      "alternativeText": "bunte Kleidung",
+      "caption": "Malevent",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6076e578ba2c614406c2e03c8ca8254d.jpg"
+    },
+    {
+      "alternativeText": "In Aktion",
+      "caption": "Malevent",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9cb4938bdb27473e42a7dd36ae218920.jpg"
+    },
+    {
+      "alternativeText": "Farben etc.",
+      "caption": "Malevent",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9732eb78ff17df7179c840354237c76.jpg"
+    },
+    {
+      "alternativeText": "Gruppe In Aktion",
+      "caption": "Malevent",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba32cbb53fd420538bd3d165b502474f.jpg"
+    },
+    {
+      "alternativeText": "In Aktion",
+      "caption": "Malevent",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0fbd1a1736f882b1a1c0139593725bbe.jpg"
+    },
+    {
+      "alternativeText": "Gruppe in Aktion",
+      "caption": "Malevent",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a5796f0409b27af6f8e9ca620748ab8c.jpg"
+    },
+    {
+      "alternativeText": "Teilnehmerin",
+      "caption": "Malevent",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/62ed95cff5cb490715b63bd4880df405.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

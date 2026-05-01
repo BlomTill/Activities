@@ -1,0 +1,80 @@
+{
+  "id": "201",
+  "slug": "heli-canyoning-experts",
+  "name": "Heli canyoning for experts",
+  "description": "Discover Heli canyoning for experts in Switzerland.",
+  "longDescription": "Discover Heli canyoning for experts in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/heli-canyoning-experts/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Heli Canyoning: Experience exciting adventures in nature with friends during a breathtaking experience.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/vlcsnap_error985_fa85be342f.jpg"
+    },
+    {
+      "alternativeText": "Heli Canyoning: Enjoy adventure in nature at a spectacular waterfall.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/vlcsnap_error120_455695707f.jpg"
+    },
+    {
+      "alternativeText": "Heli Canyoning: Experience thrilling canyoning in breathtaking nature with waterfalls and rocks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/vlcsnap_error343_9db9fdb51c.jpg"
+    },
+    {
+      "alternativeText": "Heli Canyoning in Nature: Breathtaking Gorge with Waterfall in Summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/vlcsnap_error836_d8c056585b.jpg"
+    },
+    {
+      "alternativeText": "Heli Canyoning: Experience breathtaking rock walls and exciting adventures in the midst of nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/vlcsnap_error934_86811ad34b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

@@ -1,0 +1,108 @@
+{
+  "id": "677",
+  "slug": "interval-running-training-in-a-group-in-lausanne",
+  "name": "Interval Running Training in a Group in Lausanne",
+  "description": "Discover Interval Running Training in a Group in Lausanne in Switzerland.",
+  "longDescription": "Discover Interval Running Training in a Group in Lausanne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "90",
+    "title": "Fitness",
+    "slug": "fitness",
+    "description": "Choose the right fitness fun for the time period of your choice. Fitness is practiced in many different ways in Switzerland. There are individuals who love outdoor physical activity, while others prefer to go to a gym to strengthen their muscles and work on their fitness. With strength and endurance equipment as well as and group classes, the offer is very extensive. Exercising is possible all day and many studios have long opening hours even on weekends"
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/fitness/interval-running-training-in-a-group-in-lausanne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "batch_IMG-20251018-WA00192a",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ef84820ff1f3b6872b691453a5bdfd6.JPG"
+    },
+    {
+      "alternativeText": "batch_Screenshot_20260117_212743_Photosa",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ca03adc5813e2c0ad0009069de4d5412.JPG"
+    },
+    {
+      "alternativeText": "batch_Screenshot_20260117_212856_Photosa",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9862f00422bee4e9ab4cdaa8023fd8ff.JPG"
+    },
+    {
+      "alternativeText": "fitness-group-1280px",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/153fc94566584a3631d2fd4fd12ef970.jpg"
+    },
+    {
+      "alternativeText": "batch_Screenshot_20260117_212953_Photosa",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16fb8b5ce2365e94304f34597dbf4303.JPG"
+    },
+    {
+      "alternativeText": "batch_Screenshot_20260117_213042_Photosa",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba47c721e6eccc55dfacbe97d63c7d40.JPG"
+    },
+    {
+      "alternativeText": "batch_IMG-20251018-WA0020a",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7ff1d7995df1587a6533b970946f0194.JPG"
+    },
+    {
+      "alternativeText": "batch_Screenshot_20260117_213647_Photosa",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/90eeaa40e8105e955fa4b03fa955ca36.JPG"
+    },
+    {
+      "alternativeText": "batch_Screenshot_20260117_213558_Photosa",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/235debbce62b9e38d9fc8d695d6f3c00.JPG"
+    },
+    {
+      "alternativeText": "batch_Screenshot_20260117_213615_Photosa",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/63b3132584db8cc0dd499c7e2b939988.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train",
+    "lausanne"
+  ],
+  "featured": false
+}

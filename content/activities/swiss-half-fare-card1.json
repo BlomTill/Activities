@@ -1,0 +1,129 @@
+{
+  "id": "1152",
+  "slug": "swiss-half-fare-card1",
+  "name": "Swiss Half Fare Card",
+  "description": "Discover Swiss Half Fare Card in Switzerland.",
+  "longDescription": "Discover Swiss Half Fare Card in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "130",
+    "title": "Swiss Rail Passes",
+    "slug": "rail-pass",
+    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rail-pass/swiss-half-fare-card1/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Train Travel Card: Discover Switzerland with the Swiss Travel System – perfect for trips and explorations.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Karte_Zug_Reisen_Swiss_Travel_System_984321c53d.jpg"
+    },
+    {
+      "alternativeText": "The validity area of the Swiss Half Fare Card shows necessary routes and connections in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Geltungsbereich_d4fc88acc7.png"
+    },
+    {
+      "alternativeText": "Train journey: Relax during the train ride through Germany by taking a look at the passing landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bahnreise_Unsplash_d798aa8b70.jpg"
+    },
+    {
+      "alternativeText": "Baden Zug: Picturesque town along the river with old bridges and historic charm.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Baden_Zug_Pixabay_6fbbf3af8d.jpg"
+    },
+    {
+      "alternativeText": "MGB railway in the Engadin: Train ride through the impressive nature of the Alps in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_2_Seraina_f4b3447ff6.jpg"
+    },
+    {
+      "alternativeText": "Tram Zurich: Modern tram on route 6 in the city of Zurich in autumn, street view with trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tram_Zuerich_Unsplash_b4f981199c.jpg"
+    },
+    {
+      "alternativeText": "Stoosbahn Winter: Winter sports in Switzerland, snow, mountains, skiing, breathtaking landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Stoosbahn_Winter_Foto_Swiss_Travel_System_AG_385d96ab32.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen-Kleine-Scheidegg: Panoramic view of the green alpine meadows and mountain landscape in Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lauterbrunnen_Kleine_Scheidegg_Switzerland_Tourism_Markus_Aebischer_b386c68d00.jpg"
+    },
+    {
+      "alternativeText": "The Stanserhorn CabriO Bahn offers you a wonderful view over Lake Lucerne and the surrounding mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Stanserhorn_Cabri_O_Bahn_Foto_Swiss_Travel_System_AG_70573a6812.jpeg"
+    },
+    {
+      "alternativeText": "Bernina Express over Landwasser Viaduct, unique view in Switzerland, surrounded by mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_auf_dem_Landwasserviadukt_Foto_Swiss_Travel_System_AG_0b5118426a.jpeg"
+    },
+    {
+      "alternativeText": "Schilthorn: Cable car ride in nice weather with a view of impressive mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_schilthorn_sommer_Swiss_Travel_System_AG_8ad434e1cb.jpeg"
+    },
+    {
+      "alternativeText": "Bernina Express at Lake Bianco. Experience the spectacular landscape of the Swiss Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_beim_Lago_Bianco_Foto_Swiss_Travel_system_AG_ee81010358.jpeg"
+    },
+    {
+      "alternativeText": "Voralpen Express: impressive train journey through Eastern Switzerland with picturesque mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Be_526_Traverso_2019_05_Steinerberg_Voralpenexpress_Ostschweiz_Foto_Swiss_Travel_System_AG_5433719b94.jpeg"
+    },
+    {
+      "alternativeText": "Rigi Winter: Dreamlike cable car over snow-covered landscape with sun, ideal for skiing and winter hiking",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rigi_Winter_Foto_Swiss_Travel_System_AG_9baa043256.jpeg"
+    },
+    {
+      "alternativeText": "SBB Train: A modern train at a station in Switzerland, at night with glowing lights and clear contours.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_2_Unsplash_b9a7c3fa5f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

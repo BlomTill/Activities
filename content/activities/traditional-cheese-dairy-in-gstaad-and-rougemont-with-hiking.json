@@ -1,0 +1,80 @@
+{
+  "id": "860",
+  "slug": "traditional-cheese-dairy-in-gstaad-and-rougemont-with-hiking",
+  "name": "Traditional cheese dairy in Gstaad and Rougemont with hiking",
+  "description": "Discover Traditional cheese dairy in Gstaad and Rougemont with hiking in Switzerland.",
+  "longDescription": "Discover Traditional cheese dairy in Gstaad and Rougemont with hiking in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museums/traditional-cheese-dairy-in-gstaad-and-rougemont-with-hiking/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "image00002-min-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/84e95d6671b54783d71e8f53a7b93404.jpeg"
+    },
+    {
+      "alternativeText": "image00003-min-1-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/36ad25099d9bbadce2e4f9cb72413295.jpeg"
+    },
+    {
+      "alternativeText": "image00006-min-1-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/89d46baa5f4e67186fb0a65d80c79e4b.jpeg"
+    },
+    {
+      "alternativeText": "image00007-min-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e2ff6e62ffe04a7bf83e08c6629c614.jpeg"
+    },
+    {
+      "alternativeText": "image00008-min-1-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/020732d5fed47e9ef234340b8d6c6c94.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "hiking",
+    "cheese"
+  ],
+  "featured": false
+}

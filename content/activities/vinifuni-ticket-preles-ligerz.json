@@ -1,0 +1,68 @@
+{
+  "id": "786",
+  "slug": "vinifuni-ticket-preles-ligerz",
+  "name": "\"Vinifuni\" ticket to Prêles from Ligerz",
+  "description": "Discover \"Vinifuni\" ticket to Prêles from Ligerz in Switzerland.",
+  "longDescription": "Discover \"Vinifuni\" ticket to Prêles from Ligerz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/vinifuni-ticket-preles-ligerz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Ligerz: Vineyards by a lake in Switzerland, perfect for a romantic autumn visit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ligerz_Foto_Schweiz_Tourismus_Roman_Burri_e8ff8b0fff.jpg"
+    },
+    {
+      "alternativeText": "Ligerz: Vineyard with a view of Lake Constance and the church in autumn, ideal for nature and wine lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ligerz_Foto_Switzerland_Tourism_Jan_Geerk_819b3493be.jpg"
+    },
+    {
+      "alternativeText": "Ligerz: Beautiful residential building and vineyards surrounded by nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ligerz_Foto_liam_spradlin_unsplash_8720366af5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

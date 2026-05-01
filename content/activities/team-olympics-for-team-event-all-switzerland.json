@@ -1,0 +1,107 @@
+{
+  "id": "246",
+  "slug": "team-olympics-for-team-event-all-switzerland",
+  "name": "Team Olympics for team event all Switzerland",
+  "description": "Discover Team Olympics for team event all Switzerland in Switzerland.",
+  "longDescription": "Discover Team Olympics for team event all Switzerland in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "102",
+    "title": "Competition",
+    "slug": "competition",
+    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/competition/team-olympics-for-team-event-all-switzerland/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Riesenski",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/112b4271aab96077c710d269be75fd26.jpg"
+    },
+    {
+      "alternativeText": "Blasrohrschiessen",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0bc12d1ec121031d9bbe67dbd15a3b38.jpg"
+    },
+    {
+      "alternativeText": "Bogenschiessen",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c8ad10eaabff1b9be6ab4cf7873fd176.jpg"
+    },
+    {
+      "alternativeText": "Hockeymatch",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f09dd096ddcb53546caa3541f56066c4.jpg"
+    },
+    {
+      "alternativeText": "Jenga XXL",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed6aa546ec005ae98e13ef34bb170641.jpg"
+    },
+    {
+      "alternativeText": "Raser/Ringerl XXS",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/28a551c7563faeae40cfd2b1fb385e5e.jpg"
+    },
+    {
+      "alternativeText": "Schlauchbootrennen",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6db5527005cd706b9bfd13b4b6d4c50c.jpg"
+    },
+    {
+      "alternativeText": "Segway Parcours",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/23dfdbdda4d709797f66e0e3033a211d.jpg"
+    },
+    {
+      "alternativeText": "Seilziehen",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4fc697c317569634e576fe1fa2b61ce9.jpg"
+    },
+    {
+      "alternativeText": "Spinnennetz",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba0c554324d3fb9a54d0ee97bdcebd1b.jpg"
+    },
+    {
+      "alternativeText": "Tower of Power",
+      "caption": "Teamolympiade ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/93ca4385e696fa2d077eeb23e624e5c2.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,122 @@
+{
+  "id": "294",
+  "slug": "in-zurich-bus-tour-to-pilatus-with-golden-round-trip",
+  "name": "In Zurich: Bus tour to Pilatus with Golden Round Trip",
+  "description": "Discover In Zurich: Bus tour to Pilatus with Golden Round Trip in Switzerland.",
+  "longDescription": "Discover In Zurich: Bus tour to Pilatus with Golden Round Trip in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-bus-tour-to-pilatus-with-golden-round-trip/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Pilatus: Cable car, view of lakes and mountains in Obwalden during the summer months.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/45bf0ea26ed958a0256c8240e5577a5f.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Kulm",
+      "caption": "Bustour zum Pilatus mit Goldener Rundfahrt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c873a659d04075c44b04b89396200ec5.jpg"
+    },
+    {
+      "alternativeText": "The Pilatus cable car offers you a magnificent view of nature and mountains in this beautiful summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4fea61fdcb4600c1e0a007195c6e210a.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: Alphorn players in summer during the Golden Round Trip with a view of the mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cf038d79f1423558c228d9361bffe6d0.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Zahnradbahn",
+      "caption": "Bustour zum Pilatus mit Goldener Rundfahrt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc42513eb97adfdce8842f1a220ab1cd.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: Aerial cable car with views of mountains, forests, and hiking trails in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0096f9276bce9d9f0ff87c2ad52da645.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Cogwheel Railway in Lucerne, impressive mountain ride and breathtaking views of nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f2518699bae06f76ec62fd9166a26cb9.jpg"
+    },
+    {
+      "alternativeText": "Pilatus",
+      "caption": "Bustour zum Pilatus mit Goldener Rundfahrt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8ab3bf426cfc3268397397db695fbcf3.jpg"
+    },
+    {
+      "alternativeText": "Aussicht vom Pilatus",
+      "caption": "Bustour zum Pilatus mit Goldener Rundfahrt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d458c966c57b3d38e2b1183284e7ac50.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Zahnradbahn",
+      "caption": "Bustour zum Pilatus mit Goldener Rundfahrt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1172e87eeaa2def47ce6e3b42c86f5d9.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: Cogwheel railway from Alpnachstad, impressive rocky landscape and spectacular view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/91e9c106b8d7c78c03a887f3e8d5dfcf.jpg"
+    },
+    {
+      "alternativeText": "Pilatus",
+      "caption": "Bustour zum Pilatus mit Goldener Rundfahrt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8aa92bb53d98472e7a721fd2eeb49d9e.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: Route map of the Golden Tour in the Lucerne region with a stunning view of the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f56cf345be71954cb79b5b47684289ff.jpg"
+    },
+    {
+      "alternativeText": "Pilatus: Boat on Lake Lucerne, surrounded by mountains and breathtaking nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5e505bdd71e272f246931a64644e9a3b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

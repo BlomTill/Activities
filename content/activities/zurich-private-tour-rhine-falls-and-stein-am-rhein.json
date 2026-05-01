@@ -1,0 +1,102 @@
+{
+  "id": "317",
+  "slug": "zurich-private-tour-rhine-falls-and-stein-am-rhein",
+  "name": "Zurich Private Tour: Rhine Falls and Stein am Rhein",
+  "description": "Discover Zurich Private Tour: Rhine Falls and Stein am Rhein in Switzerland.",
+  "longDescription": "Discover Zurich Private Tour: Rhine Falls and Stein am Rhein in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/zurich-private-tour-rhine-falls-and-stein-am-rhein/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Boot zum Rheinfall",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb1a1ad0b4f76e1e0745d984904b195c.jpg"
+    },
+    {
+      "alternativeText": "Fotostelle",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/53aa57ada09ea4fa65ce23a26b5fbb85.jpg"
+    },
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ae3dc448d47b1e641ddab0318fd7a7e3.jpg"
+    },
+    {
+      "alternativeText": "Fahrzeuge",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b600e58b09ece05a10b679c8ef1b39c.jpg"
+    },
+    {
+      "alternativeText": "Rheinfall",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a8ecd0357dae7b7d707d1ad1a07daebb.jpeg"
+    },
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/58e8438497c38c6030c627446780f584.jpg"
+    },
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/28bd14f8fd2c397fe51fd667a0e16724.jpg"
+    },
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed199a1cea1c67ae2c7548c7e0dc99d2.jpg"
+    },
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8940cd6647c04bce3c349de6e5e31cdf.jpg"
+    },
+    {
+      "alternativeText": "Stein am Rhein",
+      "caption": "Tagestour Rheinfall und Stein am Rhein",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45dcda036662a6a06dd13fdc60167c72.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

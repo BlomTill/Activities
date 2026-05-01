@@ -1,0 +1,104 @@
+{
+  "id": "930",
+  "slug": "flums-paragliding-tandem",
+  "name": "Flums paragliding tandem",
+  "description": "Discover Flums paragliding tandem in Switzerland.",
+  "longDescription": "Discover Flums paragliding tandem in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/flums-paragliding-tandem/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Flums Paragliding: Experience an unforgettable flight over green hills and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_1b9d8a0e24e9a2145c6d955c8de6f889_452b41f879.jpg"
+    },
+    {
+      "alternativeText": "Flums Paragliding: Group photo during the paragliding activity in the natural summer landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_2bae4f1a688d4d9599f55bb32783b0e9_08d9e68bc5.jpg"
+    },
+    {
+      "alternativeText": "Flums Paragliding: Enjoy the adventure in the mountains with friends and experience nature up close.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_4d9484bb7ebf0d64759ce70f122ccee1_07fb455c47.jpg"
+    },
+    {
+      "alternativeText": "Flums paragliding with a view of the mountains. Experience the adventure in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_6b3572ba443a27edc99ac4a421c4cffd_d72f146209.jpg"
+    },
+    {
+      "alternativeText": "Flums Paragliding: Experience free flight in the mountains with views of nature and a breathtaking panorama.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_9ba3da7a49df3d3b2b5f37775d7b347f_52c6739f82.jpg"
+    },
+    {
+      "alternativeText": "Flums Paragliding: Experience the thrill of paragliding over the picturesque alpine landscapes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_ab372bcf7316c8ce8816d15d8d8df938_4ebdd9835a.jpg"
+    },
+    {
+      "alternativeText": "Flums: Paragliding with a view of the majestic mountains and the green nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_9e27bb0ac226f543a9c5390ce1f40e49_cffcc8b435.jpg"
+    },
+    {
+      "alternativeText": "Flums Paragliding: colorful paraglider on a meadow overlooking the Alpine landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_12d2168edd2c415b9dfdf0cb8223e8cd_3f6e51a849.jpg"
+    },
+    {
+      "alternativeText": "Flums Paragliding: breathtaking view of the green landscape and the paraglider in the air.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_b7476a1a5bd5b687dc2b8b0a06735f70_4876127c61.jpg"
+    },
+    {
+      "alternativeText": "Flums: Experience the flight while paragliding over the green mountains and the impressive landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_c96d9c16c15360f30095c6d86e861471_1a2043eaa6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding"
+  ],
+  "featured": false
+}

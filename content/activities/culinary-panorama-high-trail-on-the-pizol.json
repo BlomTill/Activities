@@ -1,0 +1,102 @@
+{
+  "id": "722",
+  "slug": "culinary-panorama-high-trail-on-the-pizol",
+  "name": "Culinary Panorama High Trail on the Pizol",
+  "description": "Discover Culinary Panorama High Trail on the Pizol in Switzerland.",
+  "longDescription": "Discover Culinary Panorama High Trail on the Pizol in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/culinary-panorama-high-trail-on-the-pizol/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Culinary Panorama High Trail Pizol: People enjoy fresh food in the mountains on a sunny day.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_8e50d7ad01.jpg"
+    },
+    {
+      "alternativeText": "Culinary Panorama High Trail Pizol: Hikers enjoy the view and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_ae914e2d3b.jpg"
+    },
+    {
+      "alternativeText": "Culinary Panorama High Trail Pizol, hikers enjoy regional dishes during a picnic in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_ba97fcc2ee.jpg"
+    },
+    {
+      "alternativeText": "Culinary Panorama Höhenweg Pizol: Hikers on the Höhenweg, mountain landscape, sunny day, green meadows",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_a6584b0376.jpg"
+    },
+    {
+      "alternativeText": "Pizol Panorama Trail with hikers, mountain scenery, blue sky, summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_a1d530370e.jpg"
+    },
+    {
+      "alternativeText": "Pizol Panorama Höhenweg with hikers and view",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_97859d1132.jpg"
+    },
+    {
+      "alternativeText": "Grand Tour of Switzerland Pizol, two hikers pose laughing in a red signature border in front of a mountain panorama",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_df82b7fdb2.jpg"
+    },
+    {
+      "alternativeText": "Culinary Hike Pizol with a View of the Lake and the Mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_101b60fed3.jpg"
+    },
+    {
+      "alternativeText": "Culinary Hike Pizol, enjoying hikers on a path, mountainous landscape and valley view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_4b10af74ac.jpg"
+    },
+    {
+      "alternativeText": "Culinary Panorama High Trail Pizol with Hiking Path and Mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10_Kulinarik_Panorama_Hoehenweg_Pizol_Heidiland_Tourismus_Kevin_Wildhaber_18108b225d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

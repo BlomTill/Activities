@@ -1,0 +1,94 @@
+{
+  "id": "1416",
+  "slug": "wine-tour-bundner-herrschaft-vintage-private-full-day",
+  "name": "Private Vintage Wine Tour Bündner Herrschaft full day",
+  "description": "Discover Private Vintage Wine Tour Bündner Herrschaft full day in Switzerland.",
+  "longDescription": "Discover Private Vintage Wine Tour Bündner Herrschaft full day in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/wine-tour-bundner-herrschaft-vintage-private-full-day/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Wine tour with barrels in the Bündner Herrschaft, wooden barrels, wine storage",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kellnerei_Weintour_02391da9a5.JPG"
+    },
+    {
+      "alternativeText": "Grape culture Graubünden with ripe droplets, green grapes among ripe grapes, sunny day",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rebkultur_Graubuenden_6ec6cf43cb.JPG"
+    },
+    {
+      "alternativeText": "Guided group tour in the vineyard, participants discuss wine growing, relaxed atmosphere",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruppenfuehrung_Bio_Wein_bda441fdab.jpg"
+    },
+    {
+      "alternativeText": "Wine Tasting Tour with Wine Tasting in a Group",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Degustation_Weintour_1dd6be672f.JPG"
+    },
+    {
+      "alternativeText": "Wine hiking in the Bündnerland with vineyards and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinwanderung_Buendnerland_0f25ea6f1e.jpg"
+    },
+    {
+      "alternativeText": "Wine tour with Grisons specialties, sausage and bread on a table outdoors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weintour_mit_Buendner_Spezialitaeten_9b9a6460ca.jpg"
+    },
+    {
+      "alternativeText": "View of Bündner Herrschaft, vineyards and mountains in autumn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_Buendner_Herrschaft_Weintour_d024067184.JPG"
+    },
+    {
+      "alternativeText": "Wine Tour Private Chauffeur with Mercedes-Benz in Vineyards",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_212c94b70ead4ede98c2c13dd54c4da4_mv2_d_6000_4000_s_4_2_a2fc054fcb.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

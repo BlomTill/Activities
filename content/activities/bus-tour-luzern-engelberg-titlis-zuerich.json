@@ -1,0 +1,103 @@
+{
+  "id": "274",
+  "slug": "bus-tour-luzern-engelberg-titlis-zuerich",
+  "name": "From Zurich: Bus tour to the Titlis",
+  "description": "Discover From Zurich: Bus tour to the Titlis in Switzerland.",
+  "longDescription": "Discover From Zurich: Bus tour to the Titlis in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/bus-tour-luzern-engelberg-titlis-zuerich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Titlis Cliff Walk im Sommer",
+      "caption": "Bustour zum Titlis",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9de1eeaba67d25e5ace4402ee0491d36.jpg"
+    },
+    {
+      "alternativeText": "Titlis Cliff Walk im Winter",
+      "caption": "Bustour zum Titlis",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/58489aa0d8b0ff33bc1f928e697c9351.jpg"
+    },
+    {
+      "alternativeText": "Titlis: impressive winter landscape with snow-covered mountains in the Swiss Alps region.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e8d8f86f88d99769bd3f6ea8e7bbdf4b.jpg"
+    },
+    {
+      "alternativeText": "Titlis: winter landscape with snow, skiers, and mountains in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9267a159d5e05cfa1dcb846ea866903f.jpg"
+    },
+    {
+      "alternativeText": "Titlis: Rotair cable car takes you through impressive winter landscape in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e8a42d9abb636de80fa2a6f5ae43e07f.jpg"
+    },
+    {
+      "alternativeText": "Titlis: Chairlift over snow-covered mountains in winter for unforgettable experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d91c2f7de069a7581e173642fc41131f.jpg"
+    },
+    {
+      "alternativeText": "Rotair",
+      "caption": "Bustour zum Titlis",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eedb577a0ea0b758b1fae93823b9ece5.jpg"
+    },
+    {
+      "alternativeText": "Sessellift",
+      "caption": "Bustour zum Titlis",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e3533942eb55ebdf3f8b49b577a21acd.jpg"
+    },
+    {
+      "alternativeText": "Snowtube",
+      "caption": "Bustour zum Titlis",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/73d49644bd5cd76ae170bb59e49320e1.jpg"
+    },
+    {
+      "alternativeText": "Engelberg",
+      "caption": "Bustour zum Titlis",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7e688d2fbc588f1126046c38ea501f0.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

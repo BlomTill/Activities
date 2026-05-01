@@ -1,0 +1,155 @@
+{
+  "id": "934",
+  "slug": "engadin-paragliding-great-extras",
+  "name": "Engadin paragliding with great extras",
+  "description": "Discover Engadin paragliding with great extras in Switzerland.",
+  "longDescription": "Discover Engadin paragliding with great extras in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/engadin-paragliding-great-extras/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paragliding in Engadin: Experience the tandem adventure with a view of the breathtaking landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/af278552e6c13148e1f5ad3f81c8a5e2.jpg"
+    },
+    {
+      "alternativeText": "Paragliding: Tandem flight with extras over the Engadin and its impressive landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00003_f221957ff7.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding Engadin: Experience tandem flights in the mountains with breathtaking views of nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00001_92e0bdb345.jpeg"
+    },
+    {
+      "alternativeText": "Enjoy paragliding: Tandem flight in the Engadin over turquoise lakes and green meadows.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00008_76c1d9ecd4.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding in Engadin: Tandem flight over breathtaking mountains and the picturesque summer landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00005_ece946764a.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding in Engadin: Tandem flight over the turquoise reservoir and the impressive mountain landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00009_89ed290414.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding: Tandem flight over the Engadin with a magnificent view of mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00011_e83e1e7e45.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding in Engadin: Tandem flight over sparkling water and impressive mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00014_8e1939ca3e.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding Engadin: Experience tandem flights with breathtaking views of the mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00015_f867899ce4.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding: Enjoy tandem flying in the Swiss Alps, Engadin, in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00018_79b9c09931.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding Engadin: Tandem flight with extras in impressive mountain landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00020_4930e34571.jpeg"
+    },
+    {
+      "alternativeText": "Paragliding in the Engadin with free extras for an unforgettable adventure in the mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e68879ff588219440670c6ba36ee38c0.JPEG"
+    },
+    {
+      "alternativeText": "Paragliding: Tandem flight over the breathtaking Engadin in winter with spectacular views.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4c951b85b0c4bd99a014d1568f0c17b6.JPG"
+    },
+    {
+      "alternativeText": "Paragliding: Tandem flight in the Engadin with breathtaking views of water and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/156c3c9da390b945bc95bdc4c0792c2a.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Engadin: Experience tandem flights over breathtaking landscapes in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/210b8874b1889112b68fb1833819c843.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Engadin: Experience tandem flights in the Swiss mountains with breathtaking views.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f142d6979fb148cdf2e20e0dee921f1b.jpg"
+    },
+    {
+      "alternativeText": "Paragliding: Tandem flight with extras over the frozen Engadin Lake in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c5d20abe6f5a1b890a5c38718ed3b79c.jpg"
+    },
+    {
+      "alternativeText": "Paragliding in Engadin: Tandem flight in the mountains with breathtaking views of the winter landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b1dedea1cb26d04f20cb146826860983.jpg"
+    },
+    {
+      "alternativeText": "Paragliding: Tandem flight with spectacular views of the mountains in Engadin.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/082df3e5bbbaadbbe39bbaffb6a9707c.jpg"
+    },
+    {
+      "alternativeText": "Paragliding: Experience tandem flying in the Engadin with views of impressive mountains and glaciers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b13da56490ebdae4ad1cf7e9a5b9920b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding"
+  ],
+  "featured": false
+}

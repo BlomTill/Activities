@@ -1,0 +1,95 @@
+{
+  "id": "464",
+  "slug": "item-1767110956714-jkzfn",
+  "name": "\"Find-the-Code: Revolt Against the Sanctuary including Augmented Reality\" Outdoor Escape Game St. Gallen",
+  "description": "Discover \"Find-the-Code: Revolt Against the Sanctuary including Augmented Reality\" Outdoor Escape Game St. Gallen in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Revolt Against the Sanctuary including Augmented Reality\" Outdoor Escape Game St. Gallen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/item-1767110956714-jkzfn/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-st-gallen-ar",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/148d22b247558e51017d7c867b65b4ff.jpg"
+    },
+    {
+      "alternativeText": "group-hk-frontal-running",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f603bb25961dc838734c05e29b1a9da.jpg"
+    },
+    {
+      "alternativeText": "Copy of 7_Gallusplatz_Seraina",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d99fbd5ec4495e5787321a00d1e34da.jpg"
+    },
+    {
+      "alternativeText": "map-st-gallen-with-ar",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/84f15525f367cf6db8fcaf7da51a59d9.jpg"
+    },
+    {
+      "alternativeText": "Gallus Square",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7e78d224c4aabc67830831c0cb91c92.jpg"
+    },
+    {
+      "alternativeText": "group-sideways-cheerful-chatting-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0029c4b6e4854d97eb9db465e7de1a86.jpg"
+    },
+    {
+      "alternativeText": "group-photo-hk-flower-file-phone-neutral-",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb109937ea5d799f872d915c29f5c3de.jpg"
+    },
+    {
+      "alternativeText": "photo-shoot-karlsruhe-88-edited",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b5d93bbcd9efb95acd02ca0e61b63b00.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "1504",
+  "slug": "itinerary-three-days-switzerland-geneva",
+  "name": "3 days in Switzerland - 5 itineraries from Geneva",
+  "description": "Spending three days in Switzerland offers many possibilities. Find your itinerary from Geneva and plan your perfect trip through Switzerland.",
+  "longDescription": "Spending three days in Switzerland offers many possibilities. Find your itinerary from Geneva and plan your perfect trip through Switzerland.",
+  "category": "outdoor",
+  "subcategory": "outdoor",
+  "location": {
+    "region": "Switzerland",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 127,
+        "student": 203,
+        "adult": 254,
+        "senior": 229
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/switzerland-itineraries/itinerary-three-days-switzerland-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "From",
+      "value": "CHF 254"
+    }
+  ],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

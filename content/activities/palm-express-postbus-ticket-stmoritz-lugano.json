@@ -1,0 +1,91 @@
+{
+  "id": "943",
+  "slug": "palm-express-postbus-ticket-stmoritz-lugano",
+  "name": "Palm Express Postbus ticket from St. Moritz or Lugano",
+  "description": "Discover Palm Express Postbus ticket from St. Moritz or Lugano in Switzerland.",
+  "longDescription": "Discover Palm Express Postbus ticket from St. Moritz or Lugano in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "141",
+    "title": "Postbus",
+    "slug": "postbus",
+    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/palm-express-postbus-ticket-stmoritz-lugano/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Upper Engadin: Enjoy the bus ride by the lake with a view of the impressive mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Oberengadin_973edf42f9.png"
+    },
+    {
+      "alternativeText": "Lugano: Bus ride by the lake with palm trees and mountains, ideal for nature and adventure lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/09_Palm_Express_b090949856.png"
+    },
+    {
+      "alternativeText": "PostBus in winter: Journey through snowy mountains and picturesque landscapes of the Swiss Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Post_Auto_Palm_Express_Winter_Foto_Swiss_Travel_system_AG_9129ce09fe.jpeg"
+    },
+    {
+      "alternativeText": "Silvaplana Lake: Reflection of the mountains, blooming trees, and clear water, ideal for relaxing and enjoying nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Silvaplana_Lake_Silvaplana_Foto_Switzerland_Tourism_Stefan_Gruenig_ed7a04d5d0.jpg"
+    },
+    {
+      "alternativeText": "Maloja Pass: winding road in the mountains of Graubünden at night with lights.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Maloja_Pass_night_shot_Switzerland_Tourism_Martin_Maegli_0eeddc5a4c.jpg"
+    },
+    {
+      "alternativeText": "Malojapass: Winding roads through the picturesque Swiss Alps in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Malojapass_unsplash_33e8cadc51.jpg"
+    },
+    {
+      "alternativeText": "Lake Como: picturesque promenade in Bellagio with historic buildings and water activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Comer_See_Bellaggio_Foto_Elke_Huber_650234650d.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "st.-moritz",
+    "lugano"
+  ],
+  "featured": false
+}

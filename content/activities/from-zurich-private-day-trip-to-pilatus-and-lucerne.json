@@ -1,0 +1,124 @@
+{
+  "id": "314",
+  "slug": "from-zurich-private-day-trip-to-pilatus-and-lucerne",
+  "name": "From Zurich: Private day trip to Pilatus and Lucerne",
+  "description": "Discover From Zurich: Private day trip to Pilatus and Lucerne in Switzerland.",
+  "longDescription": "Discover From Zurich: Private day trip to Pilatus and Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-private-day-trip-to-pilatus-and-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Seilbahn Pilatus Dragon Ride",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a3cdcc5b530a54dd7139cb621baeb3d.jpg"
+    },
+    {
+      "alternativeText": "Sommerrodelbahn Pilatus",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/798f9a8b1d249c53cdad0545795d2782.jpg"
+    },
+    {
+      "alternativeText": "Seilbahn Pilatus Dragon Ride",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5c3acd487ce93a95e9b85eba5404f729.jpg"
+    },
+    {
+      "alternativeText": "Pilatus Luftseilbahn",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c0a99247d9677d2c020455a8f74d2732.jpg"
+    },
+    {
+      "alternativeText": "Pilatus",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cb930dd1f6f9abb652927749423c9d97.jpg"
+    },
+    {
+      "alternativeText": "Fahrzeuge",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e65fd3a3174cf23ee888981b9fdd1647.jpg"
+    },
+    {
+      "alternativeText": "Vierwaldstättersee",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd24ea9dee82936787cf9bbf3ebaf815.jpg"
+    },
+    {
+      "alternativeText": "Luzern",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/71776b357cd0ca53c63f7ccc4cd958f4.jpg"
+    },
+    {
+      "alternativeText": "Löwe in Luzern",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/487970eb47a0de7bebac630660037c3f.jpg"
+    },
+    {
+      "alternativeText": "Gäste in Luzern",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dc44340ec26719b399a911ec6da1ec70.jpg"
+    },
+    {
+      "alternativeText": "Gäste in Luzern",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b63abb8e5c24a80b982df5c2c1c6a727.jpg"
+    },
+    {
+      "alternativeText": "Pilatusbahn",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a5f5edbf99483a4c4eb9a0b84a226377.jpg"
+    },
+    {
+      "alternativeText": "Vierwaldstättersee",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/790715f60b2a494af19ac3a64e9030f9.jpg"
+    },
+    {
+      "alternativeText": "Luzern",
+      "caption": "Tagesausflug Pilatus",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/923935108d1506fd0451f2e04057d192.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,111 @@
+{
+  "id": "378",
+  "slug": "in-lausanne-coach-tour-to-interlaken-and-the-schilthorn",
+  "name": "In Lausanne: Coach tour to Interlaken and the Schilthorn",
+  "description": "Discover In Lausanne: Coach tour to Interlaken and the Schilthorn in Switzerland.",
+  "longDescription": "Discover In Lausanne: Coach tour to Interlaken and the Schilthorn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-lausanne-coach-tour-to-interlaken-and-the-schilthorn/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "schilthorn-cabin-tud5778-webalbum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cdc3c1e449adac8e8ff6a52b4c79da52.jpg"
+    },
+    {
+      "alternativeText": "Schilthorn: breathtaking view of the mountains and Piz Gloria, ideal for summer excursions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ee23902ef45c64be7d15785d8e7eabd5.jpg"
+    },
+    {
+      "alternativeText": "Schilthorn",
+      "caption": "Bustour nach Interlaken und zum Schilthorn ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a49b47f9194fc2fe3c34dc76ca6e939b.jpg"
+    },
+    {
+      "alternativeText": "Schilthorn",
+      "caption": "Bustour nach Interlaken und zum Schilthorn ",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ffce17f64fc8c85e005df84184ef886.jpg"
+    },
+    {
+      "alternativeText": "Funifor_ZUR08063_webalbum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e90ed0a69d81066f3cbb7df67956dd6.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: picturesque landscape with mountains and lake, ideal for nature lovers and adventure seekers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aea3bd1ebcdad1fa2aa99bc9bb75a71a.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Bustour nach Interlaken und zum Schilthorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fa07699d726cb6a5046c53cb9a94ebd6.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Bustour nach Interlaken und zum Schilthorn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4f7573c62d504da30fcdee261d8218d9.jpg"
+    },
+    {
+      "alternativeText": "Birg_Thrill_Walk_y8a2344_webalbum_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e9ffd6ab6b4a7c10c70f2dbef6143c82.jpg"
+    },
+    {
+      "alternativeText": "birg-thrill-walk-y8a2434-webalbum-print NEMO OK",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7062e6f8b54594b49bb35c57d23e491b.jpg"
+    },
+    {
+      "alternativeText": "Birg_Thrill_Walk__y8a2462_webalbum_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c1002140fe8fc63c965988915a49d051.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken",
+    "lausanne"
+  ],
+  "featured": false
+}

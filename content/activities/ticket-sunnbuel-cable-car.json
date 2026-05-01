@@ -1,0 +1,81 @@
+{
+  "id": "756",
+  "slug": "ticket-sunnbuel-cable-car",
+  "name": "Ticket Sunnbüel cable car from Kandersteg",
+  "description": "Discover Ticket Sunnbüel cable car from Kandersteg in Switzerland.",
+  "longDescription": "Discover Ticket Sunnbüel cable car from Kandersteg in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/ticket-sunnbuel-cable-car/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sunnbüelbahn: A modern cable car in the mountains, perfect for winter sports and trips.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sunnbueelbahn_1_Seraina_52fd3f3a11.jpg"
+    },
+    {
+      "alternativeText": "Sunnbüelbahn: fascinating cable car in Kandersteg with flowers and mountain views in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sunnbueelbahn_2_Seraina_2303bfc915.jpg"
+    },
+    {
+      "alternativeText": "Sunnbüelbahn: Insight into the mountain railway with stunning views of the surrounding nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sunnbueelbahn_5_Seraina_eb1bc39a16.jpg"
+    },
+    {
+      "alternativeText": "Sunnbüelbahn: Cable car ride in the mountains, surrounded by nature and colorful autumn hues.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sunnbueelbahn_4_Seraina_09d9096636.jpg"
+    },
+    {
+      "alternativeText": "Sunnbüelbahn: Impressive cable car with views of the majestic landscape and mountains in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sunnbueelbahn_6_Seraina_219b3ac20e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cable-car"
+  ],
+  "featured": false
+}

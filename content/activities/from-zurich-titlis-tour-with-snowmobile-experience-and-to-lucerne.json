@@ -1,0 +1,84 @@
+{
+  "id": "305",
+  "slug": "from-zurich-titlis-tour-with-snowmobile-experience-and-to-lucerne",
+  "name": "From Zurich: Titlis Tour with Snowmobile Experience and to Lucerne",
+  "description": "Discover From Zurich: Titlis Tour with Snowmobile Experience and to Lucerne in Switzerland.",
+  "longDescription": "Discover From Zurich: Titlis Tour with Snowmobile Experience and to Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-titlis-tour-with-snowmobile-experience-and-to-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "am Titlis",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0920216506d26384c58e6c8851b356bb.jpg"
+    },
+    {
+      "alternativeText": "Rotair Titlis",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5993549c6bd7c776dc9a55c4e86522b.jpg"
+    },
+    {
+      "alternativeText": "Snowmobil Trübsee",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/70e1e4b07e0b01cf5772e1bf5f8fe24e.jpg"
+    },
+    {
+      "alternativeText": "Snowtubing Trübsee",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/39e763089d50a8ef27682427fc0a7a1a.jpg"
+    },
+    {
+      "alternativeText": "Snowtubing Trübsee",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e029f29b04de3b806ae97e66cf04390f.jpg"
+    },
+    {
+      "alternativeText": "Eishöhle",
+      "caption": "Tagestour Titlis und Trübsee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/44e1b3e469fa55afee8c4f0baff32e2a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

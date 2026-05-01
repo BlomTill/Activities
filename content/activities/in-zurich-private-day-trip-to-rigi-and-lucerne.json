@@ -1,0 +1,118 @@
+{
+  "id": "319",
+  "slug": "in-zurich-private-day-trip-to-rigi-and-lucerne",
+  "name": "In Zürich: Private day trip to Rigi and Lucerne",
+  "description": "Discover In Zürich: Private day trip to Rigi and Lucerne in Switzerland.",
+  "longDescription": "Discover In Zürich: Private day trip to Rigi and Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-private-day-trip-to-rigi-and-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Steamship Vierwaldstättersee - Pia Zellweger",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/73cbe41249afd18e8375efadf600adf0.jpg"
+    },
+    {
+      "alternativeText": "Rigi and Lucerne Swiss Magic Tours (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0427bb3cedd1cfec56190d611c16878a.jpg"
+    },
+    {
+      "alternativeText": "Rigi and Lucerne Swiss Magic Tours (3)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b92584accf767e711e501ecde970503d.jpg"
+    },
+    {
+      "alternativeText": "Rigi and Lucerne Swiss Magic Tours (4)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/37334c678a0129d9b7ff54066934942b.jpg"
+    },
+    {
+      "alternativeText": "Rigi and Lucerne Swiss Magic Tours (5)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/594ea8c7caf669e041f8f9c40457b6bb.jpg"
+    },
+    {
+      "alternativeText": "Rigi and Lucerne Swiss Magic Tours (6)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/77cde35c1a5d10ac710264c5b656fd5d.jpg"
+    },
+    {
+      "alternativeText": "Rigi and Lucerne Swiss Magic Tours (7)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3c57998a2b7e50997b3772c9bf7cb0cc.jpg"
+    },
+    {
+      "alternativeText": "Rigi and Lucerne Swiss Magic Tours (8)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d865e420dcceb16bf22d9fd8c5d70ed7.jpg"
+    },
+    {
+      "alternativeText": "Rigi and Lucerne Swiss Magic Tours (9)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a11d342d8b392f39508600ca9a6b8ea2.jpg"
+    },
+    {
+      "alternativeText": "luzern-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0894210c425f622d7aeef96573c5dae9.jpg"
+    },
+    {
+      "alternativeText": "Lucerne1-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e10ebe51f8d6c0681f0e92a91aa8ef54.jpg"
+    },
+    {
+      "alternativeText": "Lucerne0-untitled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/60c676425921d3ed0bcd3d12ea1bdd1c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zürich",
+    "lucerne"
+  ],
+  "featured": false
+}

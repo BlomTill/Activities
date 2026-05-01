@@ -1,0 +1,92 @@
+{
+  "id": "256",
+  "slug": "fire-cooking-indian-masala",
+  "name": "Fire Kitchen \"Indian Masala\" in Zurich Wine Country",
+  "description": "Discover Fire Kitchen \"Indian Masala\" in Zurich Wine Country in Switzerland.",
+  "longDescription": "Discover Fire Kitchen \"Indian Masala\" in Zurich Wine Country in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "61",
+    "title": "Cooking course",
+    "slug": "cooking-course",
+    "description": "Choose your special cooking class from various topics and book it here. Whether alone, as a couple or in a group, a cooking class expands all the senses and is a welcome change for the busy everyday life. Often it's about discovering an unknown or particularly exotic cuisine and learning new tricks. Of course, the subsequent enjoyment of the created masterpiece may not be missing."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/cooking-course/fire-cooking-indian-masala/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "batch_cooking_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9301a951b67ab06c625801ad5b56ba4.jpg"
+    },
+    {
+      "alternativeText": "DSCF0956 (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b65b3569505cd71f7df56e1fd85beeec.jpg"
+    },
+    {
+      "alternativeText": "DSCF0935",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/36c5a7aad6d13749ec2453d7a9ee4ac1.jpg"
+    },
+    {
+      "alternativeText": "batch-cooking-18",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/945a8e3f54415fd2b94524b28f24ac8a.jpg"
+    },
+    {
+      "alternativeText": "batch_cooking_30",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7576cf6330824ad5b11152a39cdbc540.jpg"
+    },
+    {
+      "alternativeText": "Still 2025-12-23 144735_1.45.1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f542ac5f13c9f06da1b2db14610883ff.jpg"
+    },
+    {
+      "alternativeText": "DSCF0947",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f29802a585412d31ae9b7ef24d74181b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

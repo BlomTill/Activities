@@ -1,0 +1,82 @@
+{
+  "id": "1211",
+  "slug": "the-old-town-and-its-treasures-private-tour-in-geneva",
+  "name": "\"The Old Town and Its Treasures\" private tour in Geneva",
+  "description": "Discover \"The Old Town and Its Treasures\" private tour in Geneva in Switzerland.",
+  "longDescription": "Discover \"The Old Town and Its Treasures\" private tour in Geneva in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/the-old-town-and-its-treasures-private-tour-in-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "old-town-and-its-treasures-1280x960",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/36c6e72f9abc57deb3a86b0398a140ae.jpg"
+    },
+    {
+      "alternativeText": "Old Tower and Its Treasures-3_1280x960",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4ef2917f275bc2578855398d28fa48ad.jpg"
+    },
+    {
+      "alternativeText": "Old Tower and its treasures-2_1280x960",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a181b3bafe29b5ba819c8aba350595fe.jpg"
+    },
+    {
+      "alternativeText": "old-tower-and-its-treasures-1-1280x960",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45d96ca488605b75697e35128a896773.jpg"
+    },
+    {
+      "alternativeText": "geneva-lake-aerial-cathedral-st-pierre-old-town",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ded63a0d5888c5ce6bcb797e362cd71.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

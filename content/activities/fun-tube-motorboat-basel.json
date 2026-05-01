@@ -1,0 +1,77 @@
+{
+  "id": "175",
+  "slug": "fun-tube-motorboat-basel",
+  "name": "Fun Tube on the Rhine",
+  "description": "Discover Fun Tube on the Rhine in Switzerland.",
+  "longDescription": "Discover Fun Tube on the Rhine in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "40",
+    "title": "Boat tour",
+    "slug": "boat-tour",
+    "description": "Discover your next adventure and book a boat tour in Switzerland here. Switzerland is considered the water castle of Europe. So it's no surprise that there are more than enough opportunities for boat tours on the more than 1500 Swiss lakes and rivers. The experience on the water is intense, relaxing and full of views. The view of the surrounding landscape and mountain panorama makes the boat trip perfect."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/boat-tour/fun-tube-motorboat-basel/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Funtube: Fun boat trip on the water with friends in the sun at the lake.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b7e2ef997d280f12b1e45a382932c857.jpg"
+    },
+    {
+      "alternativeText": "Funtube: Experience an exciting day of water sports on colorful tubes in the sun.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0aba6b1ab8eb6c6b44251db4e2322f65.jpg"
+    },
+    {
+      "alternativeText": "Boat trip: Enjoy the thrilling fun tube tour on calm waters with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6ae83836d5e4bb233ec519451553e397.jpg"
+    },
+    {
+      "alternativeText": "Boat trip: Enjoy a relaxing time on the water with friends and the beautiful nature in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e8ad29bf9adf652a2736b58b6325918f.jpg"
+    },
+    {
+      "alternativeText": "Boat trip on the water with a boat driver and friends in bright sunshine during summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a962f94f942b51713bcd144d8429f2cc.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

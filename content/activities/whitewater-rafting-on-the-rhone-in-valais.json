@@ -1,0 +1,92 @@
+{
+  "id": "1001",
+  "slug": "whitewater-rafting-on-the-rhone-in-valais",
+  "name": "Whitewater rafting on the Rhône in Valais",
+  "description": "Discover Whitewater rafting on the Rhône in Valais in Switzerland.",
+  "longDescription": "Discover Whitewater rafting on the Rhône in Valais in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/whitewater-rafting-on-the-rhone-in-valais/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Doron",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b8483e15a853ac292762bd38cb5ee662.jpg"
+    },
+    {
+      "alternativeText": "01",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f1a76b0bf1cb2374436893e47411b81b.jpg"
+    },
+    {
+      "alternativeText": "03 rafting4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a511d871cd140a1e27490a294591e1c9.jpg"
+    },
+    {
+      "alternativeText": "3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5bbffd3cea5b4aea646cd5ca251af03c.jpg"
+    },
+    {
+      "alternativeText": "8",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4a9872f738da214384dc2e9caa354807.jpg"
+    },
+    {
+      "alternativeText": "DSC_0056248",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c99631dcc1d5a59b35cc49cd5a2aedb8.jpg"
+    },
+    {
+      "alternativeText": "raft Isère",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e26076c0efcd539c88815e24602be13b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

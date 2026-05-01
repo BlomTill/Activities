@@ -1,0 +1,79 @@
+{
+  "id": "972",
+  "slug": "electric-quad-gstaad-rougemont",
+  "name": "Electric Quad Adventure in Gstaad and Rougemont",
+  "description": "Discover Electric Quad Adventure in Gstaad and Rougemont in Switzerland.",
+  "longDescription": "Discover Electric Quad Adventure in Gstaad and Rougemont in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "63",
+    "title": "Quad",
+    "slug": "quad",
+    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/electric-quad-gstaad-rougemont/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "206010177091",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a807e7a4a97c3756b2cc3e1ebd5bf29.jpg"
+    },
+    {
+      "alternativeText": "Ski School Rougemont_Quad 2025_7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1c491789347804822f19386f080ab55.jpg"
+    },
+    {
+      "alternativeText": "Ski School Rougemont_Quad 2025_6 (2)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1e18018d54757993fca97c5681c69704.jpg"
+    },
+    {
+      "alternativeText": "Ski School Rougemont_Quad 2025_2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/70b494019d2cd3142d5cf3a158ce2814.jpg"
+    },
+    {
+      "alternativeText": "Screenshot 2026-03-30 101650",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/847c18a8bf1165f0295ad86ac984e801.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure"
+  ],
+  "featured": false
+}

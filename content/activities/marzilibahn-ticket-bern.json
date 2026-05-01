@@ -1,0 +1,89 @@
+{
+  "id": "1297",
+  "slug": "marzilibahn-ticket-bern",
+  "name": " Marzilibahn ticket in Bern",
+  "description": "Discover  Marzilibahn ticket in Bern in Switzerland.",
+  "longDescription": "Discover  Marzilibahn ticket in Bern in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/marzilibahn-ticket-bern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Marzilibahn: The red funicular railway in Bern offers a great view of the city and its surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Whats_App_Image_2023_05_25_at_19_09_54_bc18155536.jpeg"
+    },
+    {
+      "alternativeText": "Marzili: View of the city of Bern with the funicular railway and green surroundings in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Marzili_Seraina_feb6ad4ee0.jpg"
+    },
+    {
+      "alternativeText": "Marzilibahn: historic funicular railway with views of the Bernese countryside and the architecture of the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Marzilibahn_Foto_Gabriela_Keusch_1207f6ecec.jpeg"
+    },
+    {
+      "alternativeText": "Marzilibahn: Cable car in Bern with access to nature, ideal for excursions and explorations.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Whats_App_Image_2023_05_25_at_09_37_24_d9d02cfa17.jpeg"
+    },
+    {
+      "alternativeText": "Marzilibahn: Historic funicular railway in Bern with breathtaking views of the surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Marzilibahn_Bern_Foto_Gabriela_Keusch_5475c32064.jpeg"
+    },
+    {
+      "alternativeText": "Marzilibahn: A view of the funicular in Bern with a look at the surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Whats_App_Image_2023_05_25_at_19_09_49_0f7573db6a.jpeg"
+    },
+    {
+      "alternativeText": "Marzilibahn: Historical cable car in Bern with beautiful nature in the background and summer atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Whats_App_Image_2023_05_25_at_19_09_57_4fac9d97d5.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bern"
+  ],
+  "featured": false
+}

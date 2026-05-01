@@ -1,0 +1,75 @@
+{
+  "id": "1266",
+  "slug": "rapperswil-public-guided-tour-old-town",
+  "name": "Rapperswil public guided tour of the old town",
+  "description": "Discover Rapperswil public guided tour of the old town in Switzerland.",
+  "longDescription": "Discover Rapperswil public guided tour of the old town in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/rapperswil-public-guided-tour-old-town/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "City Tour: Experience the landmarks with a group in a picturesque city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bild_1_fe0236a674.jpg"
+    },
+    {
+      "alternativeText": "Rose Garden: Group visit to the blooming garden with various types of roses under a blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bild_13_166cea6516.jpg"
+    },
+    {
+      "alternativeText": "Harbor view: picturesque backdrop with harbor, historic buildings, nature, and water in Rapperswil-Jona",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hafenansicht_Rapperswil_Jona_RZST_Tobias_Ryser_e2c2c0971b.jpg"
+    },
+    {
+      "alternativeText": "Guided tour in Rapperswil with guests at the fountain. Discover the old town and its sights.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rapperswil_Stadtfuehrungen_Juni2023_53_5e0d16f01a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,90 @@
+{
+  "id": "1047",
+  "slug": "helicopter-flight-villa-honegg-pfaffnau",
+  "name": "Helicopter flight over Lake Lucerne with dessert at Villa Honegg from Pfaffnau",
+  "description": "Discover Helicopter flight over Lake Lucerne with dessert at Villa Honegg from Pfaffnau in Switzerland.",
+  "longDescription": "Discover Helicopter flight over Lake Lucerne with dessert at Villa Honegg from Pfaffnau in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-flight-villa-honegg-pfaffnau/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Hubschrauber",
+      "caption": "Helikopterflug Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/82e5b49f1a58ff17596a9cb960adc458.jpg"
+    },
+    {
+      "alternativeText": "Villa Honegg",
+      "caption": "Helikopterflug Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/326f517d8364ec6a309bbc1ba3368915.jpg"
+    },
+    {
+      "alternativeText": "Bank im Winter mit Blick auf den Vierwaldstättersee",
+      "caption": "Helikopterflug Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64f99beea5912f3bb8418c33e3464f79.jpg"
+    },
+    {
+      "alternativeText": "Der Helikopter",
+      "caption": "Helikopterflug Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22c75106fe25051f6ee1e76a9534492d.jpg"
+    },
+    {
+      "alternativeText": "Villa Honegg",
+      "caption": "Helikopterflug Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e51ffd9dfd381a36a6d7a09b352c1858.jpg"
+    },
+    {
+      "alternativeText": "Der Helikopter",
+      "caption": "Helikopterflug Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ffb5adce7fdc57a897e44162d853496.jpg"
+    },
+    {
+      "alternativeText": "Villa Honegg",
+      "caption": "Helikopterflug Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3e27dfbb95d8c9cd723664f68df5588a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "lucerne"
+  ],
+  "featured": false
+}

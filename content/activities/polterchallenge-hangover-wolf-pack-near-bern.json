@@ -1,0 +1,82 @@
+{
+  "id": "536",
+  "slug": "polterchallenge-hangover-wolf-pack-near-bern",
+  "name": "Polterchallenge \"Hangover - Wolf Pack\" near Bern",
+  "description": "Discover Polterchallenge \"Hangover - Wolf Pack\" near Bern in Switzerland.",
+  "longDescription": "Discover Polterchallenge \"Hangover - Wolf Pack\" near Bern in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/polterchallenge-hangover-wolf-pack-near-bern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bern Wolf Pack 3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/25fd21d913f653f814a5ed596aff5091.jpg"
+    },
+    {
+      "alternativeText": "Wolf Pack Bern 4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/82d34e98f550c0163b13b55283096f38.jpg"
+    },
+    {
+      "alternativeText": "Women and Men in Bern",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ed8045ec9dfa718d8a5e52872c7a1fc.jpg"
+    },
+    {
+      "alternativeText": "Wolf Pack Bern 2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b7b9e16e86d33885dec0010ac1102ff.jpg"
+    },
+    {
+      "alternativeText": "Wolf Pack Bern 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c862fff8ae15b9d710d81cdcb63bb9b6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bern"
+  ],
+  "featured": false
+}

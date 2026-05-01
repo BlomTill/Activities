@@ -1,0 +1,174 @@
+{
+  "id": "864",
+  "slug": "zenith-public-guided-le-locle",
+  "name": "Watch manufacture \"Zenith\" public tour in Le Locle",
+  "description": "Discover Watch manufacture \"Zenith\" public tour in Le Locle in Switzerland.",
+  "longDescription": "Discover Watch manufacture \"Zenith\" public tour in Le Locle in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "201",
+      "title": "Jura & Three-Lakes Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museums/zenith-public-guided-le-locle/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Watchmaking tour with experts in the workshop.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Assemblagemouvement_large_03b0a9c53c.jpg"
+    },
+    {
+      "alternativeText": "Tour of the Zenith watchmaking facility with participants in a modern room.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Atelier_Decoration_large_7f5f3f430a.jpg"
+    },
+    {
+      "alternativeText": "Watchmaking tour with Zenith, workshop visit, expert discussion",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Atelier_Mecanique2_large_ab2cf9afe0.jpg"
+    },
+    {
+      "alternativeText": "Leadership group in front of the Zenith watchmaking company in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Batimenthistorique_Zenith2_large_e3592d5d8a.jpg"
+    },
+    {
+      "alternativeText": "Zenith Watchmaking with Antique Chronometer in Showcase",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Chronometrede_Marine_large_a7fa0fdf6a.jpg"
+    },
+    {
+      "alternativeText": "Watchmaking Tour with Insight into Modern Techniques.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Empierrage_large_1f711a6e78.jpg"
+    },
+    {
+      "alternativeText": "Watchmaking Tour at Zenith, visitors watch TV broadcast of timepieces.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Film_Charles_Vermot_large_7dab622d30.jpg"
+    },
+    {
+      "alternativeText": "Watchmaking tour with participants in the studio",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Grenier_Charles_Vermot_large_61aca1408e.jpg"
+    },
+    {
+      "alternativeText": "Zenith Watchmaking Tour with Visitors in Modern Exhibition Room",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Le_Monde_Etoilede_Zenith2_large_9e350cb52a.jpg"
+    },
+    {
+      "alternativeText": "Zenith Exhibition - Visitors listen to information about clock technology. Visible are watches and historical photos.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Le_Monde_Etoilede_Zenith_large_515308c2c5.jpg"
+    },
+    {
+      "alternativeText": "Two female employees in the lab are pointing at the control",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Machinede_Transfert_large_e4ed9821ad.jpg"
+    },
+    {
+      "alternativeText": "Two people are examining the technical details of the El Primero 21 movement",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Mouvement_El_Primero21_large_90e9cb23e0.jpg"
+    },
+    {
+      "alternativeText": "Labor employees present results to the team",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Preassemblage_large_9fc410aa32.jpg"
+    },
+    {
+      "alternativeText": "Employees discuss technical drawings on the computer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_R_and_D_constructeur_large_348656c854.jpg"
+    },
+    {
+      "alternativeText": "Watch is shown by a presenter in a modern room, four listeners observe.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_R_and_D2_large_b3764c148d.jpg"
+    },
+    {
+      "alternativeText": "Zenith watchmaking tour with expert, participants observe watch",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Regulateur_Zenith_large_6986c7389c.jpg"
+    },
+    {
+      "alternativeText": "Zenith Watchmaking, Leadership with Employees, Work Environment, Detail Work",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Atelier2_large_4342b908f2.jpg"
+    },
+    {
+      "alternativeText": "Watchmaking at Zenith with two watchmakers in the workshop",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Atelier3_large_2b53fd71db.jpg"
+    },
+    {
+      "alternativeText": "Watchmaking at Zenith with master and participant, workshop",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Atelier_large_41f316a7a3.jpg"
+    },
+    {
+      "alternativeText": "In the Zenith watchmaking, employees show a component adorned with precious metal",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fabien_Nissels_Generiquesans_Zenith_large_04b91f878a.jpg"
+    },
+    {
+      "alternativeText": "Zenith watchmaking showcases the historical architecture of the building with adjacent streets and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Reto_Duriet_Zenith_DJI_0680_large_d45e68b205.jpg"
+    },
+    {
+      "alternativeText": "Zenith Watchmaking shows a historic site with watch production and surroundings from 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Reto_Duriet_Zenith_DJI_0708_large_03dd31870e.jpg"
+    },
+    {
+      "alternativeText": "Zenith Watchmaking, modern building, large window front, artisanal details",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Reto_Duriet_Zenith_U2_A1087_1_large_0d0401f7b8.jpg"
+    },
+    {
+      "alternativeText": "Movement of the Zenith watchmaking shows precise mechanics, jeweler supplies in the Jura",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zenith_Jura_3_Lac_3_5a4203542b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "watch"
+  ],
+  "featured": false
+}

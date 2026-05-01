@@ -1,0 +1,81 @@
+{
+  "id": "874",
+  "slug": "paragliding-interlaken-winter",
+  "name": "Beatenberg paragliding tandem in winter from Interlaken",
+  "description": "Discover Beatenberg paragliding tandem in winter from Interlaken in Switzerland.",
+  "longDescription": "Discover Beatenberg paragliding tandem in winter from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-interlaken-winter/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paragliding above the fog line in Interlaken with mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_147fb8431e26c1a4fe46eaa820bebe92_4271d721ae.jpg"
+    },
+    {
+      "alternativeText": "Paragliding winter activities in the snow under sunshine.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_1f3a71aa9d597f282e566e5e5a7bc313_8d49f286a4.jpg"
+    },
+    {
+      "alternativeText": "Winter Tandem Paragliding over the Alps in Oberland, Winter view with snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_78e8cd20657d978b56251f166c909957_f10b586590.jpg"
+    },
+    {
+      "alternativeText": "Paragliding over a winter landscape in Interlaken, snow-covered mountains and chalets visible",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_86da9e77c9f164ac8a92fff67361b068_0cbdda75af.jpg"
+    },
+    {
+      "alternativeText": "Tandem paragliding flight over Interlaken, two people in winter clothing",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_44fba8eabafdcaedd7273fa42919aedc_6dd956753e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

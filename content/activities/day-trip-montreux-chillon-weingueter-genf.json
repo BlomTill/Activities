@@ -1,0 +1,91 @@
+{
+  "id": "361",
+  "slug": "day-trip-montreux-chillon-weingueter-genf",
+  "name": "From Geneva: Day trip wine tour and Chillon Castle",
+  "description": "Discover From Geneva: Day trip wine tour and Chillon Castle in Switzerland.",
+  "longDescription": "Discover From Geneva: Day trip wine tour and Chillon Castle in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/day-trip-montreux-chillon-weingueter-genf/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Wine tour: Participants enjoy a wine tasting in Lavaux with a view of Lake Geneva and vineyards.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cf944f99c44b04f8b2ab9aa07936e7c3.jpg"
+    },
+    {
+      "alternativeText": "Wine tour: Discover the vineyards in Lavaux with views of Lake Geneva and the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b5ca627f07d218d92c020b37af399f7a.jpg"
+    },
+    {
+      "alternativeText": "Wine tour: Experience the vineyards in Lavaux and Lake Geneva with a picturesque view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/292b1fae73e96e55aae7be0a39ecc590.jpg"
+    },
+    {
+      "alternativeText": "Wine Tour: Discover the picturesque vineyards in Lavaux with stunning views of Lake Geneva.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9ac386d8b8df69d0366c3a8ed3bd4c96.jpg"
+    },
+    {
+      "alternativeText": "Wine tour: enjoy the vines of Lavaux with a view of Lake Geneva, ideal for wine lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8b148ce6a552c907d0666882283f1819.JPG"
+    },
+    {
+      "alternativeText": "Wine Tour: Explore the vineyards of Lavaux with breathtaking views of Lake Geneva.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/020d96c4905aaf48304a52bc0404103c.JPG"
+    },
+    {
+      "alternativeText": "Wine tour: Experience the vineyards of Lavaux with a view of the lake and the Alps during the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/17028596eb08b57a5e14558cf40ed62d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "castle",
+    "wine",
+    "geneva"
+  ],
+  "featured": false
+}

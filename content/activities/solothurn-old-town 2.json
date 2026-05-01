@@ -1,0 +1,84 @@
+{
+  "id": "149",
+  "slug": "solothurn-old-town",
+  "name": "Solothurn Old Town Tour",
+  "description": "Explore the 'most beautiful baroque city in Switzerland' — the city built on the number 11.",
+  "longDescription": "Solothurn is renowned as Switzerland's finest baroque city, built around the number 11 — 11 churches, 11 chapels, 11 towers, and 11 fountains. The beautifully preserved old town features the magnificent St. Ursen Cathedral, colourful Renaissance fountains, and the Zeitglockenturm.",
+  "category": "culture",
+  "subcategory": "City Tour",
+  "location": {
+    "region": "Northwestern Switzerland",
+    "canton": "Solothurn",
+    "city": "Solothurn",
+    "coordinates": {
+      "lat": 47.2088,
+      "lng": 7.5371
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Self-guided Walk (Free)",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.solothurn-city.ch",
+      "rating": 4.5,
+      "description": "Free self-guided walk through old town"
+    },
+    {
+      "name": "Guided Old Town Tour",
+      "pricing": {
+        "child": 8,
+        "student": 15,
+        "adult": 20,
+        "senior": 18
+      },
+      "bookingUrl": "https://www.solothurn-city.ch",
+      "rating": 4.6,
+      "description": "90-minute guided walking tour"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "1.5-3 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1564429238961-bf4213e78bbf?w=800&h=500&fit=crop",
+  "highlights": [
+    {
+      "label": "Number 11",
+      "value": "11 churches, towers, fountains"
+    },
+    {
+      "label": "Style",
+      "value": "Finest baroque in CH"
+    },
+    {
+      "label": "Cathedral",
+      "value": "St. Ursen"
+    },
+    {
+      "label": "Free Walk",
+      "value": "Self-guided"
+    },
+    {
+      "label": "Canton",
+      "value": "Solothurn"
+    }
+  ],
+  "tags": [
+    "baroque",
+    "old town",
+    "solothurn",
+    "architecture",
+    "history"
+  ],
+  "featured": false
+}

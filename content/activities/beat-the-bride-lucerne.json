@@ -1,0 +1,89 @@
+{
+  "id": "443",
+  "slug": "beat-the-bride-lucerne",
+  "name": "\"Beat the bride\" in Lucerne: action-packed hen party",
+  "description": "Discover \"Beat the bride\" in Lucerne: action-packed hen party in Switzerland.",
+  "longDescription": "Discover \"Beat the bride\" in Lucerne: action-packed hen party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bachelorette party: Young women celebrate with red cups outdoors during the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_2_970f2531d2.jpg"
+    },
+    {
+      "alternativeText": "Team Bride: Laugh with friends in the city during the bachelorette party in the summer time.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_1_e1c607ae64.jpg"
+    },
+    {
+      "alternativeText": "Team activity in the city: cheerful group with drinks, good mood and summer atmosphere",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_3_44ac03c41a.jpg"
+    },
+    {
+      "alternativeText": "Team activity: fun in the green with friends, ideal for group activities in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_4_93213f38ad.jpg"
+    },
+    {
+      "alternativeText": "Chapel Bridge in Lucerne, beautiful wooden bridge by the water with majestic mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/geertje_caliguire_6_D9fp_C_Xb20_E_unsplash_ce5be78d1b.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: View of the historic architecture with mountains and people by the water in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/tom_bradley_rf_S5_Jb_QCMF_8_unsplash_fa3c998470.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: picturesque old town by the water with historic buildings and a lovely canal.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_unsplash_96afe0b26a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

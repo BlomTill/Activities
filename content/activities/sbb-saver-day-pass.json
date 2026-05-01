@@ -1,0 +1,137 @@
+{
+  "id": "1014",
+  "slug": "sbb-saver-day-pass",
+  "name": "Saver Day Pass SBB - starting at 29 CHF",
+  "description": "Discover Saver Day Pass SBB - starting at 29 CHF in Switzerland.",
+  "longDescription": "Discover Saver Day Pass SBB - starting at 29 CHF in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "136",
+    "title": "SBB Day Pass",
+    "slug": "sbb-day-pass",
+    "description": "Find the right SBB Day Pass for you here. SBB Day Passes allow you to travel for a whole day. You only need one ticket, even if you have to change trains several times. Within the validity of your day ticket, you can travel as often as you like. You should only check the timetables so that you don't miss the \"last train\" or your connection. Your day pass is valid for the entire day of the date printed on it and beyond until 5:00 a.m. the following day."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sbb-day-pass/sbb-saver-day-pass/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "BLS Train: stunning views of mountains and Interlaken in summer, perfect for nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_BLS_Zug_Unsplash_4c14c52ebd.jpg"
+    },
+    {
+      "alternativeText": "Baden Zug: Impressive bridge with train and river view in picturesque surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Baden_Zug_Pixabay_7cfeab2813.jpg"
+    },
+    {
+      "alternativeText": "SBB Saver Day Pass: discover top offers, train efficiently, and travel affordably in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/12_Sparticket_Sersaina_0e05685dc0.jpg"
+    },
+    {
+      "alternativeText": "PostBus: Enjoy the relaxed journey through the Engadin with breathtaking mountains and clear lakes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_Postauto_Swiss_Travel_System_21be911d03.jpg"
+    },
+    {
+      "alternativeText": "SBB train travels through a picturesque landscape by Lake Geneva with vineyards.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_1_Unsplash_ec028212de.jpg"
+    },
+    {
+      "alternativeText": "Bernina Express: Impressive train along the green reservoir in the mountains of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_beim_Lago_di_Poschiavo_Foto_Swiss_Travel_System_AG_da1ae07444.jpeg"
+    },
+    {
+      "alternativeText": "Scuol train surrounded by mountains and nature, ideal for adventure and summer holidays.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_5_Seraina_ea49e2eba1.jpg"
+    },
+    {
+      "alternativeText": "Zurich HB: Streams of people and modern trains at Zurich's main station, a central transport hub.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_HB_Unsplash_cb324d8a8c.jpg"
+    },
+    {
+      "alternativeText": "Zürich Main Station: contemporary architecture, a heavily frequented transport hub in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0_Bahnhof_Zuerich_Seraina_94fb6ee39a.jpg"
+    },
+    {
+      "alternativeText": "Tram Zurich in front of the train station with traffic and people in an urban environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Tram_Zuerich_Seraina_0fd34e7c85.JPG"
+    },
+    {
+      "alternativeText": "Cabrio cable car at Stanserhorn with a view of the mountains and Lake Lucerne in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14_Seilbahn_Cabrio_Stanserhorn_Seraina_0162a61c90.jpeg"
+    },
+    {
+      "alternativeText": "Rail connection in the valley between high mountains, ideal for excursions into nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_2_Seraina_c26b42cb65.jpg"
+    },
+    {
+      "alternativeText": "Ospizio Bernina: charming restaurant with a view of the Alps and Lake Zug, ideal for excursions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/72_Ospizio_Bernina_Seraina_ffe4fb955e.jpg"
+    },
+    {
+      "alternativeText": "Boat on Lake Geneva with a view of the green mountains and blooming plants.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/82_Genfersee_Seraina_ab7db1c1d4.jpg"
+    },
+    {
+      "alternativeText": "Gurtenbahn: Experience the spectacular view of the city and the green mountains during the summer months.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gurten_20_Seraina_c88e80e6c3.jpg"
+    },
+    {
+      "alternativeText": "Gurtenbahn: View of the city of Bern during a ride on the Gurtenbahn in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gurten_21_Seraina_3ea3538ff9.jpg"
+    },
+    {
+      "alternativeText": "SBB Train: modern train at station, ideal for travel in Switzerland, transport, mobility.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_2_Unsplash_804c013595.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

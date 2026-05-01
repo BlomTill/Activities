@@ -1,0 +1,84 @@
+{
+  "id": "215",
+  "slug": "canyoning-ticino-for-beginners-val-di-vira",
+  "name": "Val di Vira canyoning trial tour for beginners",
+  "description": "Discover Val di Vira canyoning trial tour for beginners in Switzerland.",
+  "longDescription": "Discover Val di Vira canyoning trial tour for beginners in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-beginners-val-di-vira/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Taster Tour Beginner Canyoning in Val di Vira with Waterfall and Green Shore.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Felsen_Canyoning_Schnupper_Vira_878ecda4d4.jfif"
+    },
+    {
+      "alternativeText": "Beginner Canyoning Taster Vira with Group at Waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Einsteiger_Canyoning_Schnupper_Vira_076cdb7b38.jfif"
+    },
+    {
+      "alternativeText": "Canyoning Taster Vira Group in Wetsuits by the Water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Schnupper_Vira_81981aa427.jfif"
+    },
+    {
+      "alternativeText": "Natural pool during canyoning taster course in Vira with participants and waterfall.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Natuerlicher_Pool_Canyoning_Schnupper_Vira_e6143cc8bd.jfif"
+    },
+    {
+      "alternativeText": "Sprung Canyoning Taster Vira with participants at the waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sprung_Canyoning_Schnupper_Vira_c75594a4a0.jfif"
+    },
+    {
+      "alternativeText": "Abseiling Beginners Canyoning in Vira with Participants on the Rope",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_Einsteiger_Canyoning_Schnupper_Vira_40a140cc63.jfif"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

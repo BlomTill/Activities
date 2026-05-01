@@ -1,0 +1,85 @@
+{
+  "id": "753",
+  "slug": "ticket-from-stechelberg-to-murren",
+  "name": "Ticket from Stechelberg to Mürren",
+  "description": "Discover Ticket from Stechelberg to Mürren in Switzerland.",
+  "longDescription": "Discover Ticket from Stechelberg to Mürren in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/ticket-from-stechelberg-to-murren/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Funicular_Transit_Landscape_Wide",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a41f29e8ee859cda276c44c4ad7357be.jpg"
+    },
+    {
+      "alternativeText": "01 241213_1131_sbag_deuring_webalbum_print",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a8682ed6fce457e769db3696b16e08b.jpg"
+    },
+    {
+      "alternativeText": "02 Funifor_ZUR08063_webalbum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/efc4bc37ce8797498d411b3d1752ede0.jpg"
+    },
+    {
+      "alternativeText": "03 Stechelberg_Zur09613_WebAlbum_Print",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b6b5c2bb646444c8f7d8786b5d078482.jpg"
+    },
+    {
+      "alternativeText": "04 Murren Pixabay",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/81819ce67c99dfc2c199561b9e558fe6.jpg"
+    },
+    {
+      "alternativeText": "Mürren_DJI_0601_webalbum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/890409925662fde01374efa4130c0f2c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

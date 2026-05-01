@@ -1,0 +1,84 @@
+{
+  "id": "803",
+  "slug": "sea-kayak-tour-luzern-guided",
+  "name": "Sea Kayak Tour Lucerne",
+  "description": "Discover Sea Kayak Tour Lucerne in Switzerland.",
+  "longDescription": "Discover Sea Kayak Tour Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "26",
+    "title": "Kayak",
+    "slug": "kayak",
+    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/kayak/sea-kayak-tour-luzern-guided/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kayak tour: Kayaks on Lake Lucerne with a view of the mountains in Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c8895c6d279a303dbd6a3f68e2485eaf.JPG"
+    },
+    {
+      "alternativeText": "Kayak Tour: Kayaks on Lake Lucerne with a view of Lucerne and the surrounding nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/82312da96aea036eaff3d90c2b389a5b.JPG"
+    },
+    {
+      "alternativeText": "Sea kayak tour on Lake Lucerne with kayaks and views of the city of Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/be5e78ffd1fbe6ed47b06153fcfd99d8.JPG"
+    },
+    {
+      "alternativeText": "Kayak Tour: Kayaks on Lake Lucerne in summer, idyllic surroundings and city view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7238cee8c559aa723e77515cc7d2b65c.jpg"
+    },
+    {
+      "alternativeText": "Sea Kayak Tour: Kayaks on Lake Lucerne with views of the Alps and Lucerne's architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/09c8bd5fd5b4a30152a408056f8ab0a9.JPG"
+    },
+    {
+      "alternativeText": "Sea kayak tour on Lake Lucerne with kayaks and a view of Lucerne. Ideal for adventure and groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1cf76ff34b52d06625802700cace7868.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "500",
+  "slug": "beat-the-bride-winterthur",
+  "name": "\"Beat the bride\" in Winterthur: action-packed hen party",
+  "description": "Discover \"Beat the bride\" in Winterthur: action-packed hen party in Switzerland.",
+  "longDescription": "Discover \"Beat the bride\" in Winterthur: action-packed hen party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-winterthur/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bachelorette party with friends in the city, team celebration, fun and good mood.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_3_10dc4ae5f2.jpg"
+    },
+    {
+      "alternativeText": "Winterthur: city view with colorful buildings and reflection in the water, perfect for exploring during the day.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/winterthur_pixabay_f11ec74b29.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bride: Team activity with joy and entertainment in a festive environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_1_69a1c7f81c.jpg"
+    },
+    {
+      "alternativeText": "Bachelor Party: Celebrate with friends, Bride Team in a cheerful mood with cups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_2_a947f0d054.jpg"
+    },
+    {
+      "alternativeText": "Winterthur: view of the city with historical buildings and beautiful landscape at sunset.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/winterthur_unsplash_e5f2608962.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bride: Team activity in the garden with friends, nice weather, and blooming flowers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_4_54ab38a15d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

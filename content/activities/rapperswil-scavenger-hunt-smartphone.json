@@ -1,0 +1,72 @@
+{
+  "id": "540",
+  "slug": "rapperswil-scavenger-hunt-smartphone",
+  "name": "Rapperswil interactive scavenger hunt with the smartphone",
+  "description": "Discover Rapperswil interactive scavenger hunt with the smartphone in Switzerland.",
+  "longDescription": "Discover Rapperswil interactive scavenger hunt with the smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/rapperswil-scavenger-hunt-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Treasure hunt: Smartphone in front of the pier along the promenade with activity information",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rapperswil_carousel_1_54a8237905.jpg"
+    },
+    {
+      "alternativeText": "Treasure hunt: two people read a label on the wall with a smartphone for exploration.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rapperswil_carousel_3_0cf946d3af.jpg"
+    },
+    {
+      "alternativeText": "Treasure hunt: Smartphone shows an antique image with historical figures in a park-like environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rapperswil_carousel_4_6833553622.jpg"
+    },
+    {
+      "alternativeText": "Treasure hunt: Two women with smartphones solve puzzles in the city during the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rapperswil_carousel_5_68f93872d3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

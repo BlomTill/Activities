@@ -1,0 +1,77 @@
+{
+  "id": "553",
+  "slug": "beat-the-groom-basel",
+  "name": "\"Beat the groom\" in Basel: action-packed stag party",
+  "description": "Discover \"Beat the groom\" in Basel: action-packed stag party in Switzerland.",
+  "longDescription": "Discover \"Beat the groom\" in Basel: action-packed stag party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-basel/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Beat the Groom: Playful Challenge with Friends in Nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_805a12cf80.jpg"
+    },
+    {
+      "alternativeText": "Basel: Charming old town with historic buildings and picturesque facades in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/basel_Altstadt_unsplash_0de2ce13e8.jpg"
+    },
+    {
+      "alternativeText": "Bachelor party: Group of friends celebrating by the water with beer, ideal for men's outings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_c69fa3736e.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Fun team activity in a blooming environment with friends in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_6226aa8f02.jpg"
+    },
+    {
+      "alternativeText": "Basel: View of the Rhine, the bridge, and the picturesque old town with recreational activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Basel_unsplash_290c17d982.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "200",
+  "slug": "iragna-canyoning-advanced-canyoneers",
+  "name": "Iragna canyoning for advanced canyoneers",
+  "description": "Discover Iragna canyoning for advanced canyoneers in Switzerland.",
+  "longDescription": "Discover Iragna canyoning for advanced canyoneers in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/iragna-canyoning-advanced-canyoneers/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Iragna Canyoning: Experience adrenaline-fueled adventures in Ticino. Perfect for groups and nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/canyoning_iragna_ticino_adventures_outdoor_activities_4_768x1024_92ef99d309.jpg"
+    },
+    {
+      "alternativeText": "Iragna Canyoning: Experience action-packed water sports adventures in the natural paradise of Ticino.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/canyoning_iragna_ticino_adventures_outdoor_activities_5_768x1024_849ac3650e.jpg"
+    },
+    {
+      "alternativeText": "Iragna Canyoning: breathtaking adventure in Ticino for groups and kids with guides.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/canyoning_iragna_ticino_adventures_outdoor_activities_6_768x1024_3d0ab4a018.jpg"
+    },
+    {
+      "alternativeText": "Iragna Canyoning: Experience the thrill of abseiling in nature during summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/canyoning_iragna_ticino_adventures_outdoor_activities_7_768x1024_5e57284d06.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

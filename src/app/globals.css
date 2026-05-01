@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;0,9..144,800;1,9..144,500;1,9..144,700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -6,26 +6,26 @@
 
 @layer base {
   :root {
-    /* Dark editorial theme — matches homepage palette */
-    --background: 30 15% 4%;        /* #0c0b09 */
-    --foreground: 36 30% 89%;       /* #ede8df warm cream */
-    --card: 30 10% 7%;              /* #131210 */
-    --card-foreground: 36 30% 89%;
-    --popover: 30 10% 7%;
-    --popover-foreground: 36 30% 89%;
-    --primary: 36 30% 83%;          /* cream — primary buttons light on dark */
-    --primary-foreground: 30 15% 4%;
-    --secondary: 30 10% 14%;        /* #1e1b17-ish surface */
-    --secondary-foreground: 36 30% 89%;
-    --muted: 30 10% 14%;
-    --muted-foreground: 30 8% 58%;  /* #9a9187-ish readable mid-tone */
-    --accent: 30 10% 14%;
-    --accent-foreground: 36 30% 89%;
+    /* Alpine Sunshine — warm light theme. Maps to the .alpine-page tokens. */
+    --background: 38 100% 96%;      /* #FFF7EC */
+    --foreground: 195 20% 15%;      /* #1F2A2E */
+    --card: 45 71% 98%;             /* #FFFDF6 */
+    --card-foreground: 195 20% 15%;
+    --popover: 45 71% 98%;
+    --popover-foreground: 195 20% 15%;
+    --primary: 9 79% 60%;           /* #E8634A coral */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 38 100% 92%;       /* #FFEFD6 */
+    --secondary-foreground: 195 20% 15%;
+    --muted: 38 100% 92%;
+    --muted-foreground: 200 8% 53%; /* #7E8B92 */
+    --accent: 38 100% 92%;
+    --accent-foreground: 195 20% 15%;
     --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 30 10% 20%;           /* #2a261f visible border on dark */
-    --input: 30 10% 20%;
-    --ring: 42 70% 52%;             /* gold ring */
+    --destructive-foreground: 0 0% 100%;
+    --border: 39 47% 85%;           /* #E9DFC8 */
+    --input: 39 47% 85%;
+    --ring: 9 79% 60%;              /* coral ring */
     --radius: 0.5rem;
 
     /* Swiss alpine palette */
@@ -73,8 +73,9 @@
     scroll-behavior: smooth;
   }
   body {
-    background: #0c0b09;
-    @apply text-foreground;
+    /* Alpine Sunshine — warm cream default. Was #0c0b09 (dark). */
+    background: #FFF7EC;
+    color: #1F2A2E;
   }
   ::selection {
     background: hsl(var(--swiss-red) / 0.85);
@@ -746,45 +747,235 @@
      #c4973a  — gold accent (hover, active states)
    ───────────────────────────────────────────────────────────── */
 @layer utilities {
-  /* ── Text ── */
-  .text-gray-950, .text-gray-900 { color: #ede8df !important; }
-  .text-gray-800                 { color: #d8d0c8 !important; }
-  .text-gray-700                 { color: #c0b8ae !important; }
-  .text-gray-600                 { color: #b0a898 !important; }
-  .text-gray-500                 { color: #9a9187 !important; }
-  .text-gray-400                 { color: #8a7e70 !important; }
-  .text-gray-300                 { color: #7a6e60 !important; }
-  .text-gray-200, .text-gray-100 { color: #5a5040 !important; }
+  /* ── Tailwind grays: dark-on-light ── */
+  .text-gray-950, .text-gray-900 { color: #1F2A2E !important; }
+  .text-gray-800                 { color: #2C383D !important; }
+  .text-gray-700                 { color: #4A5862 !important; }
+  .text-gray-600                 { color: #4A5862 !important; }
+  .text-gray-500                 { color: #7E8B92 !important; }
+  .text-gray-400                 { color: #9DA8AE !important; }
+  .text-gray-300                 { color: #B8C0C5 !important; }
+  .text-gray-200, .text-gray-100 { color: #D6DCDF !important; }
 
-  .text-slate-900, .text-slate-800 { color: #ede8df !important; }
-  .text-slate-700, .text-slate-600 { color: #c0b8ae !important; }
-  .text-slate-500, .text-slate-400 { color: #9a9187 !important; }
+  .text-slate-900, .text-slate-800 { color: #1F2A2E !important; }
+  .text-slate-700, .text-slate-600 { color: #4A5862 !important; }
+  .text-slate-500, .text-slate-400 { color: #7E8B92 !important; }
 
-  .text-black { color: #ede8df !important; }
+  .text-black { color: #1F2A2E !important; }
 
   /* ── Backgrounds ── */
-  .bg-white   { background-color: #131210 !important; }
-  .bg-gray-50 { background-color: #0f0e0c !important; }
-  .bg-gray-100 { background-color: #1a1714 !important; }
-  .bg-gray-200 { background-color: #242018 !important; }
+  .bg-white   { background-color: #FFFDF6 !important; }
+  .bg-gray-50 { background-color: #FFF7EC !important; }
+  .bg-gray-100 { background-color: #FFEFD6 !important; }
+  .bg-gray-200 { background-color: #F4E5C2 !important; }
 
   /* ── Opacity variants of white (bg-white/95, bg-white/80, etc.) ── */
-  .bg-white\/95, .bg-white\/90, .bg-white\/80 { background-color: rgba(19,18,16,0.95) !important; }
+  .bg-white\/95, .bg-white\/90, .bg-white\/80 { background-color: rgba(255,253,246,0.95) !important; }
 
   /* ── Hover backgrounds ── */
-  .hover\:bg-gray-50:hover  { background-color: #131210 !important; }
-  .hover\:bg-gray-100:hover { background-color: #1e1b17 !important; }
-  .hover\:bg-white:hover    { background-color: #1e1b17 !important; }
+  .hover\:bg-gray-50:hover  { background-color: #FFF7EC !important; }
+  .hover\:bg-gray-100:hover { background-color: #FFEFD6 !important; }
+  .hover\:bg-white:hover    { background-color: #FFFDF6 !important; }
 
   /* ── Borders ── */
-  .border-gray-100 { border-color: #1e1b17 !important; }
-  .border-gray-200 { border-color: #2a261f !important; }
-  .border-gray-300 { border-color: #3a3428 !important; }
+  .border-gray-100 { border-color: #F0E6CF !important; }
+  .border-gray-200 { border-color: #E9DFC8 !important; }
+  .border-gray-300 { border-color: #D6CCB2 !important; }
 
-  /* ── Fix the colours I used in previous pass that were too dark ── */
-  .text-\[\#7a6e60\] { color: #9a9187 !important; }
-  .text-\[\#4a4030\] { color: #7a6e60 !important; }
+  /* ─────────────────────────────────────────────
+     Legacy hardcoded hex values used across
+     30+ existing pages → mapped to Alpine equivalents
+     so older components look correct on the cream bg.
+     Old → new:
+       #c4973a (gold)        → #E8634A (coral)
+       #ede8df (cream text)  → #1F2A2E (ink)
+       #9a9187 (muted)       → #7E8B92 (ink-mute)
+       #8a7e70 (subtle)      → #7E8B92
+       #7a6e60 (subtle 2)    → #7E8B92
+       #b0a898 (sec text)    → #4A5862 (ink-soft)
+       #c0b8ae (sec text)    → #4A5862
+       #5a5040 (decorative)  → #B8C0C5
+       #1e1b17 (sec surface) → #FFEFD6 (bg-2)
+       #131210 (card)        → #FFFDF6 (card)
+       #0c0b09 (body bg)     → #FFF7EC (bg)
+       #2a261f (border)      → #E9DFC8 (line)
+     ───────────────────────────────────────────── */
+  /* Tailwind arbitrary value classes */
+  .text-\[\#c4973a\]  { color: #E8634A !important; }
+  .text-\[\#ede8df\]  { color: #1F2A2E !important; }
+  .text-\[\#9a9187\]  { color: #7E8B92 !important; }
+  .text-\[\#8a7e70\]  { color: #7E8B92 !important; }
+  .text-\[\#7a6e60\]  { color: #7E8B92 !important; }
+  .text-\[\#b0a898\]  { color: #4A5862 !important; }
+  .text-\[\#c0b8ae\]  { color: #4A5862 !important; }
+  .text-\[\#5a5040\]  { color: #B8C0C5 !important; }
+  .text-\[\#4a4030\]  { color: #B8C0C5 !important; }
+  .text-\[\#a09080\]  { color: #7E8B92 !important; }
+  .text-\[\#d8d0c8\]  { color: #2C383D !important; }
+
+  .bg-\[\#1e1b17\]    { background-color: #FFEFD6 !important; }
+  .bg-\[\#131210\]    { background-color: #FFFDF6 !important; }
+  .bg-\[\#0c0b09\]    { background-color: #FFF7EC !important; }
+  .bg-\[\#0f0e0c\]    { background-color: #FFF7EC !important; }
+  .bg-\[\#1a1714\]    { background-color: #FFEFD6 !important; }
+  .bg-\[\#242018\]    { background-color: #F4E5C2 !important; }
+
+  .border-\[\#2a261f\] { border-color: #E9DFC8 !important; }
+  .border-\[\#1e1b17\] { border-color: #F0E6CF !important; }
+  .border-\[\#3a3428\] { border-color: #D6CCB2 !important; }
+
+  /* Decorative gold (oklch) → coral */
+  .text-\[oklch\(74\%_0\.13_63deg\)\] { color: #E8634A !important; }
+  .bg-\[oklch\(74\%_0\.13_63deg\)\]   { background-color: #E8634A !important; }
+
+  /* Hover variants (e.g. hover:text-[#c4973a]) */
+  .hover\:text-\[\#c4973a\]:hover { color: #E8634A !important; }
+  .hover\:text-\[\#ede8df\]:hover { color: #1F2A2E !important; }
+  .hover\:text-\[\#9a9187\]:hover { color: #4A5862 !important; }
+  .hover\:bg-\[\#131210\]:hover   { background-color: #FFEFD6 !important; }
+  .hover\:bg-\[\#1e1b17\]:hover   { background-color: #F4E5C2 !important; }
+
+  /* Opacity-modified variants like bg-[#0c0b09]/90 → compiled as .bg-\[\#0c0b09\]\/90 */
+  [class*="bg-[#0c0b09]"] { background-color: rgba(255, 247, 236, 0.9) !important; }
+  [class*="bg-[#131210]"] { background-color: rgba(255, 253, 246, 0.95) !important; }
+  [class*="bg-[#1e1b17]"] { background-color: rgba(255, 239, 214, 0.9) !important; }
+  [class*="border-[#1e1b17]"] { border-color: rgba(233, 223, 200, 0.85) !important; }
+  [class*="border-[#2a261f]"] { border-color: #E9DFC8 !important; }
+
+  /* ── Inline-style overrides via attribute selectors ── */
+  [style*="#0c0b09"]:not(.alpine-keep-dark) { background-color: #FFF7EC !important; }
+  [style*="#ede8df"]:not(.alpine-keep-dark) { color: #1F2A2E !important; }
+  [style*="#9a9187"] { color: #7E8B92 !important; }
+  [style*="#c4973a"] { color: #E8634A !important; }
+  [style*="oklch(74%"] { color: #E8634A !important; }
 }
+
+/* ────────────────────────────────────────────────────────────
+   ALPINE SUNSHINE THEME — warm, lively palette for the
+   redesigned home + activities pages. Scoped via .alpine-page
+   so the rest of the site keeps the dark editorial theme.
+   ──────────────────────────────────────────────────────────── */
+.alpine-page {
+  --bg: #FFF7EC;
+  --bg-2: #FFEFD6;
+  --ink: #1F2A2E;
+  --ink-soft: #4A5862;
+  --ink-mute: #7E8B92;
+  --line: #E9DFC8;
+  --card: #FFFDF6;
+  --accent: #E8634A;
+  --accent-2: #2E6F5E;
+  --accent-3: #F4B43E;
+  --sky: #6FB6D9;
+  --shadow-1: 0 1px 0 rgba(31,42,46,.04), 0 6px 18px -8px rgba(31,42,46,.18);
+  --shadow-2: 0 1px 0 rgba(31,42,46,.04), 0 22px 40px -18px rgba(31,42,46,.28);
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  position: relative;
+  isolation: isolate;
+}
+/* Flip body bg when an alpine-page wrapper exists in the tree */
+body:has(.alpine-page) { background: #FFF7EC !important; color: #1F2A2E !important; }
+.alpine-page ::selection { background: #E8634A; color: #fff; }
+.alpine-page .alpine-display { font-family: 'Fraunces', Georgia, serif; font-weight: 700; letter-spacing: -0.02em; }
+.alpine-page .alpine-mono    { font-family: 'JetBrains Mono', ui-monospace, monospace; }
+
+/* Buttons */
+.alpine-page .a-btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 12px 18px; border-radius: 999px;
+  font: 600 14px/1 'Plus Jakarta Sans', sans-serif;
+  border: 1px solid transparent; cursor: pointer; user-select: none;
+  transition: transform .18s ease, background .18s, color .18s, border-color .18s, box-shadow .18s;
+  white-space: nowrap; text-decoration: none; position: relative; overflow: hidden;
+}
+.alpine-page .a-btn:active { transform: translateY(1px); }
+.alpine-page .a-btn-primary { background: var(--accent); color: #fff; }
+.alpine-page .a-btn-primary:hover { background: #d65541; box-shadow: 0 8px 20px -8px rgba(232,99,74,.6); }
+.alpine-page .a-btn-ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+.alpine-page .a-btn-ghost:hover { background: var(--card); border-color: var(--ink); }
+.alpine-page .a-btn-dark { background: var(--ink); color: #fff; }
+.alpine-page .a-btn-dark:hover { background: #2c3a40; }
+
+.alpine-page .a-chip {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 9px 14px; border-radius: 999px;
+  font: 500 13.5px/1 'Plus Jakarta Sans';
+  background: var(--card); color: var(--ink-soft);
+  border: 1px solid var(--line); cursor: pointer;
+  transition: all .18s ease; white-space: nowrap;
+}
+.alpine-page .a-chip:hover { border-color: var(--ink); color: var(--ink); }
+.alpine-page .a-chip[data-on="true"] { background: var(--ink); color: #fff; border-color: var(--ink); }
+
+.alpine-page .a-tag {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 4px 10px; border-radius: 999px;
+  font: 600 11px/1 'Plus Jakarta Sans'; letter-spacing: .04em; text-transform: uppercase;
+  background: var(--bg-2); color: var(--accent-2);
+}
+.alpine-page .a-tag.coral { background: #FFE6DF; color: #b53d27; }
+.alpine-page .a-tag.sky   { background: #E1F1F9; color: #2c6f8f; }
+.alpine-page .a-tag.sun   { background: #FFF1CD; color: #8a5b06; }
+
+.alpine-page .a-kicker {
+  font: 600 12px/1 'Plus Jakarta Sans'; letter-spacing: .18em; text-transform: uppercase;
+  color: var(--ink-mute);
+  display: inline-flex; align-items: center; gap: 10px;
+}
+.alpine-page .a-kicker .bar { width: 22px; height: 2px; background: var(--accent); border-radius: 2px; }
+
+.alpine-page .a-container { max-width: 1320px; margin: 0 auto; padding: 0 24px; }
+@media (max-width: 720px) { .alpine-page .a-container { padding: 0 18px; } }
+
+@keyframes a-typewriter { from { max-width: 0; } to { max-width: 100%; } }
+@keyframes a-blinkCaret { 50% { border-right-color: transparent; } }
+@keyframes a-fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+@keyframes a-floaty {
+  0%,100% { transform: translateY(0) rotate(var(--rot,0deg)); }
+  50%     { transform: translateY(-6px) rotate(var(--rot,0deg)); }
+}
+@keyframes a-drift { from { transform: translateX(-120%); } to { transform: translateX(120vw); } }
+@keyframes a-sunRise { 0% { transform: translateY(140px) scale(.85); opacity: 0; } 100% { transform: translateY(0) scale(1); opacity: 1; } }
+@keyframes a-popIn { from { opacity: 0; transform: scale(.94); } to { opacity: 1; transform: scale(1); } }
+@keyframes a-cardIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes a-fall { to { transform: translateY(110vh) rotate(720deg); } }
+@keyframes a-bannerSlide { from { transform: translateY(-100%); } to { transform: translateY(0); } }
+@keyframes a-rippleAnim { to { transform: scale(4); opacity: 0; } }
+@keyframes a-heartPop { 0% { transform: scale(1); } 35% { transform: scale(1.45); } 100% { transform: scale(1.08); } }
+
+.alpine-page .a-fade-up { animation: a-fadeUp .7s cubic-bezier(.2,.7,.2,1) both; }
+.alpine-page .a-floaty { animation: a-floaty 7s ease-in-out infinite; }
+.alpine-page .a-card-in { animation: a-cardIn .45s cubic-bezier(.2,.7,.2,1) both; }
+.alpine-page .a-cloud { position: absolute; opacity: .85; pointer-events: none; }
+.alpine-page .a-cloud-1 { top: 8%;  width: 110px; animation: a-drift 60s linear infinite; }
+.alpine-page .a-cloud-2 { top: 18%; width: 80px;  animation: a-drift 80s linear infinite; animation-delay: -25s; }
+
+.alpine-confetti { position: fixed; top: -10px; width: 10px; height: 14px; z-index: 9999; pointer-events: none; will-change: transform; animation: a-fall 4.2s linear forwards; }
+.alpine-yodel-banner {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 99999;
+  background: linear-gradient(90deg, #E8634A, #F4B43E);
+  color: #fff; padding: 12px 18px; text-align: center;
+  font-weight: 700; letter-spacing: .04em; box-shadow: 0 6px 20px -6px rgba(0,0,0,.25);
+  animation: a-bannerSlide .4s cubic-bezier(.2,.7,.2,1);
+  cursor: pointer;
+}
+
+/* Override the dark-theme text overrides ONLY inside alpine-page */
+.alpine-page .text-gray-950, .alpine-page .text-gray-900,
+.alpine-page .text-gray-800, .alpine-page .text-gray-700,
+.alpine-page .text-gray-600, .alpine-page .text-gray-500,
+.alpine-page .text-gray-400, .alpine-page .text-gray-300,
+.alpine-page .text-gray-200, .alpine-page .text-gray-100,
+.alpine-page .text-slate-900, .alpine-page .text-slate-800,
+.alpine-page .text-slate-700, .alpine-page .text-slate-600,
+.alpine-page .text-slate-500, .alpine-page .text-slate-400,
+.alpine-page .text-black { color: var(--ink) !important; }
+.alpine-page .bg-white, .alpine-page .bg-gray-50,
+.alpine-page .bg-gray-100, .alpine-page .bg-gray-200 { background-color: var(--card) !important; }
+.alpine-page .border-gray-100, .alpine-page .border-gray-200,
+.alpine-page .border-gray-300 { border-color: var(--line) !important; }
 
 /* Respect reduced motion */
 @media (prefers-reduced-motion: reduce) {

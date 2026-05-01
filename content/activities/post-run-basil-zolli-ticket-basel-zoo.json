@@ -1,0 +1,93 @@
+{
+  "id": "1471",
+  "slug": "post-run-basil-zolli-ticket-basel-zoo",
+  "name": "Post run \"Basil at the Zolli\" incl. ticket Basel Zoo",
+  "description": "Discover Post run \"Basil at the Zolli\" incl. ticket Basel Zoo in Switzerland.",
+  "longDescription": "Discover Post run \"Basil at the Zolli\" incl. ticket Basel Zoo in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "129",
+    "title": "Zoo",
+    "slug": "zoo",
+    "description": "Book your ticket for the zoo here. There are more than 30 zoos and animal parks in Switzerland. Most of them offer a high variety of animals that you can visit and marvel at. The oldest and also the largest zoo in Switzerland is the Basel Zoo, founded in 1874. The \"Zolli\" is located in the middle of the city and is home to more than 600 species of animals. The large Zurich zoo is known for many exotic offspring and is also very popular. Unlike the zoos in the big cities, regional zoos often display animal species that live or have lived in the wild in Switzerland. A good example is the zoo in Goldau"
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/post-run-basil-zolli-ticket-basel-zoo/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Zoo Basel: Family observes elephants having great experiences in the nature park, experiencing summer atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Basil_im_Zolli_2_a250f82fac.jpg"
+    },
+    {
+      "alternativeText": "Zoo Basel: Child solves riddle on bench, surrounded by nature and fun at the zoo - children's experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Basil_im_Zolli_5_4f1a9fdbf2.jpg"
+    },
+    {
+      "alternativeText": "Zoo Basel Birds: Children observe flamingos in nature, a great experience in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Basil_im_Zolli_4_78549d19f0.jpg"
+    },
+    {
+      "alternativeText": "Zoo Basel: Child observes animals and experiences exciting moments in the zoo with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Basil_im_Zolli_3_07d3b4c639.jpg"
+    },
+    {
+      "alternativeText": "Discover the fascinating lemurs at Zoo Basel and their natural surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Vari_im_Zoo_Basel_2a0f65e1a2.jpg"
+    },
+    {
+      "alternativeText": "Zoo Basel: Materials for puzzles, children, adventures, group activities in the zoo.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Material_Basil_im_Zolli_8e42c7fbab.jpg"
+    },
+    {
+      "alternativeText": "Zoo Basel: Child reading outside, interesting animals and adventures on a trip.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Basil_im_Zolli_f86f470c76.jpg"
+    },
+    {
+      "alternativeText": "Cheetahs at Zoo Basel, observe majestic predators in their natural environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Geparde_Zoo_Basel_ae2177b1da.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

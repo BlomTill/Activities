@@ -1,0 +1,124 @@
+{
+  "id": "421",
+  "slug": "engstlenalp-lake-and-cheese-tasting-private-e-bike-tour-from-interlaken",
+  "name": "\"Engstlenalp, Lake and Cheese Tasting\" - Private E-Bike Tour from Interlaken",
+  "description": "Discover \"Engstlenalp, Lake and Cheese Tasting\" - Private E-Bike Tour from Interlaken in Switzerland.",
+  "longDescription": "Discover \"Engstlenalp, Lake and Cheese Tasting\" - Private E-Bike Tour from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/engstlenalp-lake-and-cheese-tasting-private-e-bike-tour-from-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_4052",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be9ed6ce2e35bcec38953b8eca47f86a.JPEG"
+    },
+    {
+      "alternativeText": "image0 (3)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/824758290fe35b3976618a0f4013a8d2.jpeg"
+    },
+    {
+      "alternativeText": "image0 (2)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e5a459649036cd309fdae7525058d90d.jpeg"
+    },
+    {
+      "alternativeText": "IMG_3931",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a5bdb3e702852f114b5e985677772d40.jpg"
+    },
+    {
+      "alternativeText": "IMG_3946",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/636647ef07c231673f8f3ebbbf8c5fec.JPEG"
+    },
+    {
+      "alternativeText": "IMG_3950",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/469e8a259e96ae47ce9ae8cd4e769ee1.JPEG"
+    },
+    {
+      "alternativeText": "IMG_3959",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/355a291f7d3de099ce3913bbba3d5937.JPEG"
+    },
+    {
+      "alternativeText": "IMG_3962",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48589deb1aee380e61f1c26b197894bf.jpg"
+    },
+    {
+      "alternativeText": "IMG_3966",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/52e747f7ec9bb2ddf1d24b1dbf05c7a0.jpg"
+    },
+    {
+      "alternativeText": "IMG_3975",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4ac3a0abc2f8c127726ea9930cf0a6a2.JPEG"
+    },
+    {
+      "alternativeText": "IMG_4042",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c76e1220895c85cc0a542c58366a3bc.JPEG"
+    },
+    {
+      "alternativeText": "IMG_4083",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/383eb21648f183331605735ba65037b5.jpg"
+    },
+    {
+      "alternativeText": "IMG_4091",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/985dd486943df965a57ec716846a4142.JPEG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "cheese",
+    "interlaken"
+  ],
+  "featured": false
+}

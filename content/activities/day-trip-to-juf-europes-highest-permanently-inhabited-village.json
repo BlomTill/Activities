@@ -1,0 +1,80 @@
+{
+  "id": "324",
+  "slug": "day-trip-to-juf-europes-highest-permanently-inhabited-village",
+  "name": "Day Trip to Juf, Europe’s Highest Permanently Inhabited Village",
+  "description": "Discover Day Trip to Juf, Europe’s Highest Permanently Inhabited Village in Switzerland.",
+  "longDescription": "Discover Day Trip to Juf, Europe’s Highest Permanently Inhabited Village in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/day-trip-to-juf-europes-highest-permanently-inhabited-village/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00- 20250803_151647",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/57b15783c5c1aff38cc4263eab1f5417.jpg"
+    },
+    {
+      "alternativeText": "9168e200-0e87-4487-9af8-b075086aa63d",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b9c7e9e2606bbf68d9a591b4cba4aa22.jpg"
+    },
+    {
+      "alternativeText": "20250517_143632",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dfa197a02d8cbe551fc2cc1999d0ae2b.jpg"
+    },
+    {
+      "alternativeText": "20250803_164311",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c46f25ca1cccc8f825bff1573029d3db.jpg"
+    },
+    {
+      "alternativeText": "20250803_164323",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a9a3660b3b1e62be595b427e1f764e88.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

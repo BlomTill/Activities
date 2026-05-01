@@ -1,0 +1,92 @@
+{
+  "id": "634",
+  "slug": "beat-the-bride-sion",
+  "name": "\"Beat the bride\" in Sion: action-packed hen party",
+  "description": "Discover \"Beat the bride\" in Sion: action-packed hen party in Switzerland.",
+  "longDescription": "Discover \"Beat the bride\" in Sion: action-packed hen party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-sion/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bachelorette party: Celebrate with friends at a fun outdoor activity in the sun.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_2_63518894ed.jpg"
+    },
+    {
+      "alternativeText": "Sion: charming old town with colorful buildings and historical elements in Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_unsplash_Kopie_5cfb45782d.jpg"
+    },
+    {
+      "alternativeText": "Bride Team: laughing women in wedding dresses at a bachelorette party outdoors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_1_cfb9cb3a95.jpg"
+    },
+    {
+      "alternativeText": "Sion: charming old town with colorful houses and cafes, ideal for city visitors and architecture lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_1_unsplash_44bbef2b8b.jpg"
+    },
+    {
+      "alternativeText": "Bachelorette Party: Celebrate with friends in the city, fun, team spirit, and unforgettable memories.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_3_be3d5bfa1d.jpg"
+    },
+    {
+      "alternativeText": "Sion: View over the city and the surrounding mountains in nature with clear visibility.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_unsplash_bc33fe443d.jpg"
+    },
+    {
+      "alternativeText": "Bachelorette Party: 3 Women Celebrating in the Garden, Fun Activity Outdoors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_4_b99d52ddf5.jpg"
+    },
+    {
+      "alternativeText": "Sion Castle: impressive castle complex surrounded by nature and mountains in summer in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_Schloss_unsplash_de2eb0cb34.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

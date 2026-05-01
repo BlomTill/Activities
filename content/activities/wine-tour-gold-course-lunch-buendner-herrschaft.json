@@ -1,0 +1,79 @@
+{
+  "id": "1404",
+  "slug": "wine-tour-gold-course-lunch-buendner-herrschaft",
+  "name": "Wine and gold tour for groups",
+  "description": "Discover Wine and gold tour for groups in Switzerland.",
+  "longDescription": "Discover Wine and gold tour for groups in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/wine-tour-gold-course-lunch-buendner-herrschaft/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Wine tour: creative crafting activity with materials on a table in a workshop.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/45d9cab9a1c9bcce982d6e9b7397cd82.JPG"
+    },
+    {
+      "alternativeText": "Gold: You discover the creative art of gold leaf while crafting a wine tour decoration.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cafe0ab3f574d2739e4cc0f502c76af8.JPG"
+    },
+    {
+      "alternativeText": "Wine tour: Winter landscape with art materials on a table, creative activities in the snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/81a2fe9721866fd6f2eedb8c8567d640.JPG"
+    },
+    {
+      "alternativeText": "Wine Tour: Elegant Wine Glasses in Gift Packaging for Relaxed Enjoyment Moments",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5f980a48c89ae828187d76608433f118.jpg"
+    },
+    {
+      "alternativeText": "Winery: Discover the picturesque vineyards of the region during your wine tour in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/56a5257d929ff17051151d559b349618.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

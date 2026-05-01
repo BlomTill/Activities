@@ -1,0 +1,135 @@
+{
+  "id": "388",
+  "slug": "bus-trip-from-basel-culture-and-delight-in-the-black-forest",
+  "name": "Bus trip from Basel: Culture and delight in the Black Forest",
+  "description": "Discover Bus trip from Basel: Culture and delight in the Black Forest in Switzerland.",
+  "longDescription": "Discover Bus trip from Basel: Culture and delight in the Black Forest in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/bus-trip-from-basel-culture-and-delight-in-the-black-forest/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "1_Titisee-Neustadt with Titisee © Hochschwarzwald Tourism Ltd.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16d0cb050af1d5a484b0285f68f36be1.jpg"
+    },
+    {
+      "alternativeText": "2 Ravenna Viaduct in the Höllental, ©Hochschwarzwald Tourism GmbH",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/37100183fcf0a5aa8abbeaabbe6aabca.jpg"
+    },
+    {
+      "alternativeText": "Cuckoo Clock Farmstead Sternen",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a06faa7772963da946b5c387b72e15d1.jpg"
+    },
+    {
+      "alternativeText": "4 Cuckoo Clocks @Drubba Black Forest Ltd.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c0ac5ed46f1cfed9a3acbc2a97507fd8.jpg"
+    },
+    {
+      "alternativeText": "Jigal FichtnerBlack Forest Tourism",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/29d13cfebc3b896e392223ea5d4110e9.jpg"
+    },
+    {
+      "alternativeText": "6_@busmiete.ch AG",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/abeb8e0edafcf0d172d97673c3733a1c.png"
+    },
+    {
+      "alternativeText": "Titisee from above, © Hochschwarzwald Tourism Ltd.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d136309f59a1ceb480541d38ef51a2ac.jpg"
+    },
+    {
+      "alternativeText": "8_© Hochschwarzwald Tourism Ltd.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b553b7919c046e718d050496998cb63a.jpg"
+    },
+    {
+      "alternativeText": "9_Titisee-Neustadt © Hochschwarzwald Tourism Ltd",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5bc0f141d3dec549222d9a9ca6585e98.jpg"
+    },
+    {
+      "alternativeText": "10_© Jigal Fichtner_Black Forest Tourism (15)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8dea87b0296a06da20358431ee3ee2a7.jpg"
+    },
+    {
+      "alternativeText": "11_@TMBW, Black Forest Production Ltd",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c3129c836eba9c3fe251d1b9de1c385.jpg"
+    },
+    {
+      "alternativeText": "12_(c)_Black-Forest-Production-Ltd",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc8cd71044fc979d2e10bdf8e27416aa.jpg"
+    },
+    {
+      "alternativeText": "13@Jens Wegener_(5)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5208ca4a4875f8035af519aa0741c49a.jpg"
+    },
+    {
+      "alternativeText": "14_@Dom Hotel Restaurant & Café2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b1d907a7631d03bcc3ef95f400583235.jpeg"
+    },
+    {
+      "alternativeText": "15_© Hochschwarzwald Tourism Ltd.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7d2e61fd8d7e19592d68b7a7d67617c.jpeg"
+    },
+    {
+      "alternativeText": "16_View from Belchen @Erich Spiegelhalter, Black Forest Tourism",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/82fcdcdc1c58e753bd3dea1c9c97c77c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

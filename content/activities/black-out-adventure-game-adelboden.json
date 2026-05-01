@@ -1,0 +1,79 @@
+{
+  "id": "623",
+  "slug": "black-out-adventure-game-adelboden",
+  "name": " \"Black Out\" - Adventure Game Adelboden",
+  "description": "Discover  \"Black Out\" - Adventure Game Adelboden in Switzerland.",
+  "longDescription": "Discover  \"Black Out\" - Adventure Game Adelboden in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/black-out-adventure-game-adelboden/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Escape Game Adelboden in the mountains, ideal for groups and adventures with friends or family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_24_10_49_09_837095c64e.jpg"
+    },
+    {
+      "alternativeText": "Escape Game: Experience exciting adventures in Adelboden with your friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_23_20_28_11_71acb0505f.jpg"
+    },
+    {
+      "alternativeText": "Escape Game: Interesting team event in Adelboden for groups and children in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_23_20_28_39_03c760b292.jpg"
+    },
+    {
+      "alternativeText": "Escape Game in Adelboden with the winter landscape of the mountains and playing groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_15_21_25_Kopie_850b93fa1e.jpg"
+    },
+    {
+      "alternativeText": "Escape Game in Adelboden: Experience an exciting adventure with friends in a group.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_15_22_25_40027fc6d1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure"
+  ],
+  "featured": false
+}

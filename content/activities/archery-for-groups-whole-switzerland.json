@@ -1,0 +1,100 @@
+{
+  "id": "1058",
+  "slug": "archery-for-groups-whole-switzerland",
+  "name": "Archery for groups whole Switzerland",
+  "description": "Discover Archery for groups whole Switzerland in Switzerland.",
+  "longDescription": "Discover Archery for groups whole Switzerland in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "30614",
+    "title": "Shooting and Throwing Sports",
+    "slug": "shooting-and-throwing-sports",
+    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/archery-for-groups-whole-switzerland/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Archery in the mountain landscape in sunshine",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_6805_e61be77d8f.jpg"
+    },
+    {
+      "alternativeText": "Archery Switzerland, participant in kilt, grass landscape, 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/abc_1231_3e6f102d54.jpg"
+    },
+    {
+      "alternativeText": "Archery Switzerland: Man draws bow in sunny surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_bogenschiessen2_d98cf5014f.jpg"
+    },
+    {
+      "alternativeText": "Archery Switzerland: A person aims at the target while archery outdoors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bogenschiessenklein_293814521_277a0e81d3.gif"
+    },
+    {
+      "alternativeText": "Archery in Switzerland with arrows on target",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bogenschiessenklein466_1ccd390720.jpg"
+    },
+    {
+      "alternativeText": "Archery Switzerland with arrows in front of targets on green",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_2909_06615b98be.jpg"
+    },
+    {
+      "alternativeText": "Archery Switzerland: Target boards made of wood in nature. The target boards are clearly visible and surrounded by meadows and trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_6783_6c123704a4.jpg"
+    },
+    {
+      "alternativeText": "Archery Switzerland: Trainer for support, participant in sportswear, green environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dscpfeilbogen_f17b999bf0.jpg"
+    },
+    {
+      "alternativeText": "Archery Switzerland: Sportswoman aims with bow and arrow outdoors, green meadow, clear sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pfeilbogenschiessen2_da54f0b68a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

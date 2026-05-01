@@ -1,0 +1,113 @@
+{
+  "id": "780",
+  "slug": "ticket-stockhuette-emmetten",
+  "name": "Stockhütte Ticket from Emmetten",
+  "description": "Discover Stockhütte Ticket from Emmetten in Switzerland.",
+  "longDescription": "Discover Stockhütte Ticket from Emmetten in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/ticket-stockhuette-emmetten/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gondelbahn",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31009ddbd352a6af3d92fb044ea0be45.jpg"
+    },
+    {
+      "alternativeText": "Schlitteln",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c78a2f3a44d33a607cd032cbe88a481.jpg"
+    },
+    {
+      "alternativeText": "Gondelbahn Sommer",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/272bb95ed66e49489a49a8349f4ee3e8.jpg"
+    },
+    {
+      "alternativeText": "Bikeboarden",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ed77098cedf175dd9b3b2df1416ba79.jpg"
+    },
+    {
+      "alternativeText": "Gwundernasenweg",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b5567cf5cf94faf41df41e35e78ee704.jpg"
+    },
+    {
+      "alternativeText": "Schlitteln",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bfd07554c1415270f7e2bbe89138955a.jpg"
+    },
+    {
+      "alternativeText": "Bikeboard",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8a1bce81e6f1161efcae93d2c31cab28.jpg"
+    },
+    {
+      "alternativeText": "Wandern zur Klewenalp",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ca7f8e479f4090be0541e54c2558da5b.jpg"
+    },
+    {
+      "alternativeText": "Mountainbiken",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5bd87b4f940833ffe1f4ceaeee4bfed5.jpg"
+    },
+    {
+      "alternativeText": "Wandern",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f2f68d7e7e2db2d86afa0bd204405074.jpg"
+    },
+    {
+      "alternativeText": "Feuerstelle Stockhütte",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f1c777aed2d9ce640b52f22fce639222.jpg"
+    },
+    {
+      "alternativeText": "Gondelbahn im Winter",
+      "caption": "Emmetten-Stockhütte",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d3186fd7e7f290368d52b2391f584ec5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

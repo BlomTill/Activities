@@ -1,0 +1,80 @@
+{
+  "id": "169",
+  "slug": "private-hot-air-balloon-ride-in-the-seeland-region",
+  "name": "Private Hot Air Balloon Ride in the Seeland Region",
+  "description": "Discover Private Hot Air Balloon Ride in the Seeland Region in Switzerland.",
+  "longDescription": "Discover Private Hot Air Balloon Ride in the Seeland Region in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "44",
+    "title": "Ballooning",
+    "slug": "ballooning",
+    "description": "Book a hot air balloon ride in Switzerland. Since the first balloon went up over Basel in 1788, ballooning has been one of the most special experiences. You float almost silently over the mountains, lakes or cities and can see the world from a bird's eye view. You will enjoy views and a silence that you can only enjoy in a balloon. In good weather, balloon flights are possible all year round."
+  },
+  "location": {
+    "region": {
+      "id": "201",
+      "title": "Jura & Three-Lakes Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ballooning/private-hot-air-balloon-ride-in-the-seeland-region/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Hot-air-balloon_Ballooning_Panorama-3-Lakes_18",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/61e4b76183f27a1379370c2b6e7fa023.jpeg"
+    },
+    {
+      "alternativeText": "hot-air-balloon-ballooning-panorama-3-lakes-8",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b134bb2521127563336f61da718f124e.jpeg"
+    },
+    {
+      "alternativeText": "HotAirBalloon1_BalloonRide_Panorama-3-Lakes_10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6abab73cebf58ba42eebc432e6daa64e.jpg"
+    },
+    {
+      "alternativeText": "Hot-Air-Balloon_Ballooning_Panorama-3-Lakes_15",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7fb15d65f452d8723b78aea1eb14d113.jpeg"
+    },
+    {
+      "alternativeText": "hot-air-balloon-ballooning-panorama-3-lakes-30",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3b9220704fbc98c3a178cbc3a4c28b9d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

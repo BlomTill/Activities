@@ -1,0 +1,123 @@
+{
+  "id": "417",
+  "slug": "item-1772129737064-n4bup",
+  "name": "\"Iseltwald and Giessbach\" - explore Interlaken by e-bike",
+  "description": "Discover \"Iseltwald and Giessbach\" - explore Interlaken by e-bike in Switzerland.",
+  "longDescription": "Discover \"Iseltwald and Giessbach\" - explore Interlaken by e-bike in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/item-1772129737064-n4bup/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_7613",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4bab0290faf956f155264f258afa4971.jpg"
+    },
+    {
+      "alternativeText": "IMG_6675",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4256e0d60eeea86321d0e0d47ae25765.jpg"
+    },
+    {
+      "alternativeText": "IMG_6639",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f9e7532f6cd5bb32f889917b670c835.jpg"
+    },
+    {
+      "alternativeText": "IMG_6620",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3eacea32ac21ddfcfc84b3b81c58bd32.jpg"
+    },
+    {
+      "alternativeText": "IMG_6438",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c2cb74ca026c9851b8ff1644ae6b939c.jpg"
+    },
+    {
+      "alternativeText": "IMG_6211",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/79851c807ef5676927b71aacd5869e82.jpg"
+    },
+    {
+      "alternativeText": "IMG_6199",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a45bbf55fd72ffd161fde2bdc7f9f686.jpg"
+    },
+    {
+      "alternativeText": "IMG_6191_(1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6fced2b2f2febba92f12c951c7fdb704.jpg"
+    },
+    {
+      "alternativeText": "IMG_6169_(1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1d1805cfe55437ae603060785b9131c.jpg"
+    },
+    {
+      "alternativeText": "IMG_6136",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/81d423012a064a8fab9bfff0255111e3.jpg"
+    },
+    {
+      "alternativeText": "IMG_6132",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48cd1f1041b91a5b038bf09ca64e5622.jpg"
+    },
+    {
+      "alternativeText": "IMG_5392 (copy)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dbf5a837f22da7a6f8932f1d207d1793.jpg"
+    },
+    {
+      "alternativeText": "IMG_5364 (copy)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3e49026c004953cf76fb7dadcbff72db.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

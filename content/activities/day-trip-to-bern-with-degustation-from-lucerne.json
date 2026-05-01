@@ -1,0 +1,96 @@
+{
+  "id": "368",
+  "slug": "day-trip-to-bern-with-degustation-from-lucerne",
+  "name": "From Lucerne: Day trip to Berne with Kambly and cheese tasting",
+  "description": "Discover From Lucerne: Day trip to Berne with Kambly and cheese tasting in Switzerland.",
+  "longDescription": "Discover From Lucerne: Day trip to Berne with Kambly and cheese tasting in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/day-trip-to-bern-with-degustation-from-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bundeshaus Bern, impressive architecture, blue sky, sunny day.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bundeshaus_Best_of_Switzerland_Tours_d494fab597.jpg"
+    },
+    {
+      "alternativeText": "Day trip to Bern at sunrise, rural surroundings, tree and sign",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Landschaft_bei_Bern_Best_of_Switzerland_Tours_c248d225e0.jpg"
+    },
+    {
+      "alternativeText": "Kambly Tasting with two bakers and freshly baked cookies",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kambly_Degustation_Best_of_Switzerland_Tours_6e2c814208.jpg"
+    },
+    {
+      "alternativeText": "City view over Bern with river and bridges, spring, 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern_Best_of_Switzerland_Tours_c6284befa1.jpg"
+    },
+    {
+      "alternativeText": "Clock Tower in Bern shows the current time and surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_e1cac7d0b41c8aed2f9579a01d2cafa6_54414b3e9d.jpg"
+    },
+    {
+      "alternativeText": "Cheese display at Emmental Show Cheese Dairy, various cheese varieties, traditional craftsmanship",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_e12aecf68af870f1ec9ff2ae9f7102ef_9244fe2a1d.jpg"
+    },
+    {
+      "alternativeText": "Emmental cheese dairy shows cheese storage with cheese ripening",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schaukaeserei_Best_of_Switzerland_Tours_286a308f5d.jpg"
+    },
+    {
+      "alternativeText": "House in traditional Swiss style, flowers and woodpile",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_0101813ff4ec8d2c5f54d36e06e2ba8c_f1575c4129.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cheese",
+    "lucerne",
+    "bern"
+  ],
+  "featured": false
+}

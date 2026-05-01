@@ -1,0 +1,78 @@
+{
+  "id": "506",
+  "slug": "escape-room-outdoor-operation-mindfall-winterthur",
+  "name": "\"Operation Mindfall\" Outdoor Escape Mission Winterthur",
+  "description": "Discover \"Operation Mindfall\" Outdoor Escape Mission Winterthur in Switzerland.",
+  "longDescription": "Discover \"Operation Mindfall\" Outdoor Escape Mission Winterthur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/escape-room-outdoor-operation-mindfall-winterthur/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gruppe unterwegs  ",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4aaed9c18fc3bc2f1680500750543a2.jpg"
+    },
+    {
+      "alternativeText": "Mindfall",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/942b6e791d067095459ad4199b618f82.png"
+    },
+    {
+      "alternativeText": "Winterthur",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d48525b4e3d59f2860468f45c33a091.png"
+    },
+    {
+      "alternativeText": "Winterthur",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2dd17af2f50652468142e8c4deb5635b.jpg"
+    },
+    {
+      "alternativeText": "Winterthur",
+      "caption": "Escape Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45685b9a49b21381e7510a0c7b469fbe.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

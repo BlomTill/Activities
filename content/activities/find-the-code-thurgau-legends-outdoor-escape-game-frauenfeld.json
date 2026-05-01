@@ -1,0 +1,90 @@
+{
+  "id": "637",
+  "slug": "find-the-code-thurgau-legends-outdoor-escape-game-frauenfeld",
+  "name": "\"Find-the-Code: Thurgau Legends\" Outdoor Escape Game Frauenfeld",
+  "description": "Discover \"Find-the-Code: Thurgau Legends\" Outdoor Escape Game Frauenfeld in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Thurgau Legends\" Outdoor Escape Game Frauenfeld in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/find-the-code-thurgau-legends-outdoor-escape-game-frauenfeld/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-frauenfeld",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9a5d2d12ce372f204f5aad7298ccf6c.jpg"
+    },
+    {
+      "alternativeText": "group-hk-frontal-running",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dfbe5d4bdb997a6a423d9a8755729924.jpg"
+    },
+    {
+      "alternativeText": "Map1-Womenfield",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/75ae9a82d3c97ac96316e9ea98c5e1c8.jpg"
+    },
+    {
+      "alternativeText": "Map-Womenfield",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/03260044ee9ce38af6418dd2a30fdd66.jpg"
+    },
+    {
+      "alternativeText": "group_sideways_happily-chatting-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/95ba12348c0d98735c1439a821b25a42.jpg"
+    },
+    {
+      "alternativeText": "group-photo_hk_flowers_file_phone_neutral_",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/058dfa396447b954d3957123dfaaac6b.jpg"
+    },
+    {
+      "alternativeText": "group-photo-landscape__file_phone_neutral-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bd973a4ebe74ecc7cd004f85e2388577.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

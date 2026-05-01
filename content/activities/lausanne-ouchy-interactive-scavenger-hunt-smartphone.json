@@ -1,0 +1,89 @@
+{
+  "id": "598",
+  "slug": "lausanne-ouchy-interactive-scavenger-hunt-smartphone",
+  "name": "Lausanne Ouchy interactive scavenger hunt with smartphone",
+  "description": "Discover Lausanne Ouchy interactive scavenger hunt with smartphone in Switzerland.",
+  "longDescription": "Discover Lausanne Ouchy interactive scavenger hunt with smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/lausanne-ouchy-interactive-scavenger-hunt-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lausanne: Discover the elegant architecture of the Royal Savoy Hotel and the city life at Ouchy.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_1_EN_f3d5522e57.jpg"
+    },
+    {
+      "alternativeText": "Lausanne: Olympic timer with digital displays, ideal for sports enthusiasts and tourists.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_2_6d74759a9d.jpg"
+    },
+    {
+      "alternativeText": "Lausanne Ouchy: beautiful harbor view with water, boats, and birds in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_3_34d10c7c49.jpg"
+    },
+    {
+      "alternativeText": "Lausanne Ouchy: picturesque old town with historic buildings and beautiful lakeside. Experience the culture locally.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_4_d651a25ac7.jpg"
+    },
+    {
+      "alternativeText": "Lausanne Ouchy: Statue of a rider in nature with trees and a fresh atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_5_2e3975ce2c.jpg"
+    },
+    {
+      "alternativeText": "Lausanne Ouchy: Discover the Royal Savoy Hotel and the surroundings with artistic highlights.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_1_DE_cad3ae14e0.jpg"
+    },
+    {
+      "alternativeText": "Lausanne Ouchy: elegant buildings with sculpture, ideal for art lovers and romantic walks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_6_9b58a957b3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lausanne"
+  ],
+  "featured": false
+}

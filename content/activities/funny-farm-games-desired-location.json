@@ -1,0 +1,120 @@
+{
+  "id": "251",
+  "slug": "funny-farm-games-desired-location",
+  "name": "Funny Farm Games at the Desired Location",
+  "description": "Discover Funny Farm Games at the Desired Location in Switzerland.",
+  "longDescription": "Discover Funny Farm Games at the Desired Location in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "102",
+    "title": "Competition",
+    "slug": "competition",
+    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/competition/funny-farm-games-desired-location/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb58b98f5f96da9c29c2ee0a58e772ba.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24f881b44a428a8232bb52b731f74107.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f3a809eb8199386dd5c1480216efe58d.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9b3944722d07b04a0135cc0490871ce4.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2e9b48ee6a8952f535e3d72ec98ca95.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2648363b14862c33d4b5dc75020bc715.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aee91434fc396b6b03bc2b1ae8fbe2d4.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7337b73fa98b6c9e35cce9dfb0154fb.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b6937fd4414bf4842b27e578f2933393.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c1b0ff6e97f100f5d2f1436da46ec5b6.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b044a4f2d7483dec8d631ba0ed526683.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/348590c8198402e2521be36f995693e4.jpg"
+    },
+    {
+      "alternativeText": "Bauernspiele",
+      "caption": "Wettkampf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f547edb7e32f560c4e31c15deb703a29.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

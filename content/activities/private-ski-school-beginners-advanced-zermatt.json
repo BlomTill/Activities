@@ -1,0 +1,89 @@
+{
+  "id": "1077",
+  "slug": "private-ski-school-beginners-advanced-zermatt",
+  "name": "Private ski school for beginners and advanced in Zermatt",
+  "description": "Discover Private ski school for beginners and advanced in Zermatt in Switzerland.",
+  "longDescription": "Discover Private ski school for beginners and advanced in Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/private-ski-school-beginners-advanced-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gruppe Skifahrer",
+      "caption": "Skischule Zermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2be4bb2454e37d493abf150c1fc5210a.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer",
+      "caption": "Skischule Zermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/862805984a43182c5b4c83ab424611c4.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer",
+      "caption": "Skischule Zermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3abb962fc7b05a4afe1995f5409d8db.jpg"
+    },
+    {
+      "alternativeText": "Gruppe Skifahrer",
+      "caption": "Skischule Zermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6bc2f2f205a9a215dab2c7d6e5830050.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer",
+      "caption": "Skischule Zermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9c5e418c1a4d9ce6bda06bc33f84db75.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer",
+      "caption": "Skischule Zermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/170f2c453e0c03ea21838bb698311686.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer",
+      "caption": "Skischule Zermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09ec9a09d41d7aa2e4c9265fff17a03f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zermatt"
+  ],
+  "featured": false
+}

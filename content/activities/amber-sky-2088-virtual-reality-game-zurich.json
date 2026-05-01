@@ -1,0 +1,120 @@
+{
+  "id": "1350",
+  "slug": "amber-sky-2088-virtual-reality-game-zurich",
+  "name": "\"Amber Sky 2088\" virtual reality game in Zurich",
+  "description": "Discover \"Amber Sky 2088\" virtual reality game in Zurich in Switzerland.",
+  "longDescription": "Discover \"Amber Sky 2088\" virtual reality game in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/amber-sky-2088-virtual-reality-game-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Amber Sky: futuristic city with robots at sunset and modern architecture",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Amber_Sky_653db33585.png"
+    },
+    {
+      "alternativeText": "Battle: Intense fight between sci-fi characters in a futuristic setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_40_11_ac7de75bf7.png"
+    },
+    {
+      "alternativeText": "VR Experience: Team Plays with Virtual Reality Headsets in an Exciting Environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_39_18_603eaa33a9.png"
+    },
+    {
+      "alternativeText": "Amber Sky 2088: futuristic setting with robots and modern architecture, technology and science fiction",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_39_41_b680f2d4f2.png"
+    },
+    {
+      "alternativeText": "Amber Sky 2088: futuristic scenario with robots and a mysterious environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_39_55_8c44c35c22.png"
+    },
+    {
+      "alternativeText": "Amber Sky 2088: Group uses Virtual Reality for an exciting adventure with realistic weapons.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_40_26_04f52f3ece.png"
+    },
+    {
+      "alternativeText": "Amber Sky 2088: futuristic setting with robots and action elements in a digital world.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_42_37_363682f587.png"
+    },
+    {
+      "alternativeText": "Amber Sky 2088: futuristic city view with high altitude and impressive sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_40_47_cd44398624.png"
+    },
+    {
+      "alternativeText": "Amber Sky 2088: Experience thrilling virtual reality games with action and teamwork.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_41_03_4d921a0527.png"
+    },
+    {
+      "alternativeText": "Height: Visualization of 340 km in high technology with futuristic design",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_41_25_21ee000dc3.png"
+    },
+    {
+      "alternativeText": "Experience intense space battles with futuristic technologies and impressive spaceships in Amber Sky 2088.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_41_54_550861d79e.png"
+    },
+    {
+      "alternativeText": "Amber Sky 2088: Digital altitude display in futuristic design with implied spatial context.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_41_41_150d05d489.png"
+    },
+    {
+      "alternativeText": "Amber Sky 2088: exciting digital adventure in a futuristic environment with vibrant colors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_12_42_18_263ac19b58.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

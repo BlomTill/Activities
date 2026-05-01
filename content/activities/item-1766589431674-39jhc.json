@@ -1,0 +1,75 @@
+{
+  "id": "884",
+  "slug": "item-1766589431674-39jhc",
+  "name": "Snowshoeing and paragliding in Davos",
+  "description": "Discover Snowshoeing and paragliding in Davos in Switzerland.",
+  "longDescription": "Discover Snowshoeing and paragliding in Davos in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/item-1766589431674-39jhc/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "01 Snowshoes and flying",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/35cae8d3079e61663d3d0b68d1e33d47.jpg"
+    },
+    {
+      "alternativeText": "02 Snowshoes and Flying",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cb3f6c919610f52fa5a076fa4b79c30d.jpg"
+    },
+    {
+      "alternativeText": "03 Snowshoes and flying",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/78990a345198f68ba4feaeb6d030f69e.jpg"
+    },
+    {
+      "alternativeText": "04 Snowshoes and Flying",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2458b9ade347fdc060ee189ae1b5557c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "davos"
+  ],
+  "featured": false
+}

@@ -1,0 +1,107 @@
+{
+  "id": "839",
+  "slug": "bike-tour-winterlaken",
+  "name": "Winterlaken Bike Tour",
+  "description": "Discover Winterlaken Bike Tour in Switzerland.",
+  "longDescription": "Discover Winterlaken Bike Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "58",
+    "title": "Mountain bike",
+    "slug": "mountain-bike",
+    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/mountain-bike/bike-tour-winterlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bike tour: relaxed cycling trip over a wooden bridge in nature in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/163_A0426_1_a0dce8954d.jpeg"
+    },
+    {
+      "alternativeText": "Bike tour: Discover the picturesque village with cycling and historic buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/163_A0480_1_f0c079121f.jpeg"
+    },
+    {
+      "alternativeText": "Bike tour in the mountains: Scene with a bicycle by the lakeshore surrounded by nature and autumn colors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1236_e95b576550.jpeg"
+    },
+    {
+      "alternativeText": "Bike tour by the clear lake with modern bicycles and ducks in the background, enjoying nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1277_b75ffde0e4.jpeg"
+    },
+    {
+      "alternativeText": "Bike tour with friends in the city, cycling trip through the surroundings, ideal activity for groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1735_008c9846ce.jpeg"
+    },
+    {
+      "alternativeText": "Bike tour in the mountains with friends, surrounded by snowy landscapes in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_5646_3dddb1f1e0.jpeg"
+    },
+    {
+      "alternativeText": "Bike tour: Enjoy a coffee with friends by the lake in front of impressive mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMGP_7777_e8d3b53616.jpeg"
+    },
+    {
+      "alternativeText": "Bike tour by the lake with breathtaking nature and mountains in the background for active relaxation in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMGP_7769_6677b2d20a.jpeg"
+    },
+    {
+      "alternativeText": "Bike Tour: Bicycle by the lake in a winter landscape with snow-covered shores and mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMGP_7762_1_98a97a3e95.jpeg"
+    },
+    {
+      "alternativeText": "Bike tour: group admires the tranquil lake in nature during a summer cycling trip.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMGP_7752_c32bf1824a.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

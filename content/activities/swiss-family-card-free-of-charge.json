@@ -1,0 +1,111 @@
+{
+  "id": "1154",
+  "slug": "swiss-family-card-free-of-charge",
+  "name": "Swiss Family Card (free) for children aged 6 to 15",
+  "description": "Discover Swiss Family Card (free) for children aged 6 to 15 in Switzerland.",
+  "longDescription": "Discover Swiss Family Card (free) for children aged 6 to 15 in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "130",
+    "title": "Swiss Rail Passes",
+    "slug": "rail-pass",
+    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rail-pass/swiss-family-card-free-of-charge/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Train Travel: Family enjoys the view from the train of the Swiss landscape on a trip.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Zug_Klasse_Reisen_Swiss_Travel_System_1e1c3e5801.jpg"
+    },
+    {
+      "alternativeText": "Family outing: Children and parents wait at the Central Railway station for an unforgettable journey through Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/34_Familie_Ticket_Reisen_Swiss_Travel_System_54586c7f4c.jpg"
+    },
+    {
+      "alternativeText": "Family on the ship with a view of the mountains during the autumn holidays in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Herbstferien_Familie_auf_dem_Schiff_BLS_5987a6e791.jpg"
+    },
+    {
+      "alternativeText": "Zurich HB: vibrant station with travelers, trains, and modern ambiance in the city center",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_HB_Unsplash_33778997ba.jpg"
+    },
+    {
+      "alternativeText": "SBB Train: Modern train in motion, perfect for travel in Switzerland and environmentally friendly.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_Unsplash_e48bc8ea8a.jpg"
+    },
+    {
+      "alternativeText": "Vitznau Rack Railway: exciting ride with views of the mountains, ideal for families and groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_Vitznau_rack_railway_Schweiz_Tourismus_Christof_Sonderegger_794c47a1aa.jpg"
+    },
+    {
+      "alternativeText": "Bernina Express at Lago Bianco with mountains, blue sky, and water feature. Experience the beauty of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_beim_Lago_Bianco_Foto_Swiss_Travel_system_AG_0d284982ea.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen Kleine Scheidegg: picturesque mountain landscape with train and green meadows in summer, Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lauterbrunnen_Kleine_Scheidegg_Switzerland_Tourism_Markus_Aebischer_bd3c160556.jpg"
+    },
+    {
+      "alternativeText": "Stoosbahn: Winter landscape with snow-covered terrain and impressive mountains, ideal for skiing.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stoosbahn_Winter_Foto_Swiss_Travel_System_AG_38a8acd026.jpeg"
+    },
+    {
+      "alternativeText": "Steinerberg: Train journey through Eastern Switzerland with views of mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Be_526_Traverso_2019_05_Steinerberg_Voralpenexpress_Ostschweiz_Foto_Swiss_Travel_System_AG_51fee3ad9a.jpeg"
+    },
+    {
+      "alternativeText": "Bernina Express travels over the Landwasser Viaduct in Switzerland, surrounded by mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_auf_dem_Landwasserviadukt_Foto_Swiss_Travel_System_AG_b5761270a3.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "family"
+  ],
+  "featured": false
+}

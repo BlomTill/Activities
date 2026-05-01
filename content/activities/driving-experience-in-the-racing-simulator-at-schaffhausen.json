@@ -1,0 +1,82 @@
+{
+  "id": "982",
+  "slug": "driving-experience-in-the-racing-simulator-at-schaffhausen",
+  "name": "\"Driving Experience\" in the racing simulator at Schaffhausen",
+  "description": "Discover \"Driving Experience\" in the racing simulator at Schaffhausen in Switzerland.",
+  "longDescription": "Discover \"Driving Experience\" in the racing simulator at Schaffhausen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "30151",
+    "title": "Racing simulator",
+    "slug": "racing-simulator",
+    "description": "Experience the excitement of motorsport up close with a racing simulator. These state-of-the-art simulators offer you realistic driving simulations that are also used by professional racing drivers for training purposes. Immerse yourself in detailed replicas of real racetracks and vehicles and improve your driving skills and strategies in a safe, controlled environment. Enjoy lifelike graphics and physically precise driving dynamics, complemented by variable weather conditions. Give it a try and feel the thrill of motorsport."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/racing-simulator/driving-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 DSC03201",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c6042f1d62bb99e101675d28d558f05.JPG"
+    },
+    {
+      "alternativeText": "01 DSC_3535",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11671fd843df2258d34eabcd6940c789.JPG"
+    },
+    {
+      "alternativeText": "02 DSC03165",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2a19b009a802e2317640f68b6b89ac5.JPG"
+    },
+    {
+      "alternativeText": "03 DSC03086",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8ae8f55ff9d0a5a5046cedb9262513b7.JPG"
+    },
+    {
+      "alternativeText": "04 DSC_3510",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc96cce786a184128fd1ad5197fcb78b.JPG"
+    },
+    {
+      "alternativeText": "05 DSC03202",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7219af9e254b01b0277e0bff524f3af1.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

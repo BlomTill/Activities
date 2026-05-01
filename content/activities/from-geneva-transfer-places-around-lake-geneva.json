@@ -1,0 +1,96 @@
+{
+  "id": "1318",
+  "slug": "from-geneva-transfer-places-around-lake-geneva",
+  "name": "From Geneva or Geneva Airport: transfer to popular places around Lake Geneva",
+  "description": "Discover From Geneva or Geneva Airport: transfer to popular places around Lake Geneva in Switzerland.",
+  "longDescription": "Discover From Geneva or Geneva Airport: transfer to popular places around Lake Geneva in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "105",
+    "title": "Transfer",
+    "slug": "transfer",
+    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/transfer/from-geneva-transfer-places-around-lake-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Annecy: picturesque old town with water canal, old buildings, and cozy cafés",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Annecy_Pixabay_440e9b7e05.jpg"
+    },
+    {
+      "alternativeText": "Lausanne: impressive architecture with historic buildings and city views",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lausanne_Unsplash_fa57aff449.jpg"
+    },
+    {
+      "alternativeText": "Leysin: idyllic mountain hut in front of snow-covered peaks and breathtaking natural scenery.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Leysin_Unsplash_7f01a09af8.jpg"
+    },
+    {
+      "alternativeText": "Montreux: picturesque landscape on Lake Geneva with colorful flowers and mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Montreux_Pixabay_ad714b4e1a.jpg"
+    },
+    {
+      "alternativeText": "Evian: picturesque lakeside promenade on Lake Geneva with idyllic houses in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Evian_Unsplash_18e12daeab.jpg"
+    },
+    {
+      "alternativeText": "Divonne: view of the lake with green landscape and idyllic atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Divonne_Unsplash_4ea04b11dc.jpg"
+    },
+    {
+      "alternativeText": "Vevey: impressive fork by Lake Geneva with mountains and art in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Vevey_Unsplash_642a5c81d9.jpg"
+    },
+    {
+      "alternativeText": "Villars: Blooming meadows with mountains in the background in the summer landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Villars_Unsplash_bb07942d84.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "geneva"
+  ],
+  "featured": false
+}

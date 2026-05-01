@@ -1,0 +1,73 @@
+{
+  "id": "827",
+  "slug": "after-work-toeffli-tour",
+  "name": "Evening Scooter Ride 3 Hours",
+  "description": "Discover Evening Scooter Ride 3 Hours in Switzerland.",
+  "longDescription": "Discover Evening Scooter Ride 3 Hours in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "138",
+    "title": "Motorbike",
+    "slug": "motorbike",
+    "description": "Find your experience on a motorbike, moped or scooter here. Enjoy a motorized tour through nature with the feeling of freedom and adventure that you can't experience with a car. You can visit places that are easier to access on a motorcycle. You can hire a helmet and other equipment from most providers at the same time. So even if you decide spontaneously, nothing stands in the way of your special experience.\n"
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/motorbike/after-work-toeffli-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Fyrabig Tour: Women’s group on bicycles in nature, summer outdoor activity.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fyrabig_Tour_3_91c7c796ec.jpg"
+    },
+    {
+      "alternativeText": "Fyrabig Tour: Discover the landscape with friends during an exciting bike tour in autumn.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fyrabig_Tour_2_825dca139a.jpg"
+    },
+    {
+      "alternativeText": "Fyrabig Tour: cozy bike tour with friends in nature during cloudy-calm weather.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fyrabig_Tour_1_228c8da742.jpg"
+    },
+    {
+      "alternativeText": "Fyrabig Tour: Enjoy the sunset over the nature and gentle hills of the region.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fyrabig_Tour_4_c7cc470b97.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

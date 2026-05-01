@@ -1,0 +1,140 @@
+{
+  "id": "322",
+  "slug": "item-1771597329268-sg11g",
+  "name": "From Zurich: Excursion to Allalin and the World’s Highest Revolving Restaurant",
+  "description": "Discover From Zurich: Excursion to Allalin and the World’s Highest Revolving Restaurant in Switzerland.",
+  "longDescription": "Discover From Zurich: Excursion to Allalin and the World’s Highest Revolving Restaurant in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/item-1771597329268-sg11g/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c97db0e6afefaeb0fb3c26e121ab6d25.jpg"
+    },
+    {
+      "alternativeText": "20260205_114321",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8591007ce3aaddb75a17956b66772a8d.jpg"
+    },
+    {
+      "alternativeText": "7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ac2802a3c010e6f4a0ed4e8335123a17.jpg"
+    },
+    {
+      "alternativeText": "9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/315ddf6e5ee56a0baf2d767fef20254f.jpg"
+    },
+    {
+      "alternativeText": "20260205_122717",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1a693cf1a9a728aa8f80d75e190edc5b.jpg"
+    },
+    {
+      "alternativeText": "batch_20260205_135348",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/01ff899bd69d638a95f990a4953d8182.jpg"
+    },
+    {
+      "alternativeText": "batch_20260205_142738",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11883a6c9c91e4cc517cfc41d9f53a4d.jpg"
+    },
+    {
+      "alternativeText": "7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c91bf1262f906ff4f951769e71b65212.jpg"
+    },
+    {
+      "alternativeText": "9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cf2763393d62e8516246a322144ff720.jpg"
+    },
+    {
+      "alternativeText": "20260205_111339",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50be55db219b475f6567826a187ad02f.jpg"
+    },
+    {
+      "alternativeText": "20260205_120059",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd0178b476746214e3be86b8548c709d.jpg"
+    },
+    {
+      "alternativeText": "20260205_122717",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bea682db3ccfd20f04c1fe078fb2fa61.jpg"
+    },
+    {
+      "alternativeText": "20260205_122926",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f61e7fdf86fae76cbce6531976f73625.jpg"
+    },
+    {
+      "alternativeText": "20260205_135427",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb02a2407dc5b1dee9627b8f22d67198.jpg"
+    },
+    {
+      "alternativeText": "batch_8",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f83878ac767ef24e09bf14800ad681a.jpg"
+    },
+    {
+      "alternativeText": "batch_9",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2bcd6664e715f02f6858d13654103484.jpg"
+    },
+    {
+      "alternativeText": "batch_20260205_123152",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/625f7a35226c0de0f771661a6444ef6c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

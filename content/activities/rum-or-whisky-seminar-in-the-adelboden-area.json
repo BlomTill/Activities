@@ -1,0 +1,65 @@
+{
+  "id": "403",
+  "slug": "rum-or-whisky-seminar-in-the-adelboden-area",
+  "name": "Rum or Whisky seminar in the Adelboden area",
+  "description": "Discover Rum or Whisky seminar in the Adelboden area in Switzerland.",
+  "longDescription": "Discover Rum or Whisky seminar in the Adelboden area in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "145",
+    "title": "Distillery",
+    "slug": "distillery",
+    "description": "A visit to a distillery will give you an exciting insight into the art of making spirits. During a guided tour, you will get to know the various production areas. A knowledgeable member of staff will explain the process of making spirits from start to finish. You will learn which raw materials and ingredients are used to produce the spirits and what is involved in the distillation process. A highlight of the visit is the tasting of the distillery's products, where you will get to know their aromas, flavors and nuances under expert guidance.\n"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/distillery/rum-or-whisky-seminar-in-the-adelboden-area/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Rum Seminar Upstairs",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e6052ecc073fd3f8285f5a22a79fe536.jpg"
+    },
+    {
+      "alternativeText": "4Rum Whisky Seminar Upstairs",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1b875a9bcbb5410ed51473e2c064c2f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

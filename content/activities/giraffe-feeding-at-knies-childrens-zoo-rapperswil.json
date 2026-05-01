@@ -1,0 +1,67 @@
+{
+  "id": "1465",
+  "slug": "giraffe-feeding-at-knies-childrens-zoo-rapperswil",
+  "name": "Giraffe Feeding at Knies Children’s Zoo Rapperswil",
+  "description": "Discover Giraffe Feeding at Knies Children’s Zoo Rapperswil in Switzerland.",
+  "longDescription": "Discover Giraffe Feeding at Knies Children’s Zoo Rapperswil in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "129",
+    "title": "Zoo",
+    "slug": "zoo",
+    "description": "Book your ticket for the zoo here. There are more than 30 zoos and animal parks in Switzerland. Most of them offer a high variety of animals that you can visit and marvel at. The oldest and also the largest zoo in Switzerland is the Basel Zoo, founded in 1874. The \"Zolli\" is located in the middle of the city and is home to more than 600 species of animals. The large Zurich zoo is known for many exotic offspring and is also very popular. Unlike the zoos in the big cities, regional zoos often display animal species that live or have lived in the wild in Switzerland. A good example is the zoo in Goldau"
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/giraffe-feeding-at-knies-childrens-zoo-rapperswil/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "giraffe-knee-children-zoo-1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ae8bf19c04637d1c4595e29b1b9191e9.jpg"
+    },
+    {
+      "alternativeText": "527c45bb6827452d9740a47b8bc48e04",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/183c9837b7c848b332267fe3c4bb8e54.jpg"
+    },
+    {
+      "alternativeText": "giraffe-knee-children-zoo-3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f6afc93d599e893677f821f22da6ac9a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

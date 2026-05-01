@@ -1,0 +1,85 @@
+{
+  "id": "730",
+  "slug": "tapas-tour-visp",
+  "name": "Tapas Tour in Visp",
+  "description": "Discover Tapas Tour in Visp in Switzerland.",
+  "longDescription": "Discover Tapas Tour in Visp in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/tapas-tour-visp/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Tapas",
+      "caption": "Visp",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f099250102f99b3c275c61058b62dc1a.jpg"
+    },
+    {
+      "alternativeText": "Tapas",
+      "caption": "Visp",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e5db422fcbbfc0aa35fb4c7f68a852a.jpeg"
+    },
+    {
+      "alternativeText": "Tapas",
+      "caption": "Visp",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a36bd14381328d268dab38385feec1cf.jpeg"
+    },
+    {
+      "alternativeText": "Tapas",
+      "caption": "Visp",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8a842e3bb974cbc353e6272557236d1.jpeg"
+    },
+    {
+      "alternativeText": "Tapas",
+      "caption": "Visp",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a3601dbe3f1d5780881ab1969a51f3c.jpg"
+    },
+    {
+      "alternativeText": "Tapas",
+      "caption": "Visp",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c96bbef8f3b0d91f5acc6b3e2f489cb9.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

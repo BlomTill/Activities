@@ -1,0 +1,107 @@
+{
+  "id": "1174",
+  "slug": "zurich-old-town-stroll-boat-trip",
+  "name": "Zurich City Tour with Old Town Stroll and Boat Trip",
+  "description": "Discover Zurich City Tour with Old Town Stroll and Boat Trip in Switzerland.",
+  "longDescription": "Discover Zurich City Tour with Old Town Stroll and Boat Trip in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/zurich-old-town-stroll-boat-trip/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Zurich Old Town: guided tour with participants in front of the Water Cross and charming buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_csm_zurich_old_town_tour_guide_walking_tour_8d22ad8605_Kopie_3e4d5f8889.jpg"
+    },
+    {
+      "alternativeText": "Zürich Opera House: Magnificent building with fascinating architecture at Sechseläutenplatz in the city of Zurich.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_opera_house_sechselautenplatz_17af7be4ca_Kopie_d8ad3f2cfc.jpg"
+    },
+    {
+      "alternativeText": "Zurich: Boat dock at Bürkliplatz with a view of Lake Zurich and a boat. Nice weather.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_lake_cruise_buerkliplatz_harbour_4d7d0cd39e_Kopie_ace704db22.jpg"
+    },
+    {
+      "alternativeText": "Lake Zurich: Panoramic view with boat, cityscape, water, recreational activities, Zurich",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_lake_cruise_panoramic_views_243d2116a0_Kopie_26b8f0db32.jpg"
+    },
+    {
+      "alternativeText": "Zürich Old Town with Grossmünster, Limmat and swans, picturesque city view with historic charm.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_grossmunster_limmat_river_swans_fe51b74c8b_Kopie_871b2d22cc.jpg"
+    },
+    {
+      "alternativeText": "Zürich Old Town: Historical buildings on the Limmat with a view of the distinctive Zurich church tower",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_guild_house_limmat_7cbf465505_Kopie_0f665166eb.jpg"
+    },
+    {
+      "alternativeText": "Zurich Old Town: View of the Limmat and historical buildings, ideal for groups and adventures in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_limmat_aerial_view_0571f9723c_Kopie_e38a41a82e.jpg"
+    },
+    {
+      "alternativeText": "Zürich Old Town at Limmatquai with historic buildings and a view of the water, a popular spot for tourists.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_limmatquai_bf029463d7_Kopie_52d13a3ad0.jpg"
+    },
+    {
+      "alternativeText": "Münsterhof Zurich: Historic square with church and fountain, perfect for exploring the old town.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_muensterhof_square_fountain_cb44c04b5e_Kopie_feac566270.jpg"
+    },
+    {
+      "alternativeText": "Zurich Old Town: picturesque Limmat with boats, historic buildings and green trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_schipfe_limmat_c547f045e8_Kopie_920cc7643f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "boat"
+  ],
+  "featured": false
+}

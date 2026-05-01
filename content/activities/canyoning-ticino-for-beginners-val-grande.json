@@ -1,0 +1,181 @@
+{
+  "id": "208",
+  "slug": "canyoning-ticino-for-beginners-val-grande",
+  "name": "Maggiatal Val Grande canyoning for beginners",
+  "description": "Discover Maggiatal Val Grande canyoning for beginners in Switzerland.",
+  "longDescription": "Discover Maggiatal Val Grande canyoning for beginners in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-beginners-val-grande/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Canyoning in Val Grande with water fun and rocks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Val_Grande_Canyoning_c6f5f7941a.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal Val Grande: Experience adventure with friends in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_134_56453dd3b0.JPG"
+    },
+    {
+      "alternativeText": "Jumping in Val Grande while canyoning, slippery rocks, clear water spot",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Springen_Val_Grande_Canyoning_1b8da50258.jpg"
+    },
+    {
+      "alternativeText": "Abseiling at a waterfall in nature, sporting activity, summer 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_50e2bac31c294b77843264e9cfafeadd_ebf3a77719.jpg"
+    },
+    {
+      "alternativeText": "Canyoning: discover exciting waterfalls and breathtaking gorges in nature with our team.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_249_b1bd2fece6.JPG"
+    },
+    {
+      "alternativeText": "Rappelling in Val Grande in Nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_Val_Grande_9bbb87937a.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Val Grande with abseiling over a waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Val_Grande_Anfaenger_Canyoning_8a82f24d45.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Maggiatal: Experience thrilling adventures in the nature of Val Grande in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_9702_448c8a1cf6.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal: Experience the adventure with a team in summer in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_135_f0df21c30b.JPG"
+    },
+    {
+      "alternativeText": "Canyoning in the Maggiatal: Experience exciting adventures in nature and discover impressive gorges.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_136_c3be9bd3a0.JPG"
+    },
+    {
+      "alternativeText": "Canyoning Maggiatal: Experience thrilling adventures in nature in Val Grande.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_147_03bb780193.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in the Maggiatal, experience adventure in the gorges and impressive waterfalls.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_151_c81f6add86.JPG"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal: exciting adventures in the water surrounded by impressive nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_237_a3a957e6e9.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal with friends in nature with water slides and adventure in the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_239_97946dcee1.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in the Maggiatal Val Grande, experience exciting adventures in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_244_44f962689e.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal: Experience the thrill of rappelling down waterfalls and in the stunning nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_247_72545da096.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal: experience exciting adventures in nature and enjoy the water action.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_248_8055cff32a.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in the nature park with a group in crystal clear water, perfect for adventure seekers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_274_dd7e190bf8.JPG"
+    },
+    {
+      "alternativeText": "Canyoning: Experience thrilling adventures while rappelling into the clear waters of the gorge.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1370_16eb0abcac.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal: Experience adventure in the fascinating nature and enjoy the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_6918_5b73fa40e8.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal: Team in wetsuits by the river in summer, experience adventure and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_6934_7466afdb94.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal: thrilling climbing tour with friends in nature, ideal for adventure seekers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_6940_a40d000891.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in Maggiatal, experience adventure with friends in nature at thrilling gorges.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_6949_f2d723a04a.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Maggiatal: Adventure in Val Grande with team and groups in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_9681_d1a3e62eeb.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in the Maggiatal: exciting adventure in nature, suitable for groups and children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_9688_effdb02c49.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

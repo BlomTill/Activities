@@ -1,0 +1,97 @@
+{
+  "id": "1115",
+  "slug": "private-ski-school-beginners-experts-wengen",
+  "name": "Private ski school for all levels in Wengen",
+  "description": "Discover Private ski school for all levels in Wengen in Switzerland.",
+  "longDescription": "Discover Private ski school for all levels in Wengen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/private-ski-school-beginners-experts-wengen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Skilehrer mit Skifahrer",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0eafd8474d2269124c991e5cb007b60b.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06384ba03d074ccb427e3025acbc9d29.jpg"
+    },
+    {
+      "alternativeText": "Skilehrer mit Skifahrer",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e49812781efe41d64dd9825011fbfa3a.jpg"
+    },
+    {
+      "alternativeText": "Skilehrer mit Gruppe",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7c3557ac5af27c8de0e53da59275d306.jpg"
+    },
+    {
+      "alternativeText": "Skilehrer mit Skifahrer",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b70078fc5f938b86d01420ae236d0bc8.jpg"
+    },
+    {
+      "alternativeText": "Skilehrer mit Gruppe",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/597b1248920d78830b57aedea47c98bd.jpg"
+    },
+    {
+      "alternativeText": "Skilehrer mit Gruppe",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fcfc5264b96384d16b9a3945a07d414f.jpg"
+    },
+    {
+      "alternativeText": "Sessellift",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4f202ced3ac77c3cd8ac8e33bc6afde8.jpg"
+    },
+    {
+      "alternativeText": "Skilehrer mit Gruppe",
+      "caption": "Skigebiet Kleine Scheidegg",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5fca6feaff91611ad7c5015000962440.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

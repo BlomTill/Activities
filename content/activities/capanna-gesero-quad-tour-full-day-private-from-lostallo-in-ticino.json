@@ -1,0 +1,162 @@
+{
+  "id": "978",
+  "slug": "capanna-gesero-quad-tour-full-day-private-from-lostallo-in-ticino",
+  "name": "Capanna Gesero Quad Tour full day private from Lostallo in Ticino",
+  "description": "Discover Capanna Gesero Quad Tour full day private from Lostallo in Ticino in Switzerland.",
+  "longDescription": "Discover Capanna Gesero Quad Tour full day private from Lostallo in Ticino in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "63",
+    "title": "Quad",
+    "slug": "quad",
+    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/capanna-gesero-quad-tour-full-day-private-from-lostallo-in-ticino/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Quad Tour in Lostallo, Driver in Growth Environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Aussicht_HB_Adventure_bba63cb690.jpg"
+    },
+    {
+      "alternativeText": "Quad tour with an ATV in the fog over Lostallo, Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Aussicht2_HB_Adventure_2da982a2ed.jpg"
+    },
+    {
+      "alternativeText": "Quad Tour on Mountain Road with Quads in Lostallo, 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Bergstrasse_HB_Adventure_2b080e4c8b.jpg"
+    },
+    {
+      "alternativeText": "Quad tour with ATVs on unpaved roads in the Swiss Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Bergstrasse2_HB_Adventure_f0f4551f49.jpg"
+    },
+    {
+      "alternativeText": "Quad tour with quads in Lostallo, various vehicles in the forest",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Fahrzeuge_HB_Adventure_c4aea59fa2.jpg"
+    },
+    {
+      "alternativeText": "Quads are available for rent to explore the landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Fahrzeuge2_HB_Adventure_8169827a86.jpg"
+    },
+    {
+      "alternativeText": "ATV Introductory Tour with multiple Quads on Snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_ATV_Fahrt_HB_Adventure_c05c7be35b.jpg"
+    },
+    {
+      "alternativeText": "Quad tour with ATV in the mountains, group in red jackets, snow, winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_AT_Vs_HB_Adventure_21c7c3ace9.jpg"
+    },
+    {
+      "alternativeText": "ATVs on Snow at HB Adventure Switzerland. Winter Activities",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_Fahrzeuge_HB_Adventure_c990af29f1.jpg"
+    },
+    {
+      "alternativeText": "ATV taster tour, woman rides quad on snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_Frau_Auf_ATV_HB_Adventure_2a20a89eea.jpg"
+    },
+    {
+      "alternativeText": "Quad tour in the snow with drivers on all-terrain vehicles, hindered by snowdrifts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_Tour_HB_Adventure_5ea887666e.jpg"
+    },
+    {
+      "alternativeText": "ATV tour in the snow with two people on a quad.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_Zwei_Personen_ATV_HB_Adventure_f618baffd8.jpg"
+    },
+    {
+      "alternativeText": "Quad Tour on the Bernina Pass with Quads in the Snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Tour_Berninapass_ATV_HB_Adventure_11c541d8d6.jpg"
+    },
+    {
+      "alternativeText": "Quad Tour on the Bernina Pass with ATV, snow, and winter clothing",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Tour_Berninapass_ATV_2_HB_Adventure_3633212c64.jpg"
+    },
+    {
+      "alternativeText": "ATV tour on the snow-covered road at Bernina Pass.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Tour_Berninapass_ATV_Fahrt_HB_Adventure_9462c79767.jpg"
+    },
+    {
+      "alternativeText": "ATV tour at Bernina Pass with snow and quads.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Tour_Berninapass_ATV_Tour_HB_Adventure_24867472ff.jpg"
+    },
+    {
+      "alternativeText": "ATV Tour Bernina Pass with quads on snow, wintry landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Tour_Berninapass_Fahrzeugblick_HB_Adventure_c20a81c39f.jpg"
+    },
+    {
+      "alternativeText": "Quad tour with quads on the Bernina Pass in the snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Tour_Berninapass_Fahrzeug_Gruppe_HB_Adventure_8321748096.jpg"
+    },
+    {
+      "alternativeText": "Quad Tour on Splügen Pass with ATV through barren landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Spluegenpass_Bergstrasse_HB_Adventure_95fc22e6ab.jpg"
+    },
+    {
+      "alternativeText": "Quad tour on the Splügen Pass mountain road with a view of the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Spluegenpass_Bergstrasse2_HB_Adventure_80d0815ae9.jpg"
+    },
+    {
+      "alternativeText": "Quad tour on the Splügen Pass with statue in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Spluegenpass_Fahrzeug_HB_Adventure_f0a6caa552.jpg"
+    },
+    {
+      "alternativeText": "Quad tour along the nature road in the Splügen Pass with quads. Green terrain and mountain landscape visible.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Spluegenpass_Naturstrasse_HB_Adventure_8a09b340f2.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

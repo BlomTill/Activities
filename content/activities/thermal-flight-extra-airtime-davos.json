@@ -1,0 +1,81 @@
+{
+  "id": "883",
+  "slug": "thermal-flight-extra-airtime-davos",
+  "name": "Thermal flight Extra-Airtime Davos",
+  "description": "Discover Thermal flight Extra-Airtime Davos in Switzerland.",
+  "longDescription": "Discover Thermal flight Extra-Airtime Davos in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/thermal-flight-extra-airtime-davos/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Thermal flight in Davos, enjoy the view of the mountains and the impressive landscape in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_0d4531b8e2def6cabdd51a127a18a539_53608e11b5.jpg"
+    },
+    {
+      "alternativeText": "Thermal flight: Experience the unique flight over the snow-covered mountains of Davos.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_1ecd71419d31b21a8d48ffe79e762b53_7ed5b349d3.jpg"
+    },
+    {
+      "alternativeText": "Thermal flying in Davos with views of the mountain landscape and paragliders in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_03e44532590878c2316149e9aae318bf_06db6d8d36.jpg"
+    },
+    {
+      "alternativeText": "Thermal flight in Davos while paragliding over snow-covered mountains and a cheerful crowd",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_762db495e5bd6c970028ff19f16c9d62_5177e19414.jpg"
+    },
+    {
+      "alternativeText": "Thermal flight in Davos: Experience the paragliding view over the majestic mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_7463781969cb2bad1ef08f17a0bf8b0b_72cfb7e830.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "thermal",
+    "davos"
+  ],
+  "featured": false
+}

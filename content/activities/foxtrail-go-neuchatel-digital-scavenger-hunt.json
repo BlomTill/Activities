@@ -1,0 +1,75 @@
+{
+  "id": "622",
+  "slug": "foxtrail-go-neuchatel-digital-scavenger-hunt",
+  "name": "Foxtrail GO Neuchâtel digital scavenger hunt",
+  "description": "Discover Foxtrail GO Neuchâtel digital scavenger hunt in Switzerland.",
+  "longDescription": "Discover Foxtrail GO Neuchâtel digital scavenger hunt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "201",
+      "title": "Jura & Three-Lakes Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/foxtrail-go-neuchatel-digital-scavenger-hunt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "CoverImageNeuchatel_01",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e713f8f2d72171fb54b3ce122fe118ac.png"
+    },
+    {
+      "alternativeText": "looking-in_A02_1280x960",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0c18b42b63dfc056aab486d038a139d9.jpg"
+    },
+    {
+      "alternativeText": "Screenshot 2025-08-14 at 11:51:44 AM",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1674c481a4140da92cb9bf3852132d20.jpg"
+    },
+    {
+      "alternativeText": "Screenshot 2025-08-14 at 12:05:03 PM",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c6f327cb93f153aab9de230b165547e1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

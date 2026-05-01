@@ -1,0 +1,98 @@
+{
+  "id": "1301",
+  "slug": "rail-ticket-stgallen-wasserauen",
+  "name": "Rail ticket between St. Gallen and Wasserauen",
+  "description": "Discover Rail ticket between St. Gallen and Wasserauen in Switzerland.",
+  "longDescription": "Discover Rail ticket between St. Gallen and Wasserauen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/rail-ticket-stgallen-wasserauen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Zug Wasserauen: breathtaking landscape with green hills and railway tracks in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_Wasserauen_1_Seraina_3a9ba67a52.jpg"
+    },
+    {
+      "alternativeText": "Appenzellerbahn: Electric tram in urban transport, red, urban lifestyle.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Appenzellerbahn_Pixabay_cb249d290b.jpg"
+    },
+    {
+      "alternativeText": "Appenzellerbahn: Train ride through the picturesque Appenzellerland in winter with snow and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Appenzellerbahn_1_Pixabay_853758641e.jpg"
+    },
+    {
+      "alternativeText": "Appenzellerland: idyllic farm with cows in a green landscape in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Appenzellerland_Pixabay_f7f6368b1e.jpg"
+    },
+    {
+      "alternativeText": "Appenzellerland: idyllic landscape with green hills, mountains, and farms in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Appenzellerland_1_Pixabay_b403f8851f.jpg"
+    },
+    {
+      "alternativeText": "St. Gallen: Historical building with beautiful architecture in the city center.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/St_Gallen_Pixabay_1c229ca346.jpg"
+    },
+    {
+      "alternativeText": "St.Gallen: impressive city view with historical buildings and lively squares.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/St_Gallen_2_Seraina_5553ad5902.jpg"
+    },
+    {
+      "alternativeText": "Train Wasserauen: Train journey between mountains and nature in summer, ideal for trips and relaxation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_Wasserauen_2_Seraina_8ce98473c9.jpg"
+    },
+    {
+      "alternativeText": "Wasserauen: picturesque landscape with green meadows, mountains, and hikers in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wasserauen_Pixabay_4348d97776.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

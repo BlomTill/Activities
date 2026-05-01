@@ -1,0 +1,97 @@
+{
+  "id": "184",
+  "slug": "inflatable-boat-half-day-trip-reuss-from-bremgarten-to-mellingen",
+  "name": "Inflatable boat half-day trip Reuss from Bremgarten to Mellingen",
+  "description": "Discover Inflatable boat half-day trip Reuss from Bremgarten to Mellingen in Switzerland.",
+  "longDescription": "Discover Inflatable boat half-day trip Reuss from Bremgarten to Mellingen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "27",
+    "title": "Böötle",
+    "slug": "boeoetle",
+    "description": "Find the right river and book your Böötle experience here. Whether in the Aare, on the Limmat or on the Rhine, rafting is a leisure activity that is possible on almost every river and enjoys immense popularity in Switzerland. More and more providers make the boat available to you ready to float and pick it up again at the drop-off point. It is important to note that you should get off the boat in good time before dangerous places, power stations and weirs."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/boeoetle/inflatable-boat-half-day-trip-reuss-from-bremgarten-to-mellingen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Schlauchboot Reuss Swiss River Adventures (8)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/62c0304d1fdc9893d71976f9ab821660.jpg"
+    },
+    {
+      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (4)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f53c6a5fb0cbff724e856e9caac994e.jpg"
+    },
+    {
+      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (6)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0725417872c5076d4783d3c423aa082c.jpg"
+    },
+    {
+      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (7)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/88f4a96026c26d0bcfa233346efe8452.jpg"
+    },
+    {
+      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (10)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/75fa4a307aae25cad542711efe29756c.jpg"
+    },
+    {
+      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (15)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f36c68ea4ce568126f3369f0653ffa32.jpg"
+    },
+    {
+      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (17)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/970612da87b759800814d45b0177dbed.jpg"
+    },
+    {
+      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (28)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/14ffb5ddab94db155f0dd3155fbac992.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "boat"
+  ],
+  "featured": false
+}

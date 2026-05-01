@@ -1,0 +1,74 @@
+{
+  "id": "810",
+  "slug": "kayak-rental-lake-thun",
+  "name": "Kayak hire Lake Thun",
+  "description": "Discover Kayak hire Lake Thun in Switzerland.",
+  "longDescription": "Discover Kayak hire Lake Thun in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "26",
+    "title": "Kayak",
+    "slug": "kayak",
+    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/kayak/kayak-rental-lake-thun/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Thun Lake: Several kayaks on the water, outdoor activities at the lake, people kayaking.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f3fdac9d2000d5a63fed68d6636885a3.png"
+    },
+    {
+      "alternativeText": "Renting kayaks: multiple kayaks on Lake Thun for unforgettable summer experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9b2bed27f542e7b86d78af3611adf4b5.jpg"
+    },
+    {
+      "alternativeText": "Rent a kayak: enjoy multiple kayaks on Lake Thun and relaxed outings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/857f59b44cd68889aeb97c6932a342c3.jpg"
+    },
+    {
+      "alternativeText": "Rent a kayak: multiple kayaks on Lake Thun, a perfect leisure activity in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d77b238df29ee5cd70eee89ca7030bda.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

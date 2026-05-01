@@ -1,0 +1,80 @@
+{
+  "id": "625",
+  "slug": "operation-cheese-adventure-game-adelboden",
+  "name": "\"Operation Cheese\" - Adventure Game Adelboden",
+  "description": "Discover \"Operation Cheese\" - Adventure Game Adelboden in Switzerland.",
+  "longDescription": "Discover \"Operation Cheese\" - Adventure Game Adelboden in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/operation-cheese-adventure-game-adelboden/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Escape Game in Adelboden: Exciting Adventures for Groups and Children in Winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_15_59_22_4cfc5f6bb6.jpg"
+    },
+    {
+      "alternativeText": "Escape Game Adelboden: experience exciting adventures with the team in the picturesque mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_24_10_49_09_07d7cd76a3.jpg"
+    },
+    {
+      "alternativeText": "Escape Game: Exciting Adventure for Groups in Adelboden in the Heart of Nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_15_59_57_47717fa25a.jpg"
+    },
+    {
+      "alternativeText": "Escape Game in Adelboden: teamwork and adventure for groups, also ideal for children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_16_32_03_878784220f.jpg"
+    },
+    {
+      "alternativeText": "Escape Game Adelboden: Experience exciting adventures in nature and enjoy the mountains with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_15_22_39_4bcea1e373.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure",
+    "cheese"
+  ],
+  "featured": false
+}

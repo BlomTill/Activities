@@ -1,0 +1,98 @@
+{
+  "id": "1378",
+  "slug": "virtual-tour-guide-in-lauterbrunnen",
+  "name": "Virtual tour guide in Lauterbrunnen for one whole day",
+  "description": "Discover Virtual tour guide in Lauterbrunnen for one whole day in Switzerland.",
+  "longDescription": "Discover Virtual tour guide in Lauterbrunnen for one whole day in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "107",
+    "title": "Virtual Travel Companion",
+    "slug": "virtual-travel-companion",
+    "description": "Book a virtual escort for your tour to solve all questions and problems along the way. The virtual tour guide replaces a guide on the spot. You only use it when you actually need it. So you have a little security on difficult tours and still travel independently.\n"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-travel-companion/virtual-tour-guide-in-lauterbrunnen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Virtual travel companion in Lauterbrunnen shows a woodcut with a view of the valley. The place offers impressive views.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00031_40a2dece4c.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen, virtual travel companion with flowers in the foreground, church and mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00005_6da195b7ca.jpeg"
+    },
+    {
+      "alternativeText": "Dog sits in the tall grass and enjoys the nature of Lauterbrunnen",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00001_709f7e03cd.jpeg"
+    },
+    {
+      "alternativeText": "Virtual travel companion in Lauterbrunnen shows snow-covered mountains and green valleys.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00007_d99183020a.jpeg"
+    },
+    {
+      "alternativeText": "View from a wooden door onto the alpine landscape in Lauterbrunnen in 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00008_9774303921.jpeg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen with mountain view and wooden benches, quiet surroundings, summer 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00009_7469ee4acc.jpeg"
+    },
+    {
+      "alternativeText": "Virtual travel companion with bicycle in the green.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00010_56c10378e5.jpeg"
+    },
+    {
+      "alternativeText": "Virtual travel companion in Lauterbrunnen on a ladder, surrounded by green meadows and mountains. Outdoor activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00011_15b116a15e.jpeg"
+    },
+    {
+      "alternativeText": "Hiking in Lauterbrunnen, view of Lake Brienz, grassland, hiker with backpack.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00012_5bbc6083af.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

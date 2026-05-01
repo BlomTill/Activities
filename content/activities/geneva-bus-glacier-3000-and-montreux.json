@@ -1,0 +1,104 @@
+{
+  "id": "326",
+  "slug": "geneva-bus-glacier-3000-and-montreux",
+  "name": "From Geneva: Bus Tour Glacier 3000 with Cable Car and Montreux",
+  "description": "Discover From Geneva: Bus Tour Glacier 3000 with Cable Car and Montreux in Switzerland.",
+  "longDescription": "Discover From Geneva: Bus Tour Glacier 3000 with Cable Car and Montreux in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/geneva-bus-glacier-3000-and-montreux/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Glacier 3000 ",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0e69530bc2e29a4a05d77e0133433ad3.jpg"
+    },
+    {
+      "alternativeText": "Glacier 3000 Peak Walk",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b2b38aed24b56d44e1ddccabfa7fd49.jpg"
+    },
+    {
+      "alternativeText": "Glacier 3000 Peak Walk",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/25bec50af53867b8d85cc16b9742d47f.jpg"
+    },
+    {
+      "alternativeText": "Glacier 3000 Peak Walk",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b242052daac4b4ac2cdd4ca8c2bc291f.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f48c89a0338e0b4f01c5e094c0e0d4b5.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3678d71a8c406466ed08f5d40fa10549.jpg"
+    },
+    {
+      "alternativeText": "Glacier 3000 Peak Walk",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc6a0be726c06f851113e76dd290fb73.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f2b560d1e2dd34bef156911b8799714b.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 mit Seilbahn",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/218d255f56f14909181419b779c6b3fa.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "cable-car",
+    "geneva"
+  ],
+  "featured": false
+}

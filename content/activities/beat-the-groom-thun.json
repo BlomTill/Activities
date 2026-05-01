@@ -1,0 +1,77 @@
+{
+  "id": "567",
+  "slug": "beat-the-groom-thun",
+  "name": "\"Beat the groom\" in Thun: action-packed stag party",
+  "description": "Discover \"Beat the groom\" in Thun: action-packed stag party in Switzerland.",
+  "longDescription": "Discover \"Beat the groom\" in Thun: action-packed stag party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-thun/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bachelorette activities: Men are celebrating in yellow T-shirts with fun and drinks outdoors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_41c0d9680b.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bachelor: Group of friends by the water with beer, ideal for team activities in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_97b66abc5c.jpg"
+    },
+    {
+      "alternativeText": "Thun: picturesque old town with beautiful house facades and castle in the background at sunset",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Thun_1_Tanja_513cfa4957.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: exciting team games outdoors for groups in a green environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_6d3d9b2925.jpg"
+    },
+    {
+      "alternativeText": "Thun: Sunset over the city, waterways, residential buildings, and mountains surround the picturesque setting.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Thun_2_Tanja_f7a1680cdc.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

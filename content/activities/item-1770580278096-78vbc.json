@@ -1,0 +1,105 @@
+{
+  "id": "1225",
+  "slug": "item-1770580278096-78vbc",
+  "name": "Historical Old Town Tour of Basel",
+  "description": "Discover Historical Old Town Tour of Basel in Switzerland.",
+  "longDescription": "Discover Historical Old Town Tour of Basel in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "195",
+      "title": "Basel region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/item-1770580278096-78vbc/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Basel-archives-with-guide",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0703fc5eb9761d70d5590636e06299fd.jpg"
+    },
+    {
+      "alternativeText": "Basel-Tinguely-Fountain",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b96516ce4ce08fbd25953a2c4d1666e.jpg"
+    },
+    {
+      "alternativeText": "Basel-Town-Hall-City-Hall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aec711079cbb761b3759c2162a901094.jpg"
+    },
+    {
+      "alternativeText": "Munster Square",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b25ba2e79cc6ba05632adcbf93639479.jpg"
+    },
+    {
+      "alternativeText": "Basel-Rhine-River",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/679420c856857077a79c7751a8e88751.jpg"
+    },
+    {
+      "alternativeText": "Basel Roche Towers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/675a920ace17303c683fa9ae2c7a27df.jpg"
+    },
+    {
+      "alternativeText": "Basel-Munster-Interior",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fcf4e559a4b309bfe38a4d43e11cd21b.jpg"
+    },
+    {
+      "alternativeText": "Basel-Minster-Interior-Arches",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9f25a4f3740996ff8a30c55f0d374a66.jpg"
+    },
+    {
+      "alternativeText": "Basel-Munster-Fortune-Wheel",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86e08789eb9404174d51c2449618c204.jpg"
+    },
+    {
+      "alternativeText": "Basel-Minster-Closter-Path",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c45c4bdd23bb721e7e34aa3bda2d0d32.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

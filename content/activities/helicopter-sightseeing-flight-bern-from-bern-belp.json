@@ -1,0 +1,92 @@
+{
+  "id": "1028",
+  "slug": "helicopter-sightseeing-flight-bern-from-bern-belp",
+  "name": "Bern City Helicopter Flight 20 minutes",
+  "description": "Discover Bern City Helicopter Flight 20 minutes in Switzerland.",
+  "longDescription": "Discover Bern City Helicopter Flight 20 minutes in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-bern-from-bern-belp/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Helicopter sightseeing flight in Bern with two helicopters at the airfield",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_1ff31c681789304580056b926b0823f6_d99f7aac5b.jpg"
+    },
+    {
+      "alternativeText": "Helicopter flight over the blue sky 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Helikopter_1_3894afb705.webp"
+    },
+    {
+      "alternativeText": "City tour flight Bern with helicopter over the old town and Aare.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_281d692e49e71cb8dcdf5d12bad329c7_600f73cc67.jpg"
+    },
+    {
+      "alternativeText": "City helicopter tour Bern, view of the city and surroundings, flying perspective over the Aare.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_d9112f226ca8c576c68c93e8129c00e5_fada229aab.jpg"
+    },
+    {
+      "alternativeText": "City Tour Flight Bern by Helicopter, Aerial View of the Old Town and Aare",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_c571222434db827e093e10236e10df65_0dadd34eb0.jpg"
+    },
+    {
+      "alternativeText": "Helicopter tour over Bern, view of the Swiss Alps, clear sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Scenic_Flights_3_c841de5e2e.jpg"
+    },
+    {
+      "alternativeText": "Helicopter sightseeing flight over the mountains of Bern, clear visibility, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_21db6977e4a6c85c43d282a6685237b0_0ce536406f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bern"
+  ],
+  "featured": false
+}

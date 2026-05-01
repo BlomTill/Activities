@@ -1,0 +1,72 @@
+{
+  "id": "1273",
+  "slug": "romont-city-guided-tour-private",
+  "name": "Romont private city tour",
+  "description": "Discover Romont private city tour in Switzerland.",
+  "longDescription": "Discover Romont private city tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "197",
+      "title": "Fribourg region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/romont-city-guided-tour-private/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Romont: medieval gate surrounded by nature, ideal for group activities in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b5372c7541bb215d5780e7acefb7d1ba.jpg"
+    },
+    {
+      "alternativeText": "Romont: Experience a city tour with a group in the idyllic streets during summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/927e27ad79d6b2f8ce3506675c233ee9.jpg"
+    },
+    {
+      "alternativeText": "Romont: Experience tours in the cathedral with art, architecture, and history.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5a8b01c220ebdf8cdf5d9b4fbd788a9b.jpg"
+    },
+    {
+      "alternativeText": "Church: Interior view with colorful windows and visitors, romantic atmosphere in Romont.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bcbdef27c7c8a3b6bcd6cad91a692ac8.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

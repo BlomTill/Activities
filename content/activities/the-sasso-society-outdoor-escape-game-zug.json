@@ -1,0 +1,109 @@
+{
+  "id": "545",
+  "slug": "the-sasso-society-outdoor-escape-game-zug",
+  "name": "\"The Sasso Society\" Outdoor Escape Game Zug",
+  "description": "Discover \"The Sasso Society\" Outdoor Escape Game Zug in Switzerland.",
+  "longDescription": "Discover \"The Sasso Society\" Outdoor Escape Game Zug in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-sasso-society-outdoor-escape-game-zug/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sato Code: Woman showcases creative street artwork in urban environment, art, team, adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code2_3ff335f971.png"
+    },
+    {
+      "alternativeText": "Sato Code: impressive view through plant, detailed nature shot in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code1_374ecfd611.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: two people are looking at a graffiti on a wall in an urban environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code3_f64521e262.png"
+    },
+    {
+      "alternativeText": "Sato Code: Two people analyzing a code in an urban environment. City, interaction, technology, groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code4_40dce7c156.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Couple discovers plants in the city center, ideal for spring and summer activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code5_9799b5495d.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Person installs device at window - Technology, Tool, City, Activity",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code6_84d48f2931.png"
+    },
+    {
+      "alternativeText": "Sato Code: young woman with smartphone in urban environment, fashion, night, lifestyle",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code7_2792210a07.jpg"
+    },
+    {
+      "alternativeText": "Sato Code Zug: modern art pavilion by Lake Zug, ideal for group activities and nature experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug1_73a2e67f77.jpg"
+    },
+    {
+      "alternativeText": "Zug: Historic city center with picturesque views of the church tower and charming architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug2_eeaf469742.jpg"
+    },
+    {
+      "alternativeText": "Zug: Historic house in the romantic cityscape of Zug in autumn mood.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug3_9f6da98621.jpg"
+    },
+    {
+      "alternativeText": "Sato Code Zug: Modern architecture with a vibrant play of light at night, ideal for photography and architecture enthusiasts.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug4_897f21ec86.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

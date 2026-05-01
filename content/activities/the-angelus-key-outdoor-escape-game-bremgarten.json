@@ -1,0 +1,107 @@
+{
+  "id": "661",
+  "slug": "the-angelus-key-outdoor-escape-game-bremgarten",
+  "name": "\"The Angelus Key\" Outdoor Escape Game Bremgarten",
+  "description": "Discover \"The Angelus Key\" Outdoor Escape Game Bremgarten in Switzerland.",
+  "longDescription": "Discover \"The Angelus Key\" Outdoor Escape Game Bremgarten in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-angelus-key-outdoor-escape-game-bremgarten/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sato Code: Woman enthusiastically shows creative artwork in Bremgarten, ideal for group activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code2_53231bad25.png"
+    },
+    {
+      "alternativeText": "Sato Code: A man curiously explores plants in Bremgarten, with nature and discovery in focus.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code1_102f94feb9.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Discover the art at the graffiti wall in Bremgarten with friends, ideal for explorations.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code3_2e6117a0a1.png"
+    },
+    {
+      "alternativeText": "Sato Code: a creative couple explores an urban object in Bremgarten, creative and urban.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code4_984a9ad071.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Two people are examining a plant in Bremgarten, ideal for nature and group activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code5_348e8dbf57.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: A man installs a box in Bremgarten, active, urban, technology and craftsmanship.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code6_ec7ebaa63f.png"
+    },
+    {
+      "alternativeText": "Sato Code: Young woman with smartphone in glamorous outfit in a bustling environment at night.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code7_fc052a680b.jpg"
+    },
+    {
+      "alternativeText": "Bremgarten: picturesque old town with historical buildings and a visible waterfall. Ideal for relaxation and art.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bremgarten2_079581f32a.jpg"
+    },
+    {
+      "alternativeText": "Sato Code Bremgarten: picturesque old town with river and bridge in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bremgarten1_d7897218db.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Charming houses in Bremgarten with foliage and a cozy atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code_9_e95e44c164.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Discover the beautiful architecture in Bremgarten and enjoy the idyllic city surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code_8_e29ea9420b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

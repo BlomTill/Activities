@@ -1,0 +1,80 @@
+{
+  "id": "654",
+  "slug": "the-omega-codex-outdoor-escape-experience-schwyz",
+  "name": "\"The Omega Codex\" Outdoor Escape Experience Schwyz",
+  "description": "Discover \"The Omega Codex\" Outdoor Escape Experience Schwyz in Switzerland.",
+  "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Experience Schwyz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-omega-codex-outdoor-escape-experience-schwyz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Omega Codex",
+      "caption": "Escape Game Outdoor",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0599c005455f0f561fe4697c89699852.png"
+    },
+    {
+      "alternativeText": "Omega Codex",
+      "caption": "Escape Game Outdoor",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04365dc5533cc7249d40c26f3a695864.png"
+    },
+    {
+      "alternativeText": "Omega Codex",
+      "caption": "Escape Game Outdoor",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8505be96b80246f4c617c861d907efe9.png"
+    },
+    {
+      "alternativeText": "Omega Codex",
+      "caption": "Escape Game Outdoor",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02d9590ba22a2a0cceb4e027f9cac1ea.png"
+    },
+    {
+      "alternativeText": "Schwyz",
+      "caption": "Escape Game Outdoor",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aa0b2c065bb16f49c0281f6bb2368cb2.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

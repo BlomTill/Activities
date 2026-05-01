@@ -1,0 +1,84 @@
+{
+  "id": "339",
+  "slug": "from-geneva-winter-tour-of-chaplin-montreux-and-chillon",
+  "name": "From Geneva: Winter Tour of Chaplin, Montreux and Chillon",
+  "description": "Discover From Geneva: Winter Tour of Chaplin, Montreux and Chillon in Switzerland.",
+  "longDescription": "Discover From Geneva: Winter Tour of Chaplin, Montreux and Chillon in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-winter-tour-of-chaplin-montreux-and-chillon/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Snow Tour at Chillon Castle 2023, Winter Landscape by the Lake",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chateau_chillon50_2048_10_2_ff5889edf6.jpg"
+    },
+    {
+      "alternativeText": "Sculpture at Chillon with snow-covered mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chaplin_world7_2048_10_2_1f448d70a4.jpg"
+    },
+    {
+      "alternativeText": "Statue with snow-covered hat in winter in Chillon",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chaplin_world8_2048_10_2_7dc817edd0.jpg"
+    },
+    {
+      "alternativeText": "Chillon Castle on Lake Geneva in winter with boat dock",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chateau_chillon25_2048_10_2_09b9fe4d25.jpg"
+    },
+    {
+      "alternativeText": "Montreux Winter shows the clear lake with reflecting clouds and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_montreux_city3_2048_10_8_777fdd0d64.jpg"
+    },
+    {
+      "alternativeText": "Montreux  ",
+      "caption": "Chillon Tour Winter",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/336de3311e31bab2dae13a027ddd5eb0.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

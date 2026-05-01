@@ -1,0 +1,88 @@
+{
+  "id": "2",
+  "slug": "zermatt-matterhorn-glacier-paradise",
+  "name": "Matterhorn Glacier Paradise",
+  "description": "Europe's highest cable car station at 3,883m with breathtaking views of the Matterhorn.",
+  "longDescription": "Ascend to 3,883 meters on Europe's highest cable car station. The Matterhorn Glacier Paradise offers a 360° panoramic platform with views of 38 four-thousand-meter peaks across Switzerland, Italy, and France. Inside, explore the Glacier Palace with its ice sculptures and crystal chamber. In winter and spring, enjoy year-round skiing on the glacier.",
+  "category": "outdoor",
+  "subcategory": "Mountain Experience",
+  "location": {
+    "region": "Valais",
+    "canton": "Valais",
+    "city": "Zermatt",
+    "coordinates": {
+      "lat": 45.9763,
+      "lng": 7.6586
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Zermatt Bergbahnen",
+      "pricing": {
+        "child": 52,
+        "student": 85,
+        "adult": 105,
+        "senior": 95
+      },
+      "bookingUrl": "https://www.matterhornparadise.ch",
+      "rating": 4.8,
+      "description": "Official cable car operator"
+    },
+    {
+      "name": "Swiss Travel Pass",
+      "pricing": {
+        "child": 26,
+        "student": 42,
+        "adult": 52,
+        "senior": 47
+      },
+      "bookingUrl": "https://www.swiss-pass.ch",
+      "rating": 4.6,
+      "description": "50% discount with Swiss Travel Pass"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "4-6 hours",
+  "imageUrl": "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=1200&h=800&fit=crop",
+    "https://images.unsplash.com/photo-1581985781288-7a23834bed87?w=1200&h=800&fit=crop"
+  ],
+  "highlights": [
+    {
+      "label": "Altitude",
+      "value": "3,883m"
+    },
+    {
+      "label": "Transport",
+      "value": "Cable Car"
+    },
+    {
+      "label": "4000m Peaks",
+      "value": "38 visible"
+    },
+    {
+      "label": "Glacier Skiing",
+      "value": "Year-round"
+    },
+    {
+      "label": "Ice Palace",
+      "value": "Yes"
+    }
+  ],
+  "tags": [
+    "mountain",
+    "matterhorn",
+    "cable car",
+    "glacier",
+    "panorama"
+  ],
+  "featured": true
+}

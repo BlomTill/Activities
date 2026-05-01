@@ -1,0 +1,84 @@
+{
+  "id": "1112",
+  "slug": "private-premium-ski-course-adults-kids-andermatt",
+  "name": "Private premium ski lessons for adults and kids in Andermatt",
+  "description": "Discover Private premium ski lessons for adults and kids in Andermatt in Switzerland.",
+  "longDescription": "Discover Private premium ski lessons for adults and kids in Andermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/private-premium-ski-course-adults-kids-andermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Landschaft im Winter",
+      "caption": "Skigebiet Andermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dfd7d5873b3004c8e384a5bc30b0025a.jpg"
+    },
+    {
+      "alternativeText": "Landschaft im Winter",
+      "caption": "Skigebiet Andermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d82c853976cf0ae1d82f4783f4693715.jpg"
+    },
+    {
+      "alternativeText": "Skitransport",
+      "caption": "Skigebiet Andermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3fcf278e35214451e5b70b58cfe916c0.jpg"
+    },
+    {
+      "alternativeText": "Kind",
+      "caption": "Skigebiet Andermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ef75fd897cae47a2685324965fbda8d.jpg"
+    },
+    {
+      "alternativeText": "Landschaft im Winter",
+      "caption": "Skigebiet Andermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ca7500cb6940e710991db0ab1ad53b2.jpg"
+    },
+    {
+      "alternativeText": "Skifahrer Gruppe",
+      "caption": "Skigebiet Andermatt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3fb6d6495f7a558cd0312b32fcd4eff8.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "kids"
+  ],
+  "featured": false
+}

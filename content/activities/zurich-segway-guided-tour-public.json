@@ -1,0 +1,72 @@
+{
+  "id": "1051",
+  "slug": "zurich-segway-guided-tour-public",
+  "name": "Zurich Segway guided tour public",
+  "description": "Discover Zurich Segway guided tour public in Switzerland.",
+  "longDescription": "Discover Zurich Segway guided tour public in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "96",
+    "title": "Segway",
+    "slug": "segway",
+    "description": "Book a tour with the Segway and explore the city. With the maneuverable Segway, you can get to many places on a guided city tour that would not be accessible with a tour bus. At the same time, the visited radius is much larger than on a city tour on foot. The minimum age to ride a Segway in Switzerland is 14 years."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/segway/zurich-segway-guided-tour-public/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Segway Tour in Zurich: Experience an exciting city tour on the Segway in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_2_HB_Adventure_jpg_755425a731.jpg"
+    },
+    {
+      "alternativeText": "Segway Tour Zurich: Group on an exciting tour through the city with friends and team. Experience pure adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_HB_Adventure_86d953756d.jpg"
+    },
+    {
+      "alternativeText": "Segway Zurich: Experience the city tour with friends and family in front of the Dolder Grand",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_4_HB_Adventure_jpg_be7deb0c71.jpg"
+    },
+    {
+      "alternativeText": "Segway Tour Zurich: Experience exciting adventures in groups and discover the city in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_3_HB_Adventure_jpg_238a03ce71.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

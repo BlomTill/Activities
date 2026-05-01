@@ -1,0 +1,93 @@
+{
+  "id": "233",
+  "slug": "zurich-card-for-24-or-72-hours",
+  "name": "Zurich Card for 24 or 72 hours",
+  "description": "Discover Zurich Card for 24 or 72 hours in Switzerland.",
+  "longDescription": "Discover Zurich Card for 24 or 72 hours in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "115",
+    "title": "City Pass",
+    "slug": "the-city-pass",
+    "description": "Find the right City Pass for your travel plans. With a City Pass you have the opportunity to save money on various attractions in a city. City Pass discounts are offered by different organizations and for different purposes. For example, they apply to transportation tickets, museums, attractions or sports activities. (Photo: Giglio Pasqua , Switzerland Tourism)"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/the-city-pass/zurich-card-for-24-or-72-hours/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "City tour: Discover narrow alleys with groups and guides during your city exploration tour in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_Zuerich_Tourismus_3f7bad6ffe.jpg"
+    },
+    {
+      "alternativeText": "Museum Zurich: Discover impressive artworks in an inspiring gallery.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Museum_Zuerich_Tourismus_55d466d006.jpg"
+    },
+    {
+      "alternativeText": "Boat Zurich: Enjoy the city cruise on the water with views of the old town and church.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Schiff_Zuerich_Tourismus_4c7383f2bb.jpg"
+    },
+    {
+      "alternativeText": "Tram in Zurich in front of the main train station, lively city atmosphere and beautiful architecture",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Tram_Zuerich_Seraina_c4065041df.JPG"
+    },
+    {
+      "alternativeText": "Bürkliterrasse: Beautiful place to relax in Munich with people, trees, and artworks in autumn.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Buerkliterrasse_849af11c01.jpg"
+    },
+    {
+      "alternativeText": "Zürich Card: Experience transport, museums, restaurants, and much more in Zurich.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Card_Zuerich_Tourismus_e520dd13ab.jpg"
+    },
+    {
+      "alternativeText": "Zürich Bahnhof: modern travel with trains and a vibrant atmosphere in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Bahnhof_Zuerich_Seraina_7392cbec15.jpg"
+    },
+    {
+      "alternativeText": "Huerlimann Zurich: Relax in the exclusive spa with a modern indoor pool and stylish atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Huerlimann_Zuerich_Tourismus_f12ba44ebc.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

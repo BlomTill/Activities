@@ -1,0 +1,101 @@
+{
+  "id": "376",
+  "slug": "in-lausanne-bus-tour-to-interlaken-with-harder-kulm",
+  "name": "In Lausanne: Bus tour to Interlaken with Harder Kulm",
+  "description": "Discover In Lausanne: Bus tour to Interlaken with Harder Kulm in Switzerland.",
+  "longDescription": "Discover In Lausanne: Bus tour to Interlaken with Harder Kulm in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-interlaken-with-harder-kulm/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Harder Kulm: Enjoy the view of Lake Brienz and the surrounding mountains on your day tour.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d0e06bca38428b7836d52244ff7cb2e8.jpg"
+    },
+    {
+      "alternativeText": "Harder Kulm: View of the landscape, mountain lake and clouds, ideal for day trips in the summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d9c0938e9f764d18d4d55098246de695.jpg"
+    },
+    {
+      "alternativeText": "Harder Kulm",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/513c13928760755cc54f4061d8437d90.jpg"
+    },
+    {
+      "alternativeText": "Harder Kulm",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f743100a41091f8fb6ad4d04eb55b352.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: impressive view of the mountains and the lake on a day trip from Lausanne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dfe4111a497c885d4daddd336ca6a19a.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: picturesque mountain landscape and idyllic village in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3541938d087ff2717ecd8853709077f1.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a67abba18a631c2ebb3a2ab200c02c89.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/043f5166f684c2dbd6e61333f3bf82e1.jpg"
+    },
+    {
+      "alternativeText": "Lausanne: impressive city view with lake, mountains, and historical buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ce66762a136fd6e3c7ec65f1bf272dab.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken",
+    "lausanne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": "838",
+  "slug": "mountainbike-guided-zermatt",
+  "name": "Guided mountain bike tour in Zermatt private",
+  "description": "Discover Guided mountain bike tour in Zermatt private in Switzerland.",
+  "longDescription": "Discover Guided mountain bike tour in Zermatt private in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "58",
+    "title": "Mountain bike",
+    "slug": "mountain-bike",
+    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/mountain-bike/mountainbike-guided-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "MTB Guiding: guided bike tour with Matterhorn in the background in Zermatt, suitable for groups and children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3584fc607d13d7d3cefacbce621082d7.JPG"
+    },
+    {
+      "alternativeText": "MTB Guiding: guided bike tour in Zermatt with a group in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/671a2c28cd51a738e7f052f35b6a403a.JPG"
+    },
+    {
+      "alternativeText": "MTB Guiding: Guided bike tour in Zermatt by the glacier, ideal for adventure and nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/55544829fce046b820adbf16dddcf30e.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "mountain",
+    "zermatt"
+  ],
+  "featured": false
+}

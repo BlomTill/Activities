@@ -1,0 +1,152 @@
+{
+  "id": "353",
+  "slug": "from-geneva-winter-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy",
+  "name": "From Geneva: Winter Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy",
+  "description": "Discover From Geneva: Winter Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy in Switzerland.",
+  "longDescription": "Discover From Geneva: Winter Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-winter-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gruyères cheese dairy with cheese production and visitors",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/La_Maisondu_Gruyere_expo_galerie_fromagerie_c68a904f8e.JPG"
+    },
+    {
+      "alternativeText": "Show Dairy Gruyères with aged cheese and shelves.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14102206_ffc4f62c62.jpg"
+    },
+    {
+      "alternativeText": "Maison du Gruyère showcases the cheese dairy with cheese production in modern kettles.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20161002_142511_Maison_du_Gruyere_2166be432d.jpg"
+    },
+    {
+      "alternativeText": "Gruyère cheese storage with numerous cheese wheels, light walls and organized shelves.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/La_Maisondu_Gruyere_CAVE_02_WB_7aeb3ebbea.jpg"
+    },
+    {
+      "alternativeText": "Gruyères: Cheese production in the cheese factory, production of Gruyère cheese in a large container.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/La_Maisondu_Gruyere_DECAILLAGE_03_WP_ce87954f8f.jpg"
+    },
+    {
+      "alternativeText": "Gruyère cheese production in show cheese dairy, cheese master works on fresh cheese in the production process",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/La_Maisondu_Gruyere_DECAILLAGE_13_WP_95c117a8f4.jpg"
+    },
+    {
+      "alternativeText": "Admiring chocolate in Gruyères, children and adults in the tasting room.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Tasting_Room_Horizontal_HD_RVB_web_0d54578159.jpg"
+    },
+    {
+      "alternativeText": "Gruyères Chocolate Factory with Machines and Tools",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/18_Fabrik_2b1a6e78a2.jpg"
+    },
+    {
+      "alternativeText": "In the chocolate factory in Gruyères, pralines are produced.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/26_Produktion_Branchli_dc1047fa00.jpg"
+    },
+    {
+      "alternativeText": "Gruyères – Visitors enjoy the interactive chocolate factory, experiencing production and variety. No specific caption.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_350_Keytours_excursions_Swisstours_gruyeres_maison_cailler3_2048_10_c1506f0780.jpg"
+    },
+    {
+      "alternativeText": "Chocolate factory Cailler in Gruyères with clear blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_350_Keytours_excursions_Swisstours_gruyeres_maison_cailler4_2048_10_1b54e0d9f0.jpg"
+    },
+    {
+      "alternativeText": "Chocolate factory Maison Cailler, manufacturing process, children and adults work together.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Maison_Cailler_Atelierdu_Chocolat_caf9d10b95.jpg"
+    },
+    {
+      "alternativeText": "Gruyères: picturesque landscape with mountains, meadows, and historical buildings in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruyeres1_fa7f559035.jpg"
+    },
+    {
+      "alternativeText": "Gruyères: charming old town with historic buildings and colorful flowers, ideal for a city visit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruyeres2_b73738b39a.jpg"
+    },
+    {
+      "alternativeText": "Gruyeres: Idyllic street with buildings, tourists, and mountains in the background, summer enjoyment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruyeres3_f3f93979d4.jpg"
+    },
+    {
+      "alternativeText": "Gruyères: picturesque architecture with a view of the mountains and nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruyeres4_0038f50449.jpg"
+    },
+    {
+      "alternativeText": "Gruyeres: impressive castle with vineyards and a magnificent view, ideal for a summer visit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruyeres5_d1a2d30cbe.jpg"
+    },
+    {
+      "alternativeText": "Gruyeres: picturesque landscape with mountains and clouds over the town, ideal for nature lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruyeres6_8c3b686ece.jpg"
+    },
+    {
+      "alternativeText": "Gruyères city landscape: historical architecture and views of the mountains in Switzerland in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruyeres7_0d5e561917.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "cheese",
+    "geneva"
+  ],
+  "featured": false
+}

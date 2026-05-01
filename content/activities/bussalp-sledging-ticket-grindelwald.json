@@ -1,0 +1,119 @@
+{
+  "id": "1135",
+  "slug": "bussalp-sledging-ticket-grindelwald",
+  "name": "Bussalp sledging ticket from Grindelwald",
+  "description": "Discover Bussalp sledging ticket from Grindelwald in Switzerland.",
+  "longDescription": "Discover Bussalp sledging ticket from Grindelwald in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "31",
+    "title": "Sledding and bobsleighing",
+    "slug": "sledding",
+    "description": "Book your ticket here for tobogganing or bobsledding. Tobogganing is a blast in Switzerland. In each of the 345 ski resorts, you’ll find at least one toboggan run. Once you go tobogganing, you’ll be hooked. The crunching of the runners on fresh snow and the thrilling fun in the midst of a magical winter landscape has enchanted people since ancient times. In bobsledding, teams ride in special sleds called bobs down an icy bobsled track. There, they reach speeds of up to 150 km/h."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sledding/bussalp-sledging-ticket-grindelwald/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sledding in the Swiss winter landscape with a view of Eiger and Schreckhorn, family activity on snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_4_Personen_Eiger_Schreckhorn_Wetterhorm_Foto_Jungfraubahnen_AG_36c76a01b3.jpg"
+    },
+    {
+      "alternativeText": "Sledding with family in the mountains, stunning landscape, Eiger and Wetterhorn in winter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_2_Erwachsene_Eiger_Schreckhorn_Wetterhorn_Foto_Jungfraubahnen_AG_87d13c11ef.jpg"
+    },
+    {
+      "alternativeText": "Sledding in the mountains: Enjoy winter fun with family while descending.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_2_Erwachsene_Reeti_Foto_Jungfraubahnen_AG_bce13cc9c1.jpg"
+    },
+    {
+      "alternativeText": "Sledding: Family with children at the Eiger, Schreckhorn, and Wetterhorn in winter. Experience fun in the snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_2_Kinder_Eiger_Schreckhorn_Wetterhorn_Foto_Jungfraubahnen_AG_66dd9aba69.jpg"
+    },
+    {
+      "alternativeText": "Sledding with family at Schreckhorn, snow, mountain landscape, winter activity in nature paradise",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_2_Personen_Schreckhorn_Wetterhorn_Foto_Jungfraubahnen_AG_a7258ed240.jpg"
+    },
+    {
+      "alternativeText": "Experience: Family sledding in the Eiger ski region in winter with a view of majestic mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_3_Personen_Eiger_Foto_Jungfraubahnen_d234ef530b.jpg"
+    },
+    {
+      "alternativeText": "Sledding: Family in winter at Eiger on the slope with snow and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_4_Personen_Eiger_Foto_Jungfraubahnen_AG_3a6c9aea23.jpg"
+    },
+    {
+      "alternativeText": "Sledding: Joy in the snow with family. Winter activity in the Reeti mountains. Perfect for kids.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_4_Personen_von_vorn_Reeti_Foto_Jungfraubahnen_AG_7c77b74244.jpg"
+    },
+    {
+      "alternativeText": "Sledding with family at Schreckhorn, winter activity in the mountains. Popular family outing.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_4_Personen_weit_Schreckhorn_Foto_Jungfraubahnen_AG_3b35412ef9.jpg"
+    },
+    {
+      "alternativeText": "Tobogganing with family at Wetterhorn in winter. Fun in the snow for children and adults.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_4_Personen_Wetterhorn_Foto_Jungfraubahnen_AG_ae9affe3a7.jpg"
+    },
+    {
+      "alternativeText": "Sledding: Child with family in the mountains enjoying winter fun near the Eiger.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_Familie_Kind_Eiger_Schreckhorn_Wetterhorm_Foto_Jungfraubahnen_AG_27d52979d8.jpg"
+    },
+    {
+      "alternativeText": "Tobogganing with family at the Schreckhorn in winter with snow, mountains, and outdoor activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_laufen_Familie_4_Personen_Schreckhorn_Foto_Jungfraubahnen_AG_0e1e723029.jpg"
+    },
+    {
+      "alternativeText": "Sledding: Family with children enjoying winter, snow, and mountain landscape at the Schreckhorn.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/First_Schlitteln_laufen_seitlich_Familie_4_Personen_Schreckhorn_Foto_Jungfraubahnen_AG_e40160dbbc.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "grindelwald"
+  ],
+  "featured": false
+}

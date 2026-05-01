@@ -1,0 +1,103 @@
+{
+  "id": "916",
+  "slug": "matterhorn-paragliding-zermatt",
+  "name": "Paragliding “The Spectacular” in Zermatt",
+  "description": "Discover Paragliding “The Spectacular” in Zermatt in Switzerland.",
+  "longDescription": "Discover Paragliding “The Spectacular” in Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/matterhorn-paragliding-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Paraglider am Matterhorn",
+      "caption": "Gleitschirmfliegen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/690b06c7fbd7b43a3b7321845f8195d3.jpg"
+    },
+    {
+      "alternativeText": "Matterhorn Gleitschirmflug",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1676c08f01ae922a68d69c1cb4981da2.jpg"
+    },
+    {
+      "alternativeText": "Matterhorn Gleitschirmflug",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4b3aaf0bbe52ad76b01d600aacf3a508.jpg"
+    },
+    {
+      "alternativeText": "Matterhorn Gleitschirmflug",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c8f478a0821095dd368a48a76100c974.jpg"
+    },
+    {
+      "alternativeText": "Matterhorn Gleitschirmflug",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/90aef202a504048d515c48efff9233ae.JPG"
+    },
+    {
+      "alternativeText": "Matterhorn Gleitschirmflug",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c9fcdf68ffc3cf2425e8dfab0ecd3613.JPG"
+    },
+    {
+      "alternativeText": "Matterhorn Gleitschirmflug",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22905c842de2dad1a79c27f4118de98a.jpg"
+    },
+    {
+      "alternativeText": "Matterhorn Gleitschirmflug",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/92bc53f8f265318f5086335b83ac3834.jpg"
+    },
+    {
+      "alternativeText": "Matterhorn Gleitschirmflug",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/adc33a30cf9567d514b883f8dbc86f39.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "zermatt"
+  ],
+  "featured": false
+}

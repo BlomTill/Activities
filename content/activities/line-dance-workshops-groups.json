@@ -1,0 +1,72 @@
+{
+  "id": "268",
+  "slug": "line-dance-workshops-groups",
+  "name": "Line dance workshops for groups",
+  "description": "Discover Line dance workshops for groups in Switzerland.",
+  "longDescription": "Discover Line dance workshops for groups in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "146",
+    "title": "Dancing",
+    "slug": "dancing",
+    "description": "Dancing is fun and suitable for people of all ages who love movement. You will find a wide range of teaching options, from classical ballet to modern dance styles such as hip-hop or street dance. Dancing in groups is a great way to share the joy of dance and make new friends. They offer a supportive environment in which you can work on choreographies together and motivate each other. As well as giving you the opportunity to express yourself artistically, it's also a great way to de-stress and develop your own personality.  \n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/dancing/line-dance-workshops-groups/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Line Dance: Group activity for dancing with friends in a modern space",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_20240223_WA_0003_5650814776.jpg"
+    },
+    {
+      "alternativeText": "Line Dance: People dance synchronously outdoors, in jeans and boots, ideal group for dance events.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/LD_1_79e55121a4.jpg"
+    },
+    {
+      "alternativeText": "Line Dance: group activity in a room with participants dancing, community and movement.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_20240211_WA_0005_3c70abe76b.jpg"
+    },
+    {
+      "alternativeText": "Line Dance: Experience the rhythmic steps and movements in summer. Dance to captivating music.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dance_reduziert_125da0411b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

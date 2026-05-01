@@ -1,0 +1,1583 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>wander.ch — Find your perfect Swiss day out</title>
+<meta name="description" content="215 hand-picked Swiss adventures, scenic trains, hot springs and storybook villages — sorted by what's actually worth your francs."/>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;0,9..144,800;1,9..144,500;1,9..144,700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" />
+
+<style>
+  :root {
+    --bg: #FFF7EC;
+    --bg-2: #FFEFD6;
+    --ink: #1F2A2E;
+    --ink-soft: #4A5862;
+    --ink-mute: #7E8B92;
+    --line: #E9DFC8;
+    --card: #FFFDF6;
+    --accent: #E8634A;
+    --accent-2: #2E6F5E;
+    --accent-3: #F4B43E;
+    --sky: #6FB6D9;
+    --shadow-1: 0 1px 0 rgba(31,42,46,.04), 0 6px 18px -8px rgba(31,42,46,.18);
+    --shadow-2: 0 1px 0 rgba(31,42,46,.04), 0 22px 40px -18px rgba(31,42,46,.28);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg); color: var(--ink);
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    font-size: 16px; line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    transition: background-color .6s ease, color .6s ease;
+  }
+  ::selection { background: var(--accent); color: #fff; }
+  img { display: block; max-width: 100%; }
+  a { color: inherit; text-decoration: none; cursor: pointer; }
+  button { font-family: inherit; }
+
+  .display { font-family: 'Fraunces', Georgia, serif; font-weight: 700; letter-spacing: -0.02em; }
+  .mono    { font-family: 'JetBrains Mono', ui-monospace, monospace; }
+
+  .container { max-width: 1320px; margin: 0 auto; padding: 0 24px; }
+  @media (max-width: 720px) { .container { padding: 0 18px; } }
+
+  /* Buttons */
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 12px 18px; border-radius: 999px;
+    font: 600 14px/1 'Plus Jakarta Sans', sans-serif;
+    border: 1px solid transparent; cursor: pointer; user-select: none;
+    transition: transform .18s ease, background .18s, color .18s, border-color .18s, box-shadow .18s;
+    white-space: nowrap; position: relative; overflow: hidden;
+  }
+  .btn:active { transform: translateY(1px); }
+  .btn-primary { background: var(--accent); color: #fff; }
+  .btn-primary:hover { background: #d65541; box-shadow: 0 8px 20px -8px rgba(232,99,74,.6); }
+  .btn-ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+  .btn-ghost:hover { background: var(--card); border-color: var(--ink); }
+  .btn-dark { background: var(--ink); color: #fff; }
+  .btn-dark:hover { background: #2c3a40; }
+
+  .chip {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 9px 14px; border-radius: 999px;
+    font: 500 13.5px/1 'Plus Jakarta Sans';
+    background: var(--card); color: var(--ink-soft);
+    border: 1px solid var(--line); cursor: pointer;
+    transition: all .18s ease; white-space: nowrap;
+  }
+  .chip:hover { border-color: var(--ink); color: var(--ink); }
+  .chip[data-on="true"] { background: var(--ink); color: #fff; border-color: var(--ink); }
+
+  .tag {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 4px 10px; border-radius: 999px;
+    font: 600 11px/1 'Plus Jakarta Sans'; letter-spacing: .04em; text-transform: uppercase;
+    background: var(--bg-2); color: var(--accent-2);
+  }
+  .tag.coral { background: #FFE6DF; color: #b53d27; }
+  .tag.sky   { background: #E1F1F9; color: #2c6f8f; }
+  .tag.sun   { background: #FFF1CD; color: #8a5b06; }
+
+  .kicker {
+    font: 600 12px/1 'Plus Jakarta Sans'; letter-spacing: .18em; text-transform: uppercase;
+    color: var(--ink-mute);
+    display: inline-flex; align-items: center; gap: 10px;
+  }
+  .kicker .bar { width: 22px; height: 2px; background: var(--accent); border-radius: 2px; }
+
+  /* Header */
+  header.nav {
+    position: sticky; top: 0; z-index: 40;
+    backdrop-filter: blur(10px);
+    background: color-mix(in oklab, var(--bg) 78%, transparent);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-row { display: flex; align-items: center; justify-content: space-between; padding: 14px 24px; gap: 12px; }
+  .logo { display: flex; align-items: center; gap: 10px; }
+  .logo-mark {
+    width: 30px; height: 30px; border-radius: 9px;
+    background: var(--accent); color: #fff; display: grid; place-items: center;
+  }
+  .logo-text { font-family: 'Fraunces', serif; font-weight: 800; font-size: 19px; letter-spacing: -.02em; }
+  .logo-text .dot { color: var(--accent); }
+  .nav-links { display: flex; gap: 4px; align-items: center; }
+  .nav-links a {
+    padding: 9px 14px; border-radius: 999px;
+    font-weight: 600; font-size: 14px; color: var(--ink-soft);
+  }
+  .nav-links a.on { color: var(--ink); background: var(--bg-2); }
+  .nav-links a:hover { color: var(--ink); }
+  .nav-actions { display: flex; gap: 8px; align-items: center; }
+
+  /* Hero */
+  section.hero { position: relative; overflow: hidden; }
+  .sun-blob {
+    position: absolute; top: -120px; right: -120px;
+    width: 380px; height: 380px; border-radius: 50%;
+    background: radial-gradient(circle, var(--accent-3), transparent 60%);
+    opacity: .55; pointer-events: none;
+    animation: sunRise 2s cubic-bezier(.2,.7,.2,1) both;
+  }
+  @keyframes sunRise { 0% { transform: translateY(140px) scale(.85); opacity: 0; } 100% { transform: translateY(0) scale(1); opacity: 1; } }
+
+  .hero-grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: 56px; align-items: center; padding-top: 56px; padding-bottom: 28px; position: relative; }
+  .hero-title {
+    font-family: 'Fraunces', serif; font-weight: 700; letter-spacing: -.035em;
+    font-size: clamp(44px, 7vw, 92px); line-height: .98;
+    margin: 18px 0 18px;
+  }
+  .hero-title .line1 { display: inline-block; border-right: 3px solid var(--accent); white-space: nowrap; overflow: hidden; max-width: 0; animation: typewriter 1.1s steps(11, end) .2s forwards, blinkCaret .8s step-end infinite; }
+  .hero-title .line2 { display: block; font-style: italic; color: var(--accent); opacity: 0; transform: translateY(12px); animation: fadeUp .6s cubic-bezier(.2,.7,.2,1) 1.4s forwards; }
+  @keyframes typewriter { from { max-width: 0; } to { max-width: 100%; } }
+  @keyframes blinkCaret { 50% { border-right-color: transparent; } }
+
+  .hero-sub { font-size: 18px; color: var(--ink-soft); max-width: 520px; margin-bottom: 28px; }
+
+  .search-box {
+    display: flex; align-items: center; gap: 6px; padding: 8px;
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 999px; box-shadow: var(--shadow-2); max-width: 560px;
+  }
+  .search-box svg { margin-left: 8px; color: var(--ink-mute); }
+  .search-box input {
+    flex: 1; border: 0; outline: 0; background: transparent;
+    font-family: inherit; font-size: 15px; color: var(--ink); padding: 10px 4px;
+  }
+
+  .quick-row { display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap; }
+  .quick-label { align-self: center; font-size: 13px; color: var(--ink-mute); margin-right: 4px; }
+
+  .stats-row { display: flex; gap: 22px; margin-top: 28px; flex-wrap: wrap; }
+  .stat .v { font-family: 'Fraunces', serif; font-weight: 700; font-size: 22px; line-height: 1; }
+  .stat .l { font-size: 12px; color: var(--ink-mute); margin-top: 4px; }
+
+  /* Hero collage */
+  .hero-collage { position: relative; height: 540px; }
+  .postcard {
+    border: 6px solid #FFFDF6; border-radius: 26px;
+    overflow: hidden; box-shadow: var(--shadow-2);
+    position: absolute; background: #ddd;
+  }
+  .postcard img { width: 100%; height: 100%; object-fit: cover; }
+  .postcard .label {
+    position: absolute; left: 14px; bottom: 12px; color: #fff;
+    font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: .14em;
+    text-transform: uppercase; text-shadow: 0 1px 6px rgba(0,0,0,.5);
+  }
+  .pc-1 { top: 30px; right: 0; width: 82%; height: 360px; --rot: -3deg; transform: rotate(var(--rot)); animation: floaty 7s ease-in-out infinite; }
+  .pc-2 { bottom: 40px; left: 0; width: 220px; height: 180px; border-width: 5px; border-radius: 22px; --rot: 5deg; transform: rotate(var(--rot)); animation: floaty 7s ease-in-out infinite 1.5s; }
+  .pc-3 { bottom: 0; right: 50px; width: 180px; height: 140px; border-width: 5px; border-radius: 18px; --rot: -8deg; transform: rotate(var(--rot)); animation: floaty 7s ease-in-out infinite 3s; }
+  @keyframes floaty {
+    0%,100% { transform: translateY(0) rotate(var(--rot,0deg)); }
+    50%     { transform: translateY(-6px) rotate(var(--rot,0deg)); }
+  }
+
+  .sticker {
+    position: absolute; top: 0; left: 30px;
+    transform: rotate(-10deg);
+    background: #FFFDF6; border: 2px dashed var(--accent); color: var(--accent);
+    padding: 8px 14px; border-radius: 8px;
+    font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
+    box-shadow: var(--shadow-1); z-index: 2;
+  }
+  .price-tag {
+    position: absolute; top: 220px; left: -10px;
+    background: var(--ink); color: #fff;
+    padding: 10px 14px; border-radius: 14px;
+    box-shadow: var(--shadow-2);
+    font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: .06em;
+    --rot: 8deg; transform: rotate(var(--rot)); animation: floaty 7s ease-in-out infinite 2s; z-index: 2;
+  }
+  .price-tag .from { opacity: .65; font-size: 10px; text-transform: uppercase; }
+  .price-tag .v { font-size: 18px; font-weight: 700; }
+
+  /* Section wrappers */
+  section.block { padding: 72px 24px; }
+  .section-head { display: flex; justify-content: space-between; align-items: end; flex-wrap: wrap; gap: 16px; margin-bottom: 28px; }
+  .section-title {
+    font-family: 'Fraunces', serif; font-weight: 700; letter-spacing: -.02em;
+    font-size: clamp(30px, 4vw, 48px); line-height: 1.05; margin: 10px 0 0;
+  }
+  .section-title em { font-style: italic; color: var(--accent); }
+
+  /* Category strip */
+  .cat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+  .cat-card {
+    background: var(--card); border-radius: 22px;
+    border: 1px solid var(--line);
+    padding: 18px; display: flex; flex-direction: column; gap: 12px;
+    box-shadow: var(--shadow-1);
+    transition: transform .25s, box-shadow .25s, border-color .25s;
+  }
+  .cat-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-2); border-color: color-mix(in oklab, var(--accent) 30%, var(--line)); }
+  .cat-card .photo { height: 130px; border-radius: 14px; overflow: hidden; background: var(--bg-2); }
+  .cat-card .photo img { width: 100%; height: 100%; object-fit: cover; }
+  .cat-card .row { display: flex; justify-content: space-between; align-items: baseline; }
+  .cat-card .name { font-family: 'Fraunces', serif; font-weight: 700; font-size: 22px; line-height: 1.05; }
+  .cat-card .name em { font-style: italic; color: var(--ink-mute); }
+  .cat-card .num { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-mute); }
+  .cat-card .desc { font-size: 14px; color: var(--ink-soft); margin: 0; }
+  .cat-card .foot { display: flex; justify-content: space-between; align-items: center; margin-top: 4px; }
+  .cat-card .foot .browse { color: var(--accent); display: inline-flex; gap: 6px; align-items: center; font-weight: 600; font-size: 13px; }
+
+  /* Feature row */
+  .feature-grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: 48px; align-items: center; }
+  .feature-photo {
+    position: relative; aspect-ratio: 4/5; border-radius: 26px;
+    overflow: hidden; box-shadow: var(--shadow-2); background: var(--bg-2);
+  }
+  .feature-photo img { width: 100%; height: 100%; object-fit: cover; }
+  .feature-photo .badge { position: absolute; top: 16px; left: 16px; }
+  .feature-title-h { font-family: 'Fraunces', serif; font-weight: 700; font-size: clamp(36px, 5vw, 64px); line-height: 1.02; margin: 12px 0 6px; }
+  .feature-sub { font-family: 'Fraunces', serif; font-style: italic; color: var(--accent); font-weight: 500; font-size: 22px; margin: 0; }
+  .feature-desc { font-size: 17px; color: var(--ink-soft); line-height: 1.7; margin: 20px 0 26px; max-width: 520px; }
+  .facts-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: var(--line); border-radius: 18px; overflow: hidden; margin-bottom: 26px; }
+  .fact { background: var(--card); padding: 16px 18px; }
+  .fact .v { font-family: 'Fraunces', serif; font-weight: 700; font-size: 22px; line-height: 1; }
+  .fact .k { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-mute); margin-top: 6px; }
+
+  /* Itinerary teaser */
+  .itin-card {
+    background: var(--ink); color: #FFF7EC;
+    border-radius: 30px; padding: 44px 36px;
+    display: grid; grid-template-columns: 1.4fr 1fr; gap: 36px; align-items: center;
+    position: relative; overflow: hidden;
+  }
+  .itin-card .bg-img { position: absolute; inset: 0; opacity: .25; pointer-events: none; }
+  .itin-card .bg-img img { width: 100%; height: 100%; object-fit: cover; }
+  .itin-content { position: relative; }
+  .route { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+  .route .stop { background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.12); padding: 6px 12px; border-radius: 999px; font-size: 13px; }
+  .route .arrow { opacity: .5; }
+  .itin-photo { position: relative; aspect-ratio: 4/5; border-radius: 22px; overflow: hidden; box-shadow: var(--shadow-2); background: #555; }
+  .itin-photo img { width: 100%; height: 100%; object-fit: cover; }
+
+  /* Stories */
+  .stories-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; }
+  .story-card {
+    background: var(--card); border-radius: 22px; border: 1px solid var(--line);
+    padding: 16px; display: flex; flex-direction: column; gap: 12px;
+    box-shadow: var(--shadow-1);
+    transition: transform .25s, box-shadow .25s, border-color .25s;
+  }
+  .story-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-2); border-color: color-mix(in oklab, var(--accent) 30%, var(--line)); }
+  .story-card .photo { height: 160px; border-radius: 14px; overflow: hidden; background: var(--bg-2); }
+  .story-card .photo img { width: 100%; height: 100%; object-fit: cover; }
+  .story-card h3 { font-family: 'Fraunces', serif; font-size: 22px; line-height: 1.15; margin: 0; }
+
+  /* Footer */
+  footer { border-top: 1px solid var(--line); margin-top: 40px; }
+  .footer-grid { padding: 44px 24px; display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 32px; }
+  .footer-brand .name { font-family: 'Fraunces', serif; font-size: 24px; font-weight: 800; }
+  .footer-brand .name .dot { color: var(--accent); }
+  .footer-brand p { color: var(--ink-soft); font-size: 14px; margin-top: 8px; max-width: 320px; }
+  .footer-col .head { font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--ink-mute); margin-bottom: 12px; }
+  .footer-col a { display: block; padding: 5px 0; color: var(--ink-soft); font-size: 14px; }
+  .footer-bot { padding: 20px 24px; border-top: 1px solid var(--line); display: flex; justify-content: space-between; color: var(--ink-mute); font-size: 13px; flex-wrap: wrap; gap: 8px; }
+
+  /* Pager */
+  .pager {
+    position: fixed; bottom: 18px; left: 50%; transform: translateX(-50%);
+    background: rgba(31,42,46,.94); color: #fff;
+    border-radius: 999px; padding: 6px;
+    display: flex; gap: 4px; z-index: 60;
+    box-shadow: 0 12px 32px -10px rgba(31,42,46,.4);
+    backdrop-filter: blur(8px);
+  }
+  .pager button {
+    border: 0; background: transparent; color: #fff; opacity: .7;
+    padding: 9px 16px; border-radius: 999px; cursor: pointer;
+    font: 600 13px/1 'Plus Jakarta Sans';
+  }
+  .pager button.on { background: var(--accent); opacity: 1; }
+
+  /* Activities page */
+  .acts-head { padding: 32px 24px 12px; }
+  .acts-h1 { font-family: 'Fraunces', serif; font-weight: 700; font-size: clamp(38px, 5.5vw, 68px); line-height: 1.05; margin: 0 0 0.35em; padding-bottom: 0.12em; }
+  .acts-h1 em { font-style: italic; color: var(--accent); }
+  .acts-sub { color: var(--ink-soft); font-size: 16px; max-width: 360px; margin: 0; }
+
+  /* Trending strip */
+  .trending { padding: 16px 24px 0; }
+  .trending-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 10px; }
+  .trending-row { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px; }
+  .trending-row::-webkit-scrollbar { height: 6px; }
+  .trending-row::-webkit-scrollbar-thumb { background: var(--line); border-radius: 999px; }
+  .trending-card {
+    flex-shrink: 0; width: 220px; padding: 8px; border-radius: 16px;
+    background: var(--card); border: 1px solid var(--line);
+    display: flex; gap: 10px; align-items: center;
+    cursor: pointer; text-align: left;
+    transition: transform .2s, border-color .2s;
+  }
+  .trending-card:hover { transform: translateY(-2px); border-color: color-mix(in oklab, var(--accent) 30%, var(--line)); }
+  .trending-card .photo { width: 60px; height: 50px; border-radius: 10px; overflow: hidden; flex-shrink: 0; background: var(--bg-2); }
+  .trending-card .photo img { width: 100%; height: 100%; object-fit: cover; }
+  .trending-card .name { font-size: 13px; font-weight: 600; line-height: 1.2; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .trending-card .meta { font-size: 11px; color: var(--ink-mute); margin-top: 3px; }
+
+  /* Filter bar */
+  .filter-bar {
+    position: sticky; top: 60px; z-index: 30;
+    background: color-mix(in oklab, var(--bg) 92%, transparent);
+    backdrop-filter: blur(12px); border-bottom: 1px solid var(--line);
+  }
+  .fb-inner { padding: 16px 24px 12px; display: flex; flex-direction: column; gap: 12px; }
+  .fb-top { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  .fb-search {
+    display: flex; align-items: center; gap: 8px; padding: 8px 14px;
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 999px; flex: 1 1 280px; min-width: 0;
+  }
+  .fb-search input {
+    border: 0; outline: 0; background: transparent;
+    font-family: inherit; font-size: 15px; color: var(--ink);
+    padding: 6px 0; flex: 1; min-width: 0;
+  }
+  .view-toggle { display: flex; gap: 4px; padding: 4px; background: var(--card); border-radius: 999px; border: 1px solid var(--line); }
+  .view-toggle button {
+    border: 0; padding: 8px 12px; border-radius: 999px; cursor: pointer;
+    background: transparent; color: var(--ink-soft);
+    display: flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600;
+  }
+  .view-toggle button.on { background: var(--ink); color: #fff; }
+
+  .pill-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .pill {
+    padding: 10px 14px; border-radius: 999px; font-weight: 600; font-size: 13.5px;
+    background: var(--card); color: var(--ink); border: 1px solid var(--line);
+    cursor: pointer; display: inline-flex; align-items: center; gap: 8px;
+    transition: all .18s ease;
+  }
+  .pill:hover { border-color: var(--ink); }
+  .pill.on { background: var(--ink); color: #fff; border-color: var(--ink); }
+  .pill .count { background: var(--accent); color: #fff; border-radius: 999px; padding: 1px 7px; font-size: 11px; font-weight: 700; }
+  .pill.on .count { background: rgba(255,255,255,.22); }
+  .pill .chev { transition: transform .2s; display: inline-flex; }
+  .pill.open .chev { transform: rotate(180deg); }
+
+  .popover {
+    position: absolute; top: calc(100% + 8px); left: 0;
+    min-width: 260px; background: var(--card);
+    border: 1px solid var(--line); border-radius: 18px;
+    box-shadow: var(--shadow-2); padding: 10px; z-index: 50;
+    animation: popIn .18s cubic-bezier(.2,.7,.2,1);
+  }
+  @keyframes popIn { from { opacity: 0; transform: scale(.94); } to { opacity: 1; transform: scale(1); } }
+  .pill-wrap { position: relative; }
+
+  .check-list { display: flex; flex-direction: column; gap: 2px; max-height: 280px; overflow-y: auto; }
+  .check-item {
+    display: flex; align-items: center; gap: 10px;
+    padding: 9px 10px; border-radius: 10px; cursor: pointer;
+    background: transparent;
+  }
+  .check-item:hover { background: color-mix(in oklab, var(--bg-2) 50%, transparent); }
+  .check-item.on { background: var(--bg-2); }
+  .check-box {
+    width: 18px; height: 18px; border-radius: 6px;
+    border: 2px solid var(--line); background: transparent;
+    display: grid; place-items: center; transition: all .15s;
+  }
+  .check-item.on .check-box { border-color: var(--accent); background: var(--accent); }
+  .check-box svg { display: none; }
+  .check-item.on .check-box svg { display: block; }
+
+  .price-popover { padding: 8px 10px; }
+  .price-row { display: flex; justify-content: space-between; margin-bottom: 14px; font-weight: 600; }
+  .price-row .max { color: var(--accent); }
+  input[type="range"] { -webkit-appearance: none; appearance: none; width: 100%; height: 4px; border-radius: 999px; background: var(--line); outline: none; }
+  input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; width: 18px; height: 18px; border-radius: 50%; background: var(--accent); border: 2px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.25); cursor: pointer; }
+  input[type="range"]::-moz-range-thumb { width: 18px; height: 18px; border-radius: 50%; background: var(--accent); border: 2px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.25); cursor: pointer; }
+  .price-buckets { display: flex; gap: 6px; margin-top: 12px; flex-wrap: wrap; }
+
+  .active-chips { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; padding-top: 4px; }
+  .active-chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 5px 5px 5px 11px; border-radius: 999px;
+    background: var(--bg-2); color: var(--ink);
+    border: 0; font-family: inherit; font-size: 13px; font-weight: 500; cursor: pointer;
+    animation: popIn .25s cubic-bezier(.2,.7,.2,1);
+  }
+  .active-chip .x {
+    width: 18px; height: 18px; border-radius: 999px;
+    background: var(--ink); color: #fff;
+    display: grid; place-items: center;
+  }
+  .clear-all { border: 0; background: transparent; color: var(--accent); font-family: inherit; font-size: 13px; font-weight: 600; cursor: pointer; padding: 5px 8px; }
+
+  .results-row { display: flex; justify-content: space-between; align-items: center; padding-top: 4px; gap: 12px; flex-wrap: wrap; }
+  .results-count { color: var(--ink-soft); font-size: 14px; }
+  .results-count strong { color: var(--ink); }
+  .sort-tabs { display: flex; gap: 2px; padding: 3px; background: var(--bg-2); border-radius: 999px; }
+  .sort-tabs button {
+    border: 0; padding: 7px 14px; border-radius: 999px; cursor: pointer;
+    background: transparent; color: var(--ink-soft);
+    font-size: 13px; font-weight: 600;
+    transition: all .2s;
+  }
+  .sort-tabs button.on { background: var(--card); color: var(--ink); box-shadow: var(--shadow-1); }
+
+  /* Activity grid */
+  .acts-section { padding: 24px 24px 80px; }
+  .acts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(330px, 100%), 1fr));
+    gap: 18px;
+  }
+  .act-card {
+    background: var(--card); border-radius: 22px; border: 1px solid var(--line);
+    overflow: hidden; display: flex; flex-direction: column;
+    box-shadow: var(--shadow-1); cursor: pointer;
+    transition: transform .25s, box-shadow .25s, border-color .25s;
+    animation: cardIn .45s cubic-bezier(.2,.7,.2,1) both;
+  }
+  @keyframes cardIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+  .act-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-2); border-color: color-mix(in oklab, var(--accent) 30%, var(--line)); }
+  .act-card .img { position: relative; aspect-ratio: 16/11; overflow: hidden; background: var(--bg-2); }
+  .act-card .img img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
+  .act-card:hover .img img { transform: scale(1.05); }
+  .act-card .img-tags { position: absolute; top: 12px; left: 12px; display: flex; gap: 6px; }
+  .act-card .img-tags .tag { background: rgba(255,253,246,.92); color: var(--ink); backdrop-filter: blur(6px); }
+  .act-card .heart {
+    position: absolute; top: 10px; right: 10px; width: 36px; height: 36px;
+    border: 0; border-radius: 999px; cursor: pointer;
+    background: rgba(255,253,246,.92); color: var(--ink-soft);
+    display: grid; place-items: center;
+    box-shadow: 0 4px 14px -4px rgba(0,0,0,.25);
+    transition: transform .2s;
+  }
+  .act-card .heart.fav { color: var(--accent); transform: scale(1.08); }
+  .act-card .heart.pop { animation: heartPop .35s cubic-bezier(.2,.9,.3,1.4); }
+  @keyframes heartPop { 0% { transform: scale(1); } 35% { transform: scale(1.45); } 100% { transform: scale(1.08); } }
+  .act-card .price-pill {
+    position: absolute; bottom: 12px; right: 12px;
+    background: var(--ink); color: #fff;
+    padding: 6px 10px; border-radius: 999px;
+    font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 600;
+  }
+  .act-card .body { padding: 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+  .act-card .name { font-family: 'Fraunces', serif; font-size: 19px; line-height: 1.15; margin: 0; }
+  .act-card .meta { display: flex; flex-wrap: wrap; gap: 6px; color: var(--ink-soft); font-size: 13px; align-items: center; }
+  .act-card .meta .dot { color: var(--ink-mute); }
+  .act-card .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: auto; }
+  .act-card .foot { display: flex; justify-content: space-between; align-items: center; padding-top: 8px; border-top: 1px dashed var(--line); }
+  .act-card .rating { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--ink-soft); font-weight: 600; }
+  .act-card .rating .star { color: var(--accent-3); display: inline-flex; }
+  .act-card .reviews { color: var(--ink-mute); font-weight: 400; }
+  .crowd { display: inline-flex; align-items: center; gap: 5px; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; }
+  .crowd .indicator { width: 7px; height: 7px; border-radius: 999px; background: currentColor; box-shadow: 0 0 0 3px color-mix(in oklab, currentColor 20%, transparent); }
+  .crowd.busy { color: #b53d27; }
+  .crowd.moderate { color: #8a5b06; }
+  .crowd.quiet { color: var(--accent-2); }
+
+  /* Empty state */
+  .empty-state {
+    background: var(--card); border-radius: 22px; border: 1px dashed var(--line);
+    padding: 70px 24px; text-align: center; max-width: 520px; margin: 0 auto;
+  }
+  .empty-state .emoji { font-size: 48px; margin-bottom: 8px; }
+  .empty-state h3 { font-family: 'Fraunces', serif; font-size: 26px; margin: 0 0 8px; }
+
+  /* Map view */
+  .map-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 20px; }
+  .map-bg {
+    height: 600px; border-radius: 22px; position: relative; overflow: hidden;
+    border: 1px solid var(--line);
+    background:
+      radial-gradient(circle at 20% 30%, rgba(46,111,94,.15), transparent 40%),
+      radial-gradient(circle at 70% 70%, rgba(111,182,217,.20), transparent 45%),
+      repeating-linear-gradient(90deg, rgba(31,42,46,.04) 0 1px, transparent 1px 60px),
+      repeating-linear-gradient(0deg,  rgba(31,42,46,.04) 0 1px, transparent 1px 60px),
+      #EAF1EC;
+  }
+  .map-pin {
+    position: absolute;
+    transform: translate(-50%, -100%);
+    transition: transform .2s;
+    cursor: pointer;
+  }
+  .map-pin.on { transform: translate(-50%, -100%) scale(1.15); z-index: 5; }
+  .map-pin .price-pin {
+    background: var(--accent); color: #fff;
+    padding: 5px 9px; border-radius: 12px;
+    font-size: 12px; font-weight: 700;
+    box-shadow: 0 4px 14px -4px rgba(0,0,0,.4); white-space: nowrap;
+    font-family: 'JetBrains Mono', monospace;
+  }
+  .map-pin.on .price-pin { background: var(--ink); }
+  .map-pin .triangle {
+    width: 0; height: 0; margin: 0 auto;
+    border-left: 6px solid transparent; border-right: 6px solid transparent;
+    border-top: 8px solid var(--accent);
+  }
+  .map-pin.on .triangle { border-top-color: var(--ink); }
+
+  .map-list { display: flex; flex-direction: column; gap: 12px; max-height: 600px; overflow-y: auto; padding-right: 4px; }
+  .map-list-item { display: flex; gap: 12px; padding: 10px; border-radius: 16px; background: var(--card); border: 1px solid var(--line); transition: background .2s; }
+  .map-list-item.on { background: var(--bg-2); }
+  .map-list-item .photo { width: 86px; height: 70px; border-radius: 12px; overflow: hidden; flex-shrink: 0; background: var(--bg-2); }
+  .map-list-item .photo img { width: 100%; height: 100%; object-fit: cover; }
+  .map-list-item .name { font-family: 'Fraunces', serif; font-size: 15px; line-height: 1.2; margin-bottom: 4px; }
+
+  /* Confetti / easter eggs */
+  @keyframes fall { to { transform: translateY(110vh) rotate(720deg); } }
+  .confetti { position: fixed; top: -10px; width: 10px; height: 14px; z-index: 999; pointer-events: none; will-change: transform; animation: fall 4.2s linear forwards; }
+  @keyframes bannerSlide { from { transform: translateY(-100%); } to { transform: translateY(0); } }
+  .yodel-banner {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+    background: linear-gradient(90deg, var(--accent), var(--accent-3));
+    color: #fff; padding: 12px 18px; text-align: center;
+    font-weight: 700; letter-spacing: .04em; box-shadow: 0 6px 20px -6px rgba(0,0,0,.25);
+    animation: bannerSlide .4s cubic-bezier(.2,.7,.2,1);
+  }
+
+  /* Drifting clouds */
+  @keyframes drift { from { transform: translateX(-120%); } to { transform: translateX(120vw); } }
+  .cloud { position: absolute; opacity: .85; pointer-events: none; }
+  .cloud-1 { top: 8%;  width: 110px; animation: drift 60s linear infinite; }
+  .cloud-2 { top: 18%; width: 80px;  animation: drift 80s linear infinite; animation-delay: -25s; }
+
+  /* Ripple */
+  .ripple { position: absolute; border-radius: 50%; transform: scale(0); animation: rippleAnim .6s ease-out; background: rgba(255,255,255,.4); pointer-events: none; }
+  @keyframes rippleAnim { to { transform: scale(4); opacity: 0; } }
+
+  /* Dusk theme */
+  body[data-theme="dusk"] {
+    --bg: #16242A; --bg-2: #1E3239; --ink: #F2EBDA; --ink-soft: #C9C0AB;
+    --ink-mute: #8A8675; --line: #2A3E45; --card: #1B2C32;
+    --accent: #F4B43E; --accent-2: #7BC4A8; --accent-3: #E8634A;
+  }
+
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+  /* Responsive */
+  .show-mobile { display: none; }
+  @media (max-width: 820px) {
+    .hide-mobile { display: none !important; }
+    .show-mobile { display: inline-flex !important; }
+    .hero-grid { grid-template-columns: 1fr; gap: 24px; }
+    .hero-collage { height: 320px; }
+    .pc-1 { width: 78%; height: 220px; top: 0; }
+    .pc-2 { width: 130px; height: 100px; bottom: 20px; }
+    .pc-3 { width: 110px; height: 80px; bottom: 0; right: 20px; }
+    .price-tag { display: none; }
+    .feature-grid { grid-template-columns: 1fr; gap: 24px; }
+    .itin-card { grid-template-columns: 1fr; padding: 28px 20px; }
+    .map-grid { grid-template-columns: 1fr; }
+    .footer-grid { grid-template-columns: 1fr 1fr; }
+    section.block { padding: 48px 0; }
+  }
+</style>
+</head>
+<body data-theme="day">
+
+<!-- ───────── HEADER ───────── -->
+<header class="nav">
+  <div class="container nav-row">
+    <a class="logo" id="logo" href="#home">
+      <span class="logo-mark">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M3 20 9 9l4 6 3-4 5 9z"/></svg>
+      </span>
+      <span class="logo-text">wander<span class="dot">.</span>ch</span>
+    </a>
+    <nav class="nav-links hide-mobile" id="nav-links">
+      <a href="#activities" data-page="activities">Activities</a>
+      <a href="#home" data-page="home">Itineraries</a>
+      <a href="#home" data-page="home">Stories</a>
+      <a href="#home" data-page="home">Map</a>
+      <a href="#home" data-page="home">Deals</a>
+    </nav>
+    <div class="nav-actions">
+      <button class="btn btn-ghost hide-mobile" id="theme-toggle" aria-label="Toggle theme" title="Day / Dusk">
+        <svg id="theme-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5 19 19M5 19l1.5-1.5M17.5 6.5 19 5"/></svg>
+      </button>
+      <button class="btn btn-ghost hide-mobile">EN · CHF</button>
+      <button class="btn btn-primary" data-go="activities">Plan a trip
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- ───────── HOME PAGE ───────── -->
+<main id="home-page">
+  <!-- HERO -->
+  <section class="hero">
+    <div class="sun-blob"></div>
+    <svg class="cloud cloud-1" viewBox="0 0 120 50"><ellipse cx="30" cy="32" rx="22" ry="14" fill="#fff"/><ellipse cx="60" cy="28" rx="28" ry="18" fill="#fff"/><ellipse cx="90" cy="34" rx="20" ry="13" fill="#fff"/></svg>
+    <svg class="cloud cloud-2" viewBox="0 0 120 50"><ellipse cx="30" cy="32" rx="22" ry="14" fill="#fff"/><ellipse cx="60" cy="28" rx="28" ry="18" fill="#fff"/><ellipse cx="90" cy="34" rx="20" ry="13" fill="#fff"/></svg>
+
+    <div class="container">
+      <div class="hero-grid">
+        <div>
+          <span class="kicker"><span class="bar"></span>Switzerland · 215 experiences, real prices</span>
+          <h1 class="hero-title">
+            <span class="line1">Find your</span>
+            <em class="line2">Swiss day out.</em>
+          </h1>
+          <p class="hero-sub">Hand-picked alpine adventures, scenic trains, hot springs and storybook villages — sorted by what's actually worth your francs.</p>
+
+          <div class="search-box">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+            <input id="hero-search" placeholder="Try ‘paragliding’, ‘Zermatt’, or ‘rainy day’" />
+            <button class="btn btn-primary" id="hero-search-btn">Search</button>
+          </div>
+
+          <div class="quick-row">
+            <span class="quick-label">Popular:</span>
+            <a class="chip" data-quick="Hiking">Hiking</a>
+            <a class="chip" data-quick="Trains">Trains</a>
+            <a class="chip" data-quick="Wellness">Wellness</a>
+            <a class="chip" data-quick="Family">Family</a>
+            <a class="chip" data-quick="Free">Free</a>
+          </div>
+
+          <div class="stats-row">
+            <div class="stat"><div class="v">215</div><div class="l">experiences</div></div>
+            <div class="stat"><div class="v">26</div><div class="l">cantons</div></div>
+            <div class="stat"><div class="v">4.7★</div><div class="l">avg rating</div></div>
+            <div class="stat"><div class="v">CHF 0–500</div><div class="l">all budgets</div></div>
+          </div>
+        </div>
+
+        <div class="hero-collage">
+          <div class="postcard pc-1">
+            <img src="https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=900&q=80&auto=format&fit=crop" alt="Snowy alpine peaks above Lauterbrunnen valley" loading="eager"/>
+            <span class="label">Jungfraujoch · 3,454m</span>
+          </div>
+          <div class="postcard pc-2">
+            <img src="https://images.unsplash.com/photo-1502784444187-359ac186c5bb?w=600&q=80&auto=format&fit=crop" alt="Turquoise Lake Brienz with mountain backdrop" loading="lazy"/>
+            <span class="label">Lake Brienz</span>
+          </div>
+          <div class="postcard pc-3">
+            <img src="https://images.unsplash.com/photo-1551524559-8af4e6624178?w=500&q=80&auto=format&fit=crop" alt="Bachalpsee alpine lake mirror" loading="lazy"/>
+            <span class="label">Bachalpsee</span>
+          </div>
+          <div class="sticker">★ Hand-picked</div>
+          <div class="price-tag">
+            <div class="from">From</div>
+            <div class="v">CHF 0 ✦ Free</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORIES -->
+  <section class="block">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <span class="kicker"><span class="bar"></span>Browse by mood</span>
+          <h2 class="section-title">Pick a vibe. <em>We sort the rest.</em></h2>
+        </div>
+        <a class="btn btn-ghost" data-go="activities">See all 215
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        </a>
+      </div>
+
+      <div class="cat-grid" id="cat-grid"></div>
+    </div>
+  </section>
+
+  <!-- FEATURE -->
+  <section class="block">
+    <div class="container">
+      <div class="feature-grid">
+        <div class="feature-photo">
+          <img src="https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=900&q=80&auto=format&fit=crop" alt="Jungfraujoch — Top of Europe"/>
+          <div class="badge"><span class="tag coral" style="background: var(--ink); color: #fff;">✦ This month's pick</span></div>
+        </div>
+        <div>
+          <span class="kicker"><span class="bar"></span>Mountain experience</span>
+          <h2 class="feature-title-h">Jungfraujoch</h2>
+          <p class="feature-sub">Top of Europe</p>
+          <p class="feature-desc">A cogwheel train tunnels through the Eiger to reach the highest railway station in Europe. An ice palace carved into a glacier. The Aletsch — the longest glacier in the Alps — stretching to the horizon.</p>
+          <div class="facts-grid">
+            <div class="fact"><div class="v">3,454m</div><div class="k">Altitude</div></div>
+            <div class="fact"><div class="v">6–8h</div><div class="k">Full day</div></div>
+            <div class="fact"><div class="v">CHF 234</div><div class="k">From</div></div>
+            <div class="fact"><div class="v">★4.7</div><div class="k">2.8k reviews</div></div>
+          </div>
+          <a class="btn btn-dark">Book this experience
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ITINERARY -->
+  <section style="padding: 16px 0 72px;">
+    <div class="container">
+      <div class="itin-card">
+        <div class="bg-img"><img src="https://images.unsplash.com/photo-1543634806-d12bf25b8074?w=900&q=80&auto=format&fit=crop" alt=""/></div>
+        <div class="itin-content">
+          <span class="kicker" style="color: var(--accent-3);"><span class="bar" style="background: var(--accent-3);"></span>Curated route · 7 days</span>
+          <h2 class="section-title" style="color: #FFF7EC; font-size: clamp(34px, 4.4vw, 56px); margin: 12px 0 18px;">Classic <em style="color: var(--accent-3);">Switzerland</em></h2>
+          <div class="route">
+            <span class="stop">Zurich</span><span class="arrow">→</span>
+            <span class="stop">Lucerne</span><span class="arrow">→</span>
+            <span class="stop">Interlaken</span><span class="arrow">→</span>
+            <span class="stop">Zermatt</span><span class="arrow">→</span>
+            <span class="stop">Geneva</span>
+          </div>
+          <p style="color: rgba(255,247,236,.78); font-size: 15.5px; line-height: 1.7; max-width: 560px;">The definitive first-timer's route. Five cities, two iconic peaks, one legendary train ride, and a medieval castle on a lake. Budget to luxury: <strong style="color: #fff;">CHF 1,200 – 4,500</strong> per person.</p>
+          <div style="display: flex; gap: 10px; margin-top: 22px; flex-wrap: wrap;">
+            <a class="btn" style="background: var(--accent-3); color: #1F2A2E;">View itinerary
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+            </a>
+            <a class="btn" style="background: rgba(255,255,255,.1); color: #fff; border: 1px solid rgba(255,255,255,.18);">Customize</a>
+          </div>
+        </div>
+        <div class="itin-photo">
+          <img src="https://images.unsplash.com/photo-1560704198-d36d8836f1cd?w=600&q=80&auto=format&fit=crop" alt="Swiss train through Alps"/>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STORIES -->
+  <section style="padding: 16px 0 80px;">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <span class="kicker"><span class="bar"></span>Stories</span>
+          <h2 class="section-title">Read before <em>you go.</em></h2>
+        </div>
+        <a class="btn btn-ghost">All stories
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        </a>
+      </div>
+      <div class="stories-grid" id="stories-grid"></div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <div class="name">wander<span class="dot">.</span>ch</div>
+        <p>Independent guide to Swiss adventures. Honest prices, real reviews, no fluff.</p>
+      </div>
+      <div class="footer-col">
+        <div class="head">Discover</div>
+        <a>Activities</a><a>Itineraries</a><a>Stories</a><a>Map</a>
+      </div>
+      <div class="footer-col">
+        <div class="head">Plan</div>
+        <a>Budget</a><a>Compare</a><a>Travel passes</a>
+      </div>
+      <div class="footer-col">
+        <div class="head">About</div>
+        <a>Mission</a><a>Partners</a><a>Privacy</a><a>Contact</a>
+      </div>
+    </div>
+    <div class="container footer-bot">
+      <span>© 2026 wander.ch — independent · ad-free</span>
+      <span>Made in CH 🇨🇭 · 4 languages</span>
+    </div>
+  </footer>
+</main>
+
+<!-- ───────── ACTIVITIES PAGE ───────── -->
+<main id="activities-page" hidden>
+  <section class="container acts-head">
+    <span class="kicker"><span class="bar"></span>Activities</span>
+    <div style="display: flex; justify-content: space-between; align-items: end; flex-wrap: wrap; gap: 16px; margin-top: 10px;">
+      <h1 class="acts-h1">Find your <em>perfect day</em></h1>
+      <p class="acts-sub">215 hand-picked Swiss experiences. Filter by mood, season, weather, or budget — we'll do the matching.</p>
+    </div>
+  </section>
+
+  <div class="trending">
+    <div class="container">
+      <div class="trending-head">
+        <span class="kicker"><span class="bar"></span>Trending now</span>
+        <span style="font-size: 12px; color: var(--ink-mute);">Updated daily</span>
+      </div>
+      <div class="trending-row" id="trending-row"></div>
+    </div>
+  </div>
+
+  <div class="filter-bar">
+    <div class="container fb-inner">
+      <div class="fb-top">
+        <div class="fb-search">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="acts-search" placeholder="Search activities, cities, tags…"/>
+          <button id="search-clear" style="border:0;background:transparent;color:var(--ink-mute);cursor:pointer;display:none;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>
+          </button>
+        </div>
+        <button class="btn btn-ghost hide-mobile" id="best-now-btn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5 19 19M5 19l1.5-1.5M17.5 6.5 19 5"/></svg>
+          Best right now
+        </button>
+        <div class="view-toggle">
+          <button data-view="grid" class="on">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+            Grid
+          </button>
+          <button data-view="map">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2z"/><path d="M9 4v14M15 6v14"/></svg>
+            Map
+          </button>
+        </div>
+      </div>
+
+      <div class="pill-row hide-mobile" id="pill-row">
+        <!-- Pills injected by JS -->
+      </div>
+
+      <div class="active-chips" id="active-chips" hidden></div>
+
+      <div class="results-row">
+        <span class="results-count"><strong id="result-count">12</strong> <span id="result-word">experiences</span> match</span>
+        <div class="sort-tabs" id="sort-tabs">
+          <button data-sort="rating" class="on">Top rated</button>
+          <button data-sort="price-asc">Cheapest</button>
+          <button data-sort="price-desc">Premium</button>
+          <button data-sort="name">A → Z</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section class="container acts-section">
+    <div id="grid-view">
+      <div class="acts-grid" id="acts-grid"></div>
+      <div class="empty-state" id="empty-state" hidden>
+        <div class="emoji">🏔️</div>
+        <h3>No matches yet</h3>
+        <p style="color: var(--ink-soft); margin-bottom: 20px;">Try relaxing some filters.</p>
+        <button class="btn btn-primary" id="clear-empty">Clear all filters</button>
+      </div>
+    </div>
+    <div id="map-view" hidden>
+      <div class="map-grid">
+        <div class="map-bg" id="map-bg">
+          <svg viewBox="0 0 100 60" preserveAspectRatio="none" style="position: absolute; inset: 0; width: 100%; height: 100%; opacity: .2;">
+            <path d="M5,40 Q15,15 35,18 Q55,8 75,22 Q92,18 95,38 Q88,52 65,50 Q42,58 25,52 Q12,55 5,40Z" fill="var(--accent-2)" stroke="var(--accent-2)" stroke-width="0.4"/>
+          </svg>
+        </div>
+        <div class="map-list" id="map-list"></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <div class="name">wander<span class="dot">.</span>ch</div>
+        <p>Independent guide to Swiss adventures. Honest prices, real reviews, no fluff.</p>
+      </div>
+      <div class="footer-col"><div class="head">Discover</div><a>Activities</a><a>Itineraries</a><a>Stories</a><a>Map</a></div>
+      <div class="footer-col"><div class="head">Plan</div><a>Budget</a><a>Compare</a><a>Travel passes</a></div>
+      <div class="footer-col"><div class="head">About</div><a>Mission</a><a>Partners</a><a>Privacy</a><a>Contact</a></div>
+    </div>
+    <div class="container footer-bot">
+      <span>© 2026 wander.ch — independent · ad-free</span>
+      <span>Made in CH 🇨🇭 · 4 languages</span>
+    </div>
+  </footer>
+</main>
+
+<div class="pager">
+  <button id="pager-home" class="on">Home</button>
+  <button id="pager-acts">Activities</button>
+</div>
+
+<script>
+/* ───────── Data ───────── */
+const ACTIVITIES = [
+  {id:"jungfraujoch",name:"Jungfraujoch — Top of Europe",cat:"Mountain",tags:["Iconic","Glacier","Train"],region:"Bernese Oberland",city:"Interlaken",price:234,duration:"6–8h",rating:4.7,reviews:2841,season:["all"],indoor:false,
+    photo:"https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=700&q=80&auto=format&fit=crop"},
+  {id:"glacier-express",name:"Glacier Express",cat:"Train",tags:["Scenic","Panorama"],region:"Graubünden",city:"Zermatt → St. Moritz",price:159,duration:"8h",rating:4.8,reviews:1620,season:["all"],indoor:true,
+    photo:"https://images.unsplash.com/photo-1543349689-9a4d426bee8e?w=700&q=80&auto=format&fit=crop"},
+  {id:"paragliding-interlaken",name:"Paragliding over Lake Brienz",cat:"Adventure",tags:["Adrenaline","Lake"],region:"Bernese Oberland",city:"Interlaken",price:180,duration:"30 min",rating:4.9,reviews:3104,season:["spring","summer","autumn"],indoor:false,
+    photo:"https://images.unsplash.com/photo-1600618528240-fb9fc964b853?w=700&q=80&auto=format&fit=crop"},
+  {id:"chillon-castle",name:"Château de Chillon",cat:"Culture",tags:["Castle","Lake"],region:"Lake Geneva",city:"Montreux",price:13.5,duration:"2h",rating:4.6,reviews:4421,season:["all"],indoor:true,
+    photo:"https://images.unsplash.com/photo-1564507592333-c60657eea523?w=700&q=80&auto=format&fit=crop"},
+  {id:"thermal-leukerbad",name:"Leukerbad Thermal Baths",cat:"Wellness",tags:["Hot springs","Alpine"],region:"Valais",city:"Leukerbad",price:28,duration:"3h",rating:4.5,reviews:1110,season:["all"],indoor:true,
+    photo:"https://images.unsplash.com/photo-1540541338287-41700207dee6?w=700&q=80&auto=format&fit=crop"},
+  {id:"bachalpsee-hike",name:"Bachalpsee Alpine Lake Hike",cat:"Mountain",tags:["Hike","Lake","Free"],region:"Bernese Oberland",city:"Grindelwald",price:0,duration:"3h",rating:4.8,reviews:860,season:["summer","autumn"],indoor:false,
+    photo:"https://images.unsplash.com/photo-1551524559-8af4e6624178?w=700&q=80&auto=format&fit=crop"},
+  {id:"cabrio-stanserhorn",name:"CabriO Open-Air Cable Car",cat:"Mountain",tags:["Unique","Family"],region:"Central Switzerland",city:"Stans",price:82,duration:"3h",rating:4.7,reviews:612,season:["spring","summer","autumn"],indoor:false,
+    photo:"https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=700&q=80&auto=format&fit=crop"},
+  {id:"canyoning-saxetan",name:"Saxetan Canyoning",cat:"Adventure",tags:["Water","Adrenaline"],region:"Bernese Oberland",city:"Interlaken",price:135,duration:"4h",rating:4.8,reviews:401,season:["summer"],indoor:false,
+    photo:"https://images.unsplash.com/photo-1533230408708-8f9f91d1235a?w=700&q=80&auto=format&fit=crop"},
+  {id:"bernina-express",name:"Bernina Express",cat:"Train",tags:["UNESCO","Panorama"],region:"Graubünden",city:"Chur → Tirano",price:66,duration:"4h",rating:4.8,reviews:980,season:["all"],indoor:true,
+    photo:"https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=700&q=80&auto=format&fit=crop"},
+  {id:"cailler-chocolate",name:"Maison Cailler Chocolate Tour",cat:"Culture",tags:["Family","Tasty"],region:"Fribourg",city:"Broc",price:15,duration:"1.5h",rating:4.4,reviews:2710,season:["all"],indoor:true,
+    photo:"https://images.unsplash.com/photo-1481391319762-47dff72954d9?w=700&q=80&auto=format&fit=crop"},
+  {id:"vals-therme",name:"7132 Therme Vals",cat:"Wellness",tags:["Architecture","Premium"],region:"Graubünden",city:"Vals",price:80,duration:"3h",rating:4.7,reviews:540,season:["all"],indoor:true,
+    photo:"https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=700&q=80&auto=format&fit=crop"},
+  {id:"matterhorn-glacier",name:"Matterhorn Glacier Paradise",cat:"Mountain",tags:["Highest","Glacier"],region:"Valais",city:"Zermatt",price:120,duration:"4h",rating:4.6,reviews:1900,season:["all"],indoor:false,
+    photo:"https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=700&q=80&auto=format&fit=crop"},
+];
+
+const CATEGORIES = [
+  { num:"01", name:"Mountain", italic:"Experiences", count:45, desc:"Cable cars, peaks, glaciers.", photo:"https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=500&q=80&auto=format&fit=crop" },
+  { num:"02", name:"Adventure", italic:"& Thrills", count:32, desc:"Paragliding, canyoning, bungee.", photo:"https://images.unsplash.com/photo-1600618528240-fb9fc964b853?w=500&q=80&auto=format&fit=crop" },
+  { num:"03", name:"Scenic", italic:"Railways", count:8, desc:"Glacier Express & friends.", photo:"https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&q=80&auto=format&fit=crop" },
+  { num:"04", name:"Wellness", italic:"& Thermal", count:18, desc:"Hot springs in the Alps.", photo:"https://images.unsplash.com/photo-1540541338287-41700207dee6?w=500&q=80&auto=format&fit=crop" },
+  { num:"05", name:"Culture", italic:"& History", count:40, desc:"Castles, chocolate, four tongues.", photo:"https://images.unsplash.com/photo-1564507592333-c60657eea523?w=500&q=80&auto=format&fit=crop" },
+];
+
+const STORIES = [
+  { num:"01", tags:["Lakes","Nature"], title:"15 Most Beautiful Lakes in Switzerland", excerpt:"From the unreal turquoise of Lake Brienz to the remote tarn of Bachalpsee.", read:"8 min", photo:"https://images.unsplash.com/photo-1502784444187-359ac186c5bb?w=500&q=80&auto=format&fit=crop" },
+  { num:"02", tags:["Hidden Gems"], title:"9 Swiss Villages You Should Visit Instead", excerpt:"Grindelwald gets the crowds. These nine get the real Switzerland.", read:"12 min", photo:"https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=500&q=80&auto=format&fit=crop" },
+  { num:"03", tags:["Trains","Scenic"], title:"5 Most Scenic Train Rides — With Honest Prices", excerpt:"Which scenic trains are worth the supplement, and which ride free on a Swiss Pass.", read:"10 min", photo:"https://images.unsplash.com/photo-1543349689-9a4d426bee8e?w=500&q=80&auto=format&fit=crop" },
+];
+
+const REGIONS  = ["Bernese Oberland","Graubünden","Valais","Lake Geneva","Central Switzerland","Fribourg"];
+const CATS     = ["Mountain","Adventure","Train","Wellness","Culture"];
+const SEASONS  = ["Spring","Summer","Autumn","Winter"];
+const DURATIONS= [
+  { id: "<1h",   label: "Under 1 hour" },
+  { id: "half",  label: "Half-day (≤ 4h)" },
+  { id: "full",  label: "Full day" },
+  { id: "multi", label: "Multi-day" },
+];
+const WEATHERS = [
+  { id: "any", label: "Any weather" },
+  { id: "sun", label: "Sunny" },
+  { id: "rain", label: "Rainy day" },
+  { id: "indoor", label: "Indoor only" },
+];
+
+/* ───────── State ───────── */
+const state = {
+  page: "home",
+  q: "",
+  cats: [],
+  regions: [],
+  durations: [],
+  seasons: [],
+  weather: "any",
+  priceMax: 500,
+  sort: "rating",
+  view: "grid",
+  bestNow: false,
+  favs: new Set(),
+  openPill: null,
+  hoveredId: null,
+};
+
+const durationOf = (d) => {
+  if (/min/.test(d)) return "<1h";
+  const n = parseFloat(d);
+  if (Number.isNaN(n)) return "full";
+  if (n <= 1) return "<1h";
+  if (n <= 4) return "half";
+  if (n <= 12) return "full";
+  return "multi";
+};
+const crowdOf = (a) => {
+  if (a.reviews > 2500) return "busy";
+  if (a.reviews > 800)  return "moderate";
+  return "quiet";
+};
+
+/* ───────── URL ───────── */
+function readURL() {
+  const p = new URL(window.location.href).searchParams;
+  const arr = (k) => p.get(k) ? p.get(k).split(",").filter(Boolean) : [];
+  state.q = p.get("q") || "";
+  state.cats = arr("cat");
+  state.regions = arr("region");
+  state.durations = arr("dur");
+  state.seasons = arr("season");
+  state.weather = p.get("weather") || "any";
+  state.priceMax = p.get("priceMax") ? Number(p.get("priceMax")) : 500;
+  state.sort = p.get("sort") || "rating";
+  state.view = p.get("view") || "grid";
+  state.bestNow = p.get("now") === "1";
+}
+function writeURL() {
+  const u = new URL(window.location.href);
+  const set = (k, v) => {
+    if (Array.isArray(v) ? v.length : (v && v !== "")) {
+      u.searchParams.set(k, Array.isArray(v) ? v.join(",") : String(v));
+    } else {
+      u.searchParams.delete(k);
+    }
+  };
+  set("q", state.q);
+  set("cat", state.cats);
+  set("region", state.regions);
+  set("dur", state.durations);
+  set("season", state.seasons);
+  set("weather", state.weather === "any" ? "" : state.weather);
+  set("priceMax", state.priceMax === 500 ? "" : state.priceMax);
+  set("sort", state.sort === "rating" ? "" : state.sort);
+  set("view", state.view === "grid" ? "" : state.view);
+  set("now", state.bestNow ? "1" : "");
+  window.history.replaceState({}, "", u);
+}
+
+/* ───────── Filtering ───────── */
+function filterActivities() {
+  let r = [...ACTIVITIES];
+  if (state.q) {
+    const q = state.q.toLowerCase();
+    r = r.filter(a => (a.name + " " + a.city + " " + a.region + " " + a.tags.join(" ") + " " + a.cat).toLowerCase().includes(q));
+  }
+  if (state.cats.length) r = r.filter(a => state.cats.includes(a.cat));
+  if (state.regions.length) r = r.filter(a => state.regions.includes(a.region));
+  if (state.durations.length) r = r.filter(a => state.durations.includes(durationOf(a.duration)));
+  if (state.seasons.length) r = r.filter(a => state.seasons.some(s => a.season.includes(s.toLowerCase()) || a.season.includes("all")));
+  if (state.weather === "rain" || state.weather === "indoor") r = r.filter(a => a.indoor);
+  if (state.weather === "sun") r = r.filter(a => !a.indoor);
+  if (state.priceMax !== 500) r = r.filter(a => a.price <= state.priceMax);
+  if (state.bestNow) {
+    r = r.filter(a => a.season.includes("summer") || a.season.includes("all"));
+    r = r.filter(a => a.rating >= 4.6);
+  }
+  switch (state.sort) {
+    case "price-asc":  r.sort((a,b) => a.price - b.price); break;
+    case "price-desc": r.sort((a,b) => b.price - a.price); break;
+    case "name":       r.sort((a,b) => a.name.localeCompare(b.name)); break;
+    default:           r.sort((a,b) => b.rating - a.rating);
+  }
+  return r;
+}
+
+/* ───────── Renderers ───────── */
+function el(tag, attrs = {}, ...children) {
+  const e = document.createElement(tag);
+  for (const k in attrs) {
+    if (k === "class") e.className = attrs[k];
+    else if (k === "html") e.innerHTML = attrs[k];
+    else if (k.startsWith("on")) e.addEventListener(k.slice(2).toLowerCase(), attrs[k]);
+    else if (attrs[k] !== false && attrs[k] != null) e.setAttribute(k, attrs[k]);
+  }
+  for (const c of children.flat()) {
+    if (c == null || c === false) continue;
+    if (typeof c === "string") e.appendChild(document.createTextNode(c));
+    else e.appendChild(c);
+  }
+  return e;
+}
+
+function renderCategories() {
+  const grid = document.getElementById("cat-grid");
+  grid.innerHTML = "";
+  CATEGORIES.forEach(c => {
+    const card = el("a", { class: "cat-card", "data-quick": c.name },
+      el("div", { class: "photo" }, el("img", { src: c.photo, alt: c.name, loading: "lazy" })),
+      el("div", { class: "row" },
+        el("div", { class: "name", html: `${c.name} <em>${c.italic}</em>` }),
+        el("span", { class: "num" }, c.num)
+      ),
+      el("p", { class: "desc" }, c.desc),
+      el("div", { class: "foot" },
+        el("span", { class: "tag" }, `${c.count} experiences`),
+        el("span", { class: "browse", html: `Browse <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>` })
+      )
+    );
+    card.addEventListener("click", () => goToActivities(c.name));
+    grid.appendChild(card);
+  });
+}
+
+function renderStories() {
+  const grid = document.getElementById("stories-grid");
+  grid.innerHTML = "";
+  STORIES.forEach(s => {
+    const card = el("a", { class: "story-card" },
+      el("div", { class: "photo" }, el("img", { src: s.photo, alt: s.title, loading: "lazy" })),
+      el("div", { style: "display:flex;gap:6px;flex-wrap:wrap;" },
+        ...s.tags.map(t => el("span", { class: "tag" }, t))
+      ),
+      el("h3", {}, s.title),
+      el("p", { style: "color:var(--ink-soft);font-size:14px;margin:0;" }, s.excerpt),
+      el("div", { style: "display:flex;justify-content:space-between;align-items:center;margin-top:4px;" },
+        el("span", { class: "mono", style: "font-size:11px;color:var(--ink-mute);" }, `${s.num} · ${s.read}`),
+        el("span", { style: "color:var(--accent);font-weight:600;font-size:13px;display:flex;gap:6px;align-items:center;",
+          html: `Read <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>` })
+      )
+    );
+    grid.appendChild(card);
+  });
+}
+
+function renderTrending() {
+  const row = document.getElementById("trending-row");
+  row.innerHTML = "";
+  const items = [...ACTIVITIES].sort((a,b) => b.reviews - a.reviews).slice(0, 6);
+  items.forEach(a => {
+    const card = el("button", { class: "trending-card" },
+      el("div", { class: "photo" }, el("img", { src: a.photo, alt: a.name, loading: "lazy" })),
+      el("div", { style: "min-width:0;flex:1;" },
+        el("div", { class: "name" }, a.name),
+        el("div", { class: "meta" }, `★ ${a.rating} · ${a.reviews.toLocaleString()}`)
+      )
+    );
+    card.addEventListener("click", () => {
+      state.q = a.name;
+      document.getElementById("acts-search").value = a.name;
+      writeURL(); renderAll();
+    });
+    row.appendChild(card);
+  });
+}
+
+function renderActivityCard(a) {
+  const fav = state.favs.has(a.id);
+  const crowd = crowdOf(a);
+  const card = el("article", { class: "act-card" },
+    el("div", { class: "img" },
+      el("img", { src: a.photo, alt: a.name, loading: "lazy" }),
+      el("div", { class: "img-tags" },
+        el("span", { class: "tag" }, a.cat),
+        a.price === 0 ? el("span", { class: "tag coral" }, "Free") : null
+      ),
+      (() => {
+        const heart = el("button", {
+          class: "heart" + (fav ? " fav" : ""),
+          "aria-label": "Save",
+          html: `<svg width="16" height="16" viewBox="0 0 24 24" fill="${fav ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-4.5-9.5-9.5C1 8 3.5 4 7.5 4 10 4 11.3 5.6 12 7c.7-1.4 2-3 4.5-3 4 0 6.5 4 5 7.5C19 16.5 12 21 12 21z"/></svg>`
+        });
+        let lpTimer;
+        heart.addEventListener("mousedown", () => { lpTimer = setTimeout(triggerEdelweiss, 600); });
+        heart.addEventListener("mouseup",   () => clearTimeout(lpTimer));
+        heart.addEventListener("mouseleave",() => clearTimeout(lpTimer));
+        heart.addEventListener("click", (e) => {
+          e.stopPropagation();
+          if (fav) state.favs.delete(a.id); else state.favs.add(a.id);
+          heart.classList.add("pop");
+          setTimeout(() => renderActs(), 200);
+        });
+        return heart;
+      })(),
+      el("div", { class: "price-pill" }, a.price === 0 ? "FREE" : `CHF ${a.price}`)
+    ),
+    el("div", { class: "body" },
+      el("h3", { class: "name" }, a.name),
+      el("div", { class: "meta", html: `<span style="display:inline-flex;align-items:center;gap:5px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s7-7.5 7-13a7 7 0 1 0-14 0c0 5.5 7 13 7 13z"/><circle cx="12" cy="9" r="2.5"/></svg> ${a.region}</span><span class="dot">·</span><span style="display:inline-flex;align-items:center;gap:5px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg> ${a.duration}</span>` }),
+      el("div", { class: "tags" }, ...a.tags.slice(0,3).map(t => el("span", { class: "tag sky" }, t))),
+      el("div", { class: "foot" },
+        el("span", { class: "rating", html: `<span class="star"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.5l2.93 6.45 7.07.6-5.36 4.66 1.62 6.94L12 17.77l-6.26 3.38 1.62-6.94L2 9.55l7.07-.6L12 2.5z"/></svg></span> ${a.rating} <span class="reviews">(${a.reviews.toLocaleString()})</span>` }),
+        el("span", { class: "crowd " + crowd, html: `<span class="indicator"></span> ${crowd[0].toUpperCase()+crowd.slice(1)}` })
+      )
+    )
+  );
+  return card;
+}
+
+function renderActs() {
+  const list = filterActivities();
+  document.getElementById("result-count").textContent = list.length;
+  document.getElementById("result-word").textContent = list.length === 1 ? "experience" : "experiences";
+
+  // Active chips
+  const chipsBar = document.getElementById("active-chips");
+  chipsBar.innerHTML = "";
+  const chips = [];
+  state.cats.forEach(c => chips.push({ label: c, remove: () => state.cats = state.cats.filter(x => x !== c) }));
+  state.regions.forEach(c => chips.push({ label: c, remove: () => state.regions = state.regions.filter(x => x !== c) }));
+  state.durations.forEach(c => chips.push({ label: DURATIONS.find(d => d.id === c)?.label || c, remove: () => state.durations = state.durations.filter(x => x !== c) }));
+  state.seasons.forEach(c => chips.push({ label: c, remove: () => state.seasons = state.seasons.filter(x => x !== c) }));
+  if (state.weather !== "any") chips.push({ label: WEATHERS.find(w => w.id === state.weather).label, remove: () => state.weather = "any" });
+  if (state.priceMax !== 500) chips.push({ label: state.priceMax === 0 ? "Free only" : `≤ CHF ${state.priceMax}`, remove: () => state.priceMax = 500 });
+  if (state.bestNow) chips.push({ label: "Best right now", remove: () => state.bestNow = false });
+  if (chips.length === 0) {
+    chipsBar.hidden = true;
+  } else {
+    chipsBar.hidden = false;
+    chips.forEach(c => {
+      const chip = el("button", { class: "active-chip", html: `${c.label}<span class="x"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></span>` });
+      chip.addEventListener("click", () => { c.remove(); writeURL(); renderAll(); });
+      chipsBar.appendChild(chip);
+    });
+    const clr = el("button", { class: "clear-all" }, "Clear all");
+    clr.addEventListener("click", clearAllFilters);
+    chipsBar.appendChild(clr);
+  }
+
+  // Pills counts
+  document.querySelectorAll(".pill").forEach(p => {
+    const id = p.dataset.id;
+    let cnt = 0, on = false;
+    if (id === "cat") cnt = state.cats.length;
+    if (id === "region") cnt = state.regions.length;
+    if (id === "dur") cnt = state.durations.length;
+    if (id === "season") cnt = state.seasons.length;
+    if (id === "price") cnt = state.priceMax === 500 ? 0 : 1;
+    if (id === "weather") cnt = state.weather === "any" ? 0 : 1;
+    on = cnt > 0;
+    p.classList.toggle("on", on);
+    const cs = p.querySelector(".count");
+    if (cs) cs.textContent = cnt;
+    if (cs) cs.style.display = cnt > 0 ? "inline-flex" : "none";
+  });
+
+  // Sort tabs
+  document.querySelectorAll(".sort-tabs button").forEach(b => b.classList.toggle("on", b.dataset.sort === state.sort));
+
+  // Best now
+  const bn = document.getElementById("best-now-btn");
+  bn.style.background = state.bestNow ? "var(--accent)" : "var(--card)";
+  bn.style.color = state.bestNow ? "#fff" : "var(--ink)";
+  bn.style.borderColor = state.bestNow ? "var(--accent)" : "var(--line)";
+
+  // View
+  document.querySelectorAll(".view-toggle button").forEach(b => b.classList.toggle("on", b.dataset.view === state.view));
+  document.getElementById("grid-view").hidden = state.view !== "grid";
+  document.getElementById("map-view").hidden = state.view !== "map";
+
+  // Grid
+  const grid = document.getElementById("acts-grid");
+  grid.innerHTML = "";
+  const empty = document.getElementById("empty-state");
+  if (list.length === 0) {
+    empty.hidden = false;
+    grid.style.display = "none";
+  } else {
+    empty.hidden = true;
+    grid.style.display = "grid";
+    list.forEach((a, i) => {
+      const wrap = el("div", { style: `animation-delay:${Math.min(i,9)*35}ms;` }, renderActivityCard(a));
+      grid.appendChild(wrap);
+    });
+  }
+
+  // Map
+  if (state.view === "map") renderMap(list);
+}
+
+function renderMap(list) {
+  const bg = document.getElementById("map-bg");
+  // remove old pins, keep the SVG
+  bg.querySelectorAll(".map-pin").forEach(n => n.remove());
+  list.forEach((a, i) => {
+    const seed = a.id.charCodeAt(0) + a.id.charCodeAt(a.id.length - 1) * 7 + i * 13;
+    const x = 8 + ((seed * 9) % 80);
+    const y = 12 + ((seed * 17) % 70);
+    const pin = el("div", { class: "map-pin", style: `left:${x}%;top:${y}%;` },
+      el("div", { class: "price-pin" }, a.price === 0 ? "FREE" : `CHF ${a.price}`),
+      el("div", { class: "triangle" })
+    );
+    pin.addEventListener("mouseenter", () => { state.hoveredId = a.id; updateMapHover(); });
+    pin.addEventListener("mouseleave", () => { state.hoveredId = null; updateMapHover(); });
+    bg.appendChild(pin);
+  });
+
+  const list2 = document.getElementById("map-list");
+  list2.innerHTML = "";
+  list.slice(0, 8).forEach(a => {
+    const item = el("div", { class: "map-list-item", "data-id": a.id },
+      el("div", { class: "photo" }, el("img", { src: a.photo, alt: a.name, loading: "lazy" })),
+      el("div", { style: "min-width:0;flex:1;" },
+        el("div", { class: "name" }, a.name),
+        el("div", { style: "font-size:12px;color:var(--ink-mute);display:flex;gap:6px;align-items:center;",
+          html: `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s7-7.5 7-13a7 7 0 1 0-14 0c0 5.5 7 13 7 13z"/><circle cx="12" cy="9" r="2.5"/></svg> ${a.city} · ${a.duration}` }),
+        el("div", { style: "margin-top:6px;display:flex;gap:8px;align-items:center;",
+          html: `<span style="font-weight:700;color:var(--accent);">${a.price === 0 ? "FREE" : "CHF " + a.price}</span><span style="color:var(--ink-mute);font-size:12px;">★ ${a.rating}</span>` })
+      )
+    );
+    item.addEventListener("mouseenter", () => { state.hoveredId = a.id; updateMapHover(); });
+    item.addEventListener("mouseleave", () => { state.hoveredId = null; updateMapHover(); });
+    list2.appendChild(item);
+  });
+}
+
+function updateMapHover() {
+  const list = filterActivities();
+  document.querySelectorAll(".map-pin").forEach((p, i) => {
+    p.classList.toggle("on", list[i] && list[i].id === state.hoveredId);
+  });
+  document.querySelectorAll(".map-list-item").forEach(it => {
+    it.classList.toggle("on", it.dataset.id === state.hoveredId);
+  });
+}
+
+/* ───────── Pills (dropdowns) ───────── */
+function buildPills() {
+  const row = document.getElementById("pill-row");
+  row.innerHTML = "";
+  const defs = [
+    { id: "cat", label: "Category" },
+    { id: "region", label: "Region" },
+    { id: "dur", label: "Duration" },
+    { id: "price", label: "Price" },
+    { id: "season", label: "Season" },
+    { id: "weather", label: "Weather" },
+  ];
+  defs.forEach(d => {
+    const wrap = el("div", { class: "pill-wrap", "data-wrap": d.id });
+    const btn = el("button", { class: "pill", "data-id": d.id, html: `${d.label} <span class="count" style="display:none;"></span> <span class="chev"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m6 9 6 6 6-6"/></svg></span>` });
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      togglePill(d.id);
+    });
+    wrap.appendChild(btn);
+    row.appendChild(wrap);
+  });
+}
+
+function togglePill(id) {
+  if (state.openPill === id) {
+    closePill();
+  } else {
+    closePill();
+    openPill(id);
+  }
+}
+function closePill() {
+  document.querySelectorAll(".popover").forEach(p => p.remove());
+  document.querySelectorAll(".pill.open").forEach(p => p.classList.remove("open"));
+  state.openPill = null;
+}
+function openPill(id) {
+  state.openPill = id;
+  const wrap = document.querySelector(`[data-wrap="${id}"]`);
+  if (!wrap) return;
+  wrap.querySelector(".pill").classList.add("open");
+  let content;
+  if (id === "cat")     content = checklistEl(CATS, state.cats, v => state.cats = v);
+  if (id === "region")  content = checklistEl(REGIONS, state.regions, v => state.regions = v);
+  if (id === "dur")     content = checklistEl(DURATIONS, state.durations, v => state.durations = v);
+  if (id === "season")  content = checklistEl(SEASONS, state.seasons, v => state.seasons = v);
+  if (id === "price")   content = priceEl();
+  if (id === "weather") content = weatherEl();
+  const pop = el("div", { class: "popover" }, content);
+  wrap.appendChild(pop);
+}
+
+function checklistEl(options, values, setFn) {
+  const list = el("div", { class: "check-list" });
+  options.forEach(o => {
+    const id = typeof o === "object" ? o.id : o;
+    const label = typeof o === "object" ? o.label : o;
+    const on = values.includes(id);
+    const item = el("label", { class: "check-item" + (on ? " on" : "") },
+      el("span", { class: "check-box", html: `<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>` }),
+      el("span", { style: "font-size:14px;" }, label)
+    );
+    item.addEventListener("click", (e) => {
+      e.preventDefault();
+      const next = on ? values.filter(v => v !== id) : [...values, id];
+      setFn(next);
+      writeURL(); renderAll();
+      // re-open with new state
+      closePill(); openPill(state.openPill = state.openPill || null);
+    });
+    list.appendChild(item);
+  });
+  return list;
+}
+
+function priceEl() {
+  const wrap = el("div", { class: "price-popover" });
+  const row = el("div", { class: "price-row" },
+    el("span", {}, "CHF 0"),
+    el("span", { class: "max" }, state.priceMax === 500 ? "Any price" : `Up to CHF ${state.priceMax}`)
+  );
+  const range = el("input", { type: "range", min: "0", max: "500", step: "10", value: String(state.priceMax) });
+  range.addEventListener("input", (e) => {
+    state.priceMax = Number(e.target.value);
+    row.querySelector(".max").textContent = state.priceMax === 500 ? "Any price" : `Up to CHF ${state.priceMax}`;
+    writeURL(); renderActs();
+  });
+  const buckets = el("div", { class: "price-buckets" });
+  [0,25,50,100,200,500].forEach(v => {
+    const c = el("button", { class: "chip", "data-on": String(state.priceMax === v), style: "padding:5px 10px;font-size:12px;" }, v === 0 ? "Free" : v === 500 ? "Any" : `≤ ${v}`);
+    c.addEventListener("click", () => {
+      state.priceMax = v; range.value = String(v);
+      writeURL(); renderAll();
+    });
+    buckets.appendChild(c);
+  });
+  wrap.appendChild(row); wrap.appendChild(range); wrap.appendChild(buckets);
+  return wrap;
+}
+
+function weatherEl() {
+  const wrap = el("div", { style: "display:flex;flex-direction:column;gap:2px;" });
+  WEATHERS.forEach(w => {
+    const b = el("button", { style: `text-align:left;padding:10px 12px;border-radius:10px;border:0;font-family:inherit;font-size:14px;cursor:pointer;background:${state.weather === w.id ? "var(--bg-2)" : "transparent"};color:var(--ink);font-weight:${state.weather === w.id ? 600 : 400};` }, w.label);
+    b.addEventListener("click", () => {
+      state.weather = w.id;
+      writeURL(); renderAll();
+      closePill();
+    });
+    wrap.appendChild(b);
+  });
+  return wrap;
+}
+
+document.addEventListener("click", (e) => {
+  if (!e.target.closest(".pill-wrap")) closePill();
+});
+
+/* ───────── Sort, view, search ───────── */
+document.querySelectorAll(".sort-tabs button").forEach(b => {
+  b.addEventListener("click", () => { state.sort = b.dataset.sort; writeURL(); renderActs(); });
+});
+document.querySelectorAll(".view-toggle button").forEach(b => {
+  b.addEventListener("click", () => { state.view = b.dataset.view; writeURL(); renderActs(); });
+});
+document.getElementById("acts-search").addEventListener("input", (e) => {
+  state.q = e.target.value;
+  document.getElementById("search-clear").style.display = state.q ? "inline-flex" : "none";
+  writeURL(); renderActs();
+});
+document.getElementById("search-clear").addEventListener("click", () => {
+  state.q = "";
+  document.getElementById("acts-search").value = "";
+  document.getElementById("search-clear").style.display = "none";
+  writeURL(); renderActs();
+});
+document.getElementById("best-now-btn").addEventListener("click", () => {
+  state.bestNow = !state.bestNow; writeURL(); renderAll();
+});
+document.getElementById("clear-empty").addEventListener("click", clearAllFilters);
+
+function clearAllFilters() {
+  state.q = ""; state.cats = []; state.regions = []; state.durations = [];
+  state.seasons = []; state.weather = "any"; state.priceMax = 500; state.bestNow = false;
+  document.getElementById("acts-search").value = "";
+  document.getElementById("search-clear").style.display = "none";
+  writeURL(); renderAll();
+}
+
+function renderAll() {
+  closePill();
+  renderActs();
+}
+
+/* ───────── Page nav ───────── */
+function showPage(p) {
+  state.page = p;
+  document.getElementById("home-page").hidden = p !== "home";
+  document.getElementById("activities-page").hidden = p !== "activities";
+  document.getElementById("pager-home").classList.toggle("on", p === "home");
+  document.getElementById("pager-acts").classList.toggle("on", p === "activities");
+  window.scrollTo({ top: 0, behavior: "smooth" });
+  if (p === "activities") renderActs();
+}
+function goToActivities(query) {
+  if (query) {
+    state.q = query;
+    document.getElementById("acts-search").value = query;
+    writeURL();
+  }
+  showPage("activities");
+}
+document.getElementById("pager-home").addEventListener("click", () => showPage("home"));
+document.getElementById("pager-acts").addEventListener("click", () => showPage("activities"));
+document.querySelectorAll("[data-go='activities']").forEach(b => b.addEventListener("click", () => goToActivities()));
+document.querySelectorAll("[data-page]").forEach(a => {
+  a.addEventListener("click", (e) => { e.preventDefault(); showPage(a.dataset.page); });
+});
+document.getElementById("hero-search-btn").addEventListener("click", () => {
+  goToActivities(document.getElementById("hero-search").value);
+});
+document.getElementById("hero-search").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") goToActivities(e.target.value);
+});
+document.querySelectorAll("[data-quick]").forEach(c => {
+  c.addEventListener("click", () => goToActivities(c.dataset.quick));
+});
+
+/* ───────── Theme ───────── */
+function toggleTheme() {
+  const cur = document.body.getAttribute("data-theme");
+  const next = cur === "day" ? "dusk" : "day";
+  document.body.setAttribute("data-theme", next);
+  document.getElementById("theme-icon").innerHTML = next === "day"
+    ? '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5 19 19M5 19l1.5-1.5M17.5 6.5 19 5"/>'
+    : '<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>';
+}
+document.getElementById("theme-toggle").addEventListener("click", toggleTheme);
+
+/* ───────── Easter eggs ───────── */
+let logoTaps = 0, logoTimer;
+document.getElementById("logo").addEventListener("click", (e) => {
+  e.preventDefault();
+  logoTaps++;
+  clearTimeout(logoTimer);
+  logoTimer = setTimeout(() => logoTaps = 0, 1200);
+  if (logoTaps >= 5) {
+    const logo = document.getElementById("logo");
+    logo.style.transition = "transform 1.2s cubic-bezier(.4,0,.6,1)";
+    logo.style.transform = "translateX(140vw) rotate(-12deg)";
+    setTimeout(() => { logo.style.transition = ""; logo.style.transform = ""; logoTaps = 0; }, 1500);
+    triggerConfetti(40);
+  } else {
+    showPage("home");
+  }
+});
+
+// Konami code → confetti + yodel banner
+const KONAMI = ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"];
+let konBuf = [];
+document.addEventListener("keydown", (e) => {
+  konBuf.push(e.key);
+  if (konBuf.length > KONAMI.length) konBuf.shift();
+  if (KONAMI.every((k, i) => konBuf[i] && konBuf[i].toLowerCase() === k.toLowerCase())) {
+    konBuf = [];
+    triggerConfetti(160);
+    const banner = el("div", { class: "yodel-banner", html: "🎶 YODEL MODE UNLOCKED — Echoooo through the Alps! Click to dismiss." });
+    banner.addEventListener("click", () => banner.remove());
+    document.body.appendChild(banner);
+    setTimeout(() => banner.remove(), 5500);
+  }
+});
+
+function triggerConfetti(count = 80, colors) {
+  const palette = colors || ["#E8634A","#F4B43E","#2E6F5E","#6FB6D9","#FFFDF6"];
+  for (let i = 0; i < count; i++) {
+    const e = document.createElement("div");
+    e.className = "confetti";
+    e.style.left = Math.random() * 100 + "vw";
+    e.style.background = palette[i % palette.length];
+    e.style.transform = `rotate(${Math.random()*360}deg)`;
+    e.style.animationDuration = (3 + Math.random() * 2) + "s";
+    e.style.animationDelay = (Math.random() * .6) + "s";
+    e.style.borderRadius = Math.random() < .3 ? "50%" : "2px";
+    document.body.appendChild(e);
+    setTimeout(() => e.remove(), 6000);
+  }
+}
+function triggerEdelweiss() {
+  triggerConfetti(80, ["#FFFDF6","#F4B43E","#E8634A","#2E6F5E"]);
+}
+
+// Button ripples
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest(".btn");
+  if (!btn) return;
+  const r = btn.getBoundingClientRect();
+  const span = document.createElement("span");
+  span.className = "ripple";
+  const size = Math.max(r.width, r.height);
+  span.style.width = span.style.height = size + "px";
+  span.style.left = (e.clientX - r.left - size/2) + "px";
+  span.style.top  = (e.clientY - r.top  - size/2) + "px";
+  btn.appendChild(span);
+  setTimeout(() => span.remove(), 650);
+});
+
+/* ───────── Boot ───────── */
+readURL();
+buildPills();
+renderCategories();
+renderStories();
+renderTrending();
+renderAll();
+
+// If URL says start on activities (q present, etc), go there
+if (state.q || state.cats.length || state.regions.length) showPage("activities");
+</script>
+</body>
+</html>

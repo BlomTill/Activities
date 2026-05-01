@@ -1,0 +1,85 @@
+{
+  "id": "1440",
+  "slug": "spice-lab-discover-and-mix-your-own-spices-in-zurich",
+  "name": "Spice Lab - Discover and Blend Your Own Spices in Zurich",
+  "description": "Discover Spice Lab - Discover and Blend Your Own Spices in Zurich in Switzerland.",
+  "longDescription": "Discover Spice Lab - Discover and Blend Your Own Spices in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/spice-lab-discover-and-mix-your-own-spices-in-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "GH_SpiceLab_Impression_3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/712c48912f45083e3a5de8f1471767cb.jpg"
+    },
+    {
+      "alternativeText": "GH_SpiceLab_Impression_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/689727a23c164965672c7a572c7551b0.jpg"
+    },
+    {
+      "alternativeText": "GH_SpiceLab_Impression_2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7b08e1e3f5a9fde9a1094ded424fd4a9.jpg"
+    },
+    {
+      "alternativeText": "GH_SpiceLab_Impression_4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/283af4f5e0d6fba99d358252b0232b96.jpg"
+    },
+    {
+      "alternativeText": "GH_SpiceLab_Impression_6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c35bbc97b7d7ee6ebf8c29759f575557.jpg"
+    },
+    {
+      "alternativeText": "GH_SpiceLab_Impression_7",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c7e696f46e2dded3ac3eae4437aaeee1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

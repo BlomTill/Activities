@@ -1,0 +1,124 @@
+{
+  "id": "355",
+  "slug": "from-geneva-bus-tour-to-chamonix-mont-blanc-including-mer-de-glace",
+  "name": "From Geneva: Bus tour to Chamonix Mont Blanc including Mer de Glace",
+  "description": "Discover From Geneva: Bus tour to Chamonix Mont Blanc including Mer de Glace in Switzerland.",
+  "longDescription": "Discover From Geneva: Bus tour to Chamonix Mont Blanc including Mer de Glace in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-including-mer-de-glace/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Chamonix Mont-Blanc with snow-covered mountains, active visitors in the town.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chamonix_Maxime_Coquard_1_fc2c8a8c92.jpg"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc with flowers and snow-covered mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village6_2048_1_7c220720aa.jpg"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc with snow-covered mountains in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chamonix_Maxime_Coquard_1_5f68a68de5.jpg"
+    },
+    {
+      "alternativeText": "Statue in Chamonix Mont-Blanc shows mountaineers with a view of the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village3_2048_10_4_14d553ae9e.jpg"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc with snow-covered mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village4_2048_10_2c32194743.jpg"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc with hotel and blooming meadows.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village5_2048_1_c2c5fcbb84.jpg"
+    },
+    {
+      "alternativeText": "Fahrt zum Mer de Glace",
+      "caption": "Bustour nach Chamonix Mont Blanc inkl. Mer de Glace",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a90a81772384e3711f5b93d287d2554f.jpg"
+    },
+    {
+      "alternativeText": "Mer de Glace",
+      "caption": "Bustour nach Chamonix Mont Blanc inkl. Mer de Glace",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/454893dca7fb2f2331aea3e26cf7a124.jpg"
+    },
+    {
+      "alternativeText": "Mer de Glace with snow-covered glacier peaks near Chamonix",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grands_Montets_OT_Vallee_de_Chamonix_Salome_Abrial_805d1ac894.jpg"
+    },
+    {
+      "alternativeText": "Ice Cave in Chamonix, icy tunnel structure, blue light",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grotte_de_glace_OT_Vallee_de_Chamonix_af1c7f3e24.JPG"
+    },
+    {
+      "alternativeText": "Woman looks out of the train window during the journey through a snowy landscape in Chamonix",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Montenvers_Maxime_Coquard_1ab5a4e61c.jpg"
+    },
+    {
+      "alternativeText": "Ice Cave in Chamonix, colorful lighting, ice formations",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MDG_Grotte_de_Glace_B_2020_Jool_CHX_3e81de08ee.jpg"
+    },
+    {
+      "alternativeText": "Mer de Glace",
+      "caption": "Bustour nach Chamonix Mont Blanc inkl. Mer de Glace",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e67d907be0ab7daeb3f3d0ee2cd45b86.jpg"
+    },
+    {
+      "alternativeText": "Mer de Glace",
+      "caption": "Bustour nach Chamonix Mont Blanc inkl. Mer de Glace",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/38b1bf0d0ed00131d6b998c1c77f4d4a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

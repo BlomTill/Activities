@@ -1,0 +1,87 @@
+{
+  "id": "778",
+  "slug": "adventure-trail-lea-ben-mother-cows",
+  "name": "Adventure trail \"Lea and Ben with the mother cows\" in Freienstein (ZH)",
+  "description": "Discover Adventure trail \"Lea and Ben with the mother cows\" in Freienstein (ZH) in Switzerland.",
+  "longDescription": "Discover Adventure trail \"Lea and Ben with the mother cows\" in Freienstein (ZH) in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/adventure-trail-lea-ben-mother-cows/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kinder",
+      "caption": "Mutterkuh",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3e03ece8fcc68a5572acb6d2611649b7.jpg"
+    },
+    {
+      "alternativeText": "Erlebnisweg",
+      "caption": "Mutterkuh",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/90911f9528b550e1d1b0f2e1e229062d.JPG"
+    },
+    {
+      "alternativeText": "Erlebnisweg",
+      "caption": "Mutterkuh",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3431d66f5c24b0ad5af2cc78e0e981ae.JPG"
+    },
+    {
+      "alternativeText": "Erlebnisweg",
+      "caption": "Mutterkuh",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/381e0f851c04d1370febc7de7108991e.JPG"
+    },
+    {
+      "alternativeText": "Kinder",
+      "caption": "Mutterkuh",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87544eda128c828c091e6b09877013b8.JPG"
+    },
+    {
+      "alternativeText": "Erlebnisweg",
+      "caption": "Mutterkuh",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3c14f1f9b2a1b2f16c43d9eee7d84331.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure"
+  ],
+  "featured": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "830",
+  "slug": "motocross-enduro-kids-switzerland",
+  "name": "Motocross Enduro Course for Kids",
+  "description": "Discover Motocross Enduro Course for Kids in Switzerland.",
+  "longDescription": "Discover Motocross Enduro Course for Kids in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "138",
+    "title": "Motorbike",
+    "slug": "motorbike",
+    "description": "Find your experience on a motorbike, moped or scooter here. Enjoy a motorized tour through nature with the feeling of freedom and adventure that you can't experience with a car. You can visit places that are easier to access on a motorcycle. You can hire a helmet and other equipment from most providers at the same time. So even if you decide spontaneously, nothing stands in the way of your special experience.\n"
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/motorbike/motocross-enduro-kids-switzerland/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kind mit Guide",
+      "caption": "Motocross",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc4858fc98b1d6fb76803dd126cd62fb.jpg"
+    },
+    {
+      "alternativeText": "Kind mit Guide",
+      "caption": "Motocross",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f92353cd1a309c392f57fe5344628853.jpg"
+    },
+    {
+      "alternativeText": "Kinder mit Guide",
+      "caption": "Motocross",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3dcb6ff881ade24e50729a0b4d88db9a.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "kids"
+  ],
+  "featured": false
+}

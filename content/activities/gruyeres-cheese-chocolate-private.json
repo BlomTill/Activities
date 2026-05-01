@@ -1,0 +1,108 @@
+{
+  "id": "312",
+  "slug": "gruyeres-cheese-chocolate-private",
+  "name": "From Zurich: Private Day Trip to Gruyères for Cheese and Chocolate Tasting",
+  "description": "Discover From Zurich: Private Day Trip to Gruyères for Cheese and Chocolate Tasting in Switzerland.",
+  "longDescription": "Discover From Zurich: Private Day Trip to Gruyères for Cheese and Chocolate Tasting in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/gruyeres-cheese-chocolate-private/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Besucher vor dem Maison Cailler",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5aede212fe49a162cb605d14a731d182.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bce84b054b228c9b5c8d3203e84c85e2.jpg"
+    },
+    {
+      "alternativeText": "Gruyères Käserei",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e1025d63109a7085ce670e14c526f1ee.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ee53b61278a63fb1b10f5bdc439ec15.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ac66daac90bc930ae599bb341424aa7a.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c9acdf8bdf6557ea9fb6900c69dbdacd.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ce63aaf555522c52773834562275b9be.jpg"
+    },
+    {
+      "alternativeText": "Maison Cailler",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/28ef48738d19e30d6b4c32429e78eb29.jpg"
+    },
+    {
+      "alternativeText": "Gruyères Käserei",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9f029ad820914cace666c907d200d476.jpg"
+    },
+    {
+      "alternativeText": "Gruyères Käserei",
+      "caption": "Tagestour ab Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06936c4cc4ee13cac875fd218d3ff4a9.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "cheese"
+  ],
+  "featured": false
+}

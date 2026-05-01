@@ -1,0 +1,72 @@
+{
+  "id": "833",
+  "slug": "sunrise-bike-tour-at-piz-nair-from-st-moritz",
+  "name": "Sunrise Bike Tour at Piz Nair from St. Moritz",
+  "description": "Discover Sunrise Bike Tour at Piz Nair from St. Moritz in Switzerland.",
+  "longDescription": "Discover Sunrise Bike Tour at Piz Nair from St. Moritz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "58",
+    "title": "Mountain bike",
+    "slug": "mountain-bike",
+    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/mountain-bike/sunrise-bike-tour-at-piz-nair-from-st-moritz/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "blue sunrise 2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/330ac0c6377842eb5d58ac8675c6deb3.jpeg"
+    },
+    {
+      "alternativeText": "blue sunrise 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f874750fa3d09637e33225922770cd4.jpeg"
+    },
+    {
+      "alternativeText": "bl sunrise 3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6061eef1e05e683f34bb7ed8897a39c2.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "st.-moritz"
+  ],
+  "featured": false
+}

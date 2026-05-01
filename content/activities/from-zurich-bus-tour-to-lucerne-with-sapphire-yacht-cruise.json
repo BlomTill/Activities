@@ -1,0 +1,114 @@
+{
+  "id": "293",
+  "slug": "from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise",
+  "name": "From Zurich: Bus tour to Lucerne with Sapphire Yacht Cruise",
+  "description": "Discover From Zurich: Bus tour to Lucerne with Sapphire Yacht Cruise in Switzerland.",
+  "longDescription": "Discover From Zurich: Bus tour to Lucerne with Sapphire Yacht Cruise in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Saphir Yacht Cruise",
+      "caption": "Luzern mit Saphir Yacht Cruise",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/609ee02082780f130f4c01b03ad9f169.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Luzern mit Saphir Yacht Cruise",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/187d937a1598103ec9c7773632454854.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: River, historic buildings and Sapphire Yacht Cruise in the city of Lucerne in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/da4cc3d3e1cf730d854abcc7b70c4d5d.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: View from the Sapphire Yacht of the blue Lake Lucerne and the surrounding mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/90f3dbd2381df6147eedf039e53cceb0.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Luzern mit Saphir Yacht Cruise",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4e27d967a037da1fb3951b27305457d0.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Luzern mit Saphir Yacht Cruise",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ff1fb1c65de69b87530ab5abd08da75.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: Historic Chapel Bridge and Water Tower at Lake Lucerne with blooming plants.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/15e96ffba4a55a83e1fed5832bf7ced4.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: breathtaking view of the city and the Saphir Yacht Cruise on the water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4afcc7f99bc549e10e09ac0065c9ea5b.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: picturesque lake with mountains in the background, ideal for boat trips and nature experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/98efd5b4d0566ab098054e4412e54fc5.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: View of the city by the water with Saphir Yacht Cruise, great architecture and clear view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8edfedc8424f241542128008c1e57ff8.jpg"
+    },
+    {
+      "alternativeText": "Lucerne: Experience the Saphir Yacht with stunning lake views and green mountains in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e9ae092d3395aa1d6a7f0c7450b8d158.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6552840d26c3028dd4ef828de2537344.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

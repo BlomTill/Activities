@@ -1,0 +1,135 @@
+{
+  "id": "313",
+  "slug": "zurich-day-trip-to-blausee-and-interlaken-with-private-guide",
+  "name": "Zurich Day Trip to Blausee and Interlaken with Private Guide",
+  "description": "Discover Zurich Day Trip to Blausee and Interlaken with Private Guide in Switzerland.",
+  "longDescription": "Discover Zurich Day Trip to Blausee and Interlaken with Private Guide in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/zurich-day-trip-to-blausee-and-interlaken-with-private-guide/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/741f444c8453f5e27656069d0f9c549b.jpg"
+    },
+    {
+      "alternativeText": "Familie am Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/73f3d7f5196f6f02c886b6e74708ce9c.jpg"
+    },
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/329b2b8f08b312d47dbc9b5d34ac611d.jpg"
+    },
+    {
+      "alternativeText": "unterwegs",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/81f288523b119e1855c67865ff3d4337.jpg"
+    },
+    {
+      "alternativeText": "Hotel in Kandergrund",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/527499b3d9bbfc2a89936f2fa62314df.jpg"
+    },
+    {
+      "alternativeText": "Blausee im Winter",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8837d0087b03d07c3d44808cdd581771.jpg"
+    },
+    {
+      "alternativeText": "unterwegs",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c46652fa66dedacdf78e644b502dabec.jpg"
+    },
+    {
+      "alternativeText": "Interlaken",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86fbd50ed02295f89128a8ef74b75766.jpg"
+    },
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/97888c74b0aa73355c3dad29dac14193.jpg"
+    },
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a8b6d197c869cb38328e4a4698f72192.jpg"
+    },
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b96852c51d13a2903b7fadb66c17be89.jpg"
+    },
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7d9024809d37a00e920160aee7634ca.jpg"
+    },
+    {
+      "alternativeText": "Berge bei Interlaken",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b571b6f5287673c18513ea688c524fc.jpg"
+    },
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd8d4f023518659482746d68a1d24b51.jpg"
+    },
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41d206d41020ef6860847987b2c93357.jpg"
+    },
+    {
+      "alternativeText": "Blausee",
+      "caption": "Tagestour Blausee und Interlaken",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/75d9b56196dedaec32175825b0dbd577.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

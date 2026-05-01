@@ -1,0 +1,77 @@
+{
+  "id": "802",
+  "slug": "teamevent-big-canoe-guided-four-forest-lake",
+  "name": "Team event in a large canoe from Buochs",
+  "description": "Discover Team event in a large canoe from Buochs in Switzerland.",
+  "longDescription": "Discover Team event in a large canoe from Buochs in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "26",
+    "title": "Kayak",
+    "slug": "kayak",
+    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/kayak/teamevent-big-canoe-guided-four-forest-lake/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Canadian canoe on Lake Lucerne during a team event with friends and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/11fd51477e96597c1fb63b1ea6c13ab7.JPG"
+    },
+    {
+      "alternativeText": "Canoeing: Team activity on Lake Lucerne with groups and adventures in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d4cdc2d8228a08ac340bb05e30eeceb9.jpg"
+    },
+    {
+      "alternativeText": "Canadian canoe: Team experience on Lake Lucerne with sports activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/32a746e6534c52265abfd8f4fe1bce32.JPG"
+    },
+    {
+      "alternativeText": "Canoeing with a team event on Lake Lucerne, surrounded by mountains and full of action.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a88ef1265e5ea2c7e00a5781b719e849.JPG"
+    },
+    {
+      "alternativeText": "Canoeing on Lake Lucerne during a team event with friends and enjoying nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1d5350c9e0a1e305d4aef87d52b6b4d8.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

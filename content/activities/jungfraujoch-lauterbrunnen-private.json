@@ -1,0 +1,117 @@
+{
+  "id": "309",
+  "slug": "jungfraujoch-lauterbrunnen-private",
+  "name": "From Zurich: Private Day Trip to Jungfraujoch and Lauterbrunnen",
+  "description": "Discover From Zurich: Private Day Trip to Jungfraujoch and Lauterbrunnen in Switzerland.",
+  "longDescription": "Discover From Zurich: Private Day Trip to Jungfraujoch and Lauterbrunnen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/jungfraujoch-lauterbrunnen-private/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lauterbrunnental",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/15ec489979df925ac9a3b7c921aa34fa.jpg"
+    },
+    {
+      "alternativeText": "Jungfraubahn",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6801475fdf49a044b8db7f027a05c5e7.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c1d587cf48fd0dc9ddfa6d0653a8cc91.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c8d652bf2a085bb01438e049ecca7746.jpg"
+    },
+    {
+      "alternativeText": "Bahnhof Jungfraujoch",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/008c365a61239b9cd213959ddf03ed87.jpg"
+    },
+    {
+      "alternativeText": "Gruppe Jungfraujoch",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a30060a8dca2d0d61a03c6e3a6f5c5bd.jpg"
+    },
+    {
+      "alternativeText": "Bahnhof",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d0041a7c0a8b906bb278d266c6357ca4.jpg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3dd49b4e78907b53ea4db56c11a1010d.jpg"
+    },
+    {
+      "alternativeText": "Paar unterwegs",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/03c4bcf28af6bd0a490961e656e83fcc.jpg"
+    },
+    {
+      "alternativeText": "In der Gondel",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d93688b09e8ba554e7c42c7c2f96bc61.jpg"
+    },
+    {
+      "alternativeText": "Gruppe im Schnee",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99d1d0c56f9d6e5dfbf6b383aee614fb.jpg"
+    },
+    {
+      "alternativeText": "Eisgrotte",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a87a322eec01e5e75350fc36bed67a58.jpg"
+    },
+    {
+      "alternativeText": "Lauterbrunnental",
+      "caption": "Tagestour Jungfraujoch und Lauterbrunnen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/47d7a1a912073f713ed3aa620b53fbcc.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

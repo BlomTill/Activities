@@ -1,0 +1,87 @@
+{
+  "id": "1239",
+  "slug": "villas-and-gardens-in-winterthur-city-tour",
+  "name": "Villas and Gardens in Winterthur City Tour",
+  "description": "Discover Villas and Gardens in Winterthur City Tour in Switzerland.",
+  "longDescription": "Discover Villas and Gardens in Winterthur City Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/villas-and-gardens-in-winterthur-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Villas and Gardens in Winterthur, People Explore Historical Architecture in the Park",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Villen_und_Gaerten_Olf_Bachem_CC_0_3_dc0002adfa.jpg"
+    },
+    {
+      "alternativeText": "Villas and gardens of Winterthur with a view over the city, green parks, and historic architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Villen_und_Gaerten_1_52442a07c2.jpg"
+    },
+    {
+      "alternativeText": "Villas and Gardens in Winterthur, green surroundings and architecture",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Villen_und_Gaerten_2_db7d20d03a.jpg"
+    },
+    {
+      "alternativeText": "Villas and Gardens in Winterthur with a large garden and historic building.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Villen_und_Gaerten_Olf_Bachem_CC_0_2_7e03943d79.jpg"
+    },
+    {
+      "alternativeText": "Villas and Gardens Winterthur with visitor group on tour.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Villen_und_Gaerten_Olf_Bachem_CC_0_4_7b0f9bc03c.jpg"
+    },
+    {
+      "alternativeText": "Villas and Gardens Winterthur, City Tour, People in the Park, Green Environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Villen_und_Gaerten_Olf_Bachem_CC_0_21e6228dd0.jpg"
+    },
+    {
+      "alternativeText": "Villas and Gardens in Winterthur, historical building surrounded by trees",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Villen_und_Gaerten_key_29f6ab3aac.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

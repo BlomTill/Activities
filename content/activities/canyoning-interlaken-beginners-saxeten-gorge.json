@@ -1,0 +1,112 @@
+{
+  "id": "203",
+  "slug": "canyoning-interlaken-beginners-saxeten-gorge",
+  "name": "Saxeten Gorge Canyoning for beginners in Interlaken",
+  "description": "Discover Saxeten Gorge Canyoning for beginners in Interlaken in Switzerland.",
+  "longDescription": "Discover Saxeten Gorge Canyoning for beginners in Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-interlaken-beginners-saxeten-gorge/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Saxetenschlucht Beginner Canyoning with Participants in the Waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Saxetenschlucht_Einsteiger_Canyoning_Wasserfall_1d38e470d9.jpg"
+    },
+    {
+      "alternativeText": "Beginner Canyoning in the Saxetenschlucht with Waterfalls and Rocks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Anfaenger_Canyoning_Saxetenschlucht_eb88c7bde8.jpg"
+    },
+    {
+      "alternativeText": "Floating Canyoning Beginners in the Saxetenschlucht with Participants in the Water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Floating_Canyoning_Einsteiger_Saxetenschlucht_e808fec59c.jpg"
+    },
+    {
+      "alternativeText": "Rappelling Beginners Canyoning Saxetenschlucht with Waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_Anfaenger_Canyoning_Saxetenschlucht_685a759bea.jpg"
+    },
+    {
+      "alternativeText": "Saxetenschlucht Gorge Hiking Group in Waterfalls",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schluchtenwandern_Interlaken_Beginner_Saxetenschlucht_217adc296e.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Saxetenschlucht: Group of beginners in the water with equipment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruppenausflug_Canyoning_Beginner_Saxetenschlucht_7618d3425d.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Interlaken in the Saxetenschlucht with beginners, participants at the rock in the forest",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Interlaken_Anfaenger_Saxetenschlucht_e5398d5c26.jpg"
+    },
+    {
+      "alternativeText": "Rappelling 10 Meters in Canyoning in the Saxeten Gorge",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_10_Meter_Anfaenger_Canyoning_Saxetenschlucht_f59b15483e.jpg"
+    },
+    {
+      "alternativeText": "Beginner Canyoning Saxetenschlucht with three people in wetsuits at a waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Einsteiger_Canyoning_Saxetenschlucht_80a151cceb.jpg"
+    },
+    {
+      "alternativeText": "Spring Canyoning in the Saxetenschlucht with a Jumper and Participants",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sprung_Canyoning_Anfaenger_Saxetenschlucht_5fedfd9197.jpg"
+    },
+    {
+      "alternativeText": "Canyoning Beginners in Saxetenschlucht, Group in Wetsuits, Water Fun",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gruppenausflug_Canyoning_Einsteiger_Saxetenschlucht_93d9ad0b70.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning",
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

@@ -1,0 +1,85 @@
+{
+  "id": "663",
+  "slug": "operation-mindfall-adventure-game-frutigen",
+  "name": "\"Operation Mindfall\" - Adventure Game Frutigen",
+  "description": "Discover \"Operation Mindfall\" - Adventure Game Frutigen in Switzerland.",
+  "longDescription": "Discover \"Operation Mindfall\" - Adventure Game Frutigen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/operation-mindfall-adventure-game-frutigen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Escape Game Frutigen: Player group has fun on an adventure in the Swiss Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/i_Pad_36381eb80b.jpg"
+    },
+    {
+      "alternativeText": "iPad Scavenger Hunt: Escape Game Frutigen for Groups, Team Adventure in Nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/i_Pad_Schnitzeljagd_3094804109.jpg"
+    },
+    {
+      "alternativeText": "Escape Game Frutigen: Group solves puzzles in the indoor area of the escape room.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_16_32_03_2114296732.jpg"
+    },
+    {
+      "alternativeText": "Escape Game Frutigen: exciting team experience for groups in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_15_39_22_813c7bbd6c.jpg"
+    },
+    {
+      "alternativeText": "Escape Game Frutigen: exciting group experience during an adventure activity in the mountains in winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_15_22_39_5653cf3c9d.jpg"
+    },
+    {
+      "alternativeText": "Escape Game Frutigen: Experience exciting adventures in the picturesque Alps. Ideal for groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_15_59_57_0a30daa826.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure"
+  ],
+  "featured": false
+}

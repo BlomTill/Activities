@@ -1,0 +1,119 @@
+{
+  "id": "187",
+  "slug": "riverside-rafting-for-2-6-people-rent-a-rubber-boat",
+  "name": "Riverside rafting for 2-6 people: Rent a rubber boat",
+  "description": "Discover Riverside rafting for 2-6 people: Rent a rubber boat in Switzerland.",
+  "longDescription": "Discover Riverside rafting for 2-6 people: Rent a rubber boat in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "27",
+    "title": "Böötle",
+    "slug": "boeoetle",
+    "description": "Find the right river and book your Böötle experience here. Whether in the Aare, on the Limmat or on the Rhine, rafting is a leisure activity that is possible on almost every river and enjoys immense popularity in Switzerland. More and more providers make the boat available to you ready to float and pick it up again at the drop-off point. It is important to note that you should get off the boat in good time before dangerous places, power stations and weirs."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/boeoetle/riverside-rafting-for-2-6-people-rent-a-rubber-boat/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Male and female Kayakers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/455fabd3e26a6bc7696f555656d35dd5.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/df56d04a7879239e368c98db7e4661a3.jpg"
+    },
+    {
+      "alternativeText": "4 people in blue raft on rhein",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0eecad8429a46d284604af6173d877d4.jpg"
+    },
+    {
+      "alternativeText": "Diessenhofen",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3155b1f51a44eed5e6c2ab42c08f4797.jpg"
+    },
+    {
+      "alternativeText": "5 young adults in raft header image",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9c50402f1161bf319bab13812001955.jpg"
+    },
+    {
+      "alternativeText": "BBQ",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/611769dc360930bcbf7bf95fb53abddd.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/61239dc068a44a7ed60fa8083c1f4b17.jpg"
+    },
+    {
+      "alternativeText": "closeup of life jacket",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/38d6609eebfb0798790d77ff8b324d9a.jpg"
+    },
+    {
+      "alternativeText": "Rafts on the rhein through trees",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bcf5328de09612db35af8b89a3d3abe5.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0eba60180c618edf803fc4ce355494e5.jpg"
+    },
+    {
+      "alternativeText": "three people swimming in rhein",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c4952d140635facb6dfed4e2f16d795.jpg"
+    },
+    {
+      "alternativeText": "young adults enjoying drinks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be8294a8eea920e6d51460dc23a5bd95.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting",
+    "river",
+    "boat"
+  ],
+  "featured": false
+}

@@ -1,0 +1,85 @@
+{
+  "id": "1142",
+  "slug": "snowshoe-group-tour-matterhorn-glacier-trail",
+  "name": "Matterhorn Glacier Trail Snowshoeing Zermatt",
+  "description": "Discover Matterhorn Glacier Trail Snowshoeing Zermatt in Switzerland.",
+  "longDescription": "Discover Matterhorn Glacier Trail Snowshoeing Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "23",
+    "title": "Snowshoeing",
+    "slug": "snowshoeing",
+    "description": "Rent your snowshoes here or book a guided tour with or without fondue fun. In the past, snowshoes were the usual means of transportation in snowy areas. The weight is distributed over a larger area, making it easier for the snowshoe wearer to walk through deep snow. Today, snowshoeing is a popular winter sport that can be done in the mountains but also guided or individually at lower altitudes."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/snowshoeing/snowshoe-group-tour-matterhorn-glacier-trail/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Snowshoe hiking in Zermatt shows three people in winter clothing with the Matterhorn in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuh_Zermatt_Zermatters_db4940b4d6.jpg"
+    },
+    {
+      "alternativeText": "Snowshoe hiking in Zermatt with a view of the Matterhorn.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuh_Wandern_Zermatt_Zermatters_1e209dcc0b.jpg"
+    },
+    {
+      "alternativeText": "Snowshoe hiking in Zermatt with a view of snow-covered mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/maxresdefault_e2060ac9a2.jpg"
+    },
+    {
+      "alternativeText": "Snowshoe hiking in Zermatt, Matterhorn in the background, snow-covered mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gornergrat_Winter_Gabriela_Keusch_9a97842041.jpg"
+    },
+    {
+      "alternativeText": "Snowshoe hiking in Zermatt in the snow, Matterhorn visible, clear view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuhwandern_Zermatt_Pixabay_3155a19433.jpg"
+    },
+    {
+      "alternativeText": "Snowshoe hiking in Zermatt, hiker in the snow, winter landscape, blue skies",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuh_wandern_Gruppe_Pixabay_28fbfd7ee4.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "zermatt"
+  ],
+  "featured": false
+}

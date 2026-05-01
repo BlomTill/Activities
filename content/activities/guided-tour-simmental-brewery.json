@@ -1,0 +1,82 @@
+{
+  "id": "724",
+  "slug": "guided-tour-simmental-brewery",
+  "name": "Guided tour and beer tasting Simmental Brewery",
+  "description": "Discover Guided tour and beer tasting Simmental Brewery in Switzerland.",
+  "longDescription": "Discover Guided tour and beer tasting Simmental Brewery in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/guided-tour-simmental-brewery/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "brewery tour simmental with four beer bottles in crates",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Simmentaler_Bier_Shop_Simmentaler_Braumanufakrug_2843e1e681.png"
+    },
+    {
+      "alternativeText": "Simmentaler Beer Tasting with participants trying the beers",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Degustation_Simmentaler_Bier_Simmentaler_Braumanufakrug_7efdec84c4.jpg"
+    },
+    {
+      "alternativeText": "Simmental Beer Tasting with various beer types and curious guests",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Simmentaler_Bier_Degustation_Simmentaler_Braumanufakrug_ef22e0d4d4.jpg"
+    },
+    {
+      "alternativeText": "Beer tour Brewery Simmental, man with beer glass, wooden house, summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Simmentaler_Bier_Simmentaler_Braumanufakrug_ff614594bd.jpg"
+    },
+    {
+      "alternativeText": "Simmental beer in decorative packaging with bottles, Simmental Brewery 2023.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pack_1_2713dc4d7a.png"
+    },
+    {
+      "alternativeText": "Simmental cow on green meadow in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Simmentaler_Kuh_Pixabay_bf9f672667.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

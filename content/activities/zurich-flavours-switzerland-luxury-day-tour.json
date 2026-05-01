@@ -1,0 +1,107 @@
+{
+  "id": "285",
+  "slug": "zurich-flavours-switzerland-luxury-day-tour",
+  "name": "From Zurich: Flavours of Switzerland luxury day tour",
+  "description": "Discover From Zurich: Flavours of Switzerland luxury day tour in Switzerland.",
+  "longDescription": "Discover From Zurich: Flavours of Switzerland luxury day tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/zurich-flavours-switzerland-luxury-day-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Eating in the mountains: Delicious Swiss specialties with a view of the Alpine landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_27_1_3a0ff919d2.JPG"
+    },
+    {
+      "alternativeText": "Flavours of Switzerland: Couple by the lake, romantic surroundings and natural beauty of Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_0039_309505f9ef.jpg"
+    },
+    {
+      "alternativeText": "Food in the mountains: Treats like cheese, berries, and bread in the Swiss Alps. Perfect for food lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_42_1_aeecd1a1f0.JPG"
+    },
+    {
+      "alternativeText": "Flavours of Switzerland: Cozy village with chocolate and picturesque mountains in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_0631_adff53df3d.jpg"
+    },
+    {
+      "alternativeText": "Flavours of Switzerland: Delicacies in front of the picturesque landscape and bridge of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2142_88463a8192.jpg"
+    },
+    {
+      "alternativeText": "See: calm mountain lake in Switzerland with reflecting mountains and green shoreline.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1533_4edb8fa7fc.jpg"
+    },
+    {
+      "alternativeText": "Grilling in Switzerland: Delicious sausages and veggies outdoors, surrounded by mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2764_55ea4c7f5a.jpg"
+    },
+    {
+      "alternativeText": "Flavors of Switzerland: Cheese platter with fresh fruits and delicious treats for gourmets",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/33ec880883158ebb1953397ae4096e40.JPG"
+    },
+    {
+      "alternativeText": "Flavours of Switzerland: Delicious food with fresh fruits and flower decorations for an inviting table.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/870ee32c29d317f9c726aa0f1b8b363a.JPG"
+    },
+    {
+      "alternativeText": "Flavours of Switzerland: fresh fruit in the mountains with waterfall and alpine meadow, pure nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05960255fb8c822e9e968fdfe98fb5ad.jpg"
+    },
+    {
+      "alternativeText": "Flavours of Switzerland: Mediterranean food and fresh ingredients by the idyllic mountain lake in the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/035e96ef55264456b31d0e56e5b789af.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

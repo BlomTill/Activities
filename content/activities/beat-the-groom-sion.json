@@ -1,0 +1,87 @@
+{
+  "id": "633",
+  "slug": "beat-the-groom-sion",
+  "name": "\"Beat the groom\" in Sion: action-packed stag party",
+  "description": "Discover \"Beat the groom\" in Sion: action-packed stag party in Switzerland.",
+  "longDescription": "Discover \"Beat the groom\" in Sion: action-packed stag party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-sion/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Group activity: Celebrate the groom in a cheerful environment with friends and nature. Ideal for bachelor parties.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_3fa9e1f688.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Group in the park with T-shirts and drinks, ideal for a bachelor party in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_ecedabeb21.jpg"
+    },
+    {
+      "alternativeText": "City street with colorful buildings in a picturesque resort, ideal for relaxing and strolling.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_1_unsplash_6f951fa09b.jpg"
+    },
+    {
+      "alternativeText": "Town square with historic buildings and mountains in the background, ideal for culture and leisure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_unsplash_Kopie_a7e78cf6f9.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Exciting Team Building Activity Outdoors with Friends and Other Groups",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_5e6c9aa8b0.jpg"
+    },
+    {
+      "alternativeText": "Sion: View of the city with mountains, picturesque houses, and full of nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_unsplash_465b4faaf5.jpg"
+    },
+    {
+      "alternativeText": "Sion Castle: impressive fortress in Sion, surrounded by nature and history.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_Schloss_unsplash_e5f23b3b78.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

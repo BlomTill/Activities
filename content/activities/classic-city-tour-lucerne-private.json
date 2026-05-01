@@ -1,0 +1,159 @@
+{
+  "id": "1198",
+  "slug": "classic-city-tour-lucerne-private",
+  "name": "Classic city tour Lucerne private",
+  "description": "Discover Classic city tour Lucerne private in Switzerland.",
+  "longDescription": "Discover Classic city tour Lucerne private in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/classic-city-tour-lucerne-private/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Right bank of the Reuss with town hall and picturesque buildings in Lucerne by the lake.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rechtes_Reussufer_mit_Rathaus5_1_140d300cc4.jpg"
+    },
+    {
+      "alternativeText": "Martini Plan: Historical city view with bridges and buildings, perfect backdrop for discoveries.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/001a_Martini_plan_clrd_1_e184490734.jpg"
+    },
+    {
+      "alternativeText": "Lion Monument: impressive lion statue in Lucerne, surrounded by nature and history.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Loewendenkmal_ff8a2521b3.jpg"
+    },
+    {
+      "alternativeText": "Musegg Wall: impressive city wall in Lucerne with towers and green surroundings, ideal for city tours.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Museggmauer_df805a8cf5.jpg"
+    },
+    {
+      "alternativeText": "Cysat Pharmacy: impressive facade with historical elements in the city of Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_Cysat_Apotheke_557d46a454.jpg"
+    },
+    {
+      "alternativeText": "Reuss Bridge: picturesque city view in Lucerne with colorful half-timbered houses and water reflections",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/19_Reussbruecke_078614ff02.jpg"
+    },
+    {
+      "alternativeText": "Chapel Bridge: View of the Jesuit Church and the city of Lucerne on a cloudy day.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20_Kapellbruecke_Jesuitenkirche_2bd506d6f8.jpg"
+    },
+    {
+      "alternativeText": "Crivelli House: historical building with artistic facade pattern in the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/28_Crivellihaus_5f06b0f380.jpg"
+    },
+    {
+      "alternativeText": "Ritter Palace Courtyard: impressive architecture with historical elements, ideal for art lovers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/30_Ritterscher_Palast_Innenhof_60fd6d3214.jpg"
+    },
+    {
+      "alternativeText": "Dance of Death: Impressive painting with skeletons and people in an appealing setting",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/31_Totentanz_Tafel1_54e22c7b05.jpg"
+    },
+    {
+      "alternativeText": "Chapel Bridge around 1897: Historic wooden bridge in Lucerne with snow-covered shore and boat. Winter atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/033_Kapellbruecke_um_1897_Joseph_Clemens_Kaufmann_b958984831.jpg"
+    },
+    {
+      "alternativeText": "Xaver Schwegler: historic goal with people and dog in picturesque setting, art and architecture",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/034_Xaver_Schwegler_Die_Tore_zur_1_1_db34538bdb.jpg"
+    },
+    {
+      "alternativeText": "Füssli: The Nightmare, a picturesque work about nightmares and emotions, 1800s",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/035_Fuessli_Johann_Heinrich_The_Nightmare_05c45f1014.jpg"
+    },
+    {
+      "alternativeText": "Murder Night: Depiction of a historical scene with people and an oven in a butcher's shop.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/037_Mordnacht_Ofen_Metzgere_aac3b0a612.jpg"
+    },
+    {
+      "alternativeText": "Dance of Death: impressive depiction of death with skeletons and majestic figures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/066_ttanz_132_ed487f9cd1.jpg"
+    },
+    {
+      "alternativeText": "Danse Macabre: historical representation of the dance with death, inspired by medieval art.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/067_ttanz_133_3e6ee5553a.jpg"
+    },
+    {
+      "alternativeText": "Dance of Death: Historical depiction of the Dance of Death with skeletons and various characters.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/070_ttanz_137_1_6e971af012.jpg"
+    },
+    {
+      "alternativeText": "The Gates to Hofbruecke: Historical Bridge, Architecture, City, Xaver Schwegler",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Die_Tore_zur_Hofbruecke_und_Schifflaende_Xaver_Schwegler_1000_d4923a632a.jpg"
+    },
+    {
+      "alternativeText": "Diebold Schilling: Historical artwork from the Middle Ages featuring groups of people and a festive atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Diebold_Schilling_11eee14b7b.jpg"
+    },
+    {
+      "alternativeText": "Gutersohn Sonnenberghaus in Lucerne showcases charming architecture and picturesque landscapes by the water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gutersohn_Ulrich_Sonnenberghaus_289db80044.jpg"
+    },
+    {
+      "alternativeText": "Suidtersche Pharmacy: Old pharmacy with historical bottles and a nostalgic-style interior.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Suidtersche_Apotheke_ff1502e312.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

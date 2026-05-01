@@ -1,0 +1,85 @@
+{
+  "id": "590",
+  "slug": "curse-pirates-challenge-game-desired-location",
+  "name": "\"Curse of the Pirates\" Challenge Game at your desired location for large groups",
+  "description": "Discover \"Curse of the Pirates\" Challenge Game at your desired location for large groups in Switzerland.",
+  "longDescription": "Discover \"Curse of the Pirates\" Challenge Game at your desired location for large groups in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/curse-pirates-challenge-game-desired-location/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Fluch der Piraten",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b876a68c2787bd6774a4a14bb43470d3.jpg"
+    },
+    {
+      "alternativeText": "Fluch der Piraten",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3c4b18593b7e6bfa63d77e18c2e240cb.jpg"
+    },
+    {
+      "alternativeText": "Fluch der Piraten",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ee52168eb1732b2bc11583fa520b032.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/790c66eccdd364ffc07365f7bdb122de.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c564537b69c7af383c08399b85963691.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Challenge Game",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6fda1b11b25acfe7aed6974031eafa48.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

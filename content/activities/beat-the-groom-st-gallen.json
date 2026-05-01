@@ -1,0 +1,92 @@
+{
+  "id": "458",
+  "slug": "beat-the-groom-st-gallen",
+  "name": "\"Beat the groom\" in St. Gallen: action-packed stag party",
+  "description": "Discover \"Beat the groom\" in St. Gallen: action-packed stag party in Switzerland.",
+  "longDescription": "Discover \"Beat the groom\" in St. Gallen: action-packed stag party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-st-gallen/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Red Square St. Gallen: Modern architecture, artistic design, and urban life in the heart of the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Roter_Platz_Seraina_325e200de3.jpg"
+    },
+    {
+      "alternativeText": "Swiss Activities: Celebrate the groom with friends in a festive setting during the team event.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_536a124f68.jpg"
+    },
+    {
+      "alternativeText": "Gallusplatz in St. Gallen: picturesque city square with historic buildings and green trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gallusplatz_Seraina_e7f1f3e134.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: Team activity with friends by the water, ideal celebration for men's groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_c1455f9c0c.jpg"
+    },
+    {
+      "alternativeText": "Laurenzen Church: charming old town alley with historic buildings and nice weather",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Laurenzenkirche_Seraina_206fd41634.jpg"
+    },
+    {
+      "alternativeText": "Beat the Groom: exciting outdoor game for groups with friends in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_85f1a241b7.jpg"
+    },
+    {
+      "alternativeText": "Laurenzen Church: Historical view of Lucerne with beautiful buildings and colorful roofs.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Laurenzenkirche1_Seraina_be3bf156f9.jpg"
+    },
+    {
+      "alternativeText": "St. Gallen: Cozy restaurants in the old town with views of historic buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Restaurants_St_Gallen_Seraina_90b3b779c1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

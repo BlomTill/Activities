@@ -1,0 +1,80 @@
+{
+  "id": "1332",
+  "slug": "via-ferrata-pinut-for-beginners",
+  "name": "Via Ferrata Pinut for Beginners",
+  "description": "Discover Via Ferrata Pinut for Beginners in Switzerland.",
+  "longDescription": "Discover Via Ferrata Pinut for Beginners in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "36",
+    "title": "Via ferrata",
+    "slug": "via-ferrata",
+    "description": "Find the via ferrata that suits you best and book a tour led by an experienced mountain guide or rent your equipment here. Via Ferrata, also known under the Italian name \"Via Ferrata\", provide a thrill and an unforgettable climbing experience. Depending on the level of difficulty, previous experience is necessary. However, there are also via ferratas that can be climbed without experience. Well secured, you will master steep ascents and airy traverses. Via ferrata routes can be found all over Switzerland. Starting in the Valais to the Bernese Oberland, Central Switzerland and the Grisons Alps."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-pinut-for-beginners/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "20210902_PhilippRuggli_019",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f3db95a551f45323fbec4dd14b1f6bea.jpg"
+    },
+    {
+      "alternativeText": "20210902_PhilippRuggli_002",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e5161207f880ebfd5892fd6754024f9f.jpg"
+    },
+    {
+      "alternativeText": "20210902_PhilippRuggli_006",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4ea9f3f7198107cba57002e44ab204bf.jpg"
+    },
+    {
+      "alternativeText": "20210902_PhilippRuggli_012",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/63f8c0e077905a3cb6be1618563b34d5.jpg"
+    },
+    {
+      "alternativeText": "20210902_PhilippRuggli_020",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fc770b9c72fd73475e6f584cf5e40026.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

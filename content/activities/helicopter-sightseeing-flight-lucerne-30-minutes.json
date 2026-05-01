@@ -1,0 +1,93 @@
+{
+  "id": "1033",
+  "slug": "helicopter-sightseeing-flight-lucerne-30-minutes",
+  "name": "Lucerne, Pilatus and Rigi scenic helicopter flight 30 minutes",
+  "description": "Discover Lucerne, Pilatus and Rigi scenic helicopter flight 30 minutes in Switzerland.",
+  "longDescription": "Discover Lucerne, Pilatus and Rigi scenic helicopter flight 30 minutes in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-lucerne-30-minutes/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Helicopter sightseeing flight Lucerne with pilot and view into the cockpit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_c9c25cd7c266c57ed4cad2b997c5c19d_7db34b2400.jpg"
+    },
+    {
+      "alternativeText": "View of Lucerne from the helicopter, cityscape, Pilatus, Lake Lucerne",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ausblick_Luzern_Helikopter_645baa2dfc.jfif"
+    },
+    {
+      "alternativeText": "Helicopter flight above the clouds with red helicopter",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_e705ccc255a18f6aeebaeec8d55acd4c_1610198fce.jpg"
+    },
+    {
+      "alternativeText": "Helicopter flight in Lucerne with pilot and view outside",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_7b0676fd98248c85085c1fe9ed56bd66_20a4baf2b5.jpg"
+    },
+    {
+      "alternativeText": "Helicopter over Corsica with a view of the coast and landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_Helikopter_d277224c2e.jpg"
+    },
+    {
+      "alternativeText": "Helicopter flight over Beromünster with red helicopter in blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zwischenlandung_Helikopterrundflug_c47224bf32.jpg"
+    },
+    {
+      "alternativeText": "Helicopter tour with pilot in the cockpit over the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rundflug_Helikopter_f363a463f4.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "scenic",
+    "lucerne"
+  ],
+  "featured": false
+}

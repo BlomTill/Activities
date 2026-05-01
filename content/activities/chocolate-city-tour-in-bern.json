@@ -1,0 +1,153 @@
+{
+  "id": "701",
+  "slug": "chocolate-city-tour-in-bern",
+  "name": "Chocolate city tour in Bern",
+  "description": "Discover Chocolate city tour in Bern in Switzerland.",
+  "longDescription": "Discover Chocolate city tour in Bern in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/chocolate-city-tour-in-bern/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bernese Chocolate: Take the city tour in Bern with information about chocolate and local delights.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_berner_schokolade_990285266f.jpg"
+    },
+    {
+      "alternativeText": "Chocolate city tour in Bern with friends during a cozy café visit.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_genuss_d03417ce4a.jpg"
+    },
+    {
+      "alternativeText": "Conch: Precise description with 3-4 relevant keywords.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/conche_eabf76197b.jpg"
+    },
+    {
+      "alternativeText": "Chocolate tasting in Bern with various sweets.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_8337_k_b23157901b.jpg"
+    },
+    {
+      "alternativeText": "Chocolate city tour in Bern, participant points at roofs, clear view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_8355_k_c7832e7a19.jpg"
+    },
+    {
+      "alternativeText": "Chocolate factory in Bern with historic lettering",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_8351_k_c05eeab856.jpg"
+    },
+    {
+      "alternativeText": "Chocolate City Tour in Bern: enjoy the charming old town and discover local treats.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/altstadt_unesco_4692b9ae60.jpg"
+    },
+    {
+      "alternativeText": "Aare: Experience the chocolate city tour in Bern with great views and interesting highlights.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aare_b86cbdd0fd.jpg"
+    },
+    {
+      "alternativeText": "Chocolate tour in Bern with participants and city view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_8375_k_40f852cc42.jpg"
+    },
+    {
+      "alternativeText": "Chocolate City Bern, view of the Old Town, Aare River, green surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schoggi_aare_gross_4abc7ef153.jpg"
+    },
+    {
+      "alternativeText": "Bear Park in Bern: Discover the natural beauty and animal diversity in the Bear Park.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/baerenpark_64010a9503.jpg"
+    },
+    {
+      "alternativeText": "Bern Cathedral: impressive architecture in the old town of Bern, surrounded by historic buildings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/berner_muenster_5119c6d0fd.jpg"
+    },
+    {
+      "alternativeText": "Chocolate city tour in Bern with groups and culinary experiences in the old town.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gruppen_cf35b05307.jpg"
+    },
+    {
+      "alternativeText": "Käfigturm: Experience the Chocolate City Tour in Bern with an experienced guide and interested groups",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kaefigturm_b20cb40a06.jpg"
+    },
+    {
+      "alternativeText": "Kramgasse: Discover the Chocolate City Tour in Bern with many flags and a great atmosphere.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kramgasse_78e2bb45cd.jpg"
+    },
+    {
+      "alternativeText": "Marktgasse: Enjoy the chocolate tour in Bern with historic buildings and Swiss flags.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/marktgasse_24dac3bf63.jpg"
+    },
+    {
+      "alternativeText": "Mattequartier: Discover historical buildings on the chocolate city tour in Bern.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mattequartier_b3e32ff070.jpg"
+    },
+    {
+      "alternativeText": "Chocolate City: Discover the chocolate culture and historic buildings in Bern.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schmelzschokolade_3fb76ee398.jpg"
+    },
+    {
+      "alternativeText": "Chocolate tour in Bern: Experience the city on a guided tour with chocolate and historic architecture.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schokoladengeschichte_68281499ac.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "bern"
+  ],
+  "featured": false
+}

@@ -1,0 +1,79 @@
+{
+  "id": "211",
+  "slug": "gondo-simplon-advanced-canyoning",
+  "name": "Gondo Simplon advanced canyoning",
+  "description": "Discover Gondo Simplon advanced canyoning in Switzerland.",
+  "longDescription": "Discover Gondo Simplon advanced canyoning in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/gondo-simplon-advanced-canyoning/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Canyoning in a gorge with waterfall and rocks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning_hydrospeed_rafting_valais_wallis_suisse_switzerland_schweiz_sion_sierre_brig_visp_switzerland_8_0bf2ab755b.jpg"
+    },
+    {
+      "alternativeText": "Canyoning group at a waterfall in Bavaria, 2023",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning424x265_12_1_3b64aa3d01.jpg"
+    },
+    {
+      "alternativeText": "Canyoning: Group in wetsuits slides down a waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning424x265_19_1_5ba5964602.jpg"
+    },
+    {
+      "alternativeText": "Canyoning in a narrow canyon with a waterfall, participants are wearing safety gear.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning_hydrospeed_rafting_valais_wallis_suisse_switzerland_schweiz_sion_sierre_brig_visp_switzerland_4_bc15f35f8e.jpg"
+    },
+    {
+      "alternativeText": "Canyoning group in red neoprene suits at the waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning_hydrospeed_rafting_valais_wallis_suisse_switzerland_schweiz_sion_sierre_brig_visp_switzerland_7_5b054ff833.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

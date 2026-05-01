@@ -1,0 +1,80 @@
+{
+  "id": "1134",
+  "slug": "lucerne-skydiving-tandem",
+  "name": "Lucerne skydiving from the plane",
+  "description": "Discover Lucerne skydiving from the plane in Switzerland.",
+  "longDescription": "Discover Lucerne skydiving from the plane in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "22",
+    "title": "Skydiving",
+    "slug": "skydiving",
+    "description": "Find and book the right skydive for you here. The ultimate adrenaline kick you get without a doubt during the free fall. You jump in a tandem jump from a height of three to four kilometers into nothingness and you don't even need any training. Hotspots for skydiving are Interlaken, Reichenbach, Lucerne, Zurich and Lugano. You can jump either from a helicopter or from a plane."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/skydiving/lucerne-skydiving-tandem/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Skydiving Lucerne, jump from an airplane, clear visibility, air activity",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fallschirmspringen_in_Luzern_96aaef4aac.jpg"
+    },
+    {
+      "alternativeText": "Skydiving in Lucerne, three jumpers in free fall over landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Freier_Fall_Luzern_c6fa0b66c3.jpg"
+    },
+    {
+      "alternativeText": "Skydiving in Lucerne, person jumping, sky, clouds",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fallschirmspringen_Luzern_Vierwaldstaettersee_2582cdbde0.jpg"
+    },
+    {
+      "alternativeText": "Skydiving Lucerne with parachute on green meadow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fallschirmspringen_Luzern_1_915a83f810.jpg"
+    },
+    {
+      "alternativeText": "Skydiving Lucerne with two jumpers, joy after the jump, green meadow, evening light.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandemsprung_Luzern_32215e6804.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

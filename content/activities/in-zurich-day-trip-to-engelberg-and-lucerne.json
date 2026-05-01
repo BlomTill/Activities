@@ -1,0 +1,84 @@
+{
+  "id": "276",
+  "slug": "in-zurich-day-trip-to-engelberg-and-lucerne",
+  "name": "In Zurich: Day Trip to Engelberg and Lucerne",
+  "description": "Discover In Zurich: Day Trip to Engelberg and Lucerne in Switzerland.",
+  "longDescription": "Discover In Zurich: Day Trip to Engelberg and Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-engelberg-and-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Engelberg with church and mountains in the background, beautiful day",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kloster_Engelberg_Best_of_Switzerland_Tours_99c2ccedfe.jpg"
+    },
+    {
+      "alternativeText": "Day trip to Engelberg with mountain hike and views of the surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engelberg_Best_of_Switzerland_Tours_04f91b6cee.jpg"
+    },
+    {
+      "alternativeText": "Trottibike Engelberg. Two people are riding Trottibikes along a picturesque road in the green.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Trottibike_Engelberg_Best_of_Switzerland_Tours_c2912efd8f.jpg"
+    },
+    {
+      "alternativeText": "Titlis Rotair cable car glides over snow-covered mountains in Engelberg.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seilbahn_Best_of_Switzerland_Tours_abb527a04d.jpg"
+    },
+    {
+      "alternativeText": "Lucerne with Chapel Bridge, clear sky, idyllic old town.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_Best_of_Switzerland_Tours_551768b73f.jpg"
+    },
+    {
+      "alternativeText": "Lucerne on Lake Lucerne with Swans and Chapel Bridge",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_e90ad23b21cd2df2840d1b84f0d0f91c_72ce7c85ce.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

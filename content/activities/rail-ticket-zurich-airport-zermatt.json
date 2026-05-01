@@ -1,0 +1,90 @@
+{
+  "id": "1296",
+  "slug": "rail-ticket-zurich-airport-zermatt",
+  "name": "Rail ticket between Zurich Airport and Zermatt",
+  "description": "Discover Rail ticket between Zurich Airport and Zermatt in Switzerland.",
+  "longDescription": "Discover Rail ticket between Zurich Airport and Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "70",
+    "title": "Train ticket",
+    "slug": "train-ride",
+    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "MGB: Train ride along the mountains and river, ideal for hiking and mountain biking.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_4_Seraina_a3c536225f.jpg"
+    },
+    {
+      "alternativeText": "Zurich: impressive view of the city train and green surroundings in the heart of the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Pixabay_dd830287d4.jpg"
+    },
+    {
+      "alternativeText": "Zurich Airport: Modern airport with airplane and beautiful sky, perfect for travelers in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kloten_unsplash_856831573c.jpg"
+    },
+    {
+      "alternativeText": "Zermatt: picturesque residential buildings in the mountains surrounded by nature and idyllic landscapes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Foto_unsplash_045f925e8f.jpg"
+    },
+    {
+      "alternativeText": "MGB: Red track in the valley surrounded by mountains in summer under a clear blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_2_Seraina_6a6314d8a0.jpg"
+    },
+    {
+      "alternativeText": "MGB: Experience the scenic train ride through the landscape of Zermatt with forests and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_5_Seraina_4aedba319d.jpg"
+    },
+    {
+      "alternativeText": "Zermatt: Snow-covered village with the Matterhorn and wintry Alpine landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pexels_Zermatt_3ca5da43f7.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zermatt"
+  ],
+  "featured": false
+}

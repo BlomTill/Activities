@@ -1,0 +1,95 @@
+{
+  "id": "613",
+  "slug": "catch-the-agent-biel",
+  "name": "\"Catch the Agent\" GPS game in Biel for team events",
+  "description": "Discover \"Catch the Agent\" GPS game in Biel for team events in Switzerland.",
+  "longDescription": "Discover \"Catch the Agent\" GPS game in Biel for team events in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "201",
+      "title": "Jura & Three-Lakes Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/catch-the-agent-biel/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Biel",
+      "caption": "Escape Game Biel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a38a7e780109761dbe086d18a5c57fa0.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Escape Game Biel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26cceb6fa1c47ebaa211a1d7b2e17b23.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Escape Game Biel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/01a75b87be77551afb2d62df17c00c85.jpg"
+    },
+    {
+      "alternativeText": "7 - Action E",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fc0ffecedb0958fa2c165f4504a5b1a7.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Escape Game Biel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/84b50622441fd7d90f25b0cdef325e5b.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Escape Game Biel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e5112e016c1a47606cfaf5c4f886939e.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Escape Game Biel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0c21607bb9ec8c46b384e76c9fd48805.jpg"
+    },
+    {
+      "alternativeText": "Karte",
+      "caption": "Escape Game Biel",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/44e5c9ae2d9f111092805edbd357ef97.PNG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

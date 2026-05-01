@@ -1,0 +1,100 @@
+{
+  "id": "974",
+  "slug": "item-1770730649627-iqb4z",
+  "name": "Verzasca Valley: Ride a 3-wheeled Vanderhall roadster starting from Locarno",
+  "description": "Discover Verzasca Valley: Ride a 3-wheeled Vanderhall roadster starting from Locarno in Switzerland.",
+  "longDescription": "Discover Verzasca Valley: Ride a 3-wheeled Vanderhall roadster starting from Locarno in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "63",
+    "title": "Quad",
+    "slug": "quad",
+    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/item-1770730649627-iqb4z/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "MG_5714-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/20f54eb713e50d4d4b1a465721ebf477.jpg"
+    },
+    {
+      "alternativeText": "MG_5716-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/063f6efe6d39ba4c900f8fd6671ca178.jpg"
+    },
+    {
+      "alternativeText": "venice-rodster_new-2048x1380 (1) copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6240b7112672941f19c32f34043af92e.jpg"
+    },
+    {
+      "alternativeText": "00 verzasca3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6c90ea3f64bffea4785487c40c2514f1.jpg"
+    },
+    {
+      "alternativeText": "01 verzasca1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e78f31ae6b45ab567f236d3c03d65f2a.jpg"
+    },
+    {
+      "alternativeText": "batch_verzasca2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc4026887a3b2719d2934f5e83591b05.jpg"
+    },
+    {
+      "alternativeText": "batch_verzasca4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cdea015f76746038931eca57a666df2e.jpg"
+    },
+    {
+      "alternativeText": "batch_verzasca6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cdbab3ec4877b550352d504d7df221c6.jpg"
+    },
+    {
+      "alternativeText": "batch_verzasca5",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a661d43249d2aa88baf6992eddfe6e1d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

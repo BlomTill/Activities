@@ -1,0 +1,87 @@
+{
+  "id": "820",
+  "slug": "family-lama-and-alpaca-trekking",
+  "name": "Family Lama and Alpaca Trekking",
+  "description": "Discover Family Lama and Alpaca Trekking in Switzerland.",
+  "longDescription": "Discover Family Lama and Alpaca Trekking in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "28",
+    "title": "Llama and alpaca trekking",
+    "slug": "llama-and-alpaca-trekking",
+    "description": "Book now your excursion with llama or alpaca trekking. The beautiful and curious animals fit almost every event: whether children's birthday party, wedding or school trip. A hike with the animals through the mountains or along meadows and rivers is a special experience for young and old. Get to know the cute animals up close while you walk with them through beautiful landscapes."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/family-lama-and-alpaca-trekking/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Alpaca2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f3111d9abf22ec304bfc60477a73c373.jpg"
+    },
+    {
+      "alternativeText": "Alpaca",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c9abb72bb4d164224895a61b14a17d61.jpg"
+    },
+    {
+      "alternativeText": "Unnamed (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/05b35fb058a6ed71cd1b8207c2c50506.jpg"
+    },
+    {
+      "alternativeText": "Alpaca3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4706fdfc7ff25b9aae9d40f68bbccb53.jpg"
+    },
+    {
+      "alternativeText": "Alpaca4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e9298088bdacc3345f5727354883b6c3.jpg"
+    },
+    {
+      "alternativeText": "untitled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba17cc7f86f0ab1cb82304288d06c60e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "family"
+  ],
+  "featured": false
+}

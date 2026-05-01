@@ -1,0 +1,113 @@
+{
+  "id": "325",
+  "slug": "in-geneva-glacier-3000-les-diablerets-and-montreux-open-top-bus-tour",
+  "name": "In Geneva: Glacier 3000 Les Diablerets and Montreux Open-Top Bus Tour",
+  "description": "Discover In Geneva: Glacier 3000 Les Diablerets and Montreux Open-Top Bus Tour in Switzerland.",
+  "longDescription": "Discover In Geneva: Glacier 3000 Les Diablerets and Montreux Open-Top Bus Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-geneva-glacier-3000-les-diablerets-and-montreux-open-top-bus-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Glacier 3000 Peak Walk",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be0a139a8c315d9fef77c42bd7246a69.jpg"
+    },
+    {
+      "alternativeText": "Peak Walk",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e10c9045e9abebcb7be3df5345fd3d0.jpg"
+    },
+    {
+      "alternativeText": "Peak Walk",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/199927d8d4b13a92f017798e676bab1c.jpg"
+    },
+    {
+      "alternativeText": "Glacier 3000 ",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/870bbc89340a6e9a404d66e5b7778c69.JPG"
+    },
+    {
+      "alternativeText": "Glacier 3000 ",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba87ec8eb9ac51d648c41a9b27683953.jpg"
+    },
+    {
+      "alternativeText": "Diablerets",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24b5af6784d8c04a6dda71a75c35cca1.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/479d25ec915357aaac4575c52f8d4f2d.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e2bbe6ccf89b8b47a45e3aabc89ce171.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c91ecc505138a0cf5c5ad5414e437b5b.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f22a223579b8102f7b4311c8bfb3bdef.jpg"
+    },
+    {
+      "alternativeText": "Montreux",
+      "caption": "Glacier 3000 Tour Genf",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/56d7cb1ec9ac83c21aa6df54c4258afe.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "geneva"
+  ],
+  "featured": false
+}

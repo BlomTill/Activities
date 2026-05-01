@@ -1,0 +1,75 @@
+{
+  "id": "615",
+  "slug": "baden-interactive-scavenger-hunt-with-the-smartphone",
+  "name": "Baden interactive scavenger hunt with the smartphone",
+  "description": "Discover Baden interactive scavenger hunt with the smartphone in Switzerland.",
+  "longDescription": "Discover Baden interactive scavenger hunt with the smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/baden-interactive-scavenger-hunt-with-the-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Baden: Discover the mysterious towers at the outdoor escape game, perfect for adventures with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/baden_carousel_1_96abb89ced.jpg"
+    },
+    {
+      "alternativeText": "Baden Escape Game: Group of laughing friends on an exciting adventure in Baden.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/baden_carousel_2_bf8cfa4893.jpg"
+    },
+    {
+      "alternativeText": "Baden Escape Game: experience exciting adventures in Baden with friends or family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/baden_carousel_3_7a310fd65e.jpg"
+    },
+    {
+      "alternativeText": "Baden Escape Game: Experience an exciting puzzle adventure in a historic setting with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/baden_carousel_4_88a3f16aca.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

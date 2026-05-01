@@ -1,0 +1,112 @@
+{
+  "id": "1369",
+  "slug": "virtual-adventure-color-stadium",
+  "name": "\"Color Stadium\" Virtual Adventure in Zofingen",
+  "description": "Discover \"Color Stadium\" Virtual Adventure in Zofingen in Switzerland.",
+  "longDescription": "Discover \"Color Stadium\" Virtual Adventure in Zofingen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/virtual-adventure-color-stadium/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Virtual Adventure: colorful arena with interactive elements and exciting gameplay.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fb03f7ea5b7d8cdaf92734f2ec06dcd6.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Experience thrilling VR adventures in a colorful, interactive environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/40ff572d2a90738cd9d1a941ae1b9ca7.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Experience a colorful stadium with creative game options for groups and children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7d2922b1ef1d73ce801bdabc5219c58e.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Players experience thrilling VR action adventure in a creative space with graffiti.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/37a951bb1698dd7f6f7bfb6951409b1b.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Discover colorful virtual adventures in a creative workshop",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/515fe7e0abc90df3c30657fd20285421.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: discover the colors of an exciting adventure in a digital environment",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/59a36b4d94c49b1384067e8e9b012688.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Players in the colorful stadium enjoy an exciting VR experience.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5a4bf0b2e8b58889ebdb2d7a0c20f532.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Discover a colorful, creative setting with fantastic shapes and structures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/88d5f8aab4df7c0427169ff614629f93.jpg"
+    },
+    {
+      "alternativeText": "Virtual adventures: Exciting games to experience at Color Stadium for groups and children.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5f341e84cc84eed3237847ac91b89f06.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Experience colorful game worlds and exciting adventures in virtual reality",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/42617b7026fc0ca34b27db5c7c3bf1f7.jpg"
+    },
+    {
+      "alternativeText": "Virtual Adventure: Group of friends gaming in a relaxed atmosphere at the Color Stadium.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/78655fadbc444d11916d126a427ff5b0.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure"
+  ],
+  "featured": false
+}

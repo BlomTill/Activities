@@ -1,0 +1,93 @@
+{
+  "id": "1483",
+  "slug": "ski-and-snowboard-day-ticket-tschentenalp",
+  "name": "Ski and snowboard day ticket Tschentenalp",
+  "description": "Discover Ski and snowboard day ticket Tschentenalp in Switzerland.",
+  "longDescription": "Discover Ski and snowboard day ticket Tschentenalp in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "29",
+    "title": "Lift tickets",
+    "slug": "lift-tickets",
+    "description": "Discover and book your next ski ticket in Switzerland here. Ski tickets are offered for different time periods. They are valid for several hours or half a day, one day, several days or a whole season. With a ski ticket you get access to the ski area with all ski lifts and cable cars. Often other attractions are included. In total there are about 7000 km of ski slopes in Switzerland. Some higher ski resorts are located on a glacier. Thanks to them, depending on the region, it is even possible to ski in summer."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/the-tschentenalp/ski-and-snowboard-day-ticket-tschentenalp/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Skiing Tschentenalp 2023, skiers on a snow-covered slope, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Tschentenalp_Adelboden_Ski_Tschentenalp_f208ec19a1.jpg"
+    },
+    {
+      "alternativeText": "Funpark Tschentenalp children with skiers on the slope in the snow.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Funpark_Tschentenalp_Kinder_Tschentenalp_54dc4e695d.jpg"
+    },
+    {
+      "alternativeText": "Funpark Tschentenalp Children with colorful figures in the snow",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kids_Funpark_Tschentenalp_Tschentenalp_69ac424a18.jpg"
+    },
+    {
+      "alternativeText": "Chairlift Adelboden Tschentenalp with skier in a winter landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sessellift_Adelboden_Tschentenalp_Tschentenalp_019716d2db.jpg"
+    },
+    {
+      "alternativeText": "Skiing in Adelboden on snow-covered slopes, ideal conditions, clear visibility.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Adelboden_Tschentenalp_cd38669f23.jpg"
+    },
+    {
+      "alternativeText": "Skiing in Adelboden Tschentenalp, skiing skier, snowy mountain",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Piste_Adelboden_Tschentenalp_41d406cba4.jpg"
+    },
+    {
+      "alternativeText": "Skiing in Adelboden Tschentenalp with snow-covered mountains and blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skigebiet_Tschentenalp_Adelboden_Tschentenalp_4cc210c79d.jpg"
+    },
+    {
+      "alternativeText": "Skiing Adelboden Tschentenalp with snow-covered slopes and mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skigebiet_Tschentenalp_Adelboden_Ski_Tschentenalp_3f8c89462e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

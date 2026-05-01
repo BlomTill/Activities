@@ -1,0 +1,80 @@
+{
+  "id": "510",
+  "slug": "aarau-interactive-scavenger-hunt-with-the-smartphone",
+  "name": "Aarau interactive scavenger hunt with the smartphone",
+  "description": "Discover Aarau interactive scavenger hunt with the smartphone in Switzerland.",
+  "longDescription": "Discover Aarau interactive scavenger hunt with the smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/aarau-interactive-scavenger-hunt-with-the-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Aarau: Interactive treasure hunt through the city with modern elements.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aarau_carousel_1_EN_4e92e14d05.jpg"
+    },
+    {
+      "alternativeText": "Aarau interactive scavenger hunt with friends in the city. Discover adventures and experiences.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aarau_carousel_2_70082757ea.jpg"
+    },
+    {
+      "alternativeText": "Aarau: Discover the city with an interactive treasure hunt for groups and kids.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aarau_carousel_3_c36929c53c.jpg"
+    },
+    {
+      "alternativeText": "Aarau: interactive treasure hunt in front of a historic façade with an app for solving tasks.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aarau_carousel_4_a22a9e5383.jpg"
+    },
+    {
+      "alternativeText": "Aarau: Discover the interactive treasure hunt for children with friends and family.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aarau_carousel_5_b7ae7dcb6e.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

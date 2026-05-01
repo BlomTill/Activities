@@ -1,0 +1,99 @@
+{
+  "id": "1159",
+  "slug": "tellpass",
+  "name": "Lucerne Travel Pass 2nd Class",
+  "description": "Discover Lucerne Travel Pass 2nd Class in Switzerland.",
+  "longDescription": "Discover Lucerne Travel Pass 2nd Class in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "130",
+    "title": "Swiss Rail Passes",
+    "slug": "rail-pass",
+    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rail-pass/tellpass/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "The steamboat Vierwaldstättersee sails through the impressive nature of Lake Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Dapmfschiff_Vierwaldstaettersee_Pia_Zellweger_cee7bec0a9.jpg"
+    },
+    {
+      "alternativeText": "Screenshot 2026-03-07 at 11:12:09 PM",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/44d6173697ca392b135773b0581a9c64.jpg"
+    },
+    {
+      "alternativeText": "Transfer from ship to train in Fluelen Central Switzerland, picturesque surroundings and leisure activities by the lake",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Umstieg_von_Schiff_auf_Zug_in_Flueelen_Zentralschweiz_SBB_CFF_FFS_Foto_Swiss_Travel_System_AG_7dd5ebc3a4.jpeg"
+    },
+    {
+      "alternativeText": "Vitznau Rack Railway: Cozy ride with family and friends through the picturesque Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_Vitznau_rack_railway_Schweiz_Tourismus_Christof_Sonderegger_648a4b04fb.jpg"
+    },
+    {
+      "alternativeText": "Cable car to Stanserhorn with a view of Lake Lucerne and the surrounding nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14_Seilbahn_Cabrio_Stanserhorn_Seraina_230ea11bb1.jpeg"
+    },
+    {
+      "alternativeText": "Lucerne–Interlaken Express: scenic train ride through Central Switzerland with mountains and forests.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_Interlaken_Express_auf_dem_Bruenig_Zentralschweiz_Foto_Swiss_Travel_System_AG_67f667bc16.jpeg"
+    },
+    {
+      "alternativeText": "Stanserhorn: Experience breathtaking views of the mountains and nature in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/13_Stanserhorn_Seraina_a2188e111b.jpeg"
+    },
+    {
+      "alternativeText": "Rigi Kulm: Beautiful view of the Rigi Railway and the train in the landscape of Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_3x2_Rigi_Kulm_Rigi_Railway_Foto_Schweiz_Tourismus_Christian_Meixner_e7f3e9a370.jpg"
+    },
+    {
+      "alternativeText": "Rigi Kulm: Ride the Rigi Railway through the breathtaking nature of the Swiss Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_3x2_Rigi_Kulm_Rigi_Railway_Foto_Schweiz_Tourismus_Christian_Meixner_f9a737dee5.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

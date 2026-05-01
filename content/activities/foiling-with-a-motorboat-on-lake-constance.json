@@ -1,0 +1,83 @@
+{
+  "id": "681",
+  "slug": "foiling-with-a-motorboat-on-lake-constance",
+  "name": "Foiling with a motorboat on Lake Constance",
+  "description": "Discover Foiling with a motorboat on Lake Constance in Switzerland.",
+  "longDescription": "Discover Foiling with a motorboat on Lake Constance in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34850",
+    "title": "Foil and Wing Experiences",
+    "slug": "wingsurfing-and-wing-foiling",
+    "description": "Book your unique experience on the water now. Foil and wing experiences combine modern board sports with or without hydrofoils for dynamic gliding over the water. Foiling options use an underwater wing, making the board appear to float. This also includes wingsurfing and wingfoiling, where a freely controlled wing provides the wind propulsion."
+  },
+  "location": {
+    "region": {
+      "id": "480",
+      "title": "Germany"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wingsurfing-and-wing-foiling/foiling-with-a-motorboat-on-lake-constance/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_7784-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/986d98efe0aaaebc4bf900dc80b68132.jpeg"
+    },
+    {
+      "alternativeText": "IMG_7812-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fe4c0e6f4406b8d7d8bd388159db7290.jpeg"
+    },
+    {
+      "alternativeText": "IMG_7836-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2501d76a75996cdd0473feba0e38d83f.jpeg"
+    },
+    {
+      "alternativeText": "IMG_7860-scaled",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/787d56ea8360ee4ebc5eab20b8fa192b.jpeg"
+    },
+    {
+      "alternativeText": "IMG_7944-scaled (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2629d6a6a2a2e75235e7206caebb5486.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "boat"
+  ],
+  "featured": false
+}

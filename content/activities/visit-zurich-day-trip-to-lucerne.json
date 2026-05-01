@@ -1,0 +1,104 @@
+{
+  "id": "280",
+  "slug": "visit-zurich-day-trip-to-lucerne",
+  "name": "Visit Zurich: Day Trip to Lucerne",
+  "description": "Discover Visit Zurich: Day Trip to Lucerne in Switzerland.",
+  "longDescription": "Discover Visit Zurich: Day Trip to Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/visit-zurich-day-trip-to-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lucerne city wall with mountain view in the background, on a sunny day",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_old_town_musegg_wall_11e53e02f3_36765d5bd3.jpg"
+    },
+    {
+      "alternativeText": "Chapel Bridge Lucerne with Water Tower and Flowers in Front",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kapellbruecke_2_Best_of_Switzerland_Tours_cf39147177.jpg"
+    },
+    {
+      "alternativeText": "Chapel Bridge Lucerne with wooden structures and painted panels",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kapellbruecke_Luzern_Best_of_Switzerland_Tours_83054fd95f.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Lion Monument with surrounding water and trees.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_lion_monument_9618699652_e308ccd3c1.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Day Trip, Waterfall, Quay with Visitors and Activities",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_kkl_lakeside_fountain_98f3517eaf_e37e279901.jpg"
+    },
+    {
+      "alternativeText": "Lucerne day trip with a view of the city lake and passersby in the area",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_kkl_lake_side_balcony_279e81ee58_09e9b90dfc.jpg"
+    },
+    {
+      "alternativeText": "Lucerne Day Trip with a View of Beautiful Buildings by the Water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_old_town_town_hall_brewery_c67d8e2903_5ddc438628.jpg"
+    },
+    {
+      "alternativeText": "Sailboat on Lake Lucerne with a view of Lucerne, blue clouds",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_saphir_yacht_cruise_lake_deck_389806047c_8c4f42ebee.jpg"
+    },
+    {
+      "alternativeText": "Boat trip on Lake Lucerne with a view of Lucerne, passing tourist boats and cityscapes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bootsfahrt_Luzern_Best_of_Switzerland_Tours_d3ec8123e6.jpg"
+    },
+    {
+      "alternativeText": "Jesuit Church Lucerne with Baroque Architecture and Green Water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jesuitenkirche_Best_of_Switzerland_Tours_81d9d44c08.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

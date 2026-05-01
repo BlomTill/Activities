@@ -1,0 +1,75 @@
+{
+  "id": "737",
+  "slug": "urban-golf-in-chur-incl--material-rental",
+  "name": "Urban Golf in Chur incl. material rental",
+  "description": "Discover Urban Golf in Chur incl. material rental in Switzerland.",
+  "longDescription": "Discover Urban Golf in Chur incl. material rental in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "64",
+    "title": "Golf",
+    "slug": "golf",
+    "description": "Discover your exceptional place for golf and book right here. Green meadows on remote high valleys, behind them the mountains and a view of the beautiful lake landscape. What could be better than playing golf in the middle of it all? You will find well-kept golf courses everywhere in Switzerland. You can practice your tee shot in the vastness of the Engadine, in Lavaux with a view over the Vaud Alps or in Grindelwald in front of an impressive mountain panorama."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/golf/urban-golf-in-chur-incl--material-rental/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "urban-golf-flavio-schlegel (3)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb6bf89fca2899b581e8a37993387acc.jpg"
+    },
+    {
+      "alternativeText": "urban-golf-flavio-schlegel (5)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/23930e7a5d83b59a8b113ef35cbfa8c7.jpg"
+    },
+    {
+      "alternativeText": "urban-golf-flavio-schlegel (7)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0c9359c4e42e5dfd5ce765ee4a06abfc.jpg"
+    },
+    {
+      "alternativeText": "urban-golf-flavio-schlegel (8)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f228b53b661da111c900006ce64a637f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

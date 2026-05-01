@@ -1,0 +1,79 @@
+{
+  "id": "700",
+  "slug": "seebodenalp-family-picnic-chugelbahn",
+  "name": "Family picnic and marble run on the Seebodenalp",
+  "description": "Discover Family picnic and marble run on the Seebodenalp in Switzerland.",
+  "longDescription": "Discover Family picnic and marble run on the Seebodenalp in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/seebodenalp-family-picnic-chugelbahn/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Picnic: Cozy family picnic at Seebodenalp with cheese, vegetables, and fresh berries.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8589cb4d1677e87211c6d8f8ece8064a.jpg"
+    },
+    {
+      "alternativeText": "Picnic: Family gathering with plenty of treats on the table, perfect for summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e2ea6a11b9db05b6016358dd44b6e9c5.png"
+    },
+    {
+      "alternativeText": "Picnic: Enjoyable treats at the family picnic in Seebodenalp in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/64851ee8e421a27d774d2e9e00391846.jpg"
+    },
+    {
+      "alternativeText": "Picnic Seebodenalp: Family picnic with delicious food outdoors, relaxing time in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ed1fc6efa68326c70123685f039c39da.jpg"
+    },
+    {
+      "alternativeText": "Picnic: Family picnic on Seebodenalp with delicious snacks and fresh fruits.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/abf9c5dd0f774038f72358289328ed3d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "family"
+  ],
+  "featured": false
+}

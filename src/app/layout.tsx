@@ -75,7 +75,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#dc2626" />
         <link rel="apple-touch-icon" href="/icons/icon-192.png" />
       </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col`}>
+      <body className={`${geistSans.variable} ${geistMono.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col alpine-page`}>
         <AgeGroupProvider>
           <GroupProvider>
             <ComparisonProvider>

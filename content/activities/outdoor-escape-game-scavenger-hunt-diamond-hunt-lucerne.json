@@ -1,0 +1,97 @@
+{
+  "id": "444",
+  "slug": "outdoor-escape-game-scavenger-hunt-diamond-hunt-lucerne",
+  "name": "\"Diamond Hunt\" Smartphone Scavenger Hunt in Lucerne",
+  "description": "Discover \"Diamond Hunt\" Smartphone Scavenger Hunt in Lucerne in Switzerland.",
+  "longDescription": "Discover \"Diamond Hunt\" Smartphone Scavenger Hunt in Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/outdoor-escape-game-scavenger-hunt-diamond-hunt-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Diamantenjagd",
+      "caption": "Smartphone Schnitzeljagd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e9b2ff11e6b2eae0de1fc69266118a1.jpg"
+    },
+    {
+      "alternativeText": "Diamantenjagd",
+      "caption": "Smartphone Schnitzeljagd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c964c27d19eeca5e9adf93cf8977623e.jpg"
+    },
+    {
+      "alternativeText": "Diamantenjagd",
+      "caption": "Smartphone Schnitzeljagd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/873a0b52e4471d173d18bddc1611ef2d.jpg"
+    },
+    {
+      "alternativeText": "Diamantenjagd",
+      "caption": "Smartphone Schnitzeljagd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ae40d26017884e202b267086a68e5a13.jpg"
+    },
+    {
+      "alternativeText": "Diamantenjagd",
+      "caption": "Smartphone Schnitzeljagd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5aca52a59b5bba88d7b7502147368cd7.jpg"
+    },
+    {
+      "alternativeText": "Diamantenjagd",
+      "caption": "Smartphone Schnitzeljagd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/689849ca74c079a3e0fee51be3747145.jpg"
+    },
+    {
+      "alternativeText": "Diamantenjagd",
+      "caption": "Smartphone Schnitzeljagd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fa32cef8aeb70a9dac4cc1caecadb333.jpg"
+    },
+    {
+      "alternativeText": "Diamantenjagd",
+      "caption": "Smartphone Schnitzeljagd",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/866d4b51714919dc75806f682b0f0108.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

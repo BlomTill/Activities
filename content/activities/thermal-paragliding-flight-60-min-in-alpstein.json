@@ -1,0 +1,118 @@
+{
+  "id": "906",
+  "slug": "thermal-paragliding-flight-60-min-in-alpstein",
+  "name": "Thermal paragliding flight 60 min in Alpstein",
+  "description": "Discover Thermal paragliding flight 60 min in Alpstein in Switzerland.",
+  "longDescription": "Discover Thermal paragliding flight 60 min in Alpstein in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "34",
+    "title": "Paragliding",
+    "slug": "paragliding",
+    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/thermal-paragliding-flight-60-min-in-alpstein/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "2025_Elisabeth1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/96e18fd77b489fc3d2369cb11ec460bb.jpg"
+    },
+    {
+      "alternativeText": "202309_AlpSiegel_Ebenalp_alpstein-paragliding.ch",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/796134eaa86f4e53a4dda53383b27f9a.jpg"
+    },
+    {
+      "alternativeText": "2025_piano-keys_saentis-alpstein-paragliding",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66a47d54b5f25dd2caef859638b045f9.jpg"
+    },
+    {
+      "alternativeText": "20220612_HoherKasten_Leon_S",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/333a9add65497afc0efec6fa68492e32.jpg"
+    },
+    {
+      "alternativeText": "2022_wasserauen_landing-site",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/347913df270f4df6bc1afa9dff050058.jpg"
+    },
+    {
+      "alternativeText": "2025_Hoher_Kasten_alpsparagliding",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ef4ac2c7b5412f94da4d782654c5bd1.jpg"
+    },
+    {
+      "alternativeText": "2022_Ebenalp_INSTA360",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f0a0983c631e8044df48fc7b3df7f0f5.jpg"
+    },
+    {
+      "alternativeText": "2025_Alp-Badge_alpstein-paragliding",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ea3c507d732dce39e8cd9672a8fa3f1f.jpg"
+    },
+    {
+      "alternativeText": "2025_ebenalp-alpstein-paragliding",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26fa08542595d5eea980bc56346b9c42.jpg"
+    },
+    {
+      "alternativeText": "2025_Elisabeth",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/613ad07b0616d09b9467cbeeaa279d98.JPG"
+    },
+    {
+      "alternativeText": "20220816_ebenalp_aescher_wall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87016d985e4057b67f211f23817c05a9.jpg"
+    },
+    {
+      "alternativeText": "Hoher Kasten Top View",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/251c4dc89aed6f5e503789f248a3431f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "thermal"
+  ],
+  "featured": false
+}

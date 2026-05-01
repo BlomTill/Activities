@@ -1,0 +1,97 @@
+{
+  "id": "607",
+  "slug": "the-sasso-society-outdoor-escape-game-locarno",
+  "name": "\"The Sasso Society\" Outdoor Escape Game Locarno",
+  "description": "Discover \"The Sasso Society\" Outdoor Escape Game Locarno in Switzerland.",
+  "longDescription": "Discover \"The Sasso Society\" Outdoor Escape Game Locarno in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/the-sasso-society-outdoor-escape-game-locarno/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sato Code: Man looks curiously through plants in sunny Locarno, nature, group activity, summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code1_82b10f3168.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Interactive Art in Locarno with Happy Person and Colorful Background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code2_bf4364e39d.png"
+    },
+    {
+      "alternativeText": "Sato Code: Discover the artwork in Locarno with friends and enjoy the colors of the city.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code3_177724056e.png"
+    },
+    {
+      "alternativeText": "Woman with sunglasses holding smartphone in the city at night",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code_1_Cover_d0eb2b25a8.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: Discover the exciting activity in Locarno with creative people and urban flair.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code4_25aa5c4ad9.jpg"
+    },
+    {
+      "alternativeText": "Sato Code in Locarno: Relaxed experience in the city, ideal for friends and groups.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code5_f5079bf04f.jpg"
+    },
+    {
+      "alternativeText": "Sato Code: young man installing a code system in Locarno, technology, urbanity",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code6_ac642c7a89.png"
+    },
+    {
+      "alternativeText": "Teenagers in Locarno are using smartphones on a staircase.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Friends_playing_Sato_Code_2_e05bbd1f8d.jpeg"
+    },
+    {
+      "alternativeText": "Locarno: historic building with a view of the lake and surrounding mountains in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Locarno1_ffead552f7.png"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

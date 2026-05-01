@@ -1,0 +1,107 @@
+{
+  "id": "441",
+  "slug": "catch-the-agent-catag-gps-game-lucerne",
+  "name": "\"Catch the Agent\" GPS game for team events in Lucerne",
+  "description": "Discover \"Catch the Agent\" GPS game for team events in Lucerne in Switzerland.",
+  "longDescription": "Discover \"Catch the Agent\" GPS game for team events in Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/catch-the-agent-catag-gps-game-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Luzern",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af8e915169f12c02115e978bf74a0799.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eca32f32db2aad8abe3efd4cc2cd569a.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/65e30cbc8a348ee94d5076acdc662736.jpg"
+    },
+    {
+      "alternativeText": "Luzern",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dc4c3758e832c31ee03d11162574e6fb.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b001ad63a8bc75560cf4c8c449535754.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8af4e81785814db554230024ff2a6318.jpg"
+    },
+    {
+      "alternativeText": "Luzern",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a8ba01a6f4491362d0c1b4e303dcf171.jpg"
+    },
+    {
+      "alternativeText": "Spieler in Aktion",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02ef78b3f3833748ceafb6df58644462.jpg"
+    },
+    {
+      "alternativeText": "Plan",
+      "caption": "Catch the Agent Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d3b02f142b2baced736d8bcda32feee3.PNG"
+    },
+    {
+      "alternativeText": "7 - Action E",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f63e612864aa150883ff9c797f64734.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

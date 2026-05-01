@@ -1,0 +1,101 @@
+{
+  "id": "1031",
+  "slug": "helicopter-sightseeing-flight-jura-and-bernese-seeland-from-bern-belp",
+  "name": "Jura and Bernese Lake District Helicopter Flight 54 minutes",
+  "description": "Discover Jura and Bernese Lake District Helicopter Flight 54 minutes in Switzerland.",
+  "longDescription": "Discover Jura and Bernese Lake District Helicopter Flight 54 minutes in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "46",
+    "title": "Scenic flight",
+    "slug": "sightseeing-flight",
+    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-jura-and-bernese-seeland-from-bern-belp/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Helicopter flight over Jura Seeland in 2023, view of the clouds and mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_7c8918d93b9226c5edffd65c67eab5a6_f0ae66b735.jpg"
+    },
+    {
+      "alternativeText": "Jura Seeland Helicopter over windy landscape with trees",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_681dd11d8d38c2771d96ad4fb7407e1c_ae3024c8cb.jpg"
+    },
+    {
+      "alternativeText": "Jura Seeland helicopter flies over mountain landscape under blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_9556f74d662805fbb345147a2f943519_8f53981480.jpg"
+    },
+    {
+      "alternativeText": "Helicopter sightseeing flight over the blue sky with clouds",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_9b3cc0b956675fd244a807b554b732cb_45690db0d7.jpg"
+    },
+    {
+      "alternativeText": "Jura Seeland with vineyards in autumn by Lake Biel.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jura_Seeland_Bielersee_ea662e6298.jpg"
+    },
+    {
+      "alternativeText": "Jura Seeland View from Chasseral with Grazing Landscape and Villages",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jura_Seeland_Blick_vom_Chasseral_4f551dd588.jpg"
+    },
+    {
+      "alternativeText": "Creux du Van in the Jura with steep cliffs and green meadows, clear skies",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jura_Seeland_Creux_du_Van_109485bbfd.jpg"
+    },
+    {
+      "alternativeText": "Helicopter flight over Murten in the Jura Seeland, view of Lake Murten, surrounding landscape and old town",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jura_Seeland_Murten_9318118f9b.jpg"
+    },
+    {
+      "alternativeText": "Wind turbine in the Jura Seeland with blue sky, hills in the background.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jura_Seeland_Rundflug_1d57746aed.webp"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "bern"
+  ],
+  "featured": false
+}

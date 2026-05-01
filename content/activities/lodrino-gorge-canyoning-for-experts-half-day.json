@@ -1,0 +1,100 @@
+{
+  "id": "194",
+  "slug": "lodrino-gorge-canyoning-for-experts-half-day",
+  "name": "Lodrino gorge canyoning for experts half day",
+  "description": "Discover Lodrino gorge canyoning for experts half day in Switzerland.",
+  "longDescription": "Discover Lodrino gorge canyoning for experts half day in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/lodrino-gorge-canyoning-for-experts-half-day/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Lodrino Canyoning with participants in the canyon",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lodrino_lookout_089d3d5f66.jpg"
+    },
+    {
+      "alternativeText": "Lodrino Canyoning, water sports enthusiasts with helmet and equipment, waterfall",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_Lodrino_35f67c9abe.jpg"
+    },
+    {
+      "alternativeText": "Water slide at Lodrino Canyoning, splashing water and rocks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Lodrino_ba5a9a85f6.jpg"
+    },
+    {
+      "alternativeText": "Lodrino Canyoning features a narrow gorge with large rocks and natural erosion.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lodrino_Canyon_e9f8e5cfdf.jpg"
+    },
+    {
+      "alternativeText": "Lodrino Canyoning: Water sports enthusiasts traverse rocky gorge.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lodrino_background_49ce67f8f4.jpg"
+    },
+    {
+      "alternativeText": "Waterfall during canyoning in Ticino, sporting activity in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lodrino_couple_big_1024x1024_958214b205.jpg"
+    },
+    {
+      "alternativeText": "Lodrino Canyoning: Person in neon yellow clothing slides over rocks into water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rutschen_Lodrino_Canyoning_d400dfad42.jpg"
+    },
+    {
+      "alternativeText": "Lodrino Canyoning: Person jumps into water, rocks, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Springen_Lodrino_Canyoning_972f7139b1.jpg"
+    },
+    {
+      "alternativeText": "Waterfall during canyoning in Lodrino with flowing water, rocks, and green surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wasserfall_Lodrino_Canyoning_53f825edc3.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

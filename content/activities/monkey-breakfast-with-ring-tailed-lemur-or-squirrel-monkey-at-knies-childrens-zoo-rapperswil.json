@@ -1,0 +1,67 @@
+{
+  "id": "1463",
+  "slug": "monkey-breakfast-with-ring-tailed-lemur-or-squirrel-monkey-at-knies-childrens-zoo-rapperswil",
+  "name": "Monkey breakfast with Ring-tailed Lemur or Squirrel Monkey at Knies Children's Zoo Rapperswil",
+  "description": "Discover Monkey breakfast with Ring-tailed Lemur or Squirrel Monkey at Knies Children's Zoo Rapperswil in Switzerland.",
+  "longDescription": "Discover Monkey breakfast with Ring-tailed Lemur or Squirrel Monkey at Knies Children's Zoo Rapperswil in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "129",
+    "title": "Zoo",
+    "slug": "zoo",
+    "description": "Book your ticket for the zoo here. There are more than 30 zoos and animal parks in Switzerland. Most of them offer a high variety of animals that you can visit and marvel at. The oldest and also the largest zoo in Switzerland is the Basel Zoo, founded in 1874. The \"Zolli\" is located in the middle of the city and is home to more than 600 species of animals. The large Zurich zoo is known for many exotic offspring and is also very popular. Unlike the zoos in the big cities, regional zoos often display animal species that live or have lived in the wild in Switzerland. A good example is the zoo in Goldau"
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/monkey-breakfast-with-ring-tailed-lemur-or-squirrel-monkey-at-knies-childrens-zoo-rapperswil/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "MonkeyBreakfast",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0fb3c77276b060fadfe6bfee9c02772e.jpg"
+    },
+    {
+      "alternativeText": "katta-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/522860d5aa5316eaf880980af10504f7.jpg"
+    },
+    {
+      "alternativeText": "katta-1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/525a374fad55601a86089ab3f18e6b8d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

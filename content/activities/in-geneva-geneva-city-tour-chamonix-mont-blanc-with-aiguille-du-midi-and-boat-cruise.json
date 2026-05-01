@@ -1,0 +1,125 @@
+{
+  "id": "350",
+  "slug": "in-geneva-geneva-city-tour-chamonix-mont-blanc-with-aiguille-du-midi-and-boat-cruise",
+  "name": "In Geneva: Geneva City Tour, Chamonix Mont Blanc with Aiguille du Midi and Boat Cruise",
+  "description": "Discover In Geneva: Geneva City Tour, Chamonix Mont Blanc with Aiguille du Midi and Boat Cruise in Switzerland.",
+  "longDescription": "Discover In Geneva: Geneva City Tour, Chamonix Mont Blanc with Aiguille du Midi and Boat Cruise in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-with-aiguille-du-midi-and-boat-cruise/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Aiguille du Midi with a view of the Alps and Mont Blanc.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TAM_Pas_de_le_Vide_5_B_2019_B_DELAPIERRE_ac02fec578.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aiguille_Du_Midi_Pas_Dans_Le_Vide_OT_Chamonix_211f839e62.JPG"
+    },
+    {
+      "alternativeText": "Chamonix Mont-Blanc, lively town with snow-covered mountains, blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village4_2048_10_f4fdcb94fb.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi with snow-covered mountains in the background, visitors on the viewing platform",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_aiguille_du_1_f8fd28b504.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi with snow-covered mountains and glacier",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pas_vide_Caro_14low1gyg_dbc9843b6e.jpg"
+    },
+    {
+      "alternativeText": "Aiguille du Midi",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_aiguille_du_2_e821c74519.jpg"
+    },
+    {
+      "alternativeText": "Mont Blanc, snow-covered peaks, clear skies, Aiguille du Midi.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mont_Blanc_ete_COPYRIGHT_BANNIKOV_cd58bc8d71.JPG"
+    },
+    {
+      "alternativeText": "Geneva with water spouts and boat in the water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7684250892_2f5bb8fba0_o_1ca81cca4b.jpg"
+    },
+    {
+      "alternativeText": "Flag exhibition in Geneva showcases international diversity",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSD_0415_1ee82626b9.JPG"
+    },
+    {
+      "alternativeText": "Flower Clock in Geneva with colorful plants and blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Horloge_Fleurie_e0fe38cd13.jpg"
+    },
+    {
+      "alternativeText": "Globe in Geneva with historical figures and water basins.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international1_2048_10_cfdb4bd937.jpg"
+    },
+    {
+      "alternativeText": "Historical building in Geneva with fountain and park area, radiant sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ariana_FGTC_Olivier_Miche_1_009d21f70e.JPG"
+    },
+    {
+      "alternativeText": "Bains des Pâquis in Geneva, women sitting by the water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Congres_Bains_des_Paquis_Jet_d_Eau_1_6c96dd6aac.jpg"
+    },
+    {
+      "alternativeText": "Schifffahrt Genfersee",
+      "caption": "Genf, Chamonix Mont-Blanc, Aiguille du Midi und Schifffahrt",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/72d0e13776ddf9c26ebf818c64d51ee9.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "boat",
+    "geneva"
+  ],
+  "featured": false
+}

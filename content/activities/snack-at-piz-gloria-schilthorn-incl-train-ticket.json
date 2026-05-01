@@ -1,0 +1,122 @@
+{
+  "id": "1477",
+  "slug": "snack-at-piz-gloria-schilthorn-incl-train-ticket",
+  "name": "Schilthorn Afternoon Snack \"Piz Gloria Zvieri\" including train ticket from Stechelberg",
+  "description": "Discover Schilthorn Afternoon Snack \"Piz Gloria Zvieri\" including train ticket from Stechelberg in Switzerland.",
+  "longDescription": "Discover Schilthorn Afternoon Snack \"Piz Gloria Zvieri\" including train ticket from Stechelberg in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/schilthorn-piz-gloria-your-guide/snack-at-piz-gloria-schilthorn-incl-train-ticket/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Snack on the Schilthorn with cheese and sausage",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zvieri_zur03898_webalbum_afc6a48d87.jpg"
+    },
+    {
+      "alternativeText": "Piz Gloria Afternoon Snack with Culinary Specialties and Drinks",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zvieri_zur_3026_webalbum_ffd1b6bd9d.jpg"
+    },
+    {
+      "alternativeText": "Meat platter with cold cuts and a glass of wine",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zvieri_zur03713_webalbum_55429ae709.jpg"
+    },
+    {
+      "alternativeText": "Afternoon Snack Menu with Friends in the Alps Under Sunshine",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zvieri_zur_3046_webalbum_c985e6ae63.jpg"
+    },
+    {
+      "alternativeText": "Piz Gloria: Restaurant with a magnificent view of the mountains and the sunset over the Alps. Swiss cuisine.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Piz_Gloria_Sunset_1_ohne_Logo_webalbum_1_ae4df77f88.jpg"
+    },
+    {
+      "alternativeText": "Skyline Walk Birg Schilthorn with a view of the Bernese Alps at height.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skyline_Walk_Birg_Schilthorn_e7e7770184.jpg"
+    },
+    {
+      "alternativeText": "Zvieri Piz Gloria with cheese, sausage, and snacks on a wooden platter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zvieri_zur03608_webalbum_gall_746e55444c.jpg"
+    },
+    {
+      "alternativeText": "Piz Gloria snack with cheese, sausage, and bread",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zvieri_zur03768_webalbum_gall_12e3fd1365.jpg"
+    },
+    {
+      "alternativeText": "Piz Gloria Zvieri with people toasting and enjoying regional dishes",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zvieri_zur03788_webalbum_gall_61061b0135.jpg"
+    },
+    {
+      "alternativeText": "360°-Restaurant Piz Gloria-4585 Web Album",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99ac4f93db398ddc455db6ad09769096.jpg"
+    },
+    {
+      "alternativeText": "Funifor_ZUR08063_webalbum",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/708d930ce47e6d27febfe8f1c29fb8c0.jpg"
+    },
+    {
+      "alternativeText": "Schilthorn -Panorama-5 Web Album",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/324345208277e2130ce6753531b0c463.jpg"
+    },
+    {
+      "alternativeText": "High-Speed Train Landscape in Landscape Format",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3586e8c162cdedd54a064b3b1bc32448.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "train"
+  ],
+  "featured": false
+}

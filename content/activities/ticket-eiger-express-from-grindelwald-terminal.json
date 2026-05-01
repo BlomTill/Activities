@@ -1,0 +1,94 @@
+{
+  "id": "1493",
+  "slug": "ticket-eiger-express-from-grindelwald-terminal",
+  "name": "Ticket Eiger Express from Grindelwald terminal",
+  "description": "Discover Ticket Eiger Express from Grindelwald terminal in Switzerland.",
+  "longDescription": "Discover Ticket Eiger Express from Grindelwald terminal in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/eiger-glacier/ticket-eiger-express-from-grindelwald-terminal/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Eiger Express from Grindelwald with mountain panorama",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eiger_Express_Grindelwald_Eigernordwand_Weitansicht_Kabine_rechts_a01a41b2ee.jpg"
+    },
+    {
+      "alternativeText": "Eigergletscher Station with a view of Eiger and glacier",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Station_Eigergletscher_Seraina_02cc0aef7e.jpg"
+    },
+    {
+      "alternativeText": "Eiger Express transports passengers through snowy landscapes to Grindelwald.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eiger_Express_Eiger_Winter_6a81a4bf16.jpg"
+    },
+    {
+      "alternativeText": "Eiger Express over snow-covered forests in Grindelwald.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eiger_Express_Jungfrau_6b9abf2915.jpg"
+    },
+    {
+      "alternativeText": "Eiger Express in Grindelwald with a view of mountains and winter landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eiger_Express_Grindelwald_Eigernordwand_Abendstimmung_Winter_bd55427111.jpg"
+    },
+    {
+      "alternativeText": "Eiger Express from Grindelwald with cable car and mountain view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eiger_Express_Grindelwald_Eigernordwand_Weitansicht_ba9c605e87.jpg"
+    },
+    {
+      "alternativeText": "Eigergletscher view with snow-covered mountains and clear sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eigergletscher_Aussicht_Seraina_10cb0b47f5.jpg"
+    },
+    {
+      "alternativeText": "Eiger Express Terminal at Eiger with modern access controls and waiting area.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Terminal_Eiger_Express_Mathias_1a8f825837.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "grindelwald"
+  ],
+  "featured": false
+}

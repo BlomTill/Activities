@@ -1,0 +1,85 @@
+{
+  "id": "670",
+  "slug": "item-1767181249521-zm3ux",
+  "name": "\"Find-the-Code: Deadly Vintage\" Outdoor Escape Game Twann-Ligerz",
+  "description": "Discover \"Find-the-Code: Deadly Vintage\" Outdoor Escape Game Twann-Ligerz in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Deadly Vintage\" Outdoor Escape Game Twann-Ligerz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/item-1767181249521-zm3ux/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-twann-ligerz",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fa4156996de8932dbce2187f5108a1c0.jpg"
+    },
+    {
+      "alternativeText": "map-twann-ligerz-square-compressed",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af47d0c91fea18d4e67132af09039f3e.jpg"
+    },
+    {
+      "alternativeText": "photoshoot_karlsruhe (58)edited",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e45ccd04c62680d229ffe799e26ac3d8.jpg"
+    },
+    {
+      "alternativeText": "Product image Twann-Ligerz",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66cdb24896181c008339371e6c091725.jpg"
+    },
+    {
+      "alternativeText": "group-photo-landscape-file-phone-neutral-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/82f7e68ca9950a341a165bc3b0f194dc.jpg"
+    },
+    {
+      "alternativeText": "group_sideways_cheerfully_chatting-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f1f3cc1ed687b45bb754f95cbdd51031.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

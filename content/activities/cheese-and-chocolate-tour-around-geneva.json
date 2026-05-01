@@ -1,0 +1,109 @@
+{
+  "id": "1212",
+  "slug": "cheese-and-chocolate-tour-around-geneva",
+  "name": "Cheese and Chocolate Tour around Geneva",
+  "description": "Discover Cheese and Chocolate Tour around Geneva in Switzerland.",
+  "longDescription": "Discover Cheese and Chocolate Tour around Geneva in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/cheese-and-chocolate-tour-around-geneva/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_9408",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1c57f4090c25bb14e37f4dd90c327c79.jpeg"
+    },
+    {
+      "alternativeText": "IMG_9398 Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/70a683be02ccf9fefb36417851c49997.jpg"
+    },
+    {
+      "alternativeText": "00 Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31c139510ebada9434178ddc858239ee.jpg"
+    },
+    {
+      "alternativeText": "00 (1) Copy",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0407fa8ca13fa03e72298a917284a6c.jpg"
+    },
+    {
+      "alternativeText": "IMG_1887",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/53fc98f6476d68537247330dd79a6fed.jpeg"
+    },
+    {
+      "alternativeText": "IMG_2916",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9dd861898c959d22467860ca1f4b42ec.jpeg"
+    },
+    {
+      "alternativeText": "IMG_3206",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/42e3b14d31f4d0c8207665a2325e8bb3.jpeg"
+    },
+    {
+      "alternativeText": "IMG_3761",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/42fbd4201140e251054988b712f465a0.jpeg"
+    },
+    {
+      "alternativeText": "IMG_9361",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f8b6d6f0eda3ed624179997ce3946229.jpeg"
+    },
+    {
+      "alternativeText": "IMG_1108",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4b813b4136c1e961814c31e99b1348fb.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "cheese",
+    "geneva"
+  ],
+  "featured": false
+}

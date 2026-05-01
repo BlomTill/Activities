@@ -1,0 +1,124 @@
+{
+  "id": "1151",
+  "slug": "swiss-travel-pass-en",
+  "name": "Swiss Travel Pass",
+  "description": "Discover Swiss Travel Pass in Switzerland.",
+  "longDescription": "Discover Swiss Travel Pass in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "130",
+    "title": "Swiss Rail Passes",
+    "slug": "rail-pass",
+    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rail-pass/swiss-travel-pass-en/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bernina Express: Scenic train ride through the Swiss Alps along the shimmering lake.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_Swiss_Travel_system_Ag_9fea63a005.jpeg"
+    },
+    {
+      "alternativeText": "Zurich Station: Historic station with trains and travelers in Switzerland, ideal for public transport.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Bahnhof_Zuerich_Seraina_bf09406d9e.jpg"
+    },
+    {
+      "alternativeText": "Baden: Bridge with city view and river, ideal for walks and city tours.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Baden_Zug_Pixabay_5480cb0e07.jpg"
+    },
+    {
+      "alternativeText": "1st class: Comfortable seats on the train for relaxed travel in Germany",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Klasse_Seraina_9a582ddf63.jpg"
+    },
+    {
+      "alternativeText": "Bernina Express: Train ride through the breathtaking landscape of the Alps at Morteratsch in Graubünden.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_bei_Morteratsch_Graubuenden_Foto_Swiss_Travel_system_AG_1454e81c47.jpeg"
+    },
+    {
+      "alternativeText": "Train traverses the nature in Zermatt, surrounded by mountains and forests. Ideal for adventures and group activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_5_Seraina_d494c8566e.jpg"
+    },
+    {
+      "alternativeText": "Bernina Express at Lake Bianco: Train ride through the alpine landscape of Engadin in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_beim_Lago_Bianco_Foto_Swiss_Travel_system_AG_6d57ab9744.jpeg"
+    },
+    {
+      "alternativeText": "Tram in Zurich at the main station with historic buildings and traffic, ideal for tourists.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Tram_Zuerich_Seraina_fbbdc9b90a.JPG"
+    },
+    {
+      "alternativeText": "Schilthorn: captivating view of the mountains, cable car, and picturesque village in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schilthorn_sommer_Swiss_Travel_System_AG_03f1b99fc5.jpeg"
+    },
+    {
+      "alternativeText": "Landwasser Viaduct: Impression of the spectacular Grisons viaduct with the Bernina Express.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Landwasserviadukt_Bernina_Express_Foto_Swiss_Travel_System_AG_56a09cdb4c.jpeg"
+    },
+    {
+      "alternativeText": "Stoosbahn Winter: Experience the impressive mountain railway in the snowy Swiss autumn landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stoosbahn_Winter_Foto_Swiss_Travel_System_AG_1a83fba491.jpeg"
+    },
+    {
+      "alternativeText": "Steinerberg: beautiful Voralpen express surrounded by green nature and impressive mountains in Eastern Switzerland",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Be_526_Traverso_2019_05_Steinerberg_Voralpenexpress_Ostschweiz_Foto_Swiss_Travel_System_AG_f925bc84ce.jpeg"
+    },
+    {
+      "alternativeText": "Stanserhorn: impressive view from the mountain restaurant over the surrounding Alps and forests.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_Stans_Stanserhorn_Schweiz_Tourismus_Christian_Perret_99096042e5.jpg"
+    },
+    {
+      "alternativeText": "Lauterbrunnen Kleine Scheidegg: picturesque landscape with mountains, green meadows and train ride.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_3x2_Lauterbrunnen_Kleine_Scheidegg_Switzerland_Tourism_Markus_Aebischer_7161faa2a6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

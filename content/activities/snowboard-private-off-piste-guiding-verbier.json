@@ -1,0 +1,77 @@
+{
+  "id": "1089",
+  "slug": "snowboard-private-off-piste-guiding-verbier",
+  "name": "Off-Piste Guiding Snowboard Private in Verbier",
+  "description": "Discover Off-Piste Guiding Snowboard Private in Verbier in Switzerland.",
+  "longDescription": "Discover Off-Piste Guiding Snowboard Private in Verbier in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/snowboard-private-off-piste-guiding-verbier/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Snowboardfahrer",
+      "caption": "Skischule Verbier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d421a0c3354bfe1a9a0f3a320f1e52d.jpg"
+    },
+    {
+      "alternativeText": "Snowboardfahrer",
+      "caption": "Skischule Verbier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5c159b7177dff6fe31b6cf074f1d43cb.jpg"
+    },
+    {
+      "alternativeText": "Snowboardfahrer",
+      "caption": "Skischule Verbier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16c3db61359196ed3bad2d40edd07954.jpg"
+    },
+    {
+      "alternativeText": "Snowboardfahrer",
+      "caption": "Skischule Verbier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cddace82a1ae63c592abbb902f9bc931.jpg"
+    },
+    {
+      "alternativeText": "Snowboardfahrer",
+      "caption": "Skischule Verbier",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c405c9136e7a8324cb65cdac8831671.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

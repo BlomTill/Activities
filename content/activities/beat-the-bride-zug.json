@@ -1,0 +1,87 @@
+{
+  "id": "548",
+  "slug": "beat-the-bride-zug",
+  "name": "\"Beat the bride\" in Zug: action-packed hen party",
+  "description": "Discover \"Beat the bride\" in Zug: action-packed hen party in Switzerland.",
+  "longDescription": "Discover \"Beat the bride\" in Zug: action-packed hen party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zug/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bachelorette party with friends, celebrating with drinks and fun outdoors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_2_8ca7057355.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bride: Experience for Women with Team Spirit in Uri, ideal for Bachelorette Parties.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_1_ec94f41ddb.jpg"
+    },
+    {
+      "alternativeText": "Zug: City view with the Burgbachsaal and historical buildings in the surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ilia_bronskiy_Mu8_Qkehl1i_I_unsplash_1627abdf2f.jpg"
+    },
+    {
+      "alternativeText": "Bride team with women in purple shirts celebrating in the city with drinks and good vibes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_3_e8ca9aa902.jpg"
+    },
+    {
+      "alternativeText": "Zug: Historical clock tower with impressive architecture in the city of Zug.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ilia_bronskiy_j_Rzj_Z_Xv0_J8_A_unsplash_d4cb4ff6b3.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bride: exciting team event activity outdoors with friends in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_4_1727a9bd1d.jpg"
+    },
+    {
+      "alternativeText": "Zugerseek: Relax by the shores of Lake Zug with a view of the mountains and nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_unsplash_be206cb4be.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

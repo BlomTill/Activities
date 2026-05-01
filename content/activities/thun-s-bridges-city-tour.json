@@ -1,0 +1,75 @@
+{
+  "id": "1229",
+  "slug": "thun-s-bridges-city-tour",
+  "name": "\"Thun's Bridges\": public city tour",
+  "description": "Discover \"Thun's Bridges\": public city tour in Switzerland.",
+  "longDescription": "Discover \"Thun's Bridges\": public city tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/thun-s-bridges-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bridges in Thun with a view of the Old Town, river, and mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_7e6c2d04ed93313f6450844b6a194a7d_b3fba45e62.jpg"
+    },
+    {
+      "alternativeText": "Bridges Thun Reflection in Water, Blue Sky, City Tour",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brahms_in_Thun_1_Thun_Thunersee_Tourismus_c392c440d3.jpeg"
+    },
+    {
+      "alternativeText": "Bridges Thun with blue water and city view",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_70898f7afb50b007e0530228d31ddbfc_907bea7ce1.jpg"
+    },
+    {
+      "alternativeText": "Bridges Thun, city tour with historic old town view and water view.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Thun_im_Aufbruch_3_Thun_Thunersee_Tourismus_9a97fd6f5d.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

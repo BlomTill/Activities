@@ -1,0 +1,78 @@
+{
+  "id": "1458",
+  "slug": "raft-building-lake-lucerne",
+  "name": "Team Event Raft Building at Lake Lucerne",
+  "description": "Discover Team Event Raft Building at Lake Lucerne in Switzerland.",
+  "longDescription": "Discover Team Event Raft Building at Lake Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "113",
+    "title": "Workshop",
+    "slug": "creative-workshop",
+    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/raft-building-lake-lucerne/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Flossfahrt",
+      "caption": "Teamevent Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c7f97d1bb0b4bb1740408827fbc1f6bd.jpg"
+    },
+    {
+      "alternativeText": "Flossbau",
+      "caption": "Teamevent Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3622459425dd4dcd3eed8c34e467d648.jpg"
+    },
+    {
+      "alternativeText": "Flossbau",
+      "caption": "Teamevent Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ae26863c0b0730ad314ea524b9d72ea.jpg"
+    },
+    {
+      "alternativeText": "Fahrt auf dem See",
+      "caption": "Teamevent Vierwaldstättersee",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1e0aaef7c4a2f8256f1f6bf7472a590.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "lucerne"
+  ],
+  "featured": false
+}

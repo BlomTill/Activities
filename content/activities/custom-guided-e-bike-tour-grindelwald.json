@@ -1,0 +1,127 @@
+{
+  "id": "424",
+  "slug": "custom-guided-e-bike-tour-grindelwald",
+  "name": "Custom Guided E-Bike Tour Grindelwald",
+  "description": "Discover Custom Guided E-Bike Tour Grindelwald in Switzerland.",
+  "longDescription": "Discover Custom Guided E-Bike Tour Grindelwald in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/custom-guided-e-bike-tour-grindelwald/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "20251019_155721",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e45168fbee2e816764b84f24ae117628.jpg"
+    },
+    {
+      "alternativeText": "20251019_155634(0)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cbe3207322820d5edce5543a8c690145.jpg"
+    },
+    {
+      "alternativeText": "20251012_113713",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2eda7d513430f7933029cebe15866180.jpg"
+    },
+    {
+      "alternativeText": "20240813_185903",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d03c2add4d4351cfd29eacc0e5321516.jpg"
+    },
+    {
+      "alternativeText": "20251012_150258",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e7fe57e2b74536b11223d7806be0304.jpg"
+    },
+    {
+      "alternativeText": "IMG-20220804-WA0007",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4af3f5b58931b5bf040eacf15285a5e.jpg"
+    },
+    {
+      "alternativeText": "IMG-20220804-WA0044",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3eb256c90929ea2a86e35086a351d84.jpg"
+    },
+    {
+      "alternativeText": "IMG-20220804-WA0065",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8851fd42eeb454fea48b45654914356a.jpg"
+    },
+    {
+      "alternativeText": "IMG-20220804-WA0091",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/77709f8d13f1104368ef2491c8c94e4b.jpg"
+    },
+    {
+      "alternativeText": "IMG-20230720-WA0016",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/39f7a18916c37795f37c704f438bc730.jpg"
+    },
+    {
+      "alternativeText": "IMG-20240728-WA0116",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9e1f494129267f30d5fdf3789a21631.jpg"
+    },
+    {
+      "alternativeText": "IMG-20240804-WA0036",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04f1e3780ca721d28a642959bfdd32f4.jpg"
+    },
+    {
+      "alternativeText": "IMG-20240819-WA0060",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/435548055515bcb9ad7c6d9f384573c9.jpg"
+    },
+    {
+      "alternativeText": "IMG-20220804-WA0055",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/15e9991a5707db0b43266b6222a1a154.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "grindelwald"
+  ],
+  "featured": false
+}

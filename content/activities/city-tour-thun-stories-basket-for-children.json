@@ -1,0 +1,72 @@
+{
+  "id": "1228",
+  "slug": "city-tour-thun-stories-basket-for-children",
+  "name": "\"Thun Story Basket, Children’s Tour\": Public City Tour of Thun",
+  "description": "Discover \"Thun Story Basket, Children’s Tour\": Public City Tour of Thun in Switzerland.",
+  "longDescription": "Discover \"Thun Story Basket, Children’s Tour\": Public City Tour of Thun in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-thun-stories-basket-for-children/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "sf-iriskocher-story-basket-kids-tour-01@carolinapiasecki",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ab4e721629bdd2db9614833a358e4f22.jpg"
+    },
+    {
+      "alternativeText": "sf-iriskocher-story-basket-child-tour-06@carolinapiasecki",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/db14cf767739e9b5f24a26853edeb5d9.jpg"
+    },
+    {
+      "alternativeText": "city-tour-history-choir-iris-kocher-castle-fountain-summer-2022-mikekaufmann-1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16ba5f52c061f743d8e45f54f00619bb.jpg"
+    },
+    {
+      "alternativeText": "city-tour_history-hill_iris_kocher_summer_2022@mikekaufmann (6)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/38f2eb0c251e602ac110f7bc2fca630a.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

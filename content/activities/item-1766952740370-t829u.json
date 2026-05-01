@@ -1,0 +1,90 @@
+{
+  "id": "525",
+  "slug": "item-1766952740370-t829u",
+  "name": "\"Find-the-Code: Lost Story\" Outdoor Escape Game Solothurn",
+  "description": "Discover \"Find-the-Code: Lost Story\" Outdoor Escape Game Solothurn in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Lost Story\" Outdoor Escape Game Solothurn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "194",
+      "title": "Aargau region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/item-1766952740370-t829u/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "find-the-code-solothurn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9dadf5ba0675567194f1ec0493ad5b94.jpg"
+    },
+    {
+      "alternativeText": "Solothurn_3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/483334a3f877689710913f2248ba4195.JPG"
+    },
+    {
+      "alternativeText": "group-photo-hk-flowers-file-phone-neutral",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0feb4ef9bac309953ecefec5adfd7f30.jpg"
+    },
+    {
+      "alternativeText": "photoshoot_karlsruhe-88_edited",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f0376cd4da25508b5589ea741dfe775.jpg"
+    },
+    {
+      "alternativeText": "map-solothurn1-analog",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a1d7efe4ce84b20bbbc7e84bfc538a0.jpg"
+    },
+    {
+      "alternativeText": "map-solothurn2-analog",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e018bb76ad58f19a25aeea6622c6748.jpg"
+    },
+    {
+      "alternativeText": "group-hk-file-daniel-puzzle-solved-party-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3835aea1ba04d57b69b7b71a5b566c07.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

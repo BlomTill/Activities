@@ -1,0 +1,105 @@
+{
+  "id": "714",
+  "slug": "self-guided-enjoyment-hike-dreibuendenstein",
+  "name": "Self-guided enjoyment hike Dreibündenstein from Chur incl. picnic",
+  "description": "Discover Self-guided enjoyment hike Dreibündenstein from Chur incl. picnic in Switzerland.",
+  "longDescription": "Discover Self-guided enjoyment hike Dreibündenstein from Chur incl. picnic in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "47",
+    "title": "Food & Drink",
+    "slug": "food-and-drink",
+    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/self-guided-enjoyment-hike-dreibuendenstein/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Pleasure hike Dreibündenstein in 2023, hikers walking in the mountain landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/D14_9653_01_ZF_0825_66102_1_018_1_f6d47f991d.jpg"
+    },
+    {
+      "alternativeText": "Brambrüeschbahn with gondola over Chur, forest, and mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brambrueeschbahn_Walter_Schmid_99ea60c5c9.jpg"
+    },
+    {
+      "alternativeText": "Gourmet hike Dreibündenstein with hikers outdoors.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Tourismus_039_Fotopower_ch_18_1_e7bafa8c17.JPG"
+    },
+    {
+      "alternativeText": "Pleasure hike Dreibündenstein, woman with drink, summit view, blue covered sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/D14_9262_ZF_0825_66102_1_004_1_f76f695ffb.jpg"
+    },
+    {
+      "alternativeText": "Gourmet Hike Dreibündenstein with Hikers and View",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/D14_9314_ZF_0825_66102_1_031_1_961e810b49.jpg"
+    },
+    {
+      "alternativeText": "Gourmet hike Dreibündenstein with hikers in nature, relaxing activity, surrounding landscape",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Tourismus_040_Fotopower_ch_18_2_bbb171140b.JPG"
+    },
+    {
+      "alternativeText": "Gourmet hike Dreibündenstein with a view of mountains and valley",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/FP_4_7080_1_a64d9833b4.JPG"
+    },
+    {
+      "alternativeText": "Gourmet hike Dreibündenstein with hikers in front of the hut.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/FP_4_7518_1_b9b3623918.JPG"
+    },
+    {
+      "alternativeText": "Gourmet Hike Dreibündenstein with Lunch Bag and Specialties",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kulinarik_tour_dreibuendenstein_genusswanderung_lunch_sack_mich_1_c7f9a4277a.JPG"
+    },
+    {
+      "alternativeText": "Gourmet hike Dreibündenstein with lunch bag, regional delicacies in the green.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kulinarik_tour_dreibuendenstein_genusswanderung_lunch_sack_plankis_c739e1f6ef.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

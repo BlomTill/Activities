@@ -1,0 +1,99 @@
+{
+  "id": "207",
+  "slug": "grimsel-canyoning-beginner-tour-from-interlaken",
+  "name": "Grimsel Canyoning Beginner Tour from Interlaken",
+  "description": "Discover Grimsel Canyoning Beginner Tour from Interlaken in Switzerland.",
+  "longDescription": "Discover Grimsel Canyoning Beginner Tour from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/grimsel-canyoning-beginner-tour-from-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "_00 GOPR0728",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04918ffe5c938cdb0318059c62f90a0b.jpg"
+    },
+    {
+      "alternativeText": "_21I7234",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/35939216daf120b150fcaea552d5cbab.jpg"
+    },
+    {
+      "alternativeText": "_21I7275",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09ed13611c9d9fcac534f764405a6a5d.jpg"
+    },
+    {
+      "alternativeText": "_21I7436",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d44878f9a9af76ab14429d4bb86def6.jpg"
+    },
+    {
+      "alternativeText": "_21I7563",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af0f7f43925020a351d82272a81e5c89.jpg"
+    },
+    {
+      "alternativeText": "_21I7910-copy-2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bfcb0c8a6ca982df6077ca75bcb6c45c.jpg"
+    },
+    {
+      "alternativeText": "_21I7231",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3ed0d8aa4368eed0f599f4e9f22a19b.jpg"
+    },
+    {
+      "alternativeText": "_21I7479",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0b538edb973e023bee37b0c4f8e2a51f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning",
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

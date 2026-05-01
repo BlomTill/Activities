@@ -1,0 +1,121 @@
+{
+  "id": "1387",
+  "slug": "private-spa-at-eiger-selfness-hotel-in-grindelwald",
+  "name": "Private Spa at Eiger Mountain & Soul Resort in Grindelwald",
+  "description": "Discover Private Spa at Eiger Mountain & Soul Resort in Grindelwald in Switzerland.",
+  "longDescription": "Discover Private Spa at Eiger Mountain & Soul Resort in Grindelwald in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "69",
+    "title": "Wellness and adventure pools",
+    "slug": "wellness",
+    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/private-spa-at-eiger-selfness-hotel-in-grindelwald/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Spa bathtub in a romantic atmosphere for relaxing moments in your own home.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privat_Spa_Badewanne_6_2aa4534e82.jpg"
+    },
+    {
+      "alternativeText": "Whole Spa Area: Relaxing wellness area with stones, sauna, and rest zone for those seeking relaxation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spa_ganzes_Areal_157098c711.jpg"
+    },
+    {
+      "alternativeText": "Massage Tables: modern equipment for relaxation and well-being in the therapy room.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Massage_Liegen_4d5ee5333c.jpg"
+    },
+    {
+      "alternativeText": "Spa bathtub in a stylish environment for luxurious relaxation and wellness enjoyment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privat_Spa_Badewanne_3_d043908f7a.jpg"
+    },
+    {
+      "alternativeText": "Spa view of Finnish sauna with relaxation area, ideal for wellness and relaxation in a peaceful environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spa_Blick_auf_Finnische_Sauna_081a2a550b.jpg"
+    },
+    {
+      "alternativeText": "Spa Sauna: Wooden sauna with loungers and infusion area for relaxing wellness moments.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spa_Sauna_4_ff56707ab5.jpg"
+    },
+    {
+      "alternativeText": "Private spa with a view of the fireplace, romantic atmosphere, and cozy furnishings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privat_Spa_Blick_auf_Kamin_c1829b0f22.jpg"
+    },
+    {
+      "alternativeText": "Spa towel: soft towel next to a sauna with steam accessories, ideal for wellness and relaxation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privat_Spa_Handtuch_23e286a354.jpg"
+    },
+    {
+      "alternativeText": "Spa fireplace with terry for relaxing hours in a luxurious ambiance.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privat_Spa_Kamin_mit_Frottee_53478836b6.jpg"
+    },
+    {
+      "alternativeText": "Private Spa: Elegant spa with fireplace, ideal for relaxation and well-being.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privat_Spa_Panorama_295d14b99a.jpg"
+    },
+    {
+      "alternativeText": "Heartthrob Spa: Relax in a romantic atmosphere with sparkling wine and rose petals.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Privat_SPA_Herzklopfen_8969e3279a.jpeg"
+    },
+    {
+      "alternativeText": "Back massage: Relax your body with a soothing massage at the spa for relaxation.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rueckenmassge_2_4057d13e9b.jpg"
+    },
+    {
+      "alternativeText": "Relaxation room for unwind in a wellness area, ideal for recovery and tranquility.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Selfness_Ruheraum_c60a23bcfc.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "mountain",
+    "spa",
+    "grindelwald"
+  ],
+  "featured": false
+}

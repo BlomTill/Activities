@@ -1,0 +1,95 @@
+{
+  "id": "202",
+  "slug": "stag-party-canyoning-ticino",
+  "name": "Stag party canyoning half day in Ticino",
+  "description": "Discover Stag party canyoning half day in Ticino in Switzerland.",
+  "longDescription": "Discover Stag party canyoning half day in Ticino in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "25",
+    "title": "Canyoning",
+    "slug": "canyoning",
+    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
+  },
+  "location": {
+    "region": {
+      "id": "204",
+      "title": "Ticino region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/stag-party-canyoning-ticino/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bachelor Canyoning: Surreal water fun in nature with friends on an exciting adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bachelor_party_103_aae9653499.jpg"
+    },
+    {
+      "alternativeText": "Bachelor Canyoning: A man in a wetsuit on an outdoor adventure, surrounded by lush nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bachelor_party107_b5105fc0a8.jpg"
+    },
+    {
+      "alternativeText": "Bachelor Canyoning: Experience an adventurous bachelor party in a natural paradise with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bachelor_party_header_83b3e94b28.jpg"
+    },
+    {
+      "alternativeText": "Bachelor Canyoning: Experience adrenaline-fueled water adventures in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bachelor_party11_ce42f80f16.jpg"
+    },
+    {
+      "alternativeText": "Bachelor Canyoning in the Nature Park: Experience an exciting adventure in summer under a blue sky",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bachelor_party16_c8546fe550.jpg"
+    },
+    {
+      "alternativeText": "Bachelor Canyoning: Group while canyoning under waterfall, fun and adventure in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bachelor_party21_8888ceb1ab.JPG"
+    },
+    {
+      "alternativeText": "Bachelor canyoning with friends in the mountains: adventure and fun during summer activities.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bachelor_party32_3169ff576f.JPG"
+    },
+    {
+      "alternativeText": "Bachelor Canyoning: Experience the exciting canyoning tour with friends in the mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bachelor_party101_396dff4b9c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

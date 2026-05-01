@@ -1,0 +1,100 @@
+{
+  "id": "757",
+  "slug": "guided-hike-with-a-swiss-triathlete-from-kandersteg",
+  "name": "From Kandersteg: Private Hike with a Swiss Triathlete",
+  "description": "Discover From Kandersteg: Private Hike with a Swiss Triathlete in Switzerland.",
+  "longDescription": "Discover From Kandersteg: Private Hike with a Swiss Triathlete in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/guided-hike-with-a-swiss-triathlete-from-kandersteg/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_1070",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3704254a10bc20a4cd909e1d34378603.JPG"
+    },
+    {
+      "alternativeText": "IMG_0498",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a03a55f22566e1ad7d8963cb53e0402.jpg"
+    },
+    {
+      "alternativeText": "IMG_1061",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c2aa699ba9e47b19b7e9149fcf12a32d.JPG"
+    },
+    {
+      "alternativeText": "IMG_1032",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2d55d0aedddddd7a74901157b5140198.jpg"
+    },
+    {
+      "alternativeText": "IMG_1037",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c8a6478cf166640e6f89c75b98253e9.jpg"
+    },
+    {
+      "alternativeText": "IMG_1769",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4fb834d67ca5988d74e1148dc8af7aea.jpg"
+    },
+    {
+      "alternativeText": "IMG_6776",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f96d776b7899b1f4187996664da45db.jpg"
+    },
+    {
+      "alternativeText": "IMG_7346",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f54f1c06dfb0521679e1964e10600369.jpg"
+    },
+    {
+      "alternativeText": "IMG_8128",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/68eb74647f31f0aa0913827e1cb86ec6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

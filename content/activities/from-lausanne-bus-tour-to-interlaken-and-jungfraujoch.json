@@ -1,0 +1,117 @@
+{
+  "id": "374",
+  "slug": "from-lausanne-bus-tour-to-interlaken-and-jungfraujoch",
+  "name": "From Lausanne: Bus tour to Interlaken and Jungfraujoch",
+  "description": "Discover From Lausanne: Bus tour to Interlaken and Jungfraujoch in Switzerland.",
+  "longDescription": "Discover From Lausanne: Bus tour to Interlaken and Jungfraujoch in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Sphinx Jungfraujoch",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/387dbc6e030ac680720330ab49041592.jpg"
+    },
+    {
+      "alternativeText": "Alpine Sensation",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/62fe2c3db6b5f7d33b47e115ea725f5a.jpg"
+    },
+    {
+      "alternativeText": "Sphinx Jungfraujoch",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f72bbed1e2c239f75c53b9de25c95350.jpg"
+    },
+    {
+      "alternativeText": "Sphinx Jungfraujoch",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3786daaf3d3625238f424cb42887015b.jpg"
+    },
+    {
+      "alternativeText": "Eispalast",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/89921d7980faa8e6cdcde28acbca0e96.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch: Train journey from Lausanne to the impressive mountain with great views.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d7dc1abce5b6a4e6e1ac9a71b631e6ee.JPG"
+    },
+    {
+      "alternativeText": "Jungfraujoch: View of snow-covered mountains and nature, ideal for adventures and group travel.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/378d3d22bef168b101038785cb91c04d.JPG"
+    },
+    {
+      "alternativeText": "Jungfraujoch: Enjoy the train ride through the impressive mountain scenery in Switzerland.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d0c9f07e19e01484de4fb531b403be4b.jpg"
+    },
+    {
+      "alternativeText": "Jungfraubahn",
+      "caption": "Tagestour ab Lausanne",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/626cbd10dbaa04eb09fbe928b3b7a3db.jpg"
+    },
+    {
+      "alternativeText": "Jungfraujoch: stunning view of the Alps with glaciers and snow-covered mountains.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/90bbe833a51d46585b38f04b00089a7e.jpg"
+    },
+    {
+      "alternativeText": "Interlaken: picturesque view of the city and the mountains on a summer excursion.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2e1500e79acced264e1c96c378c54350.jpg"
+    },
+    {
+      "alternativeText": "Day Tour Lausanne: Experience the breathtaking nature and group activities at Lake Geneva.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/878f2d951696690ee9fe6197b2a66ce1.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken",
+    "lausanne"
+  ],
+  "featured": false
+}

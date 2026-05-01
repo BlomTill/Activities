@@ -1,0 +1,95 @@
+{
+  "id": "1342",
+  "slug": "chernobyl-virtual-reality-game-zurich",
+  "name": "\"Chernobyl\" virtual reality game in Zurich",
+  "description": "Discover \"Chernobyl\" virtual reality game in Zurich in Switzerland.",
+  "longDescription": "Discover \"Chernobyl\" virtual reality game in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "139",
+    "title": "Virtual Reality Games",
+    "slug": "virtual-reality-games",
+    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/chernobyl-virtual-reality-game-zurich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "VR Chernobyl: Experience the captivating atmosphere of the explosion with fascinating details.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Main_5922d63422.jpg"
+    },
+    {
+      "alternativeText": "VR Chernobyl: Experience the abandoned surroundings and the mystical structures in this unique landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Screenshot_2_min_63c729add5.jpg"
+    },
+    {
+      "alternativeText": "VR Chernobyl: Fascination of the abandoned buildings and nature in this adventure experience.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Screenshot_4_min_e5ddc3da7e.jpg"
+    },
+    {
+      "alternativeText": "VR Chernobyl: Discover the abandoned ghost town with a giant Ferris wheel and impressive nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Screenshot_5_min_8088247bf7.jpg"
+    },
+    {
+      "alternativeText": "VR Chernobyl: Discover the virtually impressive exploration of a historic site.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_3_3411f8e788.jpg"
+    },
+    {
+      "alternativeText": "VR Chernobyl: Experience virtual reality with cutting-edge technology and captivating adventures.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_1_6511d75286.jpg"
+    },
+    {
+      "alternativeText": "VR Chernobyl: Experience virtual reality in a fascinating environment with historical elements.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_2_25e65e70d8.jpg"
+    },
+    {
+      "alternativeText": "VR Chernobyl: experience exciting virtual reality with friends. Interactive adventures in a team.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_4_e0b7aa7bbe.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

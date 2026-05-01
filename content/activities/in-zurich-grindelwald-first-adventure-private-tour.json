@@ -1,0 +1,115 @@
+{
+  "id": "316",
+  "slug": "in-zurich-grindelwald-first-adventure-private-tour",
+  "name": "In Zurich: Grindelwald First Adventure Private Tour",
+  "description": "Discover In Zurich: Grindelwald First Adventure Private Tour in Switzerland.",
+  "longDescription": "Discover In Zurich: Grindelwald First Adventure Private Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-grindelwald-first-adventure-private-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/61892d538ba9b5a6e83bb1de8097ff5a.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk Winter",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6af72e17cbcaab4d35b56820158a5787.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc085c9d3d286a10636e4fc8431e47e4.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5e621d08fc44b4ec5098bb8d5cf6711.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d27d6e9e66e171866b7bb3e105a7e182.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e799335a2c32e3b54cb98befe1e93cc.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11a3c1fd9beb09e0bb02f9a26a77157f.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ac0b16e9936630f4343dc724212e3974.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c7143ed9113a94d456b7baea64b3e178.jpg"
+    },
+    {
+      "alternativeText": "Fahrzeuge",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/acc76a70cba98031365f1f8166f5bc96.jpg"
+    },
+    {
+      "alternativeText": "Restaurant",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45b06cad82f0c5d839c5c3dc80df4525.jpg"
+    },
+    {
+      "alternativeText": "First Cliff Walk",
+      "caption": "Tagestour Grindelwald First",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a19f2ea7a1d33964ccdf965783424db6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "adventure",
+    "grindelwald"
+  ],
+  "featured": false
+}

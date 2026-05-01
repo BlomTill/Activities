@@ -1,0 +1,78 @@
+{
+  "id": "867",
+  "slug": "guided-tour-public-bad-pfaefers-tamina-gorge",
+  "name": "Tamina Gorge and Altes Bad Pfäfers public guided tour",
+  "description": "Discover Tamina Gorge and Altes Bad Pfäfers public guided tour in Switzerland.",
+  "longDescription": "Discover Tamina Gorge and Altes Bad Pfäfers public guided tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "54",
+    "title": "Natural attractions",
+    "slug": "natural-attractions",
+    "description": "Discover and book here your excursion, guided tour or entrance ticket to a natural\nto a natural attraction. In a country with spectacular glaciers, huge waterfalls and beautiful caves, there are many more attractions than you can look at. They are often related to glacier retreats of the last decades and can be visited thanks to well-maintained trails and sometimes with professional guides."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/natural-attractions/guided-tour-public-bad-pfaefers-tamina-gorge/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Tamins Gorge with steep rock walls and picturesque path along the river in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b8c8eff884f02ff10848af9d1decf6bd.jpg"
+    },
+    {
+      "alternativeText": "Tamino Gorge: impressive rock formations and hikers in Switzerland's natural paradise.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d4de49fd5222815288e3469a8ca65b6a.jpg"
+    },
+    {
+      "alternativeText": "Tamins Gorge: Two women hiking in the impressive gorge with nature and adventure.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/33fa03c97a6f54708f3502482b8ab9f5.jpg"
+    },
+    {
+      "alternativeText": "Old Bath Pfäfers: Cozy interior of a self-service restaurant with rustic charm.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7cbe2435cfc286dca5e15a3fda1da81f.jpg"
+    },
+    {
+      "alternativeText": "Old Bath Pfäfers: Historic building in a beautiful natural setting with plenty of greenery.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a46809f020ed687236ee3dd7ffb3ad44.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

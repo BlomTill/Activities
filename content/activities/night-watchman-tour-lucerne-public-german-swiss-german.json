@@ -1,0 +1,125 @@
+{
+  "id": "1195",
+  "slug": "night-watchman-tour-lucerne-public-german-swiss-german",
+  "name": "Night watchman tour Lucerne public (German/Swiss German)",
+  "description": "Discover Night watchman tour Lucerne public (German/Swiss German) in Switzerland.",
+  "longDescription": "Discover Night watchman tour Lucerne public (German/Swiss German) in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-german-swiss-german/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Das Toggeli",
+      "caption": "Stadttour Luzern",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4993e2470c87d60a700fea9be15c3588.jpg"
+    },
+    {
+      "alternativeText": "Ritterscher Palace Courtyard: Historic Architecture and Artful Exhibitions in Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/30_Ritterscher_Palast_Innenhof_782dd0c038.jpg"
+    },
+    {
+      "alternativeText": "Reuss Bridge: view of the historically styled buildings by the river in Lucerne.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/19_Reussbruecke_5228be5218.jpg"
+    },
+    {
+      "alternativeText": "Murder Night: historical scene with men and woman, candlelight, cozy atmosphere in a butcher's shop.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/037_Mordnacht_Ofen_Metzgere_8ac56d96d2.jpg"
+    },
+    {
+      "alternativeText": "Dance of Death: impressive depiction with skeletons and a royal figure in a historical setting",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/066_ttanz_132_c33f9761d7.jpg"
+    },
+    {
+      "alternativeText": "Martini Plan: detailed city view with historical buildings and picturesque surroundings",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/001a_Martini_plan_clrd_1_a2dbee1bda.jpg"
+    },
+    {
+      "alternativeText": "Crivelli House: exceptional facade with artistic details and historical elements in Chur.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/28_Crivellihaus_e06ebb74cd.jpg"
+    },
+    {
+      "alternativeText": "Danse macabre: Staged representation of life and death, impressive artistic symbolism and emotions.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/31_Totentanz_Tafel1_1f27bb4029.jpg"
+    },
+    {
+      "alternativeText": "Chapel Bridge: Historical image with snow, picturesque surroundings, and waterways in Lucerne",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/033_Kapellbruecke_um_1897_Joseph_Clemens_Kaufmann_f9cf983763.jpg"
+    },
+    {
+      "alternativeText": "Xaver Schwegler: historical gate with city wall, artistic life and architecture in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/034_Xaver_Schwegler_Die_Tore_zur_1_229df2bb5e.jpg"
+    },
+    {
+      "alternativeText": "Danse Macabre: impressive depiction of the dance with death and historical figures in a work of art.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/067_ttanz_133_628a5a620a.jpg"
+    },
+    {
+      "alternativeText": "Danse macabre: Representation of the life cycle with historical figures and symbolic art.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/070_ttanz_137_1_d456e0118b.jpg"
+    },
+    {
+      "alternativeText": "Diebold Schilling: Historical representation with creative characters in a room.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Diebold_Schilling_a80f1d0e0a.jpg"
+    },
+    {
+      "alternativeText": "The gates to Hofbruecke and Schifflaende in Xaver Schwegler's painting show a historical backdrop with detail.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Die_Tore_zur_Hofbruecke_und_Schifflaende_Xaver_Schwegler_1000_6306ca8528.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "watch",
+    "lucerne"
+  ],
+  "featured": false
+}

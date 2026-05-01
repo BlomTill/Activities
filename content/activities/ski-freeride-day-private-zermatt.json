@@ -1,0 +1,74 @@
+{
+  "id": "734",
+  "slug": "ski-freeride-day-private-zermatt",
+  "name": "Ski freeride day from Zermatt: group or private",
+  "description": "Discover Ski freeride day from Zermatt: group or private in Switzerland.",
+  "longDescription": "Discover Ski freeride day from Zermatt: group or private in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "121",
+    "title": "Freeride",
+    "slug": "freeride",
+    "description": "Book your freeride skiing and snowboarding experience here. Freeriding is skiing through untouched snow away from the ski slopes. These routes are not controlled and are therefore not safe from alpine dangers and avalanches. If you go with a guide, he or she will have checked the snow and avalanche conditions in advance. Freeride takes you back to the original skiing without pistes. This includes the feeling of freedom in absolute and quiet nature"
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/freeride/ski-freeride-day-private-zermatt/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Freeride Day: Experience the snowy slope in the mountains while skiing and enjoy the winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Freeride_Zermatters_4e30d48cb1.jpg"
+    },
+    {
+      "alternativeText": "Freeride Day Private Lesson: Experience skiing adventures in Zermatt with professional guidance on stunning slopes.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skikurs_Privatunterricht_Zermatters_7988765aa5.jpg"
+    },
+    {
+      "alternativeText": "Freeride Day Glacier Descent: Experience thrilling ski adventures in the winter terrain of the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Gletscherabfahrt_Schnee_7927004359.jpg"
+    },
+    {
+      "alternativeText": "Freeride Day Skiing: Experience the snowy slopes with your friends in the mountains during winter.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Zermatt_Zermatters_bb99e087a9.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zermatt"
+  ],
+  "featured": false
+}

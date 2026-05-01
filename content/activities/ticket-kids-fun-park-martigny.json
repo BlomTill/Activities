@@ -1,0 +1,74 @@
+{
+  "id": "796",
+  "slug": "ticket-kids-fun-park-martigny",
+  "name": "Kids Fun Park Ticket Martigny",
+  "description": "Discover Kids Fun Park Ticket Martigny in Switzerland.",
+  "longDescription": "Discover Kids Fun Park Ticket Martigny in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "68",
+    "title": "Indoor amusement park",
+    "slug": "indoor-amusement-park",
+    "description": "Find your indoor recreational pleasure in an adventure pool, the Citywave or a\na sports or climbing hall. Indoor amusement parks offer an activity field for all those who like to do sports, even in bad weather and in winter. They are often equipped with action-packed facilities such as trampoline areas, ball fields, climbing facilities or water sports facilities. Did you know, for example, that you can also go indoor surfing in Switzerland? In an indoor amusement park, both children and adults will find something entertaining to do"
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/indoor-amusement-park/ticket-kids-fun-park-martigny/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Kids Fun Park Martigny: Experience an exciting play area with slides and activities for kids.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d64cd7bb0f85cb003e7e5ac95beeef1f.jpg"
+    },
+    {
+      "alternativeText": "Kids Fun Park: Experience the great play area with slides and play equipment in Martigny.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/19e9d481b7cfc2e504fec3ed1f0af17e.jpg"
+    },
+    {
+      "alternativeText": "Kids Fun Park Martigny: Comfortable tables in a relaxed environment for children and families.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b11e8bda106a9a27dd136558cc62fe94.jpg"
+    },
+    {
+      "alternativeText": "Playground in Martigny: great tables outdoors for kids' activities under the blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/186c87ec1e3001e3653566ea00127523.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "kids"
+  ],
+  "featured": false
+}

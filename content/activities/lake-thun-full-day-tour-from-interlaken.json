@@ -1,0 +1,85 @@
+{
+  "id": "384",
+  "slug": "lake-thun-full-day-tour-from-interlaken",
+  "name": "From Interlaken: Day tour of Lake Thun with local guide",
+  "description": "Discover From Interlaken: Day tour of Lake Thun with local guide in Switzerland.",
+  "longDescription": "Discover From Interlaken: Day tour of Lake Thun with local guide in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/lake-thun-full-day-tour-from-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Cows grazing by Lake Thun in front of the Alps.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kuehe_Thunersee_Pure_Switzerland_7c99f1b4b3.JPG"
+    },
+    {
+      "alternativeText": "Thun Lake Castle with a view of the surrounding landscape and water",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schloss_Thunersee_Pure_Switzerland_71f12abcad.jpg"
+    },
+    {
+      "alternativeText": "Castle Thun Lake with a view of the water and the mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schloss2_Thunersee_Pure_Switzerland_e127344cff.jpg"
+    },
+    {
+      "alternativeText": "Suspension bridge in Sigriswil over Lake Thun, surrounded by mountains and forests.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sigriswil_Haengebruecke_Thunersee_Pure_Switzerland_8a119d67db.JPG"
+    },
+    {
+      "alternativeText": "Flowers at Lake Thun with colorful planting, city of Thun in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Thun_Thunersee_Pure_Switzerland_b0ff5a0e18.jpg"
+    },
+    {
+      "alternativeText": "Thun Lake in winter with snow-covered mountains and calm water.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Thunersee_Pure_Switzerland_021ae6e275.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

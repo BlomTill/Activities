@@ -1,0 +1,79 @@
+{
+  "id": "855",
+  "slug": "womamazing-group-tour-art-house-zuerich",
+  "name": "\"Womamazing\" group tour at the Kunsthaus Zürich",
+  "description": "Discover \"Womamazing\" group tour at the Kunsthaus Zürich in Switzerland.",
+  "longDescription": "Discover \"Womamazing\" group tour at the Kunsthaus Zürich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museums/womamazing-group-tour-art-house-zuerich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Führung Womamazing",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b4b162a16eb751f7866cf42280c7b56.JPG"
+    },
+    {
+      "alternativeText": "Führung Womamazing",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5416d216ec1e000cd9495ab5f9184b0d.JPG"
+    },
+    {
+      "alternativeText": "Führung Womamazing",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/01cc8a0e702be03acbacd81bcb0c7aad.JPG"
+    },
+    {
+      "alternativeText": "Führung Womamazing",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/57b2f2db64017d65c3ffb186b0ac39a4.jpeg"
+    },
+    {
+      "alternativeText": "Führung Womamazing",
+      "caption": "Kunsthaus Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3e994ca81c694afb9fb4b6c84a702fa3.JPG"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zürich"
+  ],
+  "featured": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "620",
+  "slug": "beat-the-groom-neuchatel",
+  "name": "\"Beat the groom\" in Neuchâtel: action-packed stag party",
+  "description": "Discover \"Beat the groom\" in Neuchâtel: action-packed stag party in Switzerland.",
+  "longDescription": "Discover \"Beat the groom\" in Neuchâtel: action-packed stag party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "201",
+      "title": "Jura & Three-Lakes Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-neuchatel/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Beat the Groom: exciting outdoor game with friends in the summer in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_83975b2301.jpg"
+    },
+    {
+      "alternativeText": "Neuchâtel: Historic clock tower with impressive architecture and blue sky.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/noah_dustin_von_weissenfluh_Lu_Y8_Eti_Qyzg_unsplash_e7baa47044.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bachelor: Group of friends celebrating outdoors with drinks surrounded by flowers.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_4dc94bcb01.jpg"
+    },
+    {
+      "alternativeText": "Neuchâtel: Picturesque harbor with clear water surface and historic buildings along the shore.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/noah_dustin_von_weissenfluh_v7_So_Xl4_Bx6_A_unsplash_826947b846.jpg"
+    },
+    {
+      "alternativeText": "Beat the Bridegroom: Fun Group Activity Outdoors with Beer in Summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_f2cdba4d93.jpg"
+    },
+    {
+      "alternativeText": "Neuchâtel: picturesque harbor with boats and reflective water surfaces in summer",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/noah_dustin_von_weissenfluh_zoi_Svm_LE_3_Ww_unsplash_abfd562009.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

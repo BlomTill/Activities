@@ -1,0 +1,75 @@
+{
+  "id": "632",
+  "slug": "sion-scavenger-hunt-smartphone",
+  "name": "Sion interactive scavenger hunt with smartphone",
+  "description": "Discover Sion interactive scavenger hunt with smartphone in Switzerland.",
+  "longDescription": "Discover Sion interactive scavenger hunt with smartphone in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "82",
+    "title": "Escape room and games",
+    "slug": "escape-room",
+    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
+  },
+  "location": {
+    "region": {
+      "id": "205",
+      "title": "Valais region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/sion-scavenger-hunt-smartphone/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Treasure hunt smartphone at the historical building in Sion, discover the city with interactive elements.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/sion_carousel_1_0e852cfa59.jpg"
+    },
+    {
+      "alternativeText": "Treasure Hunt: People explore exciting information on their smartphones in an urban environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/sion_carousel_3_872e2c7951.jpg"
+    },
+    {
+      "alternativeText": "Treasure Hunt Smartphone Church: discover exciting tasks in the historic ambience of the church.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/sion_carousel_4_f6f6bdee47.jpg"
+    },
+    {
+      "alternativeText": "Treasure Hunt: exciting outdoor activity with smartphone for friends and groups",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/sion_carousel_5_f8f363bc6f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

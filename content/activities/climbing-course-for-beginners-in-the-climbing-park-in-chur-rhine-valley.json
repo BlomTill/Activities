@@ -1,0 +1,124 @@
+{
+  "id": "238",
+  "slug": "climbing-course-for-beginners-in-the-climbing-park-in-chur-rhine-valley",
+  "name": "Climbing course for beginners in the climbing park in Chur Rhine Valley",
+  "description": "Discover Climbing course for beginners in the climbing park in Chur Rhine Valley in Switzerland.",
+  "longDescription": "Discover Climbing course for beginners in the climbing park in Chur Rhine Valley in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "117",
+    "title": "Climbing",
+    "slug": "climbing",
+    "description": "Book your next climbing experience here. Climbing is an increasingly popular sport that is primarily vertical. Usually, several people climb, using a rope to save each other from falling. Climbing is done both in climbing gyms and outdoors. Climbing includes the difficulty levels T3 to T6 of the SAC Scala. Climbers find climbing aids only in the level T3."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/climbing/climbing-course-for-beginners-in-the-climbing-park-in-chur-rhine-valley/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "9bc257395c6e7b2b30e236dc9a64e694",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/93e8b2a0801c12ec70ce851ff087514a.jpg"
+    },
+    {
+      "alternativeText": "1d2bb6f74afa81ffeb7b7a5ff8201689",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f2a470c1df271def306fe369369513a.jpg"
+    },
+    {
+      "alternativeText": "6a223ff5e3374a56a6cef03a9428af59",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f67e837dd3376752a122c8cfb14f586f.jpg"
+    },
+    {
+      "alternativeText": "7df4dff1bae04af24b739c52c1435fc0",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/63373916f9d988d853637d4faf8ac6e3.jpg"
+    },
+    {
+      "alternativeText": "78c519d5ecef37932ede0d6ba0fef8bc",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9409ca16a66f5050d66010e68ba0cd3c.jpg"
+    },
+    {
+      "alternativeText": "742c1c6c6c42f381b757dc8abf3bcde6",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f206be2956ef36de3767c8906414ed1.jpg"
+    },
+    {
+      "alternativeText": "86438abaed543a7a1fcb21229c449c6a",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebda595b666bef96b32b2b5fbadaa643.jpg"
+    },
+    {
+      "alternativeText": "cd5a7c272b6bbaca524ffc981b1a491d (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/96e9be584ed16722be3881211ded2e33.jpg"
+    },
+    {
+      "alternativeText": "d5a82f0912489c16d1a3e667b586f712",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b30940c8cc6802e33dcaa68fc69d9789.jpg"
+    },
+    {
+      "alternativeText": "cd5a7c272b6bbaca524ffc981b1a491d",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1579b6ab06a247f7854d1c6f7a4f3546.jpg"
+    },
+    {
+      "alternativeText": "eba343ee9ba5e15f58948c52ebebe12c",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/39432a0cdfd8b61cf21581ac1c63d33a.jpg"
+    },
+    {
+      "alternativeText": "ee5b2c6cb027df946a19a05ab84e0e32 (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8230bbb85f544dc334d70c3ee3bdb38.jpg"
+    },
+    {
+      "alternativeText": "f3d27a0f83f1e56c3670e4aa5877008b",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b05f42b599f88ee9991aac5a6a346a82.jpg"
+    },
+    {
+      "alternativeText": "fa4894aed6086d93af14c953e984cc35",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f2ff155fa0c4524b48090f1048ba1629.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "climbing"
+  ],
+  "featured": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "1427",
+  "slug": "wine-walks-in-chablais-vineyards-for-private-groups",
+  "name": "Wine Walks in Chablais Vineyards for Private Groups",
+  "description": "Discover Wine Walks in Chablais Vineyards for Private Groups in Switzerland.",
+  "longDescription": "Discover Wine Walks in Chablais Vineyards for Private Groups in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "84",
+    "title": "Wine tour",
+    "slug": "wine-tasting",
+    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/wine-walks-in-chablais-vineyards-for-private-groups/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Aigle Castle",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bbf83fd2ba21609e4453c96d520915e5.jpg"
+    },
+    {
+      "alternativeText": "00 Chasselas_Zoom ©WALK&WINE",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4f45e9fa985df96a0e863fb841eb166e.jpg"
+    },
+    {
+      "alternativeText": "Cheers©WALK&WINE",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/74e05ad5618f73ba709aeb74c7bfc449.jpeg"
+    },
+    {
+      "alternativeText": "La vigne pleure©WALK&WINE",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13502b913b7154238764055fc89cc0d0.jpg"
+    },
+    {
+      "alternativeText": "Vineyard around the castle - 1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d367e909e4204ce843c95f92bd8f1c3f.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

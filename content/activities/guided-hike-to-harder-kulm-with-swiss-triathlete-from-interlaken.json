@@ -1,0 +1,103 @@
+{
+  "id": "748",
+  "slug": "guided-hike-to-harder-kulm-with-swiss-triathlete-from-interlaken",
+  "name": "From Interlaken: Private hike to Harder Kulm with Swiss triathlete",
+  "description": "Discover From Interlaken: Private hike to Harder Kulm with Swiss triathlete in Switzerland.",
+  "longDescription": "Discover From Interlaken: Private hike to Harder Kulm with Swiss triathlete in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/guided-hike-to-harder-kulm-with-swiss-triathlete-from-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_4024",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d4ed1ba21ce0f5c6723c5ea35f70bfdb.jpg"
+    },
+    {
+      "alternativeText": "IMG_0718",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a24f44f89b712ab38f5f061161e1fbbb.jpg"
+    },
+    {
+      "alternativeText": "IMG_0917",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/df638aa8b5c8784e858064856f9218f8.jpg"
+    },
+    {
+      "alternativeText": "IMG_1589",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/223af370afa0cf0d0fa7d62f866b2794.jpg"
+    },
+    {
+      "alternativeText": "147387f7-e032-4e23-adaa-dc9307710636",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31da3651a4d114ad1afd146a33f7c427.jpg"
+    },
+    {
+      "alternativeText": "IMG_4019",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4654fa635ea5d1052c736736551369ad.jpg"
+    },
+    {
+      "alternativeText": "IMG_5059",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06d9d3369f432be34fea422d8cf03072.jpg"
+    },
+    {
+      "alternativeText": "IMG_5580",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba6d08e5c4229be54f3f6338943918b4.jpg"
+    },
+    {
+      "alternativeText": "IMG_8259",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/93c79e96b122f30827885618ab1af6d8.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

@@ -1,0 +1,79 @@
+{
+  "id": "180",
+  "slug": "bungee-jumping-stockhorn",
+  "name": "Bungee Jumping Stockhorn",
+  "description": "Discover Bungee Jumping Stockhorn in Switzerland.",
+  "longDescription": "Discover Bungee Jumping Stockhorn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "45",
+    "title": "Bungee jumping",
+    "slug": "bungee-jumping",
+    "description": "Experience the special kick and book your next bungee jump here. For adrenaline junkies there are many opportunities for bungee jumping in Switzerland. There is even a jumping location that became world famous through the 007 movie \"GoldenEye\": the dam in the Verzasca Valley in the south of Switzerland. Here you jump from a 220-meter-high dam wall. This is the third highest bungee jump in the world."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/bungee-jumping/bungee-jumping-stockhorn/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Bungee jumping from Stockhorn over the calm waters during the summer months.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_3ec53a66d5360ccb36ef0132fa1d5403_c7365a58bb.jpg"
+    },
+    {
+      "alternativeText": "Bungee Jumping Interlaken with jump and water in the background",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_3b586e0e356ae972a4802f71274f045c_a117f98158.jpg"
+    },
+    {
+      "alternativeText": "Bungee Jump Hinterstockensee with a view of mountain scenery and lake",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_615062c7a8e05ce3f8e43779e5bbd888_d28454d3e7.jpg"
+    },
+    {
+      "alternativeText": "Selfie bungee jump from a gondola over the water with a forest landscape.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_0a093513e5065f558aa15ee874db37a9_92f82e82bc.jpg"
+    },
+    {
+      "alternativeText": "Bungee Jumping at Stockhorn, jumping person over lake, green surroundings.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_703d19921a437eced6f617458eabc37b_913fd530bf.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "bungee"
+  ],
+  "featured": false
+}

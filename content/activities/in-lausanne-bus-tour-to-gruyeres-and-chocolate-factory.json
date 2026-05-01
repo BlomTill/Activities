@@ -1,0 +1,123 @@
+{
+  "id": "380",
+  "slug": "in-lausanne-bus-tour-to-gruyeres-and-chocolate-factory",
+  "name": "In Lausanne: Bus Tour to Gruyères and Chocolate Factory",
+  "description": "Discover In Lausanne: Bus Tour to Gruyères and Chocolate Factory in Switzerland.",
+  "longDescription": "Discover In Lausanne: Bus Tour to Gruyères and Chocolate Factory in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "71",
+    "title": "Day trips",
+    "slug": "day-trips",
+    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
+  },
+  "location": {
+    "region": {
+      "id": "217",
+      "title": "Lake Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-and-chocolate-factory/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gruyères: Experience the chocolate factory and discover regional products in a graceful environment.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f4887e819a545543d0a9a41cb9f5711d.jpg"
+    },
+    {
+      "alternativeText": "Chocolate and Chocolate Factory: Discover the sweet treats in Gruyères with family and kids.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4d4bed25551ef4ead158400c5f3d5d68.jpg"
+    },
+    {
+      "alternativeText": "Schokofabrik",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f0b990d3dfc8f8d16a4bdb3396352aa1.jpg"
+    },
+    {
+      "alternativeText": "Chocolate Factory: Impressive machines in the chocolate factory in Gruyères for an unforgettable experience.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bc4d728489a78a59780d51d00af49309.jpg"
+    },
+    {
+      "alternativeText": "",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/840d214459e9663be7faf684ad610177.jpg"
+    },
+    {
+      "alternativeText": "Schokofabrik",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b2c9248bb8b192ec01e0b50790dd7186.jpg"
+    },
+    {
+      "alternativeText": "Château de Gruyères : monument historique entouré d'un paysage verdoyant et des Alpes suisses.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/71fac1590c1ff10cba30d3fbc19fed11.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c4c1740abe8f12bcf6ec7c0a5a1b6bd9.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/57e432807cfa023aaf2b467c5d50fdb3.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/29764a6d623521978bf2c49e18c705db.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d5cd74277775029aff4f45e45ca68b2a.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be312b15c2892006a0bd95e931a87198.jpg"
+    },
+    {
+      "alternativeText": "Gruyères",
+      "caption": "Bustour Gruyères und Schokoladenfabrik",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/73ae12d78afcc8bf51a7a7f213941d78.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "lausanne"
+  ],
+  "featured": false
+}

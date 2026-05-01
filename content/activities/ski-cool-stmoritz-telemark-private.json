@@ -1,0 +1,74 @@
+{
+  "id": "1108",
+  "slug": "ski-cool-stmoritz-telemark-private",
+  "name": "Private Telemark lessons in St. Moritz",
+  "description": "Discover Private Telemark lessons in St. Moritz in Switzerland.",
+  "longDescription": "Discover Private Telemark lessons in St. Moritz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "87",
+    "title": "Ski school",
+    "slug": "ski-school",
+    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
+  },
+  "location": {
+    "region": {
+      "id": "200",
+      "title": "Graubünden region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-school/ski-cool-stmoritz-telemark-private/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Telemark",
+      "caption": "Corvatsch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/313b8a761891b0ac0ac9562027eeedca.jpg"
+    },
+    {
+      "alternativeText": "Telemark",
+      "caption": "Corvatsch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/063238fd0d03c32463e45fdb1f82700e.jpg"
+    },
+    {
+      "alternativeText": "Landschaft",
+      "caption": "Corvatsch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d5fe86631eef190cabec40334c816b2d.jpg"
+    },
+    {
+      "alternativeText": "Telemark",
+      "caption": "Corvatsch",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fd846568701edf1309713ef9917e87ca.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "st.-moritz"
+  ],
+  "featured": false
+}

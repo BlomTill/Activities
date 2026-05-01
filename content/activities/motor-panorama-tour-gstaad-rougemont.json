@@ -1,0 +1,75 @@
+{
+  "id": "973",
+  "slug": "motor-panorama-tour-gstaad-rougemont",
+  "name": "4x4 panoramic tour in Gstaad and Rougemont",
+  "description": "Discover 4x4 panoramic tour in Gstaad and Rougemont in Switzerland.",
+  "longDescription": "Discover 4x4 panoramic tour in Gstaad and Rougemont in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "63",
+    "title": "Quad",
+    "slug": "quad",
+    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/motor-panorama-tour-gstaad-rougemont/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "mehrere Geländewagen unterwegs",
+      "caption": "Gstaad und Richemont",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9555fa6b26c47edbbafe411348d89b8b.png"
+    },
+    {
+      "alternativeText": "Picknick",
+      "caption": "Gstaad und Richemont",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/789abaee73ff3d6de1aaf98778e9fb62.jpg"
+    },
+    {
+      "alternativeText": "mehrere Geländewagen unterwegs",
+      "caption": "Gstaad und Richemont",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a492c20820d193544258dbb32fb13990.jpg"
+    },
+    {
+      "alternativeText": "Geländewagen ",
+      "caption": "Gstaad und Richemont",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed39e114b1222f982141bb033aa7323c.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

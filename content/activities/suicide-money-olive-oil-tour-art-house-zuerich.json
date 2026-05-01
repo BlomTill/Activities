@@ -1,0 +1,89 @@
+{
+  "id": "854",
+  "slug": "suicide-money-olive-oil-tour-art-house-zuerich",
+  "name": "\"Suicide, money and olive oil\" group tour at Kunsthaus Zürich",
+  "description": "Discover \"Suicide, money and olive oil\" group tour at Kunsthaus Zürich in Switzerland.",
+  "longDescription": "Discover \"Suicide, money and olive oil\" group tour at Kunsthaus Zürich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "51",
+    "title": "Museums",
+    "slug": "museums",
+    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
+  },
+  "location": {
+    "region": {
+      "id": "206",
+      "title": "Zurich region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museums/suicide-money-olive-oil-tour-art-house-zuerich/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Führung Selbstmord, Geld, Olivenöl",
+      "caption": "Kunstmuseum Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02a95a8409f27110a1a3f56ef2e18988.jpeg"
+    },
+    {
+      "alternativeText": "Führung Selbstmord, Geld, Olivenöl",
+      "caption": "Kunstmuseum Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06ccd49dc12a69b689439b612e8f96e1.JPG"
+    },
+    {
+      "alternativeText": "Führung Selbstmord, Geld, Olivenöl",
+      "caption": "Kunstmuseum Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f4a583404514846cad046cccc427dd37.JPG"
+    },
+    {
+      "alternativeText": "Führung Selbstmord, Geld, Olivenöl",
+      "caption": "Kunstmuseum Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/453c153383a9eda5d6351e5e99fc56ab.JPG"
+    },
+    {
+      "alternativeText": "Führung Selbstmord, Geld, Olivenöl",
+      "caption": "Kunstmuseum Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cca315a689651780b7296afa36d98f95.JPG"
+    },
+    {
+      "alternativeText": "Führung Selbstmord, Geld, Olivenöl",
+      "caption": "Kunstmuseum Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/32f0d4ac7b4a0400f9d5e734d2aa4a14.jpg"
+    },
+    {
+      "alternativeText": "Führung Selbstmord, Geld, Olivenöl",
+      "caption": "Kunstmuseum Zürich",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a1e6a844a3e82078b56500330ab3d0c6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "zürich"
+  ],
+  "featured": false
+}

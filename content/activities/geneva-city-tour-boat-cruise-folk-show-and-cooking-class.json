@@ -1,0 +1,103 @@
+{
+  "id": "1209",
+  "slug": "geneva-city-tour-boat-cruise-folk-show-and-cooking-class",
+  "name": "Geneva: City tour, boat cruise, folk show, and cooking class",
+  "description": "Discover Geneva: City tour, boat cruise, folk show, and cooking class in Switzerland.",
+  "longDescription": "Discover Geneva: City tour, boat cruise, folk show, and cooking class in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "198",
+      "title": "Geneva region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-boat-cruise-folk-show-and-cooking-class/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "IMG_8601",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ff555a262835806b1282ba41df96d48b.jpg"
+    },
+    {
+      "alternativeText": "angela-pham-vo7GGTh6sXM-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/23419bd5deea1f6dd4f90c2d908618b8.jpg"
+    },
+    {
+      "alternativeText": "3896307527_3083846f92_o",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09f786295f41be7dc7dac729b9b2c6df.jpg"
+    },
+    {
+      "alternativeText": "3908652193_798de398f1_o",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/816bc476b5b6a28f20d7dd6a231303c9.jpg"
+    },
+    {
+      "alternativeText": "Floral Clock",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3799eb2bab40ec7b5926801dd7d9417.jpg"
+    },
+    {
+      "alternativeText": "Henry Dufour",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/15c678adebdf0107a3aaef6d951bc8c4.jpg"
+    },
+    {
+      "alternativeText": "Congress - Bains des Pâquis - Jet d'Eau (1)",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a07e3125b9a4744fd7d15bf8d1fe5450.jpg"
+    },
+    {
+      "alternativeText": "Congress - Bains des Pâquis - Jet d'Eau",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d244b11224717e04020649823bbbfbcd.jpg"
+    },
+    {
+      "alternativeText": "kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international5_2048_10",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1570b7c409ebf35e265be53a2c54e038.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "boat",
+    "geneva"
+  ],
+  "featured": false
+}

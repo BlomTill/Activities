@@ -1,0 +1,75 @@
+{
+  "id": "400",
+  "slug": "gin-tour-in-willisau",
+  "name": "Tour of the \"Gin\" Distillery in Willisau",
+  "description": "Discover Tour of the \"Gin\" Distillery in Willisau in Switzerland.",
+  "longDescription": "Discover Tour of the \"Gin\" Distillery in Willisau in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "145",
+    "title": "Distillery",
+    "slug": "distillery",
+    "description": "A visit to a distillery will give you an exciting insight into the art of making spirits. During a guided tour, you will get to know the various production areas. A knowledgeable member of staff will explain the process of making spirits from start to finish. You will learn which raw materials and ingredients are used to produce the spirits and what is involved in the distillation process. A highlight of the visit is the tasting of the distillery's products, where you will get to know their aromas, flavors and nuances under expert guidance.\n"
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/distillery/gin-tour-in-willisau/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Gin Tour_2",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ba319ff5aedf5857b5188ffffb596f4.jpg"
+    },
+    {
+      "alternativeText": "Gin Tour_3",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ecb20a349ead75b01c743dd72895bbb7.jpg"
+    },
+    {
+      "alternativeText": "Gin Tour_1",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dfdec1d6487844b40f67ffeedffe0e19.jpg"
+    },
+    {
+      "alternativeText": "Gin Tour_4",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f1dcd6a8a9a847166e8553954ad3b4fe.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -1,0 +1,104 @@
+{
+  "id": "988",
+  "slug": "fun-rafting-simme-interlaken",
+  "name": "Rafting on the Simme from Interlaken",
+  "description": "Discover Rafting on the Simme from Interlaken in Switzerland.",
+  "longDescription": "Discover Rafting on the Simme from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "33",
+    "title": "Rafting",
+    "slug": "rafting",
+    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
+  },
+  "location": {
+    "region": {
+      "id": "196",
+      "title": "Bern Region"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/fun-rafting-simme-interlaken/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Spass beim Rafting",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e7e5278a88b61e86facd54a70b600742.jpg"
+    },
+    {
+      "alternativeText": "Spass beim Rafting im Team",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/79d6324fa39b8afb759eb72185c1e05d.jpg"
+    },
+    {
+      "alternativeText": "Spass beim Rafting im Team",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c0b7f44ad3695fc8b9acb7bc6f77974.jpg"
+    },
+    {
+      "alternativeText": "Spass beim Rafting im Team",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/30c0cf94ff9512906b1090e37e5e2279.jpg"
+    },
+    {
+      "alternativeText": "Spass beim Rafting im Team",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/55660100e3aa8008b1cd4b797c6bfab7.jpg"
+    },
+    {
+      "alternativeText": "Spass beim Rafting im Team",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e92a39010f410657034167282709304.JPG"
+    },
+    {
+      "alternativeText": "Spass beim Rafting im Team",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86aa9ea2680f4e67263a97cae12295a7.JPG"
+    },
+    {
+      "alternativeText": "Spass beim Rafting im Team",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/578d5e946a667362d5365fdccde8c629.JPG"
+    },
+    {
+      "alternativeText": "Spass beim Rafting im Team",
+      "caption": "Rafting Zweisimmen",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4752be2f8c9aa6d8cee115af4859a8e6.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting",
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

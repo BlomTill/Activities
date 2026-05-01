@@ -1,0 +1,77 @@
+{
+  "id": "755",
+  "slug": "iltios-cable-car-unterwasser-chaserrugg-railway-in-toggenburg",
+  "name": "Iltios Cable Car \"Unterwasser Chäserrugg Railway\" in Toggenburg",
+  "description": "Discover Iltios Cable Car \"Unterwasser Chäserrugg Railway\" in Toggenburg in Switzerland.",
+  "longDescription": "Discover Iltios Cable Car \"Unterwasser Chäserrugg Railway\" in Toggenburg in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "86",
+    "title": "Hiking",
+    "slug": "hiking",
+    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/iltios-cable-car-unterwasser-chaserrugg-railway-in-toggenburg/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "00 Ivan-Louis-Q8N D4X 26I Pw-Upslash-Unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87cfdb3f55a92b194b8170fb776c8cc1.jpg"
+    },
+    {
+      "alternativeText": "01 Ivan Louis CVZ1SP D4xk Unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fdc1ef4aa2b75ab667e287a6b581ed47.jpg"
+    },
+    {
+      "alternativeText": "02 Ivan Louis R8n Niu Umd M Unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b97803e4cf4e8697a29da89fdc970dfc.jpg"
+    },
+    {
+      "alternativeText": "03 Ivan-Louis-W11LpUC4e2k-unsplash",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/57409b27887d9347453aae9554c48ed2.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "cable-car"
+  ],
+  "featured": false
+}

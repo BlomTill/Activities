@@ -1,0 +1,74 @@
+{
+  "id": "425",
+  "slug": "hidden-gems-lucerne-private-ebike-tour",
+  "name": "\"Hidden Gems\" Lucerne private e-bike tour",
+  "description": "Discover \"Hidden Gems\" Lucerne private e-bike tour in Switzerland.",
+  "longDescription": "Discover \"Hidden Gems\" Lucerne private e-bike tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "48",
+    "title": "E-bike",
+    "slug": "e-bike",
+    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/hidden-gems-lucerne-private-ebike-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "E-Cargo Tour Lucerne: Relax on a picturesque ride through the nature of the Lucerne region.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3499386326beaf9508c48a5702aa8cd3.jpg"
+    },
+    {
+      "alternativeText": "E Cargo Tour Lucerne: Discover the hidden gems of Lucerne with E-cargo bikes in nature.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9edea63e88431b4fcde01b1b73d4f6e9.jpg"
+    },
+    {
+      "alternativeText": "E Cargo Tour Lucerne: Discover hidden places with the cargo bike in Lucerne in summer.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ffbf045e970afb1fe0ad4ce508b3d326.jpg"
+    },
+    {
+      "alternativeText": "E-Cargo Tour Lucerne: Discover hidden gems of the city on a cargo bike with friends.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cbac008fa98a39931756b04292e9e65b.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

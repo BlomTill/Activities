@@ -1,0 +1,85 @@
+{
+  "id": "967",
+  "slug": "quad-bike-tour-5-hours-at-lake-constance",
+  "name": "Quad bike tour 5 hours on Lake Constance",
+  "description": "Discover Quad bike tour 5 hours on Lake Constance in Switzerland.",
+  "longDescription": "Discover Quad bike tour 5 hours on Lake Constance in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "63",
+    "title": "Quad",
+    "slug": "quad",
+    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
+  },
+  "location": {
+    "region": {
+      "id": "203",
+      "title": "Region Eastern Switzerland / Liechtenstein"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/quad-bike-tour-5-hours-at-lake-constance/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Quad tour ATV with a view of Lake Constance, driver in protective gear, sunny day",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Bodensee_c3fbfc62f7.jpg"
+    },
+    {
+      "alternativeText": "Quad Tour ATV with four people in red off-road vehicles in nature",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Spass_in_der_Natur_1024x680_025e7f5084.jpg"
+    },
+    {
+      "alternativeText": "Quadriding Tour in the Snow with ATV Riders on a Trail.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winter_Quad_Tour_dbaa9a6fbf.jpg"
+    },
+    {
+      "alternativeText": "Quad Tour ATV on a gravel path with two vehicles.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Quad_Tour_2h_kl_a958211522.jpg"
+    },
+    {
+      "alternativeText": "ATV tour in the Harz, driver on quad, forest path, autumn",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_BBQ_Tour_kl_ceccd2d9ce.jpg"
+    },
+    {
+      "alternativeText": "Quad Tour on ATV on a country road in Arbon",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Arbon_Quad_6bffa059a9.jpeg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

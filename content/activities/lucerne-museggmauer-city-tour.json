@@ -1,0 +1,82 @@
+{
+  "id": "1191",
+  "slug": "lucerne-museggmauer-city-tour",
+  "name": "Musegg Wall guided city tour Lucerne",
+  "description": "Discover Musegg Wall guided city tour Lucerne in Switzerland.",
+  "longDescription": "Discover Musegg Wall guided city tour Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": {
+    "id": "83",
+    "title": "Tours",
+    "slug": "city-tour-guided",
+    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
+  },
+  "location": {
+    "region": {
+      "id": "202",
+      "title": "Lucerne Region - Lake Lucerne"
+    },
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-museggmauer-city-tour/?ref=odbhodn",
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    {
+      "alternativeText": "Musegg Wall Lucerne, visitors viewing historical clock mechanism, city tour with informative details.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/luzern_stadtfuehrung_museggmauer_zeitturm_MG_2562_fd88980dcb.jpg"
+    },
+    {
+      "alternativeText": "Mechanism of the Musegg Wall Clock Tower in Lucerne, historical mechanics visible.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zytturm_Museggmauer_DSC_00350_d0f035d297.jpg"
+    },
+    {
+      "alternativeText": "Musegg Wall Lucerne with a view of the city and mountains",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_stadtfuehrung_museggmauer_fuehrungen_ausfluege_luzern_2_9ddb28606a_02334e2399.jpg"
+    },
+    {
+      "alternativeText": "Musegg Wall in Lucerne during a city tour on a sunny day.",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Museggmauer_Luzern_Pixabay_629e3f3726.jpg"
+    },
+    {
+      "alternativeText": "Musegg Wall in Lucerne 2023, historical tour, city sightseeing",
+      "caption": "",
+      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_0057398_d4a44e929d.jpg"
+    }
+  ],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}
