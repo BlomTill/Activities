@@ -5,17 +5,9 @@
   "description": "Discover Private tour of Tarasp Castle in Switzerland.",
   "longDescription": "Discover Private tour of Tarasp Castle in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "51",
-    "title": "Museums",
-    "slug": "museums",
-    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
-  },
+  "subcategory": "Museums",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Tarasp Castle: impressive historic building in the Engadin, surrounded by colorful trees in autumn.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schloss_Tarasp_1_5f70cdb92e.png"
-    },
-    {
-      "alternativeText": "Explore Tarasp Castle with modern sculpture, surroundings and architecture in South Tyrol.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schloss_Tarasp_Rindszunge_1_26a8ccaefa.jpeg"
-    },
-    {
-      "alternativeText": "House for watching the sunset with a view of mountains and autumn nature in the surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/House_to_watch_the_sunset_1_154ae09f05.png"
-    },
-    {
-      "alternativeText": "Camel Basin: Metallic sculpture in the mountains surrounded by diverse nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kamelbecken_1_b12e66b22f.png"
-    },
-    {
-      "alternativeText": "Moon reflects in the water, surrounded by colorful trees in autumn, idyllic natural scenery.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Moon_2_87f57668ad.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "castle"

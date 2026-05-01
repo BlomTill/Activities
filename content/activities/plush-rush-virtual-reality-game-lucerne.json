@@ -5,17 +5,9 @@
   "description": "Discover \"Plush Rush\" virtual reality game in Lucerne in Switzerland.",
   "longDescription": "Discover \"Plush Rush\" virtual reality game in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VR Plush Rush: experience an exciting adventure in the children's room with toys and excitement.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot25_1d4328c717.jpg"
-    },
-    {
-      "alternativeText": "VR Plush Rush: Kids Playing with Plush Toys in a Colorful Playroom",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot4_e04e30cf50.png"
-    },
-    {
-      "alternativeText": "VR Plush Rush: Playing children in an exciting adventure in a colorful room with a dog.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot5_a001ed1a19.png"
-    },
-    {
-      "alternativeText": "VR Plush Rush: Colorful Toy Landscape with Interactive Elements for Kids",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot11_5886c0067d.jpg"
-    },
-    {
-      "alternativeText": "VR Plush Rush: Playing children with action figures and a dog in the playroom.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot12_ca25c52ed0.jpg"
-    },
-    {
-      "alternativeText": "VR Plush Rush: Toy room with colorful toys and an imaginative children's environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot14_6365401fed.jpg"
-    },
-    {
-      "alternativeText": "VR Plush Rush: A colorful room featuring a toy character playing with a bow and arrow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot18_7a02c56b2c.jpg"
-    },
-    {
-      "alternativeText": "VR Plush Rush: Fun in the Kids' Room with Imaginative Furnishings and Action Figures",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot19_6162458e93.jpg"
-    },
-    {
-      "alternativeText": "VR Plush Rush: Experience an exciting gaming adventure with plush toys in a child-friendly space.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot20_925279ce96.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

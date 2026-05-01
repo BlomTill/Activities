@@ -5,17 +5,9 @@
   "description": "Discover \"Plush Rush\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover \"Plush Rush\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Plush Rush: Playing with plush toys in a colorful toy area full of adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot4_e063254514.png"
-    },
-    {
-      "alternativeText": "Plush Rush: Lively gameplay scenes in a children's room with toys and a dog.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot5_8240d0e637.png"
-    },
-    {
-      "alternativeText": "Plush Rush: colorful toy tree made of candies and toys for kids in the playroom",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot11_6cfb8920c5.jpg"
-    },
-    {
-      "alternativeText": "Plush Rush: Play with characters and a dog in a cozy play environment for kids.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot12_ff7981b22a.jpg"
-    },
-    {
-      "alternativeText": "Plush Rush: Toy and creative play environment for children with colorful elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot14_9d53a16ce6.jpg"
-    },
-    {
-      "alternativeText": "Plush Rush: Plush toy holds a bow in a child-friendly playroom with furniture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot18_e824250726.jpg"
-    },
-    {
-      "alternativeText": "Plush Rush: Experience creative play with colorful figures and an imaginative environment for children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot19_95bc3049f7.jpg"
-    },
-    {
-      "alternativeText": "Plush Rush: Plush Toy Adventure in a Colorful, Child-Friendly Room with Playing Figures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot20_c5099f0189.jpg"
-    },
-    {
-      "alternativeText": "Plush Rush: Play experience with plush toys in a colorful children's room.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PR_Screenshot25_c98ef3d78a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

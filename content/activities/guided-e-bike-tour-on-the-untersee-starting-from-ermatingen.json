@@ -5,17 +5,9 @@
   "description": "Discover Private Guided E-Bike Tour on the Untersee from Ermatingen in Switzerland.",
   "longDescription": "Discover Private Guided E-Bike Tour on the Untersee from Ermatingen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "48",
-    "title": "E-bike",
-    "slug": "e-bike",
-    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
-  },
+  "subcategory": "E-bike",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Indicis_Hoodies_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a499a53ee1e4cad8c22c73127f012797.jpg"
-    },
-    {
-      "alternativeText": "20210710_153101",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da645b32b5a484b1e6c45ad0ebdede22.jpg"
-    },
-    {
-      "alternativeText": "20230409_132104 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d931d051809c3051ad793b474fb8b0d4.jpg"
-    },
-    {
-      "alternativeText": "20240628_105033",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9afec5b65c7a55cb57d991ed0a48874f.jpg"
-    },
-    {
-      "alternativeText": "20240709_180431",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9074d9266193bcc2d4e9a2c38fc3ff11.jpg"
-    },
-    {
-      "alternativeText": "20240709_180626",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a87f305b2ce6fc7d79799bc252ed855.jpg"
-    },
-    {
-      "alternativeText": "20240822_095212_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e49cff168233beec4a958afd48f0446.jpg"
-    },
-    {
-      "alternativeText": "Arenenberg 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0b3e7f6e27c6ac34203d23b4b96bdfa2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

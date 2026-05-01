@@ -5,17 +5,9 @@
   "description": "Discover Myths and legends guided city tour Rheinfelden in Switzerland.",
   "longDescription": "Discover Myths and legends guided city tour Rheinfelden in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rheinfelden city tour with historical details, quiet place, sunny weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrungen_sagenhafte_geschichte_rumpel_ea1819e828.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden: Narrow alley with bikes and historical buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrungen_sagenhafte_geschichte_schelmen_07cbf99436.jpg"
-    },
-    {
-      "alternativeText": "St. Martin Church Rheinfelden during a guided tour with visitors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_kirche_st_martin_5ed65af015.jpg"
-    },
-    {
-      "alternativeText": "City tour Rheinfelden with a guide in the old town, participants listen.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_mittelalter_kirche_903414cb1a.jpg"
-    },
-    {
-      "alternativeText": "Rhein Bridge Rheinfelden with flags and walkers in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_wakker_rheinbruecke_flaggen_61a11d9dd0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

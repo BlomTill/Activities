@@ -5,17 +5,9 @@
   "description": "Discover Patrouille des Glaciers Light 2-day ski tour group from Zermatt in Switzerland.",
   "longDescription": "Discover Patrouille des Glaciers Light 2-day ski tour group from Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "95",
-    "title": "Ski touring",
-    "slug": "ski-touring",
-    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
-  },
+  "subcategory": "Ski touring",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ski Tour Patrol Glaciers: Wanderer on snow-covered peak in the mountains, winter landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/backcountry_skiiing_g74e744cb7_1920_80f9f76342.jpg"
-    },
-    {
-      "alternativeText": "Ski Tour Patrol Glaciers Matterhorn: Skiers in a wintry mountain landscape, team with gear, beautiful mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Matterhorn_Zermatters_754e31fd61.png"
-    },
-    {
-      "alternativeText": "Ski Tour Patrol: Ski hike to the Matterhorn group with snowy landscape, team, and wintry surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Matterhorn_Glacier_Trail_Zermatters_626727f607.jpg"
-    },
-    {
-      "alternativeText": "Ski Tour Patrol Glaciers: experienced ski tourers show techniques in the wintry Matterhorn area.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Instruktion_Zermatters_60330c8778.jpg"
-    },
-    {
-      "alternativeText": "Ski Tour Patrol Glaciers: Group climbing on snow-covered terrain in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hochtour_Zermatters_d4825aa8d8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "glacier",

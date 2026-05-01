@@ -5,17 +5,9 @@
   "description": "Discover E-Scooter Picnic Tour Lake Walen self-guided in Switzerland.",
   "longDescription": "Discover E-Scooter Picnic Tour Lake Walen self-guided in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,13 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Electric scooter riders in Switzerland roll along the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013082127943_sized_800_0_c4df262c3c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

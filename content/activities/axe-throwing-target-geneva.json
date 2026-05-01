@@ -5,17 +5,9 @@
   "description": "Discover Axe throwing in Geneva in Switzerland.",
   "longDescription": "Discover Axe throwing in Geneva in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30614",
-    "title": "Shooting and Throwing Sports",
-    "slug": "shooting-and-throwing-sports",
-    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
-  },
+  "subcategory": "Shooting and Throwing Sports",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Gruppe beim Axtwerfen",
-      "caption": "Wurfsport mit Axt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ec4f46f03422c475b61351e92b5657d.JPG"
-    },
-    {
-      "alternativeText": "Frau beim Axtwerfen",
-      "caption": "Wurfsport mit Axt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2bccb5966716f530437b4bc51aaa15d2.JPG"
-    },
-    {
-      "alternativeText": "Person beim Axtwerfen",
-      "caption": "Wurfsport mit Axt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0af5cafd1f0d3d39820b80c7c6741c65.JPG"
-    },
-    {
-      "alternativeText": "Axtwerfen",
-      "caption": "Wurfsport mit Axt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d6417987b1f5cefe1005856835d00c32.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

@@ -5,17 +5,9 @@
   "description": "Discover \"The Omega Codex\" Outdoor Escape Game Zurich Niederdorf in Switzerland.",
   "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game Zurich Niederdorf in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/65ceb356c10f8c3c8988f6c253e5db63.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ea3b636ae745f46a2d575aec30d92ea3.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b1eb654731f560d246d543cb25f5ce30.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/081fff90e4a846f9623673b9f5ee77d2.png"
-    },
-    {
-      "alternativeText": "Zürich",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c6ebf1445ed9861d9f922d9bf48fa745.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

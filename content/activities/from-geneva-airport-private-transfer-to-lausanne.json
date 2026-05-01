@@ -5,17 +5,9 @@
   "description": "Discover From Geneva airport: private transfer to Lausanne in Switzerland.",
   "longDescription": "Discover From Geneva airport: private transfer to Lausanne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "105",
-    "title": "Transfer",
-    "slug": "transfer",
-    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
-  },
+  "subcategory": "Transfer",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Image shows the roof of a historic building in Geneva with blue mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lausanne_Unsplash_f7734e69ea.jpg"
-    },
-    {
-      "alternativeText": "Mercedes-Benz vehicle on paved road in Lausanne, blooming windows",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Class_1_Swiss_Airport_Transfers_aabf00e131.jpg"
-    },
-    {
-      "alternativeText": "Mercedes-Benz E-Class stands in a lit environment in Geneva, Switzerland",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Class_3_Swiss_Airport_Transfers_c77dac11ce.jpg"
-    },
-    {
-      "alternativeText": "Transfer from Geneva to Lausanne in a comfortable shuttle vehicle with available seats.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/V_Class_1_Swiss_Airport_Transfers_e743a6288b.jpg"
-    },
-    {
-      "alternativeText": "Transfer from Geneva to Lausanne in a black vehicle with leather interior and roses",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/V_Class_inside_Swiss_Airport_Transfers_d77120ebfc.jpg"
-    },
-    {
-      "alternativeText": "Transfer from Geneva to Lausanne with a black van in sunny weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/V_class_Swiss_Airport_Transfers_782d11145c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva",

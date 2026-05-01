@@ -5,17 +5,9 @@
   "description": "Discover Derborence Valley Postauto day trip from Sion in Switzerland.",
   "longDescription": "Discover Derborence Valley Postauto day trip from Sion in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "141",
-    "title": "Postbus",
-    "slug": "postbus",
-    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
-  },
+  "subcategory": "Postbus",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "16-Derborence",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9cd12794b9928681f02eacaa71ce6a19.jpg"
-    },
-    {
-      "alternativeText": "Sion4-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ab8e8468a651cb48d38d0e0461e32fd.jpg"
-    },
-    {
-      "alternativeText": "01 Derborence Lake Pixabay",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6251c2498502ddba1dc64908948710cb.jpg"
-    },
-    {
-      "alternativeText": "cconthey-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/88df34f2091556c5cc0cf6c1e8b8df6d.jpg"
-    },
-    {
-      "alternativeText": "conthey1-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7b245df8c042e5ef3190938ac4cdf693.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

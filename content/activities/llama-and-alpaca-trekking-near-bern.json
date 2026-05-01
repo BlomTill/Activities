@@ -5,17 +5,9 @@
   "description": "Discover Llama and Alpaca Trekking near Bern in Switzerland.",
   "longDescription": "Discover Llama and Alpaca Trekking near Bern in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "28",
-    "title": "Llama and alpaca trekking",
-    "slug": "llama-and-alpaca-trekking",
-    "description": "Book now your excursion with llama or alpaca trekking. The beautiful and curious animals fit almost every event: whether children's birthday party, wedding or school trip. A hike with the animals through the mountains or along meadows and rivers is a special experience for young and old. Get to know the cute animals up close while you walk with them through beautiful landscapes."
-  },
+  "subcategory": "Llama and alpaca trekking",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Alpaca",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10c96a137e9d2ac59533da1c431a11cb.jpg"
-    },
-    {
-      "alternativeText": "unnamed (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e9cbd611fc573183d241824bc0baa64a.jpg"
-    },
-    {
-      "alternativeText": "Alpaca4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/71cae1f69e2e3af8c09d8be2b758ea79.jpg"
-    },
-    {
-      "alternativeText": "unnamed",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0933fd94fba0187092e43766a62deb96.jpg"
-    },
-    {
-      "alternativeText": "Alpaca3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f4e0072551a08d34b70e3a33487b7aec.jpg"
-    },
-    {
-      "alternativeText": "Alpaca2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2ffa71ab5c4442d4e6dff051d9f18bab.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "bern"

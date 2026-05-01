@@ -5,17 +5,9 @@
   "description": "Discover Stag Party Challenge \"Hangover - Girls Edition\" around Basel in Switzerland.",
   "longDescription": "Discover Stag Party Challenge \"Hangover - Girls Edition\" around Basel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Girls Edition Basel 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f8aebd7b63a9d7d616c0e7c4e5253ba9.jpg"
-    },
-    {
-      "alternativeText": "Girls Edition Basel 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/46b722e33a011b29ddc6af3b4381bb56.jpg"
-    },
-    {
-      "alternativeText": "Girls Edition Basel 3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/83608ed996d8eb529e459f544d7fc87e.jpg"
-    },
-    {
-      "alternativeText": "Girls Edition Basel 4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2e85576504b7e3f3b423d70eaee16d57.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Trendy concrete with lunch in the tipidorf in Switzerland.",
   "longDescription": "Discover Trendy concrete with lunch in the tipidorf in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Betonrohlinge",
-      "caption": "Tipidorf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da912b3a0a9eb6be4b7b8752cfd06414.jpg"
-    },
-    {
-      "alternativeText": "Betongiessen",
-      "caption": "Tipidorf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bd49c50da31d894303d2fa4aebb62cd6.jpg"
-    },
-    {
-      "alternativeText": "Betongiessen",
-      "caption": "Tipidorf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/afd596297fed6ec07380cdd4c955ad3b.jpg"
-    },
-    {
-      "alternativeText": "Betongiessen",
-      "caption": "Tipidorf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/462bc9f2bb4e03a4e2c38e6bc281267e.jpg"
-    },
-    {
-      "alternativeText": "Betongiessen",
-      "caption": "Tipidorf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f20a2c099e3bfab95f34759b2d8a49d.jpg"
-    },
-    {
-      "alternativeText": "Betonhase",
-      "caption": "Tipidorf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86b7516d39b002252d189f3ed0a77d63.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Lodrino Gorge canyoning for experts full day in Switzerland.",
   "longDescription": "Discover Lodrino Gorge canyoning for experts full day in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,68 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Waterfall: Couple in wetsuits in front of an impressive waterfall in nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lodrino_couple_big_1024x1024_99bfaf4efd.jpg"
-    },
-    {
-      "alternativeText": "Lodrino Canyoning: Jumping over rocks in a bright waterfall.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_132ad8adfbd2893db124d45818f9f610_6ce8135899.jpg"
-    },
-    {
-      "alternativeText": "Lodrino Canyoning: Group doing canyoning in nature with adventure and waterfalls.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1082_e740c97c5d.jpg"
-    },
-    {
-      "alternativeText": "Lodrino Canyoning: Climber jumps into crystal-clear water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_9c3cccc818379e795b05f7dc72295429_012c2692ce.jpg"
-    },
-    {
-      "alternativeText": "Canyoning Lodrino Waterfall with water cascading over rocks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_bbea8785f6a8d1ad6456a9cc75615108_406ee1bd3b.jpg"
-    },
-    {
-      "alternativeText": "Canyoning Lodrino: Person slides into waterfall between rocks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_9c05ed6677b7b16718244abbd1e0037e_ad3485a8e1.jpg"
-    },
-    {
-      "alternativeText": "Lodrino Canyoning: Experience an exciting adventure in nature during the summer with canyoning.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_Lodrino_8ec6bb49ab.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in Lodrino: An adventure in nature with diverse rock formations and waterfalls.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Lodrino_14d48a739c.jpg"
-    },
-    {
-      "alternativeText": "Lodrino Canyoning: Experience adventure in nature while rappelling over waterfalls.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_87_9ec9b5f7e9.jpg"
-    },
-    {
-      "alternativeText": "Lodrino Canyoning: Discover the impressive rock formations and the natural landscape of the gorge.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lodrino_Canyon_f3a747c8bf.jpg"
-    },
-    {
-      "alternativeText": "Lodrino Canyoning: Experience adventure in nature with hikers in a spectacular setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lodrino_background_840f861157.jpg"
-    },
-    {
-      "alternativeText": "Lodrino Canyoning: Experience an exciting adventure in nature with friends in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lodrino_lookout_ac7c3250b9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

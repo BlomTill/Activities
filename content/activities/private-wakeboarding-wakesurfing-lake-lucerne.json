@@ -5,17 +5,9 @@
   "description": "Discover Private wakeboarding or wakesurfing Lake Lucerne in Switzerland.",
   "longDescription": "Discover Private wakeboarding or wakesurfing Lake Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "110",
-    "title": "Wakeboarding and Wakesurfing",
-    "slug": "wakeboarding",
-    "description": "Find your wakeboarding or wakesurfing experience here under professional guidance. Wakeboarding is a water sport that uses a board. You are strapped to this board and pulled over the water by a motorboat. The name wakeboard comes from the keel wave of the boat (wake). It is used as a launch ramp when wakeboarding. In wakesurfing, the surfer rides the wave created by the boat. They let go of the rope once they have enough speed. Both sports, especially wakeboarding, are relatively quick to learn. It's also not exhausting."
-  },
+  "subcategory": "Wakeboarding and Wakesurfing",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,63 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "IMG-20250620-WA0003",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5c4f8dd36b7d5cb7082ceb4a61c123bb.jpg"
-    },
-    {
-      "alternativeText": "IMG-20220623-WA0011",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ae699bfb4b83b46fbd66b5c84980790.jpg"
-    },
-    {
-      "alternativeText": "IMG-20220611-WA0005",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/18e66868c1f7d210c89a86a1a2690aa9.jpg"
-    },
-    {
-      "alternativeText": "IMG-20210906-WA0011",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/00ee008f189ce236724c9dfcab7e2388.jpg"
-    },
-    {
-      "alternativeText": "IMG_20230627_161810_471",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41ab43f040ffe500532ca51a620f088c.jpg"
-    },
-    {
-      "alternativeText": "IMG_20220826_083853_818",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/802a5b031f09613bf4950881f22243ab.jpg"
-    },
-    {
-      "alternativeText": "IMG_20181017_173514",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/05cdb8d5f39b6d96c7f7b4045762f4d9.jpg"
-    },
-    {
-      "alternativeText": "IMG_20181017_172520",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5c42ce2660df26741d0f6d292bb2a495.jpg"
-    },
-    {
-      "alternativeText": "IMG_20181017_172425_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/037bf20087cbeb3f59b1e0037b848ce8.jpg"
-    },
-    {
-      "alternativeText": "IMG_20181017_172250",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7f692e65a0aeffbf20f9e98ddcc1080.jpg"
-    },
-    {
-      "alternativeText": "dji_fly_20230616_203230_287_1686940628852_photo",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3866290aa019cd831d0e9a49bab3ccb.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

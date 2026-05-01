@@ -5,17 +5,9 @@
   "description": "Discover \"Alice in Wonderland\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover \"Alice in Wonderland\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VR Alice: Discover a fantastic castle with fairy-tale towers in a mysterious setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_min_c3549e65e9.jpg"
-    },
-    {
-      "alternativeText": "VR Alice: Experience magical adventures in a fantastic environment with impressive architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_min_4bd611656f.jpg"
-    },
-    {
-      "alternativeText": "VR experience with friends, interactive technology and exciting adventures for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_6_84cd704641.jpg"
-    },
-    {
-      "alternativeText": "VR Alice: Discover a fascinating fairy tale world with vibrant colors and fantastic beings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_min_a03a5a7739.jpg"
-    },
-    {
-      "alternativeText": "VR experience: playful team event in virtual reality with technology and interactive experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_4_fd50efc385.jpg"
-    },
-    {
-      "alternativeText": "VR Alice: Experience the fascinating world of Alice in a unique adventure full of magic and colors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_min_621fd96fda.jpg"
-    },
-    {
-      "alternativeText": "VR Alice: Experience virtual reality with a team outside or inside in exciting adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_5_254d880d5b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

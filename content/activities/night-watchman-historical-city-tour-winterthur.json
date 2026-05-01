@@ -5,17 +5,9 @@
   "description": "Discover \"Night Watchman\" Historical City Tour Winterthur in Switzerland.",
   "longDescription": "Discover \"Night Watchman\" Historical City Tour Winterthur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,23 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Night Watchman Tour Winterthur: guided city tour with historical night watchman.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TV_Format_16_9_Nachtwaechter_in_Stadtfuehrung_Winterthur_88d9d59948.jpg"
-    },
-    {
-      "alternativeText": "Night Watchman Tour in Winterthur: explore the city at night and discover its secrets.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TV_Format_16_9_Nachtwaechterfuehrung_2023_16eee255e0.jpg"
-    },
-    {
-      "alternativeText": "Night Watchman Tour: Experience the historic old town of Winterthur at night with lively lights and a cozy atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TV_Format_16_9_Altstadt_Winterthur_bei_Nacht_d90211d3d1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "watch"

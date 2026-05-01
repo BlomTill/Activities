@@ -5,17 +5,9 @@
   "description": "Discover Lugano: Drive a 3-wheeled Vanderhall Roadster starting from Locarno in Switzerland.",
   "longDescription": "Discover Lugano: Drive a 3-wheeled Vanderhall Roadster starting from Locarno in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "63",
-    "title": "Quad",
-    "slug": "quad",
-    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
-  },
+  "subcategory": "Quad",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "lugano3 copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a1a96a29bbbfe3f260a90a7b429c21e.jpg"
-    },
-    {
-      "alternativeText": "MG_5714-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5cd380f163342138ae958bdf646eeb94.jpg"
-    },
-    {
-      "alternativeText": "lugano4 copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/98a23a235990a5c20208f1de24b42537.jpg"
-    },
-    {
-      "alternativeText": "MG_5716-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b225d81b7d085cdb2656c3fa14643dc.jpg"
-    },
-    {
-      "alternativeText": "lugano5 Copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/896ae88074e5465b44c46f4e26980928.jpg"
-    },
-    {
-      "alternativeText": "lugano1 copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a5708b39f7f2d4e65d04e4998000c68.jpg"
-    },
-    {
-      "alternativeText": "lugano2 copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/93908554e9bf5b66cb63abddc4068c32.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lugano"

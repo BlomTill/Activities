@@ -5,17 +5,9 @@
   "description": "Discover Easy snowshoe tour to the Wetterhorn in Switzerland.",
   "longDescription": "Discover Easy snowshoe tour to the Wetterhorn in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "23",
-    "title": "Snowshoeing",
-    "slug": "snowshoeing",
-    "description": "Rent your snowshoes here or book a guided tour with or without fondue fun. In the past, snowshoes were the usual means of transportation in snowy areas. The weight is distributed over a larger area, making it easier for the snowshoe wearer to walk through deep snow. Today, snowshoeing is a popular winter sport that can be done in the mountains but also guided or individually at lower altitudes."
-  },
+  "subcategory": "Snowshoeing",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Snowshoe hiking in winter at the Wetterhorn with your own steps through fresh snow and snow-covered trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_2_f99206dd06.jpg"
-    },
-    {
-      "alternativeText": "Snowshoe hiking in the winter forest with snow-covered trees and hikers in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_1_ae2afc0067.jpg"
-    },
-    {
-      "alternativeText": "Snowshoe hiking at Weatherhorn in winter with snowy paths and athletic activity",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_3_c293b1cf5e.jpg"
-    },
-    {
-      "alternativeText": "Snowshoe hiking at Wetterhorn, discover the snowy winter landscape and the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_4_61ef5f673a.jpg"
-    },
-    {
-      "alternativeText": "Snowshoeing: Explore the winter landscape at Wetterhorn with friends in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_5_3bd125f177.jpg"
-    },
-    {
-      "alternativeText": "Snowshoe hiking in the snow among trees at Wetterhorn in Switzerland. Winter landscape with children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_6_4b02890bb0.jpg"
-    },
-    {
-      "alternativeText": "Snowshoe hiking in winter: Experience the Wetterhorn and the breathtaking winter landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_7_e5d943b1f7.jpg"
-    },
-    {
-      "alternativeText": "Snowshoeing: Snow-covered landscape with Wetterhorn in the background and a winter atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_8_fbfc8f2b7f.jpg"
-    },
-    {
-      "alternativeText": "Snowshoe Hiking: Explore the snowy landscape at Wetterhorn in a winter wonderland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_9_3b7f5697f9.jpg"
-    },
-    {
-      "alternativeText": "Snowshoe hiking: Enjoy the winter landscape around the Wetterhorn with snow and a magnificent view.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/snowshoeing_Wetterhorn_with_OUTDOOR_10_ad8b8cdce2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

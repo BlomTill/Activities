@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: Aiguille du Midi and skiing in Chamonix Mont-Blanc in Switzerland.",
   "longDescription": "Discover From Geneva: Aiguille du Midi and skiing in Chamonix Mont-Blanc in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Aiguille du Midi und Skifahren in Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/958930e41bb2e5fb88c559628b73a0a8.JPG"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Aiguille du Midi und Skifahren in Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/67f741da98a55ee1e431c4641050f160.jpg"
-    },
-    {
-      "alternativeText": "Skifahren Valle Blanche",
-      "caption": "Aiguille du Midi und Skifahren in Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/62171b8ddb3e191777beefe12fc2d636.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Aiguille du Midi und Skifahren in Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bcf217971ae8bad4371bf5945161f45d.JPG"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Aiguille du Midi und Skifahren in Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ddf5c21a7748d5a02f259e95398da94a.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Aiguille du Midi und Skifahren in Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/efade278ebda98c05cf7ae9e0f2fadcd.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "Aiguille du Midi und Skifahren in Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f33bf39d7c00f0321c51085c7f5c653.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "skiing",

@@ -5,17 +5,9 @@
   "description": "Discover SUP Yoga on Lake Walensee in Switzerland.",
   "longDescription": "Discover SUP Yoga on Lake Walensee in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "112",
-    "title": "Yoga",
-    "slug": "yoga",
-    "description": "Find your yoga class here. Yoga means as much as connection. It means the connection of body, soul and spirit. The goal is to achieve a better inner peace, balance and well-being. You can practice it almost everywhere. You can find courses both indoors and outdoors. Often there are combinations with overnight stay and good food or an additional activity\n\n"
-  },
+  "subcategory": "Yoga",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bild SUP Yoga",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/53a2bfff474aa3d23a3185121af01459.jpg"
-    },
-    {
-      "alternativeText": "Badestrände_Walensee_Unterterzen (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0cda4216930f46b24c0e89781049bf80.jpg"
-    },
-    {
-      "alternativeText": "Badestrände_Walensee_Unterterzen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9d34dac2baf9ebb44f64abbc2e29cb19.jpg"
-    },
-    {
-      "alternativeText": "SUP_Walensee",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a706156a513835df3791401c911c3191.jpg"
-    },
-    {
-      "alternativeText": "tkv_bbf-marina_155_119A3377",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/36e0b1f66fd8e98dfde5584a5bbfbbd1.JPG"
-    },
-    {
-      "alternativeText": "tkv_bbf-resortwalensee_TR1A5745",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e9daa19dd89204c776cbbb6321c6ca96.jpg"
-    },
-    {
-      "alternativeText": "tkv_bbf-resortwalensee_TR1A6061",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0e478e1c53144acc36c2c6c71c65f3b3.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

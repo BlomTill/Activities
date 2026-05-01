@@ -5,17 +5,9 @@
   "description": "Discover \"Men's rooms - women's dreams\" guided tour of Thun in Switzerland.",
   "longDescription": "Discover \"Men's rooms - women's dreams\" guided tour of Thun in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "City tour in Thun with women and men, historical surroundings, leisure activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Maenner_Frauen_in_Thun_1_Thun_Thunersee_Tourismus_6908a0bfb7.jpg"
-    },
-    {
-      "alternativeText": "City tour in Thun with two men and a woman",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Maenner_Frauen_in_Thun_4_Thun_Thunersee_Tourismus_83ba595284.jpeg"
-    },
-    {
-      "alternativeText": "View of Thun with blooming flowers along the shore, clear skies, historical architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Maenner_Frauen_in_Thun_Thun_Thunersee_Tourismus_b476c8e6a0.jpeg"
-    },
-    {
-      "alternativeText": "Thun city tour with men and women, view of mountains and buildings in spring",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Maenner_Frauen_in_Thun_2_Thun_Thunersee_Tourismus_88033374eb.jpeg"
-    },
-    {
-      "alternativeText": "Pedestrian zone Thun with shops and flowers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_blutiges_Thun_1_Thun_Thunersee_Tourismus_1fb59e5142.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

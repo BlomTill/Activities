@@ -5,17 +5,9 @@
   "description": "Discover Private ski course Riffelberg or Matterhorn Ski Paradise in Switzerland.",
   "longDescription": "Discover Private ski course Riffelberg or Matterhorn Ski Paradise in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ski School Zermatt: Experience personalized private lessons in skiing in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skischule_Zermatt_2_Zermatters_f96d8e2853.jpg"
-    },
-    {
-      "alternativeText": "Skiing in Zermatt with the ski school for private lessons in winter in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Zermatt_Zermatters_ce19bfe15c.jpg"
-    },
-    {
-      "alternativeText": "Ski school: Children with instructor skiing at the Matterhorn.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skiunterricht_Kinder_Zermatters_8d01c9573b.jpg"
-    },
-    {
-      "alternativeText": "Ski instructor Zermatt wears a red ski jacket, skiing in sunny winter",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skilehrer_Zermatt_Zermatters_ac39f5624e.jpg"
-    },
-    {
-      "alternativeText": "Riffelsee Zermatt with snow-covered mountains and ski activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Riffelsee_Zermatt_Pixabay_bebd774b29.jpg"
-    },
-    {
-      "alternativeText": "Ski school Zermatt: Private lessons on the ski slope with impressive Matterhorn in winter landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skikurs_Privatunterricht_Zermatters_60f09fa2c6.jpg"
-    },
-    {
-      "alternativeText": "Ski School Zermatt: Experience private lessons in skiing amid impressive mountain peaks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Gletscherabfahrt_Schnee_be19aa2445.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

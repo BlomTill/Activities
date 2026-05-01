@@ -5,17 +5,9 @@
   "description": "Discover Hike Linner Linde to Museum Bözberg for groups in Switzerland.",
   "longDescription": "Discover Hike Linner Linde to Museum Bözberg for groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,43 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bözberg dry meadow with colorful flowers, idyllic landscape, perfect for nature lovers and hikers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Trockenwiese_Boezberg_b596e25f3f.JPG"
-    },
-    {
-      "alternativeText": "Bözberg: Honeybee flies between sunflowers in the sunflower field in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Boezberg_Honigbiene_Sonnenblumen_441edeed5c.jpg"
-    },
-    {
-      "alternativeText": "Linner Linde: Experience winter landscape with benches and a large tree in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Linner_Linde_2_109936eb87.JPG"
-    },
-    {
-      "alternativeText": "Linner Lime: Large tree in nature, surrounded by flowers, ideal for spring outings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Linner_Linde_Jurapark_Aargau_Geri_Hirt_6f8db49b30.JPG"
-    },
-    {
-      "alternativeText": "Linner Linde: Fog over a charming landscape with mountains and trees at sunset.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Linner_Linde_8334ec3ab1.JPG"
-    },
-    {
-      "alternativeText": "Jurapark Aargau: wide meadows with a tree in the sunlight and typical Swiss nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jurapark_Aargau_Aargau_Tourismus_Michel_Jaussi_d05c9f6813.jpg"
-    },
-    {
-      "alternativeText": "Bözberg: View of Habsburg in the dawn light over the mountains and in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Boezberg_Habsburg_Morgenrot_87fcfdcf83.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "museum"

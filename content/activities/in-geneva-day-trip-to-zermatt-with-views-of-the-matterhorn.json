@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: day trip to Zermatt with views of the Matterhorn in Switzerland.",
   "longDescription": "Discover From Geneva: day trip to Zermatt with views of the Matterhorn in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,18 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "zermatt-pixabay",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7bb78791845f64472bbe1311e3ab4814.jpg"
-    },
-    {
-      "alternativeText": "ZBAG Schwarzsee Summer 2023-26",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7dd0d512dac2efa3399506349de95500.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt",

@@ -5,17 +5,9 @@
   "description": "Discover Wine and gourmet hike for groups from Fläsch in Switzerland.",
   "longDescription": "Discover Wine and gourmet hike for groups from Fläsch in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Wine tour: Group at the vineyard in the Bündner Herrschaft enjoying a delightful tasting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00dc454f5da951091984c5009d63b6fc.jpg"
-    },
-    {
-      "alternativeText": "Wine tour: gourmet dish with fresh meat and herbs, ideal for food lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1ca5ff10d1f1025581669bc52f670ea2.JPG"
-    },
-    {
-      "alternativeText": "Food: Gourmet dish with vegetables and sauce, ideal for foodies and wine tours",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5df6cfa6e02566679fdd73bde9d842f5.jpg"
-    },
-    {
-      "alternativeText": "Food: pumpkin dish on a plate with edible flowers and spices, ideal for gourmet lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5d8dbbccad71528b7666c969f8d2cdd4.jpg"
-    },
-    {
-      "alternativeText": "Food: Fine gourmet dishes and creative wine pairings on the wine tour.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/625ce0a53fd6417c07849911de2e9ac3.jpg"
-    },
-    {
-      "alternativeText": "Wine: fine bottles on a wine tour in the wine region, tasting, enjoyment, friends",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/51e40e923eddd376f18561799129ff32.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "wine"

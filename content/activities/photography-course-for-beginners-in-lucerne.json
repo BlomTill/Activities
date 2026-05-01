@@ -5,17 +5,9 @@
   "description": "Discover Photography course for beginners in Lucerne in Switzerland.",
   "longDescription": "Discover Photography course for beginners in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "85",
-    "title": "Photo course",
-    "slug": "photo-course",
-    "description": "Book your photography course here. You'll explore the world through the lens of your camera during a photography course. With professional guidance, you'll learn how to get the most out of your photos and either build your skills from the ground up or deepen your knowledge."
-  },
+  "subcategory": "Photo course",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,53 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Photography Course Lucerne shows a picturesque landscape with the river and historic buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_10_440388d94f.jpg"
-    },
-    {
-      "alternativeText": "Photography course Lucerne. Beginners photograph by the lake with a tripod.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_1_98b5914d47.jpg"
-    },
-    {
-      "alternativeText": "Photography course Lucerne with participant holding a camera. View of the city and mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_9_c62d2ca2ca.jpg"
-    },
-    {
-      "alternativeText": "Camera on tripod overlooking Lucerne, mountains and lake",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_2_5ee8aff174.jpg"
-    },
-    {
-      "alternativeText": "Chapel Bridge Lucerne in 2023, people on the bridge, river, mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_3_e6912d88e7.jpg"
-    },
-    {
-      "alternativeText": "Sunset over Lake Lucerne, Lucerne, reflections, city architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_4_ccc92a8a7c.jpg"
-    },
-    {
-      "alternativeText": "Pilatus near Lucerne in 2023 with snow-covered peaks and a cloudy sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_6_d6a2fab6e3.jpg"
-    },
-    {
-      "alternativeText": "Photography Course Lucerne shows the river with flowing water, surrounded by historic buildings and trees",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_8_2b1acb2766.jpg"
-    },
-    {
-      "alternativeText": "Lion Monument in Lucerne, Photography Course, autumnal surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_11_820f3ff713.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

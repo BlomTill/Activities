@@ -5,17 +5,9 @@
   "description": "Discover \"The Great Holter Polter\" Polterabend Escape Game in Zurich in Switzerland.",
   "longDescription": "Discover \"The Great Holter Polter\" Polterabend Escape Game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Celebration: Group of women in festive clothing at an outdoor bridal party",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zoriana_stakhniv_d_9i9_Ta_Oxf_I_unsplash_33880ce3cf.jpg"
-    },
-    {
-      "alternativeText": "City view: traffic at sunset with street lights and architecture, urban atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_von_Eric_Weber_auf_Unsplash_d9b7833c0e.jpg"
-    },
-    {
-      "alternativeText": "Delicate cold cuts platter with cheese and red wine in the restaurant, perfect for foodies and social gatherings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_von_Giacomo_Alonzi_auf_Unsplash_32dc30c01d.jpg"
-    },
-    {
-      "alternativeText": "Cocktails: Three colorful cocktails on a wooden table in a modern bar with fresh ingredients.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_von_Louis_Hansel_auf_Unsplash_242f97724c.jpg"
-    },
-    {
-      "alternativeText": "Zurich: evening city view with lights, shopping options, and winter charm.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Zuerich_Foto_von_OMID_VISUALS_auf_Unsplash_fe638a26d0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

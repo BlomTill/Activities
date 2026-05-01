@@ -5,17 +5,9 @@
   "description": "Discover \"Cyber Punk\" virtual reality game in Lucerne in Switzerland.",
   "longDescription": "Discover \"Cyber Punk\" virtual reality game in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VRilliant Cyber Punk: Futuristic environment with robots and modern technologies in vibrant colors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Cyberpunk_6_345420b0aa.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: Experience captivating virtual reality with cyberpunk elements and innovative technology.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_1_549a0a6d7d.jpg"
-    },
-    {
-      "alternativeText": "Cyber Punk: Futuristic city view with neon lights and sci-fi elements, inspiring and creative.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Cyberpunk_2_df804b4eb5.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: Insight into virtual reality with futuristic elements and exciting gameplay",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_3_70b07325d3.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Cyber Punk: futuristic space architecture with glowing pipes and technology elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Cyberpunk_4_d0d3816aec.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: experience exciting virtual reality with innovative technology in a modern environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_5_dafb4dfae0.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: futuristic cyberpunk environment with neon lights and urban flair.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Cyberpunk_5_96d964e897.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: Experience cyberpunk with virtual reality in a modern environment and innovative technology.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_6_9104d2bbd5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

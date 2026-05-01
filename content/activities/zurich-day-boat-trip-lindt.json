@@ -5,17 +5,9 @@
   "description": "Discover Zurich day trip with city tour, boat trip and Lindt Home of Chocolate in Switzerland.",
   "longDescription": "Discover Zurich day trip with city tour, boat trip and Lindt Home of Chocolate in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lindt Home of Chocolate: Experience the fascinating world of the cocoa plant in the museum.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_csm_lindt_home_of_chocolate_museum_with_audioguide_92edf78316_f26745eb8b.jpg"
-    },
-    {
-      "alternativeText": "Lindt Home of Chocolate: Selfie with chocolate fountain and friends in the visitor area.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lindt_home_of_chocolate_chocolate_fountain_selfie_8adcc07fb5_893398793a.jpg"
-    },
-    {
-      "alternativeText": "Lindt Home of Chocolate: modern museum with chocolate tasting and family outing.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lindt_home_of_chocolate_museum_exterior_view_053ce34a45_05e4ff3451.jpg"
-    },
-    {
-      "alternativeText": "Lindt Home of Chocolate: happy mother with daughter in a chocolate world with colorful pralines.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lindt_home_of_chocolate_shop_ebce0754ed_d1258ba352.jpg"
-    },
-    {
-      "alternativeText": "Zurich: Fountain at the lakeshore, boats, and promenade in summer, a beautiful place for relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_enge_harbour_lakeside_fountain_d750285f88_c997e42f77.jpg"
-    },
-    {
-      "alternativeText": "Lake Zurich: The ship MS Albis sails on the sparkling water of Lake Zurich.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_lake_zurich_cruise_ms_albis_e64cdbd33c_766f3b4822.jpg"
-    },
-    {
-      "alternativeText": "Zürich Old Town: picturesque view of the Limmat with historic buildings and the Fraumünster Church.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_guild_house_limmat_river_b08bb84cbb_6a9a628d1c.jpg"
-    },
-    {
-      "alternativeText": "Zürich Old Town: Boat on the Limmat, historic buildings and gentle riverside promenade.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_limmat_river_boat_4080ca9b7f_2c25265550.jpg"
-    },
-    {
-      "alternativeText": "Zurich Old Town: charming houses along the Limmatquai by the river in the city of Zurich",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_limmatquai_62719e96ae_601cabf64d.jpg"
-    },
-    {
-      "alternativeText": "Zurich Old Town: Historical architecture at Münsterhof Square with cafés and outdoor guests.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_zurich_old_town_munsterhof_square_e793c65216_1_e5c19c4ef8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

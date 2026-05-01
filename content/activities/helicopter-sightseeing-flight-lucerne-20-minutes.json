@@ -5,17 +5,9 @@
   "description": "Discover Lucerne scenic helicopter flight 20 minutes in Switzerland.",
   "longDescription": "Discover Lucerne scenic helicopter flight 20 minutes in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lucerne from above shows river, bridges and neighborhoods.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_a32983b8cc8c58ed69f5ba1b202bae25_f91f398f41.jpeg"
-    },
-    {
-      "alternativeText": "Helicopter flight over clouds, city and countryside in 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_7e762a6c6b009a52a62672457044f1a3_5abf8ea8c6.jpg"
-    },
-    {
-      "alternativeText": "Lucerne helicopter view over the city and Lake Lucerne.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_3df112cf11bcb086952e1b1fd36d3f79_0a6956ae36.jpg"
-    },
-    {
-      "alternativeText": "Helicopter over Lucerne, view of the city and Lake Lucerne",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_Helikopter_804411dba5.jpg"
-    },
-    {
-      "alternativeText": "Helicopter sightseeing flight with a view of Lake Constance and the surrounding area",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Heli_Rundflug_92c6d7834a.jpg"
-    },
-    {
-      "alternativeText": "Helicopter flight Lucerne with smiling pilots in cockpit",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Helikopterflug_Luzern_8c80074450.jfif"
-    },
-    {
-      "alternativeText": "Helicopter Flight Lucerne with Two Pilots in the Cockpit",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rundflug_Helikopter_137c090e21.jpg"
-    },
-    {
-      "alternativeText": "Helicopter cockpit during landing with pilots. Sunbeams are shining through the windows.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_950423f1f50cb05e3f600f57e89a3587_71766355c6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "scenic",

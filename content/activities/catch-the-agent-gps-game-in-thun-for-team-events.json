@@ -5,17 +5,9 @@
   "description": "Discover \"Catch the Agent\" GPS Game in Thun for Team Events in Switzerland.",
   "longDescription": "Discover \"Catch the Agent\" GPS Game in Thun for Team Events in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Thun",
-      "caption": "Escape Game Thun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/597052d0b09233d3621313d75d545c86.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Escape Game Thun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3915990755ed08897b266ff492d517ef.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Escape Game Thun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d86ee9118a2f3d41662905f48f4038d.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Escape Game Thun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/14c368290be197d50161ab321b239ab1.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Escape Game Thun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b5ccd834baeae96e62410a63b96ddc7.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Escape Game Thun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/43f4a38a42316a12a3dc78601fec196a.jpg"
-    },
-    {
-      "alternativeText": "Karte",
-      "caption": "Escape Game Thun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aa02ffaf7e43c97a2192b74a0c5f90fc.PNG"
-    },
-    {
-      "alternativeText": "7 - Action E",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/988babef3e430b85147ab13ede23b88e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Monster Scooter from Kreuzboden with departure to Saas-Grund in Switzerland.",
   "longDescription": "Discover Monster Scooter from Kreuzboden with departure to Saas-Grund in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "66",
-    "title": "Monster Scooter",
-    "slug": "monster-scooter",
-    "description": "Book for you and your family the next trip with a Monster Scooter. You stand on the stable scooter and let nature pass you by. Hand brakes on the handlebars and wide tires make the scooter easy to control. A trip together in a group is a nice and relaxing experience. With a Monster Scooter you have the choice whether you want to enjoy the view comfortably or organize a rapid descent"
-  },
+  "subcategory": "Monster Scooter",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,63 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Hohsaas View with panoramic views of the Alps and the valley",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ausblick_Hohsaas_7baac7afd5.jfif"
-    },
-    {
-      "alternativeText": "Hohsaas Mountain Railways with Cable Cars over Meadows and Trees",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bergbahnen_Hohsaas_6245c68d99.jfif"
-    },
-    {
-      "alternativeText": "Kreuzboden Hohsaas with waterfall and mountain panorama",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kreuzboden_Hohsaas_6501a6b682.jfif"
-    },
-    {
-      "alternativeText": "Kreuzboden Trotti Descent, two people riding a scooter, mountainous snowy landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kreuzboden_Trotti_Abfahrt_df35e01f4d.jfif"
-    },
-    {
-      "alternativeText": "E-scooter riders in the Alpine region, summer, mountains visible",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Monstertotti_Hohsaas_cadc201d11.jpg"
-    },
-    {
-      "alternativeText": "Kreuzbodensee in Saas-Grund, clear mountain lake with surrounding mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kreuzbodensee_Saas_Grund_de1d19795c.jfif"
-    },
-    {
-      "alternativeText": "Kreuzboden Lake Saas-Grund with snow-covered Alps in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kreuzbodensee_Saas_Grund_c35f331691.jpg"
-    },
-    {
-      "alternativeText": "Saas-Fee village with mountain houses and bridge in the Alps",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Saas_Fee_Dorf_1c1f80a7e5.jfif"
-    },
-    {
-      "alternativeText": "Hohsaas Cable Car in Saas-Grund with a View of the Alps",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seilbahn_Hohsaas_Saas_Grund_42caf72743.jpg"
-    },
-    {
-      "alternativeText": "Ski Hohsaas with Snow-Covered Mountains and Clear Sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ski_Hohsaas_40298529a8.jfif"
-    },
-    {
-      "alternativeText": "Hohsaas hiking trails, hiker on mountain path surrounded by alpine landscape, sunny day, green meadows.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wanderwege_Hohsaas_50e1989512.jfif"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"Tre Signori\" via ferrata near Bellinzona in Switzerland.",
   "longDescription": "Discover \"Tre Signori\" via ferrata near Bellinzona in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "36",
-    "title": "Via ferrata",
-    "slug": "via-ferrata",
-    "description": "Find the via ferrata that suits you best and book a tour led by an experienced mountain guide or rent your equipment here. Via Ferrata, also known under the Italian name \"Via Ferrata\", provide a thrill and an unforgettable climbing experience. Depending on the level of difficulty, previous experience is necessary. However, there are also via ferratas that can be climbed without experience. Well secured, you will master steep ascents and airy traverses. Via ferrata routes can be found all over Switzerland. Starting in the Valais to the Bernese Oberland, Central Switzerland and the Grisons Alps."
-  },
+  "subcategory": "Via ferrata",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Via Ferrata Ticino: Climbing on Rock with Breathtaking Views of the Sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8eb9a76a15928921f9858447dbbec882.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata Ticino: Climbing on rock with breathtaking views of nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/19a58cba1bc2fe095b20e18feb3cbe73.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata Ticino: Climbing on rock, thrilling mountain adventures in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/885e77df712334b096eb689a846f2ec7.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata Ticino: Experience climbing on rock with friends in the nature of the Swiss mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5cd11e52ab6515c6ece89e81c1f2955a.jpg"
-    },
-    {
-      "alternativeText": "Via ferrata Ticino: experience exciting climbing in the rock with friends in the midst of nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0bc23a51cd7150b829be091a7d48ace8.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata Ticino: Climbing on rock with groups in the nature of the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2cd1e60f2864472784eb73105dcf09b0.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata Ticino: Experience thrilling climbing on rock, surrounded by beautiful mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8d4be6c1c6a4ccf22ec48e1a5e613f90.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata Ticino: Climbing on rock with guidance, great views of mountains, nature, and adventure to experience.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f3f45f052b668ee73ede73e824155ef8.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata Ticino: Climbing on rock with breathtaking views of nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00782fe0b60918777a0cd5b981e3042f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

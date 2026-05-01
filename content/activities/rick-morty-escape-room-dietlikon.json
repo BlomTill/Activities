@@ -5,17 +5,9 @@
   "description": "Discover \"Rick and Morty\" Escape Room in Dietlikon in Switzerland.",
   "longDescription": "Discover \"Rick and Morty\" Escape Room in Dietlikon in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rick and Morty",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9511138d8d07c1266d331cb3a09603a3.jpg"
-    },
-    {
-      "alternativeText": "Rick and Morty",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0e88cfcbed4430919088b62d54166ef.jpg"
-    },
-    {
-      "alternativeText": "Rick and Morty",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/72a08b9ac09ecf3e0a85cf2301907d9c.jpeg"
-    },
-    {
-      "alternativeText": "Rick and Morty",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/12e526d2b0a9d74831b68d9ce248830a.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

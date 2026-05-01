@@ -5,17 +5,9 @@
   "description": "Discover \"School of Magic\" Virtual Adventure in Zofingen in Switzerland.",
   "longDescription": "Discover \"School of Magic\" Virtual Adventure in Zofingen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,63 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Virtual Adventure: discover the magical school with amazing adventures and immersive activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3f3620d7a4354e3861e736132f67aa71.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Players in a virtual space with interactive elements and a cool atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01cb74d91bf94bd00984b1250d2dadd0.jpg"
-    },
-    {
-      "alternativeText": "Magic School: Virtual Adventure in a Historical Room with Wood and Artwork.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/98e5a70cf14493b93a370c90556275d1.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Experience exciting adventures in a creative environment with graffiti and interactive games.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/65ca01735bff696c75a453b6ae7244cb.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Group in exciting games in an entertaining environment with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5eca85377a74931325c63d9d8e0cfb47.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Experience exciting group games with children in thrilling environments",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a558cb0ecf1fbb5bbf89b0fc1122ebb6.jpg"
-    },
-    {
-      "alternativeText": "Magic School: Discover an exciting virtual adventure world for children in a magical library.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fc2662d444b54ac42d415d59f85bd149.jpg"
-    },
-    {
-      "alternativeText": "Magic School: Discover the fascinating library full of secrets and adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0a9f14fc37d6bf382b24b5e643c9fdd8.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Discover the Magic at the Magic School with Amazing Surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a9c7594aba677a2fb1bfb4447c4a5377.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Experience magical moments in a group setting with friends and fun.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b09358c0a509287893935eeb494f4821.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Group experiences an exciting adventure in a magical environment with spinning lights.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e31c75bca64dcec074314a0e7b2630af.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "adventure"

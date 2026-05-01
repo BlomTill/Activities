@@ -5,17 +5,9 @@
   "description": "Discover Paragliding tandem in Lauterbrunnen Valley from Mürren in Switzerland.",
   "longDescription": "Discover Paragliding tandem in Lauterbrunnen Valley from Mürren in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Paragliding in Breiten with a view of the mountains in winter",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/airtime_paragliding_team_buzz_c6a850c467.jpg"
-    },
-    {
-      "alternativeText": "Paragliding over a snow-covered landscape with two people",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/airtime_paragliding_landscape_11_4173cbbbba.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Lauterbrunnen with a view of the valley.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/airtime_paragliding_team_beni_ed1f85945a.jpg"
-    },
-    {
-      "alternativeText": "Paragliding with child, view of meadow, colorful kites",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/airtime_paragliding_team_bruno_0a588b94ed.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Montafon, skier starts into the valley, snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/airtime_paragliding_team_michi_bfb3f460af.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding"

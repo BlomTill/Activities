@@ -5,17 +5,9 @@
   "description": "Discover \"Arvi Arena\" VR Escape Game in Biel in Switzerland.",
   "longDescription": "Discover \"Arvi Arena\" VR Escape Game in Biel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kämpfer in Arvi Arena",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc968dd04da59aba0f09377aed51b858.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Arvi Arena",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5fa4c19573c0d9255656f58abec469c7.jpg"
-    },
-    {
-      "alternativeText": "Arvi Arena",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4f915fcb523f65774d07b4187d09372c.jpg"
-    },
-    {
-      "alternativeText": "Arvi Arena",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13da91276201544694010a52b0d14bb4.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Arvi Arena",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ce99a4f3fa88f4061bfb78a9687bcd58.png"
-    },
-    {
-      "alternativeText": "Spieler in Arvi Arena",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22afb278bad2f8d618126d15e76284c9.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Arvi Arena",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/20776d4f653e5957c40dae78724bb6b4.jpg"
-    },
-    {
-      "alternativeText": "Spielerin in Arvi Arena",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/38d1cad534a3b047d314336ca5d7ea1a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"Racing Experience\" in the racing simulator at Schaffhausen in Switzerland.",
   "longDescription": "Discover \"Racing Experience\" in the racing simulator at Schaffhausen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30151",
-    "title": "Racing simulator",
-    "slug": "racing-simulator",
-    "description": "Experience the excitement of motorsport up close with a racing simulator. These state-of-the-art simulators offer you realistic driving simulations that are also used by professional racing drivers for training purposes. Immerse yourself in detailed replicas of real racetracks and vehicles and improve your driving skills and strategies in a safe, controlled environment. Enjoy lifelike graphics and physically precise driving dynamics, complemented by variable weather conditions. Give it a try and feel the thrill of motorsport."
-  },
+  "subcategory": "Racing simulator",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 DSC03202",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b2ca5d869a733a6ea91c935bd70bf452.JPG"
-    },
-    {
-      "alternativeText": "01 DSC03165",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2dc8a58721a3c96b42e2e4ddf6c4eb15.JPG"
-    },
-    {
-      "alternativeText": "03 DSC_3535",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66cb336efe96f8fefec190b4c8f0ff17.JPG"
-    },
-    {
-      "alternativeText": "04 DSC03086",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e255974ea94e756341784ddb1171f50d.JPG"
-    },
-    {
-      "alternativeText": "05 DSC03201",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/76a2fcac19e640ac82e972c0e7d81d4e.JPG"
-    },
-    {
-      "alternativeText": "06 DSC_3510",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ef316e036b5ad40ff86b49d3294c5585.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Tour to Lucerne and Titlis with Fondue Experience in an Igloo in Switzerland.",
   "longDescription": "Discover From Zurich: Tour to Lucerne and Titlis with Fondue Experience in an Igloo in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Iglu am Trübsee",
-      "caption": "Tagesausflug Titlis und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22b6bf94bae5f9d4089d3f1837ef8d4f.jpeg"
-    },
-    {
-      "alternativeText": "Rotair Titlis",
-      "caption": "Tagesausflug Titlis und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/027df22a738e7c5258a4ea1efe69e228.jpg"
-    },
-    {
-      "alternativeText": "Ice Flyer Titlis",
-      "caption": "Tagesausflug Titlis und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e90d1c8ec9b955657dd67cd27bb9967d.jpg"
-    },
-    {
-      "alternativeText": "Iglu am Trübsee",
-      "caption": "Tagesausflug Titlis und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8407a90b09dd32e7ca9ec454f2261345.jpeg"
-    },
-    {
-      "alternativeText": "Eishöhle",
-      "caption": "Tagesausflug Titlis und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24b65147a19d234072c94a042a5f5293.jpg"
-    },
-    {
-      "alternativeText": "Fondue",
-      "caption": "Tagesausflug Titlis und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11c3cac1c998326c5f0d6ee467c42d49.jpeg"
-    },
-    {
-      "alternativeText": "Titlis",
-      "caption": "Tagesausflug Titlis und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2a45062bd0ea836eddaa78d09de2d604.jpg"
-    },
-    {
-      "alternativeText": "Titlis Cliff Walk",
-      "caption": "Tagesausflug Titlis und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7fdcbdfcec72050669fadf2e80f310c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "fondue",

@@ -5,17 +5,9 @@
   "description": "Discover Indoor Ice Skating in Summer in Gstaad and Rougemont private coaching in Switzerland.",
   "longDescription": "Discover Indoor Ice Skating in Summer in Gstaad and Rougemont private coaching in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "68",
-    "title": "Indoor amusement park",
-    "slug": "indoor-amusement-park",
-    "description": "Find your indoor recreational pleasure in an adventure pool, the Citywave or a\na sports or climbing hall. Indoor amusement parks offer an activity field for all those who like to do sports, even in bad weather and in winter. They are often equipped with action-packed facilities such as trampoline areas, ball fields, climbing facilities or water sports facilities. Did you know, for example, that you can also go indoor surfing in Switzerland? In an indoor amusement park, both children and adults will find something entertaining to do"
-  },
+  "subcategory": "Indoor amusement park",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,18 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "adobestock_74506881-min-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3c030c8c65c0679fc0829cc52391284a.jpeg"
-    },
-    {
-      "alternativeText": "adobestock_143601900-min-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/abbfbe7c1fee6169c29f93c033823c1e.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

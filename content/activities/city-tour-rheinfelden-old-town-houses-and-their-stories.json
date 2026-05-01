@@ -5,17 +5,9 @@
   "description": "Discover Old town houses and their stories guided city tour Rheinfelden in Switzerland.",
   "longDescription": "Discover Old town houses and their stories guided city tour Rheinfelden in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "City tour Rheinfelden showcases old town houses in a historic setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/tourismusrheinfelden_stadtfuehrung_haeuser_badzuber_1a0bf1607b.jpg"
-    },
-    {
-      "alternativeText": "Kapuzinergasse with city tours, participants, cityscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_haeuser_kapuzinergasse_5886cadb04.jpg"
-    },
-    {
-      "alternativeText": "Winkelgasse Rheinfelden with historic houses and cobblestones",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_geiss_winkelgasse_09cb38a54c.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden Bridge with Flags, Busy Street in Spring",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_wakker_rheinbruecke_flaggen_963c701c25.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden city tour with participants by the riverside",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_mittelalter_messerturm_0595c0677d.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden Aargau with colorful houses by the river",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinfelden_768x576_d316d10178.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

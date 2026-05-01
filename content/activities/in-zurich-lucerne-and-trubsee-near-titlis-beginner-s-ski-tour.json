@@ -5,17 +5,9 @@
   "description": "Discover In Zurich: Lucerne and Trübsee (near Titlis) beginner's ski tour in Switzerland.",
   "longDescription": "Discover In Zurich: Lucerne and Trübsee (near Titlis) beginner's ski tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Anfängerskifahren Trübsee",
-      "caption": "Tagesausflug Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c8b985dd5e9e6b938cba1e6b00a97abc.jpg"
-    },
-    {
-      "alternativeText": "Anfängerskifahren Trübsee",
-      "caption": "Tagesausflug Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7cc2530344d54b71eed27d081c64c203.jpg"
-    },
-    {
-      "alternativeText": "Anfängerskifahren Trübsee",
-      "caption": "Tagesausflug Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e23c64de2b7cfcb42fe778411dcfc8f3.jpg"
-    },
-    {
-      "alternativeText": "Snowtubing Trübsee",
-      "caption": "Tagesausflug Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ef982877e049464ac79dea7628a68f26.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Tagesausflug Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e1e0dff6d3c03c8978de4355a27a3b08.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

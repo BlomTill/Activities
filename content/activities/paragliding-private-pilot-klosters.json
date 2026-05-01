@@ -5,17 +5,9 @@
   "description": "Discover Klosters paragliding with private pilot half day in Switzerland.",
   "longDescription": "Discover Klosters paragliding with private pilot half day in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,83 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Paragliding in Klosters: experience an exciting view of the mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_900x600_1_50_78895cd87a944df18d74fd56ba9c8df5_59a04bf774.jpg"
-    },
-    {
-      "alternativeText": "Paragliding over Klosters in summer 2023, pilots with views of the mountains and valleys.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Sommer_019_fcdc0c3594.JPG"
-    },
-    {
-      "alternativeText": "Paragliding in Klosters, experience spectacular landscapes and adventures with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_fd2c8d6fedbaba18257822f8aaa3edbf_e8d6d3490f.jpg"
-    },
-    {
-      "alternativeText": "Tandem paragliding in Klosters, white mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paraglding_Davos_011_5d0b6f46e7.jpg"
-    },
-    {
-      "alternativeText": "Tandem paragliding flight over Klosters in 2023 with blue sky and snow-covered mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_027_30749028ac.JPG"
-    },
-    {
-      "alternativeText": "Paragliding in Klosters with friends over the wonderful mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_eb2c8b2887398795c22b13807827b7fc_8ee867b5ab.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Klosters: Experience the flight over stunning mountains and the nature of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_682098e5deab1c2bcf9d034a97c12763_fbd6ce889d.jpg"
-    },
-    {
-      "alternativeText": "Tandem paragliding Klosters in winter over snow-covered mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_074_005a3f82f2.jpg"
-    },
-    {
-      "alternativeText": "Tandem flight with paraglider over snowy mountains in Graubünden in winter",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_089_369772579a.JPG"
-    },
-    {
-      "alternativeText": "Paragliding in Klosters: View of snow-covered mountains and exciting adventures in the winter landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_4bd67f9f61e0cf30500c3a6f247d7a0a_0d555e23fb.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Klosters, experience the freedom above the clouds in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_5e76344e660aa4d556cf795eecdaf3e8_bf1d1d8973.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Klosters with a view of the white snowy landscape. Experience the adrenaline rush.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_36919053a206acda8d064e4bc5563d08_c94620dc16.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Klosters: enjoy the breathtaking view of the mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_d5c6b3a8374f3512a10699dd97796848_9bffe44d72.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Klosters: Experience the thrill of aviation in a beautiful mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_e32da39303958631e0e5d33360e03c5d_3c6e1185a1.jpg"
-    },
-    {
-      "alternativeText": "Tandem paragliding flight over snow-covered mountains in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Joyride_Paragliding_Davos_Winter_083_b71ee2b906.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding"

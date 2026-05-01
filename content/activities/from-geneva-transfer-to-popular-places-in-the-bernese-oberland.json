@@ -5,17 +5,9 @@
   "description": "Discover From Geneva or Geneva Airport: Transfer to popular places in the Bernese Oberland incl. Jungfrau region in Switzerland.",
   "longDescription": "Discover From Geneva or Geneva Airport: Transfer to popular places in the Bernese Oberland incl. Jungfrau region in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "105",
-    "title": "Transfer",
-    "slug": "transfer",
-    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
-  },
+  "subcategory": "Transfer",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,28 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Gstaad: picturesque streets with traditional wooden houses in summer with mountains and nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gstaad_Seraina_7076696487.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen: picturesque landscape with mountains, waterfall, and traditional chalets in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lauterbrunnen_Unsplash_adae00de41.jpg"
-    },
-    {
-      "alternativeText": "Interlaken: idyllic landscape with water, houses, and blooming flowers in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Interlaken_Unsplash_c0fb70dc16.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald: picturesque landscape with green meadows and majestic mountains in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_Unsplash_ee816b505a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva",

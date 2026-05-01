@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Day trip to Lucerne and Bürgenstock in Switzerland.",
   "longDescription": "Discover From Zurich: Day trip to Lucerne and Bürgenstock in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bürgenstock Resort with a view of Lake Lucerne, surrounded by mountains and trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Buergenstock_Resort_Best_of_Switzerland_Tours_35fb8583a2.jpg"
-    },
-    {
-      "alternativeText": "Jesuit Church Lucerne by the River in Summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_old_town_jesuit_church_297a092886_e6d3ddc270.jpg"
-    },
-    {
-      "alternativeText": "Lucerne Old Town with water view, ships, and colorful trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Luzern_Best_of_Switzerland_Tours_b2213448ff.jpg"
-    },
-    {
-      "alternativeText": "Chapel Bridge Lucerne with Water Tower and Strollers along the Shore",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kapellbruecke_Luzern_Best_of_Switzerland_Tours_40caad2f81.jpg"
-    },
-    {
-      "alternativeText": "Boat sails over Lake Lucerne with mountain backdrop.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_burgenstock_shuttle_boat_lake_2a1cac8c69_0bf13c2327.jpg"
-    },
-    {
-      "alternativeText": "Bürgenstock funicular descends into Lake Lucerne with a view of the surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Standseilbahn_Buergenstock_Best_of_Switzerland_Tours_e69ca09725.jpg"
-    },
-    {
-      "alternativeText": "Bürgenstock lookout tower with a view of Lake Lucerne.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_lucerne_burgenstock_hammetschwand_elevator_df3f64fb68_9d9fa7011c.jpg"
-    },
-    {
-      "alternativeText": "Bürgenstock Cliff Path, hike along Lake Lucerne, green surroundings, blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Buergenstock_Felsweg_Best_of_Switzerland_Tours_8cb151e89f.jpg"
-    },
-    {
-      "alternativeText": "Bürgenstock Terrace with a View of Lake Lucerne, Tables and Chairs",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Buergenstock_Terasse_Best_of_Switzerland_Tours_56273cc787.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

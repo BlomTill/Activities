@@ -5,17 +5,9 @@
   "description": "Discover \"Film Set\" Crime Theater at your desired location for large groups in Switzerland.",
   "longDescription": "Discover \"Film Set\" Crime Theater at your desired location for large groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Filmset ",
-      "caption": "Krimi Zimmer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9c88e69e5a87f6490b26d88bc8226232.jpg"
-    },
-    {
-      "alternativeText": "Filmset ",
-      "caption": "Krimi Zimmer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/84021cd4d643aabc74c2ab9c67f07a48.jpg"
-    },
-    {
-      "alternativeText": "Filmset ",
-      "caption": "Krimi Zimmer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/47583220b487999dadc029d559d0fec3.jpg"
-    },
-    {
-      "alternativeText": "Filmset ",
-      "caption": "Krimi Zimmer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c4885487f4660bcb7aabb803c7b2852c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

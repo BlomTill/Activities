@@ -5,17 +5,9 @@
   "description": "Discover Appenzell interactive scavenger hunt with the smartphone in Switzerland.",
   "longDescription": "Discover Appenzell interactive scavenger hunt with the smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Appenzeller Escape Game: Discover the secrets of the city of Appenzell with your team!",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/appenzell_carousel_1_8d655003ba.jpg"
-    },
-    {
-      "alternativeText": "Appenzeller Escape Game: Experience exciting adventures in the heart of Appenzell with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/appenzell_carousel_2_e568ab5436.jpg"
-    },
-    {
-      "alternativeText": "Appenzeller Escape Game: Experience thrilling adventures in Appenzell with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/appenzell_carousel_3_ecb9fd4069.jpg"
-    },
-    {
-      "alternativeText": "Appenzeller Escape Game: Discover the colorful facades in Appenzell and solve exciting puzzles.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/appenzell_carousel_4_5715701093.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

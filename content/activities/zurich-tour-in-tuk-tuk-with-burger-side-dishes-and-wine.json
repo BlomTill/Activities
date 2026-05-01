@@ -5,17 +5,9 @@
   "description": "Discover Burger tuk with sides and wine in Zurich in Switzerland.",
   "longDescription": "Discover Burger tuk with sides and wine in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -48,81 +40,21 @@
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
   "gallery": [
-    {
-      "alternativeText": "Two women toast over burgers and wine at an outdoor table.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Burger_Wein_4_2a7a6c0678.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk ride in Zurich, passengers enjoy the city tour in the sunshine.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Rundfahrt_443e9363a8.jpg"
-    },
-    {
-      "alternativeText": "Burger E-Tuk Zurich serves hamburgers and fries in a relaxed atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_dd2b7c62b114492be41a5df413b26074_1c8c3f1959.jpg"
-    },
-    {
-      "alternativeText": "E-Tuk Zurich with Burger Meal and Glasses",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_d35bfbfd904e223ab5a09ba83d384632_0c31aa2f0f.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk ride through Zurich with colorful balloons and streets",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Bahnhofstrasse_e7bd626f03.jpg"
-    },
-    {
-      "alternativeText": "Burger Menu E-Tuk in Zurich serves burgers, fries, and drinks",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_85f7d9d35acaf6990472e0d3a1b3fb2c_a119c9e984.jpg"
-    },
-    {
-      "alternativeText": "Zürich E-Tuk with hamburgers, fries, and wine outdoors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_f05fc1f19bf4e2210a69e62d382d5702_8158b27259.jpg"
-    },
-    {
-      "alternativeText": "Zurich Opera House with visitors in the square, wheel in the foreground, sunny day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/sechselaeutenplatz_fe12821c11.jpg"
-    },
-    {
-      "alternativeText": "E-Tuk Zurich Old Town by the Limmat, Buildings and Shore",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich2_0338fceaa8.jpg"
-    },
-    {
-      "alternativeText": "[object Object]",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich3_529c15f5d5.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk Sightseeing in Zurich with visitors by the water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Sightseeing_0a6cce299d.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk ride in Zurich, street view with trees and architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_646aaf60ff.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk vehicles in Zurich are driving through the old town.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrzeuge_59bbf2c4c4.jpg"
-    },
-    {
-      "alternativeText": "Zurich Tuk Tuk in front of a historic building with passengers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Sightseeing_2_4ce4ab556b.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk drives through the old town of Zurich, guests are sitting outside.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Stadtrundfahrt_9e623e5e8d.jpg"
-    }
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Burger_Wein_4_2a7a6c0678.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Rundfahrt_443e9363a8.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_dd2b7c62b114492be41a5df413b26074_1c8c3f1959.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_d35bfbfd904e223ab5a09ba83d384632_0c31aa2f0f.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Bahnhofstrasse_e7bd626f03.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_85f7d9d35acaf6990472e0d3a1b3fb2c_a119c9e984.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_f05fc1f19bf4e2210a69e62d382d5702_8158b27259.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/sechselaeutenplatz_fe12821c11.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich2_0338fceaa8.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich3_529c15f5d5.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Sightseeing_0a6cce299d.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_646aaf60ff.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrzeuge_59bbf2c4c4.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Sightseeing_2_4ce4ab556b.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Stadtrundfahrt_9e623e5e8d.jpg"
   ],
   "highlights": [],
   "tags": [

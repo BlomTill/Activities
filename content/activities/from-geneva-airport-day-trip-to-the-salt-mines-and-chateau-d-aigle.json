@@ -5,17 +5,9 @@
   "description": "Discover From Geneva Airport: Day trip to the salt mines and Château d'Aigle in Switzerland.",
   "longDescription": "Discover From Geneva Airport: Day trip to the salt mines and Château d'Aigle in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Schloss Aigle",
-      "caption": "Tagestour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4eff8e281cb4ba85eb017031e596d605.jpg"
-    },
-    {
-      "alternativeText": "Schloss Aigle",
-      "caption": "Tagestour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/73311db64377b983cafa335ed422f473.jpg"
-    },
-    {
-      "alternativeText": "Schloss Aigle",
-      "caption": "Tagestour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9be14d3218038e75e5558ab238d8f3d7.jpg"
-    },
-    {
-      "alternativeText": "Salzminen",
-      "caption": "Tagestour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0fa4b43a5ce21391d28f2811f84316fe.jpg"
-    },
-    {
-      "alternativeText": "Salz",
-      "caption": "Tagestour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/34d03ac2524ba63c5f418a7869beac01.jpg"
-    },
-    {
-      "alternativeText": "Essen unterwegs",
-      "caption": "Tagestour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e1c5da2173a72ff11698feb32a587dc1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

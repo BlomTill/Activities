@@ -5,17 +5,9 @@
   "description": "Discover \"Deadwood Mansion\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover \"Deadwood Mansion\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,68 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Experience Deadwood Mansion: virtual reality with friends in an exciting adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_43_45_dea84749b2.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: impressive historical building with a haunting atmosphere and artistic details",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Deadwood_Mansion_1218413ecb.jpg"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: Group in the VR experience with impressive VR equipment and fun.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_34_45_6fc09690b8.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: unexpected scene from a horror game with bloodstains and a creepy atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_36_03_0ac30248e8.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: Exciting scene with players and action in a dark setting, ideal for adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_42_31_067e8acf9d.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: Players in an interactive environment with team and adventure. Winter activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_42_49_1f8839f76a.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: Experience exciting virtual reality with friends in a modern setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_43_06_f5d139cbcd.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: Experience a unique zombie experience in a historical setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_43_24_fcacb96ba8.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: impressive architecture in a historic setting, ideal for culture and history enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_44_00_c760da723c.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: action-packed scene with character and strategic elements in the game environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_44_12_34f1e2e29d.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: exciting combat scenario with special effects and a creepy atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_44_39_5d3892b0d5.png"
-    },
-    {
-      "alternativeText": "Deadwood Mansion: detailed representation of an art performance with musicians and VR technology",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_20_44_28_59ab034114.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

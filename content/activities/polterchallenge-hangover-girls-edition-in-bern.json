@@ -5,17 +5,9 @@
   "description": "Discover Polterchallenge \"Hangover - Girls Edition\" in Bern in Switzerland.",
   "longDescription": "Discover Polterchallenge \"Hangover - Girls Edition\" in Bern in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Girls Edition Bern 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b284b5ebb618103f9d4957aa29d8a949.jpg"
-    },
-    {
-      "alternativeText": "Girls Edition Bern 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/188480683ab8e4b9a19e4d06a6b86f6a.jpg"
-    },
-    {
-      "alternativeText": "Girls Edition Bern 4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/102c3f1ff2094a748ab47134f317a335.jpg"
-    },
-    {
-      "alternativeText": "Women and Men in Bern",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6cd958376f2f3c975bb16027697d1fae.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "bern"

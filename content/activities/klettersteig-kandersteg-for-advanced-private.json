@@ -5,17 +5,9 @@
   "description": "Discover Klettersteig Kandersteg for Advanced Private in Switzerland.",
   "longDescription": "Discover Klettersteig Kandersteg for Advanced Private in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "36",
-    "title": "Via ferrata",
-    "slug": "via-ferrata",
-    "description": "Find the via ferrata that suits you best and book a tour led by an experienced mountain guide or rent your equipment here. Via Ferrata, also known under the Italian name \"Via Ferrata\", provide a thrill and an unforgettable climbing experience. Depending on the level of difficulty, previous experience is necessary. However, there are also via ferratas that can be climbed without experience. Well secured, you will master steep ascents and airy traverses. Via ferrata routes can be found all over Switzerland. Starting in the Valais to the Bernese Oberland, Central Switzerland and the Grisons Alps."
-  },
+  "subcategory": "Via ferrata",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Gruppe Kletterer am Klettersteig",
-      "caption": "Klettersteig Kandersteg ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4fd3077ca578bee6fb4eba3f84575b13.jpg"
-    },
-    {
-      "alternativeText": "Kletterer am Klettersteig",
-      "caption": "Klettersteig Kandersteg ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/afd0015c1852fa65688cbc4866ee3245.jpg"
-    },
-    {
-      "alternativeText": "Kletterer am Klettersteig",
-      "caption": "Klettersteig Kandersteg ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/78518ca479f138eedee0bd1a9cc57f9b.jpg"
-    },
-    {
-      "alternativeText": "Kletterer am Klettersteig",
-      "caption": "Klettersteig Kandersteg ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a1ff6201a0c24b6e1673668e1451f843.jpg"
-    },
-    {
-      "alternativeText": "Kletterer am Klettersteig",
-      "caption": "Klettersteig Kandersteg ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7be71a303841ef6b9b3f76714c0bda3.jpg"
-    },
-    {
-      "alternativeText": "Kletterer am Klettersteig",
-      "caption": "Klettersteig Kandersteg ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a46e0c5392c0b70a63309355e5d021d.jpg"
-    },
-    {
-      "alternativeText": "Kletterer am Klettersteig",
-      "caption": "Klettersteig Kandersteg ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/00341d7ff6bd43a4c4511a6b5fe0eabd.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

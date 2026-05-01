@@ -5,17 +5,9 @@
   "description": "Discover \"Sim Racing\" virtual drive and lounge in Roche in Switzerland.",
   "longDescription": "Discover \"Sim Racing\" virtual drive and lounge in Roche in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30151",
-    "title": "Racing simulator",
-    "slug": "racing-simulator",
-    "description": "Experience the excitement of motorsport up close with a racing simulator. These state-of-the-art simulators offer you realistic driving simulations that are also used by professional racing drivers for training purposes. Immerse yourself in detailed replicas of real racetracks and vehicles and improve your driving skills and strategies in a safe, controlled environment. Enjoy lifelike graphics and physically precise driving dynamics, complemented by variable weather conditions. Give it a try and feel the thrill of motorsport."
-  },
+  "subcategory": "Racing simulator",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Nurburgring eSports Racing Simulator drivers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9734d79909fb25410ce024da2a36fbea.jpg"
-    },
-    {
-      "alternativeText": "249A7744",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a95ed8bf063351ed0aedb7d371aa25db.jpg"
-    },
-    {
-      "alternativeText": "23",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e3b603c89f20e5b6edbb842fd54b5d06.jpg"
-    },
-    {
-      "alternativeText": "00 NURBURGRING E SPORTS-011",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ee89609fb05a9530f819e74e931ae40e.jpg"
-    },
-    {
-      "alternativeText": "A guy at the Nürburgring (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31d776a4666ecc2975eaa79a2f0fff38.jpg"
-    },
-    {
-      "alternativeText": "nurburgring eSports Lounge Bar Buffet2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7f923d8311c89fcbc1e3a04f74af39ce.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

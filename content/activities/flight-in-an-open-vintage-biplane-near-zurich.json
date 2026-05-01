@@ -5,17 +5,9 @@
   "description": "Discover Flight in an open vintage biplane over the Zurich Oberland in Switzerland.",
   "longDescription": "Discover Flight in an open vintage biplane over the Zurich Oberland in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "buecker copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/165ebebadfc0771a1cd2335c2914c95f.jpg"
-    },
-    {
-      "alternativeText": "Buecker-Biplane-Flight",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0dce042c172a343bb7ad8efe7e8f8d7b.jpg"
-    },
-    {
-      "alternativeText": "buecker-double-decker-scenic-flight",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13c97634b47c1a5b623aa67f0376b5ca.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

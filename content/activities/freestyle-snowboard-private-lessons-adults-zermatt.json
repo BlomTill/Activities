@@ -5,17 +5,9 @@
   "description": "Discover Freestyle snowboard private course  Zermatt in Switzerland.",
   "longDescription": "Discover Freestyle snowboard private course  Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Freestyle snowboarding in winter, snowboarder on a kicker, Zermatt",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_freestyle_Zermatters_ada8e47285.jpg"
-    },
-    {
-      "alternativeText": "Freestyle Snowboard private lessons in Zermatt, snowboarder jumps over snow formation",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_freestyle_Unterricht_Zermatters_1848f6567d.jpg"
-    },
-    {
-      "alternativeText": "Freestyle snowboard private lessons in Zermatt, the participant jumps over an obstacle in the snow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Snowboard_Freestyle_Zermatt_Zermatters_94dedccb9d.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mp13937_8c8518e091.jpg"
-    },
-    {
-      "alternativeText": "Snowboarding in the Zermatt ski area with snow-covered mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/the_alps_g7251df563_1920_8ac14fa9cc.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

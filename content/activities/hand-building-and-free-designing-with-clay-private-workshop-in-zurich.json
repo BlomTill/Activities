@@ -5,17 +5,9 @@
   "description": "Discover \"Hand-building and Free Designing with Clay\": Private Workshop in Zurich in Switzerland.",
   "longDescription": "Discover \"Hand-building and Free Designing with Clay\": Private Workshop in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "IMG_3386",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a07454c10ad3d8925a9b7ba5203fedd2.jpeg"
-    },
-    {
-      "alternativeText": "IMG_0763",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b2206d4903ecf2a81aaf7c61f07455e7.jpeg"
-    },
-    {
-      "alternativeText": "IMG_2733",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0aa08dfbfb5429d9a3a60d4227588af7.jpeg"
-    },
-    {
-      "alternativeText": "IMG_2736 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/336df33097b5ff8f834c86cdf0e9ebac.jpeg"
-    },
-    {
-      "alternativeText": "IMG_9226",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ab4ae19937af22f72f6afa70d3cda53b.jpg"
-    },
-    {
-      "alternativeText": "IMG_4261",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/28e064e94ddece16ffb93ae0980dc4dd.jpeg"
-    },
-    {
-      "alternativeText": "IMG_9357",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a1a58246f8794e27c2c0fb0ea87e1ea7.jpg"
-    },
-    {
-      "alternativeText": "IMG_9465",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ca71ab5363770d4bcf223a798d8ed218.jpg"
-    },
-    {
-      "alternativeText": "IMG_9473",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/52c1d849ecfcb8268439262b55604e72.jpeg"
-    },
-    {
-      "alternativeText": "IMG_9703",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7a6e81119c9c4165936e3f31d4a5f37d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

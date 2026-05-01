@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Lost History including Augmented Reality\" Outdoor Escape Game Solothurn in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Lost History including Augmented Reality\" Outdoor Escape Game Solothurn in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-solothurn-en",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4a9a618523409eddadef8265a1a3615d.jpg"
-    },
-    {
-      "alternativeText": "group-hk-frontal-running",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8fe57f4ba4cc15be5272af21d7a67bd8.jpg"
-    },
-    {
-      "alternativeText": "solothurn-3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d7e2d561b690530f47221bf6b156c34a.JPG"
-    },
-    {
-      "alternativeText": "group-photo-hk-flowers-file-phone-neutral",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0feb4ef9bac309953ecefec5adfd7f30.jpg"
-    },
-    {
-      "alternativeText": "map-solothurn1-analog",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a1d7efe4ce84b20bbbc7e84bfc538a0.jpg"
-    },
-    {
-      "alternativeText": "map-solothurn2-analog",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e018bb76ad58f19a25aeea6622c6748.jpg"
-    },
-    {
-      "alternativeText": "group-hk-file-daniel-puzzle-solved-party-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3835aea1ba04d57b69b7b71a5b566c07.jpg"
-    },
-    {
-      "alternativeText": "öufi clock",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b5c985e08c980747a6db561e62b2e37.jpg"
-    },
-    {
-      "alternativeText": "Solheure",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e696577146bfe91b4187353b27cdbda1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

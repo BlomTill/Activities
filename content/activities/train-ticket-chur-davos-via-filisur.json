@@ -5,17 +5,9 @@
   "description": "Discover Train ticket between Chur and Davos via Filisur in Switzerland.",
   "longDescription": "Discover Train ticket between Chur and Davos via Filisur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "70",
-    "title": "Train ticket",
-    "slug": "train-ride",
-    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
-  },
+  "subcategory": "Train ticket",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,43 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rhaetian Railway: Regional train connection in the Alps, ideal for landscape and train enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rhaetische_Bahn_Pixabay_355b6084be.jpg"
-    },
-    {
-      "alternativeText": "Chur: picturesque old town with mountains in the background and colorful houses, an ideal setting for exploration.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Pixabay_0200af6218.jpg"
-    },
-    {
-      "alternativeText": "Filisur: beautiful train station with trains in a picturesque mountain region and ideal hiking trails.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Filisur_Pixabay_13f8b413c7.jpg"
-    },
-    {
-      "alternativeText": "Lake Davos: picturesque lake surrounded by mountains and forests, ideal for nature lovers and those seeking relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Davosersee_Pixabay_1e02d99cbc.jpg"
-    },
-    {
-      "alternativeText": "Rhätische Bahn takes a deep breath of the beautiful nature of the Alps in summer. Enjoy the picturesque train ride.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rhaetische_Bahn_2_Pixabay_04c1bf59ce.jpg"
-    },
-    {
-      "alternativeText": "Davos Zug: Winter landscape with snow-covered mountains and a calm lake, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Davos_Zug_Pixabay_412736484f.jpg"
-    },
-    {
-      "alternativeText": "Davos: picturesque winter landscape with snowy mountains and urban flair in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Davos_Pixabay_e0d80e19f5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train",

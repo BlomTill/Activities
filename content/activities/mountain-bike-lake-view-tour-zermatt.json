@@ -5,17 +5,9 @@
   "description": "Discover Mountain bike Lake View tour private from Zermatt in Switzerland.",
   "longDescription": "Discover Mountain bike Lake View tour private from Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "58",
-    "title": "Mountain bike",
-    "slug": "mountain-bike",
-    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
-  },
+  "subcategory": "Mountain bike",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Matterhorn: experience cycling by the lake with mountain views in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MP_10448_e2f3a6b5bf.jpg"
-    },
-    {
-      "alternativeText": "Biketour in Zermatt: exciting mountain bike tour with friends in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Zermatt_Private_Bike_Guide_1b73955bc8.jpg"
-    },
-    {
-      "alternativeText": "E-Bike Tour: Three cyclists on their way to the Matterhorn in the mountains under clear weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_E_Bike_Guide_ab3f5d31b6.jpg"
-    },
-    {
-      "alternativeText": "Matterhorn: Reflection shading in clear water at Zermatt with majestic mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_joris_beugels_Zsko_Ze_A6_Qws_unsplash_eb83502603.jpg"
-    },
-    {
-      "alternativeText": "Bike Tour in Zermatt: Experience the magnificent mountain landscape and the unspoiled nature while biking.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bike_Zermatters_eea5c6bf48.png"
-    },
-    {
-      "alternativeText": "Biketour: group of friends enjoying the great view in the mountains while mountain biking.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_mp10424_125e5a3290.jpg"
-    },
-    {
-      "alternativeText": "Zermatters Bike Trail: Discover the picturesque landscape with mountains and nature on your bike tour.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Zermatters_Bike_Trail_f8f577b67f.jpg"
-    },
-    {
-      "alternativeText": "Biketour in the Alps: Experience the view of the mountains and the fun of teamwork while mountain biking.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Taste_Tour_2021_65_0a6af02bfd.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

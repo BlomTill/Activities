@@ -5,17 +5,9 @@
   "description": "Discover Vira gorge canyoning families and beginners in Switzerland.",
   "longDescription": "Discover Vira gorge canyoning families and beginners in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Canyoning in Switzerland: Adventure with friends in the water at Swiss River Adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Iragna_28_Foto_Swiss_River_Adventures_592128c5b5.JPG"
-    },
-    {
-      "alternativeText": "Canyoning in Ticino: Experience exciting water adventures with Swiss River Adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_03_Canyonig_Ticino_Boggera_Foto_Swiss_River_Adventures_c883c7112f.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in Ticino: Experience exciting adventures in nature with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Swiss_River_Adventures_2_Canyoning_Tessin_e30e39d2ae.JPG"
-    },
-    {
-      "alternativeText": "Canyoning in Viamala: Experience adventure in the clear water between impressive rocks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Swiss_River_Adventures_Canyoning_Viamala_221806a732.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

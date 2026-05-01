@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Fall Hacked\" Outdoor Escape Game Biel in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Fall Hacked\" Outdoor Escape Game Biel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-biel-hacked",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aaf15b26282607b470be0a213e70b16f.jpg"
-    },
-    {
-      "alternativeText": "group-hk-file-daniel-puzzle-solved-party-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f6205dced5b4e8d944a0b434ac0de8ad.jpg"
-    },
-    {
-      "alternativeText": "group-photo-wide-front-happy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99d23f7213c3506eb4f93b9264a7e8c0.jpg"
-    },
-    {
-      "alternativeText": "Group-photo-landscape_file-phone-neutral-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b78c8649488391e7c5eb452188024461.jpg"
-    },
-    {
-      "alternativeText": "group-photo_hk_flowers_file_phone_neutral_",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fc301ec96a85c5cc68796e530f449c9d.jpg"
-    },
-    {
-      "alternativeText": "karte-biel-hacked",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/199759464642c70f5b0d050d87212a5e.jpg"
-    },
-    {
-      "alternativeText": "Karte-Biel-Hacked-a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50cbd7b28890c85f57652503362dd886.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

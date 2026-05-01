@@ -5,17 +5,9 @@
   "description": "Discover Private city tour in Zurich with the Stadtflüsterern in Switzerland.",
   "longDescription": "Discover Private city tour in Zurich with the Stadtflüsterern in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Waldmann und Grossmünster",
-      "caption": "Stadtflüsterer Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f3781accaf626127064520598e00897.jpeg"
-    },
-    {
-      "alternativeText": "Limmat",
-      "caption": "Stadtflüsterer Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9311aecb531e957eae866ac27cef0bac.jpg"
-    },
-    {
-      "alternativeText": "Jürg",
-      "caption": "Stadtflüsterer Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ca450d5845995df4fea2e64439a43de3.jpeg"
-    },
-    {
-      "alternativeText": "Zürich in der Nacht",
-      "caption": "Stadtflüsterer Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af140ce4928fe2589af08378b21462f8.jpg"
-    },
-    {
-      "alternativeText": "Jürg und Eva",
-      "caption": "Stadtflüsterer Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4d1237ef937e61b889efcb0024c89ed0.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

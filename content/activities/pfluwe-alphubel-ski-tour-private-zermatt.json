@@ -5,17 +5,9 @@
   "description": "Discover Pfluwe Alphubel 2-day ski tour private from Zermatt in Switzerland.",
   "longDescription": "Discover Pfluwe Alphubel 2-day ski tour private from Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "95",
-    "title": "Ski touring",
-    "slug": "ski-touring",
-    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
-  },
+  "subcategory": "Ski touring",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ski tour Pfluwe Alphubel with mountain guides in beautiful winter weather in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Winter_Zermatters_e1c291310b.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Pfluwe: impressive mountain panorama of the Alphubel in the Alps in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bergpanorama_Alphubel_Pixabay_1e89000753.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Pfluwe: Active team putting on crampons in a winter mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Instruktion_Zermatters_e9f15d280c.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Pfluwe: Mountain guide tour on Alphubel with preparations for an unforgettable ski adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitouren_Zermatt_1_Zermatters_68a948267b.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Pfluwe: Explore the wintry Alphubel group with fantastic mountain views and group adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Bergfuehrer_Zermatters_5e609fe7e9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

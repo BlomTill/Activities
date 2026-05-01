@@ -5,17 +5,9 @@
   "description": "Discover Helicanyoning Boggera for advanced in Switzerland.",
   "longDescription": "Discover Helicanyoning Boggera for advanced in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,83 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Helicanyoning in Boggera: Experience thrilling adventures in the summer's nature paradise.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_06_9af04ddd26.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning in Boggera: exciting activity in nature with amazing waterfalls",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_10_4815570158.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning: Experience the thrill in Boggera with unique nature and waterways.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_20_4a3c1fc178.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning in Boggera: Experience adventure in the impressive mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_26_1ea86b6ecb.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning in Boggera with friends, exciting water adventure in nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_29_4255ff0749.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning: Experience canyoning in Boggera surrounded by impressive rocks and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_31_aef7cb126c.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning: Jump into the wilderness of Boggera, perfect for adventure seekers and nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_36_c51aa74081.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning with thrilling adventures in nature around Boggera.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_40_ae4fd9b919.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning: Experience the thrill of rappelling in the mountains of Boggera.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_42_693d6b1d10.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning Boggera: Experience the thrill of rappelling in an impressive gorge.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_43_434bb0e67f.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning: Experience exciting adventures in Boggera with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_47_b69d7c2646.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning: Experience an adventure in the stunning nature of the Boggera Gorge in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_51_a984af9e69.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning in Boggera: Experience thrilling adventures in the impressive gorges of nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_52_b445c3db5b.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning in Boggera: Experience the thrill of canyon jumping in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_58_7b31515128.jpg"
-    },
-    {
-      "alternativeText": "Helicanyoning Boggera: exciting outdoor adventure, ideal for groups and nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/boggera_helicanyoning_69_e0af07c9b0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

@@ -5,17 +5,9 @@
   "description": "Discover Tapas Tour in Visp in Switzerland.",
   "longDescription": "Discover Tapas Tour in Visp in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Tapas",
-      "caption": "Visp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f099250102f99b3c275c61058b62dc1a.jpg"
-    },
-    {
-      "alternativeText": "Tapas",
-      "caption": "Visp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e5db422fcbbfc0aa35fb4c7f68a852a.jpeg"
-    },
-    {
-      "alternativeText": "Tapas",
-      "caption": "Visp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a36bd14381328d268dab38385feec1cf.jpeg"
-    },
-    {
-      "alternativeText": "Tapas",
-      "caption": "Visp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8a842e3bb974cbc353e6272557236d1.jpeg"
-    },
-    {
-      "alternativeText": "Tapas",
-      "caption": "Visp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a3601dbe3f1d5780881ab1969a51f3c.jpg"
-    },
-    {
-      "alternativeText": "Tapas",
-      "caption": "Visp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c96bbef8f3b0d91f5acc6b3e2f489cb9.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the groom\" in Zermatt: action-packed stag party in Switzerland.",
   "longDescription": "Discover \"Beat the groom\" in Zermatt: action-packed stag party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,38 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bachelorette party with friends in the garden, group activity with drinks and yellow t-shirts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_a5488fd940.jpg"
-    },
-    {
-      "alternativeText": "Sleigh ride in Zermatt with a view of the picturesque mountains and the pleasant atmosphere of the town.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/carriage_Zermatt_pixabay_f792df5511.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Celebrate with friends by the lake in colorful T-shirts in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_5e5fc29f04.jpg"
-    },
-    {
-      "alternativeText": "Zermatt: picturesque apartments with snow-covered mountains, ideal for relaxation in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zermatt_unsplash_Kopie_aa7ec6532d.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Outdoor team activity, ideal for groups in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_9d93390f3b.jpg"
-    },
-    {
-      "alternativeText": "Zermatt: Winter landscape with snow-covered mountains and traditional architecture in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_unsplash_d6a7ba4859.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

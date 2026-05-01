@@ -5,17 +5,9 @@
   "description": "Discover \"The magic portal\" - Adventure Game Engstligenalp in Switzerland.",
   "longDescription": "Discover \"The magic portal\" - Adventure Game Engstligenalp in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Magical Portal: Experience creative adventures with interactive experiences and impressive art.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Magisches_Portal1_91a03446a0.png"
-    },
-    {
-      "alternativeText": "Magical Portal: Artwork with magical elements and a mystical atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Magisches_Portal_128c1048f7.png"
-    },
-    {
-      "alternativeText": "Magical Portal: 4 people explore a secret adventure in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2021_12_30_16_32_26_b0bf322cbb.jpg"
-    },
-    {
-      "alternativeText": "Engstligen Falls: Majestic waterfall in the mountains of Switzerland during summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engstligen_Wasserfaelle_unsplash_b95ed33f6b.jpg"
-    },
-    {
-      "alternativeText": "Engstligenalp: Beautiful mountain landscape with green meadows and a typical chalet in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engstligenalp_unsplash_adf6dc075f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "adventure"

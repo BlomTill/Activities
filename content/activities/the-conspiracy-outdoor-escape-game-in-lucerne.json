@@ -5,17 +5,9 @@
   "description": "Discover \"The Conspiracy\" Outdoor Escape Game in Lucerne in Switzerland.",
   "longDescription": "Discover \"The Conspiracy\" Outdoor Escape Game in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bdf65ffee938af68f924023df2993dde.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8cf900d20df7be8a7fadadf0c85b823f.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6dc2b7f587d68afa2ce2a849bbd22fdb.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/745a5489c1ba5dad7fd470f65b23dc0c.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3448369ec0d879033b1e6fc4bc58b860.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4df7035942396e7e5670e19d114052e2.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87ec594da3d40c6a748a310e4c434998.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/74bbeca473b7aabb74150c6bf063bd75.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/98f578e96e7065aa0b60f0d00e17d19a.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d290c5752205e679775b85e366ad1f33.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10d6bcb3deecb76e4e0d8797383e503c.jpg"
-    },
-    {
-      "alternativeText": "Team in Luzern",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08735a6eb1fa77c36ce6eeb22513af37.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

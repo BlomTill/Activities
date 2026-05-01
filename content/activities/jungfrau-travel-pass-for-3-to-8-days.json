@@ -5,17 +5,9 @@
   "description": "Discover Jungfrau Travel Pass Summer - 3 to 8 Days in Switzerland.",
   "longDescription": "Discover Jungfrau Travel Pass Summer - 3 to 8 Days in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "130",
-    "title": "Swiss Rail Passes",
-    "slug": "rail-pass",
-    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
-  },
+  "subcategory": "Swiss Rail Passes",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,108 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Berner Oberland Railway: Experience the picturesque nature along the route in summer with mountains and river.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/berner_oberlandbahn_sommer_natur_6057d542f7.jpeg"
-    },
-    {
-      "alternativeText": "Scope: detailed route Jungfrau with stations in the Alps and breathtaking views",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Geltungsbereich_Jungfrau_Travel_Pass_97fd2f8314.jpeg"
-    },
-    {
-      "alternativeText": "Grindelwald First: Skier jumps in the snow park before the setting sun in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/grindelwald_first_snowpark_abendstimmung_2_aafd38b016.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald First Cliff Walk with impressive views of the mountains and the valley in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/grindelwald_first_sommer_first_cliff_walk_02_b9c7c96057.jpg"
-    },
-    {
-      "alternativeText": "Harder Kulm: panoramic view, two lakes and impressive mountain landscape, ideal for summer excursions.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Harder_Kulm_Zwei_Seen_Steg_Sommer_c131501434.jpg"
-    },
-    {
-      "alternativeText": "Harderbahn evening ride to Harder Kulm in Interlaken, fascinating mountain view at night.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/harderbahn_harder_kulm_interlaken_abendfahrten_13b231a4b0.jpeg"
-    },
-    {
-      "alternativeText": "Jungfrau Railway in winter with snow-capped mountains Eiger, Mönch, and Jungfrau, an ideal destination for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/jungfraubahn_eiger_moench_jungfrau_winter_02_56ce0e7df1.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Railway: A breathtaking panoramic view at Kleine Scheidegg with Eiger and Mönch.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/jungfraubahn_kleine_scheidegg_eiger_moench_jungfrau_f2911dc473.jpg"
-    },
-    {
-      "alternativeText": "Jungfraujoch: Romantic sunrise over the Aletsch Glacier and snow-covered mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jungfraujoch_Plateau_Sonnenaufgang_Aletschgletscher_3500e124c5.jpg"
-    },
-    {
-      "alternativeText": "Kleine Scheidegg: Family sledding with Eiger in the background in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kleine_scheidegg_familie_schlitteln_eiger_run_winter_17734a9333.jpg"
-    },
-    {
-      "alternativeText": "Eiger: Hikers enjoy the view of the mountains at Kleine Scheidegg in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kleine_Scheidegg_Wandern_Sommer_Eiger_Trail01_8d9625797d.jpg"
-    },
-    {
-      "alternativeText": "Kleine Scheidegg: View of the Jungfrau and clear lake, ideal for hiking and relaxing in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kleine_Scheidegg_Wandern_Sommer_Jungfrau_Eiger_Walk_Fallbodensee02_795f72e3cf.jpg"
-    },
-    {
-      "alternativeText": "Kleine Scheidegg: Hiking in the Alps, impressive mountain landscape, summer experience, perfect view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kleine_Scheidegg_Wandern_Sommer02_da140ec25f.jpg"
-    },
-    {
-      "alternativeText": "Kleine Scheidegg: Hiking in the stunning mountain views of the summer panorama.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kleine_Scheidegg_Wandern_Sommer10_f04fa1f8f5.jpg"
-    },
-    {
-      "alternativeText": "Kleine Scheidegg: spectacular hiking tour in the Alps with blooming meadows and mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kleine_Scheidegg_Wandern_Sommer13_52d908169e.jpg"
-    },
-    {
-      "alternativeText": "Mürren Cable Car: Experience the view of the mountains and nature in summer in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/muerren_luftseilbahn_sommer_395d340b82.jpeg"
-    },
-    {
-      "alternativeText": "Schynige Platte: Relax in the hot tub with a view of the mountains and the lake at sunset.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schynige_platte_bahn_hot_tub_1c3d74d443.jpg"
-    },
-    {
-      "alternativeText": "Schynige Platte: Family in the open-air cinema with a view of the mountains and untouched nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schynige_platte_bahn_naturkino_familie_bb8e1268bb.jpg"
-    },
-    {
-      "alternativeText": "Schynige Platte: Kids enjoy riding the train through the spectacular mountain landscape in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schynige_Platte_Wandern_Schynige_Platte_Bahn_a5a06a6863.jpg"
-    },
-    {
-      "alternativeText": "Wengernalp Railway with a view of the Wetterhorn in Grindelwald during the summer season.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/wengernalpbahn_grindelwald_wetterhorn_sommer_3_43cc5b3d68.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

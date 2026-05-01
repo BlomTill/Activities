@@ -5,17 +5,9 @@
   "description": "Discover Day pass for Swiss Half Fare Card holders in Switzerland.",
   "longDescription": "Discover Day pass for Swiss Half Fare Card holders in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "136",
-    "title": "SBB Day Pass",
-    "slug": "sbb-day-pass",
-    "description": "Find the right SBB Day Pass for you here. SBB Day Passes allow you to travel for a whole day. You only need one ticket, even if you have to change trains several times. Within the validity of your day ticket, you can travel as often as you like. You should only check the timetables so that you don't miss the \"last train\" or your connection. Your day pass is valid for the entire day of the date printed on it and beyond until 5:00 a.m. the following day."
-  },
+  "subcategory": "SBB Day Pass",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,68 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Baden Zug: Impressive bridge with train crossing and idyllic riverscape, perfect for city visits.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Baden_Zug_Pixabay_adbc465240.jpg"
-    },
-    {
-      "alternativeText": "Tram Zurich: Seraina Zellweger in front of Zurich Main Station with historical details and urban atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Tram_Zuerich_Seraina_f23c06ac9b.JPG"
-    },
-    {
-      "alternativeText": "Zürich Bahnhof: modern train station with trains and passengers in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0_Bahnhof_Zuerich_Seraina_96067ab61b.jpg"
-    },
-    {
-      "alternativeText": "Rhaetian Railway in the Rhine Gorge with mountains and river, perfect environment for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Rhaetische_Bahn_Rheinschlucht_Seraina_Zellweger_19c4c523ac.jpg"
-    },
-    {
-      "alternativeText": "Bus Zurich: Seraina Zellweger boards the bus in the city of Zurich, ideal connection.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_Bus_Zuerich_Seraina_7bf15fba0a.jpg"
-    },
-    {
-      "alternativeText": "Cabrio cable car Stanserhorn: Enjoy the view of Lake Lucerne and the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14_Seilbahn_Cabrio_Stanserhorn_Seraina_826902688e.jpeg"
-    },
-    {
-      "alternativeText": "Lake Brienz: Boat tour with guests in front of mountains and blue water in the summer landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/17_Brienzersee_Seraina_b25bea0797.jpeg"
-    },
-    {
-      "alternativeText": "Ospizio Bernina: Image of the train station with train and mountains, ideal for hikers and nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/72_Ospizio_Bernina_Seraina_abcd6db080.jpg"
-    },
-    {
-      "alternativeText": "Lake Geneva: Impression of the steamship on the water with vineyards in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/82_Genfersee_Seraina_e474cfd849.jpg"
-    },
-    {
-      "alternativeText": "Lake Lucerne: View of the lake with Swiss flag and mountains in the background, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Vierwaldstaettersee_8_Seraina_5e4dd5e742.jpg"
-    },
-    {
-      "alternativeText": "Lake Lucerne: Boat trip with views of nature and mountains. Experience summer by the lake.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Vierwaldstaettersee_12_Seraina_9e1313c1d3.jpg"
-    },
-    {
-      "alternativeText": "Voralpenexpress: Interior of the train with red seats and a view of the station in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Voralpenexpress_Seraina_2fbe865656.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

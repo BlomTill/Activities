@@ -5,17 +5,9 @@
   "description": "Discover Cable Car Ticket Wirzweli from Dallenwil in Switzerland.",
   "longDescription": "Discover Cable Car Ticket Wirzweli from Dallenwil in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 transportation pixabay",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c2c327595725d4547b8d60396e8d2680.jpg"
-    },
-    {
-      "alternativeText": "01 Dallenwil3-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c3b0614fb16d57a5978809a1019d90d6.jpg"
-    },
-    {
-      "alternativeText": "02 Dallenwil1-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4bdf3756ae180ac820e8e9ad146c6c78.jpg"
-    },
-    {
-      "alternativeText": "Dallenwil-Unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13851096feade0312d200bb8e3d9fb50.jpg"
-    },
-    {
-      "alternativeText": "03 Dallenwil2 Unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b2165183748f5541c995699122ae57e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "cable-car"

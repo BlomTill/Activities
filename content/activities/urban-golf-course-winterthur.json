@@ -5,17 +5,9 @@
   "description": "Discover Urban Golf Course Winterthur in Switzerland.",
   "longDescription": "Discover Urban Golf Course Winterthur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "64",
-    "title": "Golf",
-    "slug": "golf",
-    "description": "Discover your exceptional place for golf and book right here. Green meadows on remote high valleys, behind them the mountains and a view of the beautiful lake landscape. What could be better than playing golf in the middle of it all? You will find well-kept golf courses everywhere in Switzerland. You can practice your tee shot in the vastness of the Engadine, in Lavaux with a view over the Vaud Alps or in Grindelwald in front of an impressive mountain panorama."
-  },
+  "subcategory": "Golf",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Urban Golf Winterthur: Play golf in nature, a great experience for groups and children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_Winterthur_1_892e4572a9.jpg"
-    },
-    {
-      "alternativeText": "Urban Golf: Players outdoors engaged in golf activity in Winterthur with grass and relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_Winterthur_2_d490a32ab1.jpg"
-    },
-    {
-      "alternativeText": "Urban Golf in Winterthur: Players on a sunny day with clubs in hand, relaxed leisure activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_Winterthur_3e3568b512.jpg"
-    },
-    {
-      "alternativeText": "Urban Golf: exciting gaming experience in Winterthur with friends and a unique city flair.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eroeffnung_Urban_Golf_d83c50e5d1.JPG"
-    },
-    {
-      "alternativeText": "Urban Golf in Winterthur: Players teeing off on the street, creative golf activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_mit_Didi_1_931c9df104.jpg"
-    },
-    {
-      "alternativeText": "Urban Golf: Fascination of urban golfing in Winterthur, exciting outdoor sports activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_mit_Didi_2_105d88a4f0.jpg"
-    },
-    {
-      "alternativeText": "Urban Golf in Winterthur: Experience exciting outdoor play with friends in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_mit_Didi_de9e1b7952.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

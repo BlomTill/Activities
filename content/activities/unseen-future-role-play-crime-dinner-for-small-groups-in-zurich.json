@@ -5,17 +5,9 @@
   "description": "Discover \"Unseen Future Role Play\" crime dinner for small groups in Zurich in Switzerland.",
   "longDescription": "Discover \"Unseen Future Role Play\" crime dinner for small groups in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "35358",
-    "title": "Murder mystery dinner",
-    "slug": "murder-mystery-dinner",
-    "description": "Book your murder mystery dinner here. At the murder mystery dinner, you become part of an exciting story. While enjoying a multi-course meal, a staged criminal case unfolds right before your eyes. Actors slip into various roles and involve you and the other guests in the plot. You need to think along, as clues and suspects appear throughout the evening. This way, you combine culinary pleasure with puzzle fun and find out who the culprit is in the end. Sometimes, you even take on a small role yourself, becoming directly part of the mystery."
-  },
+  "subcategory": "Murder mystery dinner",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "CHF 20",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1af3e25e2afc520d5d076c0253d6ab8.jpg"
-    },
-    {
-      "alternativeText": "RP 21",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dc1a58ad1168a993e7dfbf9f87dcb466.jpg"
-    },
-    {
-      "alternativeText": "RP 22",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2a942d122de2518d61004c98d236a80a.jpg"
-    },
-    {
-      "alternativeText": "RP 23",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4fed17261a6f451d03d4201af49ced0.jpg"
-    },
-    {
-      "alternativeText": "RP 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/657abfb3fae7b2dedc1da3cac326342d.jpg"
-    },
-    {
-      "alternativeText": "RP 8",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a9f155bb044dc061ebfcf08118b9248.jpg"
-    },
-    {
-      "alternativeText": "RP 12",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2d76ff4e9cf9c5964021428b712d35b6.jpg"
-    },
-    {
-      "alternativeText": "RP 14",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ce05fd77fdd2a8b0c6e5ff690d159bdb.jpg"
-    },
-    {
-      "alternativeText": "RP 18",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/30ec32ba056ae0f12c5e4ad59f4115bf.jpg"
-    },
-    {
-      "alternativeText": "RP 19",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1a78c9162abc71c0cef69617b5383b1f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

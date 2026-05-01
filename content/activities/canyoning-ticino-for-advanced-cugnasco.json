@@ -5,17 +5,9 @@
   "description": "Discover Cugnasco Canyoning for Experienced Adventurers at Lake Maggiore in Switzerland.",
   "longDescription": "Discover Cugnasco Canyoning for Experienced Adventurers at Lake Maggiore in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Canyoning Cugnasco Waterfall, participants jumping into the water, surrounded by nature",
-      "caption": "Canyoning Cugnasco Ticino Experienced",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sprung_Canyoning_Cugnasco_Tessin_Wasser_efbb044bb7.jfif"
-    },
-    {
-      "alternativeText": "Canyoning Cugnasco in Ticino with calm waterfall and rocks.",
-      "caption": "Canyoning Cugnasco Ticino Experienced",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Natur_Canyoning_Cugnasco_Tessin_accb45138e.jfif"
-    },
-    {
-      "alternativeText": "Rappelling Canyoning Cugnasco Ticino, water sports enthusiasts in wetsuits, harbor, rocks.",
-      "caption": "Canyoning Cugnasco Ticino Experienced",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_Canyoning_Cugnasco_Tessin_9689fc0e41.jfif"
-    },
-    {
-      "alternativeText": "Rappelling into the pool while canyoning in Cugnasco, Ticino",
-      "caption": "Canyoning Cugnasco Ticino Experienced",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_Pool_Canyoning_Cugnasco_Tessin_28d160a920.jfif"
-    },
-    {
-      "alternativeText": "Canyoning Cugnasco Ticino, rappelling at waterfall, green surroundings",
-      "caption": "Canyoning Cugnasco Ticino Experienced",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abseilen_Canyoning_Cugnasco_Tessin_27ace08341.jpg"
-    },
-    {
-      "alternativeText": "Canyoning Cugnasco Ticino in the lush green tones of the water, surrounded by steep rocks",
-      "caption": "Canyoning Cugnasco Ticino Experienced",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fluss_Canyoning_Cugnasco_Tessin_3593ff385b.jfif"
-    },
-    {
-      "alternativeText": "Natural Slide Canyoning Cugnasco Ticino, Rappelling at Waterfall",
-      "caption": "Canyoning Cugnasco Ticino Experienced",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Natuerliche_Rutsche_Canyoning_Cugnasco_Tessin_5cfb88de5b.jfif"
-    },
-    {
-      "alternativeText": "Jump Canyoning Cugnasco in Ticino with water splashes.",
-      "caption": "Canyoning Cugnasco Ticino Experienced",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sprung_Canyoning_Cugnasco_Tessin_cca6cf0a1f.jfif"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning",

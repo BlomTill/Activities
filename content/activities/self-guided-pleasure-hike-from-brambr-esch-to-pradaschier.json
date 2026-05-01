@@ -5,17 +5,9 @@
   "description": "Discover Self-guided pleasure hike from Brambrüesch to Pradaschier in Switzerland.",
   "longDescription": "Discover Self-guided pleasure hike from Brambrüesch to Pradaschier in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,138 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Self-guided enjoyment hike in Chur with active hikers in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Tourismus_017_Fotopower_ch_18_ff827ed4ba.JPG"
-    },
-    {
-      "alternativeText": "Self-guided pleasure hike in Chur through green forests and mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20180715_152733_3ac6a97d8b.jpg"
-    },
-    {
-      "alternativeText": "Self-guided pleasure hike in Chur with hiking trail, martens, and green grass.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20180715_153144_dc2854b3a0.jpg"
-    },
-    {
-      "alternativeText": "Pradaschier toboggan run in summer, fun tobogganing with mountain views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ausflugsstipp_pradaschier_rodeln_pradaschier_6_korr_0af8039fd6.jpg"
-    },
-    {
-      "alternativeText": "Sledding on the Pradaschier track near Chur in summer 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ausflugsstipp_pradaschier_rodeln_pradaschier_7_c5374124cd.jpg"
-    },
-    {
-      "alternativeText": "Brambrüeschbahn in Chur, view into the valley, leisure activity",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brambrueeschbahn_Walter_Schmid_1e8ea0ecf4.jpg"
-    },
-    {
-      "alternativeText": "Gourmet hike on Brambrüesch with mountain views, terrace with guests and sun umbrellas.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brambrueesch_Pradaschier_5_4561e2a133.jpg"
-    },
-    {
-      "alternativeText": "Self-guided gourmet hike in Chur with a view of the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Tourismus_003_Fotopower_ch_18_63a0f4c802.JPG"
-    },
-    {
-      "alternativeText": "Pleasure hike in Chur with hikers on the path through the trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Tourismus_006_Fotopower_ch_18_7d0cbe43ce.JPG"
-    },
-    {
-      "alternativeText": "Self-guided pleasure hike in Chur with hikers on the path.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Tourismus_026_Fotopower_ch_18_5c8b21e9cf.JPG"
-    },
-    {
-      "alternativeText": "Self-guided pleasure hike Chur in nature with beautiful views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Tourismus_044_Fotopower_ch_18_7259409c0d.JPG"
-    },
-    {
-      "alternativeText": "Pleasure hike in Chur with hikers on the way, mountain landscape in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Tourismus_072_Fotopower_ch_18_e1f4344f7a.JPG"
-    },
-    {
-      "alternativeText": "Gourmet hike in Chur with views of mountains and meadows.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_02372_332a8ecb24.JPG"
-    },
-    {
-      "alternativeText": "Gourmet hike Chur with a view of the mountain restaurant in the forest.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_0105_30f7f33fbe.jpg"
-    },
-    {
-      "alternativeText": "Pleasure hike Chur with cozy restaurant area in nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_0108_ead6f14424.jpg"
-    },
-    {
-      "alternativeText": "Self-guided pleasure hike in Chur with restaurant terrace and forest",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_0125_3361f92b1e.jpg"
-    },
-    {
-      "alternativeText": "Self-guided Culinary Hike in Chur with Special Food",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_0216_f311f945ce.jpg"
-    },
-    {
-      "alternativeText": "Pleasure hike Chur, friends enjoying lunch on the terrace in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_0219_fc07e1126c.jpg"
-    },
-    {
-      "alternativeText": "Self-guided pleasure hike with a view of Chur, alpine view, and cable car.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_4597_75b40ab746.JPG"
-    },
-    {
-      "alternativeText": "Pleasure hike in Chur with a relaxed atmosphere and surrounding nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_4657_b423c0f41e.JPG"
-    },
-    {
-      "alternativeText": "Pleasure hike in Chur with a view of the old town and mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_7209_bbdd42388a.JPG"
-    },
-    {
-      "alternativeText": "Interior of a restaurant with wooden elements, tables, and chairs",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Portal_fa796748b6.jpg"
-    },
-    {
-      "alternativeText": "Self-guided pleasure hike with a view of the Alps",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pradaschier_DSC_04930_a0cce5f713.jpg"
-    },
-    {
-      "alternativeText": "Playground in Chur with children on the swing and climbing frame.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spielplatz_MC_2_2_f9d9503242.jpg"
-    },
-    {
-      "alternativeText": "Culinary hike in Chur with a view of a modern restaurant in the sunlight.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Station_DSC_04988_99ba4b4431.jpg"
-    },
-    {
-      "alternativeText": "Pleasure hike in Chur with mountain view and restaurant",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Station_DSC_04998_611b5a33a6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

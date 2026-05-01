@@ -5,17 +5,9 @@
   "description": "Discover In Zurich: Zurich city tour, Chocolarium and Appenzeller cheese showcase in Switzerland.",
   "longDescription": "Discover In Zurich: Zurich city tour, Chocolarium and Appenzeller cheese showcase in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,103 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chocolarium: Discover how chocolate is made and enjoy sweet treats.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c90e87984a6aa2ca6cc1d6cd3836b78d.jpg"
-    },
-    {
-      "alternativeText": "Chocolarium",
-      "caption": "Stadtrundfahrt Zürich, Chocolarium und Appenzeller Schaukäserei",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04a14a43f1d7e75028fed73171fe52b6.jpg"
-    },
-    {
-      "alternativeText": "Chocolarium: fascinating chocolate experiences with Keytours in Switzerland with enjoyment through you.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/411e7abd6d0e10f307e2d180f96d1180.jpg"
-    },
-    {
-      "alternativeText": "Chocolarium: Experience the chocolate factory with interactive stations for kids and groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2e1e97983c651a2ab5395654db269213.jpg"
-    },
-    {
-      "alternativeText": "Chocolate fountain in the Chocolarium: discover delicious chocolate creations in the chocolate paradise.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/260aa27d4127e2dd0d7482d25f49a097.jpeg"
-    },
-    {
-      "alternativeText": "Chocolarium: Experience the world of chocolate with Keytours in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/82f59352e93bc71552ec33280e12c2fa.jpg"
-    },
-    {
-      "alternativeText": "Zurich city center: lively street with cafes and colorful flags, ideal for a day trip.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e7a4773e04a28bcdcd2254b154410ecd.jpg"
-    },
-    {
-      "alternativeText": "Zurich city center: lively pedestrian zone with trams and trees, ideal for city tours.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3538e36eeb2d74144c585d73fb92e115.jpg"
-    },
-    {
-      "alternativeText": "Zurich city center: picturesque street scene with restaurants and flags on a day trip.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/66637783bf8774be6f580c38eb6812ff.jpg"
-    },
-    {
-      "alternativeText": "Appenzeller Cheese Factory: Experience cheese making and tradition in the picturesque region.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ad4642614c26e9d56e6a5926f4aacd2c.jpg"
-    },
-    {
-      "alternativeText": "Appenzeller Show Dairy: Experience traditional cheese making in Switzerland on a day trip",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b65bc2e1c78203e045d9dbc8c592c00b.jpg"
-    },
-    {
-      "alternativeText": "Appenzeller: Discover the Appenzeller Show Dairy with colorful flags and Alpine panorama.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4253d20a91ee577b8a3a81730242fd15.jpeg"
-    },
-    {
-      "alternativeText": "Appenzeller Schaukäserei",
-      "caption": "Stadtrundfahrt Zürich, Chocolarium und Appenzeller Schaukäserei",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/216c9bb753ecd4b2b3be36b4948d2674.jpg"
-    },
-    {
-      "alternativeText": "Appenzeller Schaukäserei",
-      "caption": "Stadtrundfahrt Zürich, Chocolarium und Appenzeller Schaukäserei",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7c3f3558b029850a731fa9914c09145.jpg"
-    },
-    {
-      "alternativeText": "Appenzeller Schaukäserei",
-      "caption": "Stadtrundfahrt Zürich, Chocolarium und Appenzeller Schaukäserei",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ee93f374276ec7769628a97116c25fcb.jpg"
-    },
-    {
-      "alternativeText": "Zürich Old Town: Experience historic buildings, vibrant atmosphere, and culture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c6217838ec1f22fd255ff90e48f879a5.jpg"
-    },
-    {
-      "alternativeText": "Limmat: Image of the beautiful riverside promenade in Zurich with city houses in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b4f97cbcde519ff9daf1a0321fb1da4d.jpg"
-    },
-    {
-      "alternativeText": "Limmat: beautiful view of the city of Zurich with historic buildings and surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7e779c9e6f022141fd03f1211b539e69.jpg"
-    },
-    {
-      "alternativeText": "Zurich Old Town: Discover the Swiss National Museum in the historic setting of the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/369e22549f4485c3f51e2171543b53c5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "cheese"

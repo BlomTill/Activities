@@ -5,17 +5,9 @@
   "description": "Discover Funyak whitewater rafting on the Rhone in Valais in Switzerland.",
   "longDescription": "Discover Funyak whitewater rafting on the Rhone in Valais in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33",
-    "title": "Rafting",
-    "slug": "rafting",
-    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
-  },
+  "subcategory": "Rafting",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rafting on the Rhône, four people in yellow boats",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Funyak_Rhone_2_2f67d4a6c5.webp"
-    },
-    {
-      "alternativeText": "Funyak tour in the Valais. Group paddling in yellow boats in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_30f4e191e8bfe9fd2559ca1095f8347f_38bffeb98a.jpg"
-    },
-    {
-      "alternativeText": "Rhone River flows through green landscape with rocks. Clear air and blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rhone_Wallis_dd5068bd6b.webp"
-    },
-    {
-      "alternativeText": "Funyak on the Rhône while paddling, participants in wetsuits and life jackets, summer activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_d0edd381833990ab5335d5e037f5011c_67b6368496.jpg"
-    },
-    {
-      "alternativeText": "Funyak on the Rhône in 2023 showcases water activities with friends in a boat and splashing water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_37946e2df625fc9a9660f97d42929250_6c8b7c22ae.jpg"
-    },
-    {
-      "alternativeText": "Kayaking on the Rhone, two paddlers in a yellow kayak, splashing water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Funyak_Rhone_3_5d6f4409fb.webp"
-    },
-    {
-      "alternativeText": "Kayaking on Lake Garda, young person, blue helmet, sunshine",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Funyak_Rhone_4_7e004bcf3a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "rafting"

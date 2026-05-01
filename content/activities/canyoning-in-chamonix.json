@@ -5,17 +5,9 @@
   "description": "Discover Canyoning in the Tête-Noire gorge near Chamonix in Switzerland.",
   "longDescription": "Discover Canyoning in the Tête-Noire gorge near Chamonix in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "474",
-      "title": "France"
-    },
+    "region": "France",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,78 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Canyoning in the Arve: Experience thrilling adventures with an experienced team in the beautiful mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_2_Swissraft_Activity_0ab4fc99ee.jpg"
-    },
-    {
-      "alternativeText": "Canyoning: Experience thrilling adventures in the Arve with friends and an experienced guide.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Swissraft_1_51121bb442.jpeg"
-    },
-    {
-      "alternativeText": "Canyoning in the Arve, adventurous tour in nature with waterfall and climbing elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Swissraft_2_effdc735c1.jpeg"
-    },
-    {
-      "alternativeText": "Canyoning in the Arve: Experience thrilling adventure in the Swiss Alps with rafting and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Swissraft_3_600004d5c6.jpg"
-    },
-    {
-      "alternativeText": "Canyoning: Group during canyoning in the Arve, adventure in nature and summer activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_Swissraft_4_fa5776e980.jpeg"
-    },
-    {
-      "alternativeText": "Canyoning in the Arve: Adventure in the water between steep rocks in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_1_Swissraft_Activity_1f4dbf6108.jpg"
-    },
-    {
-      "alternativeText": "Canyoning Arve: Adventure in water sports with friends in nature during the summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_3_Swissraft_Activity_717ab29598.jpg"
-    },
-    {
-      "alternativeText": "Canyoning: Experience thrilling jumps into the Arve, surrounded by Swiss nature and rocks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_4_Swissraft_Activity_d516245b74.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the impressive canyon with waterfall and team. Experience adventure in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_5_Swissraft_Activity_3f34a0a8e0.jpg"
-    },
-    {
-      "alternativeText": "Canyoning: Experience thrilling water adventures in nature with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_6_Swissraft_Activity_6572825bbd.jpg"
-    },
-    {
-      "alternativeText": "Canyoning: Experience the adventure in the nature of Switzerland with waterfalls and wild currents.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyoning_8_Swissraft_Activity_1fc8ad037b.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the Arve: Water sports adventure and nature experience for groups and children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cover_activity_aquarando_et_canyoning_5_0ed9856cc6.jpg"
-    },
-    {
-      "alternativeText": "Canyoning: Experience Excitement in the Arve, perfect for groups in the Swiss mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/descente_swiss_canyoning_3c9d8749c6.jpeg"
-    },
-    {
-      "alternativeText": "Canyoning in the Arve, adventure with the team in the beautiful mountains of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/swiss_canyoning_corde_2f78b361e0.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

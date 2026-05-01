@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: day trip to Gruyères, show dairy and chocolate factory in Switzerland.",
   "longDescription": "Discover From Geneva: day trip to Gruyères, show dairy and chocolate factory in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Gruyeres: Attractions and picturesque landscape in Switzerland, ideal for day trips in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/57e5e57143c17c1b8817004ad82a7d6c.jpg"
-    },
-    {
-      "alternativeText": "Gruyere: Discover the picturesque village with historic architecture and vibrant activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/be47ef19fc6c0f5f135ee8e96c9a3cbf.jpg"
-    },
-    {
-      "alternativeText": "Gruyere: picturesque view of the mountains and charming architecture in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d53720584e9b7829c69a13804842e057.jpg"
-    },
-    {
-      "alternativeText": "Gruyère: Cheese dairy with production process and freshly produced cheese in the heart of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4330dd148ed906b25ae6f549b28536c4.jpg"
-    },
-    {
-      "alternativeText": "Chocolate: A selection of fine chocolate from Gruyere for your chocolate experience",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f1a98080ee857e5a689185d606e188e3.jpg"
-    },
-    {
-      "alternativeText": "Gruyeres: Relax while strolling through picturesque streets and enjoy the beautiful nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06ea74f265587933645e8213d67c27aa.jpg"
-    },
-    {
-      "alternativeText": "Gruyeres: Discover the charming old town with historic buildings and picturesque ambiance.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f0d4856ea9c8dc698824d7197267f3dc.jpg"
-    },
-    {
-      "alternativeText": "Chocolate: Fine chocolate pieces and cocoa powder for preparing desserts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2df8bdbb723950e9011cfb6df52a1cba.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

@@ -50,10 +50,7 @@
   "currency": "CHF",
   "duration": "3-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop",
-  "gallery": [
-    "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=800&fit=crop",
-    "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=800&fit=crop"
-  ],
+  "gallery": [],
   "highlights": [
     {
       "label": "Waterfalls",

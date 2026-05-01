@@ -78,10 +78,10 @@ export default function AboutPage() {
           We&apos;d love to hear from you.
         </p>
         <a
-          href="mailto:hello@exploreswitzerland.ch"
+          href="mailto:hello@realswitzerland.ch"
           className="inline-flex items-center gap-2 rounded-full bg-red-600 px-6 py-3 font-medium hover:bg-red-700 transition-colors"
         >
-          hello@exploreswitzerland.ch
+          hello@realswitzerland.ch
         </a>
       </section>
     </div>

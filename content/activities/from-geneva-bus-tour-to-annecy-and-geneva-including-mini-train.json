@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: Bus tour to Annecy and Geneva including mini train in Switzerland.",
   "longDescription": "Discover From Geneva: Bus tour to Annecy and Geneva including mini train in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,83 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/458400ee9867b747d135e511a04d65ee.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50f683fd38c7b2fc23c321d1c5c9c991.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b748506fab05e80bf5824b6d47e0a3b9.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aca454fe2a76e3649f437328ebf938b8.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/698ced060a6a2b0f9e8ea48525338068.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/484a044633308dcc135b9bf133628c14.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/84f2f7d174e3d7cc872bdc884a1e4559.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7c982ff1579041c63a88fdd30d6368d7.jpg"
-    },
-    {
-      "alternativeText": "Genf",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ee1fad4ec95d2e49328040171f8d1912.jpg"
-    },
-    {
-      "alternativeText": "Genf",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4277d4eacfd1536df5cf89c729bd4503.jpg"
-    },
-    {
-      "alternativeText": "Genfersee",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/58bea825e830d9afa63d57356d541fb9.jpg"
-    },
-    {
-      "alternativeText": "Genf",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dcb403dd7051d3a0af1d890322094bb8.jpg"
-    },
-    {
-      "alternativeText": "Genf",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/29574e934fec29771b131c950821e2ff.jpg"
-    },
-    {
-      "alternativeText": "Genf",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0a7459f7dcc90cb180fe926fd91bb98c.jpg"
-    },
-    {
-      "alternativeText": "Genf",
-      "caption": "Tour Annecy und Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4326b38355f30ef07588f821a566d617.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train",

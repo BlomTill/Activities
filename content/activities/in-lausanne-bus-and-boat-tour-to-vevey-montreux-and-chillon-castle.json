@@ -5,17 +5,9 @@
   "description": "Discover In Lausanne: Bus and boat tour to Vevey, Montreux, and Chillon Castle in Switzerland.",
   "longDescription": "Discover In Lausanne: Bus and boat tour to Vevey, Montreux, and Chillon Castle in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chillon: Explore the enchanting castle on Lake Geneva with a bus and boat tour.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/53f8943409d23c26c6454af371c9b3ad.jpg"
-    },
-    {
-      "alternativeText": "Chillon",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd7961f539a55a08b81dc6a576ab6be8.jpg"
-    },
-    {
-      "alternativeText": "Chillon",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c17beadb2eb9f053da80b176618d7111.jpg"
-    },
-    {
-      "alternativeText": "Chillon",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cb465f8bf01e255ef2f661691392c598.jpg"
-    },
-    {
-      "alternativeText": "Boat tour: Explore the picturesque Chillon Castle on Lake Geneva by boat and bus.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ea61ebabae964a5ac7394084f3b6a641.jpg"
-    },
-    {
-      "alternativeText": "Chillon",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99330a4f594502e31ee75c0bbadd7025.jpg"
-    },
-    {
-      "alternativeText": "Chaplin's World",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/65c33dd39f1b9273ad5690c2d66bd5b9.jpg"
-    },
-    {
-      "alternativeText": "Chaplin's World",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5d3799574e6ea937f3f8803f582bd1f4.jpg"
-    },
-    {
-      "alternativeText": "Chaplin's World",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aad7792156bc632429c3f37b052bf7c4.jpg"
-    },
-    {
-      "alternativeText": "Chaplin's World",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f8c3b511c9d323b4fc94f6b456d06b21.jpg"
-    },
-    {
-      "alternativeText": "Mountreux",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e7a124154ee874715abbbdc73f5b13d.JPEG"
-    },
-    {
-      "alternativeText": "Mountreux",
-      "caption": "Bus- und Schiffstour nach Vevey, Montreux und Schloss Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9b4050e7d450ffa02bc8b6ba1b546f9c.JPEG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "castle",

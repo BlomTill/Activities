@@ -5,17 +5,9 @@
   "description": "Discover From Lugano: private day trip Verzasca Valley and Lake Maggiore in Switzerland.",
   "longDescription": "Discover From Lugano: private day trip Verzasca Valley and Lake Maggiore in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Restaurant in Ascona with guests on the terrace, surrounded by plants and warm light",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ascona_Basecamp_Europe_1_a794fb2de3.jpg"
-    },
-    {
-      "alternativeText": "Ascona city view with colorful houses by the harbor, Lago Maggiore, sunny day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ascona_Basecamp_Europe_44fb12dda8.jpg"
-    },
-    {
-      "alternativeText": "Bungee jump over the Verzasca Gorge in 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bungy_007_Verzasca_Seraina_bbae184c75.JPG"
-    },
-    {
-      "alternativeText": "Departure board Lago Maggiore with destinations Locarno, Brissago and Porto Ronco",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lago_Maggiore_Abfahrtstafel_Basecamp_Europe_af5c6241ec.jpg"
-    },
-    {
-      "alternativeText": "Lavertezzo Bridge over clear rivers, surrounded by green mountain landscapes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavertezzo_Bruecke_Basecamp_Europe_cd45f7d93c.jpg"
-    },
-    {
-      "alternativeText": "Lavertezzo Bridge over the Verzasca River, surrounded by green forest and rocky landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lavertezzo_Bruecke_Verzasca_Basecamp_Europe_b6302b3f99.jpg"
-    },
-    {
-      "alternativeText": "Verzasca Dam surrounded by green nature, in the year 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Staudamm_Verzasca_Seraina_a127a6b26e.jpg"
-    },
-    {
-      "alternativeText": "Jumping into the Verzasca River, people by the water, rocks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Verzasca_baden_f2dec00779.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

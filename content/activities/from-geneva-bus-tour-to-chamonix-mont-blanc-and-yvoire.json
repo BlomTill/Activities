@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: Bus tour to Chamonix Mont Blanc and Yvoire in Switzerland.",
   "longDescription": "Discover From Geneva: Bus tour to Chamonix Mont Blanc and Yvoire in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,83 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Yvoire, historical buildings with colorful flowers and beautiful sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14349341976_6af0a6d3ce_o_d759bd9b3b.jpg"
-    },
-    {
-      "alternativeText": "Yvoire, historic stone architecture with flowers. The old building exhibits typical features of the medieval style.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4608833349_69e5fe4fe6_o_e78627e698.jpg"
-    },
-    {
-      "alternativeText": " Yvoire",
-      "caption": "Bustour nach Chamonix Mont Blanc und Yvoire",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d68fc2b39207a5efa97df7fbd83011c6.jpg"
-    },
-    {
-      "alternativeText": "Castle in Yvoire shows historic architecture and surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7823014000_5e37cb8029_o_272c589442.jpg"
-    },
-    {
-      "alternativeText": "Yvoire: View of the lake with sailing boats and trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7826513494_c7c76d14cd_o_5dc4d4e125.jpg"
-    },
-    {
-      "alternativeText": "Yvoire Steinhaus with colorful flower windows in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/23143240559_5972a459d4_k_77a604e1a1.jpg"
-    },
-    {
-      "alternativeText": "The Garden of the Five Senses with colorful plants and view of the castle of Yvoire",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Le_Jardin_des_Cinq_Sens_Le_Tissage_et_vue_sur_le_chateau_d_Yvoire_JARDIN_5_SENS_YVOIRE_jpg_d7409009fe.jpg"
-    },
-    {
-      "alternativeText": " Yvoire",
-      "caption": "Bustour nach Chamonix Mont Blanc und Yvoire",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aa6ca9868ecd09c6feb2b4c50e47ec68.png"
-    },
-    {
-      "alternativeText": " Yvoire",
-      "caption": "Bustour nach Chamonix Mont Blanc und Yvoire",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87991531b3432f29e2687955496d519d.jpg"
-    },
-    {
-      "alternativeText": "Statue in Chamonix with a view of the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chamonix_Maxime_Coquard_1_f40d598fee.jpg"
-    },
-    {
-      "alternativeText": "Chamonix-Mont-Blanc with sunlight, snow, and mountain view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village4_2048_10_3aee1b5d31.jpg"
-    },
-    {
-      "alternativeText": "Chamonix-Mont-Blanc with mountain panorama and green landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village5_2048_1_4817c98882.jpg"
-    },
-    {
-      "alternativeText": "Chamonix-Mont-Blanc with blooming cherry trees and a view of the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village6_2048_1_23f2207945.jpg"
-    },
-    {
-      "alternativeText": "Chamonix-Mont-Blanc with colorful flowers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village7_2048_10_8242f1dfbf.jpg"
-    },
-    {
-      "alternativeText": "Chamonix showcases street performers putting on a show for an audience.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village8_2048_1_0044a9887e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

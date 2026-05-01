@@ -5,17 +5,9 @@
   "description": "Discover Lütschine Rafting from Interlaken in Switzerland.",
   "longDescription": "Discover Lütschine Rafting from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33",
-    "title": "Rafting",
-    "slug": "rafting",
-    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
-  },
+  "subcategory": "Rafting",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rafting rapids Lütschine with 8 people in the red boat, splashing water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_7bb8e049c7fd7e852ab3efa06494aa75_a28f52d45c.jpg"
-    },
-    {
-      "alternativeText": "Lütschine rafting in summer weather, group paddles in the river.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_a4f839ef0428954fd62ed35e403d40ba_93283c8b64.jpg"
-    },
-    {
-      "alternativeText": "Rafting group rides through wild water, laughing and cheering, surrounded by rocks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_587180a715984b01ac6fe9950ee04edd_d987d1d620.jpg"
-    },
-    {
-      "alternativeText": "Lütschine Group River Rafting with participants, wild water and landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_d71efcd4cfb9348744bb7f2de5372a2f_a515968327.jpg"
-    },
-    {
-      "alternativeText": "Adventure River Rafting on the Lütschine with Life Jackets and Paddles",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_024e0bafa288decdd638bb670f41f1ba_6c4b9a8814.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "rafting",

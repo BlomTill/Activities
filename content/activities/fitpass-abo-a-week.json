@@ -5,17 +5,9 @@
   "description": "Discover Fitpass subscription 1 week in Switzerland.",
   "longDescription": "Discover Fitpass subscription 1 week in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "69",
-    "title": "Wellness and adventure pools",
-    "slug": "wellness",
-    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
-  },
+  "subcategory": "Wellness and adventure pools",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,68 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Fitpass: Group fitness in the open air with active participants and fitness equipment in a public square.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6274e5fefc6ea5d26c789212271935da.jpg"
-    },
-    {
-      "alternativeText": "Bouldering: Climbing in Sports Hall with Climbing, Fitness, Challenges, Indoor Sport",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/27026b170b5bab5c862d2ad677a1df57.jpg"
-    },
-    {
-      "alternativeText": "Group fitness at Fitpass with motivating participants and a relaxed atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/aa4f38293ef3e10176d85c8777f20942.jpg"
-    },
-    {
-      "alternativeText": "Ice skating in winter: children and teenagers on an ice rink having fun and being active.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b7eee0a7f89898f9e41db9b520fd8927.jpg"
-    },
-    {
-      "alternativeText": "Bouldering outdoors with friends, sports, rocks, and adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4e0827bf016ee301c58ab01be1c12507.jpg"
-    },
-    {
-      "alternativeText": "Ice skating: Enjoy ice skating in the ice rink with friends and family in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05c00b1ddb329eccc9ad8339d5d96a88.jpg"
-    },
-    {
-      "alternativeText": "Family Sport: Fitness and Gymnastics for Couples in the Living Room during Online Workouts",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/261fa9474622f24a6e621453d11d7d31.jpg"
-    },
-    {
-      "alternativeText": "Fitness: Strength training with intense exercises for body and health in the gym.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5ce16f65a365c614bb3145e68bf64baa.jpg"
-    },
-    {
-      "alternativeText": "Rafting: Experience the thrill of white-water rafting with friends in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e678320188a8fd80cfcfa687986585df.jpg"
-    },
-    {
-      "alternativeText": "Golf: Player teeing off on a beautiful golf course in nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/244a0197ce2ffcdaecbdd1ee005270b6.jpg"
-    },
-    {
-      "alternativeText": "Swimming in the swimming hall with Fitpass for active fitness moments in the water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e84229011354397a1ff78403b1602340.jpg"
-    },
-    {
-      "alternativeText": "Bathing: Children happily jump into the clear lake in nature during summer days.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f8f5412935d81f1ee41de684cc2f5b32.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

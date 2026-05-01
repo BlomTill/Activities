@@ -5,17 +5,9 @@
   "description": "Discover Fat Boy E-Scooter Tour Highland Adventure from Lostallo in Switzerland.",
   "longDescription": "Discover Fat Boy E-Scooter Tour Highland Adventure from Lostallo in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "103",
-    "title": "E-Scooter",
-    "slug": "e-scooter",
-    "description": "Book an e-scooter excursion here, self-guided or with a professional guide. E-scooters are often used for sightseeing to quickly cover shorter distances. These are usually e-scooters, which are usually offered without a seat. The maneuverable e-scooters quickly reach their destinations even in narrow alleys. Rides along the banks of rivers or lakes are particularly popular. You enjoy the view, are in the middle of nature and don't have to exert yourself. E-scooters can reach up to 20 km/h.\n"
-  },
+  "subcategory": "E-Scooter",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,18 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "ticinoquad: Biker with a view of mountains and nature in summer, perfect for adventures and group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_20220823_WA_0000_85212d7580.jpg"
-    },
-    {
-      "alternativeText": "ticinoquad: impressive waterfall in a natural setting, perfect for relaxation and adventure",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ashampoo_Snap_2022_06_05_10h28m40s_001_e4aab8db76.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "adventure"

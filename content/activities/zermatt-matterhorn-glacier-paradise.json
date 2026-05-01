@@ -51,10 +51,7 @@
   "currency": "CHF",
   "duration": "4-6 hours",
   "imageUrl": "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=800&h=500&fit=crop",
-  "gallery": [
-    "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=1200&h=800&fit=crop",
-    "https://images.unsplash.com/photo-1581985781288-7a23834bed87?w=1200&h=800&fit=crop"
-  ],
+  "gallery": [],
   "highlights": [
     {
       "label": "Altitude",

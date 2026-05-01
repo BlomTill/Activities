@@ -5,17 +5,9 @@
   "description": "Discover Private ski school for all levels in Grindelwald in Switzerland.",
   "longDescription": "Discover Private ski school for all levels in Grindelwald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skilehrer mit kleiner Gruppe",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/736c994a2aa15b8932369e5a5d5a9d4f.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrer",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b42de4093ef0335adb819bf598ae3b88.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrer",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4766d333e0d53ca56761bac1c0acaaab.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit kleiner Gruppe",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86575435633c5f5f4f4b584e5cbc2ac7.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit kleiner Gruppe",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bf93a181b5d15b9f57fcbcf5b599d25c.jpg"
-    },
-    {
-      "alternativeText": "Sessellift",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f87d4fb633547b208014a8fd6855b23a.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrer",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b7f1fd77540d17ba939f849f6f89221.jpg"
-    },
-    {
-      "alternativeText": "Skifahrer",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d7cf06c1344f3f15905e7fb104468f0.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrer",
-      "caption": "Skigebiet Grindelwald-Kleine Scheidegg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b346fb51b19a729a7aa22a60787450d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

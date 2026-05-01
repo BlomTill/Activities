@@ -5,17 +5,9 @@
   "description": "Discover Foxtrail GO Chur Digital Treasure Hunt in Switzerland.",
   "longDescription": "Discover Foxtrail GO Chur Digital Treasure Hunt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Coverbild_Chur_01",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/81283964576b6d2ce7759b135cfe1905.jpg"
-    },
-    {
-      "alternativeText": "01 FoxtrailGO-Loest-knifflige-Raetsel",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc7b94782ad95f88e07d103e7dce505a.jpg"
-    },
-    {
-      "alternativeText": "02 MenschNah_B02_1280x960",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e27c83030e0f57421c7bb00ef6ca1dc.jpg"
-    },
-    {
-      "alternativeText": "AufderSuche_C02_1280x960",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fe6edf1c39cf5c4a5d3b1a1241d36b13.jpg"
-    },
-    {
-      "alternativeText": "Hineinschauen_A02_1280x960",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5887ed437688f0ed0160d12f0cfae29d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

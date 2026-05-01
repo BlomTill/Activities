@@ -5,17 +5,9 @@
   "description": "Discover \"Tracking Nature including Picnic\": On the Move with Charlotte Arnswald in Switzerland.",
   "longDescription": "Discover \"Tracking Nature including Picnic\": On the Move with Charlotte Arnswald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "photo_2026-01-28_10-37-13",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ee734075a3e9d83e76274cd568693f38.jpg"
-    },
-    {
-      "alternativeText": "photo_2026-01-05_19-32-47",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/304213929e5be990a11eb38229c34458.jpg"
-    },
-    {
-      "alternativeText": "photo_2026-01-05_19-32-40",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5a71ae0fc76afea34e1912001660e612.jpg"
-    },
-    {
-      "alternativeText": "photo_2026-01-05_19-31-51",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0fd53a85630dead2e880e6d1054ac89.jpg"
-    },
-    {
-      "alternativeText": "photo_2026-01-05_19-31-32",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86b872e7fc6161b068b65ca2eee5686a.jpg"
-    },
-    {
-      "alternativeText": "photo_63_2026-01-05_19-15-24",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/793235fa690a5351da35954554398f68.jpg"
-    },
-    {
-      "alternativeText": "photo_10_2026-01-05_19-15-24",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/617883554d7fe6d53eccd0880be25995.jpg"
-    },
-    {
-      "alternativeText": "photo_7_2026-01-05_19-15-24",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d13083fc39f2d37348892870c7b048a2.jpg"
-    },
-    {
-      "alternativeText": "photo_2026-01-28_10-37-17",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fc5e60f7bbaa22f17549b93111cb2612.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

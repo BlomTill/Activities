@@ -5,17 +5,9 @@
   "description": "Discover Train ticket between Chur and Arosa in Switzerland.",
   "longDescription": "Discover Train ticket between Chur and Arosa in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "70",
-    "title": "Train ticket",
-    "slug": "train-ride",
-    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
-  },
+  "subcategory": "Train ticket",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,43 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rhaetian Railway: Scenic train ride through the Swiss Alps with green forests.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rhaetische_Bahn_2_Pixabay_2d0beb35a7.jpg"
-    },
-    {
-      "alternativeText": "Rhaetian Railway: Modern trains in the mountainous region of Rhaetia at Chur station",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rhaetische_Bahn_Pixabay_b5fab42acc.jpg"
-    },
-    {
-      "alternativeText": "Arosa train over impressive bridge in the nature of the Alps with green forests and summer landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_Arosa_1_Pixabay_3d7f3257cd.jpg"
-    },
-    {
-      "alternativeText": "Experience the Winter landscape with the Arosa train in the snow-covered mountain region of Arosa.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_Arosa_Pixabay_4b4b9edd19.jpg"
-    },
-    {
-      "alternativeText": "Chur: Picturesque cityscape with historic buildings and mountains in the background, ideal for explorations.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Pixabay_a6bbe34db7.jpg"
-    },
-    {
-      "alternativeText": "Arosa: snow-covered mountains with charming residential houses in winter in a quiet environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Arosa_1_Pixabay_b3f13a0702.jpg"
-    },
-    {
-      "alternativeText": "Arosa: idyllic lake with clear water, surrounded by mountains and forests in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Arosa_Pixabay_5378837f69.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train"

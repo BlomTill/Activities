@@ -5,17 +5,9 @@
   "description": "Discover Helicopter flight in the Jungfrau region from Interlaken in Switzerland.",
   "longDescription": "Discover Helicopter flight in the Jungfrau region from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Helikopter",
-      "caption": "Jungfrauregion",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/432e2b32f87e2df0e700a6e1387d778f.jpg"
-    },
-    {
-      "alternativeText": "Helikopter am Jungfraujoch",
-      "caption": "Jungfrauregion",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b9f8fd120aa007925a0e0e6f2281c1f1.jpg"
-    },
-    {
-      "alternativeText": "Helikopter",
-      "caption": "Jungfrauregion",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b2b8903586d2867caca7d094879226de.jpg"
-    },
-    {
-      "alternativeText": "Helikopter am Jungfraujoch",
-      "caption": "Jungfrauregion",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b3b027d29d4a890bac769758225dfbf.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

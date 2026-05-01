@@ -5,17 +5,9 @@
   "description": "Discover Wildlife watching ibex, stag, chamois and co. in the Weisstannental valley in Switzerland.",
   "longDescription": "Discover Wildlife watching ibex, stag, chamois and co. in the Weisstannental valley in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33819",
-    "title": "Animal experiences",
-    "slug": "animal-experiences",
-    "description": "Discover and book exciting animal encounters across Switzerland. Experience animals up close through a variety of activities and explore the special bond between humans and animals. You can get to know the animals, learn about their personalities and needs, and practice respectful interaction. These experiences offer memorable moments for families, children, and anyone wanting to engage actively with animals in a natural setting."
-  },
+  "subcategory": "Animal experiences",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ibexes in Heidiland enjoy the mountain landscape in clear weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013038634566_sized_800_0_3b84fe7f21.jpg"
-    },
-    {
-      "alternativeText": "Ibex observation in Heidiland, hiker with binoculars in the mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013038628845_sized_800_0_5c2a8fe179.jpg"
-    },
-    {
-      "alternativeText": "Ibex Tour Heidiland with Waterfall and Rocks",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013038631159_sized_800_0_b4d59a4b54.jpg"
-    },
-    {
-      "alternativeText": "Marmot Tour Heidiland with Hikers in Mountain Landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013038631861_sized_800_0_b4c8d0e9e8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "watch"

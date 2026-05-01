@@ -5,17 +5,9 @@
   "description": "Discover \"The Anarchist from Castagnola\" Escape Room Winterthur in Switzerland.",
   "longDescription": "Discover \"The Anarchist from Castagnola\" Escape Room Winterthur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Plakat",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c447bfe05804a8e1993d433f10ed45e9.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ead1a9703bf5b2b33264074a011788b0.jpg"
-    },
-    {
-      "alternativeText": "Der Anarchist",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f71890e1cecb53e1bcb06b2e8e73e3f.jpg"
-    },
-    {
-      "alternativeText": "Der Anarchist",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d707198bcb99a57eb5af112d9c03d277.jpg"
-    },
-    {
-      "alternativeText": "Menschen",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed12ebebc001462874dd4e299ccc18a5.jpg"
-    },
-    {
-      "alternativeText": "Menschen",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1e09c01d259cc0d349388e1217e83dc9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

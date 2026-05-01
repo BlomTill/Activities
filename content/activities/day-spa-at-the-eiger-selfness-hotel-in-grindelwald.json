@@ -5,17 +5,9 @@
   "description": "Discover Day Spa at the Eiger Mountain & Soul Resort in Grindelwald in Switzerland.",
   "longDescription": "Discover Day Spa at the Eiger Mountain & Soul Resort in Grindelwald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "69",
-    "title": "Wellness and adventure pools",
-    "slug": "wellness",
-    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
-  },
+  "subcategory": "Wellness and adventure pools",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Spa area with saunas and relaxation area in a beautiful setting for wellness holiday",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spa_ganzes_Areal_c1eaa35d08.jpg"
-    },
-    {
-      "alternativeText": "Infusion in the sauna with hot stones for relaxation and well-being.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spa_ueber_Steine_giessen_1_dc6c7ea838.jpg"
-    },
-    {
-      "alternativeText": "Relaxation room with modern loungers for relaxing wellness experiences in the self-care area.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Selfness_Ruheraum_96b156be8c.jpg"
-    },
-    {
-      "alternativeText": "Sauna: Cozy wooden furnishings for relaxation and wellness in the spa area",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spa_Sauna_4_2550b84876.jpg"
-    },
-    {
-      "alternativeText": "Flower pool for relaxing wellness moments in a modern spa area",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Selfness_Bluetenpool_f84cef6b9a.jpg"
-    },
-    {
-      "alternativeText": "Back massage for relaxation in a wellness spa with professional treatment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rueckenmassge_2_008a898237.jpg"
-    },
-    {
-      "alternativeText": "Massage tables in a relaxing room with modern elements and soothing colors",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Massage_Liegen_6fb053f8f7.jpg"
-    },
-    {
-      "alternativeText": "Spa water with mint: refreshing drink for your relaxation experience at the spa.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spa_Wasser_mit_Minze_49c4748c27.jpg"
-    },
-    {
-      "alternativeText": "Spa: cozy relaxation area with Finnish sauna and stone wall, ideal for unwinding",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spa_Blick_auf_Finnische_Sauna_7d016fa5da.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "mountain",

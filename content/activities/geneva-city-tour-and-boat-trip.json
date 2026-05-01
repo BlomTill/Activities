@@ -5,17 +5,9 @@
   "description": "Discover Geneva: City Tour and Boat Trip in Switzerland.",
   "longDescription": "Discover Geneva: City Tour and Boat Trip in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Broken Chair ",
-      "caption": "Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/268ce2bcc6bb7f23d056bbec246a6647.jpg"
-    },
-    {
-      "alternativeText": "Geneva: Beautiful fountain in the lake with a view of the buildings and the rainbow behind it.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7af82ea5e902b57bb4c9a1b29d4393dc.jpg"
-    },
-    {
-      "alternativeText": "Geneva: Globe in water with historical context and city view behind you.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b1e8ba1af93853d2db033070ecbe8341.jpg"
-    },
-    {
-      "alternativeText": "Lake Geneva: View of the water with seagulls and boats in Geneva, ideal for romantic outings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/82801f8db28df0b6cabb784c276ad12a.jpg"
-    },
-    {
-      "alternativeText": "Geneva: impressive city view with historic buildings and picturesque surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10537cb5968f095baad0b98f546998a4.jpg"
-    },
-    {
-      "alternativeText": "Bains des Paquis: relaxing atmosphere by Lake Geneva with friends and wonderful views of the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5e8832324e847d2f67abbb1404fa2a2d.jpg"
-    },
-    {
-      "alternativeText": "Genfersee",
-      "caption": "Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13eac0a09d54eef614d415abf9ee8cdc.jpg"
-    },
-    {
-      "alternativeText": "Genfersee",
-      "caption": "Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1751d97769b419b965d420e41c097611.jpg"
-    },
-    {
-      "alternativeText": "Denkmal",
-      "caption": "Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e81d3504025927b177c24f5eac5a618.jpg"
-    },
-    {
-      "alternativeText": "Blumenuhr",
-      "caption": "Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1e796f9d2b264b695f1a776547ecb4d4.jpg"
-    },
-    {
-      "alternativeText": "Denkmal",
-      "caption": "Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/df4da05c54c6d90ef28f75c2a3b3d589.jpg"
-    },
-    {
-      "alternativeText": "Schachspieler",
-      "caption": "Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ae37b547138774678fe2e9082fef59fa.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat",

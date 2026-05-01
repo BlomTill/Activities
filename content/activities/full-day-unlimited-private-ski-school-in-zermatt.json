@@ -5,17 +5,9 @@
   "description": "Discover Full-day unlimited private ski school in Zermatt in Switzerland.",
   "longDescription": "Discover Full-day unlimited private ski school in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "6",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e4c34b39cbc7cb8f70f3054879c991f8.jpg"
-    },
-    {
-      "alternativeText": "01",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99c958d143a049b23cf1c7931a46d109.jpg"
-    },
-    {
-      "alternativeText": "1 copy (smaller)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc12e3c02b13ae5b4662afaf72ab82ca.jpeg"
-    },
-    {
-      "alternativeText": "4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2d4134c4eb58cf7b0faea9ac061a9466.jpg"
-    },
-    {
-      "alternativeText": "7",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02a6dba0422d9ac09ebd76e6931e6e1a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

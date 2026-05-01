@@ -5,17 +5,9 @@
   "description": "Discover Via Ferrata Engstligenalp for Beginners in Switzerland.",
   "longDescription": "Discover Via Ferrata Engstligenalp for Beginners in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "36",
-    "title": "Via ferrata",
-    "slug": "via-ferrata",
-    "description": "Find the via ferrata that suits you best and book a tour led by an experienced mountain guide or rent your equipment here. Via Ferrata, also known under the Italian name \"Via Ferrata\", provide a thrill and an unforgettable climbing experience. Depending on the level of difficulty, previous experience is necessary. However, there are also via ferratas that can be climbed without experience. Well secured, you will master steep ascents and airy traverses. Via ferrata routes can be found all over Switzerland. Starting in the Valais to the Bernese Oberland, Central Switzerland and the Grisons Alps."
-  },
+  "subcategory": "Via ferrata",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kletterin und Engstligenfall",
-      "caption": "Klettersteig Engstligenalp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22879ce7c0fa53e33e5968c1e23b36ff.jpg"
-    },
-    {
-      "alternativeText": "Kletterer am Klettersteig",
-      "caption": "Klettersteig Engstligenalp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/609ed7253722ed204c57d38aaa04c9c3.jpg"
-    },
-    {
-      "alternativeText": "Klettergruppe",
-      "caption": "Klettersteig Engstligenalp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/74a5c8f013bf19d07952651dee5d7823.jpg"
-    },
-    {
-      "alternativeText": "Landschaft",
-      "caption": "Klettersteig Engstligenalp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/32128743a1e288f71829f7fe8a6e8fc3.jpg"
-    },
-    {
-      "alternativeText": "Engstligenfall",
-      "caption": "Klettersteig Engstligenalp",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/040cecbb27787fe2d5ffc7b10525949d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

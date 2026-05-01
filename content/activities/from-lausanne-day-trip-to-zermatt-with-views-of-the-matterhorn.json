@@ -5,17 +5,9 @@
   "description": "Discover From Lausanne: Day trip to Zermatt with a view of the Matterhorn in Switzerland.",
   "longDescription": "Discover From Lausanne: Day trip to Zermatt with a view of the Matterhorn in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Visitor - Zermatt letters 1 - ©Basic Home Production_v2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e4d40626ff6085f9eaff438d33444d93.jpg"
-    },
-    {
-      "alternativeText": "zermatt-pixabay",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f922d834c7e93b5ac2e7173349193d69.jpg"
-    },
-    {
-      "alternativeText": "ZBAG Schwarzsee Summer 2023-26",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5260ba0e48f7d618db9bb2a3306a78b8.jpg"
-    },
-    {
-      "alternativeText": "ZBAG Gourmet Trail-109_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/649de33c112a29a8f6d4f5e38f3f4960.jpg"
-    },
-    {
-      "alternativeText": "rothorn-viewpoint-sign-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e05b245f33d93d639bf9b0953c188fca.jpg"
-    },
-    {
-      "alternativeText": "Peak collection-4_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a5d66d91dac5567c3ad152b2df2977ab.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt",

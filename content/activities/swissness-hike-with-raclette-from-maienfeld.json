@@ -5,17 +5,9 @@
   "description": "Discover Swissness Hike with Raclette from Maienfeld in Switzerland.",
   "longDescription": "Discover Swissness Hike with Raclette from Maienfeld in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Swissness Wanderung 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2f40b999649fda86734a478dbc5944fa.jpg"
-    },
-    {
-      "alternativeText": "Swissness Wanderung 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/53ece2f9935f6c01052f5cd56a3d47d1.jpg"
-    },
-    {
-      "alternativeText": "Swissness Wanderung 4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c9df9400a3681bfd700e26d90ca73985.jpg"
-    },
-    {
-      "alternativeText": "Swissness Wanderung 3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c32af41dac0326494b4f58b6a8ed4542.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Duo Ring course half-day private with rings to take home in Switzerland.",
   "longDescription": "Discover Duo Ring course half-day private with rings to take home in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ringbearbeitung",
-      "caption": "Ringkurs",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/233b96b68ef5446d1ee3237b0d47df7a.jpg"
-    },
-    {
-      "alternativeText": "Ringbearbeitung",
-      "caption": "Ringkurs",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3cce8a824e8f3689b7e472a0bf50222a.jpg"
-    },
-    {
-      "alternativeText": "Ringbeispiel",
-      "caption": "Ringkurs",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/579dd35a9979c91a994546cb011d3ff8.jpg"
-    },
-    {
-      "alternativeText": "Ringbeispiel",
-      "caption": "Ringkurs",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da39b7ee2e572a036e9a0e586bc69527.jpg"
-    },
-    {
-      "alternativeText": "Oberflächen",
-      "caption": "RingkursRingkurs",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1e684d08aad40a01372a7a9489526db5.jpg"
-    },
-    {
-      "alternativeText": "Modelle",
-      "caption": "Ringkurs",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1d16b8b2a40135c0ff925670188f727e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

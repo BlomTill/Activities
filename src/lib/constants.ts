@@ -33,6 +33,7 @@ export const REGIONS = [
   "Thurgau Region",
 ] as const;
 
-export const SITE_NAME = "ExploreSwitzerland";
-export const SITE_DESCRIPTION = "Your Swiss travel companion — compare activity prices, plan group trips, and discover the best experiences across Switzerland. Save money with side-by-side pricing for every age group.";
-export const SITE_URL = "https://exploreswitzerland.ch";
+export const SITE_NAME = "RealSwitzerland";
+export const SITE_DESCRIPTION = "The independent guide to Switzerland — compare real activity prices, plan group trips, and discover hand-picked experiences across every Swiss region. Honest reviews, no fluff.";
+export const SITE_URL = "https://realswitzerland.ch";
+export const SITE_EMAIL = "hello@realswitzerland.ch";

@@ -5,17 +5,9 @@
   "description": "Discover \"The Omega Codex\" Outdoor Escape Game St. Moritz in Switzerland.",
   "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game St. Moritz in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "OmegaCodex_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a92de72309a331a5f2cfac3838218d7.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24ac3cf1245009a9ef232e2aad05d44d.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed90b2344b9cdc52e0527bdc60eea642.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_5",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cf8e9e2a36c466b805160a6e90b1f531.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_6",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a26981cf20ac93096958160c685fa8cd.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_7",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d25bb43da44fbc259d7309f0411f0d4.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_9",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd6f2e32cfac687115106b52383be326.jpg"
-    },
-    {
-      "alternativeText": "st-moritz-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/762d6204e6c66bb44244e01e760cd724.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "st.-moritz"

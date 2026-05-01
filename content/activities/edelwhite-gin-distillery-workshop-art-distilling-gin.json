@@ -5,17 +5,9 @@
   "description": "Discover Edelwhite Gin Distillery: Workshop on the art of distilling gin in Switzerland.",
   "longDescription": "Discover Edelwhite Gin Distillery: Workshop on the art of distilling gin in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "145",
-    "title": "Distillery",
-    "slug": "distillery",
-    "description": "A visit to a distillery will give you an exciting insight into the art of making spirits. During a guided tour, you will get to know the various production areas. A knowledgeable member of staff will explain the process of making spirits from start to finish. You will learn which raw materials and ingredients are used to produce the spirits and what is involved in the distillation process. A highlight of the visit is the tasting of the distillery's products, where you will get to know their aromas, flavors and nuances under expert guidance.\n"
-  },
+  "subcategory": "Distillery",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Gin Workshop: Enjoy the diversity of ingredients with Edelwhite Gin and discover various herbs.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_02_cdf5022a32.jpg"
-    },
-    {
-      "alternativeText": "Gin Workshop: Discover the Art of Gin Distillation with Herbs and Flavors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_01_ca87c6aa76.jpg"
-    },
-    {
-      "alternativeText": "Gin workshop with refreshing mixed drinks and fresh ingredients in Berlin",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_03_7a760d9be7.jpg"
-    },
-    {
-      "alternativeText": "Gin Workshop: discover the art of distillation and use fresh ingredients for your own gin.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_04_e41db97c27.jpg"
-    },
-    {
-      "alternativeText": "Gin workshop with ingredients and scale, discover the art of gin making.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_05_6d95c979db.jpg"
-    },
-    {
-      "alternativeText": "Gin Workshop: Enjoy the art of gin-making and discover various botanicals.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_06_dad35d7a7e.jpg"
-    },
-    {
-      "alternativeText": "Gin Workshop: exciting production of gin, creative recipes, and culinary experiences",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_07_358f08ea89.jpg"
-    },
-    {
-      "alternativeText": "Gin Workshop: You will learn the art of gin production and enjoy special taste experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_08_1cbd8a0fac.jpg"
-    },
-    {
-      "alternativeText": "Edelwhite Gin Workshop: Discover everything about gin production in a creative environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_09_a5e4aebf29.jpg"
-    },
-    {
-      "alternativeText": "Gin Workshop: Learn the art of gin making in a relaxed atmosphere with expertise and group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/workshop_edelwhite_gin_10_4f3b06cd3e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

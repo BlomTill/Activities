@@ -5,17 +5,9 @@
   "description": "Discover Rafting on the Arve in Chamonix in Switzerland.",
   "longDescription": "Discover Rafting on the Arve in Chamonix in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33",
-    "title": "Rafting",
-    "slug": "rafting",
-    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
-  },
+  "subcategory": "Rafting",
   "location": {
-    "region": {
-      "id": "474",
-      "title": "France"
-    },
+    "region": "France",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,88 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rafting on the Arve with friends in nature, summer adventure and team activity",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_1_Swissraft_Activity_64e326bc53.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve, experience exciting adventures in nature with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_2_Swissraft_Activity_3dd80750f3.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve in the summer with groups of adventurers in whitewater boats.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_3_Swissraft_Activity_f6f4671af6.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve: experience group adventures in nature together during the summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_4_Swissraft_Activity_c853ff6d41.jpg"
-    },
-    {
-      "alternativeText": "Rafting Arve: Experience the white-water adventure with friends in the Swiss nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_5_Swissraft_Activity_2ee6b65808.jpg"
-    },
-    {
-      "alternativeText": "Rafting Arve: Exciting experience with friends in nature in summer. An thrilling team adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_6_Swissraft_Activity_ab48768465.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve with friends and guides in the mountains, exciting adventure in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_7_Swissraft_Activity_1438d65270.jpg"
-    },
-    {
-      "alternativeText": "Experience rafting on the Arve with friends, water sports, adventure, and pure nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_8_Swissraft_Activity_ced39a06ce.jpg"
-    },
-    {
-      "alternativeText": "Rafting Arve: Experience exciting adventures in the raft with friends in the nature of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_9_Swissraft_Activity_d12d713490.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve with a team of 8 people in exciting rapids.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_10_Swissraft_Activity_f20799c569.jpg"
-    },
-    {
-      "alternativeText": "Rafting: Experience exciting rafting on the Arve in Switzerland with groups and a sense of adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_11_Swissraft_Activity_6c8f1cb00d.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve in Switzerland. Experience adventure in summer with friends on the river.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_12_Swissraft_Activity_1c0e3fc8f3.jpg"
-    },
-    {
-      "alternativeText": "Rafting Arve: Experience an unforgettable water adventure with friends and groups in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_13_Swissraft_Activity_e1f7e43305.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve with friends, adventure in the mountains, experience kayaking and rafting with a team.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_14_Swissraft_Activity_1b0f9e8ab3.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve with friends, excitement in summer in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_15_Swissraft_Activity_d7c01e0d31.jpg"
-    },
-    {
-      "alternativeText": "Rafting on the Arve with adventure team experience in nature - ideal for groups and children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_16_Swissraft_Activity_35e79d9618.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "rafting"

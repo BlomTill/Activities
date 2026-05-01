@@ -5,17 +5,9 @@
   "description": "Discover Strolling and tasting - Culinary city tour in Winterthur in Switzerland.",
   "longDescription": "Discover Strolling and tasting - Culinary city tour in Winterthur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Strolling and Tasting with Interested Guests in the Garden",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Flanieren_und_Probieren_2_f44c4e8d3f.JPG"
-    },
-    {
-      "alternativeText": "House of Winterthur, person showing drinks from fridge, stone wall visible",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Flanieren_und_Probieren_1_1e352bdd63.JPG"
-    },
-    {
-      "alternativeText": "Strolling and Tasting in Winterthur: Participants enjoy culinary delights in 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Flanieren_und_Probieren_3_1d6e8eb984.JPG"
-    },
-    {
-      "alternativeText": "A woman in a red jacket sits in front of a shop window with colorful decorative items.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Flanieren_und_Probieren_Key_d5f5c4267d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

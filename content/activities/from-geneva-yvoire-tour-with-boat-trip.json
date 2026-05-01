@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: Yvoire tour with boat trip in Switzerland.",
   "longDescription": "Discover From Geneva: Yvoire tour with boat trip in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "The Garden of the Five Senses with well-tended garden and view of the Château d'Yvoire.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Le_Jardin_des_Cinq_Sens_Le_Tissage_et_vue_sur_le_chateau_d_Yvoire_JARDIN_5_SENS_YVOIRE_jpg_f44f0dd323.jpg"
-    },
-    {
-      "alternativeText": "Yvoire: Historical building with stone facade and flowers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4608833349_69e5fe4fe6_o_cfeb1c949d.jpg"
-    },
-    {
-      "alternativeText": "Château d'Yvoire with historic architecture and surrounding trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7823014000_5e37cb8029_o_a2fbb913f4.jpg"
-    },
-    {
-      "alternativeText": "Yvoire on Lake Geneva with Yachts and Nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7826513494_c7c76d14cd_o_3ec0684f49.jpg"
-    },
-    {
-      "alternativeText": "The old stone house in Yvoire shows colorful flowers and an idyllic surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14349341976_6af0a6d3ce_o_6ef9eb168b.jpg"
-    },
-    {
-      "alternativeText": "Steinhaus in Yvoire with flowers, stone wall, timber framing",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/23143240559_5972a459d4_k_1cbc88dbf2.jpg"
-    },
-    {
-      "alternativeText": "Schiff",
-      "caption": "Tour Yvoire mit Schifffahrt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b21dd2cce7420b42f4f6139b0b7b684.png"
-    },
-    {
-      "alternativeText": "Schiff Genfersee",
-      "caption": "Tour Yvoire mit Schifffahrt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/92548ac206a7c94f8034f3811aaa80cb.jpg"
-    },
-    {
-      "alternativeText": "Léman",
-      "caption": "Tour Yvoire mit Schifffahrt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1c52cc219e6938c876fefbd3b4cc08b7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat",

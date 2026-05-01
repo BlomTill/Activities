@@ -5,17 +5,9 @@
   "description": "Discover In Zurich: Excursion to Titlis with Freeride Ski Day in Switzerland.",
   "longDescription": "Discover In Zurich: Excursion to Titlis with Freeride Ski Day in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skifahrer am Titlis",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8287665f952e4cafb996aa0f80db4b2.jpg"
-    },
-    {
-      "alternativeText": "ice Flyer",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c65bb7c65961225af4912037e950cdd0.jpg"
-    },
-    {
-      "alternativeText": "Skifahrer am Titlis",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/330f5ad8d1e1963556d411db2f24de74.jpg"
-    },
-    {
-      "alternativeText": "Rotair",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f0ab6837effcba9071ff8f7dad58a9bd.jpg"
-    },
-    {
-      "alternativeText": "Titlis",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/83d36d2e8f91635fa7d8a922f2e27292.jpg"
-    },
-    {
-      "alternativeText": "Eishöhle",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b82b3019b0752bf651ac7acd8c5b7590.jpg"
-    },
-    {
-      "alternativeText": "Titlis Cliff Walk",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7c659f8cc708731d8a1792e816da02a.jpg"
-    },
-    {
-      "alternativeText": "Titlis Cliff Walk",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/75ff5c6f94c51ebf6b81f45e18843e10.jpg"
-    },
-    {
-      "alternativeText": "Winter Titlis",
-      "caption": "Tagestour Luzern und Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09c2a984082c1d38ca3c2d5fa8d6011e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

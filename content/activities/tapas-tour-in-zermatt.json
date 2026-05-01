@@ -5,17 +5,9 @@
   "description": "Discover Tapas tour in Zermatt in Switzerland.",
   "longDescription": "Discover Tapas tour in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Tapas Tour Zermatt with various flavors and creative platters.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tapas_Tour_Zermatt_4478_Event_951ee8c999.jpeg"
-    },
-    {
-      "alternativeText": "Tapas Tour Zermatt with various dishes and wine",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Tapas_Tour_Zermatt_4478_Event_65ffd95045.jpg"
-    },
-    {
-      "alternativeText": "Tapas served in Zermatt with fresh ingredients and bread",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tapas_Foto_My_Switzerland_3c578037bb.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

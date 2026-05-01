@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Private Day Trip to Four Countries in Switzerland.",
   "longDescription": "Discover From Zurich: Private Day Trip to Four Countries in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "75",
-    "title": "Private Autotour",
-    "slug": "private-car-tour",
-    "description": "Book your trip with a private chauffeur in Switzerland. You have a chauffeur with car all to yourself and your companion alone. Whether for a specific excursion of several hours or a whole day, you can enjoy the time with your partner or family and do not have to worry about anything. Most of the time the driver is also your guide, who can give you a lot of exciting information about the region."
-  },
+  "subcategory": "Private Autotour",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,88 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Deposit Viewpoint",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04d8c73afa232bd675f06ce5a00f415e.jpeg"
-    },
-    {
-      "alternativeText": "rhine-falls-viewpoint",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02a2a233d64735eb828484ffc30018ea.jpeg"
-    },
-    {
-      "alternativeText": "IMG_6829",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13f4eb9df7ced30cfbef01493ca4db77.jpg"
-    },
-    {
-      "alternativeText": "IMG_6832",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0411c79cbf43b4436e0c994e26448038.jpg"
-    },
-    {
-      "alternativeText": "konstanz-harbor",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f2986efa1391c175f9466ec91bfae30a.jpeg"
-    },
-    {
-      "alternativeText": "konstanz-promenade",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4743d113ab737feb1ed656ec06453eac.jpeg"
-    },
-    {
-      "alternativeText": "Constance",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a2f022201a0fa208764b83ea59857cf.jpeg"
-    },
-    {
-      "alternativeText": "Lake Constance",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6aa0df36e8678e7d838a946bc12e6f6c.jpeg"
-    },
-    {
-      "alternativeText": "VaduzCastle",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3ad29efd2422211d3c9d130500152507.jpeg"
-    },
-    {
-      "alternativeText": "steinamrhein2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3560920bdbcdd2ab22fa7bb777596446.jpeg"
-    },
-    {
-      "alternativeText": "steinam-rhein1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c75b0789b88a04e4c4791f2ff343d01.jpeg"
-    },
-    {
-      "alternativeText": "RhineFallsScenery",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb2715c249e0e599671c6284fdd85ce4.jpeg"
-    },
-    {
-      "alternativeText": "Mainau Botanical Garden",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1e7ff110f658b932c38d9c91638cc3bc.jpeg"
-    },
-    {
-      "alternativeText": "IMG_6824",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8fc6d9d9a6edeb369af149ccdb04da5c.jpg"
-    },
-    {
-      "alternativeText": "IMG_6820",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e9cc53ffba83fa462fab052b3e858d29.jpg"
-    },
-    {
-      "alternativeText": "mainau-island",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3064e05aa978de6959dcfa0c2da81f2f.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Bus tour to Interlaken in Switzerland.",
   "longDescription": "Discover In Geneva: Bus tour to Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Interlaken village with green surroundings, mountains, and houses.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_360_Keytours_excursions_Swisstours_interlaken_village5_2048_10_9e3a4f8f58.jpg"
-    },
-    {
-      "alternativeText": "View of Lake Thun, green mountain landscape, hikers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3050647059_80d467164c_b_962cf74f2d.jpg"
-    },
-    {
-      "alternativeText": "Allmendhubel with mountain view of Eiger, Mönch and Jungfrau",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Allmendhubel_Sommer_H2_A0080_webalbum_2_45960b3855.jpg"
-    },
-    {
-      "alternativeText": "View tower in Interlaken with guests and beautiful surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/interlaken_2390468_1920_75623bcdb2.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Interlaken with a view of the mountains and the river",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_360_Keytours_excursions_Swisstours_interlaken_village3_2000_10_7a79139645.jpg"
-    },
-    {
-      "alternativeText": "Interlaken ",
-      "caption": "Bustour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0040ef7cf9b2829a1ced300e29dd2ddb.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

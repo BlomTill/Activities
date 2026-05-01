@@ -5,17 +5,9 @@
   "description": "Discover Zurich tour: Bus trip to Rigi and Lucerne with cruise in Switzerland.",
   "longDescription": "Discover Zurich tour: Bus trip to Rigi and Lucerne with cruise in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rigi",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/044a906365ce2717930a35aae445c09e.jpg"
-    },
-    {
-      "alternativeText": "Rigi",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6d1f1faae840d910a8d6119fdef06953.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ae4dcd515ddb25a199778b6f793dcd07.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/340bb0a15e2da2bf6c986d172cdfd955.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d3ae2e618ed51dc24b0d49f6812f2cc7.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d275abf8d8dbcd2c738ed6262f1c68d.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/00a5cf236bf6a44ff064fcc1984c7ad2.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8364a5c7a41fdbb516be34fdedde88eb.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Tagesausflug Keytours",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc661ce8e8202acfad9a2cf592c31eed.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

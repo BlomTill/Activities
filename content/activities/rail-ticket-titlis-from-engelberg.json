@@ -5,17 +5,9 @@
   "description": "Discover Titlis Ticket from Engelberg in Switzerland.",
   "longDescription": "Discover Titlis Ticket from Engelberg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,58 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rotair Titlis cable car rides over snow-covered mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rotair_auf_den_Titlis_44e582de34.jpeg"
-    },
-    {
-      "alternativeText": "Titlis Cliff Walk with hikers over snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Titlis_Cliff_Walk_cbb61ec386.jpeg"
-    },
-    {
-      "alternativeText": "Rowing on the Trübsee at Titlis, clear water surface, beautiful mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rudern_Titlis_Truebsee_785c6e3e73.jpeg"
-    },
-    {
-      "alternativeText": "Hiking Titlis with family, green hiking trail, mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wandern_1_f56e7bc8bb.jpeg"
-    },
-    {
-      "alternativeText": "Truebsee Summer Activities: Kayaker on calm water, surrounded by mountains and green grass.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Truebsee_Sommer_87901e798b.jpeg"
-    },
-    {
-      "alternativeText": "Rowing on clear water with mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Truebsee_Rudern_c012a37b8a.jpeg"
-    },
-    {
-      "alternativeText": "Wander paradise Titlis, hiker on path, green meadows, mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wandern_2_766f2bfa14.jpeg"
-    },
-    {
-      "alternativeText": "Rotair Titlis Cable Car Travels Over Glacier in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seilbahn_Rotair_3c2bc9ca4d.jpeg"
-    },
-    {
-      "alternativeText": "Truebsee Bag Jump with jumping participant in summer 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Truebsee_Bag_Jump_3a260a0bcd.jpeg"
-    },
-    {
-      "alternativeText": "Titlis Cable Cars Map with Lifts and Routes",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Titlis_Bergbahnen_Plan_32fba7a8da.jfif"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover From Grindelwald: Private hike to First and Bachalpsee with a Swiss triathlete in Switzerland.",
   "longDescription": "Discover From Grindelwald: Private hike to First and Bachalpsee with a Swiss triathlete in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "IMG_7527",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4f4b419dd950b3951e5d448ad3dfd3ed.jpg"
-    },
-    {
-      "alternativeText": "IMG_6664",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66bb64356fc6346a790ba7e6a3e284f3.jpg"
-    },
-    {
-      "alternativeText": "IMG_2296",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d443d876508edf6b4deb6e8acba82dc1.jpg"
-    },
-    {
-      "alternativeText": "IMG_6654",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b1f7bc60cc2beb9a6d5df926271c54a.jpg"
-    },
-    {
-      "alternativeText": "IMG_6655",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb2f608bed570a4499351ad41106c111.jpg"
-    },
-    {
-      "alternativeText": "IMG_6681",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d337b3349cac940e90e66e443303c7cd.jpg"
-    },
-    {
-      "alternativeText": "IMG_6682",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3bbcaa229c1cce77893d4364b070f32b.jpg"
-    },
-    {
-      "alternativeText": "IMG_6690",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/880f5822f51e7fa980ddd928a9eb51de.jpg"
-    },
-    {
-      "alternativeText": "IMG_7474",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a793c298dafe2f15b00c58af3b45bcb0.jpg"
-    },
-    {
-      "alternativeText": "IMG_7492",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a114a114cec4f178ad917fd092763938.jpg"
-    },
-    {
-      "alternativeText": "IMG_7505",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d89815e817009ccebb32a1daa086957e.jpg"
-    },
-    {
-      "alternativeText": "IMG_7518",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31653f19aa47d46e669f0f6ce1b55703.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

@@ -5,17 +5,9 @@
   "description": "Discover \"Jungle Quest\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover \"Jungle Quest\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VR Jungle Quest: Experience adventures in a digital jungle world with your team and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_1_2c27dfd234.jpg"
-    },
-    {
-      "alternativeText": "VR Jungle Quest: virtual reality adventure in the jungle with lush vegetation and futuristic elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_3_251660dd69.jpg"
-    },
-    {
-      "alternativeText": "VR Jungle Quest: Experience exciting adventures and team actions in the virtual jungle.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_5_45a3664624.jpg"
-    },
-    {
-      "alternativeText": "VR Jungle Quest: Experience the jungle in a virtual space with exciting adventures and nature experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_4_a370b4f10b.jpg"
-    },
-    {
-      "alternativeText": "VR Jungle Quest: Players with VR headset experience an exciting adventure in the jungle.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_2_ee416153ed.jpg"
-    },
-    {
-      "alternativeText": "VR Jungle Quest: Discover fascinating jungle adventures with animals and artistic ruins.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_7_f77a2aa2b4.jpg"
-    },
-    {
-      "alternativeText": "VR Jungle Quest: Discover an exciting virtual jungle world full of adventures and animals.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_8_e38bb262b3.jpg"
-    },
-    {
-      "alternativeText": "VR Jungle Quest: Explore interactive nature with plants and fascinating lights.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_9_57e887faf5.jpg"
-    },
-    {
-      "alternativeText": "VR Jungle Quest: Experience an exciting adventure with rhinoceros in a lush jungle world.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_10_3527351bdc.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

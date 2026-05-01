@@ -5,17 +5,9 @@
   "description": "Discover Inflatable Boat Day Trip Reuss from Bremgarten to Gebenstorf in Switzerland.",
   "longDescription": "Discover Inflatable Boat Day Trip Reuss from Bremgarten to Gebenstorf in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "27",
-    "title": "Böötle",
-    "slug": "boeoetle",
-    "description": "Find the right river and book your Böötle experience here. Whether in the Aare, on the Limmat or on the Rhine, rafting is a leisure activity that is possible on almost every river and enjoys immense popularity in Switzerland. More and more providers make the boat available to you ready to float and pick it up again at the drop-off point. It is important to note that you should get off the boat in good time before dangerous places, power stations and weirs."
-  },
+  "subcategory": "Böötle",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,73 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (15)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b76ba40e4786ce7fa74f4296ef92593.jpg"
-    },
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (23)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/174abb9eeb71a2cead4822b0c6bcc344.jpg"
-    },
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (22)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6dc06c6dae3c552b1fafde80ab031dd0.jpg"
-    },
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (19)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/995661d9de5741e132d6c1f70c9d52b4.jpg"
-    },
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (8)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7600fa29d3c63d449dfe69245984743e.jpg"
-    },
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (10)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87062f94f172725dcb6839e1e8932b06.jpg"
-    },
-    {
-      "alternativeText": "Inflatable Boat Reuss Swiss River Adventures (12)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5992c4c0e069b484db8253e547c727fa.jpg"
-    },
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (7)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d2ef7d67efed93d56ecbdb22af46cfcb.jpg"
-    },
-    {
-      "alternativeText": "Inflatable Boat Reuss Swiss River Adventures (6)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c35f971ba1f6af492f2e8b0f2441681e.jpg"
-    },
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (4)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ab3b4e60268befe9ea1ff40922b9385.jpg"
-    },
-    {
-      "alternativeText": "Inflatable boat Reuss Swiss River Adventures (3)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c40f18d45ddcd21f82756af35fd8a321.jpg"
-    },
-    {
-      "alternativeText": "Inflatable Boat Reuss Swiss River Adventures (17)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da50492bfb988361eff3fbb408813b6c.jpg"
-    },
-    {
-      "alternativeText": "Inflatable Boat Reuss Swiss River Adventures (28)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f9c70a7404a3123a04705bf02831c2e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat"

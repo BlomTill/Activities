@@ -5,17 +5,9 @@
   "description": "Discover Gorge Alpine via ferrata in summer in Switzerland.",
   "longDescription": "Discover Gorge Alpine via ferrata in summer in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "36",
-    "title": "Via ferrata",
-    "slug": "via-ferrata",
-    "description": "Find the via ferrata that suits you best and book a tour led by an experienced mountain guide or rent your equipment here. Via Ferrata, also known under the Italian name \"Via Ferrata\", provide a thrill and an unforgettable climbing experience. Depending on the level of difficulty, previous experience is necessary. However, there are also via ferratas that can be climbed without experience. Well secured, you will master steep ascents and airy traverses. Via ferrata routes can be found all over Switzerland. Starting in the Valais to the Bernese Oberland, Central Switzerland and the Grisons Alps."
-  },
+  "subcategory": "Via ferrata",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Via Ferrata: Experience spectacular adventures in the Gorge, ideal for outdoor enthusiasts and groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1567_a87d5416b4.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata: Secure your adrenaline rush in the Alpine Gorge with nature and adventure in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_8358_scaled_9b7b3dc3a1.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata: Hiking across suspended ladders in the Alpine Gorge, surrounded by tall trees and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_02359_835701b815.JPG"
-    },
-    {
-      "alternativeText": "Via Ferrata Gorge Alpine: Experience the wild nature and spectacular rocks during your climbing adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_03896_Kopie_9d752dd2c5.jpg"
-    },
-    {
-      "alternativeText": "Via ferrata: Safe climbing in the gorge amidst alpine nature and active adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1561_c06e57e8ad.jpg"
-    },
-    {
-      "alternativeText": "Klettersteig Gorge Alpine: Experience the beautiful nature while climbing along the water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1576_105016497c.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata: Experience climbing in the Gorge Alpine with nature and adventure for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_8590_fb589ce02b.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata in the Gorge: Experience an Alpine Adventure for Nature and Sports Enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P1030896_d3a99f3014.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

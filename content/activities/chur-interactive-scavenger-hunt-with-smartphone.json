@@ -5,17 +5,9 @@
   "description": "Discover Chur interactive scavenger hunt with smartphone in Switzerland.",
   "longDescription": "Discover Chur interactive scavenger hunt with smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Escape Game Chur: Discover thrilling adventures in the city of Chur with your team.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/chur_carousel_1_84767c12fd.jpg"
-    },
-    {
-      "alternativeText": "Escape Game Chur: Players discover exciting puzzles and adventures in the city of Chur.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/chur_carousel_3_99e74d178d.jpg"
-    },
-    {
-      "alternativeText": "Escape Game Chur: Experience exciting adventures in a team with your friends in Chur.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/chur_carousel_4_d84285de4d.jpg"
-    },
-    {
-      "alternativeText": "Escape Game Chur: Fun activity for groups and friends in the old town of Chur.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/chur_carousel_5_ba2ed3a42b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

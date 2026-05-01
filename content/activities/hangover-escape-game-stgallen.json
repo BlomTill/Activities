@@ -5,17 +5,9 @@
   "description": "Discover \"Hangover\" Escape Game St. Gallen in Switzerland.",
   "longDescription": "Discover \"Hangover\" Escape Game St. Gallen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Escape Game: Friends enjoy an exciting game night at a bar. Ideal for group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2b74455b455984956f72e15dbfc85046.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Fun with friends in a lively city, teamwork and adventure sought.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cd27fc42acac22683cb82ece8e1b0471.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Look forward to exciting adventures with friends over a drink and snacks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7fc860d0979227857854cec221538ea8.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Experience an exciting team adventure with friends in a unique atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5f4cb77f298a66236446bb4f5c1ee7cf.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Enjoy exciting adventures with your team in this thrilling experience.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8bab9e2a7f7e6079307570cb580900ca.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Experience an exciting Escape Room adventure with friends while playing cards and enjoying drinks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/af0af03a0d6a78b853518c855e661a0c.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Enjoying the card game in a social setting with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5ff115b5d743b6ed89e9b6fbbde76d85.jpg"
-    },
-    {
-      "alternativeText": "Hangover: Experience an exciting escape game with friends in an thrilling environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ecb76257ce701c797a6397dc63331bea.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

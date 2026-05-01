@@ -5,17 +5,9 @@
   "description": "Discover Wine tour, spa, and Tamina Gorge in Switzerland.",
   "longDescription": "Discover Wine tour, spa, and Tamina Gorge in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -48,46 +40,14 @@
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
   "gallery": [
-    {
-      "alternativeText": "[object Object]",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlucht_Bad_Ragaz_b5ea8d08d9.jpg"
-    },
-    {
-      "alternativeText": "Bad Pfäfers, historical building surrounded by trees and rocks",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_94e65c08b5b540698939e0a97ed2397e_mv2_d_3456_2304_s_2_d8163ad783.jpg"
-    },
-    {
-      "alternativeText": "Winemaker lunch with cheese, sausage, and bread on the table",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winzerlunch_Weintour_c01452d1d7.JPG"
-    },
-    {
-      "alternativeText": "Wine tour Bündner Herrschaft with Mercedes bus in vineyards",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_212c94b70ead4ede98c2c13dd54c4da4_mv2_d_6000_4000_s_4_2_455a70e9df.jpg"
-    },
-    {
-      "alternativeText": "Grape culture in Graubünden with ripe grapes on the vine.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rebkultur_Graubuenden_8cc77f705b.JPG"
-    },
-    {
-      "alternativeText": "Wine cellar tour with wine barrels in a wine cellar.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kellnerei_Weintour_e089f66277.JPG"
-    },
-    {
-      "alternativeText": "Tamina Spa with heated pool and stone landscape, relaxing environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tamina_Therme_37f18bd787.jpg"
-    },
-    {
-      "alternativeText": "Tamina Spa with Water Reflection and Modern Design",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_fa95aa74a925451191d1123909405dd6_mv2_314941edce.jpg"
-    }
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlucht_Bad_Ragaz_b5ea8d08d9.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_94e65c08b5b540698939e0a97ed2397e_mv2_d_3456_2304_s_2_d8163ad783.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winzerlunch_Weintour_c01452d1d7.JPG",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_212c94b70ead4ede98c2c13dd54c4da4_mv2_d_6000_4000_s_4_2_455a70e9df.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rebkultur_Graubuenden_8cc77f705b.JPG",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kellnerei_Weintour_e089f66277.JPG",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tamina_Therme_37f18bd787.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_fa95aa74a925451191d1123909405dd6_mv2_314941edce.jpg"
   ],
   "highlights": [],
   "tags": [

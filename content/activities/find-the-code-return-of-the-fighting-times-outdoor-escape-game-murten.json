@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Return of the Fighting Times\" Outdoor Escape Game Murten in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Return of the Fighting Times\" Outdoor Escape Game Murten in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-murten",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bd9cb14e82273be0a9bf8987eb098876.jpg"
-    },
-    {
-      "alternativeText": "group-photo-wide-front-happy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/468ff1f526451803047b80759023be55.jpg"
-    },
-    {
-      "alternativeText": "Map1-Murten",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/649363e826c43e94e62aa77f5fb1fe96.jpg"
-    },
-    {
-      "alternativeText": "Map2-Murten",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0e1bf1ebc1773f407e941d6ffe81631d.jpg"
-    },
-    {
-      "alternativeText": "group_crosswise_side_happily-chatting-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64d1669f1a31337d207eb2e5fb25e0d4.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Half-day trip to Chamonix Mont-Blanc with Aiguille du Midi in Switzerland.",
   "longDescription": "Discover In Geneva: Half-day trip to Chamonix Mont-Blanc with Aiguille du Midi in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chamonix Mont-Blanc",
-      "caption": "Chamonix Mont-Blanc mit Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/798ac89325b31ad2210338ec21c22da9.jpg"
-    },
-    {
-      "alternativeText": "Chamonix Mont-Blanc",
-      "caption": "Chamonix Mont-Blanc mit Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/225ccc837ca90985b389d76a9adb7d8c.jpg"
-    },
-    {
-      "alternativeText": "Chamonix Mont-Blanc",
-      "caption": "Chamonix Mont-Blanc mit Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/25b36302e34d9b5351637255c9543102.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Chamonix Mont-Blanc mit Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f141d628b92c73998667a9ac10231d0.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Chamonix Mont-Blanc mit Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7bd004eeaf26ac0af29ae020919a4cd0.JPG"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Chamonix Mont-Blanc mit Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10d57d0fabba63f93154cf991b221efe.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Chamonix Mont-Blanc mit Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8512fbe946693be33e84193e2ba2711c.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Chamonix Mont-Blanc mit Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/731b823f004bf790afd0e121aecb433e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

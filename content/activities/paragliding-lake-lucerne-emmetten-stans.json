@@ -5,17 +5,9 @@
   "description": "Discover Paragliding Emmetten Lake Lucerne from Stans in Switzerland.",
   "longDescription": "Discover Paragliding Emmetten Lake Lucerne from Stans in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Emmetten",
-      "caption": "Gleitschirmfliegen ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0fc0153fd15bb0e9d3d505499d05a999.jpg"
-    },
-    {
-      "alternativeText": "Emmetten",
-      "caption": "Gleitschirmfliegen ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/903c5e5dffd00863c331006ffff9a53a.JPG"
-    },
-    {
-      "alternativeText": "Emmetten",
-      "caption": "Gleitschirmfliegen ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1a007243dc80fdf84e30e342c2c18cb2.jpg"
-    },
-    {
-      "alternativeText": "Emmetten",
-      "caption": "Gleitschirmfliegen ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebb2081a48fd2cb3ffc6b92485303aeb.jpg"
-    },
-    {
-      "alternativeText": "G0029184",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f4dcfe85c7103ba24378ae9c3538b4cd.jpg"
-    },
-    {
-      "alternativeText": "G0039197",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/994b0e6dd73d4aa6be9ac78f417d1fa1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding",

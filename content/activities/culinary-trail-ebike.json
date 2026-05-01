@@ -5,17 +5,9 @@
   "description": "Discover Self-Guided E-Bike Culinary Trail from Flims in Switzerland.",
   "longDescription": "Discover Self-Guided E-Bike Culinary Trail from Flims in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "48",
-    "title": "E-bike",
-    "slug": "e-bike",
-    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
-  },
+  "subcategory": "E-bike",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rast unterwegs",
-      "caption": "Flims Laax Biketour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3533f9ce9632375395f637183e67d32f.jpg"
-    },
-    {
-      "alternativeText": "Rheinschlucht",
-      "caption": "Flims Laax Biketour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/007e7006742c88403fab84c1470ed38f.jpg"
-    },
-    {
-      "alternativeText": "unterwegs mit dem E-Bike",
-      "caption": "Flims Laax Biketour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c8247a24f7f47c25ae5141b3d7b5f90.jpg"
-    },
-    {
-      "alternativeText": "Rheinschlucht",
-      "caption": "Flims Laax Biketour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f4f9c20c3e3a7f3fde956b14170260a2.jpg"
-    },
-    {
-      "alternativeText": "Kulinarik",
-      "caption": "Flims Laax Biketour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/98526a13e9fed72ea1407ac9c835aace.jpg"
-    },
-    {
-      "alternativeText": "Rheinschlucht",
-      "caption": "Flims Laax Biketour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4df04f3f5b8c0fb6496819512a577c0f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

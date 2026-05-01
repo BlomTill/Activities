@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Ski day in Chamonix Mont-Blanc in Switzerland.",
   "longDescription": "Discover In Geneva: Ski day in Chamonix Mont-Blanc in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Valle Blanche Skifahren",
-      "caption": "Skitag Mont Blanc",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0870eb28fc891640bee3f3d46dcf5c99.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc",
-      "caption": "Skitag Mont Blanc",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ddbdd187e8af42f087b5e32673489ac7.jpg"
-    },
-    {
-      "alternativeText": "Grands Montets Glacier with snow and ice formations in winter 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grands_Montets_OT_Vallee_de_Chamonix_Salome_Abrial_900734511c.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc skiing on snowy terrain, clear visibility, sunshine, alpine landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mont_Blanc_F_Bianchi_5fb312d3f3.JPG"
-    },
-    {
-      "alternativeText": "Alpine skiing summit panorama in winter with snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/alps_2194322_6c31e2958b.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc while skiing shows snow-covered mountains and clear sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mont_Blanc_depuis_Aiguille_du_Midi_Cie_du_MB_c2f90e2d75.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc",
-      "caption": "Skitag Mont Blanc",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8de90f3f9ff9ad49ebb0a4af3cc1939c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

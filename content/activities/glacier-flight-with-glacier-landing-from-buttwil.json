@@ -5,17 +5,9 @@
   "description": "Discover Helicopter flight over the Steingletscher with glacier landing from Buttwil in Switzerland.",
   "longDescription": "Discover Helicopter flight over the Steingletscher with glacier landing from Buttwil in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "407_Sustenlimmi",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb7dd21efe166ff450306e7947bdff66.jpeg"
-    },
-    {
-      "alternativeText": "csm_heliski_switzerland_03_e8f474044b",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/abefb2225ccd99710c6eb05498762dd0.jpg"
-    },
-    {
-      "alternativeText": "IMG_3692",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dcebdb32d2beb534c67bcaab41eedc9d.jpg"
-    },
-    {
-      "alternativeText": "Reservoir",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebb1a031bf963d1dd5d70b0f741fceb7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "glacier"

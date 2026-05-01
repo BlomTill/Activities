@@ -5,17 +5,9 @@
   "description": "Discover Day program movie theater Museum of Transport Lucerne in Switzerland.",
   "longDescription": "Discover Day program movie theater Museum of Transport Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "51",
-    "title": "Museums",
-    "slug": "museums",
-    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
-  },
+  "subcategory": "Museums",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Turtle swimming in the ocean, coral reef, audience in the cinema",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_7052c65d1c2fb5cb9d126c6610b853aa_2f07132151.jpg"
-    },
-    {
-      "alternativeText": "Cinema visitors wearing 3D glasses watching a movie",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_bfdd3742737b8e07ca1bfbd7aec57397_793001ae93.jpg"
-    },
-    {
-      "alternativeText": "Cinema with viewers during a film screening in front of impressive landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Filmtheater_Verkehrshaus_Spielfilm_151b064fdc.jpg"
-    },
-    {
-      "alternativeText": "Underwater world with dolphin and coral reef in the cinema",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Filmtheater_Verkehrshaus_Tagesprogramm_Leinwand_cf7734da9f.jpg"
-    },
-    {
-      "alternativeText": "Sea turtle swimming in clear water off the coast",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Doku_Kino_Meeresschildkroeten_f5e98e2cd8.jpg"
-    },
-    {
-      "alternativeText": "Animated film with characters in a forest, boy talking to a large animal",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kino_Verkehrshaus_1_f09b839ea7.jpg"
-    },
-    {
-      "alternativeText": "Cave Worlds at the Transport Museum 2023: Diver Explores Underwater",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kino_Verkehrshaus_Doku_66dc99ee30.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "museum",

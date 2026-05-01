@@ -5,17 +5,9 @@
   "description": "Discover  Thurgau distillery brunch at the Macardo distillery in Switzerland.",
   "longDescription": "Discover  Thurgau distillery brunch at the Macardo distillery in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30390",
-    "title": "Brunch",
-    "slug": "brunch",
-    "description": "Book a brunch here for a cozy get-together. A brunch is a combination of breakfast and lunch, usually taking place in the morning or early afternoon. At a brunch, a variety of dishes are offered, which can include both breakfast and lunch items, like eggs, pastries, salads, hot dishes, and desserts. Besides the classic brunch in a restaurant, you'll also find it in unusual places like in a tuk-tuk, on a boat, or at the top of a mountain."
-  },
+  "subcategory": "Brunch",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Brunch: Mood-enhancing table decoration with flowers in a modern restaurant.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunch_2022_25_von_42_4d60468c89.jpg"
-    },
-    {
-      "alternativeText": "Brunch with fresh rolls and pastries at the Brenner Restaurant, perfect for a cozy gathering.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunch_2022_40_von_42_04a4e47938.jpg"
-    },
-    {
-      "alternativeText": "Brenner Brunch: Delicious baked goods and fresh breakfast options at the Brenner. Enjoy the pleasure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brunch_2022_42_von_42_d3edb87afc.jpg"
-    },
-    {
-      "alternativeText": "Brenner Brunch: Variety of fresh dishes and drinks in a stylish atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_2804_2_5d99805441.jpeg"
-    },
-    {
-      "alternativeText": "Brenner Brunch: Delicious pastry variations and fresh fruits in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_5925_3691d81839.jpeg"
-    },
-    {
-      "alternativeText": "Brenner Brunch: modern restaurant with elegant interior and view of the landscape, ideal for breakfast.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Macardo_Fruehstueck_01_5d8b08ca9a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

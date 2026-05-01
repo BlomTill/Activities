@@ -4,7 +4,7 @@ import { blogPosts } from "@/lib/content/selectors";
 import { itineraries } from "@/lib/content/selectors";
 import { getDestinationSummaries } from "@/lib/destinations";
 
-const BASE_URL = "https://exploreswitzerland.ch";
+const BASE_URL = "https://realswitzerland.ch";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const activityPages = activities.map((activity) => ({

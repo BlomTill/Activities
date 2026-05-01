@@ -5,17 +5,9 @@
   "description": "Discover Intuitive Archery for Team Events, Families, and Groups in Switzerland.",
   "longDescription": "Discover Intuitive Archery for Team Events, Families, and Groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30614",
-    "title": "Shooting and Throwing Sports",
-    "slug": "shooting-and-throwing-sports",
-    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
-  },
+  "subcategory": "Shooting and Throwing Sports",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bogenschiessen",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b8b8b566aacbc020e92b4c57f8414d0e.jpeg"
-    },
-    {
-      "alternativeText": "Bogenschiessen",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e3f4c3840e2e79dd096084472cc22b4.JPG"
-    },
-    {
-      "alternativeText": "Bogenschiessen",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1861787b29ebf391e3b30e1339c913b2.jpg"
-    },
-    {
-      "alternativeText": "Bogenschiessen",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/acdb6a7f7c74dec1f4d03769d044d4bc.jpg"
-    },
-    {
-      "alternativeText": "Bogenschiessen",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/689e2e794b57e7d5cd6088e208b47bf4.jpg"
-    },
-    {
-      "alternativeText": "Bogenschiessen",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e3d9d8e912c17dc5b5734e0dbd6f523c.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

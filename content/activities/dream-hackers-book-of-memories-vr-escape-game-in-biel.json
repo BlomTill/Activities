@@ -5,17 +5,9 @@
   "description": "Discover \"Dream Hackers: Book of Memories\" VR Action Game in Biel in Switzerland.",
   "longDescription": "Discover \"Dream Hackers: Book of Memories\" VR Action Game in Biel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Szene in Dream Hackers",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/35a9207b9bc006f9e77f5a5fe744a14e.jpg"
-    },
-    {
-      "alternativeText": "VR-Spieler",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a05f209fc75c1720a1202b3e277b3859.png"
-    },
-    {
-      "alternativeText": "Dream Hackers",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/69d2eec8f9d3abbb95e44f201170c2f6.jpg"
-    },
-    {
-      "alternativeText": "Dream Hackers",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/928abc8f8fed046300a085f6be2be5ae.jpg"
-    },
-    {
-      "alternativeText": "Railway",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/675b9f64bd642c56a3abdcfd8faa7595.jpg"
-    },
-    {
-      "alternativeText": "Spielerin mit VR Brille",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/330ecb1c6885b2b2a878e71e6c8dc945.jpg"
-    },
-    {
-      "alternativeText": "Spielerin mit VR Brille",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fc4b43e122cb1e21995163e3e0a3af47.jpg"
-    },
-    {
-      "alternativeText": "Spielerin mit VR Brille",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/19a69a4bc8c5ac5315fb8c2f67a37637.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

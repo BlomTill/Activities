@@ -5,17 +5,9 @@
   "description": "Discover From Lucerne: Flavours of Switzerland luxury day tour in Switzerland.",
   "longDescription": "Discover From Lucerne: Flavours of Switzerland luxury day tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,68 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Food in the mountains: fresh strawberries, blueberries, and cheese presented amidst nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_42_1_8ff9f50e9f.JPG"
-    },
-    {
-      "alternativeText": "Flavours of Switzerland: Snacks by the lake with sweet treats and a view of the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_6701_6958f8e8e8.jpg"
-    },
-    {
-      "alternativeText": "See with a reflection of the mountains in the nature of Switzerland, perfect for relaxing and enjoying.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1533_472f62002e.jpg"
-    },
-    {
-      "alternativeText": "Flavours of Switzerland: Couple by the lake, enjoy nature, romantic vibe, idyllic landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_0039_15792fe360.jpg"
-    },
-    {
-      "alternativeText": "Food in the Mountains: delicious dishes and the impressive mountain landscape of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_27_1_617764fd38.JPG"
-    },
-    {
-      "alternativeText": "Flavours of Switzerland: Fresh fruits and flowers on a table for group meals in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2272a8e09f3840a4a4bc3c0aea57b33e.JPG"
-    },
-    {
-      "alternativeText": "Flavours of Switzerland: picturesque village in nature with green meadows and mountain view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ab412017b966d984a16e369e1cc0323f.jpg"
-    },
-    {
-      "alternativeText": "Grilling in Nature: Grilled Sausages and Vegetables with a Breathtaking Mountain View.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c8475937c3225b033c6444621011d470.jpg"
-    },
-    {
-      "alternativeText": "Flavours of Switzerland: impressive mountains and idyllic landscapes in Switzerland in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b9a7aee725e9410fe29757b26fc4044c.jpg"
-    },
-    {
-      "alternativeText": "Lake with green water, trees and mountain landscape in Switzerland in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1deef701c93a3502897b32196ee27678.jpg"
-    },
-    {
-      "alternativeText": "Food by the lake with cheese, fruits, and a view of the Swiss mountains in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cd5daa42382108d36c897bddec415911.jpg"
-    },
-    {
-      "alternativeText": "Flavours of Switzerland: Colorful fruits in front of picturesque mountains in summer in the countryside.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d24037f8acad39dc6de95efd035008ec.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

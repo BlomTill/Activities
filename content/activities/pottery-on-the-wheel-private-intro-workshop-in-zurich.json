@@ -5,17 +5,9 @@
   "description": "Discover \"Pottery on the Wheel\": Private Intro Workshop in Zurich in Switzerland.",
   "longDescription": "Discover \"Pottery on the Wheel\": Private Intro Workshop in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "IMG_4424",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3eb6d56ca575439b749dea788bf4d4b5.jpeg"
-    },
-    {
-      "alternativeText": "Hub",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebb507b08ffdf1a5367b91510ce86bc5.jpeg"
-    },
-    {
-      "alternativeText": "IMG_7238",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2bc3733bdcd47049a9c089ae29db4cd6.jpeg"
-    },
-    {
-      "alternativeText": "IMG_8693",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e777c8cff7ba865365a91cfd9c5233d6.jpg"
-    },
-    {
-      "alternativeText": "IMG_9032",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f1518e66726216c29b8024b7bb193522.jpeg"
-    },
-    {
-      "alternativeText": "IMG_9034",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26faef117179e1002e209086c708886e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Canyon Swing over the Pissot Gorge in Château-d'Oex in Switzerland.",
   "longDescription": "Discover Canyon Swing over the Pissot Gorge in Château-d'Oex in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "45",
-    "title": "Bungee jumping",
-    "slug": "bungee-jumping",
-    "description": "Experience the special kick and book your next bungee jump here. For adrenaline junkies there are many opportunities for bungee jumping in Switzerland. There is even a jumping location that became world famous through the 007 movie \"GoldenEye\": the dam in the Verzasca Valley in the south of Switzerland. Here you jump from a 220-meter-high dam wall. This is the third highest bungee jump in the world."
-  },
+  "subcategory": "Bungee jumping",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Canyon Swing: exciting activity above the Pissot Gorge in summer among the trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ccc05646e2bee72a0c873074fc0ad972.jpg"
-    },
-    {
-      "alternativeText": "Canyon Swing: experience the thrill of this adventure in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9145445cbffa2e836bf0dac27b3b445e.jpg"
-    },
-    {
-      "alternativeText": "Canyon Swing: swing through the air above trees and experience the thrill of nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ce47e60a53cdfa74157508b42a264a46.jpg"
-    },
-    {
-      "alternativeText": "Canyon Swing: Swinging through the trees in nature during summer, an exciting adventure for everyone.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/78a385560426ff2371cf1404931566a8.jpg"
-    },
-    {
-      "alternativeText": "Canyon Swing: Experience the thrill of bungee jumping over trees and rivers in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8eda4bac1c09275cdf4ddba7bbc21093.jpg"
-    },
-    {
-      "alternativeText": "Canyon Swing: Experience the thrill of the pendulum jump at dangerous heights.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d81c3d37ba178445632cfe2d28161808.JPG"
-    },
-    {
-      "alternativeText": "Canyon Swing: Experience the thrill of the pendulum jump between colorful forests in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ed3a4eea0761712edd262f1c2b42de93.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

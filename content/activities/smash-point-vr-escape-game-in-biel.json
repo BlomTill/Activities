@@ -5,17 +5,9 @@
   "description": "Discover \"Smash Point\" VR Game in Biel in Switzerland.",
   "longDescription": "Discover \"Smash Point\" VR Game in Biel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Szene in Smash Point",
-      "caption": "VR Spiel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/98577ef69c8dc9deddc295025808a345.jpg"
-    },
-    {
-      "alternativeText": "Smash Point",
-      "caption": "VR Spiel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e5b02ecb3a66eb9d0db4f0a0b9a87e1.jpg"
-    },
-    {
-      "alternativeText": "Smash Point",
-      "caption": "VR Spiel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/619b7845facce509d71525b69859c789.jpg"
-    },
-    {
-      "alternativeText": "Smash Point",
-      "caption": "VR Spiel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e6ed622ade445f8528fe5b69611d1ca2.jpg"
-    },
-    {
-      "alternativeText": "Raum",
-      "caption": "VR Spiel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2cc51be8b3c4c60933e0256d99b49b60.jpg"
-    },
-    {
-      "alternativeText": "Spieler",
-      "caption": "VR Spiel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/baad913a5276f70c7161b07ffadc16b3.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

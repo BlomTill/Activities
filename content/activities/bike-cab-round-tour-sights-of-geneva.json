@@ -5,17 +5,9 @@
   "description": "Discover Bike cab round tour sights of Geneva in Switzerland.",
   "longDescription": "Discover Bike cab round tour sights of Geneva in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Sightseeing Geneva: Discover the city in a modern taxi, ideal for groups and children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Genf_Zentrum_Fahrradtaxi_Welo_83ef910aad.jpg"
-    },
-    {
-      "alternativeText": "Bike Taxi Geneva: Experience the city with the Taxi Bike, ideal for groups and children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fahrradtaxi_Welo_9cabe33e22.jpg"
-    },
-    {
-      "alternativeText": "Bike taxi: Discover Geneva with bike taxis along the promenade in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fahrradtaxis_Welo_7a99a9758d.jpg"
-    },
-    {
-      "alternativeText": "Jet d'eau: impressive fountain in Geneva with a view of the lake and the city in the afternoon.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Jet_d_eau_Welo_9e275a813e.jpg"
-    },
-    {
-      "alternativeText": "Bike taxi sightseeing Geneva: Discover Geneva's attractions and beautiful landscapes in a bike taxi.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schokolade_Fahrradtaxi_1_Velo_26a2465fc7.jpg"
-    },
-    {
-      "alternativeText": "Bike taxi sightseeing Geneva: Explore the city enjoyably in a bike taxi with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schokolade_Fahrradtaxi_Velo_efe6cc7fed.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

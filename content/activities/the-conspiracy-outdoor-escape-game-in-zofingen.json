@@ -5,17 +5,9 @@
   "description": "Discover \"The Conspiracy\" Outdoor Escape Game in Zofingen in Switzerland.",
   "longDescription": "Discover \"The Conspiracy\" Outdoor Escape Game in Zofingen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4e76709414568948ddcab91296bd92ab.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec2df32fa31c6a43236355b51e533e7c.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc39396432ef8ae18639ff744c63a83f.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8327bd771bd3b582083064b07e8946ab.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d8bf3969aa5f99e64d3b8f7e9ddae93e.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f668e98e01999937816a295c7ee98cb9.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3b30c19740b19ec67fd2166abe442182.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2a159217e6911daeeb33159ebfa9f843.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1a2f5a49b44682b33c49c0ee49516fec.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eabeca9c34f7bda06a6679a5ce7eeb59.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ccc308c36a298d6128f59913cb58705.jpg"
-    },
-    {
-      "alternativeText": "Spieler unterwegs",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b2ad154fe263ae2a2a6c1d02f36e1d63.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

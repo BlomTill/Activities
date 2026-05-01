@@ -5,17 +5,9 @@
   "description": "Discover Lucerne Paragliding Thermal flight in Switzerland.",
   "longDescription": "Discover Lucerne Paragliding Thermal flight in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Thermal Flight: Experience paragliding over Lake Lucerne and the mountains of Lucerne.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e4ac9fee05e1c96dd5519a145adf1319.JPG"
-    },
-    {
-      "alternativeText": "Tandem thermal flight: Experience the flight over Lake Lucerne and the impressive landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e2ad0e88c1a0078633895151a6043a13.JPG"
-    },
-    {
-      "alternativeText": "Tandem thermal flight over Lake Lucerne with breathtaking views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3cf8b3f4be255abda9092139554527a2.JPG"
-    },
-    {
-      "alternativeText": "Tandem Thermal Flight Lucerne: Flight over Lake Lucerne with views of mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dfb3512113f58ffcc7405c954cb5cc8c.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding",

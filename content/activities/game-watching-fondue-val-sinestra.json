@@ -5,17 +5,9 @@
   "description": "Discover Val Sinestra game watching with fondue in Switzerland.",
   "longDescription": "Discover Val Sinestra game watching with fondue in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Wildlife observation Vnà Engadin in a snowy winter landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wildbeobachtung_1_1884039f62.jpg"
-    },
-    {
-      "alternativeText": "Wildlife observation Vnà Engadin in the mountains with houses, meadows, and groups of trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wildbeobachtung_2_03fc0d8f1c.jpg"
-    },
-    {
-      "alternativeText": "Chamois observed in the winter landscape of the Engadin",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wildbeobachtung_3_93ead20be5.jpg"
-    },
-    {
-      "alternativeText": "Marmot observes surroundings in the meadow in Engadin",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wildbeobachtung_4_4a14c80b56.jpg"
-    },
-    {
-      "alternativeText": "Squirrel holds nut in its front paws, surrounded by forest floor",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wildbeobachtung_5_46065d0796.jpg"
-    },
-    {
-      "alternativeText": "Meadow flowers in the Engadin display bright colors in a diverse landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wildbeobachtung_6_e516731536.jpg"
-    },
-    {
-      "alternativeText": "Binoculars for wildlife observation in the Engadin on a sunny day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wildbeobachtung_7_201a823e3a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "fondue",

@@ -5,17 +5,9 @@
   "description": "Discover \"Off Piste\" Ski School for Adults in Verbier in Switzerland.",
   "longDescription": "Discover \"Off Piste\" Ski School for Adults in Verbier in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Off Piste",
-      "caption": "Skigebiet Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af2e7b8e31025410e7ddd9cd1169cd7c.jpg"
-    },
-    {
-      "alternativeText": "Off Piste",
-      "caption": "Skigebiet Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/673abb2d2f04bfb6b8f9beef87da8d67.jpg"
-    },
-    {
-      "alternativeText": "Off Piste",
-      "caption": "Skigebiet Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4082ecada142feb638021f9a9a821d5c.png"
-    },
-    {
-      "alternativeText": "Off Piste",
-      "caption": "Skigebiet Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/474570b6b94866a221bde0246dca544b.jpg"
-    },
-    {
-      "alternativeText": "Off Piste",
-      "caption": "Skigebiet Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e0d1c9d71553a965ed44b6ba2070b76.jpg"
-    },
-    {
-      "alternativeText": "Off Piste",
-      "caption": "Skigebiet Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e2e82bf579f1ab2355a64b931d6ef624.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

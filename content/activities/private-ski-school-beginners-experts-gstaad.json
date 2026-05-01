@@ -5,17 +5,9 @@
   "description": "Discover Private ski school for all levels in Gstaad in Switzerland.",
   "longDescription": "Discover Private ski school for all levels in Gstaad in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skilehrer mit Skifahrern",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9d4bec2fd9b90291be2cbd58e2a90909.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrer ",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ff29a5af53095ba65241bc8c52cdf36.jpg"
-    },
-    {
-      "alternativeText": "Skifahrer",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cbae16bb298db75623a360cb950b62ed.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrern",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9afaa0aa4982703124b4859d03e8a8c4.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrern",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/042799fb6cf1ca7504b67a76657833cb.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrern",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e97b459bc5e716065319bf7dbc38ca44.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrern",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b3b3b2cdb834da6ed455dc9f6403673.jpg"
-    },
-    {
-      "alternativeText": "Sessellift",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7770bb6bd2afd35dc8cd966a59e3418.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer mit Skifahrern",
-      "caption": "Skischule Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/23f2e92521621204ecde2d688047217f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

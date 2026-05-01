@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Day Trip to the Aletsch Glacier in Switzerland.",
   "longDescription": "Discover From Zurich: Day Trip to the Aletsch Glacier in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "20250817_124815",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f82839acb3e6abf8604f371d8bc7b9a.jpg"
-    },
-    {
-      "alternativeText": "20250920_150428",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/102f59a2cd8542c695fc41077398ed6c.jpg"
-    },
-    {
-      "alternativeText": "00-20250920_150815",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c1edc220be8fa548004a9a83310c5b0.jpg"
-    },
-    {
-      "alternativeText": "20250817_160234",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7991d52d963872ffb29d71ea64fca513.jpg"
-    },
-    {
-      "alternativeText": "20250920_150524",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d11c0a4b3d3e11c4bea605ec1b813c4.jpg"
-    },
-    {
-      "alternativeText": "20250920_150618",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8d9b910bcbba220589e7a580e792f8b.jpg"
-    },
-    {
-      "alternativeText": "2025-09-20_15-07-46",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3db37a875e034f23f2f55778ef1a2f72.jpg"
-    },
-    {
-      "alternativeText": "20250920_150905",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f079893f4ce88585e6dbd921df3a5b7.jpg"
-    },
-    {
-      "alternativeText": "20250920_162514",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e197e0d4085ffccd7a24237cc25d807d.jpg"
-    },
-    {
-      "alternativeText": "20250920_163251",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aee17ffc89e788b253e308254e15c272.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "glacier"

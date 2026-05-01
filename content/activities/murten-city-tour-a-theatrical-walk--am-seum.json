@@ -5,17 +5,9 @@
   "description": "Discover Murten city walk \"Amüseum\" Theatrical walk in Switzerland.",
   "longDescription": "Discover Murten city walk \"Amüseum\" Theatrical walk in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Amüsem Murten tour with humorous guides under an umbrella in front of a white wall.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Amuesem_Murten_Gefuehrte_Tour_271680a4ca.jpg"
-    },
-    {
-      "alternativeText": "Old Town view of Murten, view of Lake Murten, trees, historic architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Altstadt_Aussicht_Stadt_und_Murtensee_Murten_Gefuehrte_Tour_7d0febb2ee.jpg"
-    },
-    {
-      "alternativeText": "Main Street in Murten, couples walking, historical buildings, cobblestone street",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hauptgasse_Murten_Gefuehrte_Tour_42bb3e14e9.jpg"
-    },
-    {
-      "alternativeText": "French Church Murten, idyllic location, historical architecture, blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Franzoesische_Kirche_Murten_Gefuehrte_Tour_4dae033753.jpg"
-    },
-    {
-      "alternativeText": "Museum Murten: Historical building made of wood and stone, surrounded by green spaces with a view of the lake.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Museum_Murten_Gefuehrte_Tour_da385b840f.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ringmauer_Murten_Gefuehrte_Tour_e39c96cdb8.jpg"
-    },
-    {
-      "alternativeText": "Ring wall viewpoint in Murten with historic buildings and a view of the lake.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ringamauer_Aussicht_Murten_Gefuehrte_Tour_2084f5e071.jpg"
-    },
-    {
-      "alternativeText": "Murten Castle with characteristic tower and architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schloss_Murten_Gefuehrte_Tour_a3a7151352.jpg"
-    },
-    {
-      "alternativeText": "Törli Square in Murten with City Wall and Tree",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Toerliplatz_Murten_Gefuehrte_Tour_687dffaab2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

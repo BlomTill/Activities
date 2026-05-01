@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Day Tour Castle, Cheese and Chocolate in Switzerland.",
   "longDescription": "Discover From Zurich: Day Tour Castle, Cheese and Chocolate in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Einsiedeln",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8744f6e782d973cbe72d29fb7cb65abb.jpg"
-    },
-    {
-      "alternativeText": "Einsiedeln, Käserei",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3123ec87712e3274bb9d8f348b2032d5.jpg"
-    },
-    {
-      "alternativeText": "Einsiedeln, Käserei",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c94bf475ac40ac9f53621eae2430e7e1.jpg"
-    },
-    {
-      "alternativeText": "Lindt",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2ecba30796ac220b1e0cf01db5f0f724.jpg"
-    },
-    {
-      "alternativeText": "Lindt",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0e26f86bd0f50f09deddf77fe5d0aed9.jpg"
-    },
-    {
-      "alternativeText": "Lindt",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/05733608ed1cf1155ac99f7df0fd282e.jpg"
-    },
-    {
-      "alternativeText": "Lindt",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e48df9624fd8e9a86b4c090ee8672b94.jpg"
-    },
-    {
-      "alternativeText": "Rapperswil",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/74579859e470b7e772f1b63892afb071.jpg"
-    },
-    {
-      "alternativeText": "Rapperswil",
-      "caption": "Tagestour Schloss, Käse und Schokolade",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2de06939a41629e48d684436bdc5c84a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "castle",

@@ -5,17 +5,9 @@
   "description": "Discover Fronalpstock paragliding tandem in Switzerland.",
   "longDescription": "Discover Fronalpstock paragliding tandem in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,103 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Paragliding at Fronalpstock near Zurich with green meadow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Fronalpstock_Zurich_Paragliding_2_569e6fc4dc.jpg"
-    },
-    {
-      "alternativeText": "Paragliding Fronalpstock with pilots, green meadow, clear sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Fronalpstock_Zurich_Paragliding_3_85999ed3f9.jpg"
-    },
-    {
-      "alternativeText": "Paragliding over Fronalpstock with clouds",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Fronalpstock_Zurich_Paragliding_458aa2eb17.jpg"
-    },
-    {
-      "alternativeText": "Paragliding over Zurich, passengers in the air, beautiful sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_5_70cfbd47ff.jpg"
-    },
-    {
-      "alternativeText": "Paragliding over Zurich with a view of mountains and green meadows",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_6_9855106eb3.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich, view of Lake Zurich, sunny weather",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_7_b840e7c48b.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich, Snow and Mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_8_0acbaaff34.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich over green hills and clouds.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_13_c91da85593.jpg"
-    },
-    {
-      "alternativeText": "Paragliding Zurich with a Pilot in Nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_14_8a5cba7a98.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich with colorful parachute against a blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_15_1a50d41fab.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich under a blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_16_34e87fb7dd.jpg"
-    },
-    {
-      "alternativeText": "Paragliding Zurich with participants on the meadow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_17_043e14e979.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich with friends, thick jackets, summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_18_cb2e0baec5.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich with a view of the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_19_6a664b5eb2.jpg"
-    },
-    {
-      "alternativeText": "Paragliding over Zurich with mountain panorama",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_20_58d6b4a44c.jpg"
-    },
-    {
-      "alternativeText": "Paragliding Zurich, Tandem flight over Alpine landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_21_a15c635ee9.jpg"
-    },
-    {
-      "alternativeText": "Paragliding over Zurich with a view of Lake Zurich and the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_22_3edc4df0e0.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich, Tandem flight with passenger, green meadow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_23_61b4a11b15.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Zurich with breathtaking views of Lake Zurich and the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandem_Gleitschirmflug_Zurich_Paragliding_24_69ad5e9c05.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding"

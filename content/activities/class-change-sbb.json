@@ -5,17 +5,9 @@
   "description": "Discover Class upgrade SBB in Switzerland.",
   "longDescription": "Discover Class upgrade SBB in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "136",
-    "title": "SBB Day Pass",
-    "slug": "sbb-day-pass",
-    "description": "Find the right SBB Day Pass for you here. SBB Day Passes allow you to travel for a whole day. You only need one ticket, even if you have to change trains several times. Within the validity of your day ticket, you can travel as often as you like. You should only check the timetables so that you don't miss the \"last train\" or your connection. Your day pass is valid for the entire day of the date printed on it and beyond until 5:00 a.m. the following day."
-  },
+  "subcategory": "SBB Day Pass",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Train: Comfortable and modern seating area with plenty of space for travelers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Klasse_Seraina_303fc0cd42.jpg"
-    },
-    {
-      "alternativeText": "BLS Train View: View of the landscape near Interlaken with mountains, trees, and a historic building.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_BLS_Zug_Unsplash_b3fec74830.jpg"
-    },
-    {
-      "alternativeText": "SBB train travels through a picturesque landscape with vineyards and a lake in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_1_Unsplash_d290a12bb9.jpg"
-    },
-    {
-      "alternativeText": "Zürich railway station: modern station with trains and waiting passengers in an urban environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0_Bahnhof_Zuerich_Seraina_4aefeb9864.jpg"
-    },
-    {
-      "alternativeText": "Lake Lucerne: Boat trip with views of mountains and nature, ideal excursion destinations for groups and children",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Vierwaldstaettersee_12_Seraina_d863fdfb89.jpg"
-    },
-    {
-      "alternativeText": "Lake Geneva: Boat trip with views of vineyards and blooming landscapes in nice weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/82_Genfersee_Seraina_ab6df0c9d6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

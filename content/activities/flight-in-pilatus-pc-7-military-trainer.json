@@ -5,17 +5,9 @@
   "description": "Discover Flight in the Pilatus PC-7 military trainer from Locarno in Switzerland.",
   "longDescription": "Discover Flight in the Pilatus PC-7 military trainer from Locarno in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "pilatus-mountains-private-aerobatics (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08f455a9c133b7055c3e2fcc80b86908.jpg"
-    },
-    {
-      "alternativeText": "cockpit-pc-7-switzerland",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fa22b4635e05e94edd4a008c1e44a9b1.jpg"
-    },
-    {
-      "alternativeText": "pc-7-flight-tour-alps-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/81fb9578e078c770f1787f12be4cb216.jpg"
-    },
-    {
-      "alternativeText": "pc-7-pilatus-aerobatics (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9f106bb458d165d369ef2798cd7a739f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train"

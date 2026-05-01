@@ -5,17 +5,9 @@
   "description": "Discover In Zurich: Excursion to Lucerne and Trübsee at Titlis with Cheese Fondue experience in an Igloo in Switzerland.",
   "longDescription": "Discover In Zurich: Excursion to Lucerne and Trübsee at Titlis with Cheese Fondue experience in an Igloo in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Iglu am Trübsee",
-      "caption": "Tagestour Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c5bccca080cb6064bd27463b8520d40b.jpeg"
-    },
-    {
-      "alternativeText": "Iglu",
-      "caption": "Tagestour Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bd504df04d76987b88d94f2485cea515.jpeg"
-    },
-    {
-      "alternativeText": "Fondue",
-      "caption": "Tagestour Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/95f6779a72fdd11d497e53c5034ae7d7.jpeg"
-    },
-    {
-      "alternativeText": "Snowtubing Trübsee",
-      "caption": "Tagestour Luzern und Trübsee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/043cec1243355427479cea1bf3e9994d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "cheese",

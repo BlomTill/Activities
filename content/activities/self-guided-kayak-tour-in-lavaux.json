@@ -5,17 +5,9 @@
   "description": "Discover Self-guided kayak tour in Lavaux in Switzerland.",
   "longDescription": "Discover Self-guided kayak tour in Lavaux in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "26",
-    "title": "Kayak",
-    "slug": "kayak",
-    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
-  },
+  "subcategory": "Kayak",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kayak Following John Lavaux",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7772e93ff50294b6249b60a2d84734b.jpg"
-    },
-    {
-      "alternativeText": "IMG_4729",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/135b080e013e4c7c12ea57e3defad797.jpeg"
-    },
-    {
-      "alternativeText": "IMG_4741",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c0e48748d1d913e367a0a2611338e2f5.jpeg"
-    },
-    {
-      "alternativeText": "Kayak Following JOhn _ lavaux (UNESCO) ",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eaeceaa5b96ada918fd8c6ab3564fffd.jpg"
-    },
-    {
-      "alternativeText": "Kayak Following John - Lavaux _ Chillon ",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7a61f26f1eb44e6f1bbf6a1dba5c7d7.jpg"
-    },
-    {
-      "alternativeText": "Kayak Following John - Lavaux(UNESCO)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9cfd6016ef439f5c083169959a36f56c.jpg"
-    },
-    {
-      "alternativeText": "kayak lac leman ",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/23190125672294850753973991c99e46.jpg"
-    },
-    {
-      "alternativeText": "z22",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ad9a4f4146d4921ac7459c1221f17da0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

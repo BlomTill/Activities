@@ -5,17 +5,9 @@
   "description": "Discover City tour Chur old town in Switzerland.",
   "longDescription": "Discover City tour Chur old town in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "City tour Chur old town with group at the church",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_Stadtfuehrung_Chur_Chur_Tourismus_JPG_e5dc77e004.jpg"
-    },
-    {
-      "alternativeText": "Chur Old Town Tour with Group in front of Historic Building",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Stadtfuehrung_Chur_Chur_Tourismus_JPG_039c3982af.JPG"
-    },
-    {
-      "alternativeText": "Guided tour through the old town of Chur with participants in dialogue.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Stadtfuehrung_Chur_Chur_Tourismus_JPG_499ac26333.jpg"
-    },
-    {
-      "alternativeText": "City tour Chur Old Town with guide and participants on the street.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Stadtfuehrung_Chur_Chur_Tourismus_JPG_2521d2f5e4.jpg"
-    },
-    {
-      "alternativeText": "City tour Chur Old Town with participants in a historic setting",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Stadtfuehrung_Chur_Chur_Tourismus_JPG_e538cca58b.jpg"
-    },
-    {
-      "alternativeText": "Chur Old Town Tour with Guides and Participants",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6_Stadtfuehrung_Chur_Chur_Tourismus_JPG_adef1439d8.jpg"
-    },
-    {
-      "alternativeText": "Chur Old Town Tour with Group, Historical Buildings, Sunlight",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_Stadtfuehrung_Chur_Chur_Tourismus_JPG_9fe28bcf50.jpg"
-    },
-    {
-      "alternativeText": "City tour Chur old town with interested participants under blue sky. Landmark and historical buildings visible.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8_Stadtfuehrung_Chur_Chur_Tourismus_JPG_eea4a9ac9d.jpg"
-    },
-    {
-      "alternativeText": "Chur Old Town Tour, group in conversation, historical surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10_Stadtfuehrung_Chur_Chur_Tourismus_JPG_5729bc0605.jpg"
-    },
-    {
-      "alternativeText": "Chur Old Town Tour with Guide and Participants, Historic Buildings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_Chur_Chur_Tourismus_7d1b316d04.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

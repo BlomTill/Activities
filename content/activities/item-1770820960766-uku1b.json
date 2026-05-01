@@ -5,17 +5,9 @@
   "description": "Discover Ascona: Ride a 3-wheeled Vanderhall (Roadster) from Locarno in Switzerland.",
   "longDescription": "Discover Ascona: Ride a 3-wheeled Vanderhall (Roadster) from Locarno in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "63",
-    "title": "Quad",
-    "slug": "quad",
-    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
-  },
+  "subcategory": "Quad",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "MG_6135 Ascona",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5a04bd6fb88c892a823d827d1a894c41.jpg"
-    },
-    {
-      "alternativeText": "MG_6140 Copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7c9a3c4277ec379b8cac6c0104989c50.jpg"
-    },
-    {
-      "alternativeText": "ascona3 (1) Copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8bcac4b32d4cdca197a0a69a94e0d272.jpg"
-    },
-    {
-      "alternativeText": "ascona1 (1) Copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb28420a9d6eab0d1f07ffbab10f2529.jpg"
-    },
-    {
-      "alternativeText": "MG_6132 Copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bbe1b59a837c73dc8680698b8babb162.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

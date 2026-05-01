@@ -5,17 +5,9 @@
   "description": "Discover \"Sir Peter Morgan\" Escape Game (Zurich City Tour) in Switzerland.",
   "longDescription": "Discover \"Sir Peter Morgan\" Escape Game (Zurich City Tour) in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Mission Escape Zurich: exciting activities for groups and teams in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_8271fdd83c.jpg"
-    },
-    {
-      "alternativeText": "Mission Escape Zurich: Experience exciting adventures in the city with sights and culture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_f45fa53ba3.jpg"
-    },
-    {
-      "alternativeText": "Mission Escape Zurich: Experience thrilling adventures with friends in the heart of the city",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P1799342_2449ce0b8f.JPG"
-    },
-    {
-      "alternativeText": "Mission Escape Zurich: Friends experience an exciting adventure at the beautiful lakeshore.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P1799369_4b3aa9eb93.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

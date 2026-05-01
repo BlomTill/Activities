@@ -5,17 +5,9 @@
   "description": "Discover Pub Crawl Party Tour Zurich (Women) in Switzerland.",
   "longDescription": "Discover Pub Crawl Party Tour Zurich (Women) in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/060454a9c1fb66f01b0c36eacb74654d.JPG"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c93615c9a4f1847f0fd1fe712266ffbb.jpg"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6f132e2c56680ea5980f2cfc884a6727.JPG"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6101bdee8c694c0a19822eb060b70085.JPG"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/300bb756f4048b49b1d27cccbd066e96.JPG"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2328f047cac2089a38e2b7da55c732fc.jpg"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1344b298c8c3892817881bf98fd838e2.jpg"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/76681b028b5459e902896ca346957f6a.jpg"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2e548e9f44837693479ff79168ca5f26.JPG"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3e43c0c70c17be22df027053b51bbfee.webp"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "Pub Crawl Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ac8893bcb5d3a551eb70fed0e638d180.JPG"
-    },
-    {
-      "alternativeText": "Poltergruppe Frauen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5c4e3b1083a2e495e85c5c4d2e6601a.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Snowshoes rental Grindelwald in Switzerland.",
   "longDescription": "Discover Snowshoes rental Grindelwald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "23",
-    "title": "Snowshoeing",
-    "slug": "snowshoeing",
-    "description": "Rent your snowshoes here or book a guided tour with or without fondue fun. In the past, snowshoes were the usual means of transportation in snowy areas. The weight is distributed over a larger area, making it easier for the snowshoe wearer to walk through deep snow. Today, snowshoeing is a popular winter sport that can be done in the mountains but also guided or individually at lower altitudes."
-  },
+  "subcategory": "Snowshoeing",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Snowshoes by Tubbs in the snow, winter activity, white surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuh_5b170d8df5.jpeg"
-    },
-    {
-      "alternativeText": "Snowshoes lie in the snow during winter activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuhe_84eb156b6a.jpg"
-    },
-    {
-      "alternativeText": "Rent snowshoes Grindelwald, man snowshoeing in snowy landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_80c74a082a28579293806c19384a3dbe_509433da92.jpg"
-    },
-    {
-      "alternativeText": "Rent snowshoes in Grindelwald, winter snow hiking, snowy landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuhe_mieten_Grindelwald_a10be8b6ee.jpg"
-    },
-    {
-      "alternativeText": "Snowshoe Trails with Signpost on Snow-Covered Terrain",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wanderwege_Schneeschuhe_be7638d054.jpg"
-    },
-    {
-      "alternativeText": "Snowshoes in Grindelwald with snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuhe_Grindelwald_8fea9722ca.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald in winter with snow-covered mountains and chalets",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_im_Winter_0fa280c495.jpg"
-    },
-    {
-      "alternativeText": "Winter hiking in Grindelwald, snowy mountains, clear view, hikers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winterwandern_Grindelwald_65b9924502.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

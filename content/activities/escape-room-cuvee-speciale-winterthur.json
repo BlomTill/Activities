@@ -5,17 +5,9 @@
   "description": "Discover \"The Cuvée Special of Veuve Hedwigia\" Escape Room Winterthur in Switzerland.",
   "longDescription": "Discover \"The Cuvée Special of Veuve Hedwigia\" Escape Room Winterthur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Plakat",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6c95e9069fb4b90abfdd640bb84c30be.jpg"
-    },
-    {
-      "alternativeText": "Wein trinken",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cb160e56272683599d9910f1c1cd0e80.jpg"
-    },
-    {
-      "alternativeText": "Indoorspiel",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/633b3c4125329a752c65f4c30f53c228.jpg"
-    },
-    {
-      "alternativeText": "Wein",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eaddcfbe387b604ba323831b11303106.jpg"
-    },
-    {
-      "alternativeText": "Wein",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6534de6fd640d0c439caa5f8ae9ae3ad.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Guided tour of the Abbey Library, the Cathedral and the Old Town of St. Gallen in Switzerland.",
   "longDescription": "Discover Guided tour of the Abbey Library, the Cathedral and the Old Town of St. Gallen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,63 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Library of the Abbey, impressive library room with wooden shelves and books",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stiftsbibliothek_Keystory_2020_2_c69ab9dccf.jpg"
-    },
-    {
-      "alternativeText": "Stiftsbibliothek interior view with bookshelves and globe",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stiftbibliothek_Barocksaal_8_2fb638066a.jpg"
-    },
-    {
-      "alternativeText": "Abbey District Lucerne with buildings, green landscape and blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luftaufnahme_Stiftsbezirk_555acc68b0.jpg"
-    },
-    {
-      "alternativeText": "Gallus Square with historic buildings, blooming tree, and blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gallusplatz_b3c804964f.jpg"
-    },
-    {
-      "alternativeText": "Interior of the cathedral with ornate frescoes, opulent altars, and floral arrangements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kathedrale_Innenraum_4_9c3c573d8f.jpg"
-    },
-    {
-      "alternativeText": "Group tour in the cathedral with visitors looking up in the interior",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrungen_3_a3e9ea411c.jpg"
-    },
-    {
-      "alternativeText": "Interior of the cathedral with benches, decorative ceiling, and altars.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kathedrale_innen_716111e59f.jpeg"
-    },
-    {
-      "alternativeText": "Cantonal District of Lucerne with historic architecture and surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/St_Gallen_14_a43dc9d58b.jpg"
-    },
-    {
-      "alternativeText": "Laurenzen Church in the city center of Freiburg in nice weather",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/St_Gallen_19_e16eb6c2b9.jpg"
-    },
-    {
-      "alternativeText": "City tours, group activity, historical buildings, town square",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrungen_1_39e3b148c2.jpg"
-    },
-    {
-      "alternativeText": "Restaurant Zeughaus St. Gallen with outdoor seating, sunny day in 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zeughaus_2e01510092.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

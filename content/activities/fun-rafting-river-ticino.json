@@ -5,17 +5,9 @@
   "description": "Discover Fun rafting for groups on the Ticino River in Switzerland.",
   "longDescription": "Discover Fun rafting for groups on the Ticino River in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33",
-    "title": "Rafting",
-    "slug": "rafting",
-    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
-  },
+  "subcategory": "Rafting",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Fun Rafting in Nature: Team enjoying thrilling water sports in summer with a view of green mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P5160232_3ca5630ec6.JPG"
-    },
-    {
-      "alternativeText": "Fun rafting with friends on a river in nature during summer. Ideal for adventure seekers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P5160236_135be2c1a3.JPG"
-    },
-    {
-      "alternativeText": "Fun rafting with friends in nature, fun on the water during the summer adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P5160260_70b0a7f2db.JPG"
-    },
-    {
-      "alternativeText": "Fun Rafting: exciting water activity in nature with groups in summer, surrounded by mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P6130178_996d815a46.JPG"
-    },
-    {
-      "alternativeText": "Rafting: Fun while white-water rafting on a picturesque river in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P6130184_27847886da.JPG"
-    },
-    {
-      "alternativeText": "Fun Rafting: Experience an exciting water adventure with friends in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P6130186_caaf173d33.JPG"
-    },
-    {
-      "alternativeText": "Fun Rafting: Experience exciting rafting with friends in the midst of nature in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/P6130187_f7c1c8ac0e.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "rafting",

@@ -5,17 +5,9 @@
   "description": "Discover Bat Watching in Heidiland in Switzerland.",
   "longDescription": "Discover Bat Watching in Heidiland in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Heidiland Fledermaus",
-      "caption": "Wildtierbeobachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41ef1f8a3af1cd72f970e4b3bf510929.jpg"
-    },
-    {
-      "alternativeText": "_01 KWI2150-full",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b74a6ba71767fd4656c93f6ee0135ac3.jpg"
-    },
-    {
-      "alternativeText": "_02 KWI2233-full",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d47c1167858abf2ee7f9503331aad351.jpg"
-    },
-    {
-      "alternativeText": "_03 tkv_hlt-spring_0069__52_2165",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b6b896b8086c9378516875781f6a992a.jpg"
-    },
-    {
-      "alternativeText": "_KWI2301-full",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec1c8796d557f9f58d20fa538dd01cff.jpg"
-    },
-    {
-      "alternativeText": "KWI_0868-full",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2017fcda6d43ea2b4efdfb3593f9482a.jpg"
-    },
-    {
-      "alternativeText": "_KWI2053-full",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1b2ed4c93b26bf27882fd4fb8e215981.jpg"
-    },
-    {
-      "alternativeText": "_KWI2157-full-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/74ec247ad363651ef40fb1a24586f1f5.jpg"
-    },
-    {
-      "alternativeText": "KWI_0864-full",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4bc38d1af5c277e95f1d22fcc2c6611e.jpg"
-    },
-    {
-      "alternativeText": "KWI_0961-full",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2c6b2eb18fa600dbb7a9f40f6d368f18.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "watch"

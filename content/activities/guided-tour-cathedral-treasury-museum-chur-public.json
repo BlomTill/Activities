@@ -5,17 +5,9 @@
   "description": "Discover Guided tour Cathedral Treasury Museum Chur public in Switzerland.",
   "longDescription": "Discover Guided tour Cathedral Treasury Museum Chur public in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "51",
-    "title": "Museums",
-    "slug": "museums",
-    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
-  },
+  "subcategory": "Museums",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,78 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Visitors at the Chur Cathedral Treasure Museum examine an exhibit made of gold.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_altstadt_domschatzmuseum_familien_hannesheinzer_1_6d451d2eaf.jpg"
-    },
-    {
-      "alternativeText": "Domschatzmuseum Chur showcases historical architecture and impressive facades.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_altstadt_hof_domschatzmuseum_aussen_hannesheinzer_eba961db36.JPG"
-    },
-    {
-      "alternativeText": "Bag from the Treasury Museum in Chur with colorful patterns and textiles.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_beutel_stephan_koellicker_6e3c28a47a.JPG"
-    },
-    {
-      "alternativeText": "Florinus shrine in the Chur Treasure Museum with golden figures and intricate decorations.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_florinusschrein_stephan_koellicker_18c8312c34.jpg"
-    },
-    {
-      "alternativeText": "Domschatzmuseum Chur: Exhibition view with artworks and various objects.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_hugo_hafner_1_ac37a2ea6f.jpg"
-    },
-    {
-      "alternativeText": "Golden objects in the Chur Cathedral Treasure Museum, artistic decoration, historical artifacts",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_hugo_hafner_2_7097b223f0.jpg"
-    },
-    {
-      "alternativeText": "Domschatz Museum Chur with historical exhibits in a modern display",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_hugo_hafner_3_07c0bcc41d.jpg"
-    },
-    {
-      "alternativeText": "Domschatzmuseum Chur with artistic exhibits, goldsmith works, religious icons",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_hugo_hafner_4_17fb722161.jpg"
-    },
-    {
-      "alternativeText": "Treasury Museum Chur with golden objects in the exhibition",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_hugo_hafner_5_7facac9e3b.jpg"
-    },
-    {
-      "alternativeText": "Domschatzmuseum Chur with art objects and wood paneling.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_hugo_hafner_6_f8306503ee.jpg"
-    },
-    {
-      "alternativeText": "Stephan Köllicker reliquary in the Chur Treasure Museum, golden decorations, intricate details.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_luzius_reliquiar_stephan_koellicker_29dfbeabad.JPG"
-    },
-    {
-      "alternativeText": "Mitra in the Treasure Museum Chur with detailed decoration and colorful motifs",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_mitra_stephan_koellicker_d518e89498.JPG"
-    },
-    {
-      "alternativeText": "Staff with wooden cladding in the Domschatzmuseum Chur",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_todesbilder_hugo_hafner_1_1_41e6e6b5f9.jpg"
-    },
-    {
-      "alternativeText": "Holy water basin in the Cathedral Treasure Museum Chur with decorations and figures",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kultur_museum_domschatz_weihwasserbecken_stephan_koellicker_0b7299e83f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "museum"

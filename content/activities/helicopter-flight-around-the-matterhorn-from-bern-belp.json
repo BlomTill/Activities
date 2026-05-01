@@ -5,17 +5,9 @@
   "description": "Discover Matterhorn Round Flight Alps Helicopter 75 minutes in Switzerland.",
   "longDescription": "Discover Matterhorn Round Flight Alps Helicopter 75 minutes in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Helicopter Tour Matterhorn with a View of the Landmark in the Alps",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_a349804aa01209774c76bf79c1fa55f3_8e00f7e12e.jpg"
-    },
-    {
-      "alternativeText": "Helicopter tour with a view of the mountains in sunny weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/im_Helikopter_97c5681ef6.webp"
-    },
-    {
-      "alternativeText": "Matterhorn helicopter over the Matterhorn, splendid mountain landscape, clear view.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_855217d1cde0ed03a74df0ad87b17414_f9d2aaed9a.jpg"
-    },
-    {
-      "alternativeText": "Matterhorn in Alpine scenic flight, helicopter view, snow, mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_040fdeb194c509a54ab9e29fdcb4f19f_52a616304f.jpg"
-    },
-    {
-      "alternativeText": "Helicopter flight Valais over the Alps with views of mountain landscapes and clouds.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_1cb0c2de3d12bbf7f59bfe0623dfa7e7_7140ef0c08.jpg"
-    },
-    {
-      "alternativeText": "Aletsch Glacier with snow-covered peaks, glacier view, helicopter flight, alpine peaks",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_94675fc681ae0c0a71c9d1870a885cd7_4df17b3046.jpg"
-    },
-    {
-      "alternativeText": "Helicopter Alpine Flight over the Alps, Matterhorn. The rotor beats strongly, with clouds in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Scenic_Flights_3_7e8d8d16e0.jpg"
-    },
-    {
-      "alternativeText": "Helicopter on Alpine scenic flight over mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Alpenrundflug_Helikopter_183616c69e.webp"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

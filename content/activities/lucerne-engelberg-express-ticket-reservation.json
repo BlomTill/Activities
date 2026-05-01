@@ -5,17 +5,9 @@
   "description": "Discover Day trip train ticket to Engelberg from Lucerne self-guided in Switzerland.",
   "longDescription": "Discover Day trip train ticket to Engelberg from Lucerne self-guided in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "70",
-    "title": "Train ticket",
-    "slug": "train-ride",
-    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
-  },
+  "subcategory": "Train ticket",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,53 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lucerne: picturesque city by the lake, surrounded by mountains and historic charm.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Luzern_unsplash_8476f932c9.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: Image of the Water Tower and Chapel Bridge in sunny Lucerne with mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Luzern1_unsplash_a1296f8ed7.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: quiet lake with wooden dock and snow-covered mountains in the background. Ideal place for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Luzern_unsplash_Kopie_d00f5a4bd3.jpg"
-    },
-    {
-      "alternativeText": "Stans: Picturesque landscape with mountains and wide meadows in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Stans_unsplash_3cb191bdda.jpg"
-    },
-    {
-      "alternativeText": "Dallenwil: Beautiful meadow landscape with mountains and clear skies in the summer season",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Dallenwil_unsplash_1427a46ae7.jpg"
-    },
-    {
-      "alternativeText": "Dallenwil: picturesque mountain landscape with green meadows and snow-capped peaks in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05_Dallenwil_unsplash_7ca180fb98.jpg"
-    },
-    {
-      "alternativeText": "Wolfenschiessen: idyllic lake surrounded by mountains and nature, ideal for adventure and relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_Wolfenschiessen_unsplash_3bceaf68a6.jpg"
-    },
-    {
-      "alternativeText": "Engelberg: Waterfall with stones, surrounded by lush green and an impressive mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_Engelberg_pixabay_381bbe38d7.jpg"
-    },
-    {
-      "alternativeText": "Engelberg: impressive view of mountains and valley, ideal for hikes in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_Engelberg_unsplash_765fec758a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train",

@@ -5,17 +5,9 @@
   "description": "Discover \"Inner City Blues\" city tour through Zurich in Switzerland.",
   "longDescription": "Discover \"Inner City Blues\" city tour through Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Inner City",
-      "caption": "Stadtführung Kunsthaus Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b4faa6a1f4d007d4fd30f6a663b3888.JPG"
-    },
-    {
-      "alternativeText": "Inner City",
-      "caption": "Stadtführung Kunsthaus Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2130e9c2e8449f9361c7e369b04cbf6b.JPG"
-    },
-    {
-      "alternativeText": "Inner City",
-      "caption": "Stadtführung Kunsthaus Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f39009c22b2fa11edfffb007c3626bfb.JPG"
-    },
-    {
-      "alternativeText": "Inner City",
-      "caption": "Stadtführung Kunsthaus Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f6ad6cae159f04abdcbf7fe43aec3664.JPG"
-    },
-    {
-      "alternativeText": "Inner City",
-      "caption": "Stadtführung Kunsthaus Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a0e776df332ab7382940d8248c6aafe.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

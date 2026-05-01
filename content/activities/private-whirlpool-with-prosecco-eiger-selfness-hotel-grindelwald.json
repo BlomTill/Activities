@@ -5,17 +5,9 @@
   "description": "Discover Private whirlpool with prosecco at Eiger Mountain & Soul Resort in Grindelwald in Switzerland.",
   "longDescription": "Discover Private whirlpool with prosecco at Eiger Mountain & Soul Resort in Grindelwald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "69",
-    "title": "Wellness and adventure pools",
-    "slug": "wellness",
-    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
-  },
+  "subcategory": "Wellness and adventure pools",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Blossom Pool: relaxing wellness area with water features and modern elements",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Selfness_Bluetenpool_6ede319549.jpg"
-    },
-    {
-      "alternativeText": "Spa fireplace with terry, ideal for relaxing moments. Luxurious atmosphere and wellness for you.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Privat_Spa_Kamin_mit_Frottee_74f06a06e9.jpg"
-    },
-    {
-      "alternativeText": "Spa Panorama: high-quality relaxation area with a fireplace and modern amenities, ideal for wellness fans",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Privat_Spa_Panorama_5b990a93fa.jpg"
-    },
-    {
-      "alternativeText": "SPA: Enjoy relaxing hours with rose decoration and champagne in the romantic wellness area.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Privat_SPA_Herzklopfen_99a26971be.jpeg"
-    },
-    {
-      "alternativeText": "Spa: Relaxing wellness area with stone elements and modern design",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Spa_ganzes_Areal_e53d1226c1.jpg"
-    },
-    {
-      "alternativeText": "Spa water with mint, refreshing wellness drinks for relaxation and enjoyment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Spa_Wasser_mit_Minze_7f26f95bc5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "mountain",

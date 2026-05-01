@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Spooky Corners including Augmented Reality\" Outdoor Escape Game Bern in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Spooky Corners including Augmented Reality\" Outdoor Escape Game Bern in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-bern-en",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/823a8ab616a58f61a5d5b008305ca1d6.jpg"
-    },
-    {
-      "alternativeText": "find-the-code-team-photo15-fullsize",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cf7d50d93b468a4690582b3d1e17f8cc.jpeg"
-    },
-    {
-      "alternativeText": "group_sideways_happily-chatting-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c01100175f87fcc12526a04c563098d.jpg"
-    },
-    {
-      "alternativeText": "group-hk-frontal-running",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2072826a7d1544ba336535092b988d2c.jpg"
-    },
-    {
-      "alternativeText": "group-photo-hk-flowers-file-phone-neutral",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b5014e2da7b2d48c2a4fd1ccb4e2ae2c.jpg"
-    },
-    {
-      "alternativeText": "group-hk-file-daniel-puzzle-solved-party-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/69b597b558e75afe7da732361e4001df.jpg"
-    },
-    {
-      "alternativeText": "map-bern-square-compressed",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8afa9882f8674e6e55566891c6ec57a6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "bern"

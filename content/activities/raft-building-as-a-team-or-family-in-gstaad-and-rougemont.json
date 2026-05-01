@@ -5,17 +5,9 @@
   "description": "Discover Raft Building as a Team or Family in Gstaad and Rougemont in Switzerland.",
   "longDescription": "Discover Raft Building as a Team or Family in Gstaad and Rougemont in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "20220629_174808-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/787cbe85a3b77328fcd1b83a878a69b1.jpg"
-    },
-    {
-      "alternativeText": "20220629_183041-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5184a16615c70e46a0b349c6501ccfb4.jpg"
-    },
-    {
-      "alternativeText": "image_7103-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/37d0d09ce10ea0b0ba5c2ae49483bc60.jpg"
-    },
-    {
-      "alternativeText": "img_7104-min_0-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a01ec9c74bba2ff5f54056f2817e254c.jpg"
-    },
-    {
-      "alternativeText": "image_7105-min-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/037c03aa0d99da3999d27d9e1b50fbd5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "family"

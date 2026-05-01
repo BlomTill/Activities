@@ -5,17 +5,9 @@
   "description": "Discover Gornergrat Bahn ticket from Zermatt in Switzerland.",
   "longDescription": "Discover Gornergrat Bahn ticket from Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Gornergrat Railway Summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/28410df707a89f03d5ce3115c97cf35b.jpg"
-    },
-    {
-      "alternativeText": "01-Schnyder-2023-Zooom-outside-13",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04bc689459bfa5b3d3ce390821310faf.jpg"
-    },
-    {
-      "alternativeText": "02 POLARIS Summer (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/085870f780107c0be6847674249539c0.jpg"
-    },
-    {
-      "alternativeText": "Paragliding Simulator Zoom Matterhorn with user in VR setup.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gleitschirm_Simulator_Zooom_the_Matterhorn_be6b682611.webp"
-    },
-    {
-      "alternativeText": "3D Cinema Zooom at the Matterhorn with visitors",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_D_Kino_Zooom_the_Matterhorn_1d4f354e6a.webp"
-    },
-    {
-      "alternativeText": "Dining with the Stars Gornergrat 2025 (3)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b5fa632602804407fa74e300e8ff0b1d.jpg"
-    },
-    {
-      "alternativeText": "Experience Mountain Campaign Summer 2024",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e76b5fe2528b85badea0564f6ac362da.jpg"
-    },
-    {
-      "alternativeText": "F1004857_PRINT©christianpfammatter",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f6488cb7349a90985c5899e7ef8d5118.jpg"
-    },
-    {
-      "alternativeText": "GGb Summer 2024 - Riffelalp Curve",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f6e7c2eb0e238bb39aa4d5ff1d6cd5f.jpg"
-    },
-    {
-      "alternativeText": "Gornergrat Railway with mountain lake and Matterhorn, clear sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_Gornergratbahn_Bergsee_6b1760abe6.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

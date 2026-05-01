@@ -5,17 +5,9 @@
   "description": "Discover Motocross Enduro Taster Course in Switzerland.",
   "longDescription": "Discover Motocross Enduro Taster Course in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "138",
-    "title": "Motorbike",
-    "slug": "motorbike",
-    "description": "Find your experience on a motorbike, moped or scooter here. Enjoy a motorized tour through nature with the feeling of freedom and adventure that you can't experience with a car. You can visit places that are easier to access on a motorcycle. You can hire a helmet and other equipment from most providers at the same time. So even if you decide spontaneously, nothing stands in the way of your special experience.\n"
-  },
+  "subcategory": "Motorbike",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Erwachsener auf Motocross",
-      "caption": "Motocross",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1a5b92f3b5c3adb7b0b721d0c6b8619b.jpg"
-    },
-    {
-      "alternativeText": "Erwachsene Gruppe auf Motocross",
-      "caption": "Motocross",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/483bf273c351a382a4ddaf2d8b06eebc.jpg"
-    },
-    {
-      "alternativeText": "Erwachsener auf Motocross",
-      "caption": "Motocross",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5582675519c03105d56bd2fed922b1df.jpg"
-    },
-    {
-      "alternativeText": "Erwachsener auf Motocross",
-      "caption": "Motocross",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2976969873f738e0bd053e4ba61445f9.jpg"
-    },
-    {
-      "alternativeText": "Erwachsener auf Motocross",
-      "caption": "Motocross",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2fe63605b34977c4ce21bd55891961cf.jpg"
-    },
-    {
-      "alternativeText": "Erwachsener auf Motocross",
-      "caption": "Motocross",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7a531863352ab1f6bbb866e86a9e777b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

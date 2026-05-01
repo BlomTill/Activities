@@ -5,17 +5,9 @@
   "description": "Discover Jungfrau Travel Pass Winter - 3 to 8 Days in Switzerland.",
   "longDescription": "Discover Jungfrau Travel Pass Winter - 3 to 8 Days in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "130",
-    "title": "Swiss Rail Passes",
-    "slug": "rail-pass",
-    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
-  },
+  "subcategory": "Swiss Rail Passes",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,63 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Jungfrau Travel Pass: Discover the snow-covered winter with family and kids in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneewandern_Jungfrau_e5b080c710.jpg"
-    },
-    {
-      "alternativeText": "Mountains: a group of people enjoys the view in the snowy Alps in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DJI_0695_137_by_davidbirri_0ba0c16628.jpg"
-    },
-    {
-      "alternativeText": "Sledding in Grindelwald: Children pull their sleds in the snow, winter fun in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kleine_scheidegg_kinder_schlitteln_eiger_run_c5d6fc1da8.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Travel Pass Winter: Skiing in the Swiss Alps with friends in the snow, experiencing winter activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1211345_by_davidbirri_27b57d0094.jpg"
-    },
-    {
-      "alternativeText": "Sledding at Eiger Run: Fun in the snow with kids in a wintry landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kleine_scheidegg_schlitteln_eigerrun_winter_e405060255.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald First Cliff Walk: impressive view of the mountains in winter, hikers on the platform.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/grindelwald_first_winter_cliff_walk_eiger_02_7a36eab396.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Travel Pass: Winter hiking in the Jungfrau region with children in the snow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kleine_scheidegg_familie_schlitteln_eiger_run_winter_95df6a6921.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Travel Pass: Winter hiking with snow, mountains, and breathtaking views of the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winterwandern_Eigergletscher_Jungfrau_e6d40c2a42.jpg"
-    },
-    {
-      "alternativeText": "Enjoy the mountain railway Lauterbrunnen Mürren in winter, with snow-covered mountains and picturesque landscapes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bergbahn_Lauterbrunnen_Muerren_Winter_Eiger_Moench_Jungfrau_a9468d0b05.jpg"
-    },
-    {
-      "alternativeText": "Eiger Express: Cable car ride through winter landscape with snow-covered mountains and fir trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eiger_Express_Eiger_Nahaufnahme_Winter_80f30b34e6.jpg"
-    },
-    {
-      "alternativeText": "Eiger Glacier: Jungfrau Railway in winter with snow-covered mountains and fascinating mountain scenery.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eigergletscher_Bahnhof_Jungfraubahn_Winter_d92718b853.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

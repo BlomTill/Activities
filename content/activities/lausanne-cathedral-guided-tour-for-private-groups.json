@@ -5,17 +5,9 @@
   "description": "Discover \"Lausanne Cathedral\" guided tour for private groups in Switzerland.",
   "longDescription": "Discover \"Lausanne Cathedral\" guided tour for private groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "51",
-    "title": "Museums",
-    "slug": "museums",
-    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
-  },
+  "subcategory": "Museums",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,23 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Interieur_cathedrale_Lausanne@walknwine",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9469ae963dbbafa63a7b2b203c222d3.jpeg"
-    },
-    {
-      "alternativeText": "Cathedrale_Lausanne@walknwine",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9b0742fbf5086dd9131e9a5ded1733af.jpeg"
-    },
-    {
-      "alternativeText": "Cathedrale_Lausanne1©WALK&WINE",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c60c016e77bbd579ca4f9480176e9c45.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lausanne"

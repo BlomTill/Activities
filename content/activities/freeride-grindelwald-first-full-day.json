@@ -5,17 +5,9 @@
   "description": "Discover Full-day private freeride lessons in Grindelwald in Switzerland.",
   "longDescription": "Discover Full-day private freeride lessons in Grindelwald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Freeride",
-      "caption": "Grindelwald First",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9c801079e24edcc52d55ec7a354764b2.jpg"
-    },
-    {
-      "alternativeText": "Freeride",
-      "caption": "Grindelwald First",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9d306c83c2994d04610e36183ddf59a.jpg"
-    },
-    {
-      "alternativeText": "Freeride",
-      "caption": "Grindelwald First",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b82537ddec59b5f9903233717e090f98.jpg"
-    },
-    {
-      "alternativeText": "Freeride",
-      "caption": "Grindelwald First",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2cf86eee43921d4b5761128ebcaf9182.jpg"
-    },
-    {
-      "alternativeText": "Freeride",
-      "caption": "Grindelwald First",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e213c2fd9c50de1661bdc6539ed36006.jpg"
-    },
-    {
-      "alternativeText": "Freeride",
-      "caption": "Grindelwald First",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b614307c427f8589966239d04108d47d.jpg"
-    },
-    {
-      "alternativeText": "Freeride",
-      "caption": "Grindelwald First",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d4921c0ab175c123a351347b85abdbb1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

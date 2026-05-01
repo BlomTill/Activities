@@ -5,17 +5,9 @@
   "description": "Discover From Zurich Airport: Transfer to Andermatt in Switzerland.",
   "longDescription": "Discover From Zurich Airport: Transfer to Andermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "105",
-    "title": "Transfer",
-    "slug": "transfer",
-    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
-  },
+  "subcategory": "Transfer",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Andermatt: impressive mountain landscape with green meadows and the charming village in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Andermatt_Pixabay_f69b170469.jpg"
-    },
-    {
-      "alternativeText": "Mercedes V Class: spacious interior for family outings and group travel",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_696b45e1c9.jpg"
-    },
-    {
-      "alternativeText": "Mercedes S Class interior: luxurious car interior with state-of-the-art technology and high-quality equipment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_2_5cd655bb61.jpg"
-    },
-    {
-      "alternativeText": "Mercedes S-Class: Luxury vehicle with modern interior and high-quality features",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_0b6559db57.jpg"
-    },
-    {
-      "alternativeText": "Mercedes E-Class in front of a forest hotel in picturesque surroundings - elegant car and stylish architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_E_Class_14ca19640a.jpg"
-    },
-    {
-      "alternativeText": "Mercedes V Class in the picturesque Alpine region with surrounding rocks and flowers. Ideal for travel.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_2_14f2db344e.jpg"
-    },
-    {
-      "alternativeText": "Mercedes S-Class in front of elegant architecture outdoors, luxury car and beautiful surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/S_Class_962c95cfe0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

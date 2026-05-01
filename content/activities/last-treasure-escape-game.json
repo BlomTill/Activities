@@ -5,17 +5,9 @@
   "description": "Discover \"The Last Treasure\" Escape Game in your conference room or outdoors in Switzerland.",
   "longDescription": "Discover \"The Last Treasure\" Escape Game in your conference room or outdoors in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "The Last Treasure",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3127d86c9af926ad518b69421b5f4114.jpg"
-    },
-    {
-      "alternativeText": "The Last Treasure",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/20c4f8f8db63843d88bb6395eb27c78b.jpg"
-    },
-    {
-      "alternativeText": "The Last Treasure",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/afda42fa6ae008c0939848fd82f2f5b1.jpg"
-    },
-    {
-      "alternativeText": "The Last Treasure",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e071f2c185a0e59d435138c812d45766.jpg"
-    },
-    {
-      "alternativeText": "The Last Treasure",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c433c8354424d18fdc2f7a3c3654720f.jpg"
-    },
-    {
-      "alternativeText": "The Last Treasure",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5bfd29dd2b75a2914dafb6eb4aff7525.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

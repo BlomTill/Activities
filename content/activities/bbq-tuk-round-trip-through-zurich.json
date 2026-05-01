@@ -5,17 +5,9 @@
   "description": "Discover BBQ tuk round trip through Zurich in Switzerland.",
   "longDescription": "Discover BBQ tuk round trip through Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "ETukTuk BBQ: Enjoy local specialties in Zurich with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_BBQ_3_054dd6d9ba.jpg"
-    },
-    {
-      "alternativeText": "ETukTuk BBQ Zurich: enjoy tender meat and delicious sides in the summer atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_BBQ_1_dd934c1b05.jpg"
-    },
-    {
-      "alternativeText": "ETukTuk in Zurich, city tour, vehicles in colorful design, urban exploration.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Zurich_Tuk_Tuk_Fahrzeuge_53e2ce2bb6.jpg"
-    },
-    {
-      "alternativeText": "Zürich Tuk Tuk Ride: Discover the city with a Tuk Tuk on Bahnhofstrasse.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Bahnhofstrasse_a36c81b7bb.jpg"
-    },
-    {
-      "alternativeText": "ETukTuk Zurich: Experience the night city tour in a Tuk Tuk with many lights and attractions.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Nacht_793956a020.jpg"
-    },
-    {
-      "alternativeText": "ETukTuk BBQ Zurich: Enjoy delicious food and wine in a friendly atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_BBQ_2_78e9f317c6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

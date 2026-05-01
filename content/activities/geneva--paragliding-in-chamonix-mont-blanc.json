@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: Paragliding in Chamonix Mont-Blanc in Switzerland.",
   "longDescription": "Discover From Geneva: Paragliding in Chamonix Mont-Blanc in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Paragliding in Mittenwald under blue sky with clouds",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gleitschirmfliegen_Pexels_75fbb69be8.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc",
-      "caption": "Chamonix Mont-Blanc",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ff783f1acd6c4af91338326930603a7b.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc",
-      "caption": "Chamonix Mont-Blanc",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/876890caad4deea15544025273eabdb9.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc",
-      "caption": "Chamonix Mont-Blanc",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/15fa637b937f5d8df21676a86219fc31.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc, majestic peak with glaciers, clear sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mont_Blanc_ete_COPYRIGHT_BANNIKOV_306682fbef.JPG"
-    },
-    {
-      "alternativeText": "Mont Blanc in the high mountains, snow and glaciers, view from the Aiguille du Midi.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mont_Blanc_depuis_Aiguille_du_Midi_Cie_du_MB_912d0761fa.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc in bright sunshine, snow-covered peaks, clear sky, impressive mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mont_Blanc_F_Bianchi_5bb057ac11.JPG"
-    },
-    {
-      "alternativeText": "Paragliding under blue sky, soft clouds, 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Paragliding_Pexels_0b40861cfa.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding",

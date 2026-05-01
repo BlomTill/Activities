@@ -5,17 +5,9 @@
   "description": "Discover \"Porcelain Casting\": Private Workshop in Zurich in Switzerland.",
   "longDescription": "Discover \"Porcelain Casting\": Private Workshop in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "IMG_7295 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aecd9cf82daec2323376f28888defb33.jpeg"
-    },
-    {
-      "alternativeText": "IMG_0002 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d047047f07a9576be6f0c897a4bb649d.jpeg"
-    },
-    {
-      "alternativeText": "IMG_4493",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1fef4283a796e70d070b8f4b4256f826.jpeg"
-    },
-    {
-      "alternativeText": "IMG_4928",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b578523331b52685517e21081d523dce.jpeg"
-    },
-    {
-      "alternativeText": "IMG_7335",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/110cb38d671cbb3af809b1a040f69b0b.jpeg"
-    },
-    {
-      "alternativeText": "IMG_9987",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c39132cbb8b7dffd4d3df14107b8e833.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

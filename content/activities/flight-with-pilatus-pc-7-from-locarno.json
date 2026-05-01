@@ -5,17 +5,9 @@
   "description": "Discover Sightseeing flight Locarno with Pilatus PC7 small airplane in Switzerland.",
   "longDescription": "Discover Sightseeing flight Locarno with Pilatus PC7 small airplane in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,23 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Pilatus PC-7 in high-speed flight over mountains, clear visibility, spring 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_910085785fd38eca486218f6939fd577_08e2d90b26.jpg"
-    },
-    {
-      "alternativeText": "View Flight Pilatus PC7 over snow-covered mountain slopes and peaks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_42d209ff5f598fee2f0d3587342bdf8e_862649d9ed.jpg"
-    },
-    {
-      "alternativeText": "View of Pilatus with snow-covered peaks and glacier",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_Flug_Pilatus_PC_7_d58b8b70b4.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Exclusive panoramic train journeys and private day trip to the Jungfrau Region in Switzerland.",
   "longDescription": "Discover From Zurich: Exclusive panoramic train journeys and private day trip to the Jungfrau Region in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,68 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Panoramazug Sommer",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/17bd66b6a658c614f60c60a247957ba2.jpeg"
-    },
-    {
-      "alternativeText": "Panoramazug Sommer",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86b0bd724aff5adfe2257a3eb5b2c431.jpeg"
-    },
-    {
-      "alternativeText": "Panoramazug Sommer",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9aaff24dc50a8f0f26f9de53cd27530.jpg"
-    },
-    {
-      "alternativeText": "Panoramazug Sommer",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/69b182d071cd8ccf423fea9732588d3d.jpg"
-    },
-    {
-      "alternativeText": "Panoramazug Sommer",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7ce92def27c5bbf78251ce3ccd3b718e.jpeg"
-    },
-    {
-      "alternativeText": "Panoramazug Sommer",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/15d69edc2fbc6c51cf742ca76dd23698.jpg"
-    },
-    {
-      "alternativeText": "Panoramazug Winter",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/442ab05a5ee1448f5ef4710ecbb7a340.jpg"
-    },
-    {
-      "alternativeText": "Panoramazug Winter",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2f2e7e40f2aac5ae0a01165eb7bfbcd3.jpg"
-    },
-    {
-      "alternativeText": "Panoramazug Winter",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a93e5b36b9be6f63e69f353f513c5017.jpg"
-    },
-    {
-      "alternativeText": "Panoramazug Winter",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebbd4c7da45dba13c7a3de949298dd71.jpg"
-    },
-    {
-      "alternativeText": "Panoramazug ",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/328cb75cfe05e60202b46562ebf99ee3.jpg"
-    },
-    {
-      "alternativeText": "Panoramazug Winter",
-      "caption": "Tagestour Luzern Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7f8e443cedf93396b5ab9f19f9c56d68.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train"

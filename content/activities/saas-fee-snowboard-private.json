@@ -5,17 +5,9 @@
   "description": "Discover Private Snowboarding Lessons in Saas-Fee in Switzerland.",
   "longDescription": "Discover Private Snowboarding Lessons in Saas-Fee in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Snowboarder",
-      "caption": "Skischule Saas-Fee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/794e01823f1c819972f39b928b636ce5.JPG"
-    },
-    {
-      "alternativeText": "",
-      "caption": "Skischule Saas-Fee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9923006c60dc559c1b74ab911305b58a.JPG"
-    },
-    {
-      "alternativeText": "Snowboarder",
-      "caption": "Skischule Saas-Fee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f7d39b7d6d5ae5f58f7440b7bbd241a.JPG"
-    },
-    {
-      "alternativeText": "Snowboarder",
-      "caption": "Skischule Saas-Fee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc0381e8701540853a8313d87d6b1d4b.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "snowboarding"

@@ -5,17 +5,9 @@
   "description": "Discover Biel city tour through the old town in Switzerland.",
   "longDescription": "Discover Biel city tour through the old town in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Biel city square with historic architecture and people",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Biel_Tourismus_Biel_Seeland_Stefan_Weber_56c5a9b9d0.jpg"
-    },
-    {
-      "alternativeText": "Biel - Historical Clock Tower in the Old Town with Blue Sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Biel_Tourismus_Biel_Seeland_Stefan_Weber_c4edbe1f4c.jpg"
-    },
-    {
-      "alternativeText": "Biel with historic quarter, evening atmosphere, illuminated buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Biel_Tourismus_Biel_Seeland_Stefan_Weber_cb0328179c.jpg"
-    },
-    {
-      "alternativeText": "Biel Old Town with historic buildings and people",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Biel_Tourismus_Biel_Seeland_Stefan_Weber_3f0cc78a55.jpg"
-    },
-    {
-      "alternativeText": "City square Biel with large tree, historic buildings and people",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05_Biel_Tourismus_Biel_Seeland_Stefan_Weber_bfc9faa460.jpg"
-    },
-    {
-      "alternativeText": "Biel Old Town with historical buildings and streets",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_Biel_Tourismus_Biel_Seeland_Stefan_Weber_3e99816937.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

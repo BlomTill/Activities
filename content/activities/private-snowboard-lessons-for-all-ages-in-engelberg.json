@@ -5,17 +5,9 @@
   "description": "Discover Private snowboard lessons for all ages in Engelberg in Switzerland.",
   "longDescription": "Discover Private snowboard lessons for all ages in Engelberg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,68 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "edit-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d95880d79ab7a7e6b7c505022b9fbc54.jpg"
-    },
-    {
-      "alternativeText": "DSC07826",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/72fd8b634b078f7e1a0cd8d12a991c61.jpg"
-    },
-    {
-      "alternativeText": "DSC07810",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6c066f14dd8e2d82920d3d669cdebc6c.jpg"
-    },
-    {
-      "alternativeText": "DSC07768",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c06870f709a643175cae1b17e96f893d.jpg"
-    },
-    {
-      "alternativeText": "edit-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e1795d34861de7dc8d3a13820efad854.jpg"
-    },
-    {
-      "alternativeText": "edit-3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c4d83aab658b9220765a448168c651ed.jpg"
-    },
-    {
-      "alternativeText": "edit-6",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9c004cf99bc548bccff594d58a9d1359.jpg"
-    },
-    {
-      "alternativeText": "edit-7",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9b0a0513c27564d56cae1d3b4adba4dd.jpg"
-    },
-    {
-      "alternativeText": "edit-8",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ee6923c3afde4bf89c7613996c89f57.jpg"
-    },
-    {
-      "alternativeText": "edit-9",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/77b8f42668fb5d455edd88cee69fccaf.jpg"
-    },
-    {
-      "alternativeText": "DSC07706",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/13515f9725cea161fcae0a0fed0ab753.jpg"
-    },
-    {
-      "alternativeText": "DSC07604",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/459735aca12b3bd774a40a437e0afb33.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

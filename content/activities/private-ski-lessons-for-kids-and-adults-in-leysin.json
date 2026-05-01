@@ -5,17 +5,9 @@
   "description": "Discover Private ski lessons for kids and adults in Leysin in Switzerland.",
   "longDescription": "Discover Private ski lessons for kids and adults in Leysin in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Fun time 01",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/56aa681a41a6321738c2cc0cb8d699f5.jpg"
-    },
-    {
-      "alternativeText": "private lesson",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec90d26905768b0cd10c2783859db896.jpg"
-    },
-    {
-      "alternativeText": "Fresh snow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45fa5ab43f3b320e099b78d469fba17b.jpg"
-    },
-    {
-      "alternativeText": "Berceuse lift",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7159dde802a3a1da9e39d068285fa038.jpg"
-    },
-    {
-      "alternativeText": "IMG-20241001-WA0018",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16c2e24493f5ede12ddad9e8255427e5.jpg"
-    },
-    {
-      "alternativeText": "Private",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/867a0bc22a888579d417f695dacaf597.jpg"
-    },
-    {
-      "alternativeText": "Les Fers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e3ae433253abc5c40584ca2baeb2407.jpg"
-    },
-    {
-      "alternativeText": "Red slope",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5a87200eb19c87b5c1600e6aabde84c5.jpg"
-    },
-    {
-      "alternativeText": "Sophie",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e33f0536fe9a37fd53d3019cccf11cf3.jpg"
-    },
-    {
-      "alternativeText": "education",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba9123a4118d0a389ea6912c8315d9fa.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "kids"

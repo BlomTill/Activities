@@ -5,17 +5,9 @@
   "description": "Discover Golf Grindelwald - Play at the foot of the Eiger in Switzerland.",
   "longDescription": "Discover Golf Grindelwald - Play at the foot of the Eiger in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "64",
-    "title": "Golf",
-    "slug": "golf",
-    "description": "Discover your exceptional place for golf and book right here. Green meadows on remote high valleys, behind them the mountains and a view of the beautiful lake landscape. What could be better than playing golf in the middle of it all? You will find well-kept golf courses everywhere in Switzerland. You can practice your tee shot in the vastness of the Engadine, in Lavaux with a view over the Vaud Alps or in Grindelwald in front of an impressive mountain panorama."
-  },
+  "subcategory": "Golf",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Golfspieler auf dem Golfplatz mit pinken Socken während des Spiels.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_4379015708cf91887c97c57b2420f886_01ed80cd04.jpg"
-    },
-    {
-      "alternativeText": "asdfasdfasd",
-      "caption": "aasdfasdfasdffasdfasdfasdfadsf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_d7bd4f750da011b5abef53a437e132ad_e8259d0510.jpg"
-    },
-    {
-      "alternativeText": "Golf course Grindelwald with driving range, parking facilities, and course details.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Golfplatz_Grindelwald_cad23b9173.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

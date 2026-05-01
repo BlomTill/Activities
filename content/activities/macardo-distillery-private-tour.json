@@ -5,17 +5,9 @@
   "description": "Discover Macardo distillery private tour in Switzerland.",
   "longDescription": "Discover Macardo distillery private tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "145",
-    "title": "Distillery",
-    "slug": "distillery",
-    "description": "A visit to a distillery will give you an exciting insight into the art of making spirits. During a guided tour, you will get to know the various production areas. A knowledgeable member of staff will explain the process of making spirits from start to finish. You will learn which raw materials and ingredients are used to produce the spirits and what is involved in the distillation process. A highlight of the visit is the tasting of the distillery's products, where you will get to know their aromas, flavors and nuances under expert guidance.\n"
-  },
+  "subcategory": "Distillery",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Macardo Distillery: Modern distillery with copper facilities and stainless steel; an ideal destination for spirits enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Macardo_Distillery_48_cd98ea0061.jpg"
-    },
-    {
-      "alternativeText": "Macardo: modern distillery with copper stills and high-quality equipment for spirits",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Macardo_Distillery_49_ff018c87be.jpg"
-    },
-    {
-      "alternativeText": "Macardo: Insights into the wine barrel storage with wooden barrels for wine production in picturesque surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Macardo_Fasslager_03_2b8440d0dc.jpg"
-    },
-    {
-      "alternativeText": "Macardo: wooden casks in the whiskey warehouse with single malt and fine pleasures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Macardo_Fasslager_06_460d9e0ddb.jpg"
-    },
-    {
-      "alternativeText": "Macardo: Wooden barrels in a modern warehouse for whisky with a view of the harbor, stylish and inviting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Macardo_Fasslager_E7_A4278_d7bf388f4e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

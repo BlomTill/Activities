@@ -5,17 +5,9 @@
   "description": "Discover From Sigriswil: Private hike to Sigriswiler Rothorn with a Swiss triathlete in Switzerland.",
   "longDescription": "Discover From Sigriswil: Private hike to Sigriswiler Rothorn with a Swiss triathlete in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,83 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "IMG_9845",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e6381fa53195aa37a005a20fb553086.jpg"
-    },
-    {
-      "alternativeText": "IMG_2231",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e6f31801a293d71d9095e4c551fbdafa.jpg"
-    },
-    {
-      "alternativeText": "IMG_9861",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/53ecd25367f242d40f8206a6075f61a0.jpg"
-    },
-    {
-      "alternativeText": "IMG_2268-F0183",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3685be7cab1da5405aaf566e420441d0.JPEG"
-    },
-    {
-      "alternativeText": "IMG_9796",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b0090f94617c68543bb21685eb013c4.jpg"
-    },
-    {
-      "alternativeText": "IMG_9828",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/191f0d6d097c9f177cb142b10b224b58.jpg"
-    },
-    {
-      "alternativeText": "IMG_9830",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c2b856550b7e8a690dcd2ea0ee022fd.jpg"
-    },
-    {
-      "alternativeText": "IMG_9832",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/471f3e4e58090a29902dc82e22031097.jpg"
-    },
-    {
-      "alternativeText": "IMG_9833",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3bcb6aefde2398de5c4570f4023773d2.jpg"
-    },
-    {
-      "alternativeText": "IMG_9881",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b4e80e49a88cf9fc514cd99b6d3b2604.jpg"
-    },
-    {
-      "alternativeText": "IMG_9891",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/336727d05ca59e898b7d2f7397c83093.jpg"
-    },
-    {
-      "alternativeText": "IMG_9904",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e51805128e95d0232b4937026f02795.jpg"
-    },
-    {
-      "alternativeText": "IMG_9913",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8a2489d127d30661cc0770e3762328ac.jpg"
-    },
-    {
-      "alternativeText": "IMG_9922",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c34082b3c21f32368acb0352c902e111.jpg"
-    },
-    {
-      "alternativeText": "IMG_9949",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/630dae67f78d27c8fd32b28a4c18bc45.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

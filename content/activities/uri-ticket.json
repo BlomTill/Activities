@@ -5,17 +5,9 @@
   "description": "Discover UriTicket in Switzerland.",
   "longDescription": "Discover UriTicket in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "130",
-    "title": "Swiss Rail Passes",
-    "slug": "rail-pass",
-    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
-  },
+  "subcategory": "Swiss Rail Passes",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Transfer from ship to train in Flüelen. Experience the picturesque arrival by the lake with mountains and recreational activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Go_P_Ex_Umstieg_von_Schiff_auf_Zug_in_Flueelen_SBB_CFF_FFS_Foto_Swiss_Travel_System_AG_8daaee0779.jpeg"
-    },
-    {
-      "alternativeText": "UriTicket Network: Overview of transport connections in Uri. Ideal exploration opportunities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Uri_Ticket_2022_Streckennetz_36d78f3768.jpg"
-    },
-    {
-      "alternativeText": "SGV steamship Uri on Lake Lucerne in autumn with a stunning mountain backdrop.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SGV_Dampfschiff_Uri_im_Herbst_Vierwaldstaettersee_Foto_Swiss_Travel_system_AG_3a1172c8cc.jpeg"
-    },
-    {
-      "alternativeText": "Amsteg Landscape: picturesque lakes and mountains surrounded by lush nature and clear skies.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_3x2_Amsteg_Landscape_Foto_Schweiz_Tourismus_Marcus_Gyger_5064e5ab55.jpg"
-    },
-    {
-      "alternativeText": "Lauerz Seelisberg: View of Lake Lauerz surrounded by mountains and nature, ideal for hiking.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_3x2_Lauerz_Seelisberg_Foto_Schweiz_Tourismus_Martin_Maegli_63e1812fdc.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Photography course for beginners 2 days in Lucerne in Switzerland.",
   "longDescription": "Discover Photography course for beginners 2 days in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "85",
-    "title": "Photo course",
-    "slug": "photo-course",
-    "description": "Book your photography course here. You'll explore the world through the lens of your camera during a photography course. With professional guidance, you'll learn how to get the most out of your photos and either build your skills from the ground up or deepen your knowledge."
-  },
+  "subcategory": "Photo course",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Photography Course Lucerne with Water Movement, Houses, and Trees",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_8_bcad09de23.jpg"
-    },
-    {
-      "alternativeText": "Active photographers during photography course in Lucerne by the water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_1_a861b0d408.jpg"
-    },
-    {
-      "alternativeText": "Photography Course Lucerne, participant photographing cityscape, a moderately cloudy evening sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_5_1fe7e15fe2.jpg"
-    },
-    {
-      "alternativeText": "Camera with a view of Lucerne, mountains, and lake during sunset",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_2_6c9cc21498.jpg"
-    },
-    {
-      "alternativeText": "Photography Course Lucerne at Sunset, accessible from water and city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_3_d5731e2583.jpg"
-    },
-    {
-      "alternativeText": "Lucerne at sunset with cloud reflections in the water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_4_eaf0ef92d9.jpg"
-    },
-    {
-      "alternativeText": "Photography Course Lucerne with a View of the City and the River",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_10_5cbb2e8b8e.jpg"
-    },
-    {
-      "alternativeText": "Lion Monument in Lucerne, photography with blur",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grundlagen_Fotografie_11_722bab2a46.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

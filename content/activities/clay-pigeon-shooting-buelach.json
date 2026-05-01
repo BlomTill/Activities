@@ -5,17 +5,9 @@
   "description": "Discover Clay Pigeon Shooting in Bülach in Switzerland.",
   "longDescription": "Discover Clay Pigeon Shooting in Bülach in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30614",
-    "title": "Shooting and Throwing Sports",
-    "slug": "shooting-and-throwing-sports",
-    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
-  },
+  "subcategory": "Shooting and Throwing Sports",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f1149783bcbe548a3432cac250ae796e.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f0cdb20f0846c28ccd6d6159beb7cfb.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d68ba6af04b4583ae07b65780bf42f9c.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4d11e655c53a810004df4ca8344ab3a.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/550599db9148061129a42286678e9556.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ce0cbdc97e7d5731f2a880da9b412c1.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d83ea0cceb7dd6b8dd892c23161d8d2.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/89f1f422703d65b866218baaf87a2c88.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fec156ad56c635dbcde6fc34eaebc745.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/600e5d5c31e24c8fa59eb6502954d8ac.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/603b6f322a8946bdc69d3a6031dc485c.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/300cc075bfa1d10083516925b35489df.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

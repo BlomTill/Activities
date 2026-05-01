@@ -5,17 +5,9 @@
   "description": "Discover \"Rotten Apple\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover \"Rotten Apple\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rotten Apple: old buildings and futuristic architecture in an urban, post-apocalyptic environment",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Screenshot_02_1920x1080_1710b5ac37.jpg"
-    },
-    {
-      "alternativeText": "Rotten Apple: Cityscape with sunset and urban atmosphere in an abandoned setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Thumbnail_02_1920x1080_7f4fb1eb4d.jpg"
-    },
-    {
-      "alternativeText": "VR Rotten Apple: experience thrilling adventures in virtual reality with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_7_40e6cb7c3c.jpg"
-    },
-    {
-      "alternativeText": "Rotten Apple: gloomy train station with abandoned carriages and urban flair, an ideal setting for horror fans.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Screenshot_04_1920x1080_6a72638b74.jpg"
-    },
-    {
-      "alternativeText": "VR Rotten Apple: Experience virtual adventures with cutting-edge technology in an interactive environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_1_02716a3d15.jpg"
-    },
-    {
-      "alternativeText": "Rotten Apple: impressive game with urban flair and artistic representation of decay.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Screenshot_07_1920x1080_ad2b031037.jpg"
-    },
-    {
-      "alternativeText": "VR: Woman with VR headset experiences virtual adventures and interesting technology.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_5_c3288e5026.jpg"
-    },
-    {
-      "alternativeText": "Rotten Apple shows abandoned streets of a post-apocalyptic city with quarantine signs and an eerie atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Thumbnail_01_1920x1080_c0bdb49fdb.jpg"
-    },
-    {
-      "alternativeText": "VR Rotten Apple: Experience virtual adventures in a modern environment with interactive elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_6_36447f3f50.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

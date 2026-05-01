@@ -5,17 +5,9 @@
   "description": "Discover From Alpnachstad near Lucerne: A private hike to Pilatus with a Swiss triathlete in Switzerland.",
   "longDescription": "Discover From Alpnachstad near Lucerne: A private hike to Pilatus with a Swiss triathlete in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "IMG_2700",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66abf67bdd5090b98c828b7e03a6780b.jpg"
-    },
-    {
-      "alternativeText": "IMG_2702",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cb53610184494d12abe34d1c68c31276.jpg"
-    },
-    {
-      "alternativeText": "IMG_2703",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a00e459dd774fa02b279ec248b595f1e.jpg"
-    },
-    {
-      "alternativeText": "IMG_2688",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6dc0972b91663e8041fe78294742866e.JPG"
-    },
-    {
-      "alternativeText": "IMG_2690",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2348cc08b129627d6c1242d2d1eafb1e.JPG"
-    },
-    {
-      "alternativeText": "IMG_6787",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6f930355c5e53addfc81aa33be23948c.jpg"
-    },
-    {
-      "alternativeText": "IMG_6788",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/85d83794078769af29089bb82404bab9.jpg"
-    },
-    {
-      "alternativeText": "IMG_6792",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/68cec43f461aeccd3b8db2c2e1163b30.jpg"
-    },
-    {
-      "alternativeText": "IMG_6795",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5fe40f966121764f1533af47e341afdd.jpg"
-    },
-    {
-      "alternativeText": "IMG_6814",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4ee5889a6aca3bd96e7f279a4e1739c1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

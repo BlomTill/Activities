@@ -5,17 +5,9 @@
   "description": "Discover Voralpen Express Ticket from St. Gallen or Lucerne in Switzerland.",
   "longDescription": "Discover Voralpen Express Ticket from St. Gallen or Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "143",
-    "title": "Scenic train",
-    "slug": "scenic-train",
-    "description": "There are several world-famous scenic trains in Switzerland, such as the Glacier Express, the Bernina Express and the Golden Pass Line. A panoramic train runs on routes that are particularly worth seeing. Whether beautiful landscapes, remarkable natural attractions or extraordinary buildings, the view is always very special. That's why a panoramic train has particularly large windows that allow a good view and great photos. In addition to the panoramic windows, a panoramic train often also offers elevated seats from which you can get an even better view of the surroundings."
-  },
+  "subcategory": "Scenic train",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Voralpen Express",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/266c42acdb55775d631a26f867e9a26f.jpg"
-    },
-    {
-      "alternativeText": "Voralpenexpress: comfortable S-Bahn with red seats in Switzerland for travelers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Voralpenexpress_Seraina_6e8769b7f2.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: View of the city with the lake, historic buildings, and mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_Pixabay_1_068cb11926.jpg"
-    },
-    {
-      "alternativeText": "Lake Zurich: picturesque water landscape with mountains, perfect activities in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerichsee_Pixabay_18502c8b55.jpg"
-    },
-    {
-      "alternativeText": "Rapperswil Castle: impressive architecture and green nature in the city of Rapperswil.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rapperswil_Schloss_Pixabay_51bd0f65bd.jpg"
-    },
-    {
-      "alternativeText": "St. Gallen: View of the historic old town with picturesque buildings and characteristic roofs.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/St_Gallen_2_Seraina_963c95822c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

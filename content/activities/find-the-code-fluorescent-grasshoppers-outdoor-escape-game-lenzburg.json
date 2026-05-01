@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Fluorescent Grasshoppers\" Outdoor Escape Game Lenzburg in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Fluorescent Grasshoppers\" Outdoor Escape Game Lenzburg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-lenzburg",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/53063d6801d5529b30ac884ecb4eaa3b.jpg"
-    },
-    {
-      "alternativeText": "Site plan Lenzburg",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fb57c5a8f3563df2c5c0bdae58b13a8a.jpg"
-    },
-    {
-      "alternativeText": "group-photo_hk_flowers_case_phone_neutral_",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09227ffb360f562ae388f64271cea44c.jpg"
-    },
-    {
-      "alternativeText": "photoshoot-karlsruhe-55-edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3b30f9d378964bcb6f513a28a66a620.jpg"
-    },
-    {
-      "alternativeText": "Site Plan 1 - Lenzburg",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b8e3fa5e66ade1cb1dd88ff86b8d1eb.jpg"
-    },
-    {
-      "alternativeText": "find-the-code-team-photo15-fullsize",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c7573169810b38ff2e3b1927eee7529f.jpeg"
-    },
-    {
-      "alternativeText": "group-hk-front-run",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f1ff03c6808e3a2a00a4ebf7e44e7b44.jpg"
-    },
-    {
-      "alternativeText": "group_crosswise_sideways_cheerful-discussing-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2925625ace0aa5bd28a659ade2d82cd8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Individual full day tour from Interlaken in Switzerland.",
   "longDescription": "Discover Individual full day tour from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "75",
-    "title": "Private Autotour",
-    "slug": "private-car-tour",
-    "description": "Book your trip with a private chauffeur in Switzerland. You have a chauffeur with car all to yourself and your companion alone. Whether for a specific excursion of several hours or a whole day, you can enjoy the time with your partner or family and do not have to worry about anything. Most of the time the driver is also your guide, who can give you a lot of exciting information about the region."
-  },
+  "subcategory": "Private Autotour",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Interlaken with a view of Lake Thun, green meadows, and the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Individuelle_Tour_Interlaken_Pure_Switzerland_2_c8411a462d.jpg"
-    },
-    {
-      "alternativeText": "Individual tour Interlaken with alpine view over meadows and mountain huts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Individuelle_Tour_Interlaken_Pure_Switzerland_3_6c5be62bcf.jpg"
-    },
-    {
-      "alternativeText": "Glacier lake in Interlaken, glacial landscape, hiker, clear view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Individuelle_Tour_Interlaken_Pure_Switzerland_4_82bc8558ba.jpg"
-    },
-    {
-      "alternativeText": "Glacier landscape in Interlaken, activity, beautiful mountain world.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Individuelle_Tour_Interlaken_Pure_Switzerland_5_a5ed4462ab.JPG"
-    },
-    {
-      "alternativeText": "Waterfall in Interlaken, mountain landscape, green meadows",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Individuelle_Tour_Interlaken_Pure_Switzerland_44cf4b642a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

@@ -5,17 +5,9 @@
   "description": "Discover Private course on photographing ibex in the Engadin in Switzerland.",
   "longDescription": "Discover Private course on photographing ibex in the Engadin in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "85",
-    "title": "Photo course",
-    "slug": "photo-course",
-    "description": "Book your photography course here. You'll explore the world through the lens of your camera during a photography course. With professional guidance, you'll learn how to get the most out of your photos and either build your skills from the ground up or deepen your knowledge."
-  },
+  "subcategory": "Photo course",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "cropped-1D51703",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a146a249dcd7f2f989ac2cf117a378c1.jpg"
-    },
-    {
-      "alternativeText": "Stein cutout",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5682cb1cbecf6ab5ea89ece2f7880e19.jpg"
-    },
-    {
-      "alternativeText": "rot_4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ce7775fc1e169bfde9d18d6b599b09cc.jpg"
-    },
-    {
-      "alternativeText": "D8E7517-Print-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9abe3831e47d2a5ddbf31ebb4bc1ceb2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

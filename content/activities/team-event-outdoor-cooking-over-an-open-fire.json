@@ -5,17 +5,9 @@
   "description": "Discover Team Event - Outdoor Cooking Over an Open Fire in Switzerland.",
   "longDescription": "Discover Team Event - Outdoor Cooking Over an Open Fire in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "61",
-    "title": "Cooking course",
-    "slug": "cooking-course",
-    "description": "Choose your special cooking class from various topics and book it here. Whether alone, as a couple or in a group, a cooking class expands all the senses and is a welcome change for the busy everyday life. Often it's about discovering an unknown or particularly exotic cuisine and learning new tricks. Of course, the subsequent enjoyment of the created masterpiece may not be missing."
-  },
+  "subcategory": "Cooking course",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "batch-cooking-30",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/beb76cc109c9cfe55c31656396be8dac.jpg"
-    },
-    {
-      "alternativeText": "batch_cooking_17",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3822ed04805ab249540faf4fdd1f1253.jpg"
-    },
-    {
-      "alternativeText": "batch_cooking_16",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/de4b08d7ffded10538fa9b90aecb44a5.jpg"
-    },
-    {
-      "alternativeText": "batch_cooking_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/daea2e4b30b384c039e87dacf28ec015.jpg"
-    },
-    {
-      "alternativeText": "DSCF0956 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/55a308a6a4c8df9b2614a19d1940e7bf.jpg"
-    },
-    {
-      "alternativeText": "Still 2025-12-23 144735_1.45.1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2805bd51de6a7b2b74f6f766f815701a.jpg"
-    },
-    {
-      "alternativeText": "cook_22",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9c226f46f7aabc6e21a2e8b04c0a53aa.jpg"
-    },
-    {
-      "alternativeText": "DSCF0935",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d3fa706bb00b8dbb9f341236e9c93ef6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the groom\" in Solothurn: action-packed stag party in Switzerland.",
   "longDescription": "Discover \"Beat the groom\" in Solothurn: action-packed stag party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Team activity by a body of water with friends for a bachelor party, wearing funny T-shirts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_0a8cc57f4d.jpg"
-    },
-    {
-      "alternativeText": "Solothurn: picturesque riverside city with historical architecture and clear skies.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Solothurn_unsplash_f116b45f5b.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Group celebrates with beer in funny shirts outdoors",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_fbe3bbf4ba.jpg"
-    },
-    {
-      "alternativeText": "Solothurn: picturesque old town with historic buildings and charming streets. Discover the architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/solothurn_pixabay_bf9d62bcb0.jpg"
-    },
-    {
-      "alternativeText": "Beat the Bachelor: unforgettable outdoor sports team activity on a green space.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_abdb95f5ab.jpg"
-    },
-    {
-      "alternativeText": "Solothurn: Historical building with impressive architecture and view of the city, Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Solothurn_unsplash_f0a33419c4.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

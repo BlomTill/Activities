@@ -5,17 +5,9 @@
   "description": "Discover Edelwhite Gin Distillery: tour and own gin and tonic creation in Switzerland.",
   "longDescription": "Discover Edelwhite Gin Distillery: tour and own gin and tonic creation in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "145",
-    "title": "Distillery",
-    "slug": "distillery",
-    "description": "A visit to a distillery will give you an exciting insight into the art of making spirits. During a guided tour, you will get to know the various production areas. A knowledgeable member of staff will explain the process of making spirits from start to finish. You will learn which raw materials and ingredients are used to produce the spirits and what is involved in the distillation process. A highlight of the visit is the tasting of the distillery's products, where you will get to know their aromas, flavors and nuances under expert guidance.\n"
-  },
+  "subcategory": "Distillery",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Edelwhite Gin: Fragrant herbs, fresh fruits, and spirits to visit in the distillery.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/edelwhite_gin_destillerie_besichtigung_03_c9c4a8c41a.jpg"
-    },
-    {
-      "alternativeText": "Edelwhite Gin: Tour of the distillery with tasting of their creation made from exquisite botanicals.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/edelwhite_gin_destillerie_besichtigung_01_a373526835.jpg"
-    },
-    {
-      "alternativeText": "Edelwhite Gin: Experience distillation in the gin distillery and discover the secrets of creation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/edelwhite_gin_destillerie_besichtigung_02_1405616b95.jpg"
-    },
-    {
-      "alternativeText": "Edelwhite Gin: creative drink tastings and ingredients at the distillery with fresh berries and herbs.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/edelwhite_gin_destillerie_besichtigung_04_d2d535a711.jpg"
-    },
-    {
-      "alternativeText": "Edelwhite Gin: Visit the distillery and learn the art of gin making.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/edelwhite_gin_destillerie_besichtigung_05_79cd915fb2.jpg"
-    },
-    {
-      "alternativeText": "Edelwhite Gin: Enjoyment breakfast with cocktails and snacks during the distillery tour.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/edelwhite_gin_destillerie_besichtigung_06_978285a714.jpg"
-    },
-    {
-      "alternativeText": "Edelwhite Gin: Culinary Tasting with Snacks and Drinks in a Relaxed Atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/edelwhite_gin_destillerie_besichtigung_07_edfd68cd47.jpg"
-    },
-    {
-      "alternativeText": "Edelwhite Gin: Discover your own creation in the distillery with enjoyment and craftsmanship.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/edelwhite_gin_destillerie_besichtigung_08_8513c20fb6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

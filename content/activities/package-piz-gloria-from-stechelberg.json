@@ -5,17 +5,9 @@
   "description": "Discover Package Piz Gloria incl. train ticket from Stechelberg in Switzerland.",
   "longDescription": "Discover Package Piz Gloria incl. train ticket from Stechelberg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,63 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "360°-Restaurant Piz Gloria Website Gallery",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e5a8f8686abbce2cbd4a0bfd13af7a23.jpg"
-    },
-    {
-      "alternativeText": "Schilthorn Cable Car with a View of the Mountains and Snowy Landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_5b3c648dfcb53aaad918d9a7aa311ad1_5506e2ad3c.jpg"
-    },
-    {
-      "alternativeText": "Birg Selfie Spot Schilthorn with a view of the Bernese Alps, snow, clouds, photographers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Birg_Selfiespot_Schilthorn_17f782bfb7.jpg"
-    },
-    {
-      "alternativeText": "Mürren_DJI_0601_webalbum",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a6765d2c97513cc337bc094aa67be899.jpg"
-    },
-    {
-      "alternativeText": "Cable car at the Schilthorn with a view of snowy mountains and valley.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seilbahn_Muerren_Schilthorn_36d7ece18d.jpg"
-    },
-    {
-      "alternativeText": "Funifor_ZUR08063_webalbum",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b9670d2dbf0daa366de84c95665092d.jpg"
-    },
-    {
-      "alternativeText": "Schilthorn Panorama Gallery",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ea4ed971466867ff092618cf205a5681.jpg"
-    },
-    {
-      "alternativeText": "360°-Restaurant_PizGloria-4687_webalbum",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aaed818817461c41f3a33b08f2f217dd.jpg"
-    },
-    {
-      "alternativeText": "Birg_ThrillWalk_ZUR00479_webalbum",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b916043524859e650be8a7e66df3f36.jpg"
-    },
-    {
-      "alternativeText": "Birg_ThrillWalk_ZUR00399_webalbum",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/591891d8e9169d1f0aaced39cb6015e7.jpg"
-    },
-    {
-      "alternativeText": "Birg_ThrillWalk_DJI_20250410144405_0076_D_webalbum",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/12e18b7566abc731fa17a5e5670638e7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train"

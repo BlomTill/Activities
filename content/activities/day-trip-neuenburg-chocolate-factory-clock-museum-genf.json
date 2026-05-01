@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: day trip to the chocolate factory, watch museum and Neuchâtel Castle in Switzerland.",
   "longDescription": "Discover From Geneva: day trip to the chocolate factory, watch museum and Neuchâtel Castle in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Neuchâtel: impressive architectural detail of watchmaking during a day trip",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/328ecd41b18344e3dd857df279f7761d.jpg"
-    },
-    {
-      "alternativeText": "Chocolate: Delicious ingredient for cooking and baking adventures in your free time with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/38acc5b6ec93db99eeda35922af760ca.jpg"
-    },
-    {
-      "alternativeText": "Watches: Close-up of a mechanical watch movement with intricate craftsmanship and precise gears.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2850836c5af58e8fa709b5ece1b32050.jpg"
-    },
-    {
-      "alternativeText": "Lake Geneva: picturesque vineyard landscape with views of the mountains and the lake on the day trip.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9ba91a7cb58529238233079c59c13042.JPG"
-    },
-    {
-      "alternativeText": "Lake Geneva: Idyllic vineyards with a view of Lavaux and the Bernese Alps, ideal for day trips.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b22c9c85a9247b317205ee33cd3f90de.JPG"
-    },
-    {
-      "alternativeText": "Neuchatel Castle: impressive architecture in Neuchatel, surrounded by nature and historical elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9845182cf0e1113eb9b76112cce51fe2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "museum",

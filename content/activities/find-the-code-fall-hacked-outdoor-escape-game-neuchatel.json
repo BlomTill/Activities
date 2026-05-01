@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Fall Hacked\" Outdoor Escape Game Neuchâtel in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Fall Hacked\" Outdoor Escape Game Neuchâtel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-neuenburg-hacked",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04aebdf47d2ed12b9fcbbf2a5b5e1b58.jpg"
-    },
-    {
-      "alternativeText": "noah-dustin-von-weissenfluh-3eM23mlkch8-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3bf36241e30b7c8abdb9d8b0eda58015.jpg"
-    },
-    {
-      "alternativeText": "group_hk_file_daniel_puzzle_solved_party-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/29f8b182a28ce792be0a3e5881b9c2ee.jpg"
-    },
-    {
-      "alternativeText": "Map-Neuchâtel",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/05921ef7ee17447538a817e23728b6cd.jpg"
-    },
-    {
-      "alternativeText": "Map-Neuchatel1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1c79d8b7ffb85c709492b3530a1c42d7.jpg"
-    },
-    {
-      "alternativeText": "find-the-code-team-photo15-fullsize",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/71c3c33063872a3e47f3c5f0c7d47614.jpeg"
-    },
-    {
-      "alternativeText": "group-photo-wide-front-happy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/94cf4dfe56889b78ec7485223b6b4d66.jpg"
-    },
-    {
-      "alternativeText": "group-photo-landscape-file-phone-neutral-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e2d20f76a905369b4a8d8e9d4f56c2c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

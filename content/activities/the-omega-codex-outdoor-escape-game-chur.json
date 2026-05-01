@@ -5,17 +5,9 @@
   "description": "Discover \"The Omega Codex\" Outdoor Escape Game Chur in Switzerland.",
   "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game Chur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Chur ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1c079e4186fae1f4cad349f98fc4891c.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Chur ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f06892e763ad1dd70eb517b7dd8471f.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Chur ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5bd5cfe521757bf9eb570108e917ef68.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Chur ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11ea5bf8f0467aceaadff477aceea11f.png"
-    },
-    {
-      "alternativeText": "Chur ",
-      "caption": "Escape Game Chur ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/92d4722ffcebf5b48416d4a0ba3da1ba.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

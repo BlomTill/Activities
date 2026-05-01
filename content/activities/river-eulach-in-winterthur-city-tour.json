@@ -5,17 +5,9 @@
   "description": "Discover River Eulach in Winterthur city tour in Switzerland.",
   "longDescription": "Discover River Eulach in Winterthur city tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,28 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Visitor group at the Eulach, City of Winterthur, Autumn day",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eulach_1_8420c48683.jpg"
-    },
-    {
-      "alternativeText": "Model City Eulach in Winterthur with a View of Visitors",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eulach_2_0c8e908065.jpg"
-    },
-    {
-      "alternativeText": "Eulach Fountain in Winterthur with people and colorful buildings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eulach_3_3a1ee9c03c.jpg"
-    },
-    {
-      "alternativeText": "Eulach underground tunnel in Winterthur during a tour",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Eulach_Key_46bd76b197.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "river"

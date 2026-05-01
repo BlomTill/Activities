@@ -5,17 +5,9 @@
   "description": "Discover Cable car ticket Niederrickenbach ab Dallenwil in Switzerland.",
   "longDescription": "Discover Cable car ticket Niederrickenbach ab Dallenwil in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Maria Rickenbach1-Unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/17d1b7e98d3e4e1c39a896b5abbc56be.jpg"
-    },
-    {
-      "alternativeText": "01 laurin-vontobel-mXuqg5CYuU8-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4b9abb095fcd65d1355deab26e97b687.jpg"
-    },
-    {
-      "alternativeText": "02 laurin-vontobel-oLWqyeBKRGE-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3cf0f6868b995d14f8c27dc3bf02f26.jpg"
-    },
-    {
-      "alternativeText": "03 Maria Rickenbach - Unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f720cc7b43b96c4fbe7a896a983fccef.jpg"
-    },
-    {
-      "alternativeText": "laurin-vontobel-_sfduKrjOdc-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a32bb1adad1d0e441536048ad7932476.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "cable-car"

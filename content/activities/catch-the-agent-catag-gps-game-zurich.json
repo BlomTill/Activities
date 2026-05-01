@@ -5,17 +5,9 @@
   "description": "Discover \"Catch the Agent\" GPS game for team events in Zurich in Switzerland.",
   "longDescription": "Discover \"Catch the Agent\" GPS game for team events in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,63 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Zwei Spieler",
-      "caption": "Catch the Agent Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fb4e49d56a88b6fcbf10f114864e8183.jpg"
-    },
-    {
-      "alternativeText": "Gruppe mit Schiedsrichter",
-      "caption": "Catch the Agent Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb03b298135e1fdf41fa2869d53300d9.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Catch the Agent Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7a0bbb7456fe8135bdcea7bd521e74ed.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Catch the Agent Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0cbcb355bdc847bbf61a4f0e8219a2d8.jpg"
-    },
-    {
-      "alternativeText": "Schanzengraben",
-      "caption": "Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/045ff505c058675b3488ebc0a63fafea.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Catch the Agent Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f8bb3227b0940ecbf9b0475354a3f7a.jpg"
-    },
-    {
-      "alternativeText": "7 - Action E",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7e485e7440f32d32887ddfdd6e03821.jpg"
-    },
-    {
-      "alternativeText": "Limmat",
-      "caption": "Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f8581ef0c8a7b622b15c77b1ba65c58d.jpg"
-    },
-    {
-      "alternativeText": "Plan",
-      "caption": "Catch the Agent Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d8d395f5d10dc882e7e476993e83b81c.PNG"
-    },
-    {
-      "alternativeText": "Bürkliplatz",
-      "caption": "Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ddb021e7dc691d02c9391795ffd299c1.jpg"
-    },
-    {
-      "alternativeText": "Limmat und Altstadt",
-      "caption": "Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0b5e9ac9e5941a6b313487f2a2d866d8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

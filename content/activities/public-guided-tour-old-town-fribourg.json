@@ -5,17 +5,9 @@
   "description": "Discover Public guided tour of the old town of Fribourg in Switzerland.",
   "longDescription": "Discover Public guided tour of the old town of Fribourg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "197",
-      "title": "Fribourg region"
-    },
+    "region": "Fribourg region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "2024_ST_NicolaFuerer (10)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1076250e497e9966a025a848ef58167f.jpg"
-    },
-    {
-      "alternativeText": "2023_Cantonal Hotel (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6f4d557f03f39e40c6f60513b2bc3371.jpeg"
-    },
-    {
-      "alternativeText": "2024_ST_NicolaFuerer (3)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/510fd23d66252f7bb6066cf4db042ccf.jpg"
-    },
-    {
-      "alternativeText": "2024_ST_NicolaFuerer (11)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/94048d1ee302c4e69491cdcc753194f2.jpg"
-    },
-    {
-      "alternativeText": "2025_Secret of the Auge_PierreCuony (15)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6b8b232a7c340ad164fb4d4f6e92726b.jpg"
-    },
-    {
-      "alternativeText": "2025_Secret of the Auge_PierreCuony (79)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a196196dbc0ca54e3518d7a40def18c5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Meerkat Meetup at Knie's Children's Zoo Rapperswil in Switzerland.",
   "longDescription": "Discover Meerkat Meetup at Knie's Children's Zoo Rapperswil in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "129",
-    "title": "Zoo",
-    "slug": "zoo",
-    "description": "Book your ticket for the zoo here. There are more than 30 zoos and animal parks in Switzerland. Most of them offer a high variety of animals that you can visit and marvel at. The oldest and also the largest zoo in Switzerland is the Basel Zoo, founded in 1874. The \"Zolli\" is located in the middle of the city and is home to more than 600 species of animals. The large Zurich zoo is known for many exotic offspring and is also very popular. Unlike the zoos in the big cities, regional zoos often display animal species that live or have lived in the wild in Switzerland. A good example is the zoo in Goldau"
-  },
+  "subcategory": "Zoo",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,18 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Meerkat",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2038fa1e1acaac70f28fe2f5d20d8837.jpg"
-    },
-    {
-      "alternativeText": "ermanno-knees-kids-zoo-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/762c8e571d2578cb553a0340184a39d8.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Wine tour and dinner for groups in Switzerland.",
   "longDescription": "Discover Wine tour and dinner for groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,63 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Wine tour: Experience wine tasting and enjoy the stunning nature in the Bündner Herrschaft.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/315f7922625b0a5b3f2bdac0a6a2b12c.jpg"
-    },
-    {
-      "alternativeText": "Enjoy gourmet dishes with wine and high-quality ingredients in a romantic setting",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/68fc7ef456cc427eba5a4c01304f9f98.JPG"
-    },
-    {
-      "alternativeText": "Food: exquisite appetizer with vegetables, herbs, and delicacies. Ideal for foodies and connoisseurs.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/df3828baaeed9b71372642d2355d6a16.jpg"
-    },
-    {
-      "alternativeText": "Food: Enjoy exquisite dishes with wine and friends in an elegant restaurant.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cdb725a16ca66d7524836e2c949b39b5.JPG"
-    },
-    {
-      "alternativeText": "Winery: Beautiful ambiance with wine racks, barrels, and romantic lighting in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d48a82aa3078edeea1c9d9b3f6fc2dfa.JPG"
-    },
-    {
-      "alternativeText": "Food: Gourmet dish with meat and risotto at an elegant dinner",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d40062c3757560500d6e757a5dc683ce.JPG"
-    },
-    {
-      "alternativeText": "Wine tour: Enjoy a fascinating tasting in good company under the sunlight.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cd1b1c4852377d512fc4a31fb2453600.JPG"
-    },
-    {
-      "alternativeText": "Wine: Relax with a wine evening with friends outdoors at Heidelberg Winery.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dfd5df979e2716c10b8aa63339d6c823.JPG"
-    },
-    {
-      "alternativeText": "wine-and-dine: Enjoyable food presentation in an elegant restaurant with fresh ingredients.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c0106e46b3fe99187cc2e6b71d1bbe85.jpg"
-    },
-    {
-      "alternativeText": "wine and dine: delicious dishes and drinks in a stylish atmosphere at the restaurant",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/41db4263c9fadfe8293cc9abe324fdb7.jpg"
-    },
-    {
-      "alternativeText": "Dessert: delicious chocolate creation with fresh ingredients, ideal for romantic dinners.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/73089925957a9e7fa0ff23c2ca288238.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "wine"

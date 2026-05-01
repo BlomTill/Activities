@@ -5,17 +5,9 @@
   "description": "Discover Fire Kitchen \"Vietnam Style\" in Zürcher Weinland in Switzerland.",
   "longDescription": "Discover Fire Kitchen \"Vietnam Style\" in Zürcher Weinland in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "61",
-    "title": "Cooking course",
-    "slug": "cooking-course",
-    "description": "Choose your special cooking class from various topics and book it here. Whether alone, as a couple or in a group, a cooking class expands all the senses and is a welcome change for the busy everyday life. Often it's about discovering an unknown or particularly exotic cuisine and learning new tricks. Of course, the subsequent enjoyment of the created masterpiece may not be missing."
-  },
+  "subcategory": "Cooking course",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Still 2025-12-23 144735_1.40.1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/96c37fb8a281fb7734081c9ea759e365.jpg"
-    },
-    {
-      "alternativeText": "6953c2b989bec422320f8ea6_cooking_75",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7f09d8a12d62b53d6a28fb776eb803ff.jpg"
-    },
-    {
-      "alternativeText": "Still 2025-12-23 144735_1.22.1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba146c057b3e63d8525abb4b91129b39.jpg"
-    },
-    {
-      "alternativeText": "Still 2025-12-23 144735_1.11.1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a662b6e20e304995b6dcbe1683365672.jpg"
-    },
-    {
-      "alternativeText": "cooking-67",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebfffbbe3aa69c855cd041555d42e59a.jpg"
-    },
-    {
-      "alternativeText": "cooking-42",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1498c9a5f1bc18a89610a38c46c0fab0.jpg"
-    },
-    {
-      "alternativeText": "cook_20",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3b7d00e4e6dcc31d128797ad7b03b6a.jpg"
-    },
-    {
-      "alternativeText": "batch_cooking_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a051789e832bf6f778e95e89669d21d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

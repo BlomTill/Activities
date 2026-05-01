@@ -5,17 +5,9 @@
   "description": "Discover Office Show Zurich in Switzerland.",
   "longDescription": "Discover Office Show Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,78 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16.50.21 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/226a878f9825f964c2448038eed2129c.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp image 2025-04-14 at 16:50:24 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66a506046cbbec46f0906de84e7a9b0f.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp image 2025-04-14 at 16:50:27 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/85ac5df510835adf31011a4d3d8a5593.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16.50.27 (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1cc9fa14d4bb20647b5a88cbb22a56f.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16:50:28 (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/748f25d3ba803b2627d298eb0a7af752.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp image 2025-04-14 at 16:50:28 (5)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7ae416201a1880eaed5ceac2b508e0ff.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16.50.28",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fba98a7b47b877980022ff116b9dffc6.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16.50.29 (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c19e54aa19483db526d6cd8df73eb6c.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16.50.29 (4)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f0f92887ae8443bb53390cf4e3b1bdd.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16:50:29 (5)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a28b1aeb0c1dcf6f1337884f88def9d.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16.50.30 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2a9fb90f171ab225828cc4e668bd24d4.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16.50.30 (3)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a5099271e3a29bc12ad9b8e5e75533e0.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-14 at 16.50.30 (5)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/840c32719be0997f2ee920946e7a77fe.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 14.04.2025 at 16:50:30",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d815d7e27dd81095ddf70060c453a42.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

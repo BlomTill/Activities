@@ -5,17 +5,9 @@
   "description": "Discover Scuol Guided tour Church Thursdays in Switzerland.",
   "longDescription": "Discover Scuol Guided tour Church Thursdays in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,28 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Church Scuol in winter with snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kirche_Scuol_Wi_Andrea_Badrutt_3e295d80cd.jpg"
-    },
-    {
-      "alternativeText": "Church Scuol with surroundings, river, and mountains in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/So_Kirche_Scuol_Andrea_Badrutt_30d6bf26e3.jpg"
-    },
-    {
-      "alternativeText": "Village tour in Scuol with interesting exhibits",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dorffuehrung_scuol_dominik_taeuber_25_951c70bf2a.jpg"
-    },
-    {
-      "alternativeText": "Inside the church Scuol, drinks and snacks are available at the table",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dorffuehrung_scuol_dominik_taeuber_10_90ecad6f97.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Ab Geneva: Bus tour to Chamonix Mont-Blanc and Geneva including mini train in Switzerland.",
   "longDescription": "Discover Ab Geneva: Bus tour to Chamonix Mont-Blanc and Geneva including mini train in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,63 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Globe at the UN building in Geneva reflects the clear sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international1_2048_10_d90d5138f4.jpg"
-    },
-    {
-      "alternativeText": "Chamonix-Mont-Blanc with blossoming trees and city view in spring",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village6_2048_1_02d6adc54e.jpg"
-    },
-    {
-      "alternativeText": "Statue in Chamonix-Mont-Blanc shows hikers, snowy mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chamonix_Maxime_Coquard_1_7ee3eecdee.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc with snow and glacier under blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mont_Blanc_ete_COPYRIGHT_BANNIKOV_c2017590af.JPG"
-    },
-    {
-      "alternativeText": "Chamonix-Mont-Blanc ",
-      "caption": "Genf und Chamonix-Mont-Blanc ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dadb8b18c961ac053b84be0e1ce2caee.jpg"
-    },
-    {
-      "alternativeText": "Fountain in front of the United Nations building in Geneva, summer. Water plays in the air.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international8_2048_10_598baba545.jpg"
-    },
-    {
-      "alternativeText": "Bains des Paquis in Geneva with women playing in the water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Congres_Bains_des_Paquis_Jet_d_Eau_1_b3bea76cba.jpg"
-    },
-    {
-      "alternativeText": "Flower Clock: colorful flower clock in a beautiful garden in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Horloge_Fleurie_eecff6a54c.jpg"
-    },
-    {
-      "alternativeText": "Flags at Geneva Airport showcase international diversity",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSD_0415_6d3748d784.JPG"
-    },
-    {
-      "alternativeText": "Geneva water spout with rainbow and boat on the water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_parks_and_residences5_2048_10_e4b69590b3.jpg"
-    },
-    {
-      "alternativeText": "Geneva water fountain with boat and clear sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mouettes_Jet_d_Eau_2eacf1aee7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train",

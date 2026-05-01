@@ -5,17 +5,9 @@
   "description": "Discover Private Course: Photographing Larch Magic in the Engadin in Switzerland.",
   "longDescription": "Discover Private Course: Photographing Larch Magic in the Engadin in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "85",
-    "title": "Photo course",
-    "slug": "photo-course",
-    "description": "Book your photography course here. You'll explore the world through the lens of your camera during a photography course. With professional guidance, you'll learn how to get the most out of your photos and either build your skills from the ground up or deepen your knowledge."
-  },
+  "subcategory": "Photo course",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,23 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "D8E0567",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5bf88b2313c7b1d1c026ed263c16f22a.jpg"
-    },
-    {
-      "alternativeText": "albula_40_60",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/25e3f29e41edcd4619c51b8e70513e85.jpg"
-    },
-    {
-      "alternativeText": "85D6136",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3ed441777a25b946a4f7672a08304b38.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

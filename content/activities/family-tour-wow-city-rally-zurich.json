@@ -5,17 +5,9 @@
   "description": "Discover \"Family Tour\" WOW City Rally in Zurich in Switzerland.",
   "longDescription": "Discover \"Family Tour\" WOW City Rally in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "WOW City Rally: exciting family rally in the city with creative challenges and teamwork.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/09_WOW_City_Rally_quer_RGB_172dea9eb6.png"
-    },
-    {
-      "alternativeText": "WOW City Rally: Experience exciting family adventures in the city with the City Rally.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_WOW_City_Rally_Pressemappe_A4_quer_RGB_ohne_22db9b4d52.jpg"
-    },
-    {
-      "alternativeText": "WOW City Rally: Experience an exciting adventure for the whole family in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_WOW_City_Rally_Pressemappe_A4_quer_RGB_481ec8e6b1.jpg"
-    },
-    {
-      "alternativeText": "WOW City Rally Family Tour in Zurich with city views and activities for the whole family",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_WOW_City_Rally_Pressemappe_A4_quer_RGB_ohne_4403d0777b.jpg"
-    },
-    {
-      "alternativeText": "WOW City Rally: Experience the city tour with family, fun, and adventure in the vibrant surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_WOW_City_Rally_Pressemappe_A4_quer_RGB_ohne_3662c22756.jpg"
-    },
-    {
-      "alternativeText": "WOW City Rally Family Tour: Playful city adventure for groups and children with creative activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_WOW_City_Rally_Pressemappe_A4_RGB_54d1278eb9.jpg"
-    },
-    {
-      "alternativeText": "WOW City Rally: exciting, thrilling, humorous, city exploration with family",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_WOW_City_Rally_quer_RGB_91232f7058.png"
-    },
-    {
-      "alternativeText": "WOW City Rally: Playful family tour in Zurich with creative activities and city exploration.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_WOW_City_Rally_quer_RGB_3c5b2356d0.png"
-    },
-    {
-      "alternativeText": "WOW City Rally: Discover exciting adventures on the family tour in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_WOW_City_Rally_quer_RGB_9ff3501ce2.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "family"

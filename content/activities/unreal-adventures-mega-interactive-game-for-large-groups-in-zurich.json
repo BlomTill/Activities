@@ -5,17 +5,9 @@
   "description": "Discover \"Unreal Adventures MEGA\" interactive game for large groups in Zurich in Switzerland.",
   "longDescription": "Discover \"Unreal Adventures MEGA\" interactive game for large groups in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "WhatsApp Image 2024-01-10 at 11.23.51",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41446cda17d4aebf29cb4ea436484c75.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp image 2024-01-10 at 11:27:49",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/518b314cfb139f3c51238589f35f0232.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2024-01-10 at 11:28:34",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dd5da18f141081bf04935bc35f055412.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-04-07 at 18.25.29",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e53098f22e234db83d68070d9c2d7aba.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp image 2025-04-07 at 18:24:30",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/62bdac9b2e8049e03f557781d6c41924.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 7 Apr 2025 at 18:23:55",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5a2d13c3372e5455dc8d48eb3085e6c.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2024-01-10 at 11.29.44",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a82f86c3f43fc91e66d2ade464c77dcc.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2024-01-10 at 11:29:30",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7354d33a571a06574daa971ba893b5ea.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2024-01-10 at 11:29:15",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b6bb88001321df03c871173f6651de0b.jpeg"
-    },
-    {
-      "alternativeText": "WhatsApp image 2024-01-10 at 11:29:09",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08fe9765d2bd60a4c905d851aeade364.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "adventure"

@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Private day trip to Interlaken and Grindelwald in Switzerland.",
   "longDescription": "Discover From Zurich: Private day trip to Interlaken and Grindelwald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Interlaken and Grindelwald Swiss Magic Tours (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2f867bd1d6812f70e87fe83b764738b1.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Gindelwald Swiss Magic Tours (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26be9fa5745f521680ba152ca5930738.jpg"
-    },
-    {
-      "alternativeText": "Interlaken-Grindelwald Swiss Magic Tours (4)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d80fe46d6f69846327ce3b926a4406ce.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Grindelwald Swiss Magic Tours (6)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/361071f59ad1ecdab3c21d629bf7fef5.jpg"
-    },
-    {
-      "alternativeText": "Interlaken and Grindelwald Swiss Magic Tours (3)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/232d89c9eb120d622da2e321d3d155c2.jpg"
-    },
-    {
-      "alternativeText": "Interlaken and Grindelwald Swiss Adventure Tours (5)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a5dfc1618c9d447e5061425f7f4dfa77.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

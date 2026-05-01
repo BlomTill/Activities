@@ -5,17 +5,9 @@
   "description": "Discover Best of Zurich e-scooter guided private tour in Switzerland.",
   "longDescription": "Discover Best of Zurich e-scooter guided private tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "103",
-    "title": "E-Scooter",
-    "slug": "e-scooter",
-    "description": "Book an e-scooter excursion here, self-guided or with a professional guide. E-scooters are often used for sightseeing to quickly cover shorter distances. These are usually e-scooters, which are usually offered without a seat. The maneuverable e-scooters quickly reach their destinations even in narrow alleys. Rides along the banks of rivers or lakes are particularly popular. You enjoy the view, are in the middle of nature and don't have to exert yourself. E-scooters can reach up to 20 km/h.\n"
-  },
+  "subcategory": "E-Scooter",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "E-Scooter Tour in Zurich: Experience the fun with friends on fast e-scooters in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Scooter_Tour_HB_Adventure_4f90824ac7.jpg"
-    },
-    {
-      "alternativeText": "E-Scooter Tour in Zurich: discover the city with friends and experience exciting adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Scooter_Tour_2_HB_Adventure_jpg_02dab0b32c.jpg"
-    },
-    {
-      "alternativeText": "E-Scooter Tour in Zurich: Discover the city in an eco-friendly way with friends. Perfect for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Scooter_Tour_3_HB_Adventure_jpg_37391f36cc.jpg"
-    },
-    {
-      "alternativeText": "E-Scooter Tour: Experience Zurich with friends, exciting adventures by the lake, and unforgettable views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Scooter_Tour_4_HB_Adventure_jpg_2333920a87.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

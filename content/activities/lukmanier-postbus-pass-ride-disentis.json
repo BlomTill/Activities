@@ -5,17 +5,9 @@
   "description": "Discover Lukmanier Postbus pass ride from Disentis in Switzerland.",
   "longDescription": "Discover Lukmanier Postbus pass ride from Disentis in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "141",
-    "title": "Postbus",
-    "slug": "postbus",
-    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
-  },
+  "subcategory": "Postbus",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Disentis: Beautiful landscape with mountains, fresh greenery, and typical Alpine villages.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Disentis_pixabay_58f22a5d45.jpg"
-    },
-    {
-      "alternativeText": "Postbus on a picturesque mountain road with a bicycle in the foreground. Perfect summer activity in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_postauto2_pixabay_8c4b6a0dd4.jpg"
-    },
-    {
-      "alternativeText": "Disentis: Green meadows surrounded by mountains under a blue sky in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Disentis1_unsplash_f2f46d0b2c.jpg"
-    },
-    {
-      "alternativeText": "Val Plattas: Piz Medel and Medel Glacier in the Surselva area, ideal for summer activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Val_Plattas_Surselva_Piz_Medel_and_Medel_glacier_Foto_Schweiz_Tourismus_Roland_Gerth_2a30e262c9.jpg"
-    },
-    {
-      "alternativeText": "Blenio Lukmanier Pass: impressive mountain landscape in Switzerland with green forests and river.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05_Blenio_Lukmanierpass_Foto_Schweiz_Tourismus_Markus_Buehler_Rasom_c46057150e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"The Magic Portal\" Escape Game St. Gallen in Switzerland.",
   "longDescription": "Discover \"The Magic Portal\" Escape Game St. Gallen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Escape Game: Group solves puzzles at a magical portal in St. Gallen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f7ca0b693afb2f398019136c39e21f5a.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Challenging puzzles and exciting adventures in St. Gallen for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/095a323da8f025eb62b21ed4a44703c3.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Exciting experience for groups in St. Gallen. Discover puzzles and adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7de3a3c45a98d0bf00a3a77d72b249b0.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Group investigates puzzles in St. Gallen with tablet. Exciting team activity for people.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07d3b232bd321768df0417c7c7c4f8e9.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Group of friends solving puzzles in St. Gallen. A shared adventure in a beautiful setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b9dffb31611edbe89d0d6844bedaff5c.jpg"
-    },
-    {
-      "alternativeText": "Escape Game in St. Gallen: Enjoy adventure in the park for groups and children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6508424a1d0f45bdd935bf68d57b2580.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

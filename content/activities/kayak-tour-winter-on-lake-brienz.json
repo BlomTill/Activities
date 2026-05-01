@@ -5,17 +5,9 @@
   "description": "Discover Kayak tour in winter on Lake Brienz in Switzerland.",
   "longDescription": "Discover Kayak tour in winter on Lake Brienz in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "26",
-    "title": "Kayak",
-    "slug": "kayak",
-    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
-  },
+  "subcategory": "Kayak",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kayo-Yak in the Bernese Oberland with mountains and lake",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_bc0e5f21bf860cf527b9ff07fb1cb4ca_98598865cc.jpg"
-    },
-    {
-      "alternativeText": "Kayaker in the yellow kayak sprays water in the Silvretta Lake.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_0969e5f9b131f3dddd731ba26597bb3e_3c2af90481.jpg"
-    },
-    {
-      "alternativeText": "Kayaking on the lake in winter, yellow kayak, mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_58c7be13df9a3e61899909399436d23d_2db10f42c8.jpg"
-    },
-    {
-      "alternativeText": "Kayak tea break in winter with friends by the lake",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kajak_im_Winter_Brienzersee_1_726d9d3c08.jpg"
-    },
-    {
-      "alternativeText": "Kayaking on Lake Brienz, Paddling among clouds, Sports friend, 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kajak_auf_dem_Brienzersee_5_3932cba07d.jpg"
-    },
-    {
-      "alternativeText": "Brienz Lake with kayaker in a winter landscape, mountains and snow reflecting in the water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kajak_im_Winter_Brienzersee_2_fb38e79786.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

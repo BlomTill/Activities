@@ -5,17 +5,9 @@
   "description": "Discover Camping equipment for rent inTicino in Switzerland.",
   "longDescription": "Discover Camping equipment for rent inTicino in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "91",
-    "title": "Camping",
-    "slug": "camping",
-    "description": "Prepare for your next camping trip and find your perfect offer here. Camping in Switzerland is more popular than ever. More and more people looking for peace and quiet are setting off in their camper, caravan or tent and spending relaxing or eventful days at one of the almost 400 campsites in Switzerland. You can either buy or rent the camping equipment yourself. Numerous stores offer all kinds of equipment you need for your camping trip"
-  },
+  "subcategory": "Camping",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rent camping gear in a family tent with food",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Campingausruestung_mieten_Foto_Base_Camp_Europe_5_efcfe63b28.jpg"
-    },
-    {
-      "alternativeText": "Rent camping equipment, tent view, camping chairs and table, green surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Campingausruestung_mieten_Foto_Base_Camp_Europe_1_d9a15b8aa7.jpg"
-    },
-    {
-      "alternativeText": "Rent camping equipment: Fish is steamed with lemons on a camping stove.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Campingausruestung_mieten_Foto_Base_Camp_Europe_2_adc78db63a.jpg"
-    },
-    {
-      "alternativeText": "Rent camping equipment. Tent camping under the starry sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Campingausruestung_mieten_Foto_Base_Camp_Europe_3_7a5683218f.jpg"
-    },
-    {
-      "alternativeText": "Rent camping equipment with red chairs and table by the lake",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Campingausruestung_mieten_Foto_Base_Camp_Europe_4_c6cba5dbb4.jpg"
-    },
-    {
-      "alternativeText": "Rent camping equipment, family enjoying a picnic in front of the tent, happy children",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Campingausruestung_mieten_Foto_Base_Camp_Europe_6_b2ba26bf9e.jpg"
-    },
-    {
-      "alternativeText": "Rent camping equipment: Father and son by the campfire, roasting marshmallows.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Campingausruestung_mieten_Foto_Base_Camp_Europe_7_815912ea04.jpg"
-    },
-    {
-      "alternativeText": "Rent camping equipment, tents in nature, sunny campsite.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Campingausruestung_mieten_Foto_Base_Camp_Europe_8_a65b546899.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

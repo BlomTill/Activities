@@ -5,17 +5,9 @@
   "description": "Discover L-39 jet flight in the Alps from Aosta IT in Switzerland.",
   "longDescription": "Discover L-39 jet flight in the Alps from Aosta IT in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "455",
-      "title": "Italy"
-    },
+    "region": "Italy",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "L-39 Aosta",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/L_39_Aosta_II_1_6e471f2a1c.png"
-    },
-    {
-      "alternativeText": "L-39 Aosta",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/L_39_Aosta_1_d42d4402e3.png"
-    },
-    {
-      "alternativeText": "L39 Albatros",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/O_Yo_RO_0_C0_C_Fvi1_S9r_49a38ef3c2.png"
-    },
-    {
-      "alternativeText": "L-39 Aosta",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/HPQW_Tg8_Tf_Xn2_M_Pst_1_0f29587af2.png"
-    },
-    {
-      "alternativeText": "L39 Albatros",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/H8_Kq_X7_U_Cb4_Y6_PB_6k_6618a1dbf1.png"
-    },
-    {
-      "alternativeText": "L39 Albatross: Fly with us over snow-covered mountains and experience the impressive nature in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/l_B_Io_BT_Mio_H4fq1o_A_634e999114.png"
-    },
-    {
-      "alternativeText": "L39 Albatros over majestic alpine landscapes in Austria during winter flights.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/m6_Pg_Cr_Kn_Uk3_WR_1_Jt_25942c5129.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

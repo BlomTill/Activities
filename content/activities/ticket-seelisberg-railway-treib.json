@@ -5,17 +5,9 @@
   "description": "Discover Ticket funicular Seelisberg from Treib in Switzerland.",
   "longDescription": "Discover Ticket funicular Seelisberg from Treib in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Hike: Beautiful view of Lake Lucerne in Seelisberg, surrounded by mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/81ef089a527db150e16de3d65ee2b5db.jpg"
-    },
-    {
-      "alternativeText": "Hiking: View of Seelisberg with green mountains and clear water, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6818e445ffacf67ca1c7805fa3abfbf9.jpg"
-    },
-    {
-      "alternativeText": "Lake Lucerne: View of the lake from Seelisberg with surrounding trees and hiking trail.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/72a75337f4271044d55bb41ce2ae6b89.jpg"
-    },
-    {
-      "alternativeText": "Seelisberg: idyllic village with a view of Lake Lucerne, surrounded by mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f19c102fdfb0360b007b211c0e266475.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

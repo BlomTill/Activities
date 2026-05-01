@@ -5,17 +5,9 @@
   "description": "Discover From Montreux: Day Trip to Zermatt with a View of the Matterhorn in Switzerland.",
   "longDescription": "Discover From Montreux: Day Trip to Zermatt with a View of the Matterhorn in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "01 662a2dda783e9",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3df7967cd4c6a7d828ffd48243a4194.jpg"
-    },
-    {
-      "alternativeText": "03 zermatt-keytours4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8731b571b1e5f0c32193321522c111b5.jpg"
-    },
-    {
-      "alternativeText": "04 verse 5",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dbb9cf9a5815ec6e79b22e17eab05568.jpg"
-    },
-    {
-      "alternativeText": "05 bus_keytours",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/35e9ae502857d30a35184de0fdb5de4e.jpg"
-    },
-    {
-      "alternativeText": "verse1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50c82f68a251fb0900ad547d54257437.jpg"
-    },
-    {
-      "alternativeText": "zermatt_keytours8",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8240bf4a7548c034a39ec7f0f95c408c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

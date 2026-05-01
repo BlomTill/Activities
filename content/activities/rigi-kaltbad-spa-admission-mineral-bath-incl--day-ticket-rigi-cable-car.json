@@ -5,17 +5,9 @@
   "description": "Discover Rigi Kaltbad Spa admission mineral bath incl. day ticket Rigi cableways in Switzerland.",
   "longDescription": "Discover Rigi Kaltbad Spa admission mineral bath incl. day ticket Rigi cableways in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "69",
-    "title": "Wellness and adventure pools",
-    "slug": "wellness",
-    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
-  },
+  "subcategory": "Wellness and adventure pools",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,48 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Mineral Bath Rigi Kaltbad: Relaxing Wellness Landscape with Revitalizing Water and Architectural Elegance.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b79b092d14cad48da1bf315eac0f38d8.jpeg"
-    },
-    {
-      "alternativeText": "Mineral bath: Relax in winter with wellness overlooking the snow-covered mountains in Rigi Kaltbad.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ec0f0c34c8c35b34e898cf0aaf373a23.jpg"
-    },
-    {
-      "alternativeText": "Mineral bath: relax with wellness in Rigi Kaltbad with a view of the majestic mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7c4f88da0fcd58e2e88ef41ff42b9b83.jpg"
-    },
-    {
-      "alternativeText": "Rigi Kaltbad: relax in the spa with a view of the mountains and nature, ideal for wellness lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9b4cb00ab298ad6dd3a44b8adf74f483.jpg"
-    },
-    {
-      "alternativeText": "Aerial cable car Weggis-Kaltbad with a view of Lake Lucerne and the Alpine landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/216f504b0e305a72c9b93b888fb85b75.jpg"
-    },
-    {
-      "alternativeText": "Cable car: Experience the view of Lake Lucerne and the surrounding mountains with the family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b0e72167562d12a84f59cbeb972863d7.jpg"
-    },
-    {
-      "alternativeText": "View of Lake Lucerne and Bürgenstock in Rigi Kaltbad, a stunning landscape with mountains and lake.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/98a4fa2c3d703c1476920415296845af.jpg"
-    },
-    {
-      "alternativeText": "Cogwheel railway in Rigi Kaltbad in winter with snow-covered mountains and trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b0784a163973fa3f65b38fa9158871b2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "spa"

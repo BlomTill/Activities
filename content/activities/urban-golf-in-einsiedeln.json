@@ -5,17 +5,9 @@
   "description": "Discover Urban Golf in Einsiedeln in Switzerland.",
   "longDescription": "Discover Urban Golf in Einsiedeln in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "64",
-    "title": "Golf",
-    "slug": "golf",
-    "description": "Discover your exceptional place for golf and book right here. Green meadows on remote high valleys, behind them the mountains and a view of the beautiful lake landscape. What could be better than playing golf in the middle of it all? You will find well-kept golf courses everywhere in Switzerland. You can practice your tee shot in the vastness of the Engadine, in Lavaux with a view over the Vaud Alps or in Grindelwald in front of an impressive mountain panorama."
-  },
+  "subcategory": "Golf",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,23 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Urban Golf in Rapperswil: relaxed golfing experiences in the city with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_2_Rapperswil_Zuerichsee_Tourismus_5c25826f94.jpg"
-    },
-    {
-      "alternativeText": "Urban golf in Rapperswil with golf clubs, ideal for groups and kids in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_1_Rapperswil_Zuerichsee_Tourismus_b98c72bd98.jpg"
-    },
-    {
-      "alternativeText": "Urban Golf in Rapperswil: Enjoyable activity by Lake Zurich in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Urban_Golf_3_Rapperswil_Zuerichsee_Tourismus_0bcbd7718e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

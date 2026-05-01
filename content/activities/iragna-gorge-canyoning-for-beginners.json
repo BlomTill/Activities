@@ -5,17 +5,9 @@
   "description": "Discover Iragna Gorge canyoning for beginners in Switzerland.",
   "longDescription": "Discover Iragna Gorge canyoning for beginners in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,68 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Iragna Canyoning: Experience an exciting adventure with friends in the nature while canyoning.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1712_6944125e20.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning: Experience dynamic adventure in a natural paradise with team activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_268_a1852b028c.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning: Experience the thrilling gorge adventure in the summer in the nature of Iragna.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_226_ea625d8f18.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning with descent at waterfall in Switzerland",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/iragna_featured3_800x1067_e1611779102689_pmcz3edrs7d5fx8o9kp49sr48e2a8aaqm3qm7ot180_49dbcbe8fa.jpg"
-    },
-    {
-      "alternativeText": "Waterfall in Iragna during canyoning, green nature, rocks",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/iragna_featured5_800x1067_e1611779150365_pmcz3opzvdrazmtnl760j856rmnbkyfsbiwyhqdpbk_279608e93e.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning, climber in wetsuit, abseiling, rocks, waterfall",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/iragna_featured6_800x1067_scaled_1_e1611779037851_pmcz4ba4fem6q9wvxgx272g90vk4poxcemkm0dg968_6b97f4769c.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning, person jumps into the water, rocks, wetsuit",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Iragna_Jump_pmcwsh2cuduh6dp0hqa0aq35kmsj5l38jnsi0vre5s_09439e5a41.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning: Experience exciting adventures while swimming and climbing in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1758_9aace61320.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning: discover an exciting adventure tour in the nature of Ticino in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1728_ad4e3b1481.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning: Experience exciting adventures in nature with canyoning in the Swiss mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1749_fc5980fb35.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning: Experience thrilling adventures in a team with water activities in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1762_14808d3495.jpg"
-    },
-    {
-      "alternativeText": "Iragna Canyoning: Experience an exciting adventure in the cool waters of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GP_Temp_Download_272_3473f531b9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

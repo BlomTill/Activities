@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Day Trip to Lakes, Mountains, and Adventure in Switzerland.",
   "longDescription": "Discover From Zurich: Day Trip to Lakes, Mountains, and Adventure in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Harder Kulm",
-      "caption": "Tagestour Seen, Berge und Abenteuer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fde4128d1335acbe2f37596ad9aabf68.jpg"
-    },
-    {
-      "alternativeText": "Interlaken ",
-      "caption": "Tagestour Seen, Berge und Abenteuer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5525a10c168f7924fa6875b03b625d3a.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Seen",
-      "caption": "Tagestour Seen, Berge und Abenteuer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cf30e87ceaa8a104e83c5f61e6ff563b.jpg"
-    },
-    {
-      "alternativeText": "Harder Kulm",
-      "caption": "Tagestour Seen, Berge und Abenteuer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0b80058c23f1f24d6ae9867e786f654a.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Hohematte",
-      "caption": "Tagestour Seen, Berge und Abenteuer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f4ef80d892b3d76e43dcb214348e3a92.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Hohematte",
-      "caption": "Tagestour Seen, Berge und Abenteuer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/29ab5be76ed06ecaee756947cd630fcf.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Hohematte",
-      "caption": "Tagestour Seen, Berge und Abenteuer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/09c6a4d57adfd91642146a8f55cbcc0b.jpg"
-    },
-    {
-      "alternativeText": "Interlaken ",
-      "caption": "Tagestour Seen, Berge und Abenteuer",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8cc08148a80ff4712fc1b04a5c35f500.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

@@ -5,17 +5,9 @@
   "description": "Discover From Zurich Airport: Transfer to Zermatt (Täsch) in Switzerland.",
   "longDescription": "Discover From Zurich Airport: Transfer to Zermatt (Täsch) in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "105",
-    "title": "Transfer",
-    "slug": "transfer",
-    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
-  },
+  "subcategory": "Transfer",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Zermatt: idyllic mountain lake with Matterhorn in the background and impressive nature all around.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Bergsee_Matterhorn_Seraina_2e4d304c2a.jpg"
-    },
-    {
-      "alternativeText": "S-Class: luxurious amenities for airport transfer in Zurich, comfortable and elegant.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_2_155cd8f116.jpg"
-    },
-    {
-      "alternativeText": "V-Class: Luxury transport vehicle for airport transfer to Zurich Airport with mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_2_768de4f912.jpg"
-    },
-    {
-      "alternativeText": "Mercedes S-Class: elegant airport transfer in Zurich for business trips and special occasions",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_3e47ce3e25.jpg"
-    },
-    {
-      "alternativeText": "Mercedes E-Class at Waldhotel Zurich, comfortable transfer for travelers and groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_E_Class_6d7b459f7b.jpg"
-    },
-    {
-      "alternativeText": "Mercedes V-Class: Interior of a transfer vehicle at Zurich Airport, comfortable and spacious for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_56055d2bab.jpg"
-    },
-    {
-      "alternativeText": "S-Class: Luxurious Transfer at Zurich Airport for Stylish Travelers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/S_Class_88b8f0d71b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

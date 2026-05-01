@@ -5,17 +5,9 @@
   "description": "Discover Private wine and chocolate tasting in Stein am Rhein in Switzerland.",
   "longDescription": "Discover Private wine and chocolate tasting in Stein am Rhein in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "FLORIN_WB1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c2b27422c6877952f68ee0236d9ea54e.jpg"
-    },
-    {
-      "alternativeText": "FLORIN_W&S4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5225a2b4d1bb8828ea4f165a69b56561.jpg"
-    },
-    {
-      "alternativeText": "FLORIN_W&S2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f8466eba0f07633d4cb65be1c749d898.jpg"
-    },
-    {
-      "alternativeText": "FLORIN-W-S1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ef1aaff17853571789c2a10b57004c77.jpg"
-    },
-    {
-      "alternativeText": "FLORIN_W&S3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/417d57f497e5bb6ee6057de292a938d9.jpg"
-    },
-    {
-      "alternativeText": "FLORIN_WB2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb60e4938b5a8540934ff48c05aba094.jpg"
-    },
-    {
-      "alternativeText": "FLORIN_WB3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d7adf1bc8fcae97714e6b4d6760b7111.jpg"
-    },
-    {
-      "alternativeText": "FLORIN_WB4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb2e2d708d6ecbc4c94ec64446928415.JPG"
-    },
-    {
-      "alternativeText": "FLORIN-WB5",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/05c8e37df6086e49149a8df2ff4153f5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

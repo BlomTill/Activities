@@ -5,17 +5,9 @@
   "description": "Discover Fat Boy E-Scooter Tour Misox from Lostallo in Switzerland.",
   "longDescription": "Discover Fat Boy E-Scooter Tour Misox from Lostallo in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "103",
-    "title": "E-Scooter",
-    "slug": "e-scooter",
-    "description": "Book an e-scooter excursion here, self-guided or with a professional guide. E-scooters are often used for sightseeing to quickly cover shorter distances. These are usually e-scooters, which are usually offered without a seat. The maneuverable e-scooters quickly reach their destinations even in narrow alleys. Rides along the banks of rivers or lakes are particularly popular. You enjoy the view, are in the middle of nature and don't have to exert yourself. E-scooters can reach up to 20 km/h.\n"
-  },
+  "subcategory": "E-Scooter",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Experience the Misox with an electric scooter in green nature, ideal for adventure and relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_20220821_WA_0002_e674c0d415.jpg"
-    },
-    {
-      "alternativeText": "Misox: An impressive castle ruin surrounded by green mountains in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_20220904_WA_0000_e44a2db168.jpg"
-    },
-    {
-      "alternativeText": "ticinoquad: Ruins of a collapsed building with steps, surrounded by nature and mountains in the Misox valley, ideal for exploration.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_20220904_WA_0001_66a42ed106.jpg"
-    },
-    {
-      "alternativeText": "ticinoquad: delicious selection of sausage and cheese in Misox during the summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20230401_154718_2c543bc829.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

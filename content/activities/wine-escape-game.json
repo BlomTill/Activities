@@ -5,17 +5,9 @@
   "description": "Discover Wein Escape Game at Lake Geneva in Switzerland.",
   "longDescription": "Discover Wein Escape Game at Lake Geneva in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Dark Penguins",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08b22cb5d363419ea7d605a8b67dfcac.jpg"
-    },
-    {
-      "alternativeText": "Headline",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/91293621a5a5708b84ee861fbd4e0d8f.jpg"
-    },
-    {
-      "alternativeText": "Sarah",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d5947c370889763cdecba1e9b22c86e5.jpg"
-    },
-    {
-      "alternativeText": "View of Mont Blanc from Nyon Castle",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a0f1b1caa23290f7d0b96010b20c112.jpg"
-    },
-    {
-      "alternativeText": "87ecb7_ff439fd76f244bf3be5779eceb948a3f~mv2 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6d611def17b7122fcde9f6e3e6d56046.jpg"
-    },
-    {
-      "alternativeText": "Wine Tasting Workshop",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6405d85face194dfbb573abd0da4f341.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

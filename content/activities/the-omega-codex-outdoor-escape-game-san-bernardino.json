@@ -5,17 +5,9 @@
   "description": "Discover \"The Omega Codex\" Outdoor Escape Game San Bernardino in Switzerland.",
   "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game San Bernardino in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "The Omega Codex",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86dce5c042dfaf57e4e6cb3a3832f8b9.jpg"
-    },
-    {
-      "alternativeText": "The Omega Codex",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/231c892edeee6ac1246f868f28156106.jpg"
-    },
-    {
-      "alternativeText": "The Omega Codex",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/19704910efe676c5e86298fc8d8bdd17.jpg"
-    },
-    {
-      "alternativeText": "The Omega Codex",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/228987cd21dcf2f40ffe1d0b5baec1df.jpg"
-    },
-    {
-      "alternativeText": "The Omega Codex",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6653365a49de42af9bda8674b6ecb5b3.jpg"
-    },
-    {
-      "alternativeText": "The Omega Codex",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba6faa7925817a9d21277e64aca5d129.jpg"
-    },
-    {
-      "alternativeText": "Spielerin",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aeec62207a86755e2e9adb6d3d03f87f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "bern"

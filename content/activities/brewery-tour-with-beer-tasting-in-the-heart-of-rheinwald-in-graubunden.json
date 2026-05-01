@@ -5,17 +5,9 @@
   "description": "Discover Brewery tour with beer tasting in Splügen in Switzerland.",
   "longDescription": "Discover Brewery tour with beer tasting in Splügen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "bottling-plant-sobietzki-high-res-35",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5eb802c3518476be1e89cfd901e8db48.jpg"
-    },
-    {
-      "alternativeText": "Beer_BonVivant©sobietzki-high-res-185",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eef9a485296e3439c7c20a06d8fad9b9.jpg"
-    },
-    {
-      "alternativeText": "beer-pschuuri-brew-sobietzki-high-res-187",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a43f40a11035cf29139245f984976919.jpg"
-    },
-    {
-      "alternativeText": "Beer-Brewing at SPELUCA©sobietzki-high-res-27",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dfb0d50f86e23fb1f3fbf1a89e714f6d.jpg"
-    },
-    {
-      "alternativeText": "Speluca Brewery©sobietzki-high-res-24",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fb6fb1a65922ed6c813793e5005cddef.jpg"
-    },
-    {
-      "alternativeText": "brewery-fermentation-tanks-sobietzki-high-res-9",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7f3ebf8fe25153e31bd3643fddb864ff.jpg"
-    },
-    {
-      "alternativeText": "Cheers©sobietzki-high-res-55",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d5c9a545788d928321b8fb0180bc077c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

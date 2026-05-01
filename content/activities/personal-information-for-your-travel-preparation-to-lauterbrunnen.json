@@ -5,17 +5,9 @@
   "description": "Discover 45 min personal information for your travel preparation to Lauterbrunnen in Switzerland.",
   "longDescription": "Discover 45 min personal information for your travel preparation to Lauterbrunnen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "106",
-    "title": "Travel preparation",
-    "slug": "travel-preparation",
-    "description": "Let a professional prepare your trip for you. Preparing a trip is not only time-consuming, it often requires a lot of detailed knowledge. Local travel professionals do this work for you. For example, in a video call or a personal conversation, you ask your questions or requirements for the trip. If you wish, all the necessary tickets will be put together and booked for you. You will receive the complete package after the consultation\n"
-  },
+  "subcategory": "Travel preparation",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,68 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lauterbrunnen with mountain view, church and waterfall",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00009_67ea647af7.jpeg"
-    },
-    {
-      "alternativeText": "Cyclist in Lauterbrunnen shows butterfly tattoo",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00010_09b9596d13.jpeg"
-    },
-    {
-      "alternativeText": "Hiking in Lauterbrunnen, mountain landscape with hiker on ladder",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00011_cd3605cb99.jpeg"
-    },
-    {
-      "alternativeText": "Hiking in Lauterbrunnen, hike to the turquoise blue lake, alpine meadows.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00012_5506f5a8fa.jpeg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen with snow, wintry mountain landscape, two people embracing.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00014_273b5d254c.jpeg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen with sunset, historic buildings and mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00025_1fbabe85b5.jpeg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen, calm lake, green trees, clear reflection",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00026_e385a6d1a3.jpeg"
-    },
-    {
-      "alternativeText": "Swiss hero with flag in Lauterbrunnen 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00027_3af2afc797.jpeg"
-    },
-    {
-      "alternativeText": "View of Lauterbrunnen with hiker and mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00030_2f8c7d6602.jpeg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen clouds against the mountain backdrop, cool morning atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00038_f7a14517ba.jpeg"
-    },
-    {
-      "alternativeText": "Hiking in Lauterbrunnen, Snowshoe Trekking in Winter",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00157_8751e16876.jpeg"
-    },
-    {
-      "alternativeText": "Two women discuss travel preparations in a wooden room.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00065_e1f96806b6.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

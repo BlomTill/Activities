@@ -5,17 +5,9 @@
   "description": "Discover Eiger Jump Lauterbrunnen Helicopter Skydive in Switzerland.",
   "longDescription": "Discover Eiger Jump Lauterbrunnen Helicopter Skydive in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "22",
-    "title": "Skydiving",
-    "slug": "skydiving",
-    "description": "Find and book the right skydive for you here. The ultimate adrenaline kick you get without a doubt during the free fall. You jump in a tandem jump from a height of three to four kilometers into nothingness and you don't even need any training. Hotspots for skydiving are Interlaken, Reichenbach, Lucerne, Zurich and Lugano. You can jump either from a helicopter or from a plane."
-  },
+  "subcategory": "Skydiving",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,43 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skydive Lauterbrunnen: experience the thrill of a tandem jump from a helicopter in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/tandem_skydive_in_lauterbrunen_d36156322d.jpg"
-    },
-    {
-      "alternativeText": "Skydive Lauterbrunnen: Experience the jump over the impressive Alpine landscapes with spectacular views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lauterbrunnen_valley_skydive_jump_into_the_eiger_86d4ff2cc0.jpeg"
-    },
-    {
-      "alternativeText": "Skydive Lauterbrunnen: Enjoy the tandem flight experience over impressive mountains and idyllic nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lauterbrunnen_valley_skydive_tandem_pilot_690482e456.jpg"
-    },
-    {
-      "alternativeText": "Skydive Lauterbrunnen: experience free fall over the Swiss Alps in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/skydive_adventure_in_the_swiss_alps_lauterbrunnen_f94ce5ac8a.jpg"
-    },
-    {
-      "alternativeText": "Skydive: Experience tandem jumps over the wintery Lauterbrunnen and the Eiger with spectacular views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/skydive_eiger_tandem_winter_f77242cb7d.jpg"
-    },
-    {
-      "alternativeText": "Skydive Lauterbrunnen: Tandem jump with pilot against stunning mountain backdrop in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/tandem_pilot_skydiving_switzerland_5c3835ecce.jpg"
-    },
-    {
-      "alternativeText": "Tandem skydive with a view of Lauterbrunnen and waterfall in the Swiss Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/tandem_skydive_in_switzerland_lauterbrunnen_2ac5fdc923.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

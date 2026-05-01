@@ -5,17 +5,9 @@
   "description": "Discover Canyoning in the Pissot Gorge for Beginners in Switzerland.",
   "longDescription": "Discover Canyoning in the Pissot Gorge for Beginners in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "explanation-swiss-canyoning",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bd4942ea35f67d957ea34ec0b34ba9e9.jpeg"
-    },
-    {
-      "alternativeText": "smile-swiss-canyoning-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4364ac21e4e8c4b21c3d280f0a84e3c3.jpeg"
-    },
-    {
-      "alternativeText": "Meeting",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/18acb7c77be11becd037944d8db881a8.jpg"
-    },
-    {
-      "alternativeText": "_21I7226",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4311d1de675a6d46f71c7cfb988e35c0.jpg"
-    },
-    {
-      "alternativeText": "_21I7324",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/660dfd8834862436c41772048b25d0ff.jpg"
-    },
-    {
-      "alternativeText": "_21I7312",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/60fb2f9886e5ec95ab7992e1ac6adff8.jpg"
-    },
-    {
-      "alternativeText": "_21I8130",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e5344f51d9547a83bde91a908a38b51e.jpg"
-    },
-    {
-      "alternativeText": "canyon3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2a23a144dc52565ca890e86f52449e1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

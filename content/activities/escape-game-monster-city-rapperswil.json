@@ -5,17 +5,9 @@
   "description": "Discover \"Monster in the City\" Escape Game for Kids in Rapperswil in Switzerland.",
   "longDescription": "Discover \"Monster in the City\" Escape Game for Kids in Rapperswil in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f033f3dd67d2ab92de520158dd84463d.jpeg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/069c7aea2f64683ccd6c1bafb8fcb50a.jpeg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a55b320784e4bb2b6f5201e7c168b9e.jpeg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/14c1a10e264bda0ef18d3b9eef2ecfc9.jpeg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be079df941a182091897426dc4478bf0.jpg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dde141bbf5938fceae0a8002577c8ca3.jpeg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/72fbbd394672ed9ba75c7d945e9b7167.jpg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b80fb162765a6c9cf07840d59b6fbada.jpg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/500414fe85cdbb9ee5aa22d51649f4cb.jpg"
-    },
-    {
-      "alternativeText": "Monster in the City",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2f2894b1279ae24d3265d5a63e5fe091.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "kids"

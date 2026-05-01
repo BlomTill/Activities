@@ -5,17 +5,9 @@
   "description": "Discover \"Lakes, Ruins and Viewpoints\" - Discover Interlaken by E-Bike in Switzerland.",
   "longDescription": "Discover \"Lakes, Ruins and Viewpoints\" - Discover Interlaken by E-Bike in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "48",
-    "title": "E-bike",
-    "slug": "e-bike",
-    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
-  },
+  "subcategory": "E-bike",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,73 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 IMG_4481",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0a1e54d5563626d58ab7b6f39a601885.jpg"
-    },
-    {
-      "alternativeText": "01 IMG_6068",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ad51ba9288cfa4c2dbccfbab0fa99153.jpg"
-    },
-    {
-      "alternativeText": "02 IMG_7772",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7b07cfdebb587461cba9603cdaa2c466.jpg"
-    },
-    {
-      "alternativeText": "IMG_0084",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a215a79c15e784d9146d15dee3927fc2.jpg"
-    },
-    {
-      "alternativeText": "IMG_4682",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bccc65647c99c07140eae6e8e421177f.JPEG"
-    },
-    {
-      "alternativeText": "IMG_6022",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7458b8b607f639bfdfcf1401ef9fc88a.jpg"
-    },
-    {
-      "alternativeText": "IMG_6605",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b24d8395303e6d7379a050af67f5728a.jpg"
-    },
-    {
-      "alternativeText": "IMG_7572",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cae0444f7be453c69ae1e1f409fea2c2.jpg"
-    },
-    {
-      "alternativeText": "IMG_8246",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eee4f6048d07706255ec72fe05e2df93.jpg"
-    },
-    {
-      "alternativeText": "IMG_8390 (copy)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b8231c756b1d6b04e6c24f68577f56e.jpg"
-    },
-    {
-      "alternativeText": "IMG_8489_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/837aab301de3dd7d102ca9cf35135921.jpg"
-    },
-    {
-      "alternativeText": "IMG_8989",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6c03eda7b22d2926535579fd0f24aedb.jpg"
-    },
-    {
-      "alternativeText": "IMG_9005",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9dffd00ad38f8d96fb007f067fd41d1d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

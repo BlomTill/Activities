@@ -5,17 +5,9 @@
   "description": "Discover From Lucerne: Best of Jungfrau Region Luxury Private Day Tour in Switzerland.",
   "longDescription": "Discover From Lucerne: Best of Jungfrau Region Luxury Private Day Tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,53 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Jungfrau Region: picturesque lake surrounded by green mountains and trees, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_6560_517675f58a.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: Idyllic lake with clear water and surrounding mountains, perfect for relaxation and nature experiences",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_47_1_7876d5dc5e.JPG"
-    },
-    {
-      "alternativeText": "Jungfrau Region: Winter landscape with a snow-covered hut and surrounding mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1581_499a5b98d0.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: River with mountains and green trees in summer, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3565_6814a93df0.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: Idyllic in the mountains with green meadows, clear rivers, and charming houses.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3581_44ddf76be1.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: picturesque mountain lake with castle and resting place by the water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3679_12726ad3f8.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: picturesque landscape with mountains, nature, and idyllic lake in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_5544_edc5f2171c.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: picturesque village with a view of the mountains, an ideal destination for nature and adventure lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ddeedd724b408779840836daceda166b.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: View of the mountains and a cozy mountain hut in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/11370e222abb9bb9b5e0004297db4624.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

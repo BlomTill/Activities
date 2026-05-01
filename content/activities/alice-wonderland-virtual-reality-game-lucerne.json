@@ -5,17 +5,9 @@
   "description": "Discover \"Alice in Wonderland\" virtual reality game in Lucerne in Switzerland.",
   "longDescription": "Discover \"Alice in Wonderland\" virtual reality game in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VR Illiant Alice: Fantastic river landscape with creative elements and a pleasant atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_min_af927ab9b5.jpg"
-    },
-    {
-      "alternativeText": "VR: Players experience exciting virtual adventures in a group in a modern environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_4_43c105b6e9.jpg"
-    },
-    {
-      "alternativeText": "VR Illiant: Experience the impressive fairytale castle with art and architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_min_816d8d9e2c.jpg"
-    },
-    {
-      "alternativeText": "VR Illiant Alice: Experience thrilling virtual adventures in a mystical forest.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_min_f274b7668b.jpg"
-    },
-    {
-      "alternativeText": "VR: Players experience exciting virtual adventures in a modern environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_8_e6245ce2fc.jpg"
-    },
-    {
-      "alternativeText": "VR Illiant: fascinating staircase with a magical atmosphere and impressive light effects",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_min_43537f86c1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

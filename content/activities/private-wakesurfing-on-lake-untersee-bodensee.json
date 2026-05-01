@@ -5,17 +5,9 @@
   "description": "Discover Private Wakesurfing on Lake Untersee (Bodensee) in Switzerland.",
   "longDescription": "Discover Private Wakesurfing on Lake Untersee (Bodensee) in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "110",
-    "title": "Wakeboarding and Wakesurfing",
-    "slug": "wakeboarding",
-    "description": "Find your wakeboarding or wakesurfing experience here under professional guidance. Wakeboarding is a water sport that uses a board. You are strapped to this board and pulled over the water by a motorboat. The name wakeboard comes from the keel wave of the boat (wake). It is used as a launch ramp when wakeboarding. In wakesurfing, the surfer rides the wave created by the boat. They let go of the rope once they have enough speed. Both sports, especially wakeboarding, are relatively quick to learn. It's also not exhausting."
-  },
+  "subcategory": "Wakeboarding and Wakesurfing",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "20240719_202454",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1c722b5ff83abf7395983796fef18739.jpg"
-    },
-    {
-      "alternativeText": "GOPR1601_1663614681621",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3eff9a25633fb1e9392e7c8e5663b35c.JPG"
-    },
-    {
-      "alternativeText": "20220722_202759",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/01a2ab7bf5051525f609ce451ac190b3.jpg"
-    },
-    {
-      "alternativeText": "20220526_192904",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/52ee045538ced6919652f8b32aba0d95.jpg"
-    },
-    {
-      "alternativeText": "20220820_191442",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/52578d4ddae17d73e676bb7821063eb9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

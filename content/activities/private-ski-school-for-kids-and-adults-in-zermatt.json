@@ -5,17 +5,9 @@
   "description": "Discover Private ski school for kids and adults in Zermatt in Switzerland.",
   "longDescription": "Discover Private ski school for kids and adults in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "01 Connect",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/46ba75dedaf06c62b988848777b41a11.jpeg"
-    },
-    {
-      "alternativeText": "chairlift-smiles",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d1924027bc7a411520a1b1fa32ad8f5.png"
-    },
-    {
-      "alternativeText": "DI7I5476",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d0053273a04783a93f154213f404b2b2.jpg"
-    },
-    {
-      "alternativeText": "DI7I6707",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/540fe51fa6162f5d8b702f767a2c592d.jpg"
-    },
-    {
-      "alternativeText": "ENHANCED",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ce1745ca0d303f86f734f3c886f549b.jpg"
-    },
-    {
-      "alternativeText": "DI7I6375 (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7bddb25ffd9cf69e0bde4d5a29cd51f5.jpg"
-    },
-    {
-      "alternativeText": "ESA_6950",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/53202b19dc1b6e8c47aec7b853b4ecf4.jpg"
-    },
-    {
-      "alternativeText": "IMGP0797",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7a04a118bff04883d97599789666b22.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "kids",

@@ -5,17 +5,9 @@
   "description": "Discover Rigi day pass in Switzerland.",
   "longDescription": "Discover Rigi day pass in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,78 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Rigi Kulm © Chris Krebs-5",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16d2094db8ed51c6d58736e619e7a471.jpg"
-    },
-    {
-      "alternativeText": "01 Blick von Kaltbad nach Vitznau © Brigitte Marty",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/69171b24f3e37b1b82abd6ddfd532244.jpg"
-    },
-    {
-      "alternativeText": "02 Luftseilbahn Kräbel-Rigi Scheidegg © Reisestorys",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/926cafe5e54031ec680a6621f8cd0bcc.jpg"
-    },
-    {
-      "alternativeText": "03 Fensterplatz Motorwagen 12 © Brigitte Marty",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/59d98acd0ab83b4139df779fe31ee2b4.jpg"
-    },
-    {
-      "alternativeText": "04 GTW Aussicht Nebelmeer © Michi Captures-23",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1626bcb204c9b5d63bb9eab7dffc2d9e.jpg"
-    },
-    {
-      "alternativeText": "05 Seeweg mit Panorama auf den Vierwaldstättersee © Brigitte Marty",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d3794342a64f3ae597d59ff79a530594.jpg"
-    },
-    {
-      "alternativeText": "06 Motorwagen 12-22 © Reisestorys",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cfa780f67f670943b33bdea2ff184fec.jpg"
-    },
-    {
-      "alternativeText": "07 GTW Nebelmeer © Brigitte Marty",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/39e2225553cb265b6733ea8eea2f014f.jpg"
-    },
-    {
-      "alternativeText": "08 Rigi Kulm Rundweg © Chris Krebs-3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bcd9ae27790cfd7e3151ccb6aec3e46d.jpg"
-    },
-    {
-      "alternativeText": "GTW Herbst © Michi Captures-27",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eba4f85fcf588b8dd98b961ad5f83eaf.jpg"
-    },
-    {
-      "alternativeText": "Hochperron Goldau © Brigitte Marty",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bedd2ec44c75c1152ef06950be95715a.jpg"
-    },
-    {
-      "alternativeText": "Lok 16 © Brigitte Marty (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0813a0d9b02072a2a76d87657e1a731e.jpg"
-    },
-    {
-      "alternativeText": "Mineralbad & Spa Rigi Kaltbad © Van Monkeys-19",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fbdeb1b8945b54d7d04ee387ebcb1fb0.jpg"
-    },
-    {
-      "alternativeText": "Retrofit Komposition 12-22 bei Station Kräbel © Brigitte Marty",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2484fda190ca0d36465d483a54e18a1f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

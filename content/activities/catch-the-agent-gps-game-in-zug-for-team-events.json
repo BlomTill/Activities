@@ -5,17 +5,9 @@
   "description": "Discover \"Catch the Agent\" GPS game in Zug for team events in Switzerland.",
   "longDescription": "Discover \"Catch the Agent\" GPS game in Zug for team events in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "City of Zug Aerial Photo-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5588b842c6905cb07eb5c14cf581ff7e.jpg"
-    },
-    {
-      "alternativeText": "7 - Action E",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5d6040c42d92218f6f71ff68654f8ad7.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2ca81ff6b2389ff290ce750dfa8ef7f7.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/53d5e4c753fdf62698fee34610f8f0f4.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4a98a7b6a48533240c6d03d8f85fb97a.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e5933fd31b26e0a12a1ab2b28fb2160.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/634227f72e3579e300cb466a3fce9981.PNG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

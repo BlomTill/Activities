@@ -5,17 +5,9 @@
   "description": "Discover Old Town Classic guided city tour Rheinfelden in Switzerland.",
   "longDescription": "Discover Old Town Classic guided city tour Rheinfelden in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rheinfelden city tour, visitors listening to a narration, old buildings, flowers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_klassischealtstadtfuehrung_marktgasse_titelbild_84491d0eaf.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden city tour with participants in conversation in front of colorful houses.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_haeuser_kapuzinergasse_04bd1ae86e.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden city tour with participants in the historic area",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_klassischealtstadtfuehrung_rathaussaal_e366926424.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden guided tour through the narrow alley with historical buildings and bike",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrungen_sagenhafte_geschichte_schelmen_d4e096069b.jpg"
-    },
-    {
-      "alternativeText": "Houses in Rheinfelden on the Rhine, calm water surface, cloudy sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinfelden_768x576_8c5f5c2d84.jpg"
-    },
-    {
-      "alternativeText": "Alley in Rheinfelden with historic bell tower, surrounded by old buildings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_geiss_storchennestturm_kupfergasse_5b7a6c1651.jpg"
-    },
-    {
-      "alternativeText": "St. Martin's Church in Rheinfelden during a tour. Visitors are listening attentively.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_kirche_st_martin_0f2a53ac4a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

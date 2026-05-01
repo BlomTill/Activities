@@ -5,17 +5,9 @@
   "description": "Discover From Basel: Day trip to Colmar and Ribeauvillé (Christmas market) in Switzerland.",
   "longDescription": "Discover From Basel: Day trip to Colmar and Ribeauvillé (Christmas market) in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Colmar Weihnachtsmarkt",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22e2ba88858f14ffd5b78680d01727ce.jpg"
-    },
-    {
-      "alternativeText": "Colmar Weihnachtsmarkt",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/506876f7a12a2b1387212486c7a3a38c.jpg"
-    },
-    {
-      "alternativeText": "Colmar Weihnachtsmarkt",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a98da424151b013a6748ea817fdf553f.jpg"
-    },
-    {
-      "alternativeText": "Colmar Weihnachtsmarkt",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/72b20fe82d56ace18df0cc3d2978357a.jpg"
-    },
-    {
-      "alternativeText": "Colmar Weihnachtsmarkt",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/83aec18050924d54aea3488dc57bdb56.jpg"
-    },
-    {
-      "alternativeText": "Colmar Weihnachtsmarkt",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/91af578fad97383fca5631ff47278b53.jpg"
-    },
-    {
-      "alternativeText": "Weihnachtsmarkt Ribeauvillé",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0c1762c2ed0d103768cfe33f5e8156a.jpg"
-    },
-    {
-      "alternativeText": "Weihnachtsmarkt Ribeauvillé",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/49fde20437c4861f7581f6fe1d4b6ae1.jpg"
-    },
-    {
-      "alternativeText": "Weihnachtsmarkt Ribeauvillé",
-      "caption": "Tagesausflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2e05afe364c3e0e5cadce0366bdfdc0c.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

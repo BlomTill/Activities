@@ -5,17 +5,9 @@
   "description": "Discover Private Telemark lesson in Zermatt in Switzerland.",
   "longDescription": "Discover Private Telemark lesson in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,23 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Telemark Skilehrer und Kunde",
-      "caption": "Skischule Zermatt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/15f0d2af4fe40928a096448f7a2ffb25.jpg"
-    },
-    {
-      "alternativeText": "Telemark Skilehrer und Kunde",
-      "caption": "Skischule Zermatt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/19b5d40e901515f76c9e35e4236d99ee.jpg"
-    },
-    {
-      "alternativeText": "Telemark Skilehrer und Kunde",
-      "caption": "Skischule Zermatt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/973327bf94554adcd09518c6bef0cc6a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

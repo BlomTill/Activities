@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the groom\" in Lucerne: action-packed stag party in Switzerland.",
   "longDescription": "Discover \"Beat the groom\" in Lucerne: action-packed stag party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lucerne: Water Tower and Wooden Bridge by the Lake with Mountains in the Background, Ideal for Summer Outings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/geertje_caliguire_6_D9fp_C_Xb20_E_unsplash_9d5adc31d5.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Group in yellow shirts celebrates at the fountain in the park.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_b7495d171f.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Group activity in nature with friends and fun outdoors",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_02a4ff56e9.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: View of the river, beautiful architecture and green mountains, ideal for a summer visit.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_unsplash_e0ec19df3f.jpg"
-    },
-    {
-      "alternativeText": "Outdoor team activity: Fun playing on the grass in Switzerland with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_4a3205f804.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: Beautiful city view with water and historical buildings in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/tom_bradley_rf_S5_Jb_QCMF_8_unsplash_ecbb76345d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

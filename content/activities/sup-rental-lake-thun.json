@@ -5,17 +5,9 @@
   "description": "Discover SUP hire Lake Thun in Switzerland.",
   "longDescription": "Discover SUP hire Lake Thun in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "39",
-    "title": "Stand up paddle",
-    "slug": "stand-up-paddle",
-    "description": "Book your SUP tour with an experienced guide or rent your SUP equipment. Stand-up paddling has become a way of life in Switzerland and has experienced a real surge in popularity in recent years. There are already quite a few SUP spots on several lakes and rivers. For example, you can find SUP schools on Lake Biel, Lake Brienz and Lake Lucerne, just to name a few."
-  },
+  "subcategory": "Stand up paddle",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,13 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Paddleboarding on Lake Thun: Paddle with friends on the water in a picturesque setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/367e38a7d6327e6a146fd1d4dbb9611e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

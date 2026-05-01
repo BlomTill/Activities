@@ -5,17 +5,9 @@
   "description": "Discover \"Life Saving Evidence\" Escape Room in Niederwil Aargau in Switzerland.",
   "longDescription": "Discover \"Life Saving Evidence\" Escape Room in Niederwil Aargau in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Escape room with participants in safety vests presenting evidence.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lr_B_Gruppe_e9b4dff479.jpg"
-    },
-    {
-      "alternativeText": "Escape Room with life-saving evidence, table, chairs, police tape. The surroundings partially display a dark atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lebensrettende_Beweise_a031128482.jpg"
-    },
-    {
-      "alternativeText": "Argau Escape's logo features a locked suitcase with a creative lettering.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/LOGO_b9bf938331.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

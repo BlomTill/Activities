@@ -5,17 +5,9 @@
   "description": "Discover Breithorn ski tour Theodul Glacier guided: Private or group in Switzerland.",
   "longDescription": "Discover Breithorn ski tour Theodul Glacier guided: Private or group in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "95",
-    "title": "Ski touring",
-    "slug": "ski-touring",
-    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
-  },
+  "subcategory": "Ski touring",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Breithorn Ski Tour Zermatt: Group of skiers in the Alps preparing for the descent.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mp18512_7ecd54a989.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Breithorn, group skiing, Zermatt, snow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MP_18187_d9e7971e2d.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Breithorn Zermatt with mountaineers in the snow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Winter_Zermatters_58a867f8c2.jpg"
-    },
-    {
-      "alternativeText": "ski wanderers are preparing for the Breithorn ski tour in Zermatt 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Matterhorn_Zermatters_280038cccb.png"
-    },
-    {
-      "alternativeText": "Ski tour Breithorn Zermatt with ski tourers in the snow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_S5_A9365_90daefcaf2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "glacier"

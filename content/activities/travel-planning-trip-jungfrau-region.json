@@ -5,17 +5,9 @@
   "description": "Discover Travel planning for your trip in the Jungfrau Region in Switzerland.",
   "longDescription": "Discover Travel planning for your trip in the Jungfrau Region in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "106",
-    "title": "Travel preparation",
-    "slug": "travel-preparation",
-    "description": "Let a professional prepare your trip for you. Preparing a trip is not only time-consuming, it often requires a lot of detailed knowledge. Local travel professionals do this work for you. For example, in a video call or a personal conversation, you ask your questions or requirements for the trip. If you wish, all the necessary tickets will be put together and booked for you. You will receive the complete package after the consultation\n"
-  },
+  "subcategory": "Travel preparation",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,58 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Travel planning Wengen: Green meadows and impressive mountains in the summer landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wengen_haymaking_3e017f73ac.jpg"
-    },
-    {
-      "alternativeText": "First Cliff Walk: Experience the breathtaking view of the mountains and the glacier in Interlaken.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_First_Cliff_Walk_Seraina_d4f4093fa6.jpg"
-    },
-    {
-      "alternativeText": "Schiltthorn: Hiking on the Thrill Walk with views of the snow-capped mountains in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Schilthorn_Thrill_Walk_Seraina_0ac4692e1f.jpg"
-    },
-    {
-      "alternativeText": "trip planning Jungfraujoch with an incredible view of the snow-covered Alps and the glacier",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Jungfraujoch_Seraina_09a73632f6.jpg"
-    },
-    {
-      "alternativeText": "Travel planning Bachalpsee: picturesque landscape with mountains, green meadows, and clear water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Bachalpsee_Seraina_e1479f4379.jpg"
-    },
-    {
-      "alternativeText": "Travel planning Schilthorn viewpoint with a view of snow-covered mountains and blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Schilthorn_Aussicht_Skyline_Seraina_5b163a0e86.jpg"
-    },
-    {
-      "alternativeText": "travel-planning-oeschinensee-amazing-view-of-lake-and-alpine-surroundings-in-summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/15_Oeschinensee_Seraina_5dd8330033.jpg"
-    },
-    {
-      "alternativeText": "Travel planning ship Brienzersee, enjoy the view of the mountains and the clear water during the summer ride.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/17_Brienzersee_Seraina_cd59f20432.jpeg"
-    },
-    {
-      "alternativeText": "Travel Planning: Dreamy view of Lake Brienz, surrounded by mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/26_Brienzersee_Seraina_6c6cd6c992.jpeg"
-    },
-    {
-      "alternativeText": "Travel planning Interlaken: picturesque lakeside view with mountains and charming buildings, ideal for relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/40_Interlaken_Seraina_c9d32c2814.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

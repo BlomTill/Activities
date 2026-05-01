@@ -5,17 +5,9 @@
   "description": "Discover Private Snowboarding Lessons in St. Moritz in Switzerland.",
   "longDescription": "Discover Private Snowboarding Lessons in St. Moritz in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Snowboarder mit Lehrer",
-      "caption": "St. Moritz",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5e17ec1fe037cfa17058cbe78fe6338.jpg"
-    },
-    {
-      "alternativeText": "Snowboarder ",
-      "caption": "St. Moritz",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04ce09d53df549722416db2edd3cf034.jpg"
-    },
-    {
-      "alternativeText": "Snowboarder mit Lehrer",
-      "caption": "St. Moritz",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ff0ca227d5e99ccf57e5b8def30bf4d0.png"
-    },
-    {
-      "alternativeText": "Snowboarder  ",
-      "caption": "St. Moritz",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a8aa502df3bac5ebf3806858f4434906.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "snowboarding",

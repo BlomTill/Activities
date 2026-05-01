@@ -5,17 +5,9 @@
   "description": "Discover E-bike tour to the waterfalls in Lauterbrunnen in Switzerland.",
   "longDescription": "Discover E-bike tour to the waterfalls in Lauterbrunnen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "48",
-    "title": "E-bike",
-    "slug": "e-bike",
-    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
-  },
+  "subcategory": "E-bike",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "E-Bike Tour Lauterbrunnen-Waterfalls_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b97587e9950496d9c17f84807e451a1e.jpg"
-    },
-    {
-      "alternativeText": "E-Bike Tour Lauterbrunnen Waterfalls_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/73d1cd3f3c7d35eefb8723d8c824bdd6.jpg"
-    },
-    {
-      "alternativeText": "E-Bike Tour Lauterbrunnen-Waterfalls_3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/444bde41cc79f6725509109543163f94.jpg"
-    },
-    {
-      "alternativeText": "E-Bike Tour Lauterbrunnen-Waterfalls_4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4827c0e9bfb13c485c2fd4838461516b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "waterfall"

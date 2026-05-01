@@ -5,17 +5,9 @@
   "description": "Discover Fluehorn ski tour for beginners Zermatt guided: Private or group in Switzerland.",
   "longDescription": "Discover Fluehorn ski tour for beginners Zermatt guided: Private or group in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "95",
-    "title": "Ski touring",
-    "slug": "ski-touring",
-    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
-  },
+  "subcategory": "Ski touring",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ski tour Zermatt Fluehorn, group of ski hikers in the snow, Matterhorn visible",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MP_18187_0cad8929f9.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt in winter with Fluehorn in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Winter_Zermatters_bf6443f4a8.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt, Fluehorn, snow, mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitouren_Zermatt_1_Zermatters_508321d128.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt with a view of the Matterhorn, Active ski tourers, Winter landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Matterhorn_Zermatters_c40dc36b14.png"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt Fluehorn with skiers in the snow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mp18196_498584e9ea.jpg"
-    },
-    {
-      "alternativeText": "Riffelsee Zermatt shows the Matterhorn and snow-covered mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Riffelsee_Zermatt_Pixabay_0dce06b369.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

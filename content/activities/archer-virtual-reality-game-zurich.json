@@ -5,17 +5,9 @@
   "description": "Discover \"Archer\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover \"Archer\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VR Archer: Exciting adventure with fascinating characters and group activities in the virtual space.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_2e2fce0b46.png"
-    },
-    {
-      "alternativeText": "VR Archer: Experience the fascinating world of virtual archery in thrilling games.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_3_57f3b3ade6.jpg"
-    },
-    {
-      "alternativeText": "VR Archer: Experience an intense battle simulation game in a fantastic landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_869f1dcf37.png"
-    },
-    {
-      "alternativeText": "VR Archery: Experience exciting archery in a team and enjoy the adventure in the virtual world.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_4_328d2684ee.jpg"
-    },
-    {
-      "alternativeText": "VR Archer: Fight against creatures in a fantastic winter landscape with adventurous elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_d9f6cd9e16.png"
-    },
-    {
-      "alternativeText": "VR Archer: Experience thrilling virtual reality adventures in a modern environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_5_2be61bfe72.jpg"
-    },
-    {
-      "alternativeText": "VR Archer: Experience exciting adventures in a fantastic game world with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_e8282da27f.png"
-    },
-    {
-      "alternativeText": "VR Archer: three players in virtual reality with futuristic weapons and team spirit.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_7_8fd6227d72.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

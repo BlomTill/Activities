@@ -5,17 +5,9 @@
   "description": "Discover E-bike comfortable evening tour from Zermatt in Switzerland.",
   "longDescription": "Discover E-bike comfortable evening tour from Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "48",
-    "title": "E-bike",
-    "slug": "e-bike",
-    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
-  },
+  "subcategory": "E-bike",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Evening E-Bike Tour: Explore Zermatt on two wheels through nature with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abendrunde_Zermatt_Foto_Zermatters_42d8b8711e.jpg"
-    },
-    {
-      "alternativeText": "E-Bike Tour: Experience an unforgettable ride in the mountains under brilliant sunshine.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_MP_10532_677a0ded47.jpg"
-    },
-    {
-      "alternativeText": "E-Bike tour with a view of the Matterhorn in the Alps. Men and women enjoy nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Taste_Tour_2021_65_1_273eeee085.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

@@ -5,17 +5,9 @@
   "description": "Discover Stockhorn Helicopter Flight in Switzerland.",
   "longDescription": "Discover Stockhorn Helicopter Flight in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,43 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "FunFlights Stockhorn Tour: breathtaking view of mountains and nature from the helicopter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fun_Flights_Stockhorn_Tour_4_91019c7e3e.jpg"
-    },
-    {
-      "alternativeText": "FunFlights Stockhorn: impressive view of the mountains and Lake Thun in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fun_Flights_Stockhorn_Tour_1_edf4b8e249.jpg"
-    },
-    {
-      "alternativeText": "Helicopter flights: Experience the exciting Stockhorn Tour from the airport and enjoy the fascinating view.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fun_Flights_Stockhorn_Tour_2_44c6a3dc38.jpg"
-    },
-    {
-      "alternativeText": "FunFlights Stockhorn: impressive view of the Alps during the tour.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fun_Flights_Stockhorn_Tour_3_8b99529722.jpg"
-    },
-    {
-      "alternativeText": "Thun Lake: Aerial view with a spectacular view of mountains and a clear lake in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fun_Flights_Stockhorn_Tour_5_95725f8f9c.jpg"
-    },
-    {
-      "alternativeText": "FunFlights: Helicopter flight at the airport with a view of the Swiss Alps and blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fun_Flights_Stockhorn_Tour_6_1ee6863be6.JPG"
-    },
-    {
-      "alternativeText": "Thun Lake Tour: breathtaking views of the water and the surrounding mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fun_Flights_Stockhorn_Tour_7_ff7a7b5eb8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

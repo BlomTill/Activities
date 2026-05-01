@@ -5,17 +5,9 @@
   "description": "Discover Kayaking in Gstaad and Rougemont in Switzerland.",
   "longDescription": "Discover Kayaking in Gstaad and Rougemont in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "26",
-    "title": "Kayak",
-    "slug": "kayak",
-    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
-  },
+  "subcategory": "Kayak",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "ski-schoolRougemont-Lake-Gruyère_75-min_0",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0413b2e03941667040882b06879c6e7.jpg"
-    },
-    {
-      "alternativeText": "img_1815-min-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/44f41c208c9c1982d550373837dc93af.jpg"
-    },
-    {
-      "alternativeText": "skischoolrougemont_lac_gruyere_64-min",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/68411fbc8494c04eceed3b4f28debd4d.jpg"
-    },
-    {
-      "alternativeText": "ski school Rouge Mont Lake Gruyère 66 min",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc3ba45c07fc909f74fca1c155fdd1e5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "kayaking"

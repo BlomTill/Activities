@@ -5,17 +5,9 @@
   "description": "Discover St. Gallen interactive scavenger hunt with the smartphone in Switzerland.",
   "longDescription": "Discover St. Gallen interactive scavenger hunt with the smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Treasure hunt St. Gallen shows historical buildings and activities in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/St_Gallen_14_08013fb584.jpg"
-    },
-    {
-      "alternativeText": "Treasure Hunt St. Gallen, Playgroup Observes Historical Facades",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_00698cdd254a2b6c4e077e4651993351_8f096b4129.jpg"
-    },
-    {
-      "alternativeText": "Treasure hunt St. Gallen, participants read information on a notice board.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Entdecken_Schnitzeljagd_St_Gallen_Raetsel_d2ea3c3189.jpeg"
-    },
-    {
-      "alternativeText": "Treasure Hunt Riddles St. Gallen, participants smiling, city atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Raetsel_Schnitzeljagd_St_Gallen_373757fd56.jpg"
-    },
-    {
-      "alternativeText": "Fun treasure hunt St. Gallen with three participants jumping.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spass_Schnitzeljagd_St_Gallen_Raetsel_587af4c384.jpeg"
-    },
-    {
-      "alternativeText": "Two women using mobile phones during a treasure hunt in St. Gallen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Team_Schnitzeljagd_St_Gallen_Raetsel_824c85c611.jpeg"
-    },
-    {
-      "alternativeText": "Team treasure hunt St. Gallen with mobile phone and fountain sculpture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_538d7d659c67499907a708444fc8d6b4_3139b6c3db.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

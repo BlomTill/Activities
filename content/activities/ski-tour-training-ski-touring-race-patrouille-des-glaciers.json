@@ -5,17 +5,9 @@
   "description": "Discover Patrouille des Glaciers Ski Tour Training Private from Zermatt in Switzerland.",
   "longDescription": "Discover Patrouille des Glaciers Ski Tour Training Private from Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "95",
-    "title": "Ski touring",
-    "slug": "ski-touring",
-    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
-  },
+  "subcategory": "Ski touring",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ski Touring Zermatt: Preparing Equipment in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Matterhorn_Zermatters_5a5576de99.png"
-    },
-    {
-      "alternativeText": "Ski Tour Patrouille des Glaciers in Zermatt, Skier on snow-covered terrain",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_S5_A9365_12e3aeb54b.jpg"
-    },
-    {
-      "alternativeText": "Ski touring Zermatt, mountain guide, snow, Matterhorn",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Bergfuehrer_Zermatters_a9f2b97025.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt with mountain guides in a snowy mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Winter_Zermatters_f0c957b328.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt mountain guide prepares equipment in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitouren_Zermatt_1_Zermatters_137c8db367.jpg"
-    },
-    {
-      "alternativeText": "Ski Tour Zermatt Patrouille des Glaciers with snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_evtl_6497ee34da.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "glacier",

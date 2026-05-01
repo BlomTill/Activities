@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Jellyfish Alert at Lake Zurich\" Outdoor Escape Game Zurich Lakeshore in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Jellyfish Alert at Lake Zurich\" Outdoor Escape Game Zurich Lakeshore in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-zurich-lakeshore",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/594a80de85cf3439a0a4482689380d98.jpg"
-    },
-    {
-      "alternativeText": "Site-plan1-Lake-Zurich",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d5c199f02b230c424d3dd74393ad519.jpg"
-    },
-    {
-      "alternativeText": "group_cross_side_happily_chatting-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/03ed8f349e6b433eee26ba17d2493485.jpg"
-    },
-    {
-      "alternativeText": "find-the-code-team-photo15-fullsize",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/acbc935e73bd2261b1cf96cd1403645d.jpeg"
-    },
-    {
-      "alternativeText": "Site-plan2-Zurich-lake",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/520e096c2430569bc61391461eb5b81b.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe_58_edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bea988a9c81d4b9872078e4d9430287e.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe_55edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dffaa98b8c0b55c34d80a8d9faf5abf4.jpg"
-    },
-    {
-      "alternativeText": "group-photo-landscape-front-happy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/176c607d8b9f954d16fa5346e014d98e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

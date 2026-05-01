@@ -5,17 +5,9 @@
   "description": "Discover Ski Pass Laax in Switzerland.",
   "longDescription": "Discover Ski Pass Laax in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "29",
-    "title": "Lift tickets",
-    "slug": "lift-tickets",
-    "description": "Discover and book your next ski ticket in Switzerland here. Ski tickets are offered for different time periods. They are valid for several hours or half a day, one day, several days or a whole season. With a ski ticket you get access to the ski area with all ski lifts and cable cars. Often other attractions are included. In total there are about 7000 km of ski slopes in Switzerland. Some higher ski resorts are located on a glacier. Thanks to them, depending on the region, it is even possible to ski in summer."
-  },
+  "subcategory": "Lift tickets",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,13 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skiing",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4f293e5ab78b51f5bf98717c77d12e41.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

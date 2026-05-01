@@ -5,17 +5,9 @@
   "description": "Discover Winterthur interactive scavenger hunt with smartphone in Switzerland.",
   "longDescription": "Discover Winterthur interactive scavenger hunt with smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Treasure hunt: discover the fountain statue in the city with your smartphone on a sunny day",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wallpaper_CH_WI_1_Getyourguide_f700158a4c.jpg"
-    },
-    {
-      "alternativeText": "Scavenger hunt smartphone puzzle group with friends in the city, perfect for adventures and team activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/winterthur_carousel_2_e3e50f6dd2.jpg"
-    },
-    {
-      "alternativeText": "Scavenger Hunt Smartphone Puzzle Duo: Two women with phones experience an exciting adventure in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/winterthur_carousel_3_f04354284e.jpg"
-    },
-    {
-      "alternativeText": "Treasure Hunt: Solve the task at the ancient building with a smartphone in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/winterthur_carousel_4_9a0ee5d243.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

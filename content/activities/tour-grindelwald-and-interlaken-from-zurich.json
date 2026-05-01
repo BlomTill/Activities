@@ -5,17 +5,9 @@
   "description": "Discover From Zürich: Day trip to Grindelwald, Interlaken, and Lauterbrunnen in Switzerland.",
   "longDescription": "Discover From Zürich: Day trip to Grindelwald, Interlaken, and Lauterbrunnen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lauterbrunnen",
-      "caption": "Tagestour ab Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b7fd10dc02e3a18c6d85f73cbb75b709.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald Tour with a View of the Mountains and Paragliders",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Berge_Best_of_Switzerland_Tours_d90f64dda9.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da508f1344109e3933e31551cff3bb2d.jpg"
-    },
-    {
-      "alternativeText": "Cable car in Grindelwald over green meadows and mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_b003eeb3bf48c7c5423eb2c92c53d868_86adf3307a.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e9fb4ac9778646aa2c823721c1fc0910.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald Tour with a view of the mountains and forest",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bergresort_Best_of_Switzerland_Tours_e944c06799.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e9c3f4629a7fa19911237cf2027069e.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald Tour from Zurich with a view of the lake and mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_ccf60de976868b0277552bf7be5aa51e_46e28ec3b6.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald Tour from Zurich, street view, morning",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Interlaken_Best_of_Switzerland_Tours_4665e8cf6b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

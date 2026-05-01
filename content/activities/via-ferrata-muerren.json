@@ -5,17 +5,9 @@
   "description": "Discover Via ferrata Mürren for beginners in Switzerland.",
   "longDescription": "Discover Via ferrata Mürren for beginners in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "36",
-    "title": "Via ferrata",
-    "slug": "via-ferrata",
-    "description": "Find the via ferrata that suits you best and book a tour led by an experienced mountain guide or rent your equipment here. Via Ferrata, also known under the Italian name \"Via Ferrata\", provide a thrill and an unforgettable climbing experience. Depending on the level of difficulty, previous experience is necessary. However, there are also via ferratas that can be climbed without experience. Well secured, you will master steep ascents and airy traverses. Via ferrata routes can be found all over Switzerland. Starting in the Valais to the Bernese Oberland, Central Switzerland and the Grisons Alps."
-  },
+  "subcategory": "Via ferrata",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Mürren Via Ferrata views, climber on the rock, mountain landscape, clouds",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_78a4bfa5b82c76bacb3ef0941dde03e9_a62eb0a55e.jpg"
-    },
-    {
-      "alternativeText": "Mürren Via Ferrata with Guide shows participants map",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_772a88d22315602844b6d2e6bdafaf32_d36312ac24.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata Mürren with climber on the rock, alpine surroundings, green valley",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_a03889e60d6b0ec5ba477ab4f20d4e72_4dd28f5ec4.jpg"
-    },
-    {
-      "alternativeText": "Mürren Cable Car Via Ferrata, person in climbing gear, thrilling descent in the mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_a07780369124daa3aacbc7e9ae8c3528_efcf929833.jpg"
-    },
-    {
-      "alternativeText": "Mürren Via Ferrata suspension bridge with climbers in the Alps. Clear weather, green surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_6f1350ec88efff69ecb3e44ae3be7151_1fb1c041cc.jpg"
-    },
-    {
-      "alternativeText": "Via Ferrata: exciting Nepal Bridge in Mürren, surrounded by impressive mountains and lush nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/82c3b2de9d60f39ec053633873a85a2a.JPG"
-    },
-    {
-      "alternativeText": "Via Ferrata Mürren: Experience impressive climbing in the breathtaking nature of the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8df4bb77c4f41986d0cec1e77f6229d4.JPG"
-    },
-    {
-      "alternativeText": "Via Ferrata Mürren: Experience the thrill of climbing in untouched nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3a3790e2138295e44c5631d09bccc8cb.JPG"
-    },
-    {
-      "alternativeText": "Via Ferrata Mürren: Experience an exciting climbing tour in nature with friends in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/516c3142eb8ca8a28efe27c7259c3b0d.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

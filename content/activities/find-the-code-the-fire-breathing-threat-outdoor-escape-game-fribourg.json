@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: The Fire-Breathing Threat\" Outdoor Escape Game Fribourg in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: The Fire-Breathing Threat\" Outdoor Escape Game Fribourg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "197",
-      "title": "Fribourg region"
-    },
+    "region": "Fribourg region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-fribourg",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a58380970fef1b2ff593bd49ec81380.jpg"
-    },
-    {
-      "alternativeText": "find-the-code-map-fribourg-standard",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c54ee76d8253a38bbe45ec64e276d3d4.jpg"
-    },
-    {
-      "alternativeText": "group-photo-landscape-frontal-happy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/feee51cb7e60e4643072a274fd4bd620.jpg"
-    },
-    {
-      "alternativeText": "group-photo_hk_flowers_file_phone_neutral_",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d656b1c1cb505439830ccaa03b4bab60.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe_58_edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66cb280d9e57d5ebe9165b6edf552ec6.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe_88_edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fcbb59a45da2cd2c325bef3660e240aa.jpg"
-    },
-    {
-      "alternativeText": "group-hk-file-daniel-puzzle-solved-party-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7d69130dcb284f0f6ab0ec9044ae4e9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

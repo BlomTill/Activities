@@ -5,17 +5,9 @@
   "description": "Discover \"Eerie Doings\": public city tour in Switzerland.",
   "longDescription": "Discover \"Eerie Doings\": public city tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "eerie-doing-the-night-watchman04",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/041f27766c8c0afb86cce42763d76d14.jpg"
-    },
-    {
-      "alternativeText": "eerie-thun-night-watchman02",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/19a6a3961df0d98061c785336758ce36.jpg"
-    },
-    {
-      "alternativeText": "Ghost Tour of Thun with a person in a dark cloak holding a lantern and walking along a wooden bridge.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Unheimliches_Thun_15_Thun_Thunersee_Tourismus_680414da8d.jpeg"
-    },
-    {
-      "alternativeText": "Eerie City Tour in Thun with Black Cloak",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Unheimliches_Thun_4_Thun_Thunersee_Tourismus_35396d9d28.jpeg"
-    },
-    {
-      "alternativeText": "Thun Castle with surrounding historic houses at night.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_blutiges_Thun_4_Thun_Thunersee_Tourismus_ec19187c11.jpeg"
-    },
-    {
-      "alternativeText": "Spooky-Thun-the-Night-Watchman01",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a04389d4bc59d9d9d086b1a86040f52b.jpg"
-    },
-    {
-      "alternativeText": "Eerie_Thun_-_the_Nightwatchman03",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e82441932d73b08e8d9b80aa1afb069f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

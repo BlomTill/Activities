@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Fall Hacked\" Outdoor Escape Game Interlaken in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Fall Hacked\" Outdoor Escape Game Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-interlaken-hacked",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b0cdf8430ecc4150733aba455b45cd4f.jpg"
-    },
-    {
-      "alternativeText": "group-hk-file-daniel-puzzle-solved-party-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ac5c1a5520c6b1440172940c50056564.jpg"
-    },
-    {
-      "alternativeText": "map-interlaken",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/309063ad76832c945ffc0d6444279a08.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe_88_edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/57555f29653553cc5c3fbac4c6b93b29.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

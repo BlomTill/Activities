@@ -5,17 +5,9 @@
   "description": "Discover Fatbike Rental in Davos in Switzerland.",
   "longDescription": "Discover Fatbike Rental in Davos in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "58",
-    "title": "Mountain bike",
-    "slug": "mountain-bike",
-    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
-  },
+  "subcategory": "Mountain bike",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,18 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Tour mit Fatbikes",
-      "caption": "Skigebiet Davos",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10cfd137d5658327c0007d1208e22ba4.JPG"
-    },
-    {
-      "alternativeText": "Tour mit Fatbikes",
-      "caption": "Skigebiet Davos",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/963b7bd7eec1081f86b80ef4b7d242b4.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "davos"

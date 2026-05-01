@@ -5,17 +5,9 @@
   "description": "Discover Tour of the \"Kafi Luz\" Distillery in Willisau in Switzerland.",
   "longDescription": "Discover Tour of the \"Kafi Luz\" Distillery in Willisau in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "145",
-    "title": "Distillery",
-    "slug": "distillery",
-    "description": "A visit to a distillery will give you an exciting insight into the art of making spirits. During a guided tour, you will get to know the various production areas. A knowledgeable member of staff will explain the process of making spirits from start to finish. You will learn which raw materials and ingredients are used to produce the spirits and what is involved in the distillation process. A highlight of the visit is the tasting of the distillery's products, where you will get to know their aromas, flavors and nuances under expert guidance.\n"
-  },
+  "subcategory": "Distillery",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kafi-Luz_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a18ce9f7f3c838d589d087d582230b30.jpg"
-    },
-    {
-      "alternativeText": "Kafi-Luz_3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a54737503b4b1fdc6f42873aaffbaeba.jpg"
-    },
-    {
-      "alternativeText": "Kafi-Luz_4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fbf3fa6b5cab49a54677ab506079cc30.jpg"
-    },
-    {
-      "alternativeText": "Kafi-Luz_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16a4f2fcc0612cffda9d337caa327d82.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

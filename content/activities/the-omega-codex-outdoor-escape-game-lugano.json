@@ -5,17 +5,9 @@
   "description": "Discover \"The Omega Codex\" Outdoor Escape Game Lugano in Switzerland.",
   "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game Lugano in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "OmegaCodex_3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ae97779ab2268b5b856169f7cdb4224d.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/af8d38cdf9fd8945fc9bee0d2acf964f.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c86738525cde8c16afcea7d5cbf27c5b.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_5",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d07065d3c0fbec7af1ca3fa4c90e9865.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_6",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5425feba3edbc92040d7ceea099dfd1.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_7",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c06297b42e96dd745f0620531778e17f.jpg"
-    },
-    {
-      "alternativeText": "OmegaCodex_9",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/38b360185154783083e64f161c7e82c6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lugano"

@@ -5,17 +5,9 @@
   "description": "Discover Day Pass Dog SBB in Switzerland.",
   "longDescription": "Discover Day Pass Dog SBB in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "136",
-    "title": "SBB Day Pass",
-    "slug": "sbb-day-pass",
-    "description": "Find the right SBB Day Pass for you here. SBB Day Passes allow you to travel for a whole day. You only need one ticket, even if you have to change trains several times. Within the validity of your day ticket, you can travel as often as you like. You should only check the timetables so that you don't miss the \"last train\" or your connection. Your day pass is valid for the entire day of the date printed on it and beyond until 5:00 a.m. the following day."
-  },
+  "subcategory": "SBB Day Pass",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,43 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Dog: Joy while playing with your dog in nature on a sunny day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/wade_austin_ellis_Ftu_J_Iu_Bb_Uh_I_unsplash_2fee737689.jpg"
-    },
-    {
-      "alternativeText": "Dog relaxing on meadow with flowers, ideal for animal lovers and nature enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/angel_luciano_LAT_Ye_Zyw88c_unsplash_a9a4f2536a.jpg"
-    },
-    {
-      "alternativeText": "Dog: cheerful Beagle stands outside, surrounded by nature and green spaces.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/milli_2l0_CW_Tpc_Ch_I_unsplash_40a421e847.jpg"
-    },
-    {
-      "alternativeText": "SBB train travels through the picturesque landscape of Switzerland with vineyards and lakes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_1_Unsplash_5773cba910.jpg"
-    },
-    {
-      "alternativeText": "Zürich Bahnhof: Insight into the station with trains, travelers, and impressive architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0_Bahnhof_Zuerich_Seraina_43395d1a63.jpg"
-    },
-    {
-      "alternativeText": "Lake Brienz: Boat trip with views of the mountains and blue skies, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/17_Brienzersee_Seraina_42b953b59e.jpeg"
-    },
-    {
-      "alternativeText": "Tram Zurich: modern tram on a city street in Zurich with pedestrians and autumn atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tram_Zuerich_Unsplash_f955b1f6fe.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Lütschine rafting for families from Interlaken in Switzerland.",
   "longDescription": "Discover Lütschine rafting for families from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33",
-    "title": "Rafting",
-    "slug": "rafting",
-    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
-  },
+  "subcategory": "Rafting",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Family Rafting on the Lütschine with Fun and Action",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_1eb2a3ee70781a34fbf20cfa4339c1d5_475c829a03.jpg"
-    },
-    {
-      "alternativeText": "River Rafting Interlaken with Children in Wetsuits",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_009f9e4098dd0f7a9a358499d038449b_de7db3c8e7.jpg"
-    },
-    {
-      "alternativeText": "Rafting Lütschine with kayakers on calm water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_59a358a1d71aa8faf1ba4604bdf98d6a_c8768186d7.jpg"
-    },
-    {
-      "alternativeText": "Rafting Lütschine Interlaken with groups on the river",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_52ed5ec350a70677a0371ae894581e73_1adc1906c6.jpg"
-    },
-    {
-      "alternativeText": "River Rafting Switzerland: Group in a raft on wild waters with green nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_44cc6ffd52ad88d390583e6ae602a090_ab4b7a94dc.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "rafting",

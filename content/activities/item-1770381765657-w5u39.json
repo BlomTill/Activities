@@ -5,17 +5,9 @@
   "description": "Discover Creative Team Relay Workshop Private in Zurich in Switzerland.",
   "longDescription": "Discover Creative Team Relay Workshop Private in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Decoden-Workshop-DIY-Zurich-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1d265734b12bb89fef26bc2179489fe9.jpg"
-    },
-    {
-      "alternativeText": "ghost-painting-for-team-event-at-paintnow-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1b3c26d131f036f0aadd27b2c1c5585.jpg"
-    },
-    {
-      "alternativeText": "Handlettering-Greeting-Cards-Zurich",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/230b338df599c5a57862b033e0c5783e.jpg"
-    },
-    {
-      "alternativeText": "manga-drawing-1-paintnow-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b999590b21b6dce69a40bb0af8bb27f1.jpg"
-    },
-    {
-      "alternativeText": "Needle-Punching-PaintNow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7513741e5ae35e94a27f0ead5baf0282.jpg"
-    },
-    {
-      "alternativeText": "Pottery-Cute-2-PaintNow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7dfd57510043342e815b2c183c6daf64.jpg"
-    },
-    {
-      "alternativeText": "sketchbook-cover-course-paintnow-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/318c7a9a7b0138df95b3f301bb78e049.jpg"
-    },
-    {
-      "alternativeText": "Team-Events-PaintNow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4cc826ea7a4616fc6fbe3ecad87583a.jpg"
-    },
-    {
-      "alternativeText": "Team Event Paintnow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3dd800fa7e3ce7d623bea8ba0d190849.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

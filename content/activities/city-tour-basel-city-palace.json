@@ -5,17 +5,9 @@
   "description": "Discover City tour Basel City Palace in Switzerland.",
   "longDescription": "Discover City tour Basel City Palace in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Maid opens gate during city tour in Basel",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Basel_Stadtfuehrung_Stadtpalast_theatralisch_0cce99e1d9.jpg"
-    },
-    {
-      "alternativeText": "City tour in the City Palace Basel with theatrical flair",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Basel_Stadtfuehrung_Stadtpalast_theatralisch_f0890d1f49.jpg"
-    },
-    {
-      "alternativeText": "City tour Basel: The guide opens the gate to the city palace.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Basel_Stadtfuehrung_Stadtpalast_theatralisch_d05b6c26d4.jpg"
-    },
-    {
-      "alternativeText": "Münster in Basel, old architecture, historical city tour",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_Basel_Stadtfuehrung_Altsdadt_muenster_eb94dffbb1.jpg"
-    },
-    {
-      "alternativeText": "City tour Basel. Bicycles along the Martinskirche in the city center.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_Basel_Stadtfuehrung_Altsdadt_martinskirchplatz_032f69a6ef.jpg"
-    },
-    {
-      "alternativeText": "City tour Basel, old town with historic buildings and narrow streets.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_Basel_Stadtfuehrung_Altsdadt_06b41af38a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

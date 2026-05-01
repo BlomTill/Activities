@@ -5,17 +5,9 @@
   "description": "Discover Ticket Virtual Reality Game in Basel in Switzerland.",
   "longDescription": "Discover Ticket Virtual Reality Game in Basel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VR Room",
-      "caption": "VR Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/92a6bd3f560403b36f8d25cc4db2281b.jpg"
-    },
-    {
-      "alternativeText": "VR Room",
-      "caption": "VR Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d96146778cb176ea89e32e0275ba60b.jpg"
-    },
-    {
-      "alternativeText": "VR Room",
-      "caption": "VR Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bae1f1bbe73a6dd3aa1608cd8bd28923.jpg"
-    },
-    {
-      "alternativeText": "VR Room",
-      "caption": "VR Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08f7281b98c2d6cef276ebbc8da3849b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

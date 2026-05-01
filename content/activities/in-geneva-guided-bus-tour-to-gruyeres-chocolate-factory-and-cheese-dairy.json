@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Guided Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy in Switzerland.",
   "longDescription": "Discover In Geneva: Guided Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,73 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Schaukäserei ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fb385bf1993df72aa7e1761ccb97d3c1.jpg"
-    },
-    {
-      "alternativeText": "Schaukäserei ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dbab0b719cd73d2e83a06a39c73b38fe.JPG"
-    },
-    {
-      "alternativeText": "Schaukäserei ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64527fe76c02dcdd12507cb25b4607b4.jpg"
-    },
-    {
-      "alternativeText": "Schaukäserei ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/307446f10485a7fb94b81d6aa31c6e91.jpg"
-    },
-    {
-      "alternativeText": "Schokoladenfabrik ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebf06914fc63623c1aef4a75f6e1d44d.jpg"
-    },
-    {
-      "alternativeText": "Schokoladenfabrik ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7cd8b2ae36a8d5c0a8139e418c046a1.jpg"
-    },
-    {
-      "alternativeText": "Schokoladenfabrik ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3396290e385bd9b6c970a0fd24b32e9d.jpg"
-    },
-    {
-      "alternativeText": "Schokoladenfabrik ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2cad77f362af6671cd540ac719874d6c.jpg"
-    },
-    {
-      "alternativeText": "Schokoladenfabrik ",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed0decd39f55e60687a80b160cd4a682.jpg"
-    },
-    {
-      "alternativeText": "Gruyères",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/21c33c47d851a2ae44ff0f77955138cd.jpg"
-    },
-    {
-      "alternativeText": "Gruyères",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/685038022f74f78bbade8b1330d95f2e.jpg"
-    },
-    {
-      "alternativeText": "Gruyères",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b2d1706cb357ae2ff501ce80ed3e2273.jpg"
-    },
-    {
-      "alternativeText": "Gruyères",
-      "caption": "Gruyères, Schokoladenfabrik und Schaukäserei ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16110d4f3783fcadc28b1d0464fe6279.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

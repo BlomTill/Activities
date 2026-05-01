@@ -5,17 +5,9 @@
   "description": "Discover City Pass Winterthur in Switzerland.",
   "longDescription": "Discover City Pass Winterthur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "115",
-    "title": "City Pass",
-    "slug": "the-city-pass",
-    "description": "Find the right City Pass for your travel plans. With a City Pass you have the opportunity to save money on various attractions in a city. City Pass discounts are offered by different organizations and for different purposes. For example, they apply to transportation tickets, museums, attractions or sports activities. (Photo: Giglio Pasqua , Switzerland Tourism)"
-  },
+  "subcategory": "City Pass",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Winterthur Stadt",
-      "caption": "ZVV City Pass",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b01400a2bbaaf2379cf4b0cd7844b5e.jpg"
-    },
-    {
-      "alternativeText": "Winterthur  Goldenberg",
-      "caption": "ZVV City Pass",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed25e7f992c8a8ba338d90c8fba72d9c.jpg"
-    },
-    {
-      "alternativeText": "Winterthur Technorama",
-      "caption": "ZVV City Pass",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0dfecbd3e128c421deac4d348e426f3b.jpg"
-    },
-    {
-      "alternativeText": "Winterthur Technorama",
-      "caption": "ZVV City Pass",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08dfafb970f0f580998b1506ae7ead48.jpeg"
-    },
-    {
-      "alternativeText": "Winterthur Technorama",
-      "caption": "ZVV City Pass",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2dcabba2291dddf4bc4cfc1bba0d64e6.jpg"
-    },
-    {
-      "alternativeText": "Winterthur Technorama",
-      "caption": "ZVV City Pass",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c9ce7593263705cd11e55dd58935aae9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

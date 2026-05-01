@@ -5,17 +5,9 @@
   "description": "Discover Whitewater Action Rafting on the Lütschine from Interlaken in Switzerland.",
   "longDescription": "Discover Whitewater Action Rafting on the Lütschine from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33",
-    "title": "Rafting",
-    "slug": "rafting",
-    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
-  },
+  "subcategory": "Rafting",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5d76e6e486c37afd28982534d5b15c7.JPG"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b57c17f856e2eb505289eb69a249017e.png"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/92a5849e962da172916f365585495a31.JPG"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/547a970cac425cebb0a3e7fb144beff4.jpg"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7ad36257e8bdc68ccc9a929fa9a3e00f.jpg"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ae0058ab06c7df2bcaf2c3effbfc1d5.jpg"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ab7e20804ab5de0cf60576444aa7c41c.jpg"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eea6c86d7d36bf5dc84eae84b4eb907c.jpg"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6dd5c0245231833be10856b55585bc6e.jpg"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c71c30f03d887af3283a888581a27d1f.jpg"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebb4af92b372bc4b9974daad519b3bdb.jpg"
-    },
-    {
-      "alternativeText": "Rafting Action",
-      "caption": "Rafting Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24e7b3d84f86d19ba069b167a93c9bfb.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "rafting",

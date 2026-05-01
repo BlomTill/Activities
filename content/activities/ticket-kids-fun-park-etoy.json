@@ -5,17 +5,9 @@
   "description": "Discover Kids Fun Park Ticket Etoy in Switzerland.",
   "longDescription": "Discover Kids Fun Park Ticket Etoy in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "68",
-    "title": "Indoor amusement park",
-    "slug": "indoor-amusement-park",
-    "description": "Find your indoor recreational pleasure in an adventure pool, the Citywave or a\na sports or climbing hall. Indoor amusement parks offer an activity field for all those who like to do sports, even in bad weather and in winter. They are often equipped with action-packed facilities such as trampoline areas, ball fields, climbing facilities or water sports facilities. Did you know, for example, that you can also go indoor surfing in Switzerland? In an indoor amusement park, both children and adults will find something entertaining to do"
-  },
+  "subcategory": "Indoor amusement park",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kids Fun Park Etoy: Play area with slides, play equipment, and adventures for kids.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bb9c7a6d7439008befe51496a89ac94e.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park Etoy: Playful atmosphere with children and colorful play equipment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8f5d18a7b244ee45cffb890de304867a.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park Etoy: Colorful play area with slides and play equipment for children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fe8bc2ea0cbe10d984312faa38f44b95.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park: Play area with climbing wall and interactive play zone for kids",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c8da95548d75e41798702ad926316b5d.jpg"
-    },
-    {
-      "alternativeText": "Playground: Exciting play area with slides and balls for kids in Etoy.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d6858c5f13563bcd5ce4f18b3ab300b7.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park Etoy: Play area with slides and colorful balls for children",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/da156367504cdd4b17cb407239a7992f.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park Etoy: Exciting play area with slide and climbing area for children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0cb5a82e42f73def8681780c95018e9a.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park Etoy: Play area with slides, climbing opportunities, and colorful play equipment for children.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2ba2537c946618bb7055a75c55de8f1a.jpg"
-    },
-    {
-      "alternativeText": "Children's birthday: Kids celebrate with cake and fun at Kids Fun Park Etoy.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ed88a189ee9c48f4459f02a2d8b45a80.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "kids"

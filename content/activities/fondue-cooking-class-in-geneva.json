@@ -5,17 +5,9 @@
   "description": "Discover Fondue Cooking Class in Geneva in Switzerland.",
   "longDescription": "Discover Fondue Cooking Class in Geneva in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "61",
-    "title": "Cooking course",
-    "slug": "cooking-course",
-    "description": "Choose your special cooking class from various topics and book it here. Whether alone, as a couple or in a group, a cooking class expands all the senses and is a welcome change for the busy everyday life. Often it's about discovering an unknown or particularly exotic cuisine and learning new tricks. Of course, the subsequent enjoyment of the created masterpiece may not be missing."
-  },
+  "subcategory": "Cooking course",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "angela-pham-vo7GGTh6sXM-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/29cf65ec0ce33663cdc40da80981a2fc.jpg"
-    },
-    {
-      "alternativeText": "fondue-freeimages royalty-free",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d25964baeff67297f04a34d60d2286e6.jpg"
-    },
-    {
-      "alternativeText": "3896307527_3083846f92_o",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fd3890a54f8c79fd4a9ef40c5ef96407.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "fondue",

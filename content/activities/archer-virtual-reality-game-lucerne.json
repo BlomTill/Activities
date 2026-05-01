@@ -5,17 +5,9 @@
   "description": "Discover \"Archer\" virtual reality game in Lucerne in Switzerland.",
   "longDescription": "Discover \"Archer\" virtual reality game in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VRIlliant Archer: Fantastic surroundings with adventurers and barrels in a magical hall.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_65eb8d1bff.png"
-    },
-    {
-      "alternativeText": "VRIlliant: Player with VR headset in a modern arena virtual reality adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_5_4d3409e22f.jpg"
-    },
-    {
-      "alternativeText": "VRIlliant Archer: epic action scene with characters and creative elements in a medieval game context.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_8cd47221f3.png"
-    },
-    {
-      "alternativeText": "Virtual Reality: Players with VR headset and controllers experience digital adventures",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_1_8e9cc8755b.jpg"
-    },
-    {
-      "alternativeText": "VRIlliant Archer: Fight monsters and master the challenge in an exciting game environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_04e4a0d6dd.png"
-    },
-    {
-      "alternativeText": "Virtual Reality: Experience exciting adventures with friends in a modern gaming environment",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_3_95b6441a86.jpg"
-    },
-    {
-      "alternativeText": "VRIlliant Archer: Strategic Game with Fantastic Creatures and Winter Mountain Landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_0bed9c884e.png"
-    },
-    {
-      "alternativeText": "VRIlliant: exciting coop virtual reality action with friends in an exciting environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_7_de417bff6b.jpg"
-    },
-    {
-      "alternativeText": "Virtual Reality: exciting players on a shared adventure in a modern VR environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_4_18e93d8441.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

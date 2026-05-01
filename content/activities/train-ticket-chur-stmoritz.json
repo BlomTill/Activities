@@ -5,17 +5,9 @@
   "description": "Discover Train ticket between Chur and St. Moritz in Switzerland.",
   "longDescription": "Discover Train ticket between Chur and St. Moritz in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "70",
-    "title": "Train ticket",
-    "slug": "train-ride",
-    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
-  },
+  "subcategory": "Train ticket",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,68 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Train to St. Moritz: picturesque scene with red train in the Swiss Alps, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_nach_St_Moritz_Pixabay_fc34b4e7f4.jpg"
-    },
-    {
-      "alternativeText": "Albula Valley: picturesque landscape with typical chalets, mountains, and green meadows in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Albulatal_Pixabay_f6f1308074.jpg"
-    },
-    {
-      "alternativeText": "Bergün: enchanting winter village in the Swiss Alps with snow-covered houses and mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Berguen_Seraina_848201ac98.JPG"
-    },
-    {
-      "alternativeText": "Bergün: idyllic village with a church and adjacent nature in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Berguen_1_Unsplash_89e31ffb5c.jpg"
-    },
-    {
-      "alternativeText": "Chur: picturesque cityscape with mountains and historic buildings, ideal for explorations.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chur_Pixabay_93340e3623.jpg"
-    },
-    {
-      "alternativeText": "Landwasser Viaduct: impressive view of the railway bridge in the winter landscape of Switzerland",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Landwasserviadukt_1_Unsplash_41ed6fab18.jpg"
-    },
-    {
-      "alternativeText": "Landwasser Viaduct in winter with snow-covered mountains and a red train, impressive natural backdrop.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Landwasserviadukt_2_Unsplash_67b4badaa5.jpg"
-    },
-    {
-      "alternativeText": "Rhaetian Railway: Fascination of the train ride through the Swiss Alps, ideal for nature and travel enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rhaetische_Bahn_Pixabay_244f61dbdf.jpg"
-    },
-    {
-      "alternativeText": "Rhaetian Railway in winter, snow-covered mountains and idyllic landscape in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rhaetische_Bahn_1_Pixabay_1e2dc2008e.jpg"
-    },
-    {
-      "alternativeText": "Rhaetian Railway travels through a green mountain landscape in summer. Beautiful nature. Experience travel adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rhaetische_Bahn_2_Pixabay_0cc741ba77.jpg"
-    },
-    {
-      "alternativeText": "Rhaetian Railway at St. Moritz station with impressive mountain scenery and clear skies.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/St_Moritz_Pixabay_cdcedba53a.jpg"
-    },
-    {
-      "alternativeText": "St. Moritz: picturesque view of the lake and the town with mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/St_Moritz_1_Pixabay_c2b336f233.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train",

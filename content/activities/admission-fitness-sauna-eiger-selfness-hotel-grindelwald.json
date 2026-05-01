@@ -5,17 +5,9 @@
   "description": "Discover Day admission fitness and sauna at Eiger Mountain & Soul Resort in Grindelwald in Switzerland.",
   "longDescription": "Discover Day admission fitness and sauna at Eiger Mountain & Soul Resort in Grindelwald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "69",
-    "title": "Wellness and adventure pools",
-    "slug": "wellness",
-    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
-  },
+  "subcategory": "Wellness and adventure pools",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,43 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Olivia cycling at the Eiger Selfness Hotel, fitness, sports, health.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/olivia_bike_d76a553032.jpg"
-    },
-    {
-      "alternativeText": "Fitness: Modern fitness studio with equipment for effective training in Eiger during summer time.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fitness_478df2cd41.jpg"
-    },
-    {
-      "alternativeText": "Fitness: modern gym with innovative equipment for your training and healthy leisure activities",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/self_fit_01_5883c80126.jpg"
-    },
-    {
-      "alternativeText": "Fitness Eiger: modern fitness studio with training equipment and exercise areas, ideal for athletes and fitness enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/self_fit_08_7665c1f8aa.jpg"
-    },
-    {
-      "alternativeText": "Fitness Eiger: modern gym with high-quality equipment in a quiet environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/self_fit_02_d6d91d60f2.jpg"
-    },
-    {
-      "alternativeText": "Fitness Eiger: modern health center with bright, inviting spaces and a relaxing atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/self_fit_03_baea68c187.jpg"
-    },
-    {
-      "alternativeText": "Fitness Eiger: modern equipped fitness studio with cardio machines and training area.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/self_fit_06_9cd9b177cc.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "mountain",

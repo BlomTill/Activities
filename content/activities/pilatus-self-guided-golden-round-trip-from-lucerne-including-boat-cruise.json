@@ -5,17 +5,9 @@
   "description": "Discover Pilatus - self-guided Golden Round Trip from Lucerne including boat cruise in Switzerland.",
   "longDescription": "Discover Pilatus - self-guided Golden Round Trip from Lucerne including boat cruise in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,73 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Pilatus: Historic steamship Schiller on Lake Lucerne with mountain backdrop in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_Pilatus_Goldene_Rundfahrt_0303_DS_Schiller_Foto_Pilatus_Bahnen_AG_60ebbddae2.jpg"
-    },
-    {
-      "alternativeText": "Pilatus Cable Car: Enjoy the magnificent view of Lake Lucerne and the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luftseilbahn_Pilatus_c8174379d9.jpg"
-    },
-    {
-      "alternativeText": "Pilatus Cogwheel Railway: impressive mountain ride with magnificent views and hiking trails in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Zahnradbahn_2022_33f21cbbf6.jpg"
-    },
-    {
-      "alternativeText": "The steamboat on Lake Lucerne glides through clear water, surrounded by mountains and blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Dapmfschiff_Vierwaldstaettersee_Pia_Zellweger_4ab926e6e2.jpg"
-    },
-    {
-      "alternativeText": "Pilatus Cogwheel Railway: impressive view from the interior with nature, view, mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Zahnradbahn_Aussicht_von_innen_94254c5bbe.jpg"
-    },
-    {
-      "alternativeText": "Pilatus: Enjoy the view while hiking with the family in Switzerland's nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Familie_am_Aussicht_geniessen_Wandern_PILATUS_BAHNEN_AG_7da358c1f6.jpg"
-    },
-    {
-      "alternativeText": "Pilatus: Family hiking with children in nature, inspiring Golden Round Tour.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Familie_am_Wandern_mit_Kids_Foto_PILATUS_BAHNEN_AG_fe52d2fc59.jpg"
-    },
-    {
-      "alternativeText": "Pilatus: impressive mountain landscape with panorama and hikers in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gipfel_Pilatus_47c729833b.jpg"
-    },
-    {
-      "alternativeText": "Hotel Pilatus Kulm: impressive building in the mountains, ideal for summer activities and groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Hotel_Pilatus_Kulm_d727e84bdf.jpg"
-    },
-    {
-      "alternativeText": "Pilatus hike with a view of the mountains, ideal for nature lovers and adventure seekers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Wanderung_Alpnachstad_Aemsigen_Pilatus_Kulm_7a7b036a82.jpg"
-    },
-    {
-      "alternativeText": "Pilatus: Panoramic view of Lake Lucerne with mountains and green surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Seeblick_vom_Oberhaupt_Pilatus_3045fadfc0.jpg"
-    },
-    {
-      "alternativeText": "Pilatus: flower path with colorful flowers and mountain landscape, ideal for hikers and nature lovers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Wanderung_Blumenpfad_105ea92fa5.jpg"
-    },
-    {
-      "alternativeText": "Pilatus: View over Lake Lucerne at sunrise with mountains and sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Pilatus_Sonnenaufgang_Aussicht_vom_Esel_0782f010b4.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat",

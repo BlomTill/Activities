@@ -5,17 +5,9 @@
   "description": "Discover \"Chnusperli-Tuk\" - city tour with the Tuk Tuk in Lucerne in Switzerland.",
   "longDescription": "Discover \"Chnusperli-Tuk\" - city tour with the Tuk Tuk in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,28 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chnusperli: Delicious food and drinks with friends by the water on a summer day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/697b03fde670047e52a483ba229108b9.jpg"
-    },
-    {
-      "alternativeText": "Crispy bites by the river with a view of the city, perfect for summer gatherings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f386c6d6cd9d720d283b803cb85f688d.jpeg"
-    },
-    {
-      "alternativeText": "Lucerne: impressive night view of the water and the city in Lucerne in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10bf876f41ed05bb922bfa1afdb88330.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk: Markus drives through the city in a Tuk Tuk, ideal for adventures and group trips.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/028eba12e15f39759598ba7b0e4f40b5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

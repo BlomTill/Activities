@@ -5,17 +5,9 @@
   "description": "Discover Ticket Rope Park Interlaken Outdoor with 9 Adventure Parcours in Switzerland.",
   "longDescription": "Discover Ticket Rope Park Interlaken Outdoor with 9 Adventure Parcours in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "35",
-    "title": "Rope park",
-    "slug": "rope-park",
-    "description": "Rope parks offer a lot of fun for all those who like to travel at heights and between the trees. Mostly the parks are embedded in a beautiful natural landscape and offer excitement as well as impressive views in equal measure. None of the 50 or so rope parks in Switzerland is exactly like the other, because each one is unique and individually designed."
-  },
+  "subcategory": "Rope park",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Seilpark Interlaken",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c0a484124c026773a1998d52196872e0.jpg"
-    },
-    {
-      "alternativeText": "Seilpark Interlaken",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3ae85ff4b26749e0646129757eb5579b.jpg"
-    },
-    {
-      "alternativeText": "DSC05335 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b6e32afe23a69ff2cfec860aabe67b5f.jpg"
-    },
-    {
-      "alternativeText": "Ropes Park Interlaken-4 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/04dacf7df8874a4ea38f5a12e5b57a2e.jpg"
-    },
-    {
-      "alternativeText": "Ropes Park Interlaken-5 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/429bbebec4d6a7796fa6eb83fd388ac5.jpg"
-    },
-    {
-      "alternativeText": "Ropes Park Interlaken-6 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ec5b01ffaa6cbc01129fc09a8e7149d.jpg"
-    },
-    {
-      "alternativeText": "Ropes Park Interlaken-11 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d3d4dad33593ea090f1fb176a28f9a7d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

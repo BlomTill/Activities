@@ -5,17 +5,9 @@
   "description": "Discover Street art and graffiti workshop for groups in Basel in Switzerland.",
   "longDescription": "Discover Street art and graffiti workshop for groups in Basel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,63 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "DSCF7113",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/34bd1e2028dd6abccd9193f1abf2c863.jpg"
-    },
-    {
-      "alternativeText": "4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1871836fbcceae5981b3abec2e47932f.jpg"
-    },
-    {
-      "alternativeText": "1b",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4046b0738f71f28f393d6d7c0c96f3ce.jpg"
-    },
-    {
-      "alternativeText": "1a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e4fe5a4fc33659a898dadad86c7b166e.jpg"
-    },
-    {
-      "alternativeText": "1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7af87e5429bcfcfa6edabc26882bf719.jpg"
-    },
-    {
-      "alternativeText": "3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7a9b077db37af44272a9085814e09f50.jpg"
-    },
-    {
-      "alternativeText": "DSCF6144",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1671574fa2078efcd45f5ef32ca38acd.jpg"
-    },
-    {
-      "alternativeText": "DSCF6514",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2217b72bb25008b146bf22241c37fe04.jpg"
-    },
-    {
-      "alternativeText": "DSCF7113",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b9453c2bc3b4cd7249b2fbaa2650104.jpg"
-    },
-    {
-      "alternativeText": "DSCF7931",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c48f851afdc85499b8a4a4656d95a7c0.jpg"
-    },
-    {
-      "alternativeText": "DSCF8600b",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ffdc426a8b3dac5cb568861e5e2db0e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

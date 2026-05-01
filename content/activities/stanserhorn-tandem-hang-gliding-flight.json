@@ -5,17 +5,9 @@
   "description": "Discover Stanserhorn tandem hang gliding in Switzerland.",
   "longDescription": "Discover Stanserhorn tandem hang gliding in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Delta flying: Experience flying over the mountains in summer and enjoy the view with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0033510_3c56354c47.JPG"
-    },
-    {
-      "alternativeText": "Delta flying in summer over breathtaking landscapes, ideal for adventure and group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/89_B4640_c0a9ed7c94.jpg"
-    },
-    {
-      "alternativeText": "Delta flying: Flying high in the mountains with green meadows and blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MG_6176_c92a289bbc.jpg"
-    },
-    {
-      "alternativeText": "Paragliding: Experience the thrill of flying over the mountains and nature of summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0016288_561eab6a1d.JPG"
-    },
-    {
-      "alternativeText": "Paragliding: experience the thrill of flying in the mountains of Switzerland during the summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0027888_cd9f70086a.JPG"
-    },
-    {
-      "alternativeText": "Paragliding in Interlaken with a view of the impressive landscape and green meadows.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/vlcsnap_2024_03_11_13h24m11s967_abce1d953a.jpg"
-    },
-    {
-      "alternativeText": "Delta flying: Two people flying over picturesque mountains in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/vlcsnap_2024_03_11_13h25m25s888_c055041325.jpg"
-    },
-    {
-      "alternativeText": "Delta flying: Two pilots experience the flight over picturesque landscapes and impressive mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/vlcsnap_2024_03_11_13h35m33s023_58d9f3dfc2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

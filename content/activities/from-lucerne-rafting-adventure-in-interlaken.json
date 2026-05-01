@@ -5,17 +5,9 @@
   "description": "Discover From Lucerne: rafting adventure on the Lütschine in Interlaken in Switzerland.",
   "longDescription": "Discover From Lucerne: rafting adventure on the Lütschine in Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33",
-    "title": "Rafting",
-    "slug": "rafting",
-    "description": "Dare a guided rafting tour with optional barbecue and book right here. River rafting is the perfect mix of refreshing relaxation and sporting activity. You cross idyllic alpine landscapes and directly experience the wild and untouched nature. It is not for nothing that rafting is also called white water rafting. With its many rivers with strom rapids of varying degrees, Switzerland is perfect for rafting."
-  },
+  "subcategory": "Rafting",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rafting Interlaken with a cheerful team in yellow helmets, paddling in the middle of the river.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_rafting_adventure_lutschine_river_273460c9ab_868a32e5a5.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Rafting with Group in White Water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_rafting_adventure_lutschine_river_1_6eef8f2fdb_18a3675028.jpg"
-    },
-    {
-      "alternativeText": "Interlaken City Street with Grand Hotel in Morning Light",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_hoheweg_victoria_jungfrau_hotel_fc6f3c00c5_8cc31773df.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Kurhaus with fountain in spring, mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_kursaal_casino_d81514e014_97179f943e.jpg"
-    },
-    {
-      "alternativeText": "Rafting Interlaken with happy participants in a red boat.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_rafting_adventure_lutschine_river_2_4b4c3a7f85_f59411742c.jpg"
-    },
-    {
-      "alternativeText": "Rafting Interlaken with group boat on raging water, splashing water and surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_rafting_adventure_lutschine_river_3_b5a6060b6f_1db73140eb.jpg"
-    },
-    {
-      "alternativeText": "Rafting Interlaken on a river with mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_rafting_adventure_lutschine_river_4_f67e72e1ce_3bfc853ebf.jpg"
-    },
-    {
-      "alternativeText": "Rafting Interlaken on wild river in the Alps, surrounded by trees and mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_rafting_adventure_lutschine_river_5_08c64b41e9_a4c6e26ad1.jpg"
-    },
-    {
-      "alternativeText": "Interlaken panorama with mountain view and green meadows",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_village_aerial_view_b07bb56b31_74c3a929f0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "rafting",

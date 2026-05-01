@@ -5,17 +5,9 @@
   "description": "Discover Public Urban Bike Tour through Zurich in Switzerland.",
   "longDescription": "Discover Public Urban Bike Tour through Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rayrider_EN_3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7af5037dc0e51d572423fc477bdd928a.jpeg"
-    },
-    {
-      "alternativeText": "Rayrider_ZH_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd048fcc6caa075e5c7d13b6fa5659e9.jpeg"
-    },
-    {
-      "alternativeText": "Rayrider_EN_4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/40890f6fb0a7a6990b03951313c34435.jpeg"
-    },
-    {
-      "alternativeText": "Rayrider_EN_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0b7c33b75310be16abf1814ef351353a.jpeg"
-    },
-    {
-      "alternativeText": "Rayrider_ZH_8",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aa3c4c69c2ad7e5ec3e5ba4e4bf360b9.jpeg"
-    },
-    {
-      "alternativeText": "Rayrider_ZH_5",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e6efc7023c7126d2c7783ed84852ea9.jpeg"
-    },
-    {
-      "alternativeText": "Rayrider_EN_6",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/998f8c4bda4303cd9bc8569b6b74ad31.jpeg"
-    },
-    {
-      "alternativeText": "Rayrider_ZH_7",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e040ba354d0d665d9e99c44fceaf1b5.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

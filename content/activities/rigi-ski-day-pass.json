@@ -5,17 +5,9 @@
   "description": "Discover Rigi Ski Day Pass in Switzerland.",
   "longDescription": "Discover Rigi Ski Day Pass in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "29",
-    "title": "Lift tickets",
-    "slug": "lift-tickets",
-    "description": "Discover and book your next ski ticket in Switzerland here. Ski tickets are offered for different time periods. They are valid for several hours or half a day, one day, several days or a whole season. With a ski ticket you get access to the ski area with all ski lifts and cable cars. Often other attractions are included. In total there are about 7000 km of ski slopes in Switzerland. Some higher ski resorts are located on a glacier. Thanks to them, depending on the region, it is even possible to ski in summer."
-  },
+  "subcategory": "Lift tickets",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,38 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skifahrer",
-      "caption": "Rigi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/306e0071f64c035f91c59e7153a4b1ee.jpg"
-    },
-    {
-      "alternativeText": "Skifahrer",
-      "caption": "Rigi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5205ef98f89537147e3e1fbf7b06e749.jpg"
-    },
-    {
-      "alternativeText": "Skifahrer",
-      "caption": "Rigi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/298bb046b9feaa4b36296880cbe1e312.jpg"
-    },
-    {
-      "alternativeText": "Skifahrer",
-      "caption": "Rigi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ecca48ff61b2699c9903074a3e480ca8.jpg"
-    },
-    {
-      "alternativeText": "Skifahrer",
-      "caption": "Rigi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d65ae1751ac31d0aeb49d0af626457f4.jpg"
-    },
-    {
-      "alternativeText": "Skifahrer",
-      "caption": "Rigi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/82fa529c1ce08f2768b0803ae68ccde5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

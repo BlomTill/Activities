@@ -5,17 +5,9 @@
   "description": "Discover Splügenpass Quad Tour full day from Splügen in Switzerland.",
   "longDescription": "Discover Splügenpass Quad Tour full day from Splügen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "63",
-    "title": "Quad",
-    "slug": "quad",
-    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
-  },
+  "subcategory": "Quad",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,73 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Quad tour at Splügen Pass with quad riders on gravel path.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Spluegenpass_Naturstrasse_HB_Adventure_3d65678b39.jpg"
-    },
-    {
-      "alternativeText": "Quad tour Splügenpass with ATVs on hilly terrain",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Aussicht_HB_Adventure_17676bd5e9.jpg"
-    },
-    {
-      "alternativeText": "Quad tour Splügen Pass with quads on mountain meadow above the clouds",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Aussicht2_HB_Adventure_903f1a3dbf.jpg"
-    },
-    {
-      "alternativeText": "Quad tour Splügen Pass with ATV on gravel paths in the mountains. Autumn colors visible.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Bergstrasse_HB_Adventure_998467d8fd.jpg"
-    },
-    {
-      "alternativeText": "Quad tour at the Splügen Pass with quads on country road.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Bergstrasse2_HB_Adventure_c72becdc2e.jpg"
-    },
-    {
-      "alternativeText": "Quad tour Splügenpass with vehicles in nature, 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Fahrzeuge_HB_Adventure_91d456e4da.jpg"
-    },
-    {
-      "alternativeText": "Quad tour Splügen Pass with Quads on meadow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Lostallo_Fahrzeuge2_HB_Adventure_c212d89866.jpg"
-    },
-    {
-      "alternativeText": "Quad tour at Splügen Pass, winter landscape, ATV rider",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_ATV_Fahrt_HB_Adventure_720bef5a34.jpg"
-    },
-    {
-      "alternativeText": "Quad tour at the Splügen Pass with group vehicles in the snow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_AT_Vs_HB_Adventure_c2fc5a8197.jpg"
-    },
-    {
-      "alternativeText": "Quad tour at the Splügen Pass with multiple vehicles in the snow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_Fahrzeuge_HB_Adventure_beaf012c0b.jpg"
-    },
-    {
-      "alternativeText": "Woman driving quad on snowy Splügen Pass",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_Frau_Auf_ATV_HB_Adventure_84573401a4.jpg"
-    },
-    {
-      "alternativeText": "Quad tour on Splügen Pass with snow and vehicles",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_Tour_HB_Adventure_a63e48847b.jpg"
-    },
-    {
-      "alternativeText": "ATV taster tour with two people on a quad tour in the snow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ATV_Schnuppertour_Zwei_Personen_ATV_HB_Adventure_e350dc16bc.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"Sim Racing\" virtual driving experience in Opfikon in Switzerland.",
   "longDescription": "Discover \"Sim Racing\" virtual driving experience in Opfikon in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30151",
-    "title": "Racing simulator",
-    "slug": "racing-simulator",
-    "description": "Experience the excitement of motorsport up close with a racing simulator. These state-of-the-art simulators offer you realistic driving simulations that are also used by professional racing drivers for training purposes. Immerse yourself in detailed replicas of real racetracks and vehicles and improve your driving skills and strategies in a safe, controlled environment. Enjoy lifelike graphics and physically precise driving dynamics, complemented by variable weather conditions. Give it a try and feel the thrill of motorsport."
-  },
+  "subcategory": "Racing simulator",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,63 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 NURBURGRING E SPORTS-011",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0a30f52c83293e9731cd8e3f64ba0aa7.jpg"
-    },
-    {
-      "alternativeText": "A guy at the Nürburgring (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4697009946a90428c29a0e02ca4f2da5.jpg"
-    },
-    {
-      "alternativeText": "23",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1c44def4577ef2dcdff1619936f11069.jpg"
-    },
-    {
-      "alternativeText": "1Z3A8043",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11c83450c31e3d10725416e1ea6a26ab.JPG"
-    },
-    {
-      "alternativeText": "Nürburgring eSports Racing Simulator drivers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4266d900e5c93fec1fab8c609ac1db2.jpg"
-    },
-    {
-      "alternativeText": "249A7744",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec98e002eb18419be1ddefa880db412d.jpg"
-    },
-    {
-      "alternativeText": "Nurburgring E Sports Event 23",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d79c0acff6049e35c59e07de3b804b11.jpg"
-    },
-    {
-      "alternativeText": "Nurburgring E Sports Event_82",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/819e00174322880109688bbf15a4de51.jpg"
-    },
-    {
-      "alternativeText": "Nurburgring esports racing simulators force feedback",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2c8420da71dca52ffa237824255988d1.jpg"
-    },
-    {
-      "alternativeText": "Private events",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d29cae360b85649e0711a01e75b012b.jpg"
-    },
-    {
-      "alternativeText": "Nurburgring eSports Lounge Bar Buffet2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d5f533602cf9f04ed27a41d41291c12a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

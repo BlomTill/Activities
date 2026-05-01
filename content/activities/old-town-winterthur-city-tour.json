@@ -5,17 +5,9 @@
   "description": "Discover Old Town Winterthur public guided tour in Switzerland.",
   "longDescription": "Discover Old Town Winterthur public guided tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Winterthur city tour with guests in front of the shopping street",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Altstadt3_House_of_Winterthur_fd1a2a8bfc.jpg"
-    },
-    {
-      "alternativeText": "City tour Winterthur with group visit to historical buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Altstadt_House_of_Winterthur_e4f16de870.jpg"
-    },
-    {
-      "alternativeText": "City tour Winterthur with participants in the old town.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Altstadt2_House_of_Winterthur_0adb62fa2a.jpg"
-    },
-    {
-      "alternativeText": "City tour Winterthur with group visit to the shopping street",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Einkaufsstrasse_House_of_Winterthur_2d1c16cb8e.jpg"
-    },
-    {
-      "alternativeText": "Winterthur city tour with guide in the historic district.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Guide_House_of_Winterthur_8f932ed0a7.jpg"
-    },
-    {
-      "alternativeText": "Winterthur city tour in the church with wooden pews",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Kirche_House_of_Winterthur_f257afe189.jpg"
-    },
-    {
-      "alternativeText": "Church tower of the old town in Winterthur, with a view of colorful roofs and green land",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Altstadt_Fuehrung_Kirchturm_House_of_Winterthur_e439d8bb02.jpg"
-    },
-    {
-      "alternativeText": "Historical cityscape of Winterthur with merchant carts",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Handwerker_Kaufleute_Schlitzohren_Key_0c0bdcaef0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

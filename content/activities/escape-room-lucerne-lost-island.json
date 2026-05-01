@@ -5,17 +5,9 @@
   "description": "Discover \"Lost Island\" Escape Room Lucerne in Switzerland.",
   "longDescription": "Discover \"Lost Island\" Escape Room Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lost Island",
-      "caption": "Escape Room Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f03a40bb0e890599c16a5e81d299ec4.jpg"
-    },
-    {
-      "alternativeText": "Lost Island",
-      "caption": "Escape Room Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/63e81bd8db4aa6822f931effbfb7c5f4.jpg"
-    },
-    {
-      "alternativeText": "Lost Island",
-      "caption": "Escape Room Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7366614c55a50d7aac04a8fec436dfa.jpg"
-    },
-    {
-      "alternativeText": "Lost Island",
-      "caption": "Escape Room Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4328ae2a2100d9489c9cdd42317edee6.jpg"
-    },
-    {
-      "alternativeText": "Lost Island",
-      "caption": "Escape Room Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d88cdb0ee38c37e267799138b8b95ea.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

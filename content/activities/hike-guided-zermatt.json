@@ -5,17 +5,9 @@
   "description": "Discover Private guided hike in Zermatt in Switzerland.",
   "longDescription": "Discover Private guided hike in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Hike: guided hike Zermatt with Matterhorn reflection in clear water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/37885a043c2d87865f12a8d7df634b3e.JPG"
-    },
-    {
-      "alternativeText": "Hike: experience guided hiking in Zermatt with sunset, mountains, and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/16c53d21e8247f08d3ebe494695b0513.JPG"
-    },
-    {
-      "alternativeText": "guided hike Zermatt: experience the impressive mountain landscape while hiking in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fff99b8fb412fe5d67dc586ddc67ea94.JPG"
-    },
-    {
-      "alternativeText": "Hike: guided hike in Zermatt with impressive mountain panorama and clear lake",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0423e939208475bdd4e4749a54e159d7.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

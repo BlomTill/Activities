@@ -5,17 +5,9 @@
   "description": "Discover Guided tour and tasting at Davaz winery in Switzerland.",
   "longDescription": "Discover Guided tour and tasting at Davaz winery in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,48 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Wine tasting: Enjoy different types of wine at a wine tasting in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wein_degustieren_Foto_Rechteinhaber_Jana_Figliuolo_07208a131f.jpeg"
-    },
-    {
-      "alternativeText": "Davaz Winery: Visit the wine tasting with friends in the beautiful Bern region.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weingut_Davaz_Foto_Rechteinhaber_Weingut_Davaz_0ce8f76aab.jpeg"
-    },
-    {
-      "alternativeText": "View from the Davaz winery over vineyards with mountains in the distance and colorful flower beds.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_vom_Weingut_Davaz_Foto_Rechteinhaber_Weingut_Davaz_1593ee760b.jpeg"
-    },
-    {
-      "alternativeText": "Weinberg Flaesch offers an impressive view of vineyards and mountains in the autumn landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinberg_Flaesch_Fotorechte_Dolores_Rupa_92ff95219c.jpeg"
-    },
-    {
-      "alternativeText": "Davaz Winery: idyllic wine landscape with mountains in Switzerland, perfect growing conditions in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weingut_Davaz_Fotorechte_Weingut_Davaz_1cba51c38d.jpeg"
-    },
-    {
-      "alternativeText": "Wine cellar: experience the impressive wine storage at the Davaz winery on Lake Constance in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinkeller_Weingut_Davaz_Foto_Rechteinhaber_Weingut_Davaz_c636254fb5.jpeg"
-    },
-    {
-      "alternativeText": "Grapes: Harvest fresh grapes in the vineyards during the summer season.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weintrauben_Foto_Dolores_Rupa_04e173e6cd.jpeg"
-    },
-    {
-      "alternativeText": "Grapes: freshly harvested grapes from a vineyard in South Tyrol in autumn",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weintrauben_2_Foto_Dolores_Rupa_718bd8d2a0.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "wine"

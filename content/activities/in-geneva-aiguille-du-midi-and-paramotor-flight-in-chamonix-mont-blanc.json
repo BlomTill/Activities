@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Aiguille du Midi and paramotor flight in Chamonix Mont-Blanc in Switzerland.",
   "longDescription": "Discover In Geneva: Aiguille du Midi and paramotor flight in Chamonix Mont-Blanc in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Paragliding Chamonix",
-      "caption": "Aiguille du Midi und Gleitschirmflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a5f356cb4f8b193b66b9178b6e646c04.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi ",
-      "caption": "Aiguille du Midi und Gleitschirmflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/21f18f5a2177b759aeac5f0977b70b61.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi ",
-      "caption": "Aiguille du Midi und Gleitschirmflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bd3fc14c12de353a5a9825142e5a7b48.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc",
-      "caption": "Aiguille du Midi und Gleitschirmflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/18efeb96d5e1543ecfa619c0aa9539f3.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi ",
-      "caption": "Aiguille du Midi und Gleitschirmflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ee942b09334d8e4b5acd2ae559a11a71.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi ",
-      "caption": "Aiguille du Midi und Gleitschirmflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/29804ca4a54494510da6d9f37cd4ffd4.JPG"
-    },
-    {
-      "alternativeText": "Aiguille du Midi ",
-      "caption": "Aiguille du Midi und Gleitschirmflug",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a367d0df18adda5f88ba0eb960fef43.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

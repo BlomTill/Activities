@@ -5,17 +5,9 @@
   "description": "Discover City tour Basel theatrical prison escapees in Switzerland.",
   "longDescription": "Discover City tour Basel theatrical prison escapees in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Theatrical city tour Basel shows prison brother in uniform.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Basel_Stadtfuehrung_Theatrlaisch_Knastbruder_aa94e71f84.jpg"
-    },
-    {
-      "alternativeText": "Basel City Tour Theatrically with Cellmate and Performance.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Basel_Stadtfuehrung_Theatrlaisch_Knastbruder_bd91987b6b.jpg"
-    },
-    {
-      "alternativeText": "Old Town Basel with historical buildings and plants",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_Basel_Stadtfuehrung_Altsdadt_muenster_cb9c17dd90.jpg"
-    },
-    {
-      "alternativeText": "Martins Church in Basel, city tour, cycling in the old town, sunny day",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_Basel_Stadtfuehrung_Altsdadt_martinskirchplatz_1aa73b5aee.jpg"
-    },
-    {
-      "alternativeText": "Basel city tour through the old town with historical buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_Basel_Stadtfuehrung_Altsdadt_9d4444363a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

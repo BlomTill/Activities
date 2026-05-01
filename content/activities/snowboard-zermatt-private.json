@@ -5,17 +5,9 @@
   "description": "Discover Private snowboard lessons in Zermatt in Switzerland.",
   "longDescription": "Discover Private snowboard lessons in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "mit dem Snowboard vor dem Matterhorn",
-      "caption": "Skischule Zermatt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/07a54eaf4d72b15729d7eaf820d48614.jpg"
-    },
-    {
-      "alternativeText": "zwei Sportler",
-      "caption": "Skischule Zermatt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a7e5600bdf35b04122ea439d8ce75b97.jpg"
-    },
-    {
-      "alternativeText": "Snowboarder",
-      "caption": "Skischule Zermatt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/44c304d9a9e7701d18d6866dfa3eb57a.jpg"
-    },
-    {
-      "alternativeText": "Snowboarder",
-      "caption": "Skischule Zermatt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8dec0e9d477918e662b0408e623fb0b6.jpg"
-    },
-    {
-      "alternativeText": "Skilehrer und zwei Kinder",
-      "caption": "Skischule Zermatt",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c06a7bcd3ded52afc08a8976e6db615b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

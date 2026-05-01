@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the groom\" in Fribourg: action-packed stag party in Switzerland.",
   "longDescription": "Discover \"Beat the groom\" in Fribourg: action-packed stag party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "197",
-      "title": "Fribourg region"
-    },
+    "region": "Fribourg region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Fribourg: picturesque city view with mountains and nature in the background, ideal for exploring and photographing.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fribourg2_unsplash_290e23fd76.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: an exciting team-building game in nature with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_4d2d71f778.jpg"
-    },
-    {
-      "alternativeText": "Teambuilding: Group activity to celebrate the groom with friends outdoors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_54894c7e59.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Five friends celebrate by the water with beer and yellow T-shirts in sunny weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_a97bb514c7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

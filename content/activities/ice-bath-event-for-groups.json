@@ -5,17 +5,9 @@
   "description": "Discover Outdoor ice-bathing event for groups in Switzerland.",
   "longDescription": "Discover Outdoor ice-bathing event for groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30847",
-    "title": "Winter Experiences",
-    "slug": "winter-experiences",
-    "description": "Book your special winter experience here. You'll make new winter memories that go beyond the usual. A special highlight is the overnight stay in the igloo village, where you sleep under snow domes. Wrapped up warm, the winter experience is especially intense. The winter also offers extraordinary culinary moments. Meeting friends at the snow bar or sharing a fondue in a cozy mountain hut creates unforgettable moments. Surrounded by snow-capped peaks, you'll experience the winter magic in good company. These special experiences invite you to leave everyday life behind and enjoy the fresh mountain air. They make winter special and create lasting memories."
-  },
+  "subcategory": "Winter Experiences",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00-TWS-164-a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f5eb5343fd3ca112df06bbb2b17a95d.jpg"
-    },
-    {
-      "alternativeText": "01 TWS-57-a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cfa394fbac032fe687002afb8a622d08.jpg"
-    },
-    {
-      "alternativeText": "02 IMG_20250219_132757",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4eb34d8319eddb7e9661902ee51d9a1b.jpg"
-    },
-    {
-      "alternativeText": "04 TWS-44-a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/369799b2a3ace2a4708395dd9d750973.jpg"
-    },
-    {
-      "alternativeText": "4a5f1d47-a2fb-4fe3-9338-cadaa173cfe6",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3dabcbcae1560f9f88d56925aeb5c948.jpg"
-    },
-    {
-      "alternativeText": "e7e80701-6c28-4150-92d3-d6395a2fdaf3 - Copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a8c102199a77a0e0c64f7f8163cb97d.jpg"
-    },
-    {
-      "alternativeText": "IMG_20250212_155447",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/33467a8b1eb23c54b8011df0dc7b2806.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

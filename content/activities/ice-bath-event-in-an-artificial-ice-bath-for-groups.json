@@ -5,17 +5,9 @@
   "description": "Discover Ice Bath Event in an Artificial Ice Bath for Groups in Switzerland.",
   "longDescription": "Discover Ice Bath Event in an Artificial Ice Bath for Groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30847",
-    "title": "Winter Experiences",
-    "slug": "winter-experiences",
-    "description": "Book your special winter experience here. You'll make new winter memories that go beyond the usual. A special highlight is the overnight stay in the igloo village, where you sleep under snow domes. Wrapped up warm, the winter experience is especially intense. The winter also offers extraordinary culinary moments. Meeting friends at the snow bar or sharing a fondue in a cozy mountain hut creates unforgettable moments. Surrounded by snow-capped peaks, you'll experience the winter magic in good company. These special experiences invite you to leave everyday life behind and enjoy the fresh mountain air. They make winter special and create lasting memories."
-  },
+  "subcategory": "Winter Experiences",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "TWS-139-a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9ba88addc6516cccdbf98bb7dd2707a9.jpg"
-    },
-    {
-      "alternativeText": "TWS-102-a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d01b2f0efaedb1102758db250b0e098d.jpg"
-    },
-    {
-      "alternativeText": "03 TWS-194-a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e09c73e833f5becff25332e8f889745e.jpg"
-    },
-    {
-      "alternativeText": "TWS-97-a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/222904f65ccfccf04e68658a396dea7a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"Züri im Fluss\" city tour through Zurich in Switzerland.",
   "longDescription": "Discover \"Züri im Fluss\" city tour through Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Stadttour Wassergeschichte",
-      "caption": "Kunstmuseum Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a438c2dba62f77049898df18823e7a13.JPG"
-    },
-    {
-      "alternativeText": "Stadttour Wassergeschichte",
-      "caption": "Kunstmuseum Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4b5ef903538aecdbc028dd4645eed29.JPG"
-    },
-    {
-      "alternativeText": "Stadttour Wassergeschichte",
-      "caption": "Kunstmuseum Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3988690e8cd53c1d79b1331957528f7a.JPG"
-    },
-    {
-      "alternativeText": "Stadttour Wassergeschichte",
-      "caption": "Kunstmuseum Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/31a285792a80b213aed4b7adc974a7b6.JPG"
-    },
-    {
-      "alternativeText": "Stadttour Wassergeschichte",
-      "caption": "Kunstmuseum Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f00af17d13dee6ccb4800bc7faaf35d.jpg"
-    },
-    {
-      "alternativeText": "Stadttour Wassergeschichte",
-      "caption": "Kunstmuseum Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fad8adacdbbb4393526c1a072d797cc0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

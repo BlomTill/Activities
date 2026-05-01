@@ -5,17 +5,9 @@
   "description": "Discover “Unreal Adventures” interactive city game in Zurich in Switzerland.",
   "longDescription": "Discover “Unreal Adventures” interactive city game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "1cf75646-91f7-469d-89e1-aabc3c272c2f",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41b2d1c80ceb482ec685f17f4ed937e5.JPG"
-    },
-    {
-      "alternativeText": "0a47334b-f22d-46b3-aa25-2e0df89ac1c7",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/63d65f83cecc216fa321968b30951d9e.JPG"
-    },
-    {
-      "alternativeText": "4b7bf870-bf58-4e3e-8873-5e7ff9598900",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ccf0fa42eebbc478e59372a7e37095de.JPG"
-    },
-    {
-      "alternativeText": "9f5ddedf-b946-49a1-a520-2b7d75dc9c7a",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba4129e5c1be7c245cbdf10c78598144.jpg"
-    },
-    {
-      "alternativeText": "76adcb02-1f5b-4dff-bbf8-4bab67f25f70",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2229bb3483047adc3858a9d58dec50a.JPG"
-    },
-    {
-      "alternativeText": "e9ef1d43-6469-455c-9944-fd7d6a08fe21",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ea2062430eed5a14ed107bfb63db19b.JPG"
-    },
-    {
-      "alternativeText": "fd8c1b91-8f6e-45a7-9d0c-02a2a9405e76",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/514c8701ece6c901b686cb8a33595db1.jpg"
-    },
-    {
-      "alternativeText": "PHOTO-2023-07-15-19-37-22 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/593c2fce46e46d2cf1784cb1b95b7ca2.jpg"
-    },
-    {
-      "alternativeText": "PHOTO-2023-07-17-15-17-40",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/739f529e5281f8e247920a5a00bec73a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "adventure"

@@ -5,17 +5,9 @@
   "description": "Discover Polterchallenge \"Hangover - Wolf Pack\" by Solothurn in Switzerland.",
   "longDescription": "Discover Polterchallenge \"Hangover - Wolf Pack\" by Solothurn in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Wolfsrudel Solothurn 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9bf3c51a0aec81fee8ad2f6306207935.jpg"
-    },
-    {
-      "alternativeText": "Wolf Pack Interlaken 3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/918df13667451b6a2e6026b889c1d1d1.jpg"
-    },
-    {
-      "alternativeText": "Wolf Pack Interlaken 4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/47587af0b881c45ce94b8bb5922588a1.jpg"
-    },
-    {
-      "alternativeText": "Solothurn Wolf Pack 4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b569e13a2734d32c24fc8c2a8d08488.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

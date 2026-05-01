@@ -5,17 +5,9 @@
   "description": "Discover Kids Fun Park Ticket Sion in Switzerland.",
   "longDescription": "Discover Kids Fun Park Ticket Sion in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "68",
-    "title": "Indoor amusement park",
-    "slug": "indoor-amusement-park",
-    "description": "Find your indoor recreational pleasure in an adventure pool, the Citywave or a\na sports or climbing hall. Indoor amusement parks offer an activity field for all those who like to do sports, even in bad weather and in winter. They are often equipped with action-packed facilities such as trampoline areas, ball fields, climbing facilities or water sports facilities. Did you know, for example, that you can also go indoor surfing in Switzerland? In an indoor amusement park, both children and adults will find something entertaining to do"
-  },
+  "subcategory": "Indoor amusement park",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Play area with crocodile, colorful balls, and fun for kids in Sion.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/270cfef2a9bd8cc539c65b3579afe09d.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park Sion: Play area with crocodile and slides for children in Adventureland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02d9801cb86c087172c0449488b4ca2b.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park: Play area with colorful balls and crocodile for fun",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/85898d0cacb3d6dba4149030b5b95550.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park: Slides and play equipment for children in Sion, fun for the whole family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bac5f52a2be60d42930f9a5004677d42.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park: Exciting play area with a variety of climbing elements and play areas.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/352034011d46b2c53e010988854d6bfd.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park Sion: Inviting tables in the play area, perfect for children and family activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fe523d9b5a367017463b49a43380549e.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park: Discover the exciting play landscape for children in Sion.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/144876e7b255d5316e8cc90f194f4fdc.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park Sion: Play area with slides, climbing elements, and colorful playground equipment for kids.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f53c084fc3718a35a7a5ab130eee5c81.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park: Discover the exciting play area in Sion for kids.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bd3669ae84888ba83a44e89b6e8b5972.jpg"
-    },
-    {
-      "alternativeText": "Kids Fun Park: Play area for children with slides and playground equipment in Sion.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ed5f169d61676ce554beb5b60f2944f9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "kids"

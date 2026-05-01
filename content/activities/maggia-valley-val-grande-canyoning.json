@@ -5,17 +5,9 @@
   "description": "Discover Maggia Valley Val Grande Canyoning in Switzerland.",
   "longDescription": "Discover Maggia Valley Val Grande Canyoning in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Canyoning Val Grande: Experience an exciting descent in the waterfall with fascinating nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Canyoning_Val_Grande_6_Foto_Swiss_River_Adventures_97ea169c77.JPG"
-    },
-    {
-      "alternativeText": "Canyoning: Experience thrilling water fun in the gorges of Ticino. Perfect for adventure seekers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Canyoning_Tessin_ad052c7dd9.JPG"
-    },
-    {
-      "alternativeText": "Canyoning Val Grande: Adventure while rappelling in impressive gorges, nature experience in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Canyoning_Val_Grande_5_Foto_Swiss_River_Adventures_63dbe51a50.JPG"
-    },
-    {
-      "alternativeText": "Canyoning in Val Grande: Action-packed adventure activity in the nature of the Ticino Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_1_Canyoning_Tessin_82b5fb0175.JPG"
-    },
-    {
-      "alternativeText": "Canyoning Val Grande: Experience the thrill of rappelling in breathtaking nature in Ticino.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_2_Canyoning_Tessin_daa142c6d4.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

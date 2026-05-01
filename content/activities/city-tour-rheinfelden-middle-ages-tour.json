@@ -5,17 +5,9 @@
   "description": "Discover Middle Ages guided city tour Rheinfelden in Switzerland.",
   "longDescription": "Discover Middle Ages guided city tour Rheinfelden in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rheinfelden city tour in the Middle Ages, participants standing by the riverbank, view of the river.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_mittelalter_messerturm_b731716ec4.jpg"
-    },
-    {
-      "alternativeText": "City Tour Rheinfelden with Historical Information in Alleys",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_mittelalter_kirche_d65b485bd5.jpg"
-    },
-    {
-      "alternativeText": "Group meeting at the chapel in the plague cemetery Rheinfelden.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_mittelalter_pestfriedhof_kapelle_6963af643b.jpg"
-    },
-    {
-      "alternativeText": "Medieval city tour of Rheinfelden with tour guide and visitors in front of a historical door.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_haeuser_badzuber_b96dceeefb.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden city tour with participants in historic alleys.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_stadtfuehrung_haeuser_kapuzinergasse_8450441e2a.jpg"
-    },
-    {
-      "alternativeText": "Rheinfelden City Tour: Group listens to the city guide in a sunny spot.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/rheinfelden_klassischealtstadtfuehrung_marktgasse_titelbild_233aa73622.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

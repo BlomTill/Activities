@@ -5,17 +5,9 @@
   "description": "Discover Foxtrail GO Geneva digital scavenger hunt in Switzerland.",
   "longDescription": "Discover Foxtrail GO Geneva digital scavenger hunt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "CoverImageGeneva_02",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3edd60365b65b89c111a4d3e8a24cfb6.jpg"
-    },
-    {
-      "alternativeText": "Screenshot 2025-08-14 at 11:51:44 AM",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e3a62c472936aaaeb14452afd83b7a7d.jpg"
-    },
-    {
-      "alternativeText": "searching-c02-1280x960",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/76f5b385df661c684021fa8deda1b23b.jpg"
-    },
-    {
-      "alternativeText": "Screenshot 2025-08-14 at 12",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d2612a5ffc67c7a090094ba7e07f0100.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

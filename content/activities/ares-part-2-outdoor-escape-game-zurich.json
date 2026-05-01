@@ -5,17 +5,9 @@
   "description": "Discover \"Ares Part 2\" Outdoor Escape Game Zürich in Switzerland.",
   "longDescription": "Discover \"Ares Part 2\" Outdoor Escape Game Zürich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Sato Code: Man discovers plants in a protected space in Zurich, nature, botanical, creative corner.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code1_eaa45c2ab5.jpg"
-    },
-    {
-      "alternativeText": "Sato Code: Discover interactive art in Zurich with friends and full enthusiasm",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code3_32e8708e67.png"
-    },
-    {
-      "alternativeText": "Sato Code: brilliant artwork in Zurich that reflects urban creativity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code2_7e0fbf5d1c.png"
-    },
-    {
-      "alternativeText": "Sato Code: Trendy woman with smartphone in Zurich at night, fashion, urban, lifestyle.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code7_e5a6242662.jpg"
-    },
-    {
-      "alternativeText": "Sato Code: Person installs something at the window in Zurich with an urban background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code6_ab48c8bbf2.png"
-    },
-    {
-      "alternativeText": "Sato Code: Discover city life in Zurich with friends through a creative activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sato_Code5_11640ba36a.jpg"
-    },
-    {
-      "alternativeText": "Escape Game Zurich: Young couple discover adventure games in a book and stationery store in the city of Zurich.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cover_image_Sato_Code_Zuerich_61e011f199.jpg"
-    },
-    {
-      "alternativeText": "Sato Code Zurich: View over Lake Zurich with city view and impressive architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich2_04c5d209cb.jpg"
-    },
-    {
-      "alternativeText": "Sato Code Zurich: impressive city view with urban flair and modern architecture at night.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich1_16ab53db61.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zürich"

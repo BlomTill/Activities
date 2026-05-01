@@ -5,17 +5,9 @@
   "description": "Discover E-bike wine tour Bündner Herrschaft in Switzerland.",
   "longDescription": "Discover E-bike wine tour Bündner Herrschaft in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "E-Bike Wine Tour in Switzerland with Cyclists in Historic Streets.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/E_Bike_Weintour_ac1a3a4bdb.jpg"
-    },
-    {
-      "alternativeText": "Wine Tour E-Bike Tasting with Tasting in a Relaxed Group",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weintour_E_Bike_Degustation_2dc386a0f2.JPG"
-    },
-    {
-      "alternativeText": "Grapes in a vineyard, green leaves, sunny surroundings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weintour_Trauben_27d05e48a1.JPG"
-    },
-    {
-      "alternativeText": "Vineyard in the Grisons with visitors and mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weinwanderung_Buendnerland_6dd70cb5f1.jpg"
-    },
-    {
-      "alternativeText": "View of Bündner Herrschaft with vineyards and mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_Buendner_Herrschaft_Weintour_20599b6f3b.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "wine"

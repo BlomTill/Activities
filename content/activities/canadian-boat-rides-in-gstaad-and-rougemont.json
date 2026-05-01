@@ -5,17 +5,9 @@
   "description": "Discover Canadian boat rides in Gstaad and Rougemont in Switzerland.",
   "longDescription": "Discover Canadian boat rides in Gstaad and Rougemont in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "26",
-    "title": "Kayak",
-    "slug": "kayak",
-    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
-  },
+  "subcategory": "Kayak",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "ski-schoolRougemont-Lake-Gruyère-55-min-0",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eefa346dc57586888e1ac11caa1eacc2.jpg"
-    },
-    {
-      "alternativeText": "IMAGE_7073-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7915a633279c5e01ac32ced65e8e66e8.jpg"
-    },
-    {
-      "alternativeText": "ski school Rougemont Lake Gruyère 57-min",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/563f493828086e09cf27a38a67270c0a.jpg"
-    },
-    {
-      "alternativeText": "00 ski school Rougemont Lake Gruyère 75-minute 0",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6407aab887e4684281d56bfc799ac39f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat"

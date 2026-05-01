@@ -5,17 +5,9 @@
   "description": "Discover Lausanne Private City Tour: the Treasures of the Old Town in Switzerland.",
   "longDescription": "Discover Lausanne Private City Tour: the Treasures of the Old Town in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lausanne city tour with a view of the old town and flowers in the foreground",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lausanne_the_olympic_capital_original_e5792adc8979e3_bb9fa50d5b.jpeg"
-    },
-    {
-      "alternativeText": "Lausanne Cathedral at sunset over the rooftops of the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/LCP_Pont_Cathedrale_Lausanne_Andreas_Gerth_a4f63728f2.jpeg"
-    },
-    {
-      "alternativeText": "Stairs in Lausanne with flowers and city architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Visite_guidee_Escaliers_du_marche_Lausanne_Spot_Magazine_42d51b4d58.jpeg"
-    },
-    {
-      "alternativeText": "Lausanne panorama with city view and Alps in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Visite_guidee_Lausanne_panorama_Regis_Colombo_www_diapo_ch_ca77556467.jpeg"
-    },
-    {
-      "alternativeText": "Stairs: impressive access routes in the city center with historic buildings and vibrant atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Escaliers_Lucia_Degonda_4e2d733805.jpg"
-    },
-    {
-      "alternativeText": "Flon District: Relax in the heart of Lausanne with urban flair and cultural highlights.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/FLON_Marino_Trotta_9cae17c912.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3910c55ab023ef2eac0a1822d6a66c70.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8117ddcc248f13c4f6fd0a2a99149847.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lausanne"

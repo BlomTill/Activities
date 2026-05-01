@@ -5,17 +5,9 @@
   "description": "Discover Matterhorn Gotthard Pass in Switzerland.",
   "longDescription": "Discover Matterhorn Gotthard Pass in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "130",
-    "title": "Swiss Rail Passes",
-    "slug": "rail-pass",
-    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
-  },
+  "subcategory": "Swiss Rail Passes",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Matterhorn: Train ride through the snow-covered winter landscape of the Alps with a view of the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/35ee290c77840c2b3e45d9a5fc45da0d.jpg"
-    },
-    {
-      "alternativeText": "Matterhorn Gotthard Railway: Train ride through a winter landscape with snow-covered mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_3x2_Andermatt_Matterhorn_Gotthard_Railway_Foto_Schweiz_Tourismus_Jan_Geerk_b31ede8273.jpg"
-    },
-    {
-      "alternativeText": "Matterhorn Bahn takes you to the beautiful Matterhorn in the mountains of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Matterhorn_Bahn_Foto_Swiss_Travel_System_AG_8dbcd41acf.jpeg"
-    },
-    {
-      "alternativeText": "Matterhorn: impressive mountain landscape with snow, Zermatt and breathtaking panorama",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Bergbahnen_Foto_Swiss_Travel_System_AG_e22e885efc.jpeg"
-    },
-    {
-      "alternativeText": "Matterhorn: Skiers on the lift with a view of the majestic Alps and clear sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/923ef822d5076bdaf98642484baf825a.jpg"
-    },
-    {
-      "alternativeText": "Postbus on the road at the Matterhorn Gotthard Pass, ideal for nature experiences and excursions.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3c05ce324d84451b66fbbd528a158b1f.jpg"
-    },
-    {
-      "alternativeText": "Matterhorn: View from Hannigalp with snow-covered mountains and clear winter landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4878b2e161d22b549d31a9e6f5f089a6.jpg"
-    },
-    {
-      "alternativeText": "Leukerbad: Spas with mountain views, an ideal wellness oasis for relaxation and unwinding.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/79a194e3d27a14d0f6b4eecf7e2583ae.jpg"
-    },
-    {
-      "alternativeText": "Saas Fee: PostBus in the snow, surrounded by mountains and conifer trees in the winter landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7f603b524d6461ba707f4ffcafbfeccb.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Elsigen Metsch ticket cable car in Switzerland.",
   "longDescription": "Discover Elsigen Metsch ticket cable car in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "312-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dbf09768b1159249c6d45dc58c53b596.jpg"
-    },
-    {
-      "alternativeText": "Summer hike in Elsigen-Metsch with friends and dog.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20_896c86ac43.jpg"
-    },
-    {
-      "alternativeText": "Summer hike in Elsigen-Metsch with friends and dog. Grassland, mountains, flowing water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/27_e2c32c19b4.jpg"
-    },
-    {
-      "alternativeText": "Wanderer in the Elsigen-Metsch area in summer 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wanderparadies_Frutigen_2a389f87d4.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "cable-car"

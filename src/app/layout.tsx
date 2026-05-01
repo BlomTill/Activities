@@ -26,7 +26,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://exploreswitzerland.ch"),
+  metadataBase: new URL("https://realswitzerland.ch"),
   title: {
     default: `${SITE_NAME} – Compare Activities Across Switzerland`,
     template: `%s | ${SITE_NAME}`,
@@ -45,13 +45,13 @@ export const metadata: Metadata = {
     siteName: SITE_NAME,
     title: `${SITE_NAME} – Compare Activities Across Switzerland`,
     description: SITE_DESCRIPTION,
-    url: "https://exploreswitzerland.ch",
+    url: "https://realswitzerland.ch",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "ExploreSwitzerland — Compare Activities Across Switzerland",
+        alt: `${SITE_NAME} — The Independent Guide to Switzerland`,
       },
     ],
   },

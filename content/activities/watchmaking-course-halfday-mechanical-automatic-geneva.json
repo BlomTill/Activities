@@ -5,17 +5,9 @@
   "description": "Discover Half-day watchmaking course including a watch to take home in Switzerland.",
   "longDescription": "Discover Half-day watchmaking course including a watch to take home in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Uhrenbestandteile",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/936b55d929bb58029de1f7a5dc5ff902.jpg"
-    },
-    {
-      "alternativeText": "Uhrenbestandteile",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b5a96b58272dcce53c5691bac28b033a.jpg"
-    },
-    {
-      "alternativeText": "Anleitung durch Uhrmachermeisterin",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b31d77438d2197098db1229af1e5909d.jpg"
-    },
-    {
-      "alternativeText": "Uhr zusammensetzen, Teilnehmer",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc9188cab1b470875613a20b5c69178f.jpg"
-    },
-    {
-      "alternativeText": "Uhrenbestandteile",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ddd86dc5b7fde934ce18330b77e7daa4.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "watch"

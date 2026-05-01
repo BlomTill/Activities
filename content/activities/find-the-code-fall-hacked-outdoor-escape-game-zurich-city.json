@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Fall Hacked\" Outdoor Escape Game Zurich City in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Fall Hacked\" Outdoor Escape Game Zurich City in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-zurich-hacked",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fa05c24f74465ae7c16954d3fa3d954c.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe_97_edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/30fc1d218e0c0caf3fa88ae628282f04.jpg"
-    },
-    {
-      "alternativeText": "map-zurich-hacked",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/62a16121a9e8c6a1eb5f82c9de89cac0.jpg"
-    },
-    {
-      "alternativeText": "Zurich Photo Elke",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a21b75182975de59ea3f88c720e5c03.jpg"
-    },
-    {
-      "alternativeText": "map-zurich-hacked1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2cb201c043d641263d723d13602f7974.jpg"
-    },
-    {
-      "alternativeText": "group-photo-hk-flowers-file-phone-neutral",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5dd6c25329021c68b907a4bbb5533e73.jpg"
-    },
-    {
-      "alternativeText": "group-photo-landscape_file_phone_neutral-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7c797763fe7d342e5d029929da2f5518.jpg"
-    },
-    {
-      "alternativeText": "group-hk-frontal-running",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0c8143b594a298e6dd28d4f034ca6695.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe (58)edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a6d8203ed2e1bf39539461915a2c09f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Day trip to the Rigi in Switzerland.",
   "longDescription": "Discover From Zurich: Day trip to the Rigi in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Cable car to Rigi with green plants in the foreground, blue sky, and trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luftseilbahn_Rigi_Best_of_Switzerland_Tours_df7becef86.jpg"
-    },
-    {
-      "alternativeText": "Day trip to Rigi from Zurich by train through green meadows.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bergbahn_Rigi_Best_of_Switzerland_Tours_d58b5dbd1c.jpg"
-    },
-    {
-      "alternativeText": "Rigi, mountain peak, view, hiking trail",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rigi_Zahnradbahn_Best_of_Switzerland_Tours_7230ed98df.jpg"
-    },
-    {
-      "alternativeText": "View from Rigi over Lake Lucerne and the Alps. Hikers enjoy the view. Summer 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_2790d0ec4309edbe917b5528e196d512_5fd6bf1e39.jpg"
-    },
-    {
-      "alternativeText": "Cow in the meadow during the day trip to Rigi from Zurich. The surroundings show green meadows and mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kuehe_Best_of_Switzerland_Tours_1861fb5978.jpg"
-    },
-    {
-      "alternativeText": "Rigi Kulm Hotel with visitors and terrace",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kulm_Restaurant_Rigi_Best_of_Switzerland_Tours_d9421352ab.jpg"
-    },
-    {
-      "alternativeText": "Boat on Lake Lucerne with Rigi in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_7197b0ac84ee3476333d43a4a4bd59a1_a84dabf651.jpg"
-    },
-    {
-      "alternativeText": "Day trip to Rigi with boat on Lake Constance at sunset",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_Schifffahrt_Best_of_Switzerland_Tours_de43728a02.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

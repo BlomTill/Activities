@@ -5,17 +5,9 @@
   "description": "Discover Inflatable Boat Half-Day Tour Reuss from Gisikon to Ottenbach in Switzerland.",
   "longDescription": "Discover Inflatable Boat Half-Day Tour Reuss from Gisikon to Ottenbach in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "27",
-    "title": "Böötle",
-    "slug": "boeoetle",
-    "description": "Find the right river and book your Böötle experience here. Whether in the Aare, on the Limmat or on the Rhine, rafting is a leisure activity that is possible on almost every river and enjoys immense popularity in Switzerland. More and more providers make the boat available to you ready to float and pick it up again at the drop-off point. It is important to note that you should get off the boat in good time before dangerous places, power stations and weirs."
-  },
+  "subcategory": "Böötle",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (30)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1125d85ae88c04db2846ff0482049d3d.JPG"
-    },
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (31)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f58c0f01113a2ac4074944155e5715d7.jpg"
-    },
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (35)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/12d8e2fc5230e414ec2730483df2e974.jpg"
-    },
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (36)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6d0180ed77b7d8fd9480182f2418cba9.jpg"
-    },
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (33)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b16acdd4cfd970bb8fb3108c784e2a6b.jpg"
-    },
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (37)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d0e7fa36b58f26e21b4db7d561391ce7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat"

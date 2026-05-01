@@ -5,17 +5,9 @@
   "description": "Discover Sledge guided tour from Interlaken in Switzerland.",
   "longDescription": "Discover Sledge guided tour from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "31",
-    "title": "Sledding and bobsleighing",
-    "slug": "sledding",
-    "description": "Book your ticket here for tobogganing or bobsledding. Tobogganing is a blast in Switzerland. In each of the 345 ski resorts, you’ll find at least one toboggan run. Once you go tobogganing, you’ll be hooked. The crunching of the runners on fresh snow and the thrilling fun in the midst of a magical winter landscape has enchanted people since ancient times. In bobsledding, teams ride in special sleds called bobs down an icy bobsled track. There, they reach speeds of up to 150 km/h."
-  },
+  "subcategory": "Sledding and bobsleighing",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86b827a4664756c21819b5971ef980aa.jpg"
-    },
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d19a08d62f580ddfd4a53d5a44e950c6.jpg"
-    },
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/01e782cf01e4972f85e8362b9d42359c.jpg"
-    },
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/485e624ad7432e1b0c5345dbd121aff0.jpg"
-    },
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/034bd1aaa1d59af0ba05964dfc28375a.jpg"
-    },
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f88f3cee35597e7816c1fcae2262f148.jpg"
-    },
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4d805a204045df40e9bec1ae0bfac5e.jpg"
-    },
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a96539834ec7aa2f82a63312c3922a7c.jpg"
-    },
-    {
-      "alternativeText": "Schlitteln",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8834c5b204ca268aa9039299beedb6f9.jpg"
-    },
-    {
-      "alternativeText": "Gruppe",
-      "caption": "Wintersport",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d0f2af5717f993745319ef08b83c8084.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

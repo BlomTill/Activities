@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Half day bus tour to Rhine Falls and Stein am Rhein in Switzerland.",
   "longDescription": "Discover From Zurich: Half day bus tour to Rhine Falls and Stein am Rhein in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rhine Falls Tour by boat in nice weather and green banks",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinfall_3_9912de0c1f.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls tour from Zurich with passengers on boat",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinfall_Boot_Tour_Best_of_Switzerland_Tours_9dab1c34c3.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls near Zurich with waterfalls and green surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinfall_1_d5c5599575.jpg"
-    },
-    {
-      "alternativeText": "Rhein Falls Tour with waterfall, visitor view of the thundering waterfalls and the surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_8371f0c0fe0b5ba7ba563438689d66bc_87c62cdfd4.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls with waterfall view, green surroundings and blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_c70bc5945199e346538bcb153eebf8ca_61cc1571e1.jpg"
-    },
-    {
-      "alternativeText": "Stein am Rhein with historic buildings and trees in autumn",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_80964d8870ce85eef914cec9d2c13823_b5bc2dfa87.jpg"
-    },
-    {
-      "alternativeText": "Stein am Rhein with historical houses, sunny day",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_df62fb202466ac8b1f8180dcb88d1401_bd75a1012a.jpg"
-    },
-    {
-      "alternativeText": "Stein am Rhein with historical buildings and paintings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_2e29da18d8bb4ab2cfb57ef7d20005f0_66bc9df387.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

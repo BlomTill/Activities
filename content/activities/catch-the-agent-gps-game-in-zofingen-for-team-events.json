@@ -5,17 +5,9 @@
   "description": "Discover \"Catch the Agent\" GPS game in Zofingen for team events in Switzerland.",
   "longDescription": "Discover \"Catch the Agent\" GPS game in Zofingen for team events in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "6 - Action D",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41de451119758dfafef7252b32e12764.jpg"
-    },
-    {
-      "alternativeText": "1 - Schweizweit",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b0fb3793643b5d8d78acec9af6d12cb6.jpg"
-    },
-    {
-      "alternativeText": "3 - Action A",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/411501db8f7d67280789f8c92576e4cd.jpg"
-    },
-    {
-      "alternativeText": "4 - Action B",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/91b9cc48d46b9f4b66555fd902e0cf3d.jpg"
-    },
-    {
-      "alternativeText": "2 - Gruppenfoto",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d9543f90f9260d710d3715687d756c3.jpg"
-    },
-    {
-      "alternativeText": "7 - Action E",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e856d8638fd192c5cf5e4a3ed45f31a9.jpg"
-    },
-    {
-      "alternativeText": "7 - City View",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bca44f8f626de0e581125a1f71b6812b.PNG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

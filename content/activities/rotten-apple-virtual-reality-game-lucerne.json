@@ -5,17 +5,9 @@
   "description": "Discover \"Rotten Apple\" virtual reality game in Lucerne in Switzerland.",
   "longDescription": "Discover \"Rotten Apple\" virtual reality game in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VRilliant: Celebrate with friends at a VR party with drinks and decorations in a modern room.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_bday_a19c594406.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: Experience virtual adventures with impressive technology and teamwork.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_5_8811996a52.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Rotten Apple: impressive cityscape with dystopian elements and creative designs",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Thumbnail_01_1920x1080_580b2b72e9.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: Fascination of Virtual Reality with Breathtaking Experiences and Team-Oriented Adventures",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_2_3508447a05.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: impressive cityscape with devastated buildings and dramatic lighting conditions",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Thumbnail_02_1920x1080_da4377dcc7.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: Experience breathtaking adventures in the digital world with Virtual Reality.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_1_140720660b.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: dystopian city view at sunset with futuristic elements and fascinating light plays.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Screenshot_02_1920x1080_51a23e1ec9.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: dark subway station with abandoned carriages and urban flair",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Screenshot_04_1920x1080_f21732cc06.jpg"
-    },
-    {
-      "alternativeText": "VRilliant: dystopian cityscape with impressive lights and urban flair",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/RA_Screenshot_07_1920x1080_1a35529bbf.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

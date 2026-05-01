@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Day trip to Chamonix and Yvoire including Aiguille du Midi in Switzerland.",
   "longDescription": "Discover In Geneva: Day trip to Chamonix and Yvoire including Aiguille du Midi in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,78 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Tour nach Chamonix und Yvoire inkl. Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/054df428c487172c4459c362720c7987.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Tour nach Chamonix und Yvoire inkl. Aiguille du Midi",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/28f18de57526ec46dbbef067b8b596d9.JPG"
-    },
-    {
-      "alternativeText": "Aiguille du Midi with glass platform, snow-covered mountains, clear view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TAM_Pas_de_le_Vide_5_B_2019_B_DELAPIERRE_992849e9e9.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi with snow, cable car and hikers in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_aiguille_du_1_aeed84c208.jpg"
-    },
-    {
-      "alternativeText": "Castle in Yvoire with historical character",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7823014000_5e37cb8029_o_354287b005.jpg"
-    },
-    {
-      "alternativeText": "Yvoire, stone architecture with historic buildings and flowers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4608833349_69e5fe4fe6_o_058da8fc4a.jpg"
-    },
-    {
-      "alternativeText": "Yvoire. Historical building with flowers, stone architecture, entrance",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/23143240559_5972a459d4_k_84ba25f8fe.jpg"
-    },
-    {
-      "alternativeText": "The Garden of the Five Senses with flowerbeds and a view of Château d'Yvoire",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Le_Jardin_des_Cinq_Sens_Le_Tissage_et_vue_sur_le_chateau_d_Yvoire_JARDIN_5_SENS_YVOIRE_jpg_5f62bada16.jpg"
-    },
-    {
-      "alternativeText": "Yvoire with harbor, sailboats, and historic buildings on the shores of Lake Geneva.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Destination_Leman_8f9da5b39e.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi with snow-covered glacier and rocks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TAM_Vue_generale_du_site_B_2019_P_TOURNAIRE_1b0584f93d.JPG"
-    },
-    {
-      "alternativeText": "Aiguille du Midi cable car travels over glaciers in Chamonix.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_aiguille_du_2_c06bbaf754.jpg"
-    },
-    {
-      "alternativeText": "Chamonix-Mont-Blanc with blooming flowers and a river",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village7_2048_10_79b6a99922.jpg"
-    },
-    {
-      "alternativeText": "Chamonix-Mont-Blanc shows a bustling city view in winter with snow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village4_2048_10_d4a2621d34.jpg"
-    },
-    {
-      "alternativeText": "Chamonix Mont Blanc, statutes of climbers, majestic mountain landscape, clear view.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village3_2048_10_4_189397a87c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

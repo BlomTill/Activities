@@ -5,17 +5,9 @@
   "description": "Discover Geneva and Yvoire city tour in Switzerland.",
   "longDescription": "Discover Geneva and Yvoire city tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,68 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Geneva: Beautiful view of the Jet d'Eau and the old town at Lake Geneva with a colorful rainbow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_parks_and_residences5_2048_10_365f1dac01.jpg"
-    },
-    {
-      "alternativeText": "Geneva: View of the international place with a globe in the middle, ideal for culture and group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international1_2048_10_28177dddd2.jpg"
-    },
-    {
-      "alternativeText": "Geneva: Red statue of a chair, culture, architecture, landmark, tourists",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international5_2048_10_f0fc6027c9.jpg"
-    },
-    {
-      "alternativeText": "Flower Clock: Colorful Flower Clock in Geneva with Spring Flowers and Green Grass.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Horloge_Fleurie_18b142a324.jpg"
-    },
-    {
-      "alternativeText": "Geneva: Women relax by the shores of Lake Geneva, Bains des Paquis in summer, unique city landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Congres_Bains_des_Paquis_Jet_d_Eau_fbb8a4bc83.jpg"
-    },
-    {
-      "alternativeText": "Geneva: impressive fountain and UN building, ideal for city tours and family experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international8_2048_10_a603b87568.jpg"
-    },
-    {
-      "alternativeText": "Yvoire: Historical village with impressive stone architecture and blooming plants.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4608833349_69e5fe4fe6_o_1d318e8d6b.jpg"
-    },
-    {
-      "alternativeText": "Yvoire: Historical castle with impressive architecture on Lake Geneva, ideal for art and nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7823014000_5e37cb8029_o_afacef7b14.jpg"
-    },
-    {
-      "alternativeText": "Yvoire: picturesque lakeside promenade on Lake Geneva with boats and mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7826513494_c7c76d14cd_o_b9b3366db4.jpg"
-    },
-    {
-      "alternativeText": "Yvoire: Historical building with flowers and stone wall in the surroundings of the picturesque village.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14349341976_6af0a6d3ce_o_34038b4f50.jpg"
-    },
-    {
-      "alternativeText": "Yvoire  ",
-      "caption": " Genf und Yvoire Städtetour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2e2f4fd9b20685ef28f44f3b0ac7beb.jpg"
-    },
-    {
-      "alternativeText": "Yvoire  ",
-      "caption": " Genf und Yvoire Städtetour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/59ec0d3e05fa6024f90259f00ca5debd.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

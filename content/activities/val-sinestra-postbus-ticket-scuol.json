@@ -5,17 +5,9 @@
   "description": "Discover Val Sinestra Postbus ticket from Scuol return in Switzerland.",
   "longDescription": "Discover Val Sinestra Postbus ticket from Scuol return in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "141",
-    "title": "Postbus",
-    "slug": "postbus",
-    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
-  },
+  "subcategory": "Postbus",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,38 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Scuol: Modern buses at the historic bus stop in the Dolomites in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10_GR_Engadin_Scuol_aa21785555.png"
-    },
-    {
-      "alternativeText": "Scuol: green landscape with mountains and a picturesque path, ideal for hiking and relaxing.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Scuol_Landschaft_unsplash_5b96e88e83.jpg"
-    },
-    {
-      "alternativeText": "Scuol: Autumnal mountain landscape with impressive forests and alpine peaks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Scuol_autumn_impressions_Foto_Schweiz_Tourismus_Jan_Geerk_fee5785c27.png"
-    },
-    {
-      "alternativeText": "Scuol: picturesque autumn landscape with colorful trees and mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Scuol_autumn_impressions_Foto_Schweiz_Tourismus_Jan_Geerk_dbe3e20340.jpg"
-    },
-    {
-      "alternativeText": "Scuol: picturesque alpine landscape with church and golden autumn forest in the mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Scuol1_unsplash_5d98ebd4d1.jpg"
-    },
-    {
-      "alternativeText": "Val Sinestra: impressive hotel surrounded by mountains and forests in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/val_sinestra_pixabay_8ad4e74041.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

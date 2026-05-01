@@ -5,17 +5,9 @@
   "description": "Discover Beatenberg paragliding tandem in summer from Interlaken in Switzerland.",
   "longDescription": "Discover Beatenberg paragliding tandem in summer from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,38 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Paragliding in Beatenberg over green meadows with mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Beatenberg_Gleitschirmflug_Interlaken_c640911487.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Interlaken over snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gleitschirmfliegen_Interlaken_afb1cea8d3.jpg"
-    },
-    {
-      "alternativeText": "Harder Kulm Paragliding over the Lauterbrunnen Valley in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Harder_Kulm_Gleitschirm_69c4e7c2bc.jpg"
-    },
-    {
-      "alternativeText": "Interlaken Paragliding with a view of the city and mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Interlaken_Landeanflug_06efd9c31e.jpg"
-    },
-    {
-      "alternativeText": "Paragliding Interlaken tandem flight over green mountains and blue lake with two pilots",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Paragliding_Interlaken_Tandem_5894ecb323.jpg"
-    },
-    {
-      "alternativeText": "Tandem paragliding flight Beatenberg over idyllic landscape and lake",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tandemflug_Gleitschirm_Beatenberg_95886e52ce.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding",

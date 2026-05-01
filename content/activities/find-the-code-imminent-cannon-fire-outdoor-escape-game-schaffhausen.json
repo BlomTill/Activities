@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Imminent Cannon Fire\" Outdoor Escape Game Schaffhausen in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Imminent Cannon Fire\" Outdoor Escape Game Schaffhausen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-schaffhausen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3ff2a3cc0ba04969a510399827d60e6c.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe-58-edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a75b4e58fe3cd13c8b115ac160d70dd.jpg"
-    },
-    {
-      "alternativeText": "group-photo-landscape_file_phone_neutral-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b5cbe44529e730cdcfa48283bc34912.jpg"
-    },
-    {
-      "alternativeText": "map-schaffhausen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4cab4875766cdb6c175cd67521dd6c04.png"
-    },
-    {
-      "alternativeText": "noel-wangler-1v-nkYLPqcY-unsplash",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/46033519d6688555945661b5b4e5c5d4.jpg"
-    },
-    {
-      "alternativeText": "group-photo-hk-flowers-file-phone-neutral",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/47872c66612f92722627d1f5824a2569.jpg"
-    },
-    {
-      "alternativeText": "group-photo-landscape-front-happy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/018f6ac7010199bcc9a2db345db4ac82.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

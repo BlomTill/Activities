@@ -5,17 +5,9 @@
   "description": "Discover Indoor shooting experience team event at Lake Zurich in Switzerland.",
   "longDescription": "Discover Indoor shooting experience team event at Lake Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30614",
-    "title": "Shooting and Throwing Sports",
-    "slug": "shooting-and-throwing-sports",
-    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
-  },
+  "subcategory": "Shooting and Throwing Sports",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Safety Introduction",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4f7c985404ae9303df52060c82a7d28b.jpg"
-    },
-    {
-      "alternativeText": "Experience Package",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a6cbcc10002dc735b7ca9dbecb4220c7.jpg"
-    },
-    {
-      "alternativeText": "00 Trailer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/195417353fbb7e471690bc2b49d1ab6c.jpg"
-    },
-    {
-      "alternativeText": "Pistol test package",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc7bcdb1b1d94640182cd0717e59025f.jpg"
-    },
-    {
-      "alternativeText": "10",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/64add2bad2d0c47c17803bd37418ec03.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

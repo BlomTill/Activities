@@ -5,17 +5,9 @@
   "description": "Discover Rail ticket between Schaffhausen and Romanshorn in Switzerland.",
   "longDescription": "Discover Rail ticket between Schaffhausen and Romanshorn in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "70",
-    "title": "Train ticket",
-    "slug": "train-ride",
-    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
-  },
+  "subcategory": "Train ticket",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,43 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Schaffhausen: picturesque city view with vineyards in the foreground and clouds in the sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/30_Schaffhausen_Seraina_85b4fbb266.jpg"
-    },
-    {
-      "alternativeText": "Stein am Rhein: Historic Old Town with charming houses by the Rhine, ideal for exploration and culture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stein_am_Rhein_Pixabay_6e42a5a60f.jpg"
-    },
-    {
-      "alternativeText": "Lake Constance: picturesque landscape with water, charming houses, and sunset",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bodensee_Pixabay_916360a941.jpg"
-    },
-    {
-      "alternativeText": "Stein am Rhein: Historic buildings with beautiful facades and colorful murals in the old town.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stein_am_Rhein_1_Pixabay_11a2e18a41.jpg"
-    },
-    {
-      "alternativeText": "Schaffhausen: Historical castle and vineyards in autumn with picturesque landscape in the surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schaffhausen_Pixabay_70cafff747.jpg"
-    },
-    {
-      "alternativeText": "Romanshorn: picturesque harbor with sailboats on Lake Constance in summer, ideal for relaxing and exploring.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Romanshorn_1_Pixabay_e919883fc2.jpg"
-    },
-    {
-      "alternativeText": "Romanshorn: The picturesque harbor landscape with yachts and blue boats on Lake Constance in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Romanshorn_Pixabay_a78ef4a24f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"Catch the Agent\" GPS game in Basel for team events in Switzerland.",
   "longDescription": "Discover \"Catch the Agent\" GPS game in Basel for team events in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "7 - Action E",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7646a4303b334ba5f8c837df15b8fa87.jpg"
-    },
-    {
-      "alternativeText": "Stadtbild",
-      "caption": "Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f19385df4bf81ff0246aac68c2990c6.jpg"
-    },
-    {
-      "alternativeText": "Catch the Agent Spiel",
-      "caption": "Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/951e839b930f8743b47fe0e567614893.jpg"
-    },
-    {
-      "alternativeText": "Catch the Agent Spiel",
-      "caption": "Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c26bee609204fb469e31eaed2acc7f66.jpg"
-    },
-    {
-      "alternativeText": "Stadtbild",
-      "caption": "Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ecf52a65c8d23f86fd7ff1876bb1ec5f.jpg"
-    },
-    {
-      "alternativeText": "Catch the Agent Spiel",
-      "caption": "Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f5ee534ee4e0964c4eeaf7a8a365775.jpg"
-    },
-    {
-      "alternativeText": "Catch the Agent Spiel",
-      "caption": "Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dface8cee4096c37d1efb20003930d2b.jpg"
-    },
-    {
-      "alternativeText": "Catch the Agent Spiel",
-      "caption": "Basel",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc648b0bde38d255090463bd18d1ace0.PNG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

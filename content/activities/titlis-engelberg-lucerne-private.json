@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Private Day Trip to Titlis, Engelberg, and Lucerne in Switzerland.",
   "longDescription": "Discover From Zurich: Private Day Trip to Titlis, Engelberg, and Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Sonnen an der Bergstation Titlis",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a9f80ab66b8bfe11c5222abecd60b923.jpg"
-    },
-    {
-      "alternativeText": "Rotair Titlis",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c077596c3bd730ce31579ea4d3a603bf.jpg"
-    },
-    {
-      "alternativeText": "Titlis Cliff Walk",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/56fc972674a6e04e67da7e1d72776ce8.jpg"
-    },
-    {
-      "alternativeText": "Blick in die Berge",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e13560b4b80ac2d3188654d035306f11.jpg"
-    },
-    {
-      "alternativeText": "Rotair Titlis",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e332d9e4302d2068b3ccaf6da538969a.jpg"
-    },
-    {
-      "alternativeText": "Auf dem Titlis",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c863e2abb9b878ce7aff2c19ad55fbd5.jpg"
-    },
-    {
-      "alternativeText": "Auf dem Titlis",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f1aa46986ff5fafcc8df71e1a7dd3aab.jpg"
-    },
-    {
-      "alternativeText": "Sonnen auf dem Titlis",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e896dbf33278e348c2ecc14c5f78143.jpg"
-    },
-    {
-      "alternativeText": "Besucher",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11392ae7e661a626b1ce7a7cfa5dc5ac.jpg"
-    },
-    {
-      "alternativeText": "Talstation Seilbahn",
-      "caption": "Tagesausflug Titlis",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ce2b86169c786b60c01a885536f31d51.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

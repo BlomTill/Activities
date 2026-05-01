@@ -5,17 +5,9 @@
   "description": "Discover Neuchâtel interactive scavenger hunt with smartphone in Switzerland.",
   "longDescription": "Discover Neuchâtel interactive scavenger hunt with smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Neuchâtel: Explore the historic castle and discover exciting adventures in a wonderful setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_1_EN_c3d82fa069.jpg"
-    },
-    {
-      "alternativeText": "Neuchâtel: Historical architecture in the old town with impressive towers and building materials.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_5_975223637f.jpg"
-    },
-    {
-      "alternativeText": "Neuchâtel: Statue of David de Pury in the city center, surrounded by trees and architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_6_99d7b67ec4.jpg"
-    },
-    {
-      "alternativeText": "Neuchâtel: Discover the fascinating street art and the charming alleys of the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_3_85d32ee4ad.jpg"
-    },
-    {
-      "alternativeText": "Neuchâtel: explore the impressive castle with your phone, discover exciting adventures in the surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_1_DE_528a6fa8d3.jpg"
-    },
-    {
-      "alternativeText": "Neuchâtel: Statue of a historical warrior that brings the city's history and culture to life.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_2_2c08041e4d.jpg"
-    },
-    {
-      "alternativeText": "Neuchâtel: impressive historic building with classical architecture in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/NE_carousel_4_ca4b37a44b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

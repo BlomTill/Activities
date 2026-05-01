@@ -5,17 +5,9 @@
   "description": "Discover \"The Conspiracy\" Escape Game in Sursee in Switzerland.",
   "longDescription": "Discover \"The Conspiracy\" Escape Game in Sursee in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Die Verschwörung in Sursee",
-      "caption": " Outdoor Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/104d3e134c67ef791bba5a0684d280f1.jpg"
-    },
-    {
-      "alternativeText": "Die Verschwörung in Sursee",
-      "caption": " Outdoor Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b75866f1c948cadd1fe843c6355b397f.jpg"
-    },
-    {
-      "alternativeText": "Die Verschwörung in Sursee",
-      "caption": " Outdoor Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/409dc5c349044ee08c8db6b6641c4b17.jpg"
-    },
-    {
-      "alternativeText": "Die Verschwörung in Sursee",
-      "caption": " Outdoor Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d9b4431f16eda05fafa07506a283f00.jpg"
-    },
-    {
-      "alternativeText": "Die Verschwörung in Sursee",
-      "caption": " Outdoor Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a918d6196f64ca11502cbc43d00cf797.jpg"
-    },
-    {
-      "alternativeText": "Die Verschwörung in Sursee",
-      "caption": " Outdoor Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ebc5ef7024d757e8f85ee99653775ac2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

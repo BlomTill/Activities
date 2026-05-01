@@ -5,17 +5,9 @@
   "description": "Discover Polterchallenge \"Hangover - Wolf Pack\" through Aarau in Switzerland.",
   "longDescription": "Discover Polterchallenge \"Hangover - Wolf Pack\" through Aarau in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Aarau Wolf Pack 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d940bd1cf9a545ca239f1f25df51e2fd.jpg"
-    },
-    {
-      "alternativeText": "Wolf Pack Aarau 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7fa8d433946e3bd46758b1b0fb8de3a6.jpg"
-    },
-    {
-      "alternativeText": "Wolf Pack Aarau 3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/03dd968e18d98ac0af8817da08dcdca8.jpg"
-    },
-    {
-      "alternativeText": "Wolf Pack Aarau 4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/76de855a9aabebebfbaedf2c89bfb8f8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Private city tour with train ride to Rochers-de-Naye from Montreux in Switzerland.",
   "longDescription": "Discover Private city tour with train ride to Rochers-de-Naye from Montreux in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "DJI_20230408_103510_094",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/deaa5f1164bba6aeec39faac89520032.jpeg"
-    },
-    {
-      "alternativeText": "IMG_1219",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f119d330aff2daef601060616580867f.jpeg"
-    },
-    {
-      "alternativeText": "IMG_1232",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e09bf4f20e0823b81f3f6165ebd20182.jpeg"
-    },
-    {
-      "alternativeText": "IMG_3407",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ab6256843ce80fbf0cbdb02ebde33940.jpeg"
-    },
-    {
-      "alternativeText": "IMG_3414",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/429f2be1d32377afb46245b596a66cb8.jpeg"
-    },
-    {
-      "alternativeText": "IMG_3419",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/68cf99fae8eb182492d6103425543bcf.jpeg"
-    },
-    {
-      "alternativeText": "IMG_3421",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4d9477527d484087c397264ecbf85cc0.jpeg"
-    },
-    {
-      "alternativeText": "IMG_3550",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4a63532a47fd544229460337a74fa0f6.jpeg"
-    },
-    {
-      "alternativeText": "IMG_7039",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1c0fc6c5be6f98b744b066837ff61b82.jpeg"
-    },
-    {
-      "alternativeText": "photo-output",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e050bfc86679e383be6e095280e17a78.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "train"

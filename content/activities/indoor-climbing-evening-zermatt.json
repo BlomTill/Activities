@@ -5,17 +5,9 @@
   "description": "Discover Indoor climbing in the evening in Zermatt in Switzerland.",
   "longDescription": "Discover Indoor climbing in the evening in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "117",
-    "title": "Climbing",
-    "slug": "climbing",
-    "description": "Book your next climbing experience here. Climbing is an increasingly popular sport that is primarily vertical. Usually, several people climb, using a rope to save each other from falling. Climbing is done both in climbing gyms and outdoors. Climbing includes the difficulty levels T3 to T6 of the SAC Scala. Climbers find climbing aids only in the level T3."
-  },
+  "subcategory": "Climbing",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,18 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Indoor climbing wall with colorful grips for sports and adventure in a climbing gym",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kletterwand_Zermatters_6937f75a2e.jpg"
-    },
-    {
-      "alternativeText": "Indoor Climbing: Climbers on a bouldering wall, sporting activity in a climbing center, rock holds",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/yns_plt_NY_1_D4_Zni7fc_unsplash_00f1a9cce1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "climbing",

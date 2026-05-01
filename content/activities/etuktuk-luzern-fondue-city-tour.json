@@ -5,17 +5,9 @@
   "description": "Discover \"Fondue Tuk\" - city tour with the Tuk Tuk in Lucerne in Switzerland.",
   "longDescription": "Discover \"Fondue Tuk\" - city tour with the Tuk Tuk in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Fondue: Enjoy cozy moments with friends and family while having fondue in a comfortable atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7e88d1f391dd6582258e48040e4cddd6.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk: Fondue Tour in the City with Cozy Seats and Foodies. Enjoy the culinary experience.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c6cf61609f70d0c8df00dba29ed370bb.jpg"
-    },
-    {
-      "alternativeText": "Fondue Tuk Tuk in front of the Hofkirche. Enjoy delicious fondue in the heart of the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4133c9a848ab2863cae2c67df38ec3d1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "fondue",

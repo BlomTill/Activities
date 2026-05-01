@@ -5,17 +5,9 @@
   "description": "Discover Self-guided wine hike Stein am Rhein in Switzerland.",
   "longDescription": "Discover Self-guided wine hike Stein am Rhein in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Weinwanderung",
-      "caption": "Stein am Rhein",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d43eeaae38978c69a55ac40d061a5e83.jpg"
-    },
-    {
-      "alternativeText": "Weinwanderung",
-      "caption": "Stein am Rhein",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2553e8865faa162fc7970362c66ab415.jpg"
-    },
-    {
-      "alternativeText": "Weinwanderung",
-      "caption": "Stein am Rhein",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/acf21cb39e1a40b85fc76172e94a57c6.jpg"
-    },
-    {
-      "alternativeText": "Weinwanderung",
-      "caption": "Stein am Rhein",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/21a3d7d9cedd06aad0d285ce595c31f0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "wine"

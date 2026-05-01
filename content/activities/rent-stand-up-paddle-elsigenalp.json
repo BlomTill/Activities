@@ -5,17 +5,9 @@
   "description": "Discover Rent Stand Up Paddle on the Brandsee near Elsigenalp in Switzerland.",
   "longDescription": "Discover Rent Stand Up Paddle on the Brandsee near Elsigenalp in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "39",
-    "title": "Stand up paddle",
-    "slug": "stand-up-paddle",
-    "description": "Book your SUP tour with an experienced guide or rent your SUP equipment. Stand-up paddling has become a way of life in Switzerland and has experienced a real surge in popularity in recent years. There are already quite a few SUP spots on several lakes and rivers. For example, you can find SUP schools on Lake Biel, Lake Brienz and Lake Lucerne, just to name a few."
-  },
+  "subcategory": "Stand up paddle",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Stand-up-Paddling at Brandsee Elsigen-Metsch in Sunshine",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7_424x283_0d00215bb9.jpg"
-    },
-    {
-      "alternativeText": "Brandsee Elsigen-Metsch, two women are splashing water in the lake, summer 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9_7bd9832793.jpg"
-    },
-    {
-      "alternativeText": "SUP station at Brandsee Elsigen-Metsch with mountain landscape in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10_c4074d6950.jpg"
-    },
-    {
-      "alternativeText": "Brandsee Elsigen-Metsch with forest reflection in clear water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/35_424x283_6eadbd8989.jpg"
-    },
-    {
-      "alternativeText": "Brand lake in Elsigen-Metsch with clear water and surrounding mountains in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/64_bransee_390cbd4eed.jpg"
-    },
-    {
-      "alternativeText": "Brandsee Elsigen-Metsch with bathing children and adults on the shore.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/87e312e2adec3c2db2c12b9b5f99cd31_f401253e1a.jpg"
-    },
-    {
-      "alternativeText": "Stand-Up-Paddling at Brandsee Elsigen-Metsch, two women on a board in the water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/405_4906ea4f55.jpg"
-    },
-    {
-      "alternativeText": "Brandsee Elsigen-Metsch with bridge and clear water surfaces.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20210806_195243_1_424x318_75a44c3a86.jpg"
-    },
-    {
-      "alternativeText": "Brand Lake Elsigen-Metsch with calm water surface and mountain backdrop, surrounded by grass areas.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/h31_a402f6327e.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

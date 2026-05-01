@@ -5,17 +5,9 @@
   "description": "Discover From Zurich Airport: Transfer to Interlaken, Grindelwald or Lauterbrunnen in Switzerland.",
   "longDescription": "Discover From Zurich Airport: Transfer to Interlaken, Grindelwald or Lauterbrunnen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "105",
-    "title": "Transfer",
-    "slug": "transfer",
-    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
-  },
+  "subcategory": "Transfer",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,48 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Mercedes V-Class at Zurich Airport for comfortable transport to your destination.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_2_ea10297737.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen: impressive landscape with waterfalls and mountains in Switzerland in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lauterbrunnen_Unsplash_cc9f5f222c.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald: picturesque landscape with green meadows and mountains, ideal for summer hikes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_Unsplash_62764519a3.jpg"
-    },
-    {
-      "alternativeText": "Mercedes E-Class in front of the Waldhotel Zurich for comfortable airport transfers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_E_Class_74194a913d.jpg"
-    },
-    {
-      "alternativeText": "S-Class: Luxurious interior for airport transfer, comfort, design, Zurich.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_2_31a1310e04.jpg"
-    },
-    {
-      "alternativeText": "S-Class: Luxurious Interior for Transfer at Zurich Airport",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_S_Class_8003db9b65.jpg"
-    },
-    {
-      "alternativeText": "Mercedes V-Class: high-quality driver transfer in a modern vehicle at Zurich Airport.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mercedes_V_Class_35fd1dc272.jpg"
-    },
-    {
-      "alternativeText": "S-Class: Luxury car at Zurich Airport for an elegant transfer to the city center.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/S_Class_0d18842b8a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

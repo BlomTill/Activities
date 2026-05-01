@@ -5,17 +5,9 @@
   "description": "Discover Rhine Falls Wine Cruise including Circular Tour in Switzerland.",
   "longDescription": "Discover Rhine Falls Wine Cruise including Circular Tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "53",
-    "title": "Boat Trips",
-    "slug": "boat-trips",
-    "description": "Book your boat ticket here with or without combinations with other activities. In the extensive network of rivers and lakes of the \"water castle of Europe\" there are many opportunities to take a boat trip. From the ship you will experience the tranquility of the lakes and the surrounding mountain scenery. At the same time you can enjoy culinary delights on board and combine the trip with a visit to various attractions near the lakes."
-  },
+  "subcategory": "Boat Trips",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,13 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Weindegustation auf dem Schiff",
-      "caption": "Rheinfall",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/75e1692f51bd013a614a07f6bb91aa0e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "wine"

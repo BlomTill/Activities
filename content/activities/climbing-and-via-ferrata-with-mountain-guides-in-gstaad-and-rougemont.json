@@ -5,17 +5,9 @@
   "description": "Discover Climbing and via ferrata with mountain guides in Gstaad and Rougemont in Switzerland.",
   "longDescription": "Discover Climbing and via ferrata with mountain guides in Gstaad and Rougemont in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "36",
-    "title": "Via ferrata",
-    "slug": "via-ferrata",
-    "description": "Find the via ferrata that suits you best and book a tour led by an experienced mountain guide or rent your equipment here. Via Ferrata, also known under the Italian name \"Via Ferrata\", provide a thrill and an unforgettable climbing experience. Depending on the level of difficulty, previous experience is necessary. However, there are also via ferratas that can be climbed without experience. Well secured, you will master steep ascents and airy traverses. Via ferrata routes can be found all over Switzerland. Starting in the Valais to the Bernese Oberland, Central Switzerland and the Grisons Alps."
-  },
+  "subcategory": "Via ferrata",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Klettern im Fels",
-      "caption": "Klettersteig Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2dc058ca61a60601feac81f3a7ee6084.jpeg"
-    },
-    {
-      "alternativeText": "Klettern im Fels",
-      "caption": "Klettersteig Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/252a99158d96197a0b2c8acf41e4f775.jpeg"
-    },
-    {
-      "alternativeText": "Klettern im Fels",
-      "caption": "Klettersteig Gstaad",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c1c36ea627d5f3e0c85b22d2c1814710.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "climbing",

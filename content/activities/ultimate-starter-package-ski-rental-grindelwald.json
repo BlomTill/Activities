@@ -5,17 +5,9 @@
   "description": "Discover Ultimate starter package ski hire Grindelwald in Switzerland.",
   "longDescription": "Discover Ultimate starter package ski hire Grindelwald in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "118",
-    "title": "Ski Rental",
-    "slug": "ski-rental",
-    "description": "Rent your skis here for your ski trip in Switzerland. You can easily choose your skis online and rent them for your individual period. This way you can travel to your ski resort in a very relaxed way. You pick up the skis including equipment for your winter vacation usually very close to the valley station of the mountain railroads or at the location of your choice. This way you always get top quality and have the choice between different models, brands and sizes."
-  },
+  "subcategory": "Ski Rental",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rent skis Grindelwald: Skiers on the slope in winter with snow, sports, adventures in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Unsplash_d7eaa2d7f2.jpg"
-    },
-    {
-      "alternativeText": "Rent skis in Grindelwald: Skiing in winter, perfect for adventures with friends in the Swiss Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Anfaenger_Skifahren_Unsplash_d96f333d4d.jpg"
-    },
-    {
-      "alternativeText": "Skiing in Grindelwald: impressive mountains and snow in winter, ideal for winter sports enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_Skifahren_Unsplash_9d18aabfae.jpg"
-    },
-    {
-      "alternativeText": "Skiing in Grindelwald: Children and adults on the chairlift in the Swiss Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sessellift_Unsplash_edebc37087.jpg"
-    },
-    {
-      "alternativeText": "Skiing in Grindelwald: Skiers on the slope in the snow-covered mountain village of Grindelwald.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wintersport_Unsplash_d6b00d37d2.jpg"
-    },
-    {
-      "alternativeText": "Rent skis in Grindelwald in winter, experience white slopes and impressive mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_Skifahren_1_Unsplash_61370bcab4.jpg"
-    },
-    {
-      "alternativeText": "Rent skis in Grindelwald: Ski and equipment in the snow for your winter adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ski_Piste_Unsplash_b980abab62.jpg"
-    },
-    {
-      "alternativeText": "Rent skis in Grindelwald in winter with breathtaking views of snow-covered mountains and coniferous trees.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wengen_Unsplash_5691d9b194.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

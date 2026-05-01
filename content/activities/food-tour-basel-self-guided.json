@@ -5,17 +5,9 @@
   "description": "Discover Food Tour Basel self-guided in Switzerland.",
   "longDescription": "Discover Food Tour Basel self-guided in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Basel Foodtour Bakery Kult: Guest receives coffee in cozy café",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Basel_Foodtour_Baeckerei_KULT_Kaffee_985453b09c.jpg"
-    },
-    {
-      "alternativeText": "Bakery Kult in Basel, guests are conversing, rustic decor",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Basel_Foodtour_baeckerei_Kult_01948ac90f.jpg"
-    },
-    {
-      "alternativeText": "Bakery with fresh breads and baked goods",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Basel_Foodtour_Baeckerei_Kult_f6245fc529.jpg"
-    },
-    {
-      "alternativeText": "Bakery Kult with fresh baked goods in Basel",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_Basel_Foodtour_Baeckerei_Kult_2103c796a2.jpg"
-    },
-    {
-      "alternativeText": "Food court in Basel with guests and food stalls",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_Basel_Foodtour_Klara_Foodcourt_919dda32e0.jpg"
-    },
-    {
-      "alternativeText": "Basel Hejkoh Store with decorative goods and a cozy atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Basel_Foodtour_Conceptsotre_Hejkoh_7ce95ce306.jpg"
-    },
-    {
-      "alternativeText": "Hejkoh Conceptstore in Basel with blue wall, tables, and cushions",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10_Basel_Foodtour_hejkoh_conceptstore_d3853d2248.jpg"
-    },
-    {
-      "alternativeText": "Concept store Hejkoh in Basel with modern furnishing elements",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_Basel_Foodtour_hejkoh_conceptstore_design_5c3beb8abc.jpg"
-    },
-    {
-      "alternativeText": "Unpackaged store in Basel with muesli and grains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05_Basel_Foodtour_unverpackt_nachhaltig_3094eb12da.jpg"
-    },
-    {
-      "alternativeText": "Basel food tour with unpackaged products in a sustainable shop. In the front, soap bars are stacked in various colors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/09_Basel_Foodtour_unverpackt_08b3a4041b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the groom\" in Winterthur: action-packed stag party in Switzerland.",
   "longDescription": "Discover \"Beat the groom\" in Winterthur: action-packed stag party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bachelorette Party: Group of friends celebrating outdoors with drinks, perfect for bachelor parties.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_afc47fb72a.jpg"
-    },
-    {
-      "alternativeText": "Winterthur: beautiful cityscape with reflecting buildings and clear sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/winterthur_pixabay_7cd527d21e.jpg"
-    },
-    {
-      "alternativeText": "Special Experiences: Bachelor party with friends in nature in summer clothes, mood and fun.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_aeb4c8b6b3.jpg"
-    },
-    {
-      "alternativeText": "Outdoor team games: Fun activities for groups in summer in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_701a074d7c.jpg"
-    },
-    {
-      "alternativeText": "Winterthur: View of the old town with sunset and beautiful buildings, diverse architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/winterthur_unsplash_6562619b0f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

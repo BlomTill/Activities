@@ -11,12 +11,12 @@ export function Footer() {
           <div>
             <Link href="/" className="flex items-center gap-2 mb-3">
               <span className="text-lg font-bold text-[#ede8df]">
-                Explore<span style={{ color: "oklch(74% 0.13 63deg)" }}>Switzerland</span>
+                Real<span style={{ color: "oklch(74% 0.13 63deg)" }}>Switzerland</span>
               </span>
             </Link>
             <p className="text-sm text-[#8a7e70] leading-relaxed">
-              Your Swiss travel companion — compare prices, plan group trips, and discover
-              the best experiences across every region of Switzerland.
+              The independent guide to Switzerland — honest prices, hand-picked
+              experiences, no fluff. Compare and book across every Swiss region.
             </p>
           </div>
 
@@ -57,7 +57,7 @@ export function Footer() {
               <li><Link href="/blog" className="hover:text-[#c4973a] transition-colors">Blog</Link></li>
               <li><Link href="/privacy" className="hover:text-[#c4973a] transition-colors">Privacy</Link></li>
               <li><Link href="/partners" className="hover:text-[#c4973a] transition-colors">Partners</Link></li>
-              <li><a href="mailto:hello@exploreswitzerland.ch" className="hover:text-[#c4973a] transition-colors">Contact</a></li>
+              <li><a href="mailto:hello@realswitzerland.ch" className="hover:text-[#c4973a] transition-colors">Contact</a></li>
               <li>
                 <button
                   type="button"
@@ -72,7 +72,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 border-t border-[#1e1b17] pt-8 text-center text-sm text-[#4a4030]">
-          &copy; {new Date().getFullYear()} ExploreSwitzerland. All rights reserved.
+          &copy; {new Date().getFullYear()} RealSwitzerland. All rights reserved.
         </div>
       </div>
     </footer>

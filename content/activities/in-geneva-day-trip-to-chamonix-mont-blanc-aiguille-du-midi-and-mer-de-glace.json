@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Day trip to Chamonix Mont-Blanc, Aiguille du Midi, and Mer de Glace in Switzerland.",
   "longDescription": "Discover In Geneva: Day trip to Chamonix Mont-Blanc, Aiguille du Midi, and Mer de Glace in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chamonix",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/098702fb0cfd31a4d810264af585d880.jpg"
-    },
-    {
-      "alternativeText": "Chamonix",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9aa1149124b721b7153a36edbbf4166e.jpg"
-    },
-    {
-      "alternativeText": "Chamonix",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22cbfc749ffd75005619dc276d7893e6.jpg"
-    },
-    {
-      "alternativeText": "Chamonix",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4457125bf8403df9fc2330cd4fd1eff3.jpg"
-    },
-    {
-      "alternativeText": "Mer de Glace",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ff64d5bd4ebc25a69eac8921ef6e854.JPG"
-    },
-    {
-      "alternativeText": "Mont Blanc",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b53b0cd6705c68fbff2b2bb3d8802490.JPG"
-    },
-    {
-      "alternativeText": "Mer de Glace",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f29ff1974b2305689783812d6a1eafc0.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a04945c684b69a194c5cbf581a5f7e6e.jpg"
-    },
-    {
-      "alternativeText": "Aiguille du Midi",
-      "caption": "Tour nach Chamonix",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b05a25b0fc5acbf575083f4179441500.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

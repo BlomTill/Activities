@@ -5,17 +5,9 @@
   "description": "Discover Funicular Braunwald Ticket from Linthal in Switzerland.",
   "longDescription": "Discover Funicular Braunwald Ticket from Linthal in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Braunwald Fairy Tale Hotel Bellevue: idyllic landscape with mountains and recreational opportunities for families",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_3x2_Braunwald_Maerchenhotel_Bellevue_Foto_Schweiz_Tourismus_Markus_Buehler_fc9a539427.jpg"
-    },
-    {
-      "alternativeText": "Braunwald: Mountain Biking in the Alps with impressive mountain scenery and lush landscapes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Braunwald_Mountain_biking_Foto_Schweiz_Tourismus_Christian_Meixner_b7a179cf5b.jpg"
-    },
-    {
-      "alternativeText": "Braunwald mountain biking on forest trails with cyclists in the midst of nature in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_3x2_Braunwald_Mountain_biking_Foto_Schweiz_Tourismus_Christian_Meixner_f819bbd78f.jpg"
-    },
-    {
-      "alternativeText": "Oberblegisee Braunwald: picturesque mountain landscape with green water and surrounding Alps, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ST_Oberblegisee_Braunwald_Foto_Schweiz_Tourismus_Mattias_Nutt_d46abb0267.jpg"
-    },
-    {
-      "alternativeText": "Linthal-Berglistueber: A hidden waterfall in nature, perfect for summer adventures and relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Linthal_Berglistueber_Foto_Schweiz_Tourismus_Andreas_Gerth_b27a778324.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

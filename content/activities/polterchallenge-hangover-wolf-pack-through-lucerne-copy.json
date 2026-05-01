@@ -5,17 +5,9 @@
   "description": "Discover Polterchallenge \"Hangover - Wolf Pack\" near Lucerne in Switzerland.",
   "longDescription": "Discover Polterchallenge \"Hangover - Wolf Pack\" near Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Wolf Pack Lucerne 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/29ef5581acf0a8f0bd07155f974f81ff.png"
-    },
-    {
-      "alternativeText": "Wolf Pack Lucerne 4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f0afcb0969b6b43515f19b133b7fee2.png"
-    },
-    {
-      "alternativeText": "Wolf Pack Lucerne 3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0159490ebcb9f629c1bbfe25c0ef04b3.png"
-    },
-    {
-      "alternativeText": "Wolf Pack Lucerne 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/58800d3a3e2087bbeacdddc8fcd4bdf4.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

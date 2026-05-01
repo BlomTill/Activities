@@ -5,17 +5,9 @@
   "description": "Discover Zurich city tour in an open panorama bus in Switzerland.",
   "longDescription": "Discover Zurich city tour in an open panorama bus in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,78 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Zurich: lively city tour with people, shops, and impressive architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0e944ed2ae6c9a5020154e46e6186994.jpg"
-    },
-    {
-      "alternativeText": "City tour: Discover Zurich's vibrant city center with trams, shops, and green spaces.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2559f72a5e1f521e31287a598fb77ae5.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6bd2120263a2af6009033a85c5eb295a.jpg"
-    },
-    {
-      "alternativeText": "Zurich: Lively old town with historic buildings and cafés, ideal for city tours.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/565dc1ca3dbf1c131122bd4344ee9704.jpg"
-    },
-    {
-      "alternativeText": "City tour in Zurich: Historic buildings with passersby in the city center of Zurich.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8ac3a9b2af63b0bb2a760b1ecc16eb09.jpg"
-    },
-    {
-      "alternativeText": "Zürich: Experience the city view with architecture, people, and historic buildings in the Old Town.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f29f628783688b8ce4bef2cc335a758f.jpg"
-    },
-    {
-      "alternativeText": "Zurich: View of the city with churches and mountains in the background, experience the perfect city tour.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d2ee4b7d06f8be8efddbf337e944465c.jpg"
-    },
-    {
-      "alternativeText": "Zurich: stunning city tour on Lake Zurich with colorful buildings and amazing views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/71363de6daea0e167422c44dda63b906.jpg"
-    },
-    {
-      "alternativeText": "Zürich: beautiful city view by the lake with historical buildings and the Limmat waterfront.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6477ed7878ff0081745a5b14f1c1e6b1.jpg"
-    },
-    {
-      "alternativeText": "City tour: View of the Zurich Old Town by the water with historic buildings and dining options.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e2d0923aceb08ed2dd68222184778497.jpg"
-    },
-    {
-      "alternativeText": "City tour: Experience Zurich's National Museum with impressive architecture and artworks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b47d83c58fa8bf544198b797b1d0652c.jpg"
-    },
-    {
-      "alternativeText": "Zurich: Discover the historical building of the Swiss National Museum on a city tour.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d0ae9f626ec123d78813fc2cf1ee5577.jpg"
-    },
-    {
-      "alternativeText": "Polybahn: Experience the historic funicular railway in Zurich with views of the surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b0cb460c1a79affbab6bfa8b34ed1e7c.jpg"
-    },
-    {
-      "alternativeText": "Carriage: historical black-yellow carriage from Zurich, ideal for romantic city tours.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fa5044353941654e34cc72bdbea4b999.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

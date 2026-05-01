@@ -5,17 +5,9 @@
   "description": "Discover Private nature safari on Lake Zurich from Rapperswil in Switzerland.",
   "longDescription": "Discover Private nature safari on Lake Zurich from Rapperswil in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33819",
-    "title": "Animal experiences",
-    "slug": "animal-experiences",
-    "description": "Discover and book exciting animal encounters across Switzerland. Experience animals up close through a variety of activities and explore the special bond between humans and animals. You can get to know the animals, learn about their personalities and needs, and practice respectful interaction. These experiences offer memorable moments for families, children, and anyone wanting to engage actively with animals in a natural setting."
-  },
+  "subcategory": "Animal experiences",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Great Crested Grebe",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ccd5e4ee4bc518f89815b1e47299bba8.jpg"
-    },
-    {
-      "alternativeText": "Goosander (6)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50920afb9a7186f4e8998dbdffc1fae5.jpeg"
-    },
-    {
-      "alternativeText": "Kiebitz-3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4ee535591c1c6a655569042e2da151c.jpg"
-    },
-    {
-      "alternativeText": "Northern Shoveler (4)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/11e29669102369662fa4b4cb4cf0f9b6.jpeg"
-    },
-    {
-      "alternativeText": "PICT_20220123_114309",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3dee8b1f2146e2e10b89517d196c96ee.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

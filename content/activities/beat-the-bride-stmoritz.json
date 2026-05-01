@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the bride\" in St. Moritz: action-packed hen party in Switzerland.",
   "longDescription": "Discover \"Beat the bride\" in St. Moritz: action-packed hen party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,43 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bride: Playful team event in the garden with friends in the Upper Engadine, ideal for bachelor parties.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_4_59f5313ba8.jpg"
-    },
-    {
-      "alternativeText": "St. Moritz: Winter alpine town with impressive mountain scenery and picturesque buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/st_moritz_unsplash_41e328ae1e.jpg"
-    },
-    {
-      "alternativeText": "Bridal party: Friends celebrate together with flower crowns and good vibes in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_1_aefb622952.jpg"
-    },
-    {
-      "alternativeText": "Bachelorette party with friends in the city during a summer festival.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_3_3cdfd54af1.jpg"
-    },
-    {
-      "alternativeText": "St. Moritz: a dream hotel in the heart of the Alps with a view of the mountains and blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/st_moritz_pixabay_9773ba0b7c.jpg"
-    },
-    {
-      "alternativeText": "Bride: Team celebration with friends and cups under the blue sky in summer in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_2_c2bc020107.jpg"
-    },
-    {
-      "alternativeText": "St. Moritz: Picturesque winter landscape with snow and illuminated city in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/winter_st_moritz_unsplash_7902c0d37d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "st.-moritz"

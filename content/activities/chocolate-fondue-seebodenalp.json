@@ -5,17 +5,9 @@
   "description": "Discover Chocolate fondue on the Seebodenalp in Switzerland.",
   "longDescription": "Discover Chocolate fondue on the Seebodenalp in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chocolate fondue: Enjoy fresh strawberries and fruit at a romantic sunset in Seebodenalp.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_DSC_00374_0a5c505d6c.png"
-    },
-    {
-      "alternativeText": "Chocolate fondue with fresh fruit on Seebodenalp, ideal for sociable moments in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_00348_f297488cc3.jpg"
-    },
-    {
-      "alternativeText": "Chocolate fondue with cookies at Seebodenalp during an idyllic picnic pause in nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_00435_1d18aecae8.jpg"
-    },
-    {
-      "alternativeText": "Chocolate fondue on Seebodenalp mountain with fresh strawberries and gummy bears for a sweet experience.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_DSC_00394_329ca320a3.jpg"
-    },
-    {
-      "alternativeText": "Chocolate fondue with cookies in Seebodenalp, ideal for winter evenings with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_00429_f158f02b8c.jpg"
-    },
-    {
-      "alternativeText": "Chocolate fondue: Weekly delight at Seebodenalp with a view of nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_00438_b3e4789af7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

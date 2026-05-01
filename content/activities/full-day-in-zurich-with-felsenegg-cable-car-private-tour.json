@@ -5,17 +5,9 @@
   "description": "Discover Full day in Zurich with Felsenegg cable car private tour in Switzerland.",
   "longDescription": "Discover Full day in Zurich with Felsenegg cable car private tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,63 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Luftseilbahn Felsenegg",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/77af2f019e659f168f2e97b3f54c7992.jpg"
-    },
-    {
-      "alternativeText": "Familie in Zürich",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c987a3febb1a26740f7fbc11e848a0a.jpg"
-    },
-    {
-      "alternativeText": "Gruppe unterwegs  ",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/75df3b1f5d27f5cd170fd98cc5e8654a.jpg"
-    },
-    {
-      "alternativeText": "Aussicht",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d3dc10b74e2f67060b8ccd3b80c0eb6a.jpg"
-    },
-    {
-      "alternativeText": "Restaurant",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d36cd5a32937c7bac288f42270044a78.jpg"
-    },
-    {
-      "alternativeText": "Restaurant",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/67d3e6e683f7908e9ae1f733052de5f3.jpg"
-    },
-    {
-      "alternativeText": "Gruppe geniesst die Aussicht",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/817cbe0fe5fd66cb2899f10a45cd43ed.jpg"
-    },
-    {
-      "alternativeText": "an der Schiffsanlegestelle",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bdae47f431685ccfe2f1b07ea8da76ae.jpg"
-    },
-    {
-      "alternativeText": "Zürichsee",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/424badbf8310fd2c72c8df987e6ebeb7.jpg"
-    },
-    {
-      "alternativeText": "Aussicht geniessen",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0914c0522ff6c3aa29645564f156798.jpg"
-    },
-    {
-      "alternativeText": "Fahrzeuge",
-      "caption": "Halbtagesausflug Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e16967a4153d1bf30f5d62764c58482.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "cable-car"

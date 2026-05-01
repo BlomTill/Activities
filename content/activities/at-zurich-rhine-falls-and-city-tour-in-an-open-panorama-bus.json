@@ -5,17 +5,9 @@
   "description": "Discover At Zurich: Rhine Falls and City Tour in an Open Panorama Bus in Switzerland.",
   "longDescription": "Discover At Zurich: Rhine Falls and City Tour in an Open Panorama Bus in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Zurich: lively street with flags, cafés, and historic buildings, ideal for a day trip.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/df5792b153fd2935c0dc8cf87e87cac8.jpg"
-    },
-    {
-      "alternativeText": "Zurich: lively on Bahnhofstrasse with trams and many people in the city, ideal for exploration.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/627f3dbe463ff77777786d987bbb4477.jpg"
-    },
-    {
-      "alternativeText": "Zurich: Colorful city life with restaurants and people on the street, ideal for enjoyment and culture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4e087dbe74c91f019242e9a78ac45650.jpg"
-    },
-    {
-      "alternativeText": "Zurich: Experience the day in the city with sightseeing, culture, and historic buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f1cafddf7cd7732b001d4656165b2d61.jpg"
-    },
-    {
-      "alternativeText": "Zurich: picturesque view of Lake Zurich and the old town with church towers, ideal for day trips.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/99ccacc53e46e6c69995033c1412a2f1.jpg"
-    },
-    {
-      "alternativeText": "Rheinfall: impressive waterfall in Switzerland, ideal for day trips and nature experiences",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5ed4fdf625ca26f6323938f4ae95a208.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls: Natural spectacle in Switzerland, ideal for day trips, groups, and adventures in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7f526ad6cdbfac818be58e21ff324843.jpg"
-    },
-    {
-      "alternativeText": "Rheinfall",
-      "caption": "Rheinfall und Stadtrundfahrt im offenen Panoramabus",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a8519ae4fe8f4f943a0078a64e429f9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

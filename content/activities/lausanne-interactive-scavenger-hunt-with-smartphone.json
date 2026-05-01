@@ -5,17 +5,9 @@
   "description": "Discover Lausanne (old town) interactive scavenger hunt with smartphone in Switzerland.",
   "longDescription": "Discover Lausanne (old town) interactive scavenger hunt with smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lausanne Escape Game: interactive city exploration with historical architecture and team adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lausanne_carousel_1_EN_08215788fb.jpg"
-    },
-    {
-      "alternativeText": "Lausanne Escape Game: Discover the challenges of the game with friends in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lausanne_carousel_3_fe5b49fa69.jpg"
-    },
-    {
-      "alternativeText": "Lausanne Escape Game: Experience exciting outdoor adventures with your team in this creative environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lausanne_carousel_4_a228418c64.jpg"
-    },
-    {
-      "alternativeText": "Lausanne Escape Game: Experience exciting adventures with friends in the picturesque old town of Lausanne.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/lausanne_carousel_5_c3e16caa0d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lausanne"

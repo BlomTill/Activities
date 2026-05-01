@@ -5,17 +5,9 @@
   "description": "Discover Foxtrail GO Schaffhausen digital treasure hunt in Switzerland.",
   "longDescription": "Discover Foxtrail GO Schaffhausen digital treasure hunt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Coverbild_Schaffhausen_02",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24336547f57bc4b7f51d49d7abb79286.jpg"
-    },
-    {
-      "alternativeText": "FoxtrailGO-Miteinander-gegeneinander",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bfa361290dff6dce344a0eb2f2963027.jpg"
-    },
-    {
-      "alternativeText": "AufderSuche_C02_1280x960",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/855a417baf98dba8bf8458c871432de0.jpg"
-    },
-    {
-      "alternativeText": "Hineinschauen_A02_1280x960",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7289b61cceb43fdb492722673d1bf9f4.jpg"
-    },
-    {
-      "alternativeText": "MenschNah_B02_1280x960",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b5e443094643bed240bc818ca75a68b.jpg"
-    },
-    {
-      "alternativeText": "final (4)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ba6c7aa761bc025f66a4f7e1048efb93.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

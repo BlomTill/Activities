@@ -5,17 +5,9 @@
   "description": "Discover \"House of Fear\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover \"House of Fear\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VR House of Fear: eerie atmosphere in an interactive horror experience",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/screen_7680x4320_2019_10_23_10_10_41_833bc53859.png"
-    },
-    {
-      "alternativeText": "House of Fear VR: thrilling horror experience with mysterious elements and lots of suspense.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Titelbild_0985dcc06d.jpg"
-    },
-    {
-      "alternativeText": "VR House of Fear: eerie setting with a doll, fascinating gaming experience in the horror genre.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/screen_7680x4320_2019_10_23_10_57_15_ce7238140f.png"
-    },
-    {
-      "alternativeText": "VR House of Fear: Cozy bedroom with floral bedding and nostalgic decor",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/screen_7680x4320_2019_10_23_10_49_32_ac2210ad55.png"
-    },
-    {
-      "alternativeText": "VR House of Fear: Experience an exciting and creepy adventure in a rustic setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/screen_7680x4320_2019_10_23_09_54_41_800254ca4c.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

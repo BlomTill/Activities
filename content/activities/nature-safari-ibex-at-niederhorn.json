@@ -5,17 +5,9 @@
   "description": "Discover Nature safari ibex at Niederhorn in Switzerland.",
   "longDescription": "Discover Nature safari ibex at Niederhorn in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33819",
-    "title": "Animal experiences",
-    "slug": "animal-experiences",
-    "description": "Discover and book exciting animal encounters across Switzerland. Experience animals up close through a variety of activities and explore the special bond between humans and animals. You can get to know the animals, learn about their personalities and needs, and practice respectful interaction. These experiences offer memorable moments for families, children, and anyone wanting to engage actively with animals in a natural setting."
-  },
+  "subcategory": "Animal experiences",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "3H3A9510",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ab1fe69814e964f37a91355e0c8542bd.JPG"
-    },
-    {
-      "alternativeText": "4-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0fe5001503b835ac4b631d59ded2167f.jpeg"
-    },
-    {
-      "alternativeText": "20210611_110419",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/25ff1510e277e1f553cd3aa7910dc1d3.jpg"
-    },
-    {
-      "alternativeText": "Red Kite (4)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0025c1496cb0a6b10edc958a5f3a9c84.JPG"
-    },
-    {
-      "alternativeText": "Ptarmigan (5)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ff8abefcc15c69dcfcf11fd64e633ffe.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

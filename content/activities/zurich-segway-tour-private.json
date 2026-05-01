@@ -5,17 +5,9 @@
   "description": "Discover Zurich Segway Tour private in Switzerland.",
   "longDescription": "Discover Zurich Segway Tour private in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "96",
-    "title": "Segway",
-    "slug": "segway",
-    "description": "Book a tour with the Segway and explore the city. With the maneuverable Segway, you can get to many places on a guided city tour that would not be accessible with a tour bus. At the same time, the visited radius is much larger than on a city tour on foot. The minimum age to ride a Segway in Switzerland is 14 years."
-  },
+  "subcategory": "Segway",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Segway tour in Zurich with an engaging team and great outdoor group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_HB_Adventure_ad1bc543a4.jpg"
-    },
-    {
-      "alternativeText": "Segway Tour Zurich: Experience exciting tours through the city with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_2_HB_Adventure_jpg_ccc6884258.jpg"
-    },
-    {
-      "alternativeText": "Segway Tour Zurich: Experience the city on two wheels and discover the surroundings in an exciting way.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_4_HB_Adventure_jpg_d6a05e4d5e.jpg"
-    },
-    {
-      "alternativeText": "Segway Zurich: Experience an exciting Segway tour through the city with views of nature and group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_3_HB_Adventure_jpg_3fa495d086.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

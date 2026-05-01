@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: The Knights of Count Bero\" Outdoor Escape Game Beromünster in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: The Knights of Count Bero\" Outdoor Escape Game Beromünster in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-beromunster",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f0e9567d3dc028a64c067bf139dc150d.jpg"
-    },
-    {
-      "alternativeText": "find-the-code-map-beromuenster-standard",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f559b8ed1495f05b01db57ca0cfc892.jpg"
-    },
-    {
-      "alternativeText": "group-hk-front-running",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/008ce29f2bec7bfc3175c04d72057105.jpg"
-    },
-    {
-      "alternativeText": "find-the-code-map-b-beromuenster-standard",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a08825fa4dab719bdb440e6917eaf90.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe_88_edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a8fe65d0855d4f6dab7ed30761fcf6a7.jpg"
-    },
-    {
-      "alternativeText": "group_sideways_happily_discussing-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/21adf6f4d2105e506ec9bc769d6d6fc4.jpg"
-    },
-    {
-      "alternativeText": "Group_hk_File_Daniel_puzzle_solved_party-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2c2be030b976888d4a2167c55bab658f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Swiss Mountain Training 2 Avalanche Course 2 days from Zermatt in Switzerland.",
   "longDescription": "Discover Swiss Mountain Training 2 Avalanche Course 2 days from Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "116",
-    "title": "Avalanche course",
-    "slug": "avalanche-course",
-    "description": "Find the right avalanche course for you with us. An avalanche course helps save lives. Under the expert guidance of a course instructor, you learn which typical avalanche situations exist and when they occur. You train the correct carrying and use of the avalanche transceiver (LVS). In an avalanche course you acquire the knowledge to prepare yourself correctly for freeride skiing off-piste and thus minimize your own risk. You will learn how to probe and dig out in case of emergency and at the end of the course you will be able to perform a simple rescue."
-  },
+  "subcategory": "Avalanche course",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,13 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Avalanche course: Experience a guided winter adventure in Zermatt with experienced mountain guides.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lawinenkurs_Zermatters_2_ccb6c219f9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "mountain",

@@ -5,17 +5,9 @@
   "description": "Discover Waterfall tour around the Engstligen waterfalls in Switzerland.",
   "longDescription": "Discover Waterfall tour around the Engstligen waterfalls in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,23 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Wasserfallrundgang Swiss Finance Institute 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/54d35597bbbc1988319f3754042a013e.jpg"
-    },
-    {
-      "alternativeText": "01 Wasserfall  752 Kb",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/266ca69728b758c422633342083e90bd.jpg"
-    },
-    {
-      "alternativeText": "Wasserfall 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/385e043a94014adbf48ed2e5dc33d947.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "waterfall"

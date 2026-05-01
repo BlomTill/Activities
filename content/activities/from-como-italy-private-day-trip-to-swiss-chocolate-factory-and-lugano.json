@@ -5,17 +5,9 @@
   "description": "Discover From Como (Italy): Private Day Tour to Chocolate Factory and Lugano in Switzerland.",
   "longDescription": "Discover From Como (Italy): Private Day Tour to Chocolate Factory and Lugano in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "455",
-      "title": "Italy"
-    },
+    "region": "Italy",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "IMG_0077",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c45d7b95014c6fce372382ad7c36cb29.jpg"
-    },
-    {
-      "alternativeText": "PHOTO-2026-02-16-17-57-02 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66f3cdb452d09ecd454b86a80af5d08f.jpg"
-    },
-    {
-      "alternativeText": "PHOTO-2026-02-16-17-57-02 3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a14e97732c876a6833a4a7b1ce7601a2.jpg"
-    },
-    {
-      "alternativeText": "PHOTO-2026-02-16-17-57-02",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/beba01428b2029a65dea6370268b9a9f.jpg"
-    },
-    {
-      "alternativeText": "shutterstock_286092629",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e2ca20c0ed81218032aebccb145a274.jpg"
-    },
-    {
-      "alternativeText": "shutterstock_796609777",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/51fc9390a7cb29dae7188139230b72ac.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

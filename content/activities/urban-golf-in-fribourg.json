@@ -5,17 +5,9 @@
   "description": "Discover Urban Golf in Fribourg in Switzerland.",
   "longDescription": "Discover Urban Golf in Fribourg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "64",
-    "title": "Golf",
-    "slug": "golf",
-    "description": "Discover your exceptional place for golf and book right here. Green meadows on remote high valleys, behind them the mountains and a view of the beautiful lake landscape. What could be better than playing golf in the middle of it all? You will find well-kept golf courses everywhere in Switzerland. You can practice your tee shot in the vastness of the Engadine, in Lavaux with a view over the Vaud Alps or in Grindelwald in front of an impressive mountain panorama."
-  },
+  "subcategory": "Golf",
   "location": {
-    "region": {
-      "id": "197",
-      "title": "Fribourg region"
-    },
+    "region": "Fribourg region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "2021_Urban Golf_PierreCuony (8)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2e705bfd82afe65222038add7bb1de2b.jpg"
-    },
-    {
-      "alternativeText": "2021_Urban Golf_PierreCuony (96)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1ac4093d35acf5bf6d9fe22f125c3a5c.jpg"
-    },
-    {
-      "alternativeText": "ST_2x3_Freiburg-City-Golf_116812",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8cbc3a011d07d518835b85c0559af715.jpg"
-    },
-    {
-      "alternativeText": "ST_3x2_Freiburg-City-Golf_116800",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b70a05e8741a28712f0a1f8eeaeebef1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

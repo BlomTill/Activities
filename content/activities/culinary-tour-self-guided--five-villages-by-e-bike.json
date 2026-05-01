@@ -5,17 +5,9 @@
   "description": "Discover Self-guided bike or e-bike tour from Chur incl. lunch in three restaurants in Switzerland.",
   "longDescription": "Discover Self-guided bike or e-bike tour from Chur incl. lunch in three restaurants in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,38 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Cycling in the Old Town. Two cyclists are checking a map in front of historical buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/radfahren_altstadt_andreabadrutt_3_192f0b91de.jpg"
-    },
-    {
-      "alternativeText": "Bridge Chur Haldenstein with cyclists on the bike tour in autumn",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bruecke_Chur_Haldenstein2_03e679fc6b.jpg"
-    },
-    {
-      "alternativeText": "Culinary Tour Bündner Herrschaft: Cyclists on the path along the river in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kulinarik_Tour_Buendner_Herrschaft_9_2_4c0d69dfa6.jpg"
-    },
-    {
-      "alternativeText": "Cycling Rhine Valley: Cyclist on gravel path in green landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/radfahren_rheintal_trimmiser_mittelweg_arminbearth_1_f2d3b6375a.JPG"
-    },
-    {
-      "alternativeText": "Cycling in the Rhine Valley, bike tour, cyclists, green landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/radfahren_rheintal_trimmiser_mittelweg_arminbearth_6_3c92825755.JPG"
-    },
-    {
-      "alternativeText": "City panorama in South Tyrol in summer, with vineyards and mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/sehenswuerdigkeit_panorama_sommer_yvonnebollhalder_21_845af9624c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

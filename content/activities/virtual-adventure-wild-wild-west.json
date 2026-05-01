@@ -5,17 +5,9 @@
   "description": "Discover \"Wild Wild West \" Virtual Adventure in Zofingen in Switzerland.",
   "longDescription": "Discover \"Wild Wild West \" Virtual Adventure in Zofingen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Wild Wild West: Experience virtual adventures in the historic frontier with graphics and interactive elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/94d6677488b77a015235310e0f078d06.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: exciting team game with VR technology and creative interaction indoors",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/478c34f92a13b9d4edf96dd5c3c4566a.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Experience the Wild Wild West with impressive scenery and exciting adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/94b26988db122f988f6ff93d6d35d223.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Amazing VR experience with friends in a stylish environment and exciting challenges",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/98a216995b58dd6594c7a08c769d26d6.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Explore the Wild Wild West experience world with exciting adventures and interactive activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/af1469a25f78cd3c227abdf950dea4ef.jpg"
-    },
-    {
-      "alternativeText": "Wild Wild West: Discover a fascinating Western town with old buildings and an authentic atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dae4874c1298b00365148a1b313ce881.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Experience the Wild Wild West flair in this authentic Western scene with cowboy characters.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2d6ada4ee0ff93ca459f46003b255888.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Experience an exciting playing field with interactive challenges for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/98b00b11d4d70337dddc99fcc6405cdb.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Experience virtual play in a creative, urban environment with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0d1a416ab66484bd07550afca5278b9e.jpg"
-    },
-    {
-      "alternativeText": "Wild Wild West: Discover the exciting atmosphere of an old Western saloon with rustic wooden furniture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/afb64ef9132b73ed024ef205aad47599.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventure: Engaged team in a cozy room, ideal for group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/19350ce8d31deec7e057efe3e5ccd018.jpg"
-    },
-    {
-      "alternativeText": "Virtual Adventures: Players experience interactive challenges in an exciting environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/47f68ed4898780e6d9807b27a538abbd.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "adventure"

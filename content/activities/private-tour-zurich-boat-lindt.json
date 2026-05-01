@@ -5,17 +5,9 @@
   "description": "Discover Private Tour Zurich City, Boat Trip and Lindt Home of Chocolate in Switzerland.",
   "longDescription": "Discover Private Tour Zurich City, Boat Trip and Lindt Home of Chocolate in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Zürich Ausblick",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da306d2898a0abb75a6b61d228a09445.jpg"
-    },
-    {
-      "alternativeText": "Gäste",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3ba2a841a76221fb70952da12b8bb93e.jpg"
-    },
-    {
-      "alternativeText": "Lindt Home of Chocolate",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/93fc39892d63966c2d794c56a4423a8e.jpg"
-    },
-    {
-      "alternativeText": "Gäste",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/123c40440604528e20ff42fdbf4babb1.jpg"
-    },
-    {
-      "alternativeText": "am Bürkliplatz",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50b6a0682d800eef08ef4d8f4c8b5fa8.jpg"
-    },
-    {
-      "alternativeText": "Lindt Home of Chocolate",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc76be59ad5311f18eea70baf75b4735.jpg"
-    },
-    {
-      "alternativeText": "Zürich Innenstadt",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5225d7707cf757d66981a7179bc69a14.jpg"
-    },
-    {
-      "alternativeText": "Zürich",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d80c7417aa468f4a1bf8330d33c231d6.jpg"
-    },
-    {
-      "alternativeText": "Limmat",
-      "caption": "Tagesausflug ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8eca99e8605eb9627527818031a3b023.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

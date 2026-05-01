@@ -5,17 +5,9 @@
   "description": "Discover Sea kayak barbecue tour on Lake Lucerne in Switzerland.",
   "longDescription": "Discover Sea kayak barbecue tour on Lake Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "26",
-    "title": "Kayak",
-    "slug": "kayak",
-    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
-  },
+  "subcategory": "Kayak",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Sea kayak tour on Lake Lucerne with friends in red kayaks against a mountain backdrop.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e49e9becefee398cd79234e9d3c4f3a2.JPG"
-    },
-    {
-      "alternativeText": "Kayak Grill Tour: Grilling in nature with sausages and potatoes in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/10193dd6fc6f3177a16f4f7a2e68f5fa.jpg"
-    },
-    {
-      "alternativeText": "Sea kayaking on Lake Lucerne, surrounded by mountains, ideal for group and family outings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/28f7c44400486c13e7cb01baaf0795b3.JPG"
-    },
-    {
-      "alternativeText": "Kayak tour on Lake Lucerne with surrounding mountains and refreshing activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6c19dc681ea869a01d811c1b8bf1a8a6.JPG"
-    },
-    {
-      "alternativeText": "Sea Kayak Grill Tour: freshly grilled delicacies in nature during a shared adventure",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/53835fb54524b844db822b60b6a05ec2.jpg"
-    },
-    {
-      "alternativeText": "Sea kayak on Lake Lucerne, kayaking in nature, relaxed barbecue tour for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07797d736de9d255f48acb423b52de30.JPG"
-    },
-    {
-      "alternativeText": "Kayak tour on Lake Lucerne with impressive mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/18444beab685d502123ca0e507b64722.JPG"
-    },
-    {
-      "alternativeText": "Sea kayak: kayaks on Lake Lucerne in nature, ideal for groups and adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b1bd28bb548b929bcecda55c9fa4a48d.jpg"
-    },
-    {
-      "alternativeText": "Sea Kayak: Kayaks on Lake Lucerne in summer, idyllic landscapes and holiday vibes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/150c12a7acf38cb9f799e7ac67cdbd3b.jpg"
-    },
-    {
-      "alternativeText": "Sea kayaking on Lake Lucerne with an impressive view of the mountains and the sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5407b447c725c74d1ffdca5d4af4a0ad.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

@@ -5,17 +5,9 @@
   "description": "Discover \"Tatort\" crime role play at your desired location for large groups in Switzerland.",
   "longDescription": "Discover \"Tatort\" crime role play at your desired location for large groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Tatort",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/95aab029758d81864316dddd2329ec54.jpg"
-    },
-    {
-      "alternativeText": "Tatort",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/94fa7fc542b0ea1fd37454c24f17fce9.jpg"
-    },
-    {
-      "alternativeText": "Tatort",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3d3635236a23e01ac4a112d2b4ce4740.jpg"
-    },
-    {
-      "alternativeText": "Tatort",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/202d12699d5dec553bacc95b42e53fec.jpg"
-    },
-    {
-      "alternativeText": "Tatort",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d610af1796bc124643455b9f55ce131.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

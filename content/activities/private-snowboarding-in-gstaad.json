@@ -5,17 +5,9 @@
   "description": "Discover Private Snowboard Lessons in Gstaad in Switzerland.",
   "longDescription": "Discover Private Snowboard Lessons in Gstaad in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "02 IMG_20230219_161935",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/35f0e4a89b04e3ab7a53b9df1a560d19.jpg"
-    },
-    {
-      "alternativeText": "03-20230114-WA0003 (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e9c6034f01b2e32f0c4caf36da0ece5.jpg"
-    },
-    {
-      "alternativeText": "01 RICO1572",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d6b8d884fdc1f84d54beb9f5f52c4bf2.JPG"
-    },
-    {
-      "alternativeText": "SAM_4594",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eea1e0b854ddd08f03963b9df0630e6e.JPG"
-    },
-    {
-      "alternativeText": "2013-11-20 no.029 P1150506",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6edb163a1bfdaabc0c651ef9b2dd1e32.JPG"
-    },
-    {
-      "alternativeText": "IMG_20241225_152225",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e92b40cfb969a8bbe38f51c2d3989ec3.jpg"
-    },
-    {
-      "alternativeText": "IMG_20241225_152417",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b5114831030396e622f50b9ef1ebe03f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

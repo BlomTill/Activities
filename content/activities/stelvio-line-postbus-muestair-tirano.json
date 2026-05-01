@@ -5,17 +5,9 @@
   "description": "Discover Stelvio line Postbus from Müstair or Tirano in Switzerland.",
   "longDescription": "Discover Stelvio line Postbus from Müstair or Tirano in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "141",
-    "title": "Postbus",
-    "slug": "postbus",
-    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
-  },
+  "subcategory": "Postbus",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Postbus on the Stelvio line with impressive mountain scenery and winding roads.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05_Stelvio_Linie_2_7920951efe.jpg"
-    },
-    {
-      "alternativeText": "Postbus on the Stelvio Line, spectacular curves and breathtaking nature in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_Stelvio_Linie_7b634d1ff0.jpg"
-    },
-    {
-      "alternativeText": "Stelvio Pass: experience breathtaking alpine landscapes with mountains and valleys in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stelvio_Bormio_unsplash_5fbd53fdc2.jpg"
-    },
-    {
-      "alternativeText": "Stelvio Bormio: Winding road in the mountains with dramatic cloud scenery and rocky landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stelvio_Bormio_unsplash_688e07e563.jpg"
-    },
-    {
-      "alternativeText": "Stelvio: Winding mountain pass road in the Alps, surrounded by impressive mountains in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stelvio_unsplash_817abe4a35.jpg"
-    },
-    {
-      "alternativeText": "Stelvio Pass: breathtaking mountain landscape with green hills and winding roads in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stilfserjoch_unsplash_482e908845.jpg"
-    },
-    {
-      "alternativeText": "Umbrail Pass: impressive mountain landscape with green meadows and clouds, ideal for hiking",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Umbrailpass_pixabay_2d6b0cdd54.jpg"
-    },
-    {
-      "alternativeText": "Umbrail Pass: impressive mountain landscape with roads, ideal for hiking and nature experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Umbrailpass_am_Stilfserjoch_bb0138ed65.jpg"
-    },
-    {
-      "alternativeText": "Turin: View of the city, vineyards, and the Alps in the background. Ideal for city trips and nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/torino_pixabay_e536e903eb.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

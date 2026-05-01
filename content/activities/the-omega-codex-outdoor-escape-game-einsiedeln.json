@@ -5,17 +5,9 @@
   "description": "Discover \"The Omega Codex\" Outdoor Escape Game Einsiedeln in Switzerland.",
   "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game Einsiedeln in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5d6e3aa9a208edabaf4099ac7efb1cc5.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3ec023c3e10c5944b0fbba140af8e898.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4b61aac67ba7b68254f5775e767406ec.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/be6bfdf86b7709ec0bceae1d36cbafc3.png"
-    },
-    {
-      "alternativeText": "Einsiedeln",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/068013fd3e40126fa349e642e79b321e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

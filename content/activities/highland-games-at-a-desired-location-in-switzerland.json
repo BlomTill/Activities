@@ -5,17 +5,9 @@
   "description": "Discover Highland Games for groups in Switzerland.",
   "longDescription": "Discover Highland Games for groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "102",
-    "title": "Competition",
-    "slug": "competition",
-    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
-  },
+  "subcategory": "Competition",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Highland Games: Sack throwing on the lawn, participants in sportswear",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/abc_1368_eyecatcher_b6d5d3b179.jpg"
-    },
-    {
-      "alternativeText": "A participant throws an axe at a wooden target during the Highland Games 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/axtwerfen_klein_eyecatcher_0281050b63.jpg"
-    },
-    {
-      "alternativeText": "Scottish stone throw during the Highland Games 2023 outdoors",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_6762_86a0cce099.jpg"
-    },
-    {
-      "alternativeText": "Tossing sacks at the Highland Games in Scotland. A participant throws a heavy sack onto a meadow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/highlandgame1151_56c40e375d.jpg"
-    },
-    {
-      "alternativeText": "Group photo of participants of the Highland Games, who are cheering and wearing traditional kilts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/highlandgames_0037_1_6c0a2dd9f8.jpg"
-    },
-    {
-      "alternativeText": "Tug of war at the Highland Games 2023 in the Black Forest with several participants in traditional costumes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/highlandgames_0039_2209d5f77d.jpg"
-    },
-    {
-      "alternativeText": "Activity of throwing a wooden snake at the Highland Games in the mountains, 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/highlandgames_0091_1863e99b45.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

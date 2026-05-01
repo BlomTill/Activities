@@ -5,17 +5,9 @@
   "description": "Discover Beer Fun Competition at the Desired Location in Switzerland.",
   "longDescription": "Discover Beer Fun Competition at the Desired Location in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "102",
-    "title": "Competition",
-    "slug": "competition",
-    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
-  },
+  "subcategory": "Competition",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,78 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bierkisten stapeln",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4fd5dac10ec3d9ff284a102fd76fab7.jpg"
-    },
-    {
-      "alternativeText": "Bierhumpen stemmen",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b2fec2d4089e5a4c0549ada60accbd7f.jpg"
-    },
-    {
-      "alternativeText": "Bierfass rollen",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7077378e76d55f99f65ea855fc7af429.jpg"
-    },
-    {
-      "alternativeText": "Gruppe",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8787f4e73f1c6927881e4f8fdb275ed0.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50c2a8393f6fec635748535d46927a58.jpg"
-    },
-    {
-      "alternativeText": "Gruppe",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/52c734ca28da8fd22c82c1add948fc02.jpg"
-    },
-    {
-      "alternativeText": "Gruppe",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/12037835c8d1a26e6ac68ddf3f4d6e1e.jpg"
-    },
-    {
-      "alternativeText": "Gruppe",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26b5f43617b935dd123e37e1b2ce0f8c.jpg"
-    },
-    {
-      "alternativeText": "Gruppe",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0996c8a2cae4794c8c481c72341e5515.jpg"
-    },
-    {
-      "alternativeText": "Bierfass rollen",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c2aae5db47c6bafd3a9f62a154e3eb2c.jpg"
-    },
-    {
-      "alternativeText": "Bierhumpen stemmen",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7803eb9833de59551ae2c4777b104f22.jpg"
-    },
-    {
-      "alternativeText": "Bierfass rollen",
-      "caption": "Bier Fun",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/57c9fcda545f370ae597a7ac13c7fb3a.jpg"
-    },
-    {
-      "alternativeText": "Bierfass rollen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fd43cecb5e9bf82322ef38754665cf90.jpg"
-    },
-    {
-      "alternativeText": "Bierfass rollen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f08bf994570841e1b1de90c02503ac29.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

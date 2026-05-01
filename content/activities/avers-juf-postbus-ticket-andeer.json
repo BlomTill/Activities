@@ -5,17 +5,9 @@
   "description": "Discover Avers-Juf Postbus ticket from Andeer in Switzerland.",
   "longDescription": "Discover Avers-Juf Postbus ticket from Andeer in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "141",
-    "title": "Postbus",
-    "slug": "postbus",
-    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
-  },
+  "subcategory": "Postbus",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,53 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Andeer-Roflaschlucht: spectacular gorge with waterfall, rocks, and lush nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Andeer_Roflaschlucht_Switzerland_Tourism_Markus_Buehler_Rasom_74620cd726.jpg"
-    },
-    {
-      "alternativeText": "Postbus on picturesque road in the mountains with bike, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_postauto2_pixabay_086ce1f5a6.jpg"
-    },
-    {
-      "alternativeText": "Andeer-Roflaschlucht: impressive gorge with green forest and a rushing river in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Andeer_Roflaschlucht_Foto_Switzerland_Tourism_Markus_Buehler_Rasom_7fe72f1f3e.jpg"
-    },
-    {
-      "alternativeText": "Ice climbing in Ausserferrera: fascinating ice falls in the Alps, perfect winter sport for adventure seekers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ausserferrera_ice_climbing_Foto_Schweiz_Tourismus_Christof_Sonderegger_5c2b391696.jpg"
-    },
-    {
-      "alternativeText": "Avers: Snowy landscape with a charming house in the mountains. Ideal for winter adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Avers_Pixabay_0c20acefde.jpg"
-    },
-    {
-      "alternativeText": "Scenic winter landscape with church and mountains, ideal for nature lovers and hikers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/avers_Pixabay_8434d8fab8.jpg"
-    },
-    {
-      "alternativeText": "Nature: Beautiful landscape with water and mountains, ideal for hikes in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Juf_Pixabay_cd5f9a6478.jpg"
-    },
-    {
-      "alternativeText": "Landscape: impressive mountain landscape with green meadows and a blue sky in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Juf2_Pixabay_851ba6ce0d.jpg"
-    },
-    {
-      "alternativeText": "Aversertal: Charming house in Juf, ideal for winter holidays, surrounded by impressive mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_06_GR_Aversertal_Juf_2479419792.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

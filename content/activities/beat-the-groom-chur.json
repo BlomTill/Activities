@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the groom\" in Chur: action-packed stag party in Switzerland.",
   "longDescription": "Discover \"Beat the groom\" in Chur: action-packed stag party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Teambuilding: Celebrate the groom outdoors with fun activities and matching outfits with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_915b146e89.jpg"
-    },
-    {
-      "alternativeText": "Chur: beautiful old town with colorful houses and a romantic square at night",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/chur_unsplash_52635247ad.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Experience an exciting bachelor party adventure with friends outdoors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_7f6d904cf7.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Fun outdoor activity with friends on the lawn.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_809d54a5cb.jpg"
-    },
-    {
-      "alternativeText": "City view with historic buildings and vehicles in Switzerland, ideal for urban explorations.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/michael_loftus_1_MU_Yh_K_Uw_H7_A_unsplash_f84815e32c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

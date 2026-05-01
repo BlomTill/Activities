@@ -5,17 +5,9 @@
   "description": "Discover Boggera Canyoning Valle di Cresciano daily in Switzerland.",
   "longDescription": "Discover Boggera Canyoning Valle di Cresciano daily in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,78 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Swiss River Adventures 1Canyoning Tessin",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/374c2d65312b71f3c77f5f273340cd1a.JPG"
-    },
-    {
-      "alternativeText": "Canyoning: Experience exciting adventures in Ticino with watersports and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Canyonig_Ticino_Boggera_Foto_Swiss_River_Adventures_d4c3d93e20.jpg"
-    },
-    {
-      "alternativeText": "Canyoning-Boggera-Swiss-River-Adventures",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/21d624ba6cf7929f6ef8c9a03f2b5642.jpg"
-    },
-    {
-      "alternativeText": "Swiss River Adventures 2Canyoning Tessin",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d14b0c4617542c5e1dd7eaf7a7f9bd3f.JPG"
-    },
-    {
-      "alternativeText": "Swiss River Adventures Canyoning Tessin",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/632636b7620d1617efd8d522e0beadb9.JPG"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3a6733f201c08e158d5093fe0744eda.jpg"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (7)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3502cf1dd02ae14928ea1690dbb047a9.jpg"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (8)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99b0b0bbbdf71a0d39d0bdb441e2cfb6.jpg"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (26)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/550a9bf057c61afa7e379fb5069cd81c.jpg"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (23)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5a4514e13da88eac3f704d7c8e723e06.JPG"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (20)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fe5a3f416fb6859a1bc1fc1c483744c4.JPG"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (16)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fe36cc6112ce7263f050b7d878ced432.jpg"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (13)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ef25972fbb5eba5f6b8bab55e2278cb3.jpg"
-    },
-    {
-      "alternativeText": "Swiss River Adventures GmbH Canyoning Boggera (10)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0298f37af1e5e984869fdca28ba80e4c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

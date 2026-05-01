@@ -5,17 +5,9 @@
   "description": "Discover Bike tour with gourmet dinner from St. Moritz in Switzerland.",
   "longDescription": "Discover Bike tour with gourmet dinner from St. Moritz in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "58",
-    "title": "Mountain bike",
-    "slug": "mountain-bike",
-    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
-  },
+  "subcategory": "Mountain bike",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 bl gourmet 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/55e10afcad2b94c47aa814b69a038d79.jpg"
-    },
-    {
-      "alternativeText": "bl gourmet 3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/724b5ab4e60f000f4f23f98002ecc652.jpg"
-    },
-    {
-      "alternativeText": "bl 8",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c992e9ff1bc6ce48f60b699b57465db2.jpeg"
-    },
-    {
-      "alternativeText": "bl gourmet 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2dc5c5d41053875082ba4329a9f855e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "st.-moritz"

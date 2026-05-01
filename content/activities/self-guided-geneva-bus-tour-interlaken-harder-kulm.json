@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: Bus tour to Interlaken and Harder Kulm in Switzerland.",
   "longDescription": "Discover From Geneva: Bus tour to Interlaken and Harder Kulm in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Harder Kulm: Visitors on the platform overlooking Interlaken and the surrounding mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/harder_kulm_pixabay_088e6a53b8.jpg"
-    },
-    {
-      "alternativeText": "Harder Kulm: Panoramic view over Interlaken with mountain landscape and active leisure offerings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/interlaken_2390468_1920_dbe593fbd2.jpg"
-    },
-    {
-      "alternativeText": "Harder Kulm: beautiful view of the mountains and nature in Switzerland in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Harder_Kulm_unsplash_b603d4ea84.jpg"
-    },
-    {
-      "alternativeText": "Harder Kulm: Panoramic view of Lake Thun and the Alps, ideal for hiking and nature experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Harder_Kulm1_unsplash_c70260bc5d.jpg"
-    },
-    {
-      "alternativeText": "Harder Kulm: Panorama of Lake Thun and the surrounding mountains with low-hanging clouds.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ausblick_Harder_Kulm_Unterseen_unsplash_78943ea370.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Bustour Interlaken und Harder Kulm",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/87f878725deea47e9eb8a67f20f58c6c.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Bustour Interlaken und Harder Kulm",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6690c771a35a85ec9d1a3e1be087ef9d.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Bustour Interlaken und Harder Kulm",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6965cf380a94c93834bcf989c7d61ccf.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Bustour Interlaken und Harder Kulm",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0882c2ae3eb6344fdf6cfcadd928c917.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Bustour Interlaken und Harder Kulm",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/317e0b28b7bdd81bae35ef87b79abed8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

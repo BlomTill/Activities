@@ -5,17 +5,9 @@
   "description": "Discover \"Jungle Quest\" virtual reality game in Lucerne in Switzerland.",
   "longDescription": "Discover \"Jungle Quest\" virtual reality game in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VRilliant Jungle Quest: Discover Fascinating Plants in a Virtual Jungle Adventure",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_3_e6eea70215.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: Experience an exciting adventure in the green, virtual jungle landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_1_648b3b0f42.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: Players experience thrilling adventures in virtual reality.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_3_e2b7ac02ef.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: Explore the green oasis with waterfall and lush nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_4_22d73c7f69.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: interactive VR experience with technology, adventure, and teamwork.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_1_a6949094e3.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: discover a rhinoceros in a lush jungle with green nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_10_ad743885bb.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: Experience adventures in a fantastical jungle world with stunning nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_8_396cec2ec9.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: four friends play virtual reality in comfortable chairs.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_8_a84ea54481.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: Discover the magical jungle world full of adventure and impressive nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_9_d69ed04562.jpg"
-    },
-    {
-      "alternativeText": "VRilliant Jungle Quest: Discover the mysterious pyramid in the jungle with exotic plants and animals.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Jungle_Quest_7_f861c745b1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

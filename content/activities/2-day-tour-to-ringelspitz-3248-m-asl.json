@@ -5,17 +5,9 @@
   "description": "Discover 2-day tour to Ringelspitz (3248 m asl) in Switzerland.",
   "longDescription": "Discover 2-day tour to Ringelspitz (3248 m asl) in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "caa18e866973e2304afbfcc90225e544",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/23760831f0f51b835808f5761ebcbe6f.jpg"
-    },
-    {
-      "alternativeText": "abe3248e109ec86d5f85e6b093a26f17",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48c25dfad8c2075e3d4d8badc62a0de7.jpg"
-    },
-    {
-      "alternativeText": "8d83c710e199fcc88885aa3de837a459 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24bd361b2387221e4bd312bfba780df1.jpg"
-    },
-    {
-      "alternativeText": "0f61f5027aa5c2f47ba74c030bbf20ba",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/528e7c474e1911718aca60daadeae77a.jpg"
-    },
-    {
-      "alternativeText": "17d759bbdc6febe4255aa0dc24738adf",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a8cc70abbdd9ce1b8f0620b0092f634.jpg"
-    },
-    {
-      "alternativeText": "8f82253ea4a9e5ffa72a5139547c9172",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fddfa8ab1a547bd3181c17b96be96031.jpg"
-    },
-    {
-      "alternativeText": "77a1968a28f2c0304916524b2f1a813b",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d4b570e1d86f714c1b550d26d73395c1.jpg"
-    },
-    {
-      "alternativeText": "24138baac3cdfe6d8c1ab77835ba051f",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8f3e9e4e30fc03c2438abb540b3f3dce.jpg"
-    },
-    {
-      "alternativeText": "f530bda51ebae7c3df5d4351d64a21b5",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/38f8418c86b22aa51f0d3a0f1d81b412.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

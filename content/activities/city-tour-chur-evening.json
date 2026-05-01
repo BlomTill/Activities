@@ -5,17 +5,9 @@
   "description": "Discover City tour Chur evening in Switzerland.",
   "longDescription": "Discover City tour Chur evening in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chur City Tour with Evening Lighting and Lanterns",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Abendfuehrung_Chur_Chur_Tourismus_jpg_79aec45320.jpg"
-    },
-    {
-      "alternativeText": "Evening tour in Chur with a cheerful woman holding a lantern.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1_Abendfuehrung_Chur_Chur_Tourismus_jpg_e575b4474f.jpg"
-    },
-    {
-      "alternativeText": "Evening tour Chur with participants under lights",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2_Abendfuehrung_Chur_Chur_Tourismus_jpg_84c8d43851.jpg"
-    },
-    {
-      "alternativeText": "Night city tour of Chur with lanterns in hand.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4_Abendfuehrung_Chur_Chur_Tourismus_jpg_1348e18fe5.jpg"
-    },
-    {
-      "alternativeText": "Chur city tour by evening lighting, historical buildings, participants with lanterns.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5_Abendfuehrung_Chur_Chur_Tourismus_jpg_f346b66af9.jpg"
-    },
-    {
-      "alternativeText": "Evening City Tour Chur with Lanterns in Hand",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Abendfuehrung_Chur_Chur_Tourismus_ff515c36c1.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

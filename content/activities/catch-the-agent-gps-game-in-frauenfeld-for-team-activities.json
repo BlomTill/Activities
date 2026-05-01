@@ -5,17 +5,9 @@
   "description": "Discover \"Catch the Agent\" GPS game in Frauenfeld for team activities in Switzerland.",
   "longDescription": "Discover \"Catch the Agent\" GPS game in Frauenfeld for team activities in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Team beim Spiel",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8b554ae8c04fa53c1944d32d83c34233.jpg"
-    },
-    {
-      "alternativeText": "Team beim Spiel",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4b04186b243cc13fbbc9640afadc16be.jpg"
-    },
-    {
-      "alternativeText": "Team beim Spiel",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4fbdcb50a0a97e2bd52de2292edba54b.jpg"
-    },
-    {
-      "alternativeText": "Team beim Spiel",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bd9704423992b95fd44a86a31102591c.jpg"
-    },
-    {
-      "alternativeText": "7 - Action E",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24926548237542bf3622d4e76aec81b9.jpg"
-    },
-    {
-      "alternativeText": "Team beim Spiel",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c56dab5f35220dbf83bd1f90c7bc61f3.jpg"
-    },
-    {
-      "alternativeText": "Karte",
-      "caption": "Escape Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/07e645a51a1c4ccce83dc7f5ce362cf8.PNG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

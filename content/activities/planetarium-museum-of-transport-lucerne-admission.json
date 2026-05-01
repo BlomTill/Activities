@@ -5,17 +5,9 @@
   "description": "Discover Planetarium Museum of Transport Lucerne Admission in Switzerland.",
   "longDescription": "Discover Planetarium Museum of Transport Lucerne Admission in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "51",
-    "title": "Museums",
-    "slug": "museums",
-    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
-  },
+  "subcategory": "Museums",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Planetarium Verhehrshaus Lucerne with audience in the digital hall.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Planetarium_Verhehrshaus_Luzern_456e76bf5b.jpg"
-    },
-    {
-      "alternativeText": "Planetarium Live at the Transport Museum with visitors under a blue sky projection",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_015412ee834639a87cc9161f96cbbd00_5723155a3c.jpg"
-    },
-    {
-      "alternativeText": "Cinema hall visitors relaxed with headphones in blue lighting",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_003b8bf50a7775a50deaa2dfed4ec524_7ef907a628.jpg"
-    },
-    {
-      "alternativeText": "Astronaut during moon landing conducting ground research on the moon",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mondlandung_Verkehrshaus_Luzern_ee5713b357.jpg"
-    },
-    {
-      "alternativeText": "Planetarium Earth shows the blue planet with clouds and oceans",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Planetarium_Erde_Verhehrshaus_Luzern_92f7f9b742.jpg"
-    },
-    {
-      "alternativeText": "Space Exhibition at the Planetarium Lucerne with Astronaut",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Planetarium_Luzern_647c84a54c.jpg"
-    },
-    {
-      "alternativeText": "Universe Transport Museum. Children are observing the moon at night.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weltall_Verkehrshaus_4fb3741f4b.jpg"
-    },
-    {
-      "alternativeText": "Planetarium 360-Degree Experience with a View of Earth.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Planetarium_360_ded498fc10.jpg"
-    },
-    {
-      "alternativeText": "Planetarium Verhehrshaus Lucerne presents live astronomy featuring constellations.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Visual_Plani_live_Verhehrshaus_Luzern_7d097d89a6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "museum",

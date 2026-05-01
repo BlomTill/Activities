@@ -5,17 +5,9 @@
   "description": "Discover In Lausanne: Riviera bus tour with Chaplin’s World, Montreux, and Chillon in Switzerland.",
   "longDescription": "Discover In Lausanne: Riviera bus tour with Chaplin’s World, Montreux, and Chillon in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,78 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Lavaux",
-      "caption": "Bustour Riviera mit Chaplin’s World, Montreux und Chillon  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/956df5452a74d1a8404fa7278e2c2cbc.jpg"
-    },
-    {
-      "alternativeText": "Chaplin's World: Experience the fascinating world of Charlie Chaplin with creative exhibitions in modern spaces.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e1bdc2f33fe3fda6c967b65ae8268f6f.jpg"
-    },
-    {
-      "alternativeText": "Chaplin's World: A Fascinating Day Trip into the World of Charlie Chaplin.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bd4cb6fd1b92afccab15f971c84ed0e3.jpg"
-    },
-    {
-      "alternativeText": "Chaplin’s World ",
-      "caption": "Bustour Riviera mit Chaplin’s World, Montreux und Chillon ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c7dd926cb43fc8c85aaa21bf7582c06b.jpg"
-    },
-    {
-      "alternativeText": "Chaplin’s World ",
-      "caption": "Bustour Riviera mit Chaplin’s World, Montreux und Chillon  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d125941e6e9d29fca7d826012854e21d.jpg"
-    },
-    {
-      "alternativeText": "Chillon Castle: romantic day trip at the Riviera on Lake Geneva with mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0e107855d1762a87966fc8816219d027.jpg"
-    },
-    {
-      "alternativeText": "Day trip Riviera: picturesque view of Montreux on Lake Geneva with colorful flowers and mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/59d196baeec9955f7c6632c12dcfd6fa.jpg"
-    },
-    {
-      "alternativeText": "Riviera: Picturesque landscape at Lake Geneva with Chillon Castle and vineyards in the surrounding area.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dd9b0666208354f5a4af0c47409e1bbe.jpg"
-    },
-    {
-      "alternativeText": "Chillon Castle: impressive water and nature panorama on the Riviera of Switzerland",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c429ccb652d34001a143afc01aff2775.jpg"
-    },
-    {
-      "alternativeText": "Riviera: Beautiful view of Montreux houses, lake, and mountains in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/23dd1f77651b1fea5ad0401abe58d1d9.jpg"
-    },
-    {
-      "alternativeText": "Montreux",
-      "caption": "Bustour Riviera mit Chaplin’s World, Montreux und Chillon  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ff1058a2abe6ce89c1115e4deb06ac6c.jpg"
-    },
-    {
-      "alternativeText": "Schloss Chillon",
-      "caption": "Bustour Riviera mit Chaplin’s World, Montreux und Chillon  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/029cf4c3aee33362adea61aac85de5f7.jpg"
-    },
-    {
-      "alternativeText": "Lavaux",
-      "caption": "Bustour Riviera mit Chaplin’s World, Montreux und Chillon  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc03bdc6c0fba3f59172b2a82d3f55b6.jpg"
-    },
-    {
-      "alternativeText": "Schloss Chillon",
-      "caption": "Bustour Riviera mit Chaplin’s World, Montreux und Chillon  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ab0af4e6cec6041e4f9682499200717.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lausanne"

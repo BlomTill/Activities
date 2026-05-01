@@ -5,17 +5,9 @@
   "description": "Discover Davos paragliding tandem in Switzerland.",
   "longDescription": "Discover Davos paragliding tandem in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,53 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Paragliding in Davos: Experience the freedom of paragliding in the Swiss mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_529919a2c61ec187798c093d4c3669d4_a2f74da50c.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Davos: Experience breathtaking winter views during exciting flights. Perfect for adventure seekers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_900x600_1_50_3ddbe19b3c6d961babc197784e005009_47d031eef6.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Davos with a view of the impressive Swiss mountain landscape in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_0a9fecf506c9ba8e7b9575833123ac99_8842ce1c11.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Davos: enjoy the view of the mountains and nature while paragliding with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_3f4a67aec0ffad4b5018a1a19a3f6d23_0bf5d5d568.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Davos: Experience the thrill of flying over the mountains in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_20b78937c238f7bf5d4fb092178653f5_92e83e5e77.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Davos: Experience flying over the Alps with a fantastic view of the mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_32d43f20364feeb558709f8c944993de_4767b49c56.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Davos: experience flying over snow-covered mountains and the winter landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_32d899957cd756419a486a497f34a347_6f36b370cc.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Davos: enjoy the view of the breathtaking landscape and the green meadows.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_81a8d9fb5bd4de3535317c37c26d1f1f_ec6aa316cc.jpg"
-    },
-    {
-      "alternativeText": "Paragliding in Davos: The Fascination of Flying with Friends in the Swiss Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_a6ffa8d60e87d2d922b2e5de938d1b87_f95375f868.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding",

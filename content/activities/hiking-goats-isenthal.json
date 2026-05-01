@@ -5,17 +5,9 @@
   "description": "Discover Hiking with goats in Isenthal in Switzerland.",
   "longDescription": "Discover Hiking with goats in Isenthal in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,53 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Goat trekking in Isenthal: Experience unforgettable hikes with goats in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Isenthal_1_Foto_Honigberg_9fe23f2a2e.jpg"
-    },
-    {
-      "alternativeText": "Goat trekking in Isenthal: Experience an unforgettable hike with goats in nature during summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Isenthal_4_Foto_Honigberg_8de68200c8.jpg"
-    },
-    {
-      "alternativeText": "Goat trekking in the Alps: Discover the impressive nature on a guided hike with goats.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ziegentrekking_1_Honigberg_4d468b4a68.jpeg"
-    },
-    {
-      "alternativeText": "Goat trekking in Isenthal: Experience the wonderful nature and the mountains with friends and kids.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Isenthal_6_Foto_Honigberg_4227ef6cf9.JPG"
-    },
-    {
-      "alternativeText": "Goat trekking in Isenthal: Discover the beautiful winter landscape with animals and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Isenthal_7_Foto_Honigberg_4de6c5463a.JPG"
-    },
-    {
-      "alternativeText": "Goat trekking in Isenthal with goats in a picturesque mountain landscape in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Isenthal_8_Foto_Honigberg_7ecd476d90.JPG"
-    },
-    {
-      "alternativeText": "Goat trekking in Isenthal: Experience nature and mountains with friendly goats and adventurous companions.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Isenthal_9_Foto_Honigberg_f63a32f2ac.JPG"
-    },
-    {
-      "alternativeText": "Goat trekking: Experience hiking in the majestic mountains with goats in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ziegentrekking_2_Honigberg_f4b2b62267.JPG"
-    },
-    {
-      "alternativeText": "Goat trekking in summer in the mountains, experience unforgettable adventures with animals and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ziegentrekking_3_Honigberg_b369709a16.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "hiking"

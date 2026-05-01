@@ -5,17 +5,9 @@
   "description": "Discover Snowshoe Adventure in the Swiss Alps in Switzerland.",
   "longDescription": "Discover Snowshoe Adventure in the Swiss Alps in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "23",
-    "title": "Snowshoeing",
-    "slug": "snowshoeing",
-    "description": "Rent your snowshoes here or book a guided tour with or without fondue fun. In the past, snowshoes were the usual means of transportation in snowy areas. The weight is distributed over a larger area, making it easier for the snowshoe wearer to walk through deep snow. Today, snowshoeing is a popular winter sport that can be done in the mountains but also guided or individually at lower altitudes."
-  },
+  "subcategory": "Snowshoeing",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Snowshoeing in Interlaken, winter landscape with snow-covered mountains and fir trees",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuhlaufen_Interlaken_Outdoor_Interlaken_1479d8f228.jpg"
-    },
-    {
-      "alternativeText": "Guided snowshoe tour in Interlaken with participants on a snowy path.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gefuehrte_Schneeschuhtour_Outdoor_Interlaken_a34e7aa402.jpg"
-    },
-    {
-      "alternativeText": "Two women in winter clothing snowshoeing in Interlaken, snow and mountains around them.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuh_Tour_Outdoor_Interlaken_2de35bd5a9.jpg"
-    },
-    {
-      "alternativeText": "Snowshoeing in the Jungfrau Region with snow-covered mountains and forests",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schneeschuhlaufen_Jungfrauregion_Outdoor_Interlaken_c0fc938019.jpg"
-    },
-    {
-      "alternativeText": "Fun-in-the-Snow with Snowshoes in Interlaken 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spass_im_Schnee_Schneeschuhe_Outdoor_Interlaken_f0a6b37593.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "adventure"

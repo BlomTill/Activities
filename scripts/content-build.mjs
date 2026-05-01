@@ -107,7 +107,15 @@ function parseExportedArray(filePath, exportName) {
 }
 
 function safeRecreate(dir) {
-  rmSync(dir, { recursive: true, force: true });
+  // Try to wipe + recreate; if rm fails due to file permissions in
+  // sandboxed dev environments, just ensure the dir exists and let
+  // writeFileSync overwrite individual files in place.
+  try {
+    rmSync(dir, { recursive: true, force: true });
+  } catch (e) {
+    if (e?.code !== "EPERM" && e?.code !== "EACCES") throw e;
+    console.warn(`safeRecreate: cannot rm ${dir} (${e.code}); overwriting files in place`);
+  }
   mkdirSync(dir, { recursive: true });
 }
 

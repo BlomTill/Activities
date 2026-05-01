@@ -5,17 +5,9 @@
   "description": "Discover SUP in Gstaad and Rougemont in Switzerland.",
   "longDescription": "Discover SUP in Gstaad and Rougemont in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "39",
-    "title": "Stand up paddle",
-    "slug": "stand-up-paddle",
-    "description": "Book your SUP tour with an experienced guide or rent your SUP equipment. Stand-up paddling has become a way of life in Switzerland and has experienced a real surge in popularity in recent years. There are already quite a few SUP spots on several lakes and rivers. For example, you can find SUP schools on Lake Biel, Lake Brienz and Lake Lucerne, just to name a few."
-  },
+  "subcategory": "Stand up paddle",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,13 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "ski school Rougemont Lac Gruyère 23-min",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/57c1043180d3b0dd1320f62f0360281d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

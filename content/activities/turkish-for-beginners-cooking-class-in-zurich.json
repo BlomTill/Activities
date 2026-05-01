@@ -5,17 +5,9 @@
   "description": "Discover \"Turkish for Beginners\" Cooking Class in Zurich in Switzerland.",
   "longDescription": "Discover \"Turkish for Beginners\" Cooking Class in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "61",
-    "title": "Cooking course",
-    "slug": "cooking-course",
-    "description": "Choose your special cooking class from various topics and book it here. Whether alone, as a couple or in a group, a cooking class expands all the senses and is a welcome change for the busy everyday life. Often it's about discovering an unknown or particularly exotic cuisine and learning new tricks. Of course, the subsequent enjoyment of the created masterpiece may not be missing."
-  },
+  "subcategory": "Cooking course",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Image 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a6c07b3398794b999d75d3fcbf3b98bb.jpg"
-    },
-    {
-      "alternativeText": "Image 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ce4ee9202abed14fd600c309e8e6c4b2.jpg"
-    },
-    {
-      "alternativeText": "20250429-BR7A3326",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f96821f0c236703188a3a20a0cabf40.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

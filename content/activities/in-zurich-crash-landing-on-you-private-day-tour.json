@@ -5,17 +5,9 @@
   "description": "Discover In Zurich: \"Crash Landing on You\" Private Day Tour in Switzerland.",
   "longDescription": "Discover In Zurich: \"Crash Landing on You\" Private Day Tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Crash Landing Swiss Magic Tours (7)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/45c68e658c031a65cc7e8e08a53b66d4.jpg"
-    },
-    {
-      "alternativeText": "01 Crash Landing Swiss Magic Tours (6)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ea42365476ab985a349340d42b937793.jpg"
-    },
-    {
-      "alternativeText": "02 Crash Landing Swiss Magic Tours (2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cb1dad2c95c2c0670a2f66d81a882fe3.jpg"
-    },
-    {
-      "alternativeText": "03 Crash Landing Swiss Magic Tours (8)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b4905fad139ed207f8c4ba94e9d5986b.jpg"
-    },
-    {
-      "alternativeText": "04 crash landing Swiss Magic Tours (9)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2093fdfbfece53adca5ce4bb5da13ad3.jpg"
-    },
-    {
-      "alternativeText": "crash landing Swiss Magic Tours (5)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48cf1aa49806a2bce35ae5b96b83e14d.jpg"
-    },
-    {
-      "alternativeText": "06 Crash Landing Swiss Magic Tours (3)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1d4cbab5497e1784de302632da60d08d.jpg"
-    },
-    {
-      "alternativeText": "05 Crash Landing Swiss Magic Tours (4)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc0d00bd18db820c5eb3ee8f6a6fa8a2.jpg"
-    },
-    {
-      "alternativeText": "crash landing Swiss Magic Tours (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ca1a6b514debbfc26edf3699e45f148d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"The Keepers\" Outdoor Escape Game Baden in Switzerland.",
   "longDescription": "Discover \"The Keepers\" Outdoor Escape Game Baden in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "6 The Keepers_Gameplay",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8aa4fd2e7e7e0623f7d4527d29197281.jpg"
-    },
-    {
-      "alternativeText": "5 The Keepers_Gameplay",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/33d892dc8f3a09e1e8b3095436ba5373.jpg"
-    },
-    {
-      "alternativeText": "1 The Keepers Pyramid",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/46736df9e5850787e5b936ba9f06dde7.jpg"
-    },
-    {
-      "alternativeText": "7 TheKeepers Gameplay",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02b490aba213b3dc43e9fad0e4b758f0.jpg"
-    },
-    {
-      "alternativeText": "escape-room-baden-banner",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc2e29964faa3364e0696dcf65b030cd.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

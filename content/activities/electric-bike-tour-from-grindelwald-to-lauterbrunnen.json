@@ -5,17 +5,9 @@
   "description": "Discover Private e-bike tour from Grindelwald to Lauterbrunnen in Switzerland.",
   "longDescription": "Discover Private e-bike tour from Grindelwald to Lauterbrunnen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "48",
-    "title": "E-bike",
-    "slug": "e-bike",
-    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
-  },
+  "subcategory": "E-bike",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,73 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "0595B42B-77DF-468D-A820-DE7E2AA7CF0E",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9905ea9dbed4e90d723aefa8d8e5f07.jpg"
-    },
-    {
-      "alternativeText": "IMG_3719",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5579df9a7894648eed285bed95405a06.jpg"
-    },
-    {
-      "alternativeText": "IMG_5761",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b792650a1bb3fd7edccc149f2227b52d.jpg"
-    },
-    {
-      "alternativeText": "IMG_3374",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/93550c8ed2690835059f374cf90e5f00.jpg"
-    },
-    {
-      "alternativeText": "IMG_3232",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9bab8402ba9dfd11bd1ef2004e961973.jpg"
-    },
-    {
-      "alternativeText": "IMG_3009",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f8cccd4ba72b08a8a475fd8e4b88dabd.jpg"
-    },
-    {
-      "alternativeText": "IMG_8748",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/92a3a5d2a1178c32c56340a363d9b410.jpg"
-    },
-    {
-      "alternativeText": "IMG_8754",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8e0623a4560b08e29e9d76bb00dfdbe3.jpg"
-    },
-    {
-      "alternativeText": "IMG_9469",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3c4780ff697daf42322f388a99ae372.jpg"
-    },
-    {
-      "alternativeText": "IMG_9575",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aa5013a97c6117e4d8d8ee7a5de9cbef.jpg"
-    },
-    {
-      "alternativeText": "IMG_6426",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/947a01f889930a46c0f1874126318db0.JPG"
-    },
-    {
-      "alternativeText": "IMG_0097",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3b5398556d0ecf2a1485c3c05d891ea1.jpg"
-    },
-    {
-      "alternativeText": "IMG_9575",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/00b9d7ac2810fb189e825d2b53cb6022.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

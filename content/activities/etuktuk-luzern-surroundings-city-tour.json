@@ -5,17 +5,9 @@
   "description": "Discover \"Lucerne and its surroundings\" - city tour by tuk tuk in Lucerne in Switzerland.",
   "longDescription": "Discover \"Lucerne and its surroundings\" - city tour by tuk tuk in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Tuk Tuk: Ride service on the pier with picturesque background and lively hustle and bustle.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1d2696da706c0a332ca653acc13382a6.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk on the road, perfect for adventure trips and explorations in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3a6b1eba9757c0332b5254f6c1149d23.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: Overview of the city, Lake Lucerne, summer, picturesque architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06637d255634fea1e565d54ce75127ad.jpg"
-    },
-    {
-      "alternativeText": "Tuk Tuk: Discover exciting city tours at Schwanenplatz in Zurich with friends and family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b5053d35ab78f7db49a9556b8ded9b44.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

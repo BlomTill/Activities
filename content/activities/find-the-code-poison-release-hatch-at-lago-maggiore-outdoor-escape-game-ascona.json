@@ -5,17 +5,9 @@
   "description": "Discover \"Find the Code: Poison Release Hatch at Lago Maggiore\" Outdoor Escape Game Ascona in Switzerland.",
   "longDescription": "Discover \"Find the Code: Poison Release Hatch at Lago Maggiore\" Outdoor Escape Game Ascona in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-ascona",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/32cfcadf5165c8b08c959f85a4bd79ac.jpg"
-    },
-    {
-      "alternativeText": "group-photo-hk-flowers-file-phone-neutral",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0cd52b6265e3e34688f51f843946f31c.jpg"
-    },
-    {
-      "alternativeText": "photoshoot-karlsruhe-88-edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c9ce9390ece1d3d95874214c5433b970.jpg"
-    },
-    {
-      "alternativeText": "group_across_side_happily_talking-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e071da6bac4dde481573a0ffe16800fb.jpg"
-    },
-    {
-      "alternativeText": "group-photo-happy-front",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5d6d59b4868dcf969f14bb10bfd66a0f.jpg"
-    },
-    {
-      "alternativeText": "Map_Ascona_2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/42ff47abb97596a8cf675f4e8db9fd09.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

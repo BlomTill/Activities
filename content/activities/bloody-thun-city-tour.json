@@ -5,17 +5,9 @@
   "description": "Discover “Bloody Thun”: public city tour in Switzerland.",
   "longDescription": "Discover “Bloody Thun”: public city tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,38 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "City tour Thun with bloody stories in the evening light.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_blutiges_Thun_4_Thun_Thunersee_Tourismus_b708246b4e.jpeg"
-    },
-    {
-      "alternativeText": "Colorful houses and shops in the old town of Thun with flowers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stadtfuehrung_blutiges_Thun_1_Thun_Thunersee_Tourismus_995f35f75b.jpeg"
-    },
-    {
-      "alternativeText": "Thun City Tour: Discover the exciting history and culture of the city of Thun in the summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Trekksoft_Stadtfuehrung_Altstadtfuehrung_Quai_Jon_Keller_Schlosskirche_obere_Schleuse_Sommer_2022_mikekaufmann_10_7ada6b7011.jpg"
-    },
-    {
-      "alternativeText": "Thun Castle: an impressive landmark in the mountains of Switzerland, surrounded by nature and city life.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schloss_August_16_LR_c46f16f6d8.jpg"
-    },
-    {
-      "alternativeText": "Thun Castle: impressive silhouette at sunset, framed by mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schloss_Thun_4_Thomas_Wyser_fce0dd2d00.jpg"
-    },
-    {
-      "alternativeText": "thun-castle",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fd3abc91ca74f33fb8dd7900956e622c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

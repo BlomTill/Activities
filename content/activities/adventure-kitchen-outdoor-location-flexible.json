@@ -5,17 +5,9 @@
   "description": "Discover Adventure Kitchen (Outdoor Kitchen) at a location of your choice in Switzerland.",
   "longDescription": "Discover Adventure Kitchen (Outdoor Kitchen) at a location of your choice in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kochen in der Natur über offenem Feuer",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/26760c2a609b61de670ada299fde9635.jpg"
-    },
-    {
-      "alternativeText": "Kochen in der Natur",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/56a8e87129eacc46b3702fe85dbfda8c.jpg"
-    },
-    {
-      "alternativeText": "Kochen in der Natur",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/17560c4c515f505a08b182eff140cf16.jpg"
-    },
-    {
-      "alternativeText": "Kochen in der Natur",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/00b48097fda55f37120267f393c45b7c.jpg"
-    },
-    {
-      "alternativeText": "Kochen in der Natur",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f93c66bb2e7a4e4b2c828c11fd1b591.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "adventure"

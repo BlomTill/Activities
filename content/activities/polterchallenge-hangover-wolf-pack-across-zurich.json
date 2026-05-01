@@ -5,17 +5,9 @@
   "description": "Discover Polterchallenge \"Hangover - Wolf Pack\" across Zurich in Switzerland.",
   "longDescription": "Discover Polterchallenge \"Hangover - Wolf Pack\" across Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Wolf Pack Zurich 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e93ae0e211a702baf1d436f9dff7827f.jpg"
-    },
-    {
-      "alternativeText": "Wolf Pack Zurich 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2e13947d4388c40a6c277c1e75a703d5.jpg"
-    },
-    {
-      "alternativeText": "Zürich Wolf Pack 3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8ccd8900bbdbfe94b455360fd36b2d66.jpg"
-    },
-    {
-      "alternativeText": "Wolf Pack Zurich 4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a285c519179d4649cc7a7b29dc5eaad1.jpg"
-    },
-    {
-      "alternativeText": "Women and men in Zurich",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22c55aeaf159b0b485bedc0c3897fa68.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

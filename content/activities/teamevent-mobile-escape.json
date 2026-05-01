@@ -5,17 +5,9 @@
   "description": "Discover Mobile Escape for team events across Switzerland in Switzerland.",
   "longDescription": "Discover Mobile Escape for team events across Switzerland in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Trinkglasrätsel",
-      "caption": "Mobile Escape  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bbb45cee9c52070f89bd19ca92f7a059.jpg"
-    },
-    {
-      "alternativeText": "Treppenrätsel",
-      "caption": "Mobile Escape  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b3f5990f710f6f784c15eaf652a5427a.jpg"
-    },
-    {
-      "alternativeText": "Knacknuss",
-      "caption": "Mobile Escape  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e6a0c9732590416b6fb7100b324e7cf.jpg"
-    },
-    {
-      "alternativeText": "Team beim Rätseln",
-      "caption": "Mobile Escape  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d1f22dcf8f05fa5199e29f07f3e2168d.jpeg"
-    },
-    {
-      "alternativeText": "Team beim Rätseln",
-      "caption": "Mobile Escape  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4a1d3be3da7faa6c12345314218d0890.jpeg"
-    },
-    {
-      "alternativeText": "Rätselraum",
-      "caption": "Mobile Escape  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/18645bef5fcac3b6f1ec84a453cd0869.jpeg"
-    },
-    {
-      "alternativeText": "Kiste",
-      "caption": "Mobile Escape  ",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e818bb17a5e60f85417d5a28720aabe3.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

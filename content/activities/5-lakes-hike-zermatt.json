@@ -5,17 +5,9 @@
   "description": "Discover 5 Lakes Hike Zermatt in Switzerland.",
   "longDescription": "Discover 5 Lakes Hike Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,38 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Matterhorn: Reflection in clear water, surrounded by mountains and green grass in the Swiss Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_joris_beugels_Zsko_Ze_A6_Qws_unsplash_b2f5cb12bb.jpg"
-    },
-    {
-      "alternativeText": "5-Lake-Hike: Running Man in front of the Matterhorn in Winter, Mountain and Nature Experience",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/image00001_Zermatters_c4c8086019.jpeg"
-    },
-    {
-      "alternativeText": "5-Lakes-Hike: tranquil lake in the Alps with mountain panorama in Zermatt, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/pascal_debrunner_a_H5_IW_8y_Hs2_Q_unsplash_1_93502007c8.jpg"
-    },
-    {
-      "alternativeText": "Matterhorn: impressive mountain landscape at the 5-Lake hike in Zermatt in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/angelo_burgener_S1_E5_Qx2luy_A_unsplash_7d1b2328eb.jpg"
-    },
-    {
-      "alternativeText": "Zermatt: picturesque view of the Matterhorn and the lake in the summer landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto_Zermatters_39831a67ea.jpg"
-    },
-    {
-      "alternativeText": "5-Lakes-Hike: beautiful scenery with reflecting waters and impressive mountains in Zermatt.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Foto1_Zermatters_4de9d08f11.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

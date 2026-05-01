@@ -5,17 +5,9 @@
   "description": "Discover Geneva city tour by bus, mini-train and boat in Switzerland.",
   "longDescription": "Discover Geneva city tour by bus, mini-train and boat in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,78 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Globe sculpture in Geneva reflects the multicultural atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international1_2048_10_555df15cd3.jpg"
-    },
-    {
-      "alternativeText": "Flags in front of the UN headquarters in Geneva, clear view, green lawn",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSD_0415_3b2654c063.JPG"
-    },
-    {
-      "alternativeText": "Geneva city tour with a view of the building in the park",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ariana_FGTC_Olivier_Miche_1_828893dc86.JPG"
-    },
-    {
-      "alternativeText": "Bains des Paquis with women by the water, Geneva in sunshine",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Congres_Bains_des_Paquis_Jet_d_Eau_1_5752c244f7.jpg"
-    },
-    {
-      "alternativeText": "Geneva city with historic buildings and mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Geneva_from_the_sky_5fd19be91e.jpg"
-    },
-    {
-      "alternativeText": "Giant Chess in Geneva, a person moves a piece on an outdoor chessboard.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Giant_Chess_f799e564db.jpg"
-    },
-    {
-      "alternativeText": "Flower Clock in Geneva, blooming flowers, time display, park-like surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Horloge_Fleurie_5a3e03ff96.jpg"
-    },
-    {
-      "alternativeText": "Big Chair in Geneva, visitors are chatting, peaceful surroundings with flags",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international5_2048_10_e01a1e3a27.jpg"
-    },
-    {
-      "alternativeText": "Geneva city tour with views of the UN and jumping water fountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international8_2048_10_6e9343edb7.jpg"
-    },
-    {
-      "alternativeText": "Fountain in Geneva with rainbow and boat in the water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_parks_and_residences5_2048_10_219f7b4e37.jpg"
-    },
-    {
-      "alternativeText": "Jet d'Eau Geneva with boat and people on the waterfront promenade",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mouettes_Jet_d_Eau_cfdef25053.jpg"
-    },
-    {
-      "alternativeText": "Hotel Parc des Eaux-Vives with guests in the park, walk on the meadow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Restaurant_Hotel_Parc_des_Eaux_Vives_1_478cf4657b.jpg"
-    },
-    {
-      "alternativeText": "Cruise",
-      "caption": "Genf City Tour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fbc17d0244bdc919e8a9b1918dadf2fa.jpg"
-    },
-    {
-      "alternativeText": "Cruise",
-      "caption": "Genf City Tour",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7cef10684700324495b99391d1c113f4.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat",

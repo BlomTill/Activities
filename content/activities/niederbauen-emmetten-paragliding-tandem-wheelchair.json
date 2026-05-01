@@ -5,17 +5,9 @@
   "description": "Discover Niederbauen-Emmetten Paragliding Tandem in Switzerland.",
   "longDescription": "Discover Niederbauen-Emmetten Paragliding Tandem in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "34",
-    "title": "Paragliding",
-    "slug": "paragliding",
-    "description": "Book your next paragliding trip in Switzerland here. During a tandem flight you can admire incredible landscapes from a bird's eye view. Hotspots for paragliding are Interlaken, Central Switzerland and the Engadine. But also in Valais there are some breathtaking launch sites. After a few quick steps you are in the air and can enjoy the surroundings while your tandem pilot ensures a safe flight."
-  },
+  "subcategory": "Paragliding",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,63 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "SkyGlide Paragliding: Experience paragliding over Lake Lucerne with a spectacular view.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0094475_3f7e71c841.jpg"
-    },
-    {
-      "alternativeText": "SkyGlide: Paragliding over Lake Lucerne, an ideal activity in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0038701_706451faa3.JPG"
-    },
-    {
-      "alternativeText": "SkyGlide: Paragliding over Lake Lucerne with views of the surrounding landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_4728_e2e88f400c.JPG"
-    },
-    {
-      "alternativeText": "SkyGlide: Paragliding over Lake Lucerne, ideal view of mountain landscapes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0048707_d213225b18.JPG"
-    },
-    {
-      "alternativeText": "SkyGlide: Experience paragliding over Lake Lucerne with friends and spectacular views of the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GOPR_0583_9671181073.jpeg"
-    },
-    {
-      "alternativeText": "SkyGlide Paragliding: Experience Lake Lucerne and the mountain landscape while paragliding.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GOPR_0738_da237317ec.jpeg"
-    },
-    {
-      "alternativeText": "SkyGlide Paragliding: Experience Lake Lucerne and the breathtaking landscape from a bird's-eye view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GOPR_2457_00cedcc286.jpeg"
-    },
-    {
-      "alternativeText": "SkyGlide Paragliding: Soar over Lake Lucerne and enjoy an unforgettable view of the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GOPR_2989_6798f37d0d.jpeg"
-    },
-    {
-      "alternativeText": "SkyGlide: Paragliding over Lake Lucerne with a view of the mountains and the blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GOPR_3741_36ffb7eec7.jpeg"
-    },
-    {
-      "alternativeText": "SkyGlide Paragliding: Experience Lake Lucerne from the air with unforgettable views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GOPR_5201_aaecd7ef16.jpeg"
-    },
-    {
-      "alternativeText": "SkyGlide Paragliding over Lake Lucerne with an exciting view of mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/GOPR_8160_4647afdac5.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "paragliding"

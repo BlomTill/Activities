@@ -5,17 +5,9 @@
   "description": "Discover \"Operation Pizza Margherita\" Escape Room Winterthur in Switzerland.",
   "longDescription": "Discover \"Operation Pizza Margherita\" Escape Room Winterthur in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Pizza Margherita",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e1833026d661b3637cb95fc83ce166ab.jpg"
-    },
-    {
-      "alternativeText": "Pizza Margherita",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b6e77b483a046b8aeb61c24bf7bfa72a.jpg"
-    },
-    {
-      "alternativeText": "Pizza Margherita",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02cf6f4b9dfc5663dd9112439acaa4f4.jpg"
-    },
-    {
-      "alternativeText": "Pizza Margherita",
-      "caption": "Escape Room",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dcc1f4619b00dc9b511b788187657cb6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Archery with overnight stay in the tipi village in Switzerland.",
   "longDescription": "Discover Archery with overnight stay in the tipi village in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30614",
-    "title": "Shooting and Throwing Sports",
-    "slug": "shooting-and-throwing-sports",
-    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
-  },
+  "subcategory": "Shooting and Throwing Sports",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Blick aus dem Tipi",
-      "caption": "Tipidorf mit Übernachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e3e3800566389c1eb47dbbbbf578a03a.jpg"
-    },
-    {
-      "alternativeText": "Bogenschiessen",
-      "caption": "Tipidorf mit Übernachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cc750be3c37e30dd0db6e7427e852a1e.jpg"
-    },
-    {
-      "alternativeText": "Tipidorf",
-      "caption": "Tipidorf mit Übernachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/241fd3a463e493726436a6b626a5b7a7.jpg"
-    },
-    {
-      "alternativeText": "Tipidorf",
-      "caption": "Tipidorf mit Übernachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3168bc88c508b35150dd0e2318ee54af.jpg"
-    },
-    {
-      "alternativeText": "Schiessen",
-      "caption": "Tipidorf mit Übernachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/54c6329632fcd1ae10743d2d96c43d17.jpg"
-    },
-    {
-      "alternativeText": "Schiessen",
-      "caption": "Tipidorf mit Übernachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66d9601a34e4fb911ab1fa247a678d90.jpg"
-    },
-    {
-      "alternativeText": "Schiessen",
-      "caption": "Tipidorf mit Übernachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/688a6d21bba2ba02236404a613165fbe.jpg"
-    },
-    {
-      "alternativeText": "Schiessen",
-      "caption": "Tipidorf mit Übernachtung",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb61705cd5239995905c643e014c4fe0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover \"The Valley\" Tour Kemptthal in Switzerland.",
   "longDescription": "Discover \"The Valley\" Tour Kemptthal in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "The Valley: modern buildings in the city with a glass front and sunshine, ideal for urban lifestyle.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_The_Valley_2023_Copyright_Ivo_Scholz_28cfe6978f.jpg"
-    },
-    {
-      "alternativeText": "The Valley: old factory site in Winterthur with historic buildings and railway tracks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_The_Valley_Tour_d8803737b3.jpg"
-    },
-    {
-      "alternativeText": "The Valley: Explore Winterthur on a city tour with interesting sights.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_The_Valley_tour_keyvisual_7c77d2ea35.jpg"
-    },
-    {
-      "alternativeText": "Valley: Aerial view of the city of Winterthur with surrounding nature and architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Valley_2022_Birdview_Copyright_Ivo_Scholz_846f8f83ff.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Culinary hike “Horugüet” in Zermatt in Switzerland.",
   "longDescription": "Discover Culinary hike “Horugüet” in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kulinarisches Erlebnis",
-      "caption": "Horogüet",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f5be04c90166ecfddf6c14ed56f78790.jpeg"
-    },
-    {
-      "alternativeText": "Kulinarische Wanderung",
-      "caption": "Horogüet",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2f5940eefc2a32f229a952d78185602d.jpeg"
-    },
-    {
-      "alternativeText": "Kulinarische Wanderung",
-      "caption": "Horogüet",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16620047de99ad4f9950d06f6d824222.jpg"
-    },
-    {
-      "alternativeText": "Kulinarische Wanderung",
-      "caption": "Horogüet",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e150520eb7e10c2aab68a54f9a2bd4fd.jpg"
-    },
-    {
-      "alternativeText": "Kulinarische Wanderung",
-      "caption": "Horogüet",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0fa4cc451afa8dd0a6a68ee20135949c.jpg"
-    },
-    {
-      "alternativeText": "Kulinarische Wanderung",
-      "caption": "Horogüet",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/032eeab80849f5ac14528d7b0a7d60d9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

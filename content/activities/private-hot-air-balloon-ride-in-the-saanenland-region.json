@@ -5,17 +5,9 @@
   "description": "Discover Private Hot Air Balloon Ride in the Saanenland Region in Switzerland.",
   "longDescription": "Discover Private Hot Air Balloon Ride in the Saanenland Region in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "44",
-    "title": "Ballooning",
-    "slug": "ballooning",
-    "description": "Book a hot air balloon ride in Switzerland. Since the first balloon went up over Basel in 1788, ballooning has been one of the most special experiences. You float almost silently over the mountains, lakes or cities and can see the world from a bird's eye view. You will enjoy views and a silence that you can only enjoy in a balloon. In good weather, balloon flights are possible all year round."
-  },
+  "subcategory": "Ballooning",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "hot-air-balloon-balloonride-panorama-alps-7-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/88692c085be9874e242f9ec2ef3653d6.jpg"
-    },
-    {
-      "alternativeText": "HotAirBalloon_BalloonRide_Panorama Alps_3 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c3b36378d13e6bf3ad212e512fc48a05.jpg"
-    },
-    {
-      "alternativeText": "hot-air-balloon-ballooning-panorama-alps-8-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3964aee8d36f985799755e2d73c47712.jpeg"
-    },
-    {
-      "alternativeText": "hot-air-balloon-balloon-ride-panorama-alps-9-1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/acd7f5d4358dc1c981bc454b81b816f1.jpeg"
-    },
-    {
-      "alternativeText": "Hot-air-balloon_Balloon-riding_Panorama_Alps_11 (1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06f7b5d56738a5ab756bec03d99434e6.jpeg"
-    },
-    {
-      "alternativeText": "Hot-air-balloon_Ballooning_Panorama_Alps_15_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5c5563e5cc632843f7577152fb83c496.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover From Interlaken: Private ascent of Augstmatthorn with a Swiss triathlete in Switzerland.",
   "longDescription": "Discover From Interlaken: Private ascent of Augstmatthorn with a Swiss triathlete in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "FullSizeRender",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1f21132f6c1e4eab08761c9807993162.jpg"
-    },
-    {
-      "alternativeText": "IMG_8594",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f4481fa62a58add5114c1a207968b6d.jpg"
-    },
-    {
-      "alternativeText": "IMG_8599",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41eb2d59b53e74fe099e347309ae6db8.jpg"
-    },
-    {
-      "alternativeText": "FullSizeRender(1)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2d3131203dd14270a1f149fe75c45252.jpg"
-    },
-    {
-      "alternativeText": "FullSizeRender(2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/90fe63650b82adc61ca7b4f27961e407.jpg"
-    },
-    {
-      "alternativeText": "IMG_3283",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/54fb1880e599536e07680d4468ddd84e.jpg"
-    },
-    {
-      "alternativeText": "IMG_4404_screenshot_1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/301eea23ae70a7d0814d160100b67b9e.jpg"
-    },
-    {
-      "alternativeText": "IMG_6904",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/281cbe7deef36644822ec395ff94862c.JPG"
-    },
-    {
-      "alternativeText": "IMG_6905",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99a331e247493453d77d3260f1715dc8.JPG"
-    },
-    {
-      "alternativeText": "IMG_8297_screenshot_10",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/557f269114fb7d7a34a12c9f4d1be361.jpg"
-    },
-    {
-      "alternativeText": "IMG_8297_screenshot_12(2)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5649a2757ca81339b130e754ac1d26bb.jpg"
-    },
-    {
-      "alternativeText": "IMG_8297_screenshot_14",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/111ef3602585fdfbedc763e2d1119e98.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

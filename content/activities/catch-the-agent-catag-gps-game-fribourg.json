@@ -5,17 +5,9 @@
   "description": "Discover \"Catch the Agent\" GPS game for team events in Fribourg in Switzerland.",
   "longDescription": "Discover \"Catch the Agent\" GPS game for team events in Fribourg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "197",
-      "title": "Fribourg region"
-    },
+    "region": "Fribourg region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Catch the Agent Fribourg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/530849161d753c03b17e0ccafff3dd98.jpg"
-    },
-    {
-      "alternativeText": "Fribourg: View of a quiet street with historic buildings and walkers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fribourg2_unsplash_65221f6391.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Catch the Agent Fribourg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2b58381e7bb05da01d944b74d4ee507b.jpg"
-    },
-    {
-      "alternativeText": "Fribourg: picturesque cityscape with residential buildings and lush greenery by the river.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fribourg1_unsplash_b5a4c973f7.jpg"
-    },
-    {
-      "alternativeText": "7 - Action E",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ef9829bb83cc3225af0969fb127baa38.jpg"
-    },
-    {
-      "alternativeText": "Plan",
-      "caption": "Catch the Agent Fribourg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2721c93387cdef6ba24cddf9703eee5f.PNG"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Catch the Agent Fribourg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd272da862c5c780298bcc4ca18bac03.jpg"
-    },
-    {
-      "alternativeText": "Spieler Gruppe",
-      "caption": "Catch the Agent Fribourg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9e35278525fbde9e12095bf68ba3cd49.jpg"
-    },
-    {
-      "alternativeText": "Spieler in Aktion",
-      "caption": "Catch the Agent Fribourg",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7977a4a4f45d2febd552423779319693.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

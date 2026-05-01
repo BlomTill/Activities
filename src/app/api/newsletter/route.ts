@@ -43,7 +43,7 @@ export async function POST(req: NextRequest) {
       email,
       audience_id: audienceId,
       unsubscribed: false,
-      metadata: { intent, source: "exploreswitzerland" },
+      metadata: { intent, source: "realswitzerland" },
     }),
   });
 

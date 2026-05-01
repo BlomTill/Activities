@@ -5,17 +5,9 @@
   "description": "Discover Guided hike to hidden gems in the Alps in Switzerland.",
   "longDescription": "Discover Guided hike to hidden gems in the Alps in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,138 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "urnerboden",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/91a343d8aab58013637a98cb99a401a0.JPG"
-    },
-    {
-      "alternativeText": "urmi1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/99063761cd03575d36376eee2895e700.jpg"
-    },
-    {
-      "alternativeText": "20230106_132523",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c69dc816ae34c846d2edc7a7aa419a62.jpg"
-    },
-    {
-      "alternativeText": "20250906_123504",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fddc94a75b60ef896b2bae2d15786c42.jpg"
-    },
-    {
-      "alternativeText": "c05bf21f-a806-45ba-afe9-f862d7368824",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5c2fb7d9434abc552a9462904ac2e7c7.jpg"
-    },
-    {
-      "alternativeText": "2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d57b51da0e6671078987692c5a9a54db.jpg"
-    },
-    {
-      "alternativeText": "15f9f6ce-1c1a-4e98-af96-af746731f379",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a82c703c874ca083d0a9c9a4a2b2940f.jpg"
-    },
-    {
-      "alternativeText": "0314137a-436a-4236-b830-6fba4152128e",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6bdeec1742baebba4f5642dc2ddf735c.jpg"
-    },
-    {
-      "alternativeText": "20230106_132523",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06affc4c32dbe167f8720203f49bff56.jpg"
-    },
-    {
-      "alternativeText": "20250524_131418",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9983700e5ef980b9fceff06ac46300c1.jpg"
-    },
-    {
-      "alternativeText": "20250524_155943",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4966a93b1e6d532e34128795ae64b38c.jpg"
-    },
-    {
-      "alternativeText": "20250609_132009",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a727f90c74638f2538704381cb7b2b74.jpg"
-    },
-    {
-      "alternativeText": "20250614_165435",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ed894b408587ea1c4882e14612f711a.jpg"
-    },
-    {
-      "alternativeText": "20250621_110007",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d2da3ef62964481ba76844fb396b447c.jpg"
-    },
-    {
-      "alternativeText": "20250906_124835",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16ed3217328aeda7e37d7eba55e915d2.jpg"
-    },
-    {
-      "alternativeText": "20250907_163648",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ed8556291189e33ee437b20207237321.jpg"
-    },
-    {
-      "alternativeText": "20250907_175554",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/42847952481b8c9f274dfdd12ea6a682.jpg"
-    },
-    {
-      "alternativeText": "20250920_150529",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/96e7d1b2116aee1e15e308497f9d2f72.jpg"
-    },
-    {
-      "alternativeText": "20251227_132435",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/295125ec9e89cdc42da30f46c0b21a26.jpg"
-    },
-    {
-      "alternativeText": "20260107_133142",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4d485e35ddbb8a9497aad6ff15800b8c.jpg"
-    },
-    {
-      "alternativeText": "20260118_141416",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aabdfd702216a310cefccfbbfe60dbe2.jpg"
-    },
-    {
-      "alternativeText": "20260118_144819",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/808264077e3f0ce09acf56bba3d4dfd0.jpg"
-    },
-    {
-      "alternativeText": "braunwald1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e81c6194baad7ca274da11db62d49869.jpg"
-    },
-    {
-      "alternativeText": "cover",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cdb515cb1bec43ab0ee0dc41ce24a75f.jpg"
-    },
-    {
-      "alternativeText": "swiss-travel-blog",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7eba151694c8abc24964c3680a2ffdda.jpg"
-    },
-    {
-      "alternativeText": "TriftGroup_Photo",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7384dc78e59d4d559f7f7c7d7947004e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

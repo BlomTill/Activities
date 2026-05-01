@@ -5,17 +5,9 @@
   "description": "Discover L-39 Albatros jet flight in the Alps from Sion in Switzerland.",
   "longDescription": "Discover L-39 Albatros jet flight in the Alps from Sion in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "L39 Albatross over majestic mountain landscape during an adventurous flight.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_6017_4a935410e7.jpg"
-    },
-    {
-      "alternativeText": "L39 Albatros: Close-up of an aircraft in the air over the Alps with beautiful greenery in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_5989_ebc4627771.JPG"
-    },
-    {
-      "alternativeText": "L39 Albatros soars high above majestic mountains in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_6055_29d4533931.JPG"
-    },
-    {
-      "alternativeText": "L39 Albatros: Experience an exciting flight with various sports aircraft in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/HPQW_Tg8_Tf_Xn2_M_Pst_56f8bade4d.png"
-    },
-    {
-      "alternativeText": "L39 Albatros: impressive aircraft flies above the clouds in Sion, Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/l_39_jet_sion_switzerland_04_m_21_236da873df.jpg"
-    },
-    {
-      "alternativeText": "L39 Albatros: breathtaking view from the cockpit of the jet over Sion in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/l_39_jet_sion_switzerland_01_m_21_da9aa2ec6d.jpg"
-    },
-    {
-      "alternativeText": "L39 Albatros: Experience thrilling jet flights in Sion through the alpine landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sion_Fighter_Jet_Rides_b9f35346f2.jpg"
-    },
-    {
-      "alternativeText": "L39 Albatros: experience an exciting flight in winter over snow-covered mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/O_Yo_RO_0_C0_C_Fvi1_S9r_7d38361973.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

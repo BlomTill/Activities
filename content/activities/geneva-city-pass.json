@@ -5,17 +5,9 @@
   "description": "Discover Geneva City Pass in Switzerland.",
   "longDescription": "Discover Geneva City Pass in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "115",
-    "title": "City Pass",
-    "slug": "the-city-pass",
-    "description": "Find the right City Pass for your travel plans. With a City Pass you have the opportunity to save money on various attractions in a city. City Pass discounts are offered by different organizations and for different purposes. For example, they apply to transportation tickets, museums, attractions or sports activities. (Photo: Giglio Pasqua , Switzerland Tourism)"
-  },
+  "subcategory": "City Pass",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Photo 1 GVA City Pass Swiss Activities",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/108f65ba6afe602fbc724d95df7eaab7.jpg"
-    },
-    {
-      "alternativeText": "Photo 2 GVA City Pass Swiss Activities",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/461947c68f65cf999dec2179fe1cef1b.jpg"
-    },
-    {
-      "alternativeText": "Photo 3 GVA City Pass Swiss Activities",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/30e5c5cfa45b9eb1df6b3cdd468d4db1.jpg"
-    },
-    {
-      "alternativeText": "Photo 4 GVA City Pass Swiss Activities",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c9d9b4e3af6e40b4f31cc6decdff2578.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

@@ -5,17 +5,9 @@
   "description": "Discover Pub Crawl Nightlife Tour Zurich in Switzerland.",
   "longDescription": "Discover Pub Crawl Nightlife Tour Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Pub Crawl: Group with guide in Zurich for an exciting night tour, lots of fun and exploration.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ee398190bba60e706d8dcd5092cdf78a.jpg"
-    },
-    {
-      "alternativeText": "Pub Crawl: Group with guide in Zurich at night, partying in Bahnhofstrasse. Experience the nightlife.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/09fa4732151bd6624b958d7594f3d111.jpg"
-    },
-    {
-      "alternativeText": "Pub Crawl Zurich: Team with guide on an adventure in the city with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d7bff798e2057ff181851a61dec87f15.jpg"
-    },
-    {
-      "alternativeText": "Pub Crawl: Group with guide celebrates in Zurich with fun drinking games",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0fc0afff461c04d596dfc458ffc061d5.jpg"
-    },
-    {
-      "alternativeText": "Pub Crawl Zurich: Group with guide in cheerful mood and many participants in the nightlife.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/11ac387f7cee4068782f3e4e20ba8ce3.jpg"
-    },
-    {
-      "alternativeText": "Pub Crawls Zurich: Group with guide experiencing an exciting adventure in the city together.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/4c816f0f6ed53938a9fdb89820e916a8.jpg"
-    },
-    {
-      "alternativeText": "Pub Crawl Zurich: Group with Guide Celebrating in the City with Friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c85b5d98b4621c7d754f55ee48ab2ae2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

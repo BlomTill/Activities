@@ -5,17 +5,9 @@
   "description": "Discover In Zurich: Day trip to Interlaken and Jungfraujoch in Switzerland.",
   "longDescription": "Discover In Zurich: Day trip to Interlaken and Jungfraujoch in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,78 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Jungfraujoch: Experience the stunning views of the Swiss Alps in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d5f2970c353c6698779035d1844de2f1.JPG"
-    },
-    {
-      "alternativeText": "Jungfraujoch: impressive view of the Alps with snow and clear skies during winter activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d33145920495f8880852a98fd74d784f.jpg"
-    },
-    {
-      "alternativeText": "Jungfraujoch Alpine Sensation",
-      "caption": "Tour Interlaken und Jungfraujoch",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e67c2b2f69e4306b8703d9ee9425904c.jpg"
-    },
-    {
-      "alternativeText": "Jungfraujoch Eispalast",
-      "caption": "Tour Interlaken und Jungfraujoch",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8c8ee3d566fc52f2d1b91148f1dab29e.jpg"
-    },
-    {
-      "alternativeText": "Jungfraujoch Alpine Sensation",
-      "caption": "Tour Interlaken und Jungfraujoch",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ecee95ccb20f5f7fde562632a3b5190e.jpg"
-    },
-    {
-      "alternativeText": "Jungfraujoch: Snowy mountain landscape with breathtaking views of glaciers and peaks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/a31af93d863579bebdec9cc27910ec0b.jpg"
-    },
-    {
-      "alternativeText": "Jungfraujoch: enjoy the view of the impressive mountains and clouds on this day trip.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8fdad9b79e370fcbbac0461d4b40de9a.jpg"
-    },
-    {
-      "alternativeText": "Jungfraujoch",
-      "caption": "Tour Interlaken und Jungfraujoch",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e7bc09c9b2ac397ea90dbeefeebdeb22.jpg"
-    },
-    {
-      "alternativeText": "Jungfraujoch: Experience the journey with the Jungfrau Railway through the impressive mountains of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/df4c204c0713c7590b07293fb3be7814.JPG"
-    },
-    {
-      "alternativeText": "Interlaken: picturesque village with views of the mountains and the turquoise lake.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/92c283f154c2aa39d2b1ea3d388b400b.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Tour Interlaken und Jungfraujoch",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8d3494e6f10debb2fe965a39a2e425cc.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Tour Interlaken und Jungfraujoch",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/865ba765b9219f71f591df12b2983643.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Tour Interlaken und Jungfraujoch",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/56b4cbc39c533557f9b34fc96bb010c9.jpg"
-    },
-    {
-      "alternativeText": "Interlaken",
-      "caption": "Tour Interlaken und Jungfraujoch",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/436ee2b4177df7dc9db8103fc70dd77a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

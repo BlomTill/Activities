@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-Code: Thermal Springs in Danger\" Outdoor Escape Game Baden in Switzerland.",
   "longDescription": "Discover \"Find-the-Code: Thermal Springs in Danger\" Outdoor Escape Game Baden in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-baden",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3a511245e20f8d9e19956957b22a45b1.jpg"
-    },
-    {
-      "alternativeText": "group_sideways_happily-discussing-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1719fa671f758527f937c61fb37a1a79.jpg"
-    },
-    {
-      "alternativeText": "photoshoot_karlsruhe_88_edited",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c0caafbf92d0fb74b44b2a047b29f8f0.jpg"
-    },
-    {
-      "alternativeText": "Map-1 Baden",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e4e2f115a5e93bd10352213cd54a69f9.jpg"
-    },
-    {
-      "alternativeText": "Map-2 Baden",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/982bd4d4a238c30d52e8a75134d758d7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "thermal"

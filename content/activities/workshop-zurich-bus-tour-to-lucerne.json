@@ -5,17 +5,9 @@
   "description": "Discover Workshop Zürich: Bus tour to Lucerne in Switzerland.",
   "longDescription": "Discover Workshop Zürich: Bus tour to Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,53 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Luzern",
-      "caption": "Bustour nach Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f49a756fbab40cdf6c2a4e7e9d6ab08.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: picturesque city view with Chapel Bridge and water, ideal for excursions and relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b8e0ca06ca02c6dc0cdfff7c321c00fb.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: Picturesque lake view, historic architecture, gentle mountains, clear sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/2783b8e836141a9374f8e78b0aa59ab7.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: tranquil lake with wooden jetty, surrounded by snow-capped mountains and a picturesque landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c7dea7f645002c16bb4ff6a22a2b6cfb.jpg"
-    },
-    {
-      "alternativeText": "Bus tour to Lucerne: Boat trip with a view of the shoreline landscape of Lake Lucerne.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c154df2da6209ef66a964ba52bbb4aff.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: Historic architecture by the water with blooming flowers, ideal for group travel and adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9b3cc5963cc83033d03d9e89bc12014a.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: picturesque old town with bridge, river and historic buildings in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5c62fefe314003ca90719f889b144d26.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Bustour nach Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/20af7e1e79d79b236bd7975c08f72629.jpg"
-    },
-    {
-      "alternativeText": "Luzern",
-      "caption": "Bustour nach Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a9299a5f5415f6a5fe93cf7e65f7d7f6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zürich",

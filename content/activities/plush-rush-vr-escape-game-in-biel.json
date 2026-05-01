@@ -5,17 +5,9 @@
   "description": "Discover \"Plush Rush\" VR Game in Biel in Switzerland.",
   "longDescription": "Discover \"Plush Rush\" VR Game in Biel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Spielzeug",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4cc411529b17d588b1fa96bb29facc97.jpg"
-    },
-    {
-      "alternativeText": "Szene in Plush Rush",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8327f49db82b0a1c8072b953219f21a5.jpeg"
-    },
-    {
-      "alternativeText": "Szene in Plush Rush",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f787dd83ddf54b8a47b7a49b6ffd582a.jpg"
-    },
-    {
-      "alternativeText": "Plush Rush",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e7d546c8035fd0a2b6614057723cde72.jpg"
-    },
-    {
-      "alternativeText": "der Raum",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bc22b379cce0831f09b45389326dfcef.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

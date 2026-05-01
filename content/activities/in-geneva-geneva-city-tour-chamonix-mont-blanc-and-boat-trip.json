@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Geneva City Tour, Chamonix Mont Blanc, and Boat Trip in Switzerland.",
   "longDescription": "Discover In Geneva: Geneva City Tour, Chamonix Mont Blanc, and Boat Trip in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chamonix-Mont-Blanc: People in the river, surrounded by colorful flowers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village7_2048_10_347aaae3dc.jpg"
-    },
-    {
-      "alternativeText": "Statue in Chamonix shows visitors with a view of Mont Blanc. Snow covers the surroundings in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chamonix_Maxime_Coquard_1_bf86416bfc.jpg"
-    },
-    {
-      "alternativeText": "Chamonix Mont-Blanc with hotel, flowers, and mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_100_keytours_excursions_swisstours_chamonix_mont_blanc_village5_2048_1_0ee5159d1a.jpg"
-    },
-    {
-      "alternativeText": "Mont Blanc with peaks in the high mountains, radiant sunshine, clear sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Mont_Blanc_F_Bianchi_585899ae47.JPG"
-    },
-    {
-      "alternativeText": "Horloge Fleurie in Geneva shows colorful flowers with blooming garden",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Horloge_Fleurie_6e437392e9.jpg"
-    },
-    {
-      "alternativeText": "Globe in front of the international community center in Geneva. Clear weather, green grass, and water surface.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international1_2048_10_72aa8acf1d.jpg"
-    },
-    {
-      "alternativeText": "Building in Geneva with a water basin and garden in the background on a clear day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ariana_FGTC_Olivier_Miche_1_b4fce8a43c.JPG"
-    },
-    {
-      "alternativeText": "Women are sitting on the shores of Lake Geneva, enjoying the sun and water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Congres_Bains_des_Paquis_Jet_d_Eau_1_5889acfaee.jpg"
-    },
-    {
-      "alternativeText": "Fountain in front of the UN building in Geneva, surrounded by water fountains, with flags of the member states in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_200_Keytours_excursions_Swisstours_city_tour_of_geneva_international8_2048_10_2af46eccab.jpg"
-    },
-    {
-      "alternativeText": "Schiff Genfersee",
-      "caption": "Genf und Chamonix Mont-Blanc",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0bc288cc52e713441e7312db710f0451.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat",

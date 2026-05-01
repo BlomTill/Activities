@@ -5,17 +5,9 @@
   "description": "Discover City tour Basel by bus in Switzerland.",
   "longDescription": "Discover City tour Basel by bus in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Basel bus tour sightseeing trip by bus along the Rhine. Historical buildings and bridge visible.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_Basel_Bustour_Fluss_f1eb179a9e.jpg"
-    },
-    {
-      "alternativeText": "Basel bus tour with city bus on the way to the city center.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Basel_Bustour_Altstadt_Bus_bf73d7eb8d.jpg"
-    },
-    {
-      "alternativeText": "Basel bus tour, red bus, walk along the Rhine, spring-like weather",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Basel_Bustour_Parkplatz_Bus_4c9675a885.jpg"
-    },
-    {
-      "alternativeText": "Basel bus tour city tour in the city center with red bus in front of modern building",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Basel_Bustour_Bus_Bahnhof_8bae83d4de.jpg"
-    },
-    {
-      "alternativeText": "Basel Bus Tour Circuit, red bus tour, street view, clouds",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Basel_Bustour_Bus_5db8316d44.jpg"
-    },
-    {
-      "alternativeText": "Basel Bus Tour Round Trip with Red-Yellow Bus at Restaurant Ship",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05_Basel_Bustour_Bus_Kreisel_6fb4daea49.jpg"
-    },
-    {
-      "alternativeText": "Basel bus tour around the promenade",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/06_Basel_Bustour_Einsteigen_6d017973d7.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: bus tour to Annecy with city tour in Switzerland.",
   "longDescription": "Discover From Geneva: bus tour to Annecy with city tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,78 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1215f65f60399ffd077b16e48075c463.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/63b97ff904e1370a951cd8e0b8761b94.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c8685a888fc55b6b69a173e05f3a95e.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6730a85cf58354292583f3d63a7ba714.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d0ab5df9241de9eb2e8000641f93eb9d.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd7f92f29fd6f6581a44f50726c058b5.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3b58040fc6d8342df6fee4ac0736ae32.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec3870afd5914d252bbd08bbe7f076d8.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/12db31b36f48f74044fadb0f26cebb49.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c323bbfdf4610a945d6b1eac83bc5cb6.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5e6c824c7b3eb577d18e0dea5cc930df.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6310ba3b6ab77c074ba074af0a974181.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/49e4c8bc6057191a250858db36a846a6.jpg"
-    },
-    {
-      "alternativeText": "Annecy City ",
-      "caption": "Bustour Annecy",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/690bc9a248fc575a828f16061dcf9680.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

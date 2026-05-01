@@ -5,17 +5,9 @@
   "description": "Discover Glacier adventure on the Titlis in Switzerland.",
   "longDescription": "Discover Glacier adventure on the Titlis in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,28 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Titlis: panorama of the majestic mountains and green meadows in summer with activities in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/59eb7f130a8b3556d33ba7158bc13be1.jpg"
-    },
-    {
-      "alternativeText": "Titlis: Rotair cable car takes you to a ski adventure in the enchanting winter landscape of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9fe4d8e481e3ccdca1be5e791f3ef203.jpg"
-    },
-    {
-      "alternativeText": "Titlis: Panoramic view of Titlis and the clear mountain lake surrounded by alpine landscapes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9ae3b274119495baf36939b245d95f85.JPG"
-    },
-    {
-      "alternativeText": "Mountain peak: panoramic view from Titlis with snow-covered mountains and clear sky, ideal for summer hikes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/da3aadd055cb966549d3dcf60e06e7be.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "glacier",

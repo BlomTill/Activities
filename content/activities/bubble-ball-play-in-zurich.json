@@ -5,17 +5,9 @@
   "description": "Discover Bubble Ball play in Zurich in Switzerland.",
   "longDescription": "Discover Bubble Ball play in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "102",
-    "title": "Competition",
-    "slug": "competition",
-    "description": "Book your competition here as a corporate event or as a relaxing addition to a seminar or work meeting. A competition is held in closed groups. It is part of events with work colleagues or friends: A bachelor party, team building or simply a cheerful get-together. Together, sports, games and mental activities are used to have fun together. There are usually no dangerous activities or activities that require special fitness. This allows everyone on the team to participate without difficulty. Everyone contributes themselves and their special talents to win the competition. The challenges take place away from the usual daily routine and promote cohesion in the group."
-  },
+  "subcategory": "Competition",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bubble-Soccer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d0b3632b5896297c08b11c4ffc0fce2c.jpg"
-    },
-    {
-      "alternativeText": "DSC07531",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5f30295cdc0f81f35afa5366db6cb568.jpg"
-    },
-    {
-      "alternativeText": "DSC07592",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ce65e315403064fbe77bbb3b160eb0db.jpg"
-    },
-    {
-      "alternativeText": "DSC07611",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f7416e81d771370e0b6ac4d6aa9368fc.jpg"
-    },
-    {
-      "alternativeText": "DSC07605",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e6e3be6e64017507b3bcb41ea5ffa154.jpg"
-    },
-    {
-      "alternativeText": "DSC07629",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5dfd9a2b5cf099cbdc8c1a6573643842.jpg"
-    },
-    {
-      "alternativeText": "ArcherArenaBubbleSoccer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/23f644174c631b3c19c6a9b5558390f2.jpg"
-    },
-    {
-      "alternativeText": "DSC07558",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f41063273115da61978c2d90285a9135.jpg"
-    },
-    {
-      "alternativeText": "DSC07638",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a4f94182bc214e05cec120b4dcdbfff3.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

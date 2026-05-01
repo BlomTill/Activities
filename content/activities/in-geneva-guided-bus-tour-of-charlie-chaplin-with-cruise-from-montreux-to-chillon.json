@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Guided bus tour of Charlie Chaplin with cruise from Montreux to Chillon in Switzerland.",
   "longDescription": "Discover In Geneva: Guided bus tour of Charlie Chaplin with cruise from Montreux to Chillon in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,83 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chillon",
-      "caption": "Chillon Chaplin Tour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9a52a2c7159d640c59aa3624d7640f88.jpg"
-    },
-    {
-      "alternativeText": "Chaplin",
-      "caption": "Chillon Chaplin Tour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0607b787a76e312146598982ac74aa98.jpg"
-    },
-    {
-      "alternativeText": "Chaplin at the Chillon Chaplin Tour, barber chair in the museum, historic surroundings, Geneva",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chaplin_world6_2048_10_2_1_82e4143c60.jpg"
-    },
-    {
-      "alternativeText": "unterwegs",
-      "caption": "Chillon Chaplin Tour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ad098c3cce7572644029934678d23db0.jpg"
-    },
-    {
-      "alternativeText": "Chillon Chaplin Tour in Geneva with historical scenery and visitors exploring.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chaplin_world3_2048_10_2_74e7fec840.jpg"
-    },
-    {
-      "alternativeText": "Chillon Chaplin Tour at Lake Geneva, with vineyards and view.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_lavaux_aperitif4_2048_10_2_5dfc42ec8d.jpg"
-    },
-    {
-      "alternativeText": "Chillon Castle on Lake Geneva by boat",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_boat_cruise_vevey_chillon1_2048_10_4_391f8680cf.jpg"
-    },
-    {
-      "alternativeText": "Chillon Castle on Lake Geneva, visitors explore the park",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chateau_chillon2_2048_10_2_9ea0555a7c.jpg"
-    },
-    {
-      "alternativeText": "Chillon Castle on Lake Geneva with snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chateau_chillon48_2048_10_2_b0bc785a6e.jpg"
-    },
-    {
-      "alternativeText": "Montreux Lake at sunset, reflecting water surface, buildings and mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_montreux_city1_2048_10_2_0c18ced489.jpg"
-    },
-    {
-      "alternativeText": "Montreux Riviera with colorful flowers and lake, view of the Alps",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_montreux_city6_2048_10_6_c486218e52.jpg"
-    },
-    {
-      "alternativeText": "Chaplin’s World ",
-      "caption": "Chillon Chaplin Tour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2bd10191d505f2ce6afe366e3e66bf1d.jpg"
-    },
-    {
-      "alternativeText": "Chillon",
-      "caption": "Chillon Chaplin Tour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6f993dd88e7f9520778e3ad0f9425384.jpg"
-    },
-    {
-      "alternativeText": "Chaplin’s World ",
-      "caption": "Chillon Chaplin Tour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d87bdb3bfd263a7b2ab16b74fbfa0cd9.jpg"
-    },
-    {
-      "alternativeText": "Chaplin’s World ",
-      "caption": "Chillon Chaplin Tour ab Genf",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d837f6702d5dc02f5f8614c261b52474.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

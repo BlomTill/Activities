@@ -5,17 +5,9 @@
   "description": "Discover \"Rotten Apple\" VR-Actionspiel in Biel in Switzerland.",
   "longDescription": "Discover \"Rotten Apple\" VR-Actionspiel in Biel in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "201",
-      "title": "Jura & Three-Lakes Region"
-    },
+    "region": "Jura & Three-Lakes Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Szene in Rotten Apple",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/16a615a0515c1fc0c9423f2a875d28be.jpg"
-    },
-    {
-      "alternativeText": "Szene in Rotten Apple",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c9821bb187c7c6687489eb6d59086230.jpg"
-    },
-    {
-      "alternativeText": "Szene in Rotten Apple",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/238cf73df52e3617eb1a50439dc27b61.jpg"
-    },
-    {
-      "alternativeText": "Rotten Apple",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/882ee28206384bf6b373a13396e3b119.jpg"
-    },
-    {
-      "alternativeText": "Spieler",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dda7e0967b8dd1c89ea7664db659c57e.jpg"
-    },
-    {
-      "alternativeText": "Spieler",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/123f8eb0f2c3ec10896a9ce7c458c648.jpg"
-    },
-    {
-      "alternativeText": "Spieler",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3831da0500c7600e0498d9f3ba2584a3.jpg"
-    },
-    {
-      "alternativeText": "Spieler",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4d918ac13fecbcc269e2ce4686f40748.jpg"
-    },
-    {
-      "alternativeText": "Spieler",
-      "caption": "VR Game",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41339ba9283646474cbb8f0e878ef5f9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

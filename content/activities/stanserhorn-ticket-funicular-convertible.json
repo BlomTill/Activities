@@ -5,17 +5,9 @@
   "description": "Discover Stanserhorn Ticket: Funicular and CabriO in Switzerland.",
   "longDescription": "Discover Stanserhorn Ticket: Funicular and CabriO in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "CabriO Stanserhorn: Cable car with views of the mountains and clouds, ideal for adventures in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cabrio_Cabri_O_Stanserhorn_Bahn_233d62010f.jpg"
-    },
-    {
-      "alternativeText": "CabriO Stanserhorn: impressive view from the outdoor deck of the cable car over the surrounding mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cabrio_3_Cabri_O_Stanserhorn_Bahn_bb586e77a5.jpg"
-    },
-    {
-      "alternativeText": "Stanserhorn: enjoy the fascinating CabriO ride with a view of Lucerne and the surrounding mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cabrio_1_Cabri_O_Stanserhorn_Bahn_446c01d196.jpg"
-    },
-    {
-      "alternativeText": "Mountain station Stanserhorn with a wonderful view of the Alps and hiking trails in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bergstation_Cabri_O_Stanserhorn_Bahn_14bdf0676f.jpg"
-    },
-    {
-      "alternativeText": "Funicular: Experience a picturesque ride in nature, ideal for hikers and families.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Standseilbahn_1_Cabri_O_Stanserhorn_Bahn_c9308f205c.jpg"
-    },
-    {
-      "alternativeText": "Funicular: Experience the ride through green meadows and breathtaking mountains in the summer landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Standseilbahn_Cabri_O_Stanserhorn_Bahn_b9e6ab341c.jpg"
-    },
-    {
-      "alternativeText": "Marmots in nature, lively in their habitat in the Alps, surrounded by green grass.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Murmeltier_Cabri_O_Stanserhorn_Bahn_6adef88b6d.jpg"
-    },
-    {
-      "alternativeText": "CabriO Stanserhorn: Experience the majestic mountains and the impressive nature during the cable car ride.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cabrio_2_Cabri_O_Stanserhorn_Bahn_19b6ae3d71.jpg"
-    },
-    {
-      "alternativeText": "Restaurant: Enjoy culinary specialties in the mountains with a view of nature. Perfect for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Restaurant_Cabri_O_Stanserhorn_Bahn_5d90798935.jpg"
-    },
-    {
-      "alternativeText": "Restaurant: Eating group with a view of the lake, ideal for a trip to the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Restaurant_1_Cabri_O_Stanserhorn_Bahn_1fe484a3cd.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

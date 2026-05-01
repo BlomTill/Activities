@@ -5,17 +5,9 @@
   "description": "Discover Cold hiking at Lake Lucerne guided in Switzerland.",
   "longDescription": "Discover Cold hiking at Lake Lucerne guided in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30847",
-    "title": "Winter Experiences",
-    "slug": "winter-experiences",
-    "description": "Book your special winter experience here. You'll make new winter memories that go beyond the usual. A special highlight is the overnight stay in the igloo village, where you sleep under snow domes. Wrapped up warm, the winter experience is especially intense. The winter also offers extraordinary culinary moments. Meeting friends at the snow bar or sharing a fondue in a cozy mountain hut creates unforgettable moments. Surrounded by snow-capped peaks, you'll experience the winter magic in good company. These special experiences invite you to leave everyday life behind and enjoy the fresh mountain air. They make winter special and create lasting memories."
-  },
+  "subcategory": "Winter Experiences",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Kältewanderung",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c64b9d3702196fcbd18b2caa7279a2c4.jpeg"
-    },
-    {
-      "alternativeText": "Kältewanderung",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/841c17a761a36a421df0e72d6341ebba.jpg"
-    },
-    {
-      "alternativeText": "Kältewanderung",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d5547e7e00ac8f39b846effcc2d389e6.jpg"
-    },
-    {
-      "alternativeText": "Kältewanderung",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7ba7819f9866770ddd4bd3817f2b290a.jpg"
-    },
-    {
-      "alternativeText": "Kältewanderung",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/605f623e6e416ad483819138848299f2.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "hiking",

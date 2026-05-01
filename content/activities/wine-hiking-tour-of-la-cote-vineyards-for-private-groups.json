@@ -5,17 +5,9 @@
   "description": "Discover Wine Hiking Tour of La Côte Vineyards for Private Groups in Switzerland.",
   "longDescription": "Discover Wine Hiking Tour of La Côte Vineyards for Private Groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Vignes Laika-DoM-CC©NRT",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5204390b60d6eed66b789ce51efb219b.jpg"
-    },
-    {
-      "alternativeText": "240516_MRT-4.00_00_09_08.Still005",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6596739d9af4e91f65f0ed57197e9ca3.jpg"
-    },
-    {
-      "alternativeText": "Chasselas©WALK&WINE",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/60ac39919ec941a020b8ed70079e55a1.jpg"
-    },
-    {
-      "alternativeText": "Cheers©WALK&WINE",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8aaa3322eb1f9e12945df314bde5fb85.jpeg"
-    },
-    {
-      "alternativeText": "Eglise de Begnins©NRT",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c7b1e457fdcce0e7a9520e8661dc3ebb.jpg"
-    },
-    {
-      "alternativeText": "©MRT_DSCF7708",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a74d308025111c9cd79cfc88288c1a3f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "hiking",

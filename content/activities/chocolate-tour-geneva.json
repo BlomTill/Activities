@@ -5,17 +5,9 @@
   "description": "Discover Chocolate tour of Geneva in Switzerland.",
   "longDescription": "Discover Chocolate tour of Geneva in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chocolate Tour: Discover delicious chocolate specialties in Geneva with TukTuk.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schokolade_Tuk_Tuk_Velo_110d81c6c7.jpg"
-    },
-    {
-      "alternativeText": "Chocolate Tour: Experience Geneva's sweet side on a rickshaw tour with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schokolade_Tuk_Tuk_1_Velo_93d8aee9b5.jpg"
-    },
-    {
-      "alternativeText": "Chocolate Tour: Experience the city of Geneva with a bike taxi on a delightful circuit.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schokolade_Fahrradtaxi_Velo_1fb88db01c.jpg"
-    },
-    {
-      "alternativeText": "Chocolate Tour: Experience the sweet side of Geneva with the TukTuk and discover chocolaty highlights.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tuk_Tuk_Rundfahrt_Genf_69e1553798.jpg"
-    },
-    {
-      "alternativeText": "Chocolate tour by bike taxi in Geneva along the water with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schokolade_Fahrradtaxi_1_Velo_aa1964b955.jpg"
-    },
-    {
-      "alternativeText": "Swiss Chocolate: Handmade Treat for Chocolate Lovers in a Cozy Setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schokolade_Tuk_Tuk_2_Velo_a710d2b749.jpg"
-    },
-    {
-      "alternativeText": "Swiss Chocolate: Discover the selection in a modern shop with various chocolate bars.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schokolade_Tuk_Tuk_3_Velo_a2a23b1bb6.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

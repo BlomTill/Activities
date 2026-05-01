@@ -5,17 +5,9 @@
   "description": "Discover 7-Day Fitness Pass Elevate Gym near Lausanne in Switzerland.",
   "longDescription": "Discover 7-Day Fitness Pass Elevate Gym near Lausanne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "90",
-    "title": "Fitness",
-    "slug": "fitness",
-    "description": "Choose the right fitness fun for the time period of your choice. Fitness is practiced in many different ways in Switzerland. There are individuals who love outdoor physical activity, while others prefer to go to a gym to strengthen their muscles and work on their fitness. With strength and endurance equipment as well as and group classes, the offer is very extensive. Exercising is possible all day and many studios have long opening hours even on weekends"
-  },
+  "subcategory": "Fitness",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,78 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Fitnessanlagen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f81a80fbb63bb2d1c34f646560e5eaa3.jpg"
-    },
-    {
-      "alternativeText": "Fitnessanlagen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c19b4e785ae3beebf7b2afe7458c70f6.JPEG"
-    },
-    {
-      "alternativeText": "Fitnessübung",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/efaae4801aef449bbcdaeeb5fefe7a34.jpg"
-    },
-    {
-      "alternativeText": "Fitnessanlagen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d76442d5d928b2268a3510c954472427.jpg"
-    },
-    {
-      "alternativeText": "Fitnessübungen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5d9e239243419cea8768cf09ba453de5.jpg"
-    },
-    {
-      "alternativeText": "Fitnessanlagen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3eb7f4fe6bfd26cfc9398fd9ea462f07.jpg"
-    },
-    {
-      "alternativeText": "Fitnessübungen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/93b32d68b2e93d79b12e729e9600a3f3.jpg"
-    },
-    {
-      "alternativeText": "Fitnessanlagen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cea4f6b06cae3f479ac1cb4701a69e63.jpg"
-    },
-    {
-      "alternativeText": "Fitnessanlagen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/78f92a9076630e32fe2289914d448ac5.jpg"
-    },
-    {
-      "alternativeText": "Fitnessanlagen",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/51fb3b05449877883e8cbf1fe2893c1b.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/90d8c9d884ea2bfa1209cfb8df8a3e0c.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a3ccdff7801a7b82a8a83dd7b0fc1fa4.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b6f7a4a815c8c217d9c87fc10912c22d.jpg"
-    },
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6254e6de4c91f9faa9cd0e85cc49f018.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lausanne"

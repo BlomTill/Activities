@@ -5,17 +5,9 @@
   "description": "Discover Rail ticket between Berne and Lucerne through the Emmental valley in Switzerland.",
   "longDescription": "Discover Rail ticket between Berne and Lucerne through the Emmental valley in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "70",
-    "title": "Train ticket",
-    "slug": "train-ride",
-    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
-  },
+  "subcategory": "Train ticket",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,58 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "BLS Train: modern train on picturesque route in Switzerland, ideal for travel and exploration.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/BLS_Zug_Pixabay_65e281f608.jpg"
-    },
-    {
-      "alternativeText": "Bern Station: modern station with impressive architecture and connection to public transport in Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bahnhof_Bern_Pixabay_97409dc14f.jpg"
-    },
-    {
-      "alternativeText": "Bern Railway Bridge: impressive view of the historic bridge over the Aare and surrounding nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern_Bahnbruecke_Pixabay_56cd3e0ffe.jpg"
-    },
-    {
-      "alternativeText": "Bern Old Town: Historical Architecture and Tranquil Waters Amidst a Picturesque Setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bern_Altstadt_Pixabay_ca4a922f59.jpg"
-    },
-    {
-      "alternativeText": "Emmental: green meadows and idyllic villages in Switzerland, pure nature and perfect views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Emmental_1_Pixabay_dc58d2a620.jpg"
-    },
-    {
-      "alternativeText": "Emmental: idyllic path surrounded by meadows and trees in Switzerland in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Emmental_unsplash_033e56b0de.jpg"
-    },
-    {
-      "alternativeText": "Entlebuch: Beautiful landscape with wind power plants and mountains, ideal for nature lovers and adventurers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Entlebuch_Pixabay_3bf88d3750.jpg"
-    },
-    {
-      "alternativeText": "Train in Emmental: Green meadows and picturesque houses of nature in Emmental during a train journey.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zug_im_Emmental_Pixabay_64408d865c.jpg"
-    },
-    {
-      "alternativeText": "Lucerne: Panoramic view of the Old Town and Lake Lucerne in summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luzern_Pixabay_5fa8388631.jpg"
-    },
-    {
-      "alternativeText": "Luederenalp: Vast green meadows and mountains in Emmental. Ideal for hiking and nature experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Luederenalp_im_Emmental_unsplash_152fd8df36.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne",

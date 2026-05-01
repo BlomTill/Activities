@@ -70,7 +70,7 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     domains: ["getyourguide.com", "getyourguide.ch"],
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_GETYOURGUIDE_PARAMS",
-      "partner_id=XXXXXXX&utm_medium=online_publisher&utm_source=exploreswitzerland"
+      "partner_id=XXXXXXX&utm_medium=online_publisher&utm_source=realswitzerland"
     ),
     commissionRate: "8%",
     active: true,
@@ -104,7 +104,7 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     domains: ["booking.com"],
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_BOOKING_PARAMS",
-      "aid=XXXXXXX&label=exploreswitzerland"
+      "aid=XXXXXXX&label=realswitzerland"
     ),
     commissionRate: "25% of Booking.com's profit",
     active: true,
@@ -132,7 +132,7 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     domains: ["omio.com"],
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_OMIO_PARAMS",
-      "partner_id=exploreswitzerland"
+      "partner_id=realswitzerland"
     ),
     commissionRate: "2-6%",
     active: true,
@@ -167,7 +167,7 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     domains: ["rentalcars.com"],
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_RENTALCARS_PARAMS",
-      "affiliateCode=exploreswitzerland"
+      "affiliateCode=realswitzerland"
     ),
     commissionRate: "6-10%",
     active: true,
@@ -181,7 +181,7 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     domains: ["interrail.eu", "eurail.com"],
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_SWISSPASS_PARAMS",
-      "partner_id=exploreswitzerland"
+      "partner_id=realswitzerland"
     ),
     commissionRate: "5%",
     active: true,
@@ -196,7 +196,7 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_MUSEMENT_PARAMS",
       // Replace XXXXXXX with your Travelpayouts or direct Musement affiliate ID
-      "utm_source=exploreswitzerland&utm_medium=affiliate&utm_campaign=XXXXXXX"
+      "utm_source=realswitzerland&utm_medium=affiliate&utm_campaign=XXXXXXX"
     ),
     commissionRate: "5–6% (or 50% margin share via Travelpayouts)",
     active: true,
@@ -214,7 +214,7 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_CIVITATIS_PARAMS",
       // Replace with your Civitatis affiliate ID (from civitatis.com/en/affiliates/)
-      "aid=XXXXXXX&utm_source=exploreswitzerland"
+      "aid=XXXXXXX&utm_source=realswitzerland"
     ),
     commissionRate: "8–10% (free tours earn €1/person aged 12+)",
     active: true,

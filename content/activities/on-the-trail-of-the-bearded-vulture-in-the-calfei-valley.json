@@ -5,17 +5,9 @@
   "description": "Discover Wildlife Watching Bearded Vulture and Golden Eagle in the Calfeisen Valley in Switzerland.",
   "longDescription": "Discover Wildlife Watching Bearded Vulture and Golden Eagle in the Calfeisen Valley in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33819",
-    "title": "Animal experiences",
-    "slug": "animal-experiences",
-    "description": "Discover and book exciting animal encounters across Switzerland. Experience animals up close through a variety of activities and explore the special bond between humans and animals. You can get to know the animals, learn about their personalities and needs, and practice respectful interaction. These experiences offer memorable moments for families, children, and anyone wanting to engage actively with animals in a natural setting."
-  },
+  "subcategory": "Animal experiences",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bearded vulture shows magnificent feathers in Heidiland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013104838259_sized_800_0_941cd71e89.jpg"
-    },
-    {
-      "alternativeText": "Bearded vulture flying over Heidiland, clear visibility, blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013104839513_sized_800_0_e221c9d070.jpg"
-    },
-    {
-      "alternativeText": "Bearded Vulture Observation in Heidiland with Telescope on Rocks",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013104840951_sized_800_0_8189e4eee4.jpg"
-    },
-    {
-      "alternativeText": "The Bartgeier Tour Heidiland showcases an impressive mountain landscape with distant mountains and beams of light.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013104845824_sized_800_0_093b7abf81.jpg"
-    },
-    {
-      "alternativeText": "Bartgeier tour Heidiland with breathtaking views of the Alpine landscape and misty valleys.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/TDS_00020013104849456_sized_800_0_a047f14232.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "watch"

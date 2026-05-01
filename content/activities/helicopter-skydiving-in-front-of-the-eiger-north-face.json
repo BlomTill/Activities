@@ -5,17 +5,9 @@
   "description": "Discover Eiger Jump Grindelwald Helicopter Skydive in Switzerland.",
   "longDescription": "Discover Eiger Jump Grindelwald Helicopter Skydive in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "22",
-    "title": "Skydiving",
-    "slug": "skydiving",
-    "description": "Find and book the right skydive for you here. The ultimate adrenaline kick you get without a doubt during the free fall. You jump in a tandem jump from a height of three to four kilometers into nothingness and you don't even need any training. Hotspots for skydiving are Interlaken, Reichenbach, Lucerne, Zurich and Lugano. You can jump either from a helicopter or from a plane."
-  },
+  "subcategory": "Skydiving",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skydiving in Interlaken, tandem flight with a view of the Alps",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_ce2bdcfb360af2d1c2e2dd02ac43ef94_f4b401fead.jpg"
-    },
-    {
-      "alternativeText": "Skydiving over the Eiger North Face with hands in the air",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_4b8dacb6aebc8a07d4dec12e06d4631f_aef6bbe350.jpg"
-    },
-    {
-      "alternativeText": "Skydive Interlaken: Skydiving over the most beautiful landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skydive_Dennis_48791130f3.JPG"
-    },
-    {
-      "alternativeText": "Skydiving in Grindelwald with a view of mountain giants and valley",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2021_06_25_um_09_28_01_83c1aceaa1.png"
-    },
-    {
-      "alternativeText": "Skydive Interlaken, participants practice the jump in training hall, sportswear",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skydive_Dennis_Leon_Seraina_391f56a389.jpg"
-    },
-    {
-      "alternativeText": "Skydive Interlaken with parachute over green field",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Landung_Skydive_Basis_Seraina_eb8f8b1894.jpg"
-    },
-    {
-      "alternativeText": "Skydive Interlaken with skydivers over mountains and clouds",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skydive_Landung_Seraina_70d2db5e62.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

@@ -5,17 +5,9 @@
   "description": "Discover Llama and Alpaca Trekking with Raclette Liechtenstein in Switzerland.",
   "longDescription": "Discover Llama and Alpaca Trekking with Raclette Liechtenstein in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "28",
-    "title": "Llama and alpaca trekking",
-    "slug": "llama-and-alpaca-trekking",
-    "description": "Book now your excursion with llama or alpaca trekking. The beautiful and curious animals fit almost every event: whether children's birthday party, wedding or school trip. A hike with the animals through the mountains or along meadows and rivers is a special experience for young and old. Get to know the cute animals up close while you walk with them through beautiful landscapes."
-  },
+  "subcategory": "Llama and alpaca trekking",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Alpaca with grass and flowers in its mouth on a meadow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_18cbf54d4cf5557c3484fdddd1cf0bde_8a22fb7b9a.jpg"
-    },
-    {
-      "alternativeText": "Triesenberg lamas eat fresh grass in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_c9a61ed6b5538e2e8437faec1abc6358_72ebd27131.jpg"
-    },
-    {
-      "alternativeText": "Group trekking Triesenberg with alpacas on a hike.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_2fd6bfa0ef45299159b13f66dc104c9c_141a153310.jpg"
-    },
-    {
-      "alternativeText": "Lama with fresh leafy greens in Birkenfeld in the year 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_f0704d0776d1d38eb8d0e05bd31d7abe_ee14670e3b.jpg"
-    },
-    {
-      "alternativeText": "Alpaca Trekking in Winter with Sunset and Snow in the Mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/52679071_2290114171008808_3714962203539931136_n_f3af33749f.jpg"
-    },
-    {
-      "alternativeText": "Alpaca Lama Trekking with a view of the mountains and clouds.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/71655119_2673287746024780_6264443881228599296_n_3d95abba8a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover From Geneva or Geneva Airport: transfer to popular places in the French Alps in Switzerland.",
   "longDescription": "Discover From Geneva or Geneva Airport: transfer to popular places in the French Alps in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "105",
-    "title": "Transfer",
-    "slug": "transfer",
-    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
-  },
+  "subcategory": "Transfer",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,68 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Avoriaz: impressive mountain landscape with green valleys and white peaks in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Avoriaz_Unsplash_ffb4c3fe09.jpg"
-    },
-    {
-      "alternativeText": "Chamonix: The cable car offers a breathtaking view of the snow-covered mountains and nature in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chamonix_Unsplash_4de81d97cf.jpg"
-    },
-    {
-      "alternativeText": "Courmayeur: picturesque mountain village with beautiful peaks and clear air in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Courmayeur_Unsplash_295cfefbb8.jpg"
-    },
-    {
-      "alternativeText": "Courchevel: Winter alpine landscape with snowy chalets and mountain view in the French Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Courchevel_Unsplash_a8ed62cc6d.jpg"
-    },
-    {
-      "alternativeText": "Flaine: winter landscape with snow-covered mountains and modern chalets in France.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Flaine_Unsplash_ed9ed021f6.jpg"
-    },
-    {
-      "alternativeText": "Les Gets: Skiing in fresh snow among tall trees in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Les_Gets_unsplash_5d406a13f7.jpg"
-    },
-    {
-      "alternativeText": "Megève: Idyllic by the lake, surrounded by mountains and green nature in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Megeve_Unsplash_f8a1c07c16.jpg"
-    },
-    {
-      "alternativeText": "Megève: Winter landscape with snow-covered trees and gentle hills.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Megeve_unsplash_d41a3902b0.jpg"
-    },
-    {
-      "alternativeText": "Morzine: Skiing in winter with breathtaking mountain scenery and snow-covered forests",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Morzine_Unsplash_129c2ff464.jpg"
-    },
-    {
-      "alternativeText": "Tignes: Snowy landscape with mountains and a ski area in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tignes_Unsplash_2d3c0aa413.jpg"
-    },
-    {
-      "alternativeText": "Val d'Isere: beautiful winter landscape with chalets and snow-covered mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Val_d_Isere_Unsplash_314b8f5dd0.jpg"
-    },
-    {
-      "alternativeText": "Val Thorens: Skiing in the Alps, winter activity in breathtaking mountain scenery",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Val_Thorens_Unsplash_aae911b6ca.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

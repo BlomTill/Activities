@@ -5,17 +5,9 @@
   "description": "Discover From Lucerne: Day trip to Grindelwald, Interlaken and Lauterbrunnen in Switzerland.",
   "longDescription": "Discover From Lucerne: Day trip to Grindelwald, Interlaken and Lauterbrunnen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Grindelwald Tour with a view of the mountains in winter 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Berge_Best_of_Switzerland_Tours_665f7e6be8.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald Tour, Hiker on a path, Alpine meadows, Cows in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_69690ec4ba49fe357715247d201c6926_e8f7c588ef.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald Tour with a view of the Alpine landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bergresort_Best_of_Switzerland_Tours_6926d02ee9.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen",
-      "caption": "Tagestour ab Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2628c074ede2be89cdd6142723dfb36.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen",
-      "caption": "Tagestour ab Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1aa24faa2df00481a4f6de6360022e23.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen",
-      "caption": "Tagestour ab Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5705a973ddc1869ebf6fc573c5b25891.jpg"
-    },
-    {
-      "alternativeText": "Lauterbrunnen",
-      "caption": "Tagestour ab Luzern",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/12294b5ccd650264bf47912d624d28d9.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald Tour in Lucerne, quiet street, buildings in the morning light",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Interlaken_Best_of_Switzerland_Tours_0cb095bde7.jpg"
-    },
-    {
-      "alternativeText": "Old house in Grindelwald with blooming plants, cyclist in front of the facade, sunny day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_003b4cd0ec60fd4d9d27489b6bb9128b_ff0a080d4e.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

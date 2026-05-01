@@ -5,17 +5,9 @@
   "description": "Discover River Tubing: Ride on rubber rings down the Muota River in Switzerland.",
   "longDescription": "Discover River Tubing: Ride on rubber rings down the Muota River in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "26",
-    "title": "Kayak",
-    "slug": "kayak",
-    "description": "Book your next kayak tour. The choice is yours. You can enjoy the surrounding shores on calm lakes and listen to the splashing of the paddle, or you can conquer raging rivers and rapids. In the water castle of Europe you actively experience the wild nature of Switzerland. Discover the beauty of the Swiss waters from a different perspective, while you enjoy the peace and quiet in your kayak or the one or other adrenaline kick."
-  },
+  "subcategory": "Kayak",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Tubing über den Fluss Muota",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/247f5080e560b4a0ebef0c73c2594ac6.jpg"
-    },
-    {
-      "alternativeText": "Tubing über den Fluss Muota",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e81916efb2006172ed62d704111a617e.jpg"
-    },
-    {
-      "alternativeText": "Tubing über den Fluss Muota",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/78d7099ad1785ae7899f14eb58fe7c29.jpg"
-    },
-    {
-      "alternativeText": "Tubing über den Fluss Muota",
-      "caption": "Teamevent",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b5fc5d9a319d0f58c22474c582fee4b5.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "river"

@@ -5,17 +5,9 @@
   "description": "Discover Self-guided, free tasting at the vineyard in Sion in Switzerland.",
   "longDescription": "Discover Self-guided, free tasting at the vineyard in Sion in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Free Tasting 1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/58e499f8e3a9b4280244cdb666daf681.jpg"
-    },
-    {
-      "alternativeText": "Free tasting 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7ec37e6d75d4dcf2da9f77f00a1190c7.jpg"
-    },
-    {
-      "alternativeText": "xoenoparc-valais-sion-tablet.jpg.pagespeed.ic.sCiFkanI9m Copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/285031b13cf4db7646ae4beee6e4e766.jpg"
-    },
-    {
-      "alternativeText": "xdiscovery-route.jpg.pagespeed.ic.DbR3ceFRSh-copy",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bea5da8079cfee68ac0392d03a1cbd3a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

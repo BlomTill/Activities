@@ -5,17 +5,9 @@
   "description": "Discover Jungfrau Region Skydiving from the airplane in Switzerland.",
   "longDescription": "Discover Jungfrau Region Skydiving from the airplane in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "22",
-    "title": "Skydiving",
-    "slug": "skydiving",
-    "description": "Find and book the right skydive for you here. The ultimate adrenaline kick you get without a doubt during the free fall. You jump in a tandem jump from a height of three to four kilometers into nothingness and you don't even need any training. Hotspots for skydiving are Interlaken, Reichenbach, Lucerne, Zurich and Lugano. You can jump either from a helicopter or from a plane."
-  },
+  "subcategory": "Skydiving",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,43 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/41e8527d13e97a8b68bd516ce0526981.jpg"
-    },
-    {
-      "alternativeText": "Skydive Interlaken: Tandem jump with views of the Alps, perfect activity for adventurers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_1525ab1db3f868f690428c3cc3cf2800_d7451bfbe6_b9ae16d740.avif"
-    },
-    {
-      "alternativeText": "Skydiving in Reichenbach: Experience the thrill of free fall over the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/skydive_switzerland_interlaken_tandem_skydiving_exit_81bdcbb6a0_cec45fd453.avif"
-    },
-    {
-      "alternativeText": "Skydive Interlaken: Experience the free fall over breathtaking mountains in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_3c63443f610bc3bd133c2deca32dc15b_4c2032cfc7_0d69852082.avif"
-    },
-    {
-      "alternativeText": "Skydive Interlaken: Experience free fall with an experienced guide in the nature of Interlaken.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_6a9c78285f40005db449e94e40f323a7_236c3f0e39_b34ebd215e.avif"
-    },
-    {
-      "alternativeText": "Skydive Interlaken: Experience the free fall while skydiving over the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_54c0131a82148fc576b586a0f3935043_070f688d33_8ebafaf135.avif"
-    },
-    {
-      "alternativeText": "Skydiving Reichenbach: experience free fall over the majestic alpine landscapes",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/skydive_switzerland_interlaken_tandem_skydiving_11_18e55927d5_21cfc4fb88.avif"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

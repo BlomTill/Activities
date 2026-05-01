@@ -5,17 +5,9 @@
   "description": "Discover Private Ski School for Adults in Lenzerheide in Switzerland.",
   "longDescription": "Discover Private Ski School for Adults in Lenzerheide in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "aa30e0d5-a77f-4dd5-88dc-e9c551751619",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bf56b39305eae7a4cba273deb94afc37.JPG"
-    },
-    {
-      "alternativeText": "bdb2e02b-1ce8-4969-8eb9-30e555d1e80d",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8110ea03601dbf1fbab29f60bebbc934.JPG"
-    },
-    {
-      "alternativeText": "978c9701-414a-400f-a6a7-ed32fc7c92f0",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ac3ebff1351049698f49f45973b4d9d7.JPG"
-    },
-    {
-      "alternativeText": "6bf8e187-3e0a-4d91-8846-ea7e7d78ba06",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/20dea016977c4ef0781df134ea77de15.JPG"
-    },
-    {
-      "alternativeText": "IMG_0064",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eea49d791c21b2fdfdd7c47fdd1dd185.jpg"
-    },
-    {
-      "alternativeText": "IMG_1460",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3f388c37d95c0c39a5481527b7d5113e.JPG"
-    },
-    {
-      "alternativeText": "IMG_2495",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/cd5b122649ed92fd082826c488cb246b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

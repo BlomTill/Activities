@@ -5,17 +5,9 @@
   "description": "Discover Tandem Day Pass for GA Travelcard Youth SBB in Switzerland.",
   "longDescription": "Discover Tandem Day Pass for GA Travelcard Youth SBB in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "136",
-    "title": "SBB Day Pass",
-    "slug": "sbb-day-pass",
-    "description": "Find the right SBB Day Pass for you here. SBB Day Passes allow you to travel for a whole day. You only need one ticket, even if you have to change trains several times. Within the validity of your day ticket, you can travel as often as you like. You should only check the timetables so that you don't miss the \"last train\" or your connection. Your day pass is valid for the entire day of the date printed on it and beyond until 5:00 a.m. the following day."
-  },
+  "subcategory": "SBB Day Pass",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,63 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Train journey: travel relaxed with red footwear in the train on a nice day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bahnreise_Unsplash_3b560848e9.jpg"
-    },
-    {
-      "alternativeText": "Lake Zurich: Women stroll along the lakeside in Zurich on a sunny summer day.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerichsee_unsplash_c919d47419.jpg"
-    },
-    {
-      "alternativeText": "View from the BLS train with mountains, trees, and the city - relaxation on a trip by train",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Aussicht_BLS_Zug_Unsplash_734cce24b9.jpg"
-    },
-    {
-      "alternativeText": "SBB Train: Train travels through picturesque landscapes by the lake in Switzerland with vineyards.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/SBB_Zug_1_Unsplash_a31333658e.jpg"
-    },
-    {
-      "alternativeText": "Lake Brienz: Ship on the water with mountains in the background and passengers during leisure activity",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/17_Brienzersee_Seraina_041ada0cfc.jpeg"
-    },
-    {
-      "alternativeText": "Lake Lucerne: Boat trips with views of the mountains and surrounding nature during the summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Vierwaldstaettersee_12_Seraina_8b401a1696.jpg"
-    },
-    {
-      "alternativeText": "Zürich Train Station: modern station with trains, light displays, and a lively atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/0_Bahnhof_Zuerich_Seraina_71ca30b474.jpg"
-    },
-    {
-      "alternativeText": "Gurten: View of the landscape from Gurten with leisure activities and beautiful nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gurten_21_Seraina_c29b39c572.jpg"
-    },
-    {
-      "alternativeText": "Cabrio cable car Stanserhorn with a view of the mountains and Lake Vierwaldstätter, summer activity in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/14_Seilbahn_Cabrio_Stanserhorn_Seraina_dee3569564.jpeg"
-    },
-    {
-      "alternativeText": "Tram Zurich: Modern tram in the city, ideal for city explorations and transport.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Tram_Zuerich_Unsplash_e84cec6aa9.jpg"
-    },
-    {
-      "alternativeText": "Zürich HB: Station life with travelers, trains, and lively activities in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_HB_Unsplash_3a9a883009.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

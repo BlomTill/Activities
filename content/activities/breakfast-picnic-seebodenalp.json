@@ -5,17 +5,9 @@
   "description": "Discover \"Breakfast on the Mountain\": Picnic Breakfast at Seebodenalp in Switzerland.",
   "longDescription": "Discover \"Breakfast on the Mountain\": Picnic Breakfast at Seebodenalp in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "You enjoy breakfast with fresh ingredients in nature on Seebodenalp in the summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_00304_7cf16bc44c.png"
-    },
-    {
-      "alternativeText": "Drinking chocolate: Diverse varieties like chili and nut nougat, ideal for snack lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_00270_65a87e7841.jpg"
-    },
-    {
-      "alternativeText": "Enjoy breakfast with a view of Seebodenalp, fresh bread, fruit, and drinks in nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_00325_7001c4dafd.jpg"
-    },
-    {
-      "alternativeText": "Breakfast: Enjoy fresh fruit and juice in nature on the Seebodenalp.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_00313_6d38f2110f.jpg"
-    },
-    {
-      "alternativeText": "Breakfast Seebodenalp with a view of the mountains and nature, ideal for relaxation in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20220919_183317a_95a77bc3e8.jpg"
-    },
-    {
-      "alternativeText": "Seebodenalp: Beautiful sunset over the lake and the town, surrounded by forests.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20220919_190429a_4b1baa2a41.jpg"
-    },
-    {
-      "alternativeText": "Seebodenalp: View of the mountains and Lake Lucerne, ideal for your relaxation in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20230805_150034_8693c5712d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "mountain"

@@ -5,17 +5,9 @@
   "description": "Discover Inflatable Boat Half-Day Reuss Tour from Mellingen to Gebenstorf in Switzerland.",
   "longDescription": "Discover Inflatable Boat Half-Day Reuss Tour from Mellingen to Gebenstorf in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "27",
-    "title": "Böötle",
-    "slug": "boeoetle",
-    "description": "Find the right river and book your Böötle experience here. Whether in the Aare, on the Limmat or on the Rhine, rafting is a leisure activity that is possible on almost every river and enjoys immense popularity in Switzerland. More and more providers make the boat available to you ready to float and pick it up again at the drop-off point. It is important to note that you should get off the boat in good time before dangerous places, power stations and weirs."
-  },
+  "subcategory": "Böötle",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (5)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e05177f56b7cd1eeb5edaae04faac25c.jpg"
-    },
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (16)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fced546cb177fb2f49e223ebe3eae1e1.jpg"
-    },
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (18)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0481b264084021f90d6d274380dbe015.jpg"
-    },
-    {
-      "alternativeText": "Schlauchboot Reuss Swiss River Adventures (20)",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22ada0d8f4082ba4f56b1c6fb4c583c0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "boat"

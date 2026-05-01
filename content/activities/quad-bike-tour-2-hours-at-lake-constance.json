@@ -5,17 +5,9 @@
   "description": "Discover Quad bike tour 2 hours on Lake Constance in Switzerland.",
   "longDescription": "Discover Quad bike tour 2 hours on Lake Constance in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "63",
-    "title": "Quad",
-    "slug": "quad",
-    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
-  },
+  "subcategory": "Quad",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Riding ATVs on a forest path in 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/BBQ_Tour_kl_7a858a82f0.jpg"
-    },
-    {
-      "alternativeText": "Quad biking on a country road in 2023",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Arbon_Quad_4767f494ed.jpeg"
-    },
-    {
-      "alternativeText": "ATV Quad Tour in Oberbayern, Offroad ride on a dusty track",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Quad_Tour_2h_kl_0d7d5fda72.jpg"
-    },
-    {
-      "alternativeText": "The group riding quads in nature with red ATVs.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Spass_in_der_Natur_1024x680_1b6d1a29fc.jpg"
-    },
-    {
-      "alternativeText": "Riding quad bikes in a green landscape with drivers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Arbon_Quad_und_Event_3f124207f6.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

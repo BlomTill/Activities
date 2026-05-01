@@ -5,17 +5,9 @@
   "description": "Discover Canyoning in the Saxetenschlucht from Interlaken in Switzerland.",
   "longDescription": "Discover Canyoning in the Saxetenschlucht from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Im Wasserfall",
-      "caption": "Canyoning Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8487078091319b3ac42efd4db5a7e016.jpeg"
-    },
-    {
-      "alternativeText": "Am Wasserfall",
-      "caption": "Canyoning Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f77d6d2cc19caf644b954e09a51019a1.jpg"
-    },
-    {
-      "alternativeText": "Am Wasserfall",
-      "caption": "Canyoning Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/692244f9d8350c28c8ba9a7f7548dad7.jpg"
-    },
-    {
-      "alternativeText": "Canyoning",
-      "caption": "Canyoning Interlaken",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3744c1552523b9844eaae85ea9b4b360.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning",

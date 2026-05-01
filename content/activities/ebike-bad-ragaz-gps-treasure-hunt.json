@@ -5,17 +5,9 @@
   "description": "Discover E-bike GPS treasure hunt from Bad Ragaz in Switzerland.",
   "longDescription": "Discover E-bike GPS treasure hunt from Bad Ragaz in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "48",
-    "title": "E-bike",
-    "slug": "e-bike",
-    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
-  },
+  "subcategory": "E-bike",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "E-Bike Station Bad Ragaz: Explore the surroundings with the E-Bike and discover exciting adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1e9e2e5774715f0ac8989ee4a3d60750.jpg"
-    },
-    {
-      "alternativeText": "E-Bike Station Bad Ragaz: Experience the E-Bike GPS treasure hunt in nature with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/effe5e430fa40cb9c524b4a77a12ea57.jpg"
-    },
-    {
-      "alternativeText": "E-Bike GPS Treasure Hunt with a View of Vineyards and Mountains in Full Splendor",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/25fa90ddd61b91c9731f682347ea9d3e.jpg"
-    },
-    {
-      "alternativeText": "E-Bike Station: You discover exciting GPS treasure hunting in Bad Ragaz with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/1ad5efdb3a4d023df8bebca2b2b3fdaa.jpg"
-    },
-    {
-      "alternativeText": "E-Bike Station Bad Ragaz: discover exciting GPS treasure hunts with friends in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9affe7c3bf0cdaae3b585aa52d71ae2c.jpg"
-    },
-    {
-      "alternativeText": "E-Bike GPS Treasure Hunt in Heidiland: Explore nature with friends on bikes.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f9abb28de705620a409f94594ded5365.jpg"
-    },
-    {
-      "alternativeText": "E-Bike GPS Treasure Hunt: Experience Nature on the E-Bike in Bad Ragaz with Friends and Family.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/022cf98f479e5a6dfeae75c88fb59082.jpg"
-    },
-    {
-      "alternativeText": "E-Bike station with team at GPS treasure hunt in Bad Ragaz. Active adventures for groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/273a867bb4c44023059ca720f74af28b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

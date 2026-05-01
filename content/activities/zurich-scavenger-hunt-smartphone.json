@@ -5,17 +5,9 @@
   "description": "Discover Zurich interactive scavenger hunt with the smartphone in Switzerland.",
   "longDescription": "Discover Zurich interactive scavenger hunt with the smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Treasure Hunt in Zurich: Discover the church with your smartphone, interactive search, and adventures for kids.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zuerich_carousel_1_EN_2be546b3d0.jpg"
-    },
-    {
-      "alternativeText": "Treasure Hunt Smartphone Limmat: Experience the beautiful old town of Zurich in summer by the river.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Lindenhof_eee4c6a48e.jpg"
-    },
-    {
-      "alternativeText": "Treasure hunt smartphone at Sechseleutenplatz with many people and city view, cheerful atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sechseleutenplatz_9862f8f7b5.jpg"
-    },
-    {
-      "alternativeText": "Treasure hunt: Group with smartphones in a city. Experience adventure and teamwork while solving puzzles.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zuerich_carousel_2_608c4584c0.jpg"
-    },
-    {
-      "alternativeText": "Scavenger Hunt: Two women with smartphones solve exciting puzzles outdoors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zuerich_carousel_3_4b4352da3d.jpg"
-    },
-    {
-      "alternativeText": "Treasure hunt: Discover the façade of the town hall with your smartphone in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/zuerich_carousel_4_36f13dc9be.jpg"
-    },
-    {
-      "alternativeText": "Scavenger Hunt: Discover the Church by the River with Smartphone in Zurich, an exciting activity for everyone.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich_Muenster_186da32084.jpg"
-    },
-    {
-      "alternativeText": "Scavenger Hunt: Discover the Church on the Limmat in Zurich, perfect for children and group activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich2_9ae985dfb0.jpg"
-    },
-    {
-      "alternativeText": "Treasure hunt in Zurich: discover the city, learn with friends, play outdoors in the summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich6_623df2e1c8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Hot Air Balloon Ride with Fondue: Western Switzerland Featuring Lake Geneva and Alpine Regions in Switzerland.",
   "longDescription": "Discover Hot Air Balloon Ride with Fondue: Western Switzerland Featuring Lake Geneva and Alpine Regions in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "44",
-    "title": "Ballooning",
-    "slug": "ballooning",
-    "description": "Book a hot air balloon ride in Switzerland. Since the first balloon went up over Basel in 1788, ballooning has been one of the most special experiences. You float almost silently over the mountains, lakes or cities and can see the world from a bird's eye view. You will enjoy views and a silence that you can only enjoy in a balloon. In good weather, balloon flights are possible all year round."
-  },
+  "subcategory": "Ballooning",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,78 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Fondue photo",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9fc15e18d92c49dd58e11ff1e2c84114.jpeg"
-    },
-    {
-      "alternativeText": "IMG_5575",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/369813637324812cd065ad585f4f9cbf.JPG"
-    },
-    {
-      "alternativeText": "DSC01339",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b71eda830576f9aacb4b40c90719d60b.jpg"
-    },
-    {
-      "alternativeText": "IMG_20250501_190125",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/02de77784c7dcf1d0463785feb182f5d.jpg"
-    },
-    {
-      "alternativeText": "20250920_182424",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d897793bd8e5d734894f694f0d5f7615.jpg"
-    },
-    {
-      "alternativeText": "IMG_2125",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5652cfae13cb8ff6671336d1a1642c8a.JPG"
-    },
-    {
-      "alternativeText": "DSC01378",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/55a42a483bd3ea936f52bc5a1b72de3a.jpg"
-    },
-    {
-      "alternativeText": "IMG_5571",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/65bd5f23a65d970f0a11e12359a38760.JPG"
-    },
-    {
-      "alternativeText": "DSC01321",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6de6514c588ee0689ead7f7e474b6904.jpg"
-    },
-    {
-      "alternativeText": "DSC01336",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a98c76f74b0fec727bc855fd5d326746.jpg"
-    },
-    {
-      "alternativeText": "DSC01339",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/153786d83a72405e337bf9d4844765cb.jpg"
-    },
-    {
-      "alternativeText": "DSC01349",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6a045dae2a33d61c6c21171be6e4d33d.jpg"
-    },
-    {
-      "alternativeText": "DSC01378",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c30f14565a552d470c888b41af8fcbcc.jpg"
-    },
-    {
-      "alternativeText": "IMG_2125",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ee1b017cb1f0388dda4697a22721c544.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

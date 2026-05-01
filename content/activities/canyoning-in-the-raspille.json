@@ -5,17 +5,9 @@
   "description": "Discover Raspille Canyoning for beginners from Sierre in Switzerland.",
   "longDescription": "Discover Raspille Canyoning for beginners from Sierre in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Canyoning Wallis with group in waterfall",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning424x265_12_1_463547bbfa.jpg"
-    },
-    {
-      "alternativeText": "Canyoning Wallis with group participants in the waterfall",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning424x265_19_1_80d8136777.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the Valais with waterfall and participants in wetsuits.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning_hydrospeed_rafting_valais_wallis_suisse_switzerland_schweiz_sion_sierre_brig_visp_switzerland_4_4a4c1ddd81.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in Sion, participants wear wetsuits and helmets.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning_hydrospeed_rafting_valais_wallis_suisse_switzerland_schweiz_sion_sierre_brig_visp_switzerland_7_ed2d7595b5.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the Valais near Sion with participants in the water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning_hydrospeed_rafting_valais_wallis_suisse_switzerland_schweiz_sion_sierre_brig_visp_switzerland_8_406574b681.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the waterfall with participants, green environment, rocks",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_canyoning_valais_switserland_fb020032e8.jpg"
-    },
-    {
-      "alternativeText": "_21I7275",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d3a9608013c2dacde3f10409696cfd16.jpg"
-    },
-    {
-      "alternativeText": "_21I7312",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7dcef02d8853bd958c00f46b1c6a9b60.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

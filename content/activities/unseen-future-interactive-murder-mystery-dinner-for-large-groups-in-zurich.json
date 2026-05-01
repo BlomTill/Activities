@@ -5,17 +5,9 @@
   "description": "Discover \"Unseen Future Interactive\" murder mystery dinner for all group sizes in Zurich in Switzerland.",
   "longDescription": "Discover \"Unseen Future Interactive\" murder mystery dinner for all group sizes in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "35358",
-    "title": "Murder mystery dinner",
-    "slug": "murder-mystery-dinner",
-    "description": "Book your murder mystery dinner here. At the murder mystery dinner, you become part of an exciting story. While enjoying a multi-course meal, a staged criminal case unfolds right before your eyes. Actors slip into various roles and involve you and the other guests in the plot. You need to think along, as clues and suspects appear throughout the evening. This way, you combine culinary pleasure with puzzle fun and find out who the culprit is in the end. Sometimes, you even take on a small role yourself, becoming directly part of the mystery."
-  },
+  "subcategory": "Murder mystery dinner",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "UF.14",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a9171c02119016ff063dbad068b4fb46.jpg"
-    },
-    {
-      "alternativeText": "UF.16",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4c9e2e292d4a6e3df6f15aad896cab51.jpg"
-    },
-    {
-      "alternativeText": "UF.17",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ff78fb4f17be2519e1e66d24c7acab3.jpg"
-    },
-    {
-      "alternativeText": "UF.15",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f2a990027e1c2405bc0b6ba89b94dcf4.JPG"
-    },
-    {
-      "alternativeText": "UF.7",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4fb54be414cacb7fae8288bbf543f929.jpg"
-    },
-    {
-      "alternativeText": "UF.6",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/260c17dafa07fdaa0e6ea20dfdc22192.jpg"
-    },
-    {
-      "alternativeText": "UF.3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e7814dd01d867168b14275e2f3bdb5db.jpg"
-    },
-    {
-      "alternativeText": "UF.2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d044a0b427c4432c29c7492acee6439b.jpg"
-    },
-    {
-      "alternativeText": "UF.1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c24842ef5159cc8543902361fd1ab1c3.jpg"
-    },
-    {
-      "alternativeText": "WhatsApp Image 2025-01-27 at 19.20.59",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f0fd7fa1ff8e0a85f0cc895b2d83602e.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

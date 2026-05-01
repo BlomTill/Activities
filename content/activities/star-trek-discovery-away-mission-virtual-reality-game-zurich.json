@@ -5,17 +5,9 @@
   "description": "Discover    \"Star Trek: Discovery Away mission\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover    \"Star Trek: Discovery Away mission\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Star Trek: Discovery Away Mission with brave crew members in futuristic suits.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_08_20_e2fcaf16d6.png"
-    },
-    {
-      "alternativeText": "Star Trek Discovery: Spaceship in space on an impressive mission with technology and adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_07_47_87993f7a97.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discovery - Spaceship in a foreign galaxy, intergalactic mission with futuristic technology.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_08_05_14d7275e86.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discovery away mission with adventurers in the space between crystals and mysterious creatures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_08_50_598e0fdc71.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discovery shows spaceships in space with exciting spacecraft and futuristic design.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_09_02_c5a200700c.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discovery away mission with team and adventure in a futuristic environment",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_09_17_ce354f0503.png"
-    },
-    {
-      "alternativeText": "Players use interactive virtual reality technology in an exciting gaming environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_09_36_b8fb28447d.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discovery: intergalactic mission with spaceships and futuristic technology.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_09_50_fd7a3fd68b.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discovery: Experience intergalactic adventures in the sci-fi universe with your team.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_10_05_9636b440d5.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discovery Adventurous space mission with team and futuristic elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2024_01_16_um_22_10_16_d999df7aaa.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discovery - Scene with a team member during an away mission, futuristic environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Star_Trek_2_e729165ed6.png"
-    },
-    {
-      "alternativeText": "Star Trek: Discover the exciting team during a thrilling away mission in the future space.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Star_Trek_51b67eb46b.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

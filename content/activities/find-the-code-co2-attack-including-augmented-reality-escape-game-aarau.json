@@ -5,17 +5,9 @@
   "description": "Discover \"Find-the-code: CO₂ Attack including Augmented Reality\" Escape Game Aarau in Switzerland.",
   "longDescription": "Discover \"Find-the-code: CO₂ Attack including Augmented Reality\" Escape Game Aarau in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "find-the-code-aarau-ar",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/80c1883a3581c15a0e0c819a06095817.jpg"
-    },
-    {
-      "alternativeText": "Copy of 04 group-photo_landscape_file_phone_neutral-2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/35caa90049d8fe654c94b389977d5e49.jpg"
-    },
-    {
-      "alternativeText": "Copy of 03 Team",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/187cbc743621ee3a3f939d95521130c7.jpg"
-    },
-    {
-      "alternativeText": "map-aarau-with-ar",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fccd6ce74ed96ecd812f571c103b3e3b.jpg"
-    },
-    {
-      "alternativeText": "Copy of 05 group_hk_file_daniel_puzzle_solved_party 2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b1b9e0cb9b705408092d610ba2a7486b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

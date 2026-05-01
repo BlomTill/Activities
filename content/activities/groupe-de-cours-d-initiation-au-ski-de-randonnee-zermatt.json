@@ -5,17 +5,9 @@
   "description": "Discover Ski tour taster course group in Zermatt in Switzerland.",
   "longDescription": "Discover Ski tour taster course group in Zermatt in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "95",
-    "title": "Ski touring",
-    "slug": "ski-touring",
-    "description": "Book your next ski touring adventure with a professional guide. Ski tours offer an ideal opportunity to explore the magnificent Swiss mountains in winter. You hike up a mountain with special touring skis and then ski back down to the valley through deep snow. Ski tours can last from a few hours to several days. For safety reasons, you should never go on a ski tour alone. On a guided tour with an experienced mountain guide or tour leader, you can join a tour that is tailored to your previous knowledge and fitness level."
-  },
+  "subcategory": "Ski touring",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ski instructor in red equipment skiing in Zermatt",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skilehrer_Zermatt_Zermatters_99841a3c83.jpg"
-    },
-    {
-      "alternativeText": "Winter snow mountains Zermatt, snow-covered peaks, clear visibility and fresh air.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winter_Schnee_Berge_Zermatt_Pixabay_ed3cfa5842.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt. Participants climb snowy slopes and enjoy the mountain scenery.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Bergfuehrer_Zermatters_f2a5e6e465.jpg"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt winter, skier on mountain peak, snow, Matterhorn.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitouren_Zermatt_1_Zermatters_16b4651810.jpg"
-    },
-    {
-      "alternativeText": "Ski touring introductory course in Zermatt in the Alps with mountain landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Matterhorn_Zermatters_fe198244cd.png"
-    },
-    {
-      "alternativeText": "Ski tour Zermatt in winter, athletic activity on snow, group members, mountain landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skitour_Zermatt_Winter_Zermatters_78077b45e3.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

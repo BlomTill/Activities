@@ -5,17 +5,9 @@
   "description": "Discover Mountain bike tour Bernina Express Grisons in Switzerland.",
   "longDescription": "Discover Mountain bike tour Bernina Express Grisons in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "58",
-    "title": "Mountain bike",
-    "slug": "mountain-bike",
-    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
-  },
+  "subcategory": "Mountain bike",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Trek-Mountainbike on rock in the forest near Davos",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bike_Davos_d4d80e8325.jpg"
-    },
-    {
-      "alternativeText": "Mountain Biking Tour in Davos with Cyclists through the Forest",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bike_Tour_Davos_ad006000f2.jpg"
-    },
-    {
-      "alternativeText": "Mountain biking in the Engadin with a view of the valley",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Biken_Engadin_a9b81df162.jpeg"
-    },
-    {
-      "alternativeText": "Bernina Express ride through green landscapes in the Alps, passengers enjoy the view.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_Express_Tour_c61877cd61.jpg"
-    },
-    {
-      "alternativeText": "Mountain biking in Graubünden on rocky terrain with a wide view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bildschirmfoto_2021_08_03_um_07_57_35_df2267895c.png"
-    },
-    {
-      "alternativeText": "Morteratsch Glacier with snow and mountains under a blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Morteratsch_6248a74ba6.jpg"
-    },
-    {
-      "alternativeText": "Bernina Pass with Cows and Mountains, Idyllic Alpine Landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bernina_1a8cf431af.jpg"
-    },
-    {
-      "alternativeText": "Bernina Hospice with red trains in front of the building",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ospizio_Bernina_4e313f7e45.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "mountain",

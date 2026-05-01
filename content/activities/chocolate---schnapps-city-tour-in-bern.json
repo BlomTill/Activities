@@ -5,17 +5,9 @@
   "description": "Discover Chocolate & Schnapps City Tour in Bern in Switzerland.",
   "longDescription": "Discover Chocolate & Schnapps City Tour in Bern in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "47",
-    "title": "Food & Drink",
-    "slug": "food-and-drink",
-    "description": "With the food & drink activities, the focus is on enjoyment. Whether it's a guided tour of a brewery or an extended brunch on a mountain peak, book your culinary experience with or without a guide. Whether a candlelight dinner under a full moon, an early breakfast at sunrise or a delicious fondue before an exciting paragliding flight: a culinary experience goes through the stomach and delights the other senses as well. This is how you create an unforgettable situation in which body and soul are pampered."
-  },
+  "subcategory": "Food & Drink",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chocolate & Schnapps City Tour in Bern, discover the secrets of chocolate and schnapps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_schokoladen_147e2aabb8.JPG"
-    },
-    {
-      "alternativeText": "Bern: Discover the chocolate and schnapps city tour with friends in the city of Bern.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/berner_matte_a73ea999bf.jpg"
-    },
-    {
-      "alternativeText": "Chocolate Bears: Discover the Chocolate & Schnapps City Tour in Bern with delicious chocolate and local schnapps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schokoladenbaeren_519b6ee48a.JPG"
-    },
-    {
-      "alternativeText": "Liqueur tasting at Chokobern Tours in Bern, discover regional spirits and chocolates.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/likoer_23ba3f8db8.JPG"
-    },
-    {
-      "alternativeText": "Distillery: Matte distillery sign on a wall in the region.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/brennerei_a35d86fa8c.jpg"
-    },
-    {
-      "alternativeText": "Tasting: Experience flavorful combinations in an inviting environment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/degustation_dd828e5727.jpg"
-    },
-    {
-      "alternativeText": "Chocolates and schnapps on the city tour in Bern with a view of the rooftops.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_8355_k_952593b5fb.jpg"
-    },
-    {
-      "alternativeText": "Chocolate factory in Bern with historical signs.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/DSC_8351_k_5b1663a996.jpg"
-    },
-    {
-      "alternativeText": "Panoramic view of the Aare and the old town of Bern",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schoggi_aare_gross_c132f1f911.jpg"
-    },
-    {
-      "alternativeText": "Absinthe: Enjoy fine drinks in a stylish bar with friends in a relaxed atmosphere",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/absinth_99eb31cd97.JPG"
-    },
-    {
-      "alternativeText": "Chocolate House: Historic building with chocolate factory and bakery in the heart of the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/schokoladenhaus_58f92fe332.jpg"
-    },
-    {
-      "alternativeText": "Chocolate & Schnapps City Tour with Fine Spirits in Bern, a delightful exploration.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/tasting_d3c8848f20.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

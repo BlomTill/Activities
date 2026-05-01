@@ -5,17 +5,9 @@
   "description": "Discover Bern interactive scavenger hunt with smartphone in Switzerland.",
   "longDescription": "Discover Bern interactive scavenger hunt with smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bern Escape Game: Explore the historic clock tower and discover exciting adventures in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bern_carousel_1_EN_c7af6d8d6f.jpg"
-    },
-    {
-      "alternativeText": "Bern Escape Game: Discover exciting adventures for groups and teams in Bern.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bern_carousel_3_e642a3af4b.jpg"
-    },
-    {
-      "alternativeText": "Bern Escape Game: Experience exciting adventures in the historic old town of Bern.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bern_carousel_4_0a34866e3e.jpg"
-    },
-    {
-      "alternativeText": "Bern Escape Game: Discover the exciting adventure for groups in the old town of Bern.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Wallpaper_CH_BE_1_Getyourguide_e5ddde0686.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "bern"

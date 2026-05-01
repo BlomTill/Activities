@@ -5,17 +5,9 @@
   "description": "Discover La Tine canyoning in Montbovon for beginners in Switzerland.",
   "longDescription": "Discover La Tine canyoning in Montbovon for beginners in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "La Tine Canyoning: Zip line over the gorge for nature adventures in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6af3975cb3f91e6443b0d16ab170e327.jpg"
-    },
-    {
-      "alternativeText": "La Tine Canyoning: Experience the gorge with friends in an adventure in nature, summer activity.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03395833db09c835be8ae929a454c87d.JPG"
-    },
-    {
-      "alternativeText": "La Tine Canyoning: Experience the water basin surrounded by impressive rocks in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bc5bb683038f819377d9bc7dc29fd184.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the gorge: exciting adventure in an impressive natural setting.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d93c29fb3484892f1c43da49f9ad023a.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

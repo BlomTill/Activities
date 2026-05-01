@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Day trip to Grindelwald with ski course for beginners in Switzerland.",
   "longDescription": "Discover From Zurich: Day trip to Grindelwald with ski course for beginners in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skiing in Grindelwald with a view of the mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Skilehrer_Kurs_Best_of_Switzerland_9fa2e17396.jpg"
-    },
-    {
-      "alternativeText": "Skiing in Grindelwald on a sunny day, snow, and mountain scenery.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_Skifahren_Winter_Best_of_Switzerland_9061aaf668.jpg"
-    },
-    {
-      "alternativeText": "Skiing ski instructor in winter sports area with beginners.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Zauberteppich_Best_of_Switzerland_15e3b2e422.jpg"
-    },
-    {
-      "alternativeText": "Grindelwald in winter with snow-covered mountains and clear visibility.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grindelwald_Winter_Best_of_Switzerland_8ba468b037.jpg"
-    },
-    {
-      "alternativeText": "Skiing in Grindelwald in sunshine, snow-covered slopes, happy skiers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bodmi_Arena_Best_of_Switzerland_b8abe5d720.jpg"
-    },
-    {
-      "alternativeText": "Skiing in Grindelwald under blazing sunshine, numerous skiers on the slopes",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bodmi_Arena_Skifahren_Best_of_Switzerland_bf723289b5.jpg"
-    },
-    {
-      "alternativeText": "Skiing with a ski instructor in ski school, beginner with equipment on snow.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skifahren_Skilehrer_Anfaenger_Best_of_Switzerland_9e70bc3db0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "grindelwald"

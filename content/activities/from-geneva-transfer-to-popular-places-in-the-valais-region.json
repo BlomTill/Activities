@@ -5,17 +5,9 @@
   "description": "Discover From Geneva or Geneva Airport: transfer to popular places in the Valais region in Switzerland.",
   "longDescription": "Discover From Geneva or Geneva Airport: transfer to popular places in the Valais region in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "105",
-    "title": "Transfer",
-    "slug": "transfer",
-    "description": "Book a transfer and get to your destination comfortably. A transfer is made by car or bus between two places. Very often it is a transfer from or to the airport. For bookable transfers, the starting point or destination is usually fixed (for example, the airport in Geneva). For the opposite, a city or place is fixed. Private transfers ensure you and your fellow travelers a comfortable ride to the destination\n"
-  },
+  "subcategory": "Transfer",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,58 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Andermatt: picturesque landscape with mountains and the charming village in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Andermatt_Pixabay_75a20d3f04.jpg"
-    },
-    {
-      "alternativeText": "Brig: magnificent architecture with historic towers in the heart of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Brig_Unsplash_79b89088d7.jpg"
-    },
-    {
-      "alternativeText": "Champery: impressive mountain landscape with snow-capped peaks and green valleys.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Champery_Unsplash_769e6ac87a.jpg"
-    },
-    {
-      "alternativeText": "Crans Montana: Picturesque landscape with mountains, lake, and autumnal vegetation. Ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Crans_Monata_Unsplash_bb1e9141ad.jpg"
-    },
-    {
-      "alternativeText": "Fiesch: Snow-covered mountain houses in winter with a breathtaking view of the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Fiesch_Pixabay_d286869109.jpg"
-    },
-    {
-      "alternativeText": "Grimentz: Beautiful mountain village with traditional chalets and stunning mountain scenery in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Grimentz_Unsplash_1ada7b1aa3.jpg"
-    },
-    {
-      "alternativeText": "Leukerbad: Relax in the warm spring water surrounded by mountains in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Leukerbad_Pixabay_832dba9451.jpg"
-    },
-    {
-      "alternativeText": "Saas Fee: picturesque mountain landscape with traditional chalets and surrounding Alps in winter.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Saas_Fee_Unsplash_aa2a65ba45.jpg"
-    },
-    {
-      "alternativeText": "Verbier features picturesque chalets in the snow, ideal for your winter vacation in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Verbier_Unsplash_979678faf0.jpg"
-    },
-    {
-      "alternativeText": "Zermatt: breathtaking view of the Matterhorn Lake with mountains and clear sky, beautiful year-round.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zermatt_Bergsee_Matterhorn_Seraina_974a7eb633.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

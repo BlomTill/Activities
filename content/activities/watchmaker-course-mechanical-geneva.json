@@ -5,17 +5,9 @@
   "description": "Discover Watchmaking course mechanical watch in Geneva in Switzerland.",
   "longDescription": "Discover Watchmaking course mechanical watch in Geneva in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Uhrmachermeister",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/218f10a5d3d73c9741f09157d12904dd.jpg"
-    },
-    {
-      "alternativeText": "mechanische Uhrenteile",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/aa93b9d324584677ec8f09e1dc7240ce.jpg"
-    },
-    {
-      "alternativeText": "mechanische Uhrenteile",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7473bea8ed31b8d33a91669629553c4f.jpg"
-    },
-    {
-      "alternativeText": "Teilnehmer",
-      "caption": "Uhrenworkshop",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a66f1a8a5929cb8224aa59f050260157.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "watch",

@@ -5,17 +5,9 @@
   "description": "Discover Täsch Zermatt Shuttle in Switzerland.",
   "longDescription": "Discover Täsch Zermatt Shuttle in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "70",
-    "title": "Train ticket",
-    "slug": "train-ride",
-    "description": "Find your perfect train ticket for your trip to Switzerland here. Switzerland is a country that is very well connected by train. Whether it's for an experience journey, a panoramic train ride, a culinary experience or simply to get from point A to point B, a train ride in Switzerland is (almost) always associated with impressive views. Thus, a train ride serves not only as a means of transportation, but as a destination in itself. Among the most famous train rides in Switzerland are the Glacier Express, the Bernina Express, the Gotthard Panorama Express, and the Golden Pass Line."
-  },
+  "subcategory": "Train ticket",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,63 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "MGB Shuttle: Modern train in the picturesque mountains, ideal for excursions into nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_1_Seraina_51d9d1b797.jpg"
-    },
-    {
-      "alternativeText": "Taesch: Beautiful landscape with river, mountains, and railway in the Alps. Ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Taesch_Seraina_14ba619c80.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: Enjoy a breathtaking hike in the mountains during summer with stunning views.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_2_Seraina_188f29f352.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: impressive train in front of the mountains in a nature paradise, perfect for adventures and outings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_3_Seraina_3f6149dcbd.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: Train along the river in the mountains, perfect for groups and adventures in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_4_Seraina_2d066355c2.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: Enjoy the train ride through the Engadin with mountains, forests, and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_5_Seraina_9e0f445c72.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: Transport to Täsch, perfect for winter sports and outings in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_6_Seraina_a1af4ce4a2.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: Ticket machines with practical information for travelers at the train station.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_7_Seraina_6013b299c8.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: precise image of the train of the Matterhorn Gotthard Bahn, ideal for skiing in the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_8_Seraina_01a8f9e657.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: Chill out while driving through the mountains in Lauterbrunnen in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_9_Seraina_a21dc03b88.jpg"
-    },
-    {
-      "alternativeText": "MGB Shuttle: modern cogwheel train in Zermatt, ideal for adventures and group trips.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/MGB_10_Seraina_10c32ce0ad.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "zermatt"

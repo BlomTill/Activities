@@ -5,17 +5,9 @@
   "description": "Discover Pony Club in Lausen in Switzerland.",
   "longDescription": "Discover Pony Club in Lausen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33819",
-    "title": "Animal experiences",
-    "slug": "animal-experiences",
-    "description": "Discover and book exciting animal encounters across Switzerland. Experience animals up close through a variety of activities and explore the special bond between humans and animals. You can get to know the animals, learn about their personalities and needs, and practice respectful interaction. These experiences offer memorable moments for families, children, and anyone wanting to engage actively with animals in a natural setting."
-  },
+  "subcategory": "Animal experiences",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "4G6A0841",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b9b7c7b1d6ffdb7e29298c770059598a.JPG"
-    },
-    {
-      "alternativeText": "4G6A1892",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5ff9177c061b7617b9d00d0f779d2e50.JPG"
-    },
-    {
-      "alternativeText": "4G6A0895",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f4fa6bfe41e56abdb11035fc7419e56.JPG"
-    },
-    {
-      "alternativeText": "4G6A0750",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/46c3c5825803ec34091f644f4707aa5a.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

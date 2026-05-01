@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Bus tour to the Rhine Falls half day in Switzerland.",
   "longDescription": "Discover From Zurich: Bus tour to the Rhine Falls half day in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Rhine Falls Day Trip with bubbling water and green shores.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinfall_1_3b70c29e57.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls with boat tour, green surroundings and blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinfall_3_fe366b852d.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls Boat Tour with Passengers and Waves",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinfall_Boot_Tour_Best_of_Switzerland_Tours_55b8760ea3.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls Day Trip with Visit to the Waterfall and Surroundings in Zurich",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_e96972815dcae72c9199fc0cfc494668_bc60af1b94.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls on a Day Trip in Zurich with Bubbling Water and Green Surroundings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_1eb98c4e37a22e7e5c7c173ce33b27be_72e07a75c5.jpg"
-    },
-    {
-      "alternativeText": "Rhine Falls Day Trip with View of Waterfall and Nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Panoramalift_Rheinfall_Best_of_Switzerland_Tours_c21dc83b1a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

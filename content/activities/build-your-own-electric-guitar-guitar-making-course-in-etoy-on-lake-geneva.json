@@ -5,17 +5,9 @@
   "description": "Discover \"Build Your Own Electric Guitar\" Guitar-Making Course in Etoy on Lake Geneva in Switzerland.",
   "longDescription": "Discover \"Build Your Own Electric Guitar\" Guitar-Making Course in Etoy on Lake Geneva in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "JSGuitars1",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/948a9c77d76ad19de4a8daf74adc8852.jpg"
-    },
-    {
-      "alternativeText": "JSGuitars2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/597fbf2158fb4b9f23a7b35c7acb142a.jpg"
-    },
-    {
-      "alternativeText": "JSGuitars3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/694687bd421b3a081227c7d747038e28.jpg"
-    },
-    {
-      "alternativeText": "JSGuitars4",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9058fdf4ca52104e9ee79e9d2da5a19d.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

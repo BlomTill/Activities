@@ -5,17 +5,9 @@
   "description": "Discover Schynige Platte Helicopter Skydive in Switzerland.",
   "longDescription": "Discover Schynige Platte Helicopter Skydive in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "22",
-    "title": "Skydiving",
-    "slug": "skydiving",
-    "description": "Find and book the right skydive for you here. The ultimate adrenaline kick you get without a doubt during the free fall. You jump in a tandem jump from a height of three to four kilometers into nothingness and you don't even need any training. Hotspots for skydiving are Interlaken, Reichenbach, Lucerne, Zurich and Lugano. You can jump either from a helicopter or from a plane."
-  },
+  "subcategory": "Skydiving",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Skydive Interlaken with participant and instructor jumping over Lake Thun.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skydive_Dennis_72563835dc.JPG"
-    },
-    {
-      "alternativeText": "Pilots in tandem jumps over the mountains at an altitude of 4000 meters.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_4182d2e3852cf7b5208a836a8dec5c7b_73bdb95cde.jpg"
-    },
-    {
-      "alternativeText": "Jumped out of the helicopter over the Swiss Alps, skydiving activity in orange suit",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/G0010419_a8e1c7d1a2.jpg"
-    },
-    {
-      "alternativeText": "Paragliding over picturesque landscape with a view of the city and river",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_jump_skydive_interlaken_01_8b26403572.jpg"
-    },
-    {
-      "alternativeText": "Free fall while skydiving over the Swiss Oberland, clear view of the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_80f38d2392a2deeacf94388a10a57873_3b555b04e6.jpg"
-    },
-    {
-      "alternativeText": "Trio Eiger, Mönch and Jungfrau with parachuting couple",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_eiger_mountain_switzerland_fe32c2b440.jpg"
-    },
-    {
-      "alternativeText": "Skydive Interlaken: Jumpers in training wearing orange gear",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skydive_Dennis_Leon_Seraina_bc18e27239.jpg"
-    },
-    {
-      "alternativeText": "Skydive Interlaken: Skydiving over Swiss Alps with clouds",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Skydive_Landung_Seraina_d9ccf8af81.jpg"
-    },
-    {
-      "alternativeText": "Skydive Interlaken with paragliding on a green field.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Landung_Skydive_Basis_Seraina_4074c2ae23.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

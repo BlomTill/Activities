@@ -5,17 +5,9 @@
   "description": "Discover Shooting competition for groups in Switzerland.",
   "longDescription": "Discover Shooting competition for groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30614",
-    "title": "Shooting and Throwing Sports",
-    "slug": "shooting-and-throwing-sports",
-    "description": "Choose your activity in shooting or throwing sports here. This includes athletic disciplines that focus on precise aiming and throwing. These disciplines require a combination of technique, concentration, and physical control. Shooting sports include activities like archery and crossbow shooting as well as shooting with firearms. Throwing sports include events like javelin and hammer throw, shot put, and discus throw. For social competitions, other throwing objects, like targeted axe throwing, are also possible."
-  },
+  "subcategory": "Shooting and Throwing Sports",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,53 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Competition shooting contest in Switzerland with participant",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dscpfeilbogen_e870fc6c7d.jpg"
-    },
-    {
-      "alternativeText": "Crossbow shooting in Switzerland, person aims with crossbow, spring-like weather",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Titel_armbrust3_4a75157a62.jpg"
-    },
-    {
-      "alternativeText": "Competition Shooting Contest, Participants with Rifles, Outdoor Sporting Event",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_2990_3ed4982b51.jpg"
-    },
-    {
-      "alternativeText": "Archery Competition Switzerland, sports activity, bow and arrow, green meadow",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_1971_2208d679f5.jpg"
-    },
-    {
-      "alternativeText": "Archery competition Switzerland, archer with arrow, bright blue sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bogenschiessen2_e48ab8cd4a.jpg"
-    },
-    {
-      "alternativeText": "Archery competition in Switzerland, archer aims at the target.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bogenschiessenklein_293814521_bdb85ea2b1.gif"
-    },
-    {
-      "alternativeText": "Competition betting shooting in Switzerland with participants and sports equipment.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_1992_cbb482c164.jpg"
-    },
-    {
-      "alternativeText": "Archery competition Switzerland with targets and arrows in various colors",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bogenschiessenklein466_1e41267b7a.jpg"
-    },
-    {
-      "alternativeText": "Target board at the competition of archery in Switzerland, arrows sticking in the target",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/dsc_6814_c1faaab598.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

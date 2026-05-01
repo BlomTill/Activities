@@ -5,17 +5,9 @@
   "description": "Discover Day pass for all zones in the ZVV fare association in Switzerland.",
   "longDescription": "Discover Day pass for all zones in the ZVV fare association in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "130",
-    "title": "Swiss Rail Passes",
-    "slug": "rail-pass",
-    "description": "With a rail pass for tourists, you can explore Switzerland perfectly by public transport. With the right ticket you save money, time and nerves and always have the right companion with you. Find your rail pass here and travel to the region you want without having to worry about your ticket."
-  },
+  "subcategory": "Swiss Rail Passes",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,73 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Tram",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6bd51c23ffcb2b7fbfad25e149fdf9c3.jpg"
-    },
-    {
-      "alternativeText": "Bus",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e0f0dded76ac6de388358dab239f24c0.jpg"
-    },
-    {
-      "alternativeText": "Zürich ",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/01906aad5fa923c9bb0e8624bf1367fe.jpg"
-    },
-    {
-      "alternativeText": "Schiff Bürkliplatz",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2331c621133f86568cab213114400c1f.jpg"
-    },
-    {
-      "alternativeText": "Bürkliplatz",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/08f99a9621ccd3a4ddf780077098ca00.jpg"
-    },
-    {
-      "alternativeText": "Limmat",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/430166a8fa4638bab7b76bc6bb93192f.jpg"
-    },
-    {
-      "alternativeText": "Bahnhof Zug",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5d6e2c9a27e66cbceff8148b95cea64a.jpg"
-    },
-    {
-      "alternativeText": "Quaibrücke mit Trambahnen",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48cc3b9cef629c370397a2d60875767e.jpg"
-    },
-    {
-      "alternativeText": "Uetliberg",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/873b00268b8d5ca0a837e50adf4a7085.jpg"
-    },
-    {
-      "alternativeText": "Brücke zur Altstadt",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6c76d5a10b52a9a8c51041ad57966528.jpg"
-    },
-    {
-      "alternativeText": "Uetliberg",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9389212450c57b401da8bb5bd411481.jpg"
-    },
-    {
-      "alternativeText": "Tram am Bahnhof",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a81eb2762fc48f7366e9779c03c2ec0c.JPG"
-    },
-    {
-      "alternativeText": "Opernhaus",
-      "caption": "ZVV",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/236cbaadaffde3095d78b8bf7a17fbdf.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

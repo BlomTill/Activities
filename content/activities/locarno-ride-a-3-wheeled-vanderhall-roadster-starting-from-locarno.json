@@ -5,17 +5,9 @@
   "description": "Discover Locarno: Ride in a 3-wheeled Vanderhall Roadster in Switzerland.",
   "longDescription": "Discover Locarno: Ride in a 3-wheeled Vanderhall Roadster in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "63",
-    "title": "Quad",
-    "slug": "quad",
-    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
-  },
+  "subcategory": "Quad",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Roadster-Tessin-Hero-scaled Locarno",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/353dfad581be0fc16146c948eea70e9b.jpg"
-    },
-    {
-      "alternativeText": "blog3 Locarno",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/228477354f7f023e4993c7d2da6b310e.jpg"
-    },
-    {
-      "alternativeText": "MG_5704-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2c7eeeb6fddbe9388babc765c74c070d.jpg"
-    },
-    {
-      "alternativeText": "MG_5712-scaled",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/30665fc616ef4a0be3b61d9ecf0e1a2a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

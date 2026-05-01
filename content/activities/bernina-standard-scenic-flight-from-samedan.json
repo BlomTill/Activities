@@ -5,17 +5,9 @@
   "description": "Discover Bernina Standard Helicopter Scenic Flight from Samedan in Switzerland.",
   "longDescription": "Discover Bernina Standard Helicopter Scenic Flight from Samedan in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "_DSC0421",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4a1c92e62886344e225dd7c0f713c456.jpg"
-    },
-    {
-      "alternativeText": "_DSC0074",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2fefde2b17fdee31357d984a786f7ef1.jpg"
-    },
-    {
-      "alternativeText": "_DSC0915",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/24388884a49dad177262c67bc1a3e4cf.jpg"
-    },
-    {
-      "alternativeText": "_DSC2182",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e98808ef7a63c939527b5e9cd9f82fd1.jpg"
-    },
-    {
-      "alternativeText": "_DSC9094",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/bb56ccdcb3f5da4e02b07dc85569404c.jpg"
-    },
-    {
-      "alternativeText": "_DSC9906",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c996e78a6e494713a5b35896047d8bf9.jpg"
-    },
-    {
-      "alternativeText": "_F5A4889",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/50a1540d833db3e5866dd30800bb4b35.jpg"
-    },
-    {
-      "alternativeText": "_F5A5064",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2999264be9b5b3f491d8419e06828e9c.jpg"
-    },
-    {
-      "alternativeText": "_F5A5185",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d9b16b3a595456c3db3c00e847f6bff4.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "scenic",

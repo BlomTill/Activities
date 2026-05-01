@@ -5,17 +5,9 @@
   "description": "Discover Stein am Rhein interactive scavenger hunt with smartphone in Switzerland.",
   "longDescription": "Discover Stein am Rhein interactive scavenger hunt with smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Mobile treasure hunt in Stein am Rhein, background with clock tower, fascinating old town.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Handy_Schnitzeljagd_Stein_am_Rhein_c9ba275d2a.png"
-    },
-    {
-      "alternativeText": "Treasure Hunt in Stein am Rhein with Historical Buildings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schnitzeljagd_Stein_am_Rhein_Spiel_a2b6b9ead9.png"
-    },
-    {
-      "alternativeText": "Stein am Rhein Old Town with historical buildings and fountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_22dc0cb12be1e5ed71a3212f828b7c0a_6e93e86c2a.jpg"
-    },
-    {
-      "alternativeText": "Group of people on a treasure hunt in Stein am Rhein old town",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_aec320a0706017ce268915ab34aeb4af_25a1aadf68.jpg"
-    },
-    {
-      "alternativeText": "Hand Stein am Rhein Old Town Scavenger Hunt, Statue with Details, Old Town",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_90db14ddb3f041a57a116d79859d35ba_1ee0620737.png"
-    },
-    {
-      "alternativeText": "Two women on a treasure hunt in Stein am Rhein",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Entdecken_Schnitzeljagd_Stein_am_Rhein_Raetsel_a491df0d5b.jpeg"
-    },
-    {
-      "alternativeText": "Treasure Hunt Puzzle Stein am Rhein with happy participants in the city center.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Raetsel_Schnitzeljagd_Stein_am_Rhein_5b49eb5b1d.jpg"
-    },
-    {
-      "alternativeText": "Fun treasure hunt in Stein am Rhein with happy participants in front of a statue.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spass_Schnitzeljagd_Stein_am_Rhein_Raetsel_5b133f7a47.jpeg"
-    },
-    {
-      "alternativeText": "Two women using mobile phones during treasure hunt in Stein am Rhein",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Team_Schnitzeljagd_Stein_am_Rhein_Raetsel_13c26fd94e.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

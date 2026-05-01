@@ -5,17 +5,9 @@
   "description": "Discover Night Watchman Tour Lucerne public (English) in Switzerland.",
   "longDescription": "Discover Night Watchman Tour Lucerne public (English) in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,113 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Crivelli House: fascinating architecture in the city with historic flair",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/28_Crivellihaus_16a4af02d0.jpg"
-    },
-    {
-      "alternativeText": "Lion Monument: impressive statue of the dying lion in Lucerne, surrounded by nature and rocks.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Loewendenkmal_47c9525dbc.jpg"
-    },
-    {
-      "alternativeText": "Musegg Wall: Historic city wall in Basel with towers and green surroundings, perfect for explorations.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Museggmauer_6c6a783c1f.jpg"
-    },
-    {
-      "alternativeText": "Cysat Pharmacy: Historic building with beautiful facade in the city center of Lucerne.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_Cysat_Apotheke_f2c9bf9ef0.jpg"
-    },
-    {
-      "alternativeText": "Reuss Bridge: Colorful houses by the Reuss in Lucerne, ideal for walking and exploring in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/19_Reussbruecke_913b3dce4c.jpg"
-    },
-    {
-      "alternativeText": "Chapel Bridge: picturesque bridge and Jesuit Church in Lucerne by the lakeshore, suitable for city sightseeing.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20_Kapellbruecke_Jesuitenkirche_08cefde4a4.jpg"
-    },
-    {
-      "alternativeText": "Martini Plan: historical city view with many details and scenes from life in the Middle Ages",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/001a_Martini_plan_clrd_1_884fa58e93.jpg"
-    },
-    {
-      "alternativeText": "Ritter Palace: Courtyard with columns and historical exhibits in architectural design.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/30_Ritterscher_Palast_Innenhof_a8f608606c.jpg"
-    },
-    {
-      "alternativeText": "Murder Night: Scene in an old butcher shop with people and a historic oven, meat, and artisanal flair",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/037_Mordnacht_Ofen_Metzgere_5a68a9fb4e.jpg"
-    },
-    {
-      "alternativeText": "Chapel Bridge: Historic image with a winter view of Lucerne and picturesque architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/033_Kapellbruecke_um_1897_Joseph_Clemens_Kaufmann_62b9cc8523.jpg"
-    },
-    {
-      "alternativeText": "Gates: Historical image with figures and architecture in the picturesque style of Xaver Schwegler.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/034_Xaver_Schwegler_Die_Tore_zur_1_1_fb7c096abe.jpg"
-    },
-    {
-      "alternativeText": "Füssli: Dream Landscape with Sleeping Woman and Alp, Dark Art Scene of the 18th Century.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/035_Fuessli_Johann_Heinrich_The_Nightmare_a4b4ded5be.jpg"
-    },
-    {
-      "alternativeText": "Dance of Death: impressive historical image with figures and skeletons depicting the dance of death.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/31_Totentanz_Tafel1_3a73ae935c.jpg"
-    },
-    {
-      "alternativeText": "Danse Macabre: impressive painting with skeletons and figures symbolizing death.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/066_ttanz_132_aac552dd99.jpg"
-    },
-    {
-      "alternativeText": "Dance of Death Panel: impressive artwork featuring scenes of life and death.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/067_ttanz_133_eddb472e3d.jpg"
-    },
-    {
-      "alternativeText": "Danse Macabre: historical painting that explores the dance with death and prompts reflection.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/070_ttanz_137_1_3e88cf8b0b.jpg"
-    },
-    {
-      "alternativeText": "The Gates to Hofbruecke: Historic gate, picturesque cityscape with architecture, art, and fascination.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Die_Tore_zur_Hofbruecke_und_Schifflaende_Xaver_Schwegler_1000_836cd31cee.jpg"
-    },
-    {
-      "alternativeText": "Diebold Schilling: Historical painting featuring depictions of people in a room",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Diebold_Schilling_4cbe7e803f.jpg"
-    },
-    {
-      "alternativeText": "Sonnenberghaus in Gütersloh: Picturesque city view with historic buildings and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Gutersohn_Ulrich_Sonnenberghaus_32d193d14a.jpg"
-    },
-    {
-      "alternativeText": "Right bank of the Reuss River with historic town hall, picturesque architecture and tranquil water view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rechtes_Reussufer_mit_Rathaus5_1_7767907084.jpg"
-    },
-    {
-      "alternativeText": "Suidtersche Apotheke: Historical interior with old pharmaceutical products and antique furniture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Suidtersche_Apotheke_15809f24eb.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "watch",

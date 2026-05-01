@@ -5,17 +5,9 @@
   "description": "Discover A nomad adventure with yaks to the La Tièche waterfalls in Switzerland.",
   "longDescription": "Discover A nomad adventure with yaks to the La Tièche waterfalls in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "33819",
-    "title": "Animal experiences",
-    "slug": "animal-experiences",
-    "description": "Discover and book exciting animal encounters across Switzerland. Experience animals up close through a variety of activities and explore the special bond between humans and animals. You can get to know the animals, learn about their personalities and needs, and practice respectful interaction. These experiences offer memorable moments for families, children, and anyone wanting to engage actively with animals in a natural setting."
-  },
+  "subcategory": "Animal experiences",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "batch_20251018_150044",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/258c480aa4a90cdab2c17084de1dd6ed.jpg"
-    },
-    {
-      "alternativeText": "20250609_111317",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb1e4550cdfcf781e5d45b12d957bc7c.jpg"
-    },
-    {
-      "alternativeText": "20250609_135853",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/279f577a00e9017743f55bebf6bc138c.jpg"
-    },
-    {
-      "alternativeText": "20240519_124549",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/dd61d701e20d5ef8d25df11c5c2bc2ed.jpg"
-    },
-    {
-      "alternativeText": "20251018_135355",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/fcc5997759560cdb3134b48805c71136.jpg"
-    },
-    {
-      "alternativeText": "batch_20251018_135827",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c5841e9b66fe67db9cfa0363f84978ce.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "waterfall",

@@ -5,17 +5,9 @@
   "description": "Discover E-Bike Tour Interlaken Valley from Interlaken in Switzerland.",
   "longDescription": "Discover E-Bike Tour Interlaken Valley from Interlaken in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "58",
-    "title": "Mountain bike",
-    "slug": "mountain-bike",
-    "description": "Rent your mountain bike here or book a guided tour with a professional guide. Ride up the mountain on one side and down the other: Why toil in a stuffy gym? You can accomplish the same thing much more pleasantly in wonderful natural surroundings in the fresh air. Whether you prefer a more strenuous tour in the mountains with a conventional mountain bike or a more relaxed outing with the support of an e-mountain bike is entirely up to you."
-  },
+  "subcategory": "Mountain bike",
   "location": {
-    "region": {
-      "id": "196",
-      "title": "Bern Region"
-    },
+    "region": "Bern Region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "2000x2000-0-70-37e0913c795ab833ee7d4c7f7e595237",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/753ab60aebe0f8435989bfec08a16d9f.jpg"
-    },
-    {
-      "alternativeText": "2000x2000-0-70-1b06f04bbe84978dfb8b643753c8aa74",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5b8cc0e9abcf6f9d15584665b8137833.jpg"
-    },
-    {
-      "alternativeText": "2000x2000-0-70-1d29140478d878f604be3d9b63db4e2c",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e6142abb01edc64f1f4805962247df7b.jpg"
-    },
-    {
-      "alternativeText": "2000x2000-0-70-74a7cd30cec11319d77751c8a678631d",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7b3b0854285be85797a0a6a3c969cba4.jpg"
-    },
-    {
-      "alternativeText": "2000x2000-0-70-94ee88d63d1383ba5f8e62847f924b57",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0d7aad0f875e75b2531f2a8894d41de5.jpg"
-    },
-    {
-      "alternativeText": "2000x2000-0-70-b6f425e4d27e18f024eb72fe29d48f19",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/da1077c02319ef580168a415e0761434.jpg"
-    },
-    {
-      "alternativeText": "2000x2000-0-70-dddd3783dd9eef606408875b18129098",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/49d2814a438d47f2bd96c9548d631252.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

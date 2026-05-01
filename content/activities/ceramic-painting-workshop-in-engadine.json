@@ -5,17 +5,9 @@
   "description": "Discover Ceramic painting workshop in Engadine in Switzerland.",
   "longDescription": "Discover Ceramic painting workshop in Engadine in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ceramic Painting: Creative Painting Techniques for Groups and Children in an Inspiring Studio.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Keramikmalen_535c761524.jpg"
-    },
-    {
-      "alternativeText": "Sent: picturesque mountain landscape with traditional architecture and colorful trees in autumn.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sent_Unsplash_cd70e0d2af.jpg"
-    },
-    {
-      "alternativeText": "Ceramic painting in Sent, picturesque streets and art in the nature of Switzerland.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sent_1_Seraina_23f7d763f0.jpg"
-    },
-    {
-      "alternativeText": "Ceramic painting in Sent, idyllic village view with mountains and a historical fountain.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sent_2_Seraina_e05ca56ceb.jpg"
-    },
-    {
-      "alternativeText": "Engadin: Visitors enjoy ceramic painting in Sent, a charming village with historic buildings.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engadin_Unsplash_92a40efc71.jpg"
-    },
-    {
-      "alternativeText": "Engadine house in Sent with ceramic paintings, idyllic landscape and historic architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Engadiner_Haus_Pixabay_f6478f0c3c.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

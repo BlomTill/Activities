@@ -5,17 +5,9 @@
   "description": "Discover Creative team event \"Wine Painting & Wine Tasting\" in Heerbrugg in Switzerland.",
   "longDescription": "Discover Creative team event \"Wine Painting & Wine Tasting\" in Heerbrugg in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "113",
-    "title": "Workshop",
-    "slug": "creative-workshop",
-    "description": "Find the right workshop for you here to live out your creativity. You work together on a topic in a limited amount of time. A workshop can also be about having fun together. You can redesign fabrics together, make your own jewelry or redecorate something. You learn different techniques and get ideas for your own further design. Some of these workshops take place indoors and some outdoors."
-  },
+  "subcategory": "Workshop",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "19",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7373f9e233b93c71a87a90449248933b.jpg"
-    },
-    {
-      "alternativeText": "12",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/4735e2dd62229d4811129909756ca26a.jpg"
-    },
-    {
-      "alternativeText": "8",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c423922768a8db3c63ceb5926e74c8ac.jpg"
-    },
-    {
-      "alternativeText": "16",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/19aa959c826888b7c09c1af766494a0e.jpg"
-    },
-    {
-      "alternativeText": "5",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a2bb70d735d0c91a2ed83a4a38fb6da0.jpg"
-    },
-    {
-      "alternativeText": "21",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7a68007745b3adc5eb43cf6b4e0f0afa.jpg"
-    },
-    {
-      "alternativeText": "20",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8324c5635bf559e65c8ebbc33fedc7df.jpg"
-    },
-    {
-      "alternativeText": "13",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86286c0b572065befcd270273c6b429a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "wine"

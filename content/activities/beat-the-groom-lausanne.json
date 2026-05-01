@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the groom\" in Lausanne: action-packed stag party in Switzerland.",
   "longDescription": "Discover \"Beat the groom\" in Lausanne: action-packed stag party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Landscape: Panorama of the mountains and the city of Geneva in the background, harmonious connection between nature and urban life.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/landscape_pixabay_ea2a2e8ddd.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Playful group activity outdoors in summer at a beautiful location.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_3_669161834b.jpg"
-    },
-    {
-      "alternativeText": "View of Lake Geneva: picturesque city view with mountains and autumn colors, ideal for travel and relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/mark_de_jong_Kaf_I_Hg_Tf3_JY_unsplash_6063b31ab7.jpg"
-    },
-    {
-      "alternativeText": "Beat the Groom: Fun group with T-shirts celebrates outdoors with drinks and beautiful nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_1_ccd5813c46.jpg"
-    },
-    {
-      "alternativeText": "Teambuilding: Five friends celebrate by the water with sunshine and drinks in stylish t-shirts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_B_2_22e1365d4b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lausanne"

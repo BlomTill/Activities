@@ -5,17 +5,9 @@
   "description": "Discover \"Cyber Punk\" virtual reality game in Zurich in Switzerland.",
   "longDescription": "Discover \"Cyber Punk\" virtual reality game in Zurich in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "139",
-    "title": "Virtual Reality Games",
-    "slug": "virtual-reality-games",
-    "description": "Find the right VR game for you here.\nVirtual reality games offer you the opportunity to immerse yourself in fascinating virtual worlds that appear as realistic as if you were actually there. In these games, you can move through and explore computer-generated, three-dimensional and multimedia environments in real time. You usually use a VR headset that has a display in front of your eyes and is attached to your head. This technology is constantly evolving. There are already input devices that can give you haptic feedback on your hands and other parts of your body.\n"
-  },
+  "subcategory": "Virtual Reality Games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,48 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "VR Cyberpunk: futuristic cityscape with neon lights and digital technology",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Cyberpunk_2_878f801b71.jpg"
-    },
-    {
-      "alternativeText": "VR Cyber Punk: discover the captivating world of virtual reality with interactive experiences",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_3_8441b14ddf.jpg"
-    },
-    {
-      "alternativeText": "VR Cyberpunk: futuristic 3D world with technology and neon lights in a digital environment",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Cyberpunk_4_73571c5ede.jpg"
-    },
-    {
-      "alternativeText": "VR Cyber Punk: Experience futuristic worlds with interactive technology for exciting adventures.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_2_b49a608f4c.jpg"
-    },
-    {
-      "alternativeText": "Cyberpunk: Futuristic VR environment with technical equipment and glowing elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Cyberpunk_5_825869f6ab.jpg"
-    },
-    {
-      "alternativeText": "VR Cyber Punk: Experience captivating virtual worlds with cutting-edge technology and interactive elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_1_977ff728d4.jpg"
-    },
-    {
-      "alternativeText": "VR Cyberpunk: futuristic space with machines and devices in red light, experiencing cutting-edge technology.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/ER_Cyberpunk_6_7fc2ace155.jpg"
-    },
-    {
-      "alternativeText": "VR Cyber Punk: interactive virtual reality with state-of-the-art technology and engaged users.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/coop_virtual_reality_6_f3b40df92b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

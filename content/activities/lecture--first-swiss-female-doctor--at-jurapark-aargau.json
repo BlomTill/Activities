@@ -5,17 +5,9 @@
   "description": "Discover Lecture \"first Swiss female doctor\" at Jurapark Aargau in Switzerland.",
   "longDescription": "Discover Lecture \"first Swiss female doctor\" at Jurapark Aargau in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "86",
-    "title": "Hiking",
-    "slug": "hiking",
-    "description": "Find the right hike for you and book here. Switzerland is a paradise for all hikers and nature lovers and has a gigantic network of signposted trails. There are more than 65,000 km in Switzerland and the Principality of Liechtenstein, of which more than 22,000 km are mountain trails. When hiking, you walk along designated paths or follow marked trails. It doesn't matter whether you follow an expert person through Swiss nature or use a map. You will learn a lot of exciting things about the environment you are exploring."
-  },
+  "subcategory": "Hiking",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,28 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bözen: charming village with cows, green meadows, and a picturesque church in the summer landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Boezen_8532b8768e.JPG"
-    },
-    {
-      "alternativeText": "Linn: Edge of settlement with high-stem trees and green landscape in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Linn_dorf_siedlungsrand_hochstammbaeume_ah_frei_e78ef22045.JPG"
-    },
-    {
-      "alternativeText": "Sagimülitäli near Linn: Beautiful hiking trail through blooming meadows and hilly landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Sagimuelitaeli_bei_Linn_Jurapark_Aargau_Geri_Hirt_0c7e792ddf.JPG"
-    },
-    {
-      "alternativeText": "Heuberger Winery: Grapes, idyllic landscape, sunny summer evening in Baden-Württemberg",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Weingut_Heuberger_4a7f4c90d8.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

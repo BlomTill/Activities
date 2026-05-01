@@ -5,17 +5,9 @@
   "description": "Discover In Geneva: Bus tour to Gruyères, cheese dairy, chocolate factory, and Golden Pass Line in Switzerland.",
   "longDescription": "Discover In Geneva: Bus tour to Gruyères, cheese dairy, chocolate factory, and Golden Pass Line in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,93 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Golden Pass Line",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/48e24251ce8c6fc1a7c7123faafa0353.jpg"
-    },
-    {
-      "alternativeText": "Gruyères",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/58a97becabb588482c66734011ef07ae.jpg"
-    },
-    {
-      "alternativeText": "La maison du Gruyères",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ea46fc95a4d0c06425cc8383a01ab049.jpg"
-    },
-    {
-      "alternativeText": "Schokoladenfabrik",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c4e58341cc03a0d9d5dc25a56e560f85.jpg"
-    },
-    {
-      "alternativeText": "Golden Pass Line",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1521b81149c62393ceaf53caab11e7ac.jpg"
-    },
-    {
-      "alternativeText": "Gruyères Castle, historical architecture, green surroundings in 2023.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9018551708_f50dc2de36_o_96023bb09a.jpg"
-    },
-    {
-      "alternativeText": "Golden Pass Line drives through the vineyards near Gruyères.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gplmz005_cc72a0401c.jpg"
-    },
-    {
-      "alternativeText": "Golden Pass Line",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0879c0e1c5e13eabf0c8078584803e0b.jpg"
-    },
-    {
-      "alternativeText": "Family observes chocolate display in Gruyères.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/3_Tasting_Room_Horizontal_HD_RVB_web_c20cf566f4.jpg"
-    },
-    {
-      "alternativeText": "Factory with machines in workshop, rotating parts, wood and metal",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/18_Fabrik_7336c2e506.jpg"
-    },
-    {
-      "alternativeText": "Schokoladenfabrik",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b955c37bc7178f28760e6c439c399be2.jpg"
-    },
-    {
-      "alternativeText": "La maison du Gruyères",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1e58bf4e20761e755cecd1d066e3110f.JPG"
-    },
-    {
-      "alternativeText": "La maison du Gruyères",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0770c45f819229f483360dffddad1231.jpg"
-    },
-    {
-      "alternativeText": "La maison du Gruyères",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eab7dced5d9b286a7698b3f91ae5bde5.jpg"
-    },
-    {
-      "alternativeText": "Gruyères",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e8264c56942458389938935bfb565d4d.jpg"
-    },
-    {
-      "alternativeText": "Gruyères",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0b6e9f0602f593fb590918c90b1fe768.jpg"
-    },
-    {
-      "alternativeText": "Gruyères",
-      "caption": "Gruyères, Alpkäserei, Schokoladenfabrik und Golden Pass Line",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c6f12f4fdafdc9f0972d3011d6bffefc.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "chocolate",

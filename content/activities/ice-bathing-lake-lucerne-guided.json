@@ -5,17 +5,9 @@
   "description": "Discover Ice Bathing in Lake Lucerne in Switzerland.",
   "longDescription": "Discover Ice Bathing in Lake Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "30847",
-    "title": "Winter Experiences",
-    "slug": "winter-experiences",
-    "description": "Book your special winter experience here. You'll make new winter memories that go beyond the usual. A special highlight is the overnight stay in the igloo village, where you sleep under snow domes. Wrapped up warm, the winter experience is especially intense. The winter also offers extraordinary culinary moments. Meeting friends at the snow bar or sharing a fondue in a cozy mountain hut creates unforgettable moments. Surrounded by snow-capped peaks, you'll experience the winter magic in good company. These special experiences invite you to leave everyday life behind and enjoy the fresh mountain air. They make winter special and create lasting memories."
-  },
+  "subcategory": "Winter Experiences",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,63 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/590508c18e19a60295800a748196e6c1.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/774309ac08b9f1a1014fadb382b35a73.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/299be0fa3a739e86bb10ffcc207f0b09.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/1a307428845d21d895b265fff4f6eea0.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7cc5dbb3404ecb300e72fb24b2a05701.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/515603067a63465f2739e515ce659fad.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c5bc96efccf243e113eea0e4af351a04.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/77b0d0667b215ebef4669c40db0cc5f1.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/70da175d5d1e7617032c0ed6f49742c6.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22d8e7d4a32f6ff9a7ad43b99752ce2e.jpg"
-    },
-    {
-      "alternativeText": "Eisbaden",
-      "caption": "Vierwaldstättersee",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0ad6e7ee5da24c92acb996212fbab175.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

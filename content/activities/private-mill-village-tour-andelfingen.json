@@ -5,17 +5,9 @@
   "description": "Discover Private mill village tour Andelfingen in Switzerland.",
   "longDescription": "Discover Private mill village tour Andelfingen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "51",
-    "title": "Museums",
-    "slug": "museums",
-    "description": "Find the right admission ticket, course or guided tour of a museum here. Museums preserve and display cultural heritage. Of the over 1100 museums in Switzerland, one third are local museums. These are museums that depict life in the last centuries of the respective region. But larger attractions such as the Museum of Transport in Lucerne, the Technorama in Winterthur or various chocolate factories with walk-in visitor centers are also part of the Swiss museum landscape."
-  },
+  "subcategory": "Museums",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,38 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Haldenmuehle: historic building with castle and surroundings, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Haldenmuehle_mit_Schloss_218f8c9172.jpeg"
-    },
-    {
-      "alternativeText": "Obermühle Andelfingen: Historic lane with flower-adorned houses in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Obermuehle_Andelfingen_539bcc7771.jpeg"
-    },
-    {
-      "alternativeText": "Obermuehle: picturesque architecture with floral details in Andelfingen during summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Obermuehle_fef0ad6f7c.jpeg"
-    },
-    {
-      "alternativeText": "covered bridge over the river with green areas and clouds in the sky, ideal for nature lovers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_7783_b1845f3aa3.jpeg"
-    },
-    {
-      "alternativeText": "Mill: Traditional timber-framed house surrounded by flowers with pretty details.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_7740_1a8c2d9059.jpeg"
-    },
-    {
-      "alternativeText": "Mill on the stream with clear water and surroundings in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_7762_ad3b297dc9.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

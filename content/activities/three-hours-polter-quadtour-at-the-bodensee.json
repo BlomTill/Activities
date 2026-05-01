@@ -5,17 +5,9 @@
   "description": "Discover Three-hour polter quad tour on Lake Constance in Switzerland.",
   "longDescription": "Discover Three-hour polter quad tour on Lake Constance in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "63",
-    "title": "Quad",
-    "slug": "quad",
-    "description": "Book a tour on a quad bike or in a 4x4 off-road vehicle. If you love zooming over uneven terrain on four wheels, a quad tour is just the thing for you. These vehicles are so nimble that you can conquer almost any terrain with ease. Exploring rugged landscapes is even more fun in a group, even if you don't have any prior quad experience. The only thing you need to bring is a valid driver's license. With a 4x4 off-road vehicle, you'll also enjoy driving off the beaten path. With robust technology and four-wheel drive, you'll tackle steep slopes and muddy tracks. Whether you're driving or riding shotgun, you'll find real adventure in the wilderness."
-  },
+  "subcategory": "Quad",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Quad tour on a dusty path with ATVs in nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Kopie_von_Quad_Tour_2h_kl_11c18052c0.jpg"
-    },
-    {
-      "alternativeText": "ATV riding in the Alps, rider in helmet, autumn landscape",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Kopie_von_BBQ_Tour_kl_5207617d9c.jpg"
-    },
-    {
-      "alternativeText": "Quad tour with multiple vehicles in a green environment and cloudy sky",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Kopie_von_Spass_in_der_Natur_1024x680_f80739304b.jpg"
-    },
-    {
-      "alternativeText": "Friends celebrate at the quad tour in 2023 on a rooftop terrace",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Polter_2_kl_e3175cd1f2.jpg"
-    },
-    {
-      "alternativeText": "Five women celebrate during the quad tour in nature, beaming and laughing, summery atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/polter_tour_kl_d9a2c2f99f.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake"

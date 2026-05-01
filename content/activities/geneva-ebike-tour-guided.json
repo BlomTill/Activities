@@ -5,17 +5,9 @@
   "description": "Discover Guided Geneva Panorama E-Bike Tour: United Nations Square, Lake, and Old Town in Switzerland.",
   "longDescription": "Discover Guided Geneva Panorama E-Bike Tour: United Nations Square, Lake, and Old Town in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "48",
-    "title": "E-bike",
-    "slug": "e-bike",
-    "description": "Rent an e-bike here or book a tour with a professional guide\nor self-guided. Enjoying nature on two wheels, without bringing a great level of fitness or not using huge amounts of muscle power is possible thanks to e-bikes. If you want to enjoy nature in a relaxed way and with a refreshing breeze in your face, an e-bike ride is just right for you. With it you can ride almost effortlessly along the solid forest paths and with good tread tires it also goes well off the beaten track."
-  },
+  "subcategory": "E-bike",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,68 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Old Town: Experience a romantic bike tour through the historic Old Town with a partner.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/couple_old_town_38bc93917b.jpg"
-    },
-    {
-      "alternativeText": "Jet d'Eau: impressive water jet in Lake Geneva, surrounded by city and boats.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/banner_main_1_01f3a6209a.jpg"
-    },
-    {
-      "alternativeText": "Cathedral: Interior view with high vaults, impressive architecture, and stylish benches.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cathedral_professional_photo_f3d2619e4b.jpg"
-    },
-    {
-      "alternativeText": "Flower clock: colorful garden landscape with flowers and hands, ideal for nature lovers",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/FLOWER_CLOCK_PROFESSIONAL_bb15606d8a.jpg"
-    },
-    {
-      "alternativeText": "Jet d'Eau in Geneva at night with colorful lights and beautiful city view",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/fountain_at_night_5359c06651.jpg"
-    },
-    {
-      "alternativeText": "Geneva: Boat on the lake, Swiss flag, city view, picturesque landscape.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Geneva_by_boat_9c39c0ca2e.jpg"
-    },
-    {
-      "alternativeText": "Geneva at night: city lights reflect in the water, historical buildings and a romantic atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Geneva_by_night_c99d4e5000.jpg"
-    },
-    {
-      "alternativeText": "Geneva Cathedral: view of Lake Geneva with the Jet d'Eau and the city of Geneva.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Geneva_Cathedral_c9464b74b1.jpg"
-    },
-    {
-      "alternativeText": "Geneva Junction Big",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eef79520454b048432c55f987df0a968.jpg"
-    },
-    {
-      "alternativeText": "Geneva Town Hall: Historic building with Swiss flag and cantonal flag, experience city life.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Geneva_TOWN_HALL_ae265717c8.jpg"
-    },
-    {
-      "alternativeText": "City of Geneva: beautiful old town with historic buildings and streetlights.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Old_Town_professional_photo_c047a3e2ee.jpg"
-    },
-    {
-      "alternativeText": "professional Reformation wall: impressive depiction of the Reformers with historical elements",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/professional_reformation_wall_e22a3304f8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

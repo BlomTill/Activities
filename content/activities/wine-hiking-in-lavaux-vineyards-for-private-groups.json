@@ -5,17 +5,9 @@
   "description": "Discover Wine Hiking in Lavaux Vineyards for Private Groups in Switzerland.",
   "longDescription": "Discover Wine Hiking in Lavaux Vineyards for Private Groups in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,38 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 Aran_vendanges-1©WALK&WINE",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/36ca307c0a11477dea0e22d8c8b12613.jpg"
-    },
-    {
-      "alternativeText": "© Lavaux World Heritage – Joana Ferreira (MUTO)_49",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/829cee9cb103b1d42f901ec295d854bd.jpg"
-    },
-    {
-      "alternativeText": "Cheers©WALK&WINE",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/10ce31665d1fc297ef316e054fc449c9.jpeg"
-    },
-    {
-      "alternativeText": "Le Chatelard©WALK&WINE",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/2a8389c2987ff43dd0ca5f9182d83c5f.jpg"
-    },
-    {
-      "alternativeText": "Soucis dans les vignes©WALK&WINE",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/865b11c21489a51cd50f3b8209476673.jpg"
-    },
-    {
-      "alternativeText": "Sous Grandvaux©WALK&WINE",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/0f3cee6d319941db6494ae3a02f06721.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "hiking",

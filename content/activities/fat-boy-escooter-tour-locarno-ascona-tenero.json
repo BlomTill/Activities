@@ -5,17 +5,9 @@
   "description": "Discover Fat Boy E-Scooter Tour to Locarno and Ascona from Tenero in Switzerland.",
   "longDescription": "Discover Fat Boy E-Scooter Tour to Locarno and Ascona from Tenero in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "103",
-    "title": "E-Scooter",
-    "slug": "e-scooter",
-    "description": "Book an e-scooter excursion here, self-guided or with a professional guide. E-scooters are often used for sightseeing to quickly cover shorter distances. These are usually e-scooters, which are usually offered without a seat. The maneuverable e-scooters quickly reach their destinations even in narrow alleys. Rides along the banks of rivers or lakes are particularly popular. You enjoy the view, are in the middle of nature and don't have to exert yourself. E-scooters can reach up to 20 km/h.\n"
-  },
+  "subcategory": "E-Scooter",
   "location": {
-    "region": {
-      "id": "204",
-      "title": "Ticino region"
-    },
+    "region": "Ticino region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,33 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Ticinoquad: Experience the picturesque Ascona on Lake Maggiore with nature and leisure opportunities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ticinoquad_Scootertouren_2_aecf7a6f2a.jpg"
-    },
-    {
-      "alternativeText": "ticinoquad: Group in reflective vests explores nature in Ascona during sunny weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_20230401_152121_1_c2a183ca09.jpg"
-    },
-    {
-      "alternativeText": "Ticinoquad: View of the harbor in Ascona on Lake Maggiore with colorful boats and mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20220821_105526_1_1094635fb4.jpg"
-    },
-    {
-      "alternativeText": "Ticinoquad: Discover Ascona with walking paths, colorful houses, and the beautiful Lake Maggiore.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ticinoquad_Scootertour1_1_d378d838e3.jpg"
-    },
-    {
-      "alternativeText": "ticinoquad: Cyclists in Ascona during an adventure tour in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/20230401_152247_a5fa4452b8.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

@@ -5,17 +5,9 @@
   "description": "Discover Flooat (floating on water) at Zurich Airport in Switzerland.",
   "longDescription": "Discover Flooat (floating on water) at Zurich Airport in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "69",
-    "title": "Wellness and adventure pools",
-    "slug": "wellness",
-    "description": "Book your wellness experience here with an optional mountain lift ticket or your adventure pool. Wellness and adventure pools offer relaxation and entertainment in a refreshing environment. Wellness focuses on tranquility and regeneration with steam baths, saunas, massages, and thermal pools. Aromatherapy, brine baths, and special treatments are offered. Adventure pools combine fun and action – there are slides, lazy rivers, wave pools, and waterfalls, perfect for families and thrill-seekers. Both provide a break from everyday life, depending on what you need, either for relaxation or enjoyment."
-  },
+  "subcategory": "Wellness and adventure pools",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,68 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Flooat: Relax while floating on the water in Zurich, ideal for wellness and tranquility.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8f34a81e662d59999149e756aa8695e3.jpg"
-    },
-    {
-      "alternativeText": "Flooat: relax while floating on the water in Zurich and enjoy unforgettable moments.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/24a44bc9c13e33d5ec94a752d467a21d.jpg"
-    },
-    {
-      "alternativeText": "Flooat: relax while floating on the water in Zurich during the summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/47959fa1c254361c94acda9e94dc03ec.jpg"
-    },
-    {
-      "alternativeText": "Flooat: Relax while floating on the water in Zurich during the summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c17a8809f10b678bd2138a283383d27e.jpg"
-    },
-    {
-      "alternativeText": "Flooat: Enjoy floating on the water in Zurich in a stylish atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/c65c1058b8548bd403f8e12f9795220a.jpg"
-    },
-    {
-      "alternativeText": "Flooat: Experience floating on calm waters in Zurich, ideal for relaxation and enjoying nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/7436b221edf88d4818d9c8152dc0ee08.jpg"
-    },
-    {
-      "alternativeText": "Flooat: Relax while floating on the water in Zurich year-round.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/b8ef3ecbd24c56d4d5a07a459753a548.jpg"
-    },
-    {
-      "alternativeText": "Flooat: relax while floating on the water in Zurich, ideal for groups and adventure seekers.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8bc33f661929e78982a4342e75fad622.jpg"
-    },
-    {
-      "alternativeText": "Float in Zurich: Relax while floating on the water in a stylish atmosphere.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/33f6aa0cb4a919d2a4ef60f38d8478b0.jpg"
-    },
-    {
-      "alternativeText": "Flooat: Experience relaxing floating on water in Zurich with wellness elements.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5b45d2593a07a063e6ffa34ff0241436.jpg"
-    },
-    {
-      "alternativeText": "Flooat: Experience floating on the water in Zurich, ideal for groups and kids.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8842fda29061c701763aba879ae27311.jpg"
-    },
-    {
-      "alternativeText": "Flooat - relax while floating on the water in Zurich for your break and recovery.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/8d79c149501c3c4b7ad2651a185c0c86.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

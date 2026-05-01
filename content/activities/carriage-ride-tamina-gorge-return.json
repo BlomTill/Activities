@@ -5,17 +5,9 @@
   "description": "Discover Carriage ride through the Tamina Gorge and the Old Bath of Pfäfers from Bad Ragaz in Switzerland.",
   "longDescription": "Discover Carriage ride through the Tamina Gorge and the Old Bath of Pfäfers from Bad Ragaz in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "137",
-    "title": "Carriage rides",
-    "slug": "carriage-rides",
-    "description": "Find here the right carriage ride for you with friends or family. A carriage ride through nature is very romantic in summer and winter. Together you can relax from the hustle and bustle of everyday life, chat and drink together. Perhaps you will also enjoy a meal together in the closed carriage. Fondue or raclette are very popular for a shared experience. Carriage rides often take you through picturesque landscapes that you might not discover any other way. You enjoy the beauty of nature to the fullest as you drive through forests, fields and along rivers and lakes."
-  },
+  "subcategory": "Carriage rides",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,33 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Pferdekutsche",
-      "caption": "Taminaschlucht",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e0e5154c7646e07b119993400b4e5e2e.jpg"
-    },
-    {
-      "alternativeText": "Altes Bad Pfäfers",
-      "caption": "Taminaschlucht",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/19bea5a28f7d88d5253c0d5123fcca39.jpg"
-    },
-    {
-      "alternativeText": "Taminaschlucht",
-      "caption": "Taminaschlucht",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8ec676700393b73b017fa69c2638edae.jpg"
-    },
-    {
-      "alternativeText": "Altes Bad Pfäfers",
-      "caption": "Taminaschlucht",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/c4160b2b117c7ad67cc7f305a431e14b.jpg"
-    },
-    {
-      "alternativeText": "Taminaschlucht",
-      "caption": "Taminaschlucht",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/97e23de18d72b37fb15a7c4921aa5673.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

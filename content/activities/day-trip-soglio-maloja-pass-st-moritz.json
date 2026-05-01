@@ -5,17 +5,9 @@
   "description": "Discover Day trip to Soglio Maloja Pass trip from St. Moritz in Switzerland.",
   "longDescription": "Discover Day trip to Soglio Maloja Pass trip from St. Moritz in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "141",
-    "title": "Postbus",
-    "slug": "postbus",
-    "description": "Find your Postbus ticket here for a special journey through Switzerland. The yellow Postbuses travel over steep and narrow mountain roads as well as through densely populated areas. They are particularly well known for traveling to remote villages. This means that a Postbus ride is often very scenic. Postbus trips over the magnificent Swiss mountain passes are particularly popular. This even includes a 4-pass journey over the Grimsel, the Nufenen, the Gotthard and the Susten, covering more than 10,366 meters in altitude."
-  },
+  "subcategory": "Postbus",
   "location": {
-    "region": {
-      "id": "200",
-      "title": "Graubünden region"
-    },
+    "region": "Graubünden region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -46,48 +38,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Bergell PostBus drives through nature with blooming meadows in the summer sun.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/00_Bergell_b313c70320.png"
-    },
-    {
-      "alternativeText": "Sils Lake in the Upper Engadin with a view of the mountains and bus ride, ideal for nature experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Oberengadin_Silssee_83e8cd5ef1.png"
-    },
-    {
-      "alternativeText": "Malojapass: Winding road at night, surrounded by mountains and nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Maloja_Pass_night_shot_Switzerland_Tourism_Martin_Maegli_9f7c0aab82.jpg"
-    },
-    {
-      "alternativeText": "Malojapass: Winding road between mountains, ideal for travel and nature lovers in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Malojapass_unsplash_785ebb8a51.jpg"
-    },
-    {
-      "alternativeText": "Malojasee: Quiet lake surrounded by mountains and forests in winter, ideal for nature experiences.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Malojasee_unsplash_a8d0997159.jpg"
-    },
-    {
-      "alternativeText": "Silvaplana: picturesque autumn landscape with views of Lake Silvaplana and the mountains.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Silvaplana_Lake_Silvaplana_Foto_Switzerland_Tourism_Stefan_Gruenig_36b2a44263.jpg"
-    },
-    {
-      "alternativeText": "Soglio: idyllic mountain village with old stone houses and beautiful nature, perfect for a view.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Soglio_2_Seraina_7dd288848f.jpg"
-    },
-    {
-      "alternativeText": "Soglio: picturesque village surrounded by mountains with traditional stone houses.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Soglio_3_Seraina_e2f88b067a.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "st.-moritz"

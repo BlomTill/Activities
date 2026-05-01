@@ -5,17 +5,9 @@
   "description": "Discover City tour Basel old town stories in Switzerland.",
   "longDescription": "Discover City tour Basel old town stories in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "83",
-    "title": "Tours",
-    "slug": "city-tour-guided",
-    "description": "Find and book here the city tour that is tailored to your wishes. A city tour gives you an interesting insight into a city or a specific topic. In most cases, city tours take place on foot. The knowledgeable guide not only lists facts, but also provides background knowledge and answers any questions you may have. The usual anecdotes make a city tour very popular and will remain in your memory for a long time."
-  },
+  "subcategory": "Tours",
   "location": {
-    "region": {
-      "id": "195",
-      "title": "Basel region"
-    },
+    "region": "Basel region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,48 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Basel city tour shows old town alley with people",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/01_Basel_Stadtfuehrung_Altsdadt_a58225788c.jpg"
-    },
-    {
-      "alternativeText": "Basel city tour shows participants in Altstadt cloister.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/02_Basel_Stadtfuehrung_Altsdadt_Kreuzgang_d23bc3cd09.jpg"
-    },
-    {
-      "alternativeText": "Tinguely Fountain during a city tour in Basel, city tour guide shows a postcard",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/03_Basel_Stadtfuehrung_Altsdadt_tinguely_brunnen_stadtbegleiter_7caa66bb26.jpg"
-    },
-    {
-      "alternativeText": "City tour in Basel at the Tinguely Fountain with group",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/04_Basel_Stadtfuehrung_Altsdadt_Tinguely_Brunnen_Gruppe_e65afe7305.jpg"
-    },
-    {
-      "alternativeText": "Tinguely Fountain with bubbling water and mechanical elements in Basel.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/09_Basel_Stadtfuehrung_Altsdadt_Tinguely_Brunnen_8286a2b058.jpg"
-    },
-    {
-      "alternativeText": "Basel Town Hall in the courtyard with sculptures and architecture",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/05_Basel_Stadtfuehrung_Altsdadt_rathaushof_5e4485ec9a.jpg"
-    },
-    {
-      "alternativeText": "Martins Church in the Basel Old Town with a cyclist in the foreground.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07_Basel_Stadtfuehrung_Altsdadt_martinskirchplatz_92099ef573.jpg"
-    },
-    {
-      "alternativeText": "Basel city tour in the old town with historical buildings",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/08_Basel_Stadtfuehrung_Altsdadt_37c527c2ec.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

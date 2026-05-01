@@ -5,17 +5,9 @@
   "description": "Discover From Geneva: Riviera Bus Tour with Chaplin, Montreux, and Chillon in Switzerland.",
   "longDescription": "Discover From Geneva: Riviera Bus Tour with Chaplin, Montreux, and Chillon in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,63 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Chillon Castle on Lake Geneva with snow-covered mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chateau_chillon48_2048_10_2_230311a207.jpg"
-    },
-    {
-      "alternativeText": "Montreux",
-      "caption": "Bustour Riviera",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9f8b9ea082dc11e3feec0ed5f1e102f9.JPEG"
-    },
-    {
-      "alternativeText": "Chaplin World shows a hair salon with a hairdresser holding scissors.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chaplin_world6_2048_10_2_1_de3389a3d3.jpg"
-    },
-    {
-      "alternativeText": "Lavaux",
-      "caption": "Riviera Montreux Tour Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9c0d9c18fd1d8d776b028ffec2a67a75.JPEG"
-    },
-    {
-      "alternativeText": "Lavaux",
-      "caption": "Riviera Montreux Tour Chillon",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/66edb0be6d2202d0663e60b10fb5e398.JPEG"
-    },
-    {
-      "alternativeText": "Château de Chillon on Lake Geneva with blue sky, trees, and water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chateau_chillon2_2048_10_2_c1ca71dfcd.jpg"
-    },
-    {
-      "alternativeText": "Chaplin World: Interactive Exhibition in Berlin with Visitors and Historical Scenery",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chaplin_world3_2048_10_2_2eea03d373.jpg"
-    },
-    {
-      "alternativeText": "Montreux Riviera with colorful flowers, lake and mountains in the background. Cozy surroundings in autumn.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_montreux_city6_2048_10_6_b039caab82.jpg"
-    },
-    {
-      "alternativeText": "Montreux Riviera with lake and sunset, surrounded by mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_montreux_city1_2048_10_2_935318fec8.jpg"
-    },
-    {
-      "alternativeText": "Chateau Chillon on Lake Geneva with mountains in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_chateau_chillon32_2048_10_2_b5891c322a.jpg"
-    },
-    {
-      "alternativeText": "Chateau Chillon on Lake Geneva with a boat in the foreground and blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/kt_2020_300_Keytours_excursions_Swisstours_boat_cruise_vevey_chillon1_2048_10_4_58d259d2cf.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "geneva"

@@ -39,10 +39,10 @@ export default function PrivacyPage() {
           The data controller for this site is the operator of {SITE_NAME}. For privacy
           requests, write to{" "}
           <a
-            href="mailto:hello@exploreswitzerland.ch"
+            href="mailto:hello@realswitzerland.ch"
             style={{ color: "var(--accent, #E8634A)" }}
           >
-            hello@exploreswitzerland.ch
+            hello@realswitzerland.ch
           </a>
           . Our representative for the European Union is available on request.
         </p>
@@ -195,10 +195,10 @@ export default function PrivacyPage() {
         <p>
           For privacy requests or any question about this policy, contact{" "}
           <a
-            href="mailto:hello@exploreswitzerland.ch"
+            href="mailto:hello@realswitzerland.ch"
             style={{ color: "var(--accent, #E8634A)" }}
           >
-            hello@exploreswitzerland.ch
+            hello@realswitzerland.ch
           </a>
           . We aim to respond within 30 days.
         </p>

@@ -5,17 +5,9 @@
   "description": "Discover \"The Witch's Prison\" Escape Room in Dietlikon in Switzerland.",
   "longDescription": "Discover \"The Witch's Prison\" Escape Room in Dietlikon in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,23 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Das Hexenverlies",
-      "caption": "Escape Room Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/52f9078341240e080e28aeb87f63e928.jpeg"
-    },
-    {
-      "alternativeText": "Das Hexenverlies",
-      "caption": "Escape Room Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a0391dd8d70befede0a399ed1c2e9cab.jpeg"
-    },
-    {
-      "alternativeText": "Das Hexenverlies",
-      "caption": "Escape Room Zürich",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7d41a36f192a56cd7a978462cec20c36.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

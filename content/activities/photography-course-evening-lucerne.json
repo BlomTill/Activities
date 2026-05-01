@@ -5,17 +5,9 @@
   "description": "Discover Photography course blue hour evening in Lucerne in Switzerland.",
   "longDescription": "Discover Photography course blue hour evening in Lucerne in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "85",
-    "title": "Photo course",
-    "slug": "photo-course",
-    "description": "Book your photography course here. You'll explore the world through the lens of your camera during a photography course. With professional guidance, you'll learn how to get the most out of your photos and either build your skills from the ground up or deepen your knowledge."
-  },
+  "subcategory": "Photo course",
   "location": {
-    "region": {
-      "id": "202",
-      "title": "Lucerne Region - Lake Lucerne"
-    },
+    "region": "Lucerne Region - Lake Lucerne",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,63 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Photographer during the blue hour in front of the tower in Lucerne. The light illuminates the historic architecture.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_3_9844aa48ba.jpg"
-    },
-    {
-      "alternativeText": "Hotel Monopol in Lucerne during the blue hour with light trails from cars",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_8_01911642c7.jpg"
-    },
-    {
-      "alternativeText": "Lucerne at blue hour with mountain view, traffic and houses.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_1_9228fd7a4b.jpeg"
-    },
-    {
-      "alternativeText": "Blue Hour over Lucerne at Lake Lucerne with Moon",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_4_4ef0fdd603.jpg"
-    },
-    {
-      "alternativeText": "Blue Hour Lucerne with flowing traffic and lantern light",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_5_41c0b9f006.jpg"
-    },
-    {
-      "alternativeText": "Blue Hour Lucerne with a view of historic buildings and water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_6_69294fb47d.jpg"
-    },
-    {
-      "alternativeText": "Lucerne at blue hour with reflecting buildings and calm water",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_7_afa717a684.jpg"
-    },
-    {
-      "alternativeText": "Lucerne by night with illuminated buildings, street traffic, and mountains in the background",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_9_a8e2b3962e.jpg"
-    },
-    {
-      "alternativeText": "Blue Hour Lucerne with illuminated restaurant and old town",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_10_15a1d97b14.jpg"
-    },
-    {
-      "alternativeText": "Blue Hour Lucerne with Heart Lamp, illuminated city and lake.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_11_5f2008edcc.jpg"
-    },
-    {
-      "alternativeText": "Blue Hour Lucerne with attractions and illuminated lamps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Blaue_Stunde_12_1504b66c97.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lucerne"

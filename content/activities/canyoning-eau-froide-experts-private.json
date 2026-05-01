@@ -5,17 +5,9 @@
   "description": "Discover Eau Froide canyoning for private experts in Switzerland.",
   "longDescription": "Discover Eau Froide canyoning for private experts in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "25",
-    "title": "Canyoning",
-    "slug": "canyoning",
-    "description": "Dare a guided canyoning tour and book it here. In this adventurous trend sport you make your way through the deep gorges of mountainous regions in remote nature. From climbing to swimming, diving and sliding, to jumping and abseiling, it's all here. The still young adventure sport canyoning is gaining more and more popularity worldwide. Switzerland is ideal for it thanks to its numerous gorges and mountain streams."
-  },
+  "subcategory": "Canyoning",
   "location": {
-    "region": {
-      "id": "217",
-      "title": "Lake Geneva region"
-    },
+    "region": "Lake Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,28 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Eau Froide: Abseiling point in the gorge, ideal for adventure in sunny weather.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/705e74ba6526a3f0ac1c5cae4e7f881e.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the Eau Froide Gorge. Experience adventure and the beauty of nature in this thrilling outdoor experience.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/e4ef3b9432fd738a3bb268856397f805.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the Eau Froide Gorge: experience action-packed adventure tours in nature",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/056c2a188001753c1abfb09af737f6bc.jpg"
-    },
-    {
-      "alternativeText": "Canyoning in the Eau Froide Gorge experiencing nature and adventure with groups.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/d9acd93cfee0ed6bf9c40c4395233df9.JPG"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "canyoning"

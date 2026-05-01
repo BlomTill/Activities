@@ -5,17 +5,9 @@
   "description": "Discover \"The Omega Codex\" Outdoor Escape Game Aarau in Switzerland.",
   "longDescription": "Discover \"The Omega Codex\" Outdoor Escape Game Aarau in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "194",
-      "title": "Aargau region"
-    },
+    "region": "Aargau region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,33 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/06ff2b979ef6f5ed8d554e01f47fd543.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a43fb3280c0bf406ec4aeb6bb2c1e7a1.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9d0df0d8b62ce6a2057f7e4ce62b5210.png"
-    },
-    {
-      "alternativeText": "Omega Codex",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/3abaf05be492878fae738f516e4a45b6.png"
-    },
-    {
-      "alternativeText": "Stadt Aarau",
-      "caption": "Escape Game Outdoor",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6e742cff0ec4845a18404f199b412109.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

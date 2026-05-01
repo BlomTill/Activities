@@ -5,17 +5,9 @@
   "description": "Discover Geneva e-bike tour guided: Wine tour on Lake Geneva in Switzerland.",
   "longDescription": "Discover Geneva e-bike tour guided: Wine tour on Lake Geneva in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "84",
-    "title": "Wine tour",
-    "slug": "wine-tasting",
-    "description": "Experience a wine tour at a winery and get to know the vineyards. In Switzerland, you will find a variety of wine experiences, guided tours and wine tastings. You can discover the delicious wine and the wine regions in many different ways, learn all about the exciting craft of winemaking and taste one or two fine wines."
-  },
+  "subcategory": "Wine tour",
   "location": {
-    "region": {
-      "id": "198",
-      "title": "Geneva region"
-    },
+    "region": "Geneva region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,43 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "00 IMG_5412",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/541dda9cba9279b1abf66a69558750bc.jpeg"
-    },
-    {
-      "alternativeText": "01 IMG_5411",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/5600e966cfb83d67eaa43ace00793cbc.jpeg"
-    },
-    {
-      "alternativeText": "02 IMG_5157",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/049016fbc0af125b0184e9b94b46c88f.jpeg"
-    },
-    {
-      "alternativeText": "352701",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/6ba756123d0c53b1ee71aae61234aa76.jpg"
-    },
-    {
-      "alternativeText": "Jussy Mountains2",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d01a0cedaed751923078882a9a5af531.jpeg"
-    },
-    {
-      "alternativeText": "Jussy Mountains3",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/d54a6fb83446c5626abf6f2e2013e847.jpeg"
-    },
-    {
-      "alternativeText": "Jussy Mountains",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/7e03da0090fc89fa3ea2672e0890f23a.jpeg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [
     "lake",

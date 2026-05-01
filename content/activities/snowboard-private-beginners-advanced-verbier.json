@@ -5,17 +5,9 @@
   "description": "Discover Private snowboard lessons for beginners and advanced in Verbier in Switzerland.",
   "longDescription": "Discover Private snowboard lessons for beginners and advanced in Verbier in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "87",
-    "title": "Ski school",
-    "slug": "ski-school",
-    "description": "Find and book the right ski school for you or your child here. Ski schools are located in all major ski resorts in Switzerland. They offer a wide range of courses: for beginners, returners and special courses for advanced skiers. Beginners' courses are offered separately for children, teenagers and adults. In total, there are more than 150 ski schools in Switzerland."
-  },
+  "subcategory": "Ski school",
   "location": {
-    "region": {
-      "id": "205",
-      "title": "Valais region"
-    },
+    "region": "Valais region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,23 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Snowboarder",
-      "caption": "Skischule Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/b37f9261b20440b37bf13fc597b4fba4.jpg"
-    },
-    {
-      "alternativeText": "Snowboarder",
-      "caption": "Skischule Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/9654b214b04b0f755c8394acb3b04eb9.jpg"
-    },
-    {
-      "alternativeText": "Snowboarder",
-      "caption": "Skischule Verbier",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/f4d676dd7cd88173e6b766487728d3be.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

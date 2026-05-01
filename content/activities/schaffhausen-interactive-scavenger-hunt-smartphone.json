@@ -5,17 +5,9 @@
   "description": "Discover Schaffhausen interactive scavenger hunt with smartphone in Switzerland.",
   "longDescription": "Discover Schaffhausen interactive scavenger hunt with smartphone in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -47,53 +39,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Mobile Puzzle Scavenger Hunt in Schaffhausen, Person with Smartphone, hidden object",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Handy_Raetsel_Schnitzeljagd_Schaffhausen_ccd6e72b30.jpg"
-    },
-    {
-      "alternativeText": "Schaffhausen, Puzzle Treasure Hunt and Architecture by the River",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_150ae6d61e18d75b07632031005278df_8a81cb4ea3.png"
-    },
-    {
-      "alternativeText": "Castle in Schaffhausen with vineyards in the background.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_0b3c714b506848d76110cac5def804c4_b035eb7563.jpg"
-    },
-    {
-      "alternativeText": "Two people are pointing at an information board during the scavenger hunt in Schaffhausen.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Entdecken_Schnitzeljagd_Schaffhausen_Raetsel_ec48123b3f.jpeg"
-    },
-    {
-      "alternativeText": "Treasure hunt puzzle in Schaffhausen with participants on the street.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Raetsel_Schnitzeljagd_Schaffhausen_612dab59f5.jpg"
-    },
-    {
-      "alternativeText": "Fun Treasure Hunt Schaffhausen: three people are actively jumping in front of a stone wall",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Spass_Schnitzeljagd_Schaffhausen_Raetsel_a296bf6991.jpeg"
-    },
-    {
-      "alternativeText": "Team Schnitzeljagd Schaffhausen solves riddles on the street, two women with smartphones",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Team_Schnitzeljagd_Schaffhausen_Raetsel_973049ea93.jpeg"
-    },
-    {
-      "alternativeText": "Team Schnitzeljagd Schaffhausen observes the historical facade of a building in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_a140f677e2b17a7fccae84b4cc07fc74_1705f0e00d.jpg"
-    },
-    {
-      "alternativeText": "Fountain for Team Treasure Hunt Schaffhausen, actively searching for the next location.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_721b09fc7a7b3634e3460cd3b89cfdf1_50cd740e54.png"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

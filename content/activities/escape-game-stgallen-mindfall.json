@@ -5,17 +5,9 @@
   "description": "Discover \"Operation Mindfall\" Escape Game St. Gallen in Switzerland.",
   "longDescription": "Discover \"Operation Mindfall\" Escape Game St. Gallen in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Escape Game in St. Gallen: Group experiences exciting outdoor adventure, perfect for friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/5de9df1e81f23d29703765406c1708e3.jpg"
-    },
-    {
-      "alternativeText": "Escape Game St. Gallen: Team solves puzzles by the water with Operation Mindfall.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/6495bfc8479b5c08fabf5eb86c4c8778.jpg"
-    },
-    {
-      "alternativeText": "Escape Game St. Gallen: Player group in Operation Mindfall, exciting adventures for everyone.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/07b436e3d7c7e0e1ad6a82f287e8be2f.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Experience Operation Mindfall in St. Gallen with friends, full of adventure and teamwork.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/f60e0e57f941df9665f7d53165c64356.jpg"
-    },
-    {
-      "alternativeText": "Escape Game in St. Gallen: Group experiences thrilling moments and teamwork in the city.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/cfc3c27cb291735fcd7f3eb63bdd1a58.jpg"
-    },
-    {
-      "alternativeText": "Escape Game: Players experiment with exciting challenges at Operation Mindfall in St. Gallen.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/11b240178692b4524910b338b60a887b.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

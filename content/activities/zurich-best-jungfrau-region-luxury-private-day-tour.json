@@ -5,17 +5,9 @@
   "description": "Discover From Zurich: Best of Jungfrau Region Luxury Private Day Tour in Switzerland.",
   "longDescription": "Discover From Zurich: Best of Jungfrau Region Luxury Private Day Tour in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "71",
-    "title": "Day trips",
-    "slug": "day-trips",
-    "description": "Find and book a day trip by bus through beautiful Swiss landscapes. Get on and let's go. You don't have to worry about any tedious organization on a day trip and can instead enjoy the ride to the fullest while being chauffeured to your excursion destination. Switzerland's well-developed road network allows excursions to all popular places and natural beauties"
-  },
+  "subcategory": "Day trips",
   "location": {
-    "region": {
-      "id": "206",
-      "title": "Zurich region"
-    },
+    "region": "Zurich region",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -45,53 +37,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Jungfrau Region: River and Impressive Mountains in the Nature of Switzerland in Summer",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3565_7f1fb53f08.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: breathtaking blue-green lake with boats and mountains in the background, ideal for relaxation.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_47_1_5c8d8758fe.JPG"
-    },
-    {
-      "alternativeText": "Winter landscape in the Jungfrau region with a cozy wooden house in the snow, ideal for adventure.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_1581_86efb091dd.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: picturesque mountains and green meadows surrounding the idyllic village.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3581_f678ad7111.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: Lake with idyllic view of the mountains and the shore in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_3679_7138fc0069.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: picturesque landscape with mountains, lake, and meadows in the summertime.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_5544_2b1adb986d.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: calm lake surrounded by mountains and forests in nature, perfect for outdoor activities.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/IMG_6560_bff563119d.jpg"
-    },
-    {
-      "alternativeText": "Jungfrau Region: Charming village with traditional architecture and stunning mountain views in the Alps.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/38204c066cdea19f41cf087c1f84f57f.jpg"
-    },
-    {
-      "alternativeText": "Mountains: View of the Jungfrau Region with wooden house, green meadow, and blue sky.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/9ee3179df8333232c2f1e37e8ea159d0.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

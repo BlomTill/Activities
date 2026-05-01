@@ -5,17 +5,9 @@
   "description": "Discover \"Beat the bride\" in Schaffhausen: action-packed hen party in Switzerland.",
   "longDescription": "Discover \"Beat the bride\" in Schaffhausen: action-packed hen party in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "82",
-    "title": "Escape room and games",
-    "slug": "escape-room",
-    "description": "Book the right escape room or game for you here, possibly in combination with other great activities. Escape rooms are fun puzzle games for small groups in a room. You solve various puzzles with your family or friends and often have to complete a mission to break out of the room. In escape games, you discover the city or interesting places outdoors while playing. Escape rooms and games are great fun and strengthen group cohesion."
-  },
+  "subcategory": "Escape room and games",
   "location": {
-    "region": {
-      "id": "203",
-      "title": "Region Eastern Switzerland / Liechtenstein"
-    },
+    "region": "Region Eastern Switzerland / Liechtenstein",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,43 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Beat the Bride: Celebrate an unforgettable team event outdoors with friends.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_2_73805d6a63.jpg"
-    },
-    {
-      "alternativeText": "Abbey Schaffhausen: historic architecture surrounded by nature and green spaces within the abbey.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kloster_schaffhausen_pixabay_071223b333.jpg"
-    },
-    {
-      "alternativeText": "Bride: Joy with friends at the event in the city, group activity and summer heat.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_1_eda33a1fe1.jpg"
-    },
-    {
-      "alternativeText": "Beat the Bride: a lively group of women celebrates in the city with friends at the bachelorette party",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_3_88d8eb61eb.jpg"
-    },
-    {
-      "alternativeText": "Schaffhausen Castle: historic fortress surrounded by vineyards and nature in the heart of Schaffhausen.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schaffhausen_unsplash_bd1c9803fa.jpg"
-    },
-    {
-      "alternativeText": "Bride activity: Fun outdoors with friends, ideal for groups in the Bregenz Forest in summer.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_Activities_Bt_Br_4_7e8a6efa3f.jpg"
-    },
-    {
-      "alternativeText": "Bridge Schaffhausen over the Rhine, surrounded by green nature and clear water.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/bridge_Schaffhausen_Pixabay_1ab99496c9.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false

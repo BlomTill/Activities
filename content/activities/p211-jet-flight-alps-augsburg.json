@@ -5,17 +5,9 @@
   "description": "Discover P.211 Jet flight in the Alps from Augsburg DE in Switzerland.",
   "longDescription": "Discover P.211 Jet flight in the Alps from Augsburg DE in Switzerland.",
   "category": "outdoor",
-  "subcategory": {
-    "id": "46",
-    "title": "Scenic flight",
-    "slug": "sightseeing-flight",
-    "description": "Book your next scenic flight here. Whether with a helicopter, a hot air balloon or a small plane, the experience is always unforgettable. During a helicopter flight, the vertical take-off is already an experience. With the helicopter you can even stay in the air at special beautiful places and enjoy them to the fullest. The ride in a hot air balloon is above all romantic and very relaxing. Flights through the Jungfrau region are especially spectacular, where you can admire the Eiger, Mönch and Jungfrau at close range. The Aletsch glacier is also available here in full length"
-  },
+  "subcategory": "Scenic flight",
   "location": {
-    "region": {
-      "id": "480",
-      "title": "Germany"
-    },
+    "region": "Germany",
     "canton": "",
     "city": "Switzerland",
     "coordinates": {
@@ -44,38 +36,7 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [
-    {
-      "alternativeText": "Aermacchi S.211 in flight over the mountains with snow-covered landscapes and clear skies",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/PYI_Xa9_M_Uyrwk_VS_10_751d9077e3.png"
-    },
-    {
-      "alternativeText": "Aermacchi S.211: Pilot in the cockpit during a breathtaking flight over Augsburg.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/S_211_augsburg_muenchen_3_02adbfaf37.jpg"
-    },
-    {
-      "alternativeText": "Aermacchi S.211: Aircraft over majestic mountain landscape, ideal for aviation enthusiasts.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/m6_Pg_Cr_Kn_Uk3_WR_1_Jt_c398dfa516.png"
-    },
-    {
-      "alternativeText": "Aermacchi S.211 Flight over snow-covered mountains offers fascinating aerial views and impressive nature.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/l_B_Io_BT_Mio_H4fq1o_A_9239a8150f.png"
-    },
-    {
-      "alternativeText": "Aermacchi S.211: Military training aircraft over water, ideal for aerial acrobatics and flying sports.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/S_211_augsburg_muenchen_1_07f5029c33.jpg"
-    },
-    {
-      "alternativeText": "Aermacchi S.211: modern jet aircraft in Augsburg with pilot in cockpit.",
-      "caption": "",
-      "url": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/S_211_augsburg_muenchen_2_1dd792acd3.jpg"
-    }
-  ],
+  "gallery": [],
   "highlights": [],
   "tags": [],
   "featured": false
