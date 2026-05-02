@@ -59,6 +59,18 @@
         "bookingUrl": "https://www.viator.com",
         "rating": 4.4,
         "description": "Day trip from Zurich with hotel pickup included"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Jungfraujoch%20%E2%80%93%20Top%20of%20Europe&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -144,6 +156,18 @@
         "bookingUrl": "https://www.swiss-pass.ch",
         "rating": 4.6,
         "description": "50% discount with Swiss Travel Pass"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Matterhorn%20Glacier%20Paradise&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -229,6 +253,18 @@
         "bookingUrl": "https://www.museumspass.ch",
         "rating": 4.5,
         "description": "Free entry with annual Swiss Museum Pass (CHF 166/year)"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20Museum%20of%20Transport&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -312,6 +348,18 @@
         "bookingUrl": "https://www.swissboattours.ch",
         "rating": 4.6,
         "description": "Premium sunset cruise with aperitif included"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lake%20Geneva%20Boat%20Cruise&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -408,6 +456,18 @@
         "bookingUrl": "https://www.klook.com",
         "rating": 4.3,
         "description": "Discounted advance booking"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Mount%20Titlis%20Glacier%20Excursion&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -492,6 +552,18 @@
         "bookingUrl": "https://www.museumspass.ch",
         "rating": 4.5,
         "description": "Free entry with Swiss Museum Pass"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Ch%C3%A2teau%20de%20Chillon&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -599,6 +671,18 @@
         "bookingUrl": "https://www.twin-paragliding.ch",
         "rating": 4.8,
         "description": "Budget-friendly option with great reviews"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Paragliding%20over%20Interlaken&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -682,6 +766,18 @@
         "bookingUrl": "https://www.getyourguide.com",
         "rating": 4.5,
         "description": "Skip-the-line option with guided experience"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Grindelwald%20First%20Cliff%20Walk%20%26%20Flyer&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -765,6 +861,18 @@
         "bookingUrl": "https://www.rheinfall.ch/boat",
         "rating": 4.6,
         "description": "Boat ride to the rock in the middle of the falls"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Rhine%20Falls&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -837,6 +945,18 @@
         "bookingUrl": "https://www.laederach.com",
         "rating": 4.5,
         "description": "Official factory tour with tasting"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=L%C3%A4derach%20Chocolate%20Factory%20Tour&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -933,6 +1053,18 @@
         "bookingUrl": "https://www.getyourguide.com",
         "rating": 4.4,
         "description": "Private guided tour — customizable route"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bern%20Old%20Town%20Walking%20Tour&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1023,6 +1155,18 @@
         "bookingUrl": "https://www.swisshikingtours.ch",
         "rating": 4.7,
         "description": "Guided full-day hike with local expert and lunch"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lauterbrunnen%20Valley%20Waterfalls%20Hike&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1113,6 +1257,18 @@
         "bookingUrl": "https://www.zuerich.com/zurichcard",
         "rating": 4.3,
         "description": "Free entry included with ZürichCARD (CHF 27/24h)"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Kunsthaus%20Z%C3%BCrich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1209,6 +1365,18 @@
         "bookingUrl": "https://www.glacierexpress.ch",
         "rating": 4.9,
         "description": "Premium lounge car with 5-course meal, unlimited drinks, concierge"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1280,6 +1448,18 @@
         "bookingUrl": "https://www.adventure-park.ch",
         "rating": 4.5,
         "description": "Full access to all rope courses"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Adventure%20Park%20Interlaken&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1364,6 +1544,18 @@
         "bookingUrl": "https://www.thermalbad.ch",
         "rating": 4.7,
         "description": "Full 3-hour Irish-Roman bath ceremony"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Thermalbad%20%26%20Spa%20Z%C3%BCrich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1448,6 +1640,18 @@
         "bookingUrl": "https://visit.cern/tours",
         "rating": 4.9,
         "description": "Free guided tour of CERN facilities — must book in advance"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=CERN%20Science%20Gateway&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1546,6 +1750,18 @@
         "bookingUrl": "https://www.esstverbier.ch",
         "rating": 4.6,
         "description": "Half-day group ski lesson (lift pass separate)"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Verbier%204%20Vall%C3%A9es%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1629,6 +1845,18 @@
         "bookingUrl": "https://www.lakelucerne.ch",
         "rating": 4.8,
         "description": "Evening cruise with dinner and live music"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lake%20Lucerne%20Paddle%20Steamer%20Cruise&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1713,6 +1941,18 @@
         "bookingUrl": "https://www.zuerich.com/zurichcard",
         "rating": 4.3,
         "description": "Free entry with ZürichCARD"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Zoo%20Z%C3%BCrich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1806,6 +2046,18 @@
         "bookingUrl": "https://www.swissraft.ch",
         "rating": 4.6,
         "description": "Budget option with solid reviews"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1888,6 +2140,18 @@
         "bookingUrl": "https://www.nationalpark.ch/tours",
         "rating": 4.9,
         "description": "Ranger-guided wildlife excursion"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20National%20Park%20Hikes&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -1977,6 +2241,18 @@
         "bookingUrl": "https://www.bernaqua.ch",
         "rating": 4.3,
         "description": "Full-day access including wellness area"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bernaqua%20Water%20Park&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2059,6 +2335,18 @@
         "bookingUrl": "https://www.alpinecenter.ch",
         "rating": 4.9,
         "description": "Guided on-ice glacier walk with crampons and equipment"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Aletsch%20Glacier%20Hike&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2155,6 +2443,18 @@
         "bookingUrl": "https://www.adventurerooms.ch",
         "rating": 4.4,
         "description": "Switzerland's original escape room brand"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Escape%20Room%20Zurich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2238,6 +2538,18 @@
         "bookingUrl": "https://www.getyourguide.com",
         "rating": 4.5,
         "description": "Guided day trip from Lucerne with commentary"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Pilatus%20Golden%20Round%20Trip&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2310,6 +2622,18 @@
         "bookingUrl": "https://www.schaukaeserei.ch",
         "rating": 4.3,
         "description": "Self-guided tour with tasting"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Appenzell%20Show%20Dairy&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2403,6 +2727,18 @@
         "bookingUrl": "https://www.skischool-stmoritz.ch",
         "rating": 4.6,
         "description": "Half-day group lesson (lift pass separate)"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=St.%20Moritz%20Corviglia%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2474,6 +2810,18 @@
         "bookingUrl": "https://www.trekking.ch",
         "rating": 4.9,
         "description": "Original operator — includes GoPro video"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bungee%20Jumping%20Verzasca%20Dam&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2558,6 +2906,18 @@
         "bookingUrl": "https://www.alpentherme.ch",
         "rating": 4.7,
         "description": "Upscale option with Roman-Irish bath and panoramic pool"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Leukerbad%20Thermal%20Baths&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2641,6 +3001,18 @@
         "bookingUrl": "https://www.rigi.ch",
         "rating": 4.9,
         "description": "Overnight at summit hotel + sunrise breakfast"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Rigi%20%E2%80%93%20Queen%20of%20the%20Mountains&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2711,6 +3083,18 @@
         },
         "bookingUrl": "https://www.swissminiatur.ch",
         "rating": 4.2
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swissminiatur%20Melide&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2780,6 +3164,18 @@
         },
         "bookingUrl": "https://www.stanserhorn.ch",
         "rating": 4.7
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2863,6 +3259,18 @@
         "bookingUrl": "https://www.museumspass.ch",
         "rating": 4.5,
         "description": "Free with annual Museum Pass"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Olympic%20Museum%20Lausanne&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2930,6 +3338,18 @@
         },
         "bookingUrl": "https://www.jungfrau.ch",
         "rating": 4.8
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Faulhorn%20Toboggan%20Run&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -2999,6 +3419,18 @@
         "bookingUrl": "https://www.oeschinensee.ch",
         "rating": 4.8,
         "description": "Round-trip gondola + free lake access"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lake%20Oeschinen&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3070,6 +3502,18 @@
         },
         "bookingUrl": "https://www.chaplinsworld.com",
         "rating": 4.6
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Chaplin's%20World&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3151,6 +3595,18 @@
         "bookingUrl": "https://www.sup-bern.ch",
         "rating": 4.6,
         "description": "Guided SUP tour with sunset option"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Stand-Up%20Paddleboarding%20on%20Lake%20Thun&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3220,6 +3676,18 @@
         "bookingUrl": "https://www.davos.ch",
         "rating": 4.5,
         "description": "Entry fee (skate rental CHF 8 extra)"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Natural%20Ice%20Rink%20Davos&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3316,6 +3784,18 @@
         "bookingUrl": "https://www.la-gruyere.ch",
         "rating": 4.6,
         "description": "Combined factory tour + fondue lunch"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Fondue%20Experience%20in%20Gruy%C3%A8res&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3388,6 +3868,18 @@
         "bookingUrl": "https://www.technorama.ch",
         "rating": 4.7,
         "description": "Full-day access to all exhibits and shows"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20Science%20Center%20Technorama&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3471,6 +3963,18 @@
         "bookingUrl": "https://www.berninaexpress.ch",
         "rating": 4.9,
         "description": "Premium seats with wider panoramic windows"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bernina%20Express&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3542,6 +4046,18 @@
         },
         "bookingUrl": "https://www.karting.ch",
         "rating": 4.3
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Indoor%20Go-Karting%20Lyss&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3624,6 +4140,18 @@
         "bookingUrl": "https://www.schilthorn.ch",
         "rating": 4.8,
         "description": "Cable car + revolving restaurant brunch"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Schilthorn%20Piz%20Gloria&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3691,6 +4219,18 @@
         },
         "bookingUrl": "https://www.brienz.ch",
         "rating": 4.7
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swimming%20in%20Lake%20Brienz&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3780,6 +4320,18 @@
         "bookingUrl": "https://www.bloczone.ch",
         "rating": 4.4,
         "description": "Alternative bouldering gym — smaller but less crowded"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Minimum%20Bouldering%20Zurich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3848,6 +4400,18 @@
         },
         "bookingUrl": "https://www.basel.com",
         "rating": 4.7
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -3934,6 +4498,18 @@
         "bookingUrl": "https://www.mountainreality.ch",
         "rating": 4.7,
         "description": "Full-day tour with fondue lunch in mountain hut"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Snowshoe%20Hiking%20in%20the%20Engadin&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4016,6 +4592,18 @@
         "bookingUrl": "https://www.outdoor-interlaken.ch",
         "rating": 4.8,
         "description": "Guided via ferrata with all equipment and instruction"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4086,6 +4674,18 @@
         },
         "bookingUrl": "https://www.rapperswil-zuerichsee.ch",
         "rating": 4.4
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Rapperswil%20Rose%20Town%20%26%20Castle&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4162,6 +4762,18 @@
         },
         "bookingUrl": "https://www.aquaparc.ch",
         "rating": 4.1
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Aquaparc%20Le%20Bouveret&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4256,6 +4868,18 @@
         "bookingUrl": "https://www.lavaux-wine-walks.ch",
         "rating": 4.8,
         "description": "Small group guided walk with sommelier and 5+ tastings"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lavaux%20Vineyard%20Wine%20Tasting&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4336,6 +4960,18 @@
         "bookingUrl": "https://www.laax.com/academy",
         "rating": 4.9,
         "description": "Half-day freestyle coaching with pro instructors"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=LAAX%20Freestyle%20Park&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4426,6 +5062,18 @@
         },
         "bookingUrl": "https://www.swissraft.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/white-water-rafting-luetschine-interlaken/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4507,6 +5155,18 @@
         "bookingUrl": "https://www.skydance.ch",
         "rating": 4.8,
         "description": "Includes HD video package"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Skydiving%20over%20Interlaken&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4587,6 +5247,18 @@
         "bookingUrl": "https://www.brienz.ch",
         "rating": 4.4,
         "description": "Self-service hourly kayak rental"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Kayaking%20on%20Lake%20Brienz&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4656,6 +5328,18 @@
         },
         "bookingUrl": "https://www.truemmelbachfaelle.ch",
         "rating": 4.6
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Tr%C3%BCmmelbach%20Falls&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4725,6 +5409,18 @@
         },
         "bookingUrl": "https://www.jungfrau.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Harder%20Kulm%20%E2%80%93%20Top%20of%20Interlaken&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4807,6 +5503,18 @@
         "bookingUrl": "https://www.swissknifevalley.ch",
         "rating": 4.7,
         "description": "Assemble your own customized Swiss Army Knife"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20Knife%20Valley%20Visitor%20Center&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4876,6 +5584,18 @@
         },
         "bookingUrl": "https://www.neuchateltourisme.ch",
         "rating": 4.8
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Creux%20du%20Van&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -4963,6 +5683,18 @@
         "bookingUrl": "https://www.bikekingdom.ch",
         "rating": 4.6,
         "description": "Full-suspension e-MTB rental + lift pass"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bike%20Park%20Lenzerheide&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5032,6 +5764,18 @@
         },
         "bookingUrl": "https://www.ballenberg.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/ballenberg-open-air-museum/ballenberg-entrance-ticket/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5102,6 +5846,18 @@
         },
         "bookingUrl": "https://www.montesansalvatore.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Monte%20San%20Salvatore%20Lugano&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5186,6 +5942,18 @@
         "bookingUrl": "https://www.taminatherme.ch",
         "rating": 4.7,
         "description": "Full-day access including sauna world"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Tamina%20Therme%20Bad%20Ragaz&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5268,6 +6036,18 @@
         "bookingUrl": "https://www.jungfrau.ch",
         "rating": 4.7,
         "description": "Gondola to First + zip line combo"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=First%20Flyer%20Zip%20Line%20Grindelwald&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5350,6 +6130,18 @@
         "bookingUrl": "https://www.getyourguide.com",
         "rating": 4.3,
         "description": "Extended 2-hour tour with extra stops"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/segway/zurich-segway-tour-private/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5420,6 +6212,18 @@
         },
         "bookingUrl": "https://www.aareschlucht.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Aare%20Gorge%20(Aareschlucht)&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5490,6 +6294,18 @@
         "bookingUrl": "https://www.jungfrau.ch",
         "rating": 4.9,
         "description": "Gondola to First + free hiking trail to lake"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bachalpsee%20Lake%20Hike&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5558,6 +6374,18 @@
         },
         "bookingUrl": "https://www.jetboat.ch",
         "rating": 4.6
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Jet%20Boat%20Ride%20Interlaken&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5626,6 +6454,18 @@
         },
         "bookingUrl": "https://www.bern.com",
         "rating": 4.8
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Aare%20River%20Swimming%20in%20Bern&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5715,6 +6555,18 @@
         "bookingUrl": "https://www.swisshelicopter.ch",
         "rating": 4.8,
         "description": "45-min extended Alps panoramic tour"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Helicopter%20Tour%20over%20the%20Alps&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5785,6 +6637,18 @@
         "bookingUrl": "https://www.zermatt.ch",
         "rating": 4.8,
         "description": "Funicular to start point — trail is free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Five%20Lakes%20Walk%20Zermatt&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5868,6 +6732,18 @@
         "bookingUrl": "https://www.swisstrails.ch",
         "rating": 4.7,
         "description": "Guided full-day tour with lunch stop"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=E-Bike%20Tour%20Graub%C3%BCnden&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -5952,6 +6828,18 @@
         "bookingUrl": "https://www.lindt-home-of-chocolate.com",
         "rating": 4.8,
         "description": "2-hour hands-on chocolate making workshop"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lindt%20Home%20of%20Chocolate&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6021,6 +6909,18 @@
         },
         "bookingUrl": "https://www.outdoor-interlaken.ch",
         "rating": 4.8
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Rope%20Jumping%20Stockhorn&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6100,6 +7000,18 @@
         "bookingUrl": "https://www.skischule-andermatt.ch",
         "rating": 4.6,
         "description": "Half-day group lesson"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Andermatt%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6168,6 +7080,18 @@
         },
         "bookingUrl": "https://www.arosalenzerheide.swiss",
         "rating": 4.6
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lenzerheide%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6248,6 +7172,18 @@
         "bookingUrl": "https://www.abcskischool.ch",
         "rating": 4.5,
         "description": "Half-day group lesson with equipment"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Arosa%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6328,6 +7264,18 @@
         "bookingUrl": "https://www.topsecret.ch",
         "rating": 4.6,
         "description": "Half-day group lesson"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Davos%20Klosters%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6408,6 +7356,18 @@
         "bookingUrl": "https://www.prime-engelberg.ch",
         "rating": 4.7,
         "description": "Half-day group ski lesson"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Engelberg-Titlis%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6477,6 +7437,18 @@
         },
         "bookingUrl": "https://www.saas-fee.ch",
         "rating": 4.6
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Saas-Fee%20Glacier%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6545,6 +7517,18 @@
         },
         "bookingUrl": "https://www.crans-montana.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Crans-Montana%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6625,6 +7609,18 @@
         "bookingUrl": "https://www.skischule-adelboden.ch",
         "rating": 4.4,
         "description": "Half-day group lesson"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Adelboden-Lenk%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6705,6 +7701,18 @@
         "bookingUrl": "https://www.glacier3000.ch",
         "rating": 4.7,
         "description": "Glacier day pass including Peak Walk"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Gstaad%20%26%20Glacier%203000%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6773,6 +7781,18 @@
         },
         "bookingUrl": "https://www.flumserberg.ch",
         "rating": 4.4
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Flumserberg%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6854,6 +7874,18 @@
         "bookingUrl": "https://www.kandersteg.ch",
         "rating": 4.4,
         "description": "Full equipment rental for the day"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Kandersteg%20Cross-Country%20Skiing&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6924,6 +7956,18 @@
         "bookingUrl": "https://www.jungfrau.ch",
         "rating": 4.9,
         "description": "Train access — trail itself is free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Eiger%20Trail%20Hike&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -6994,6 +8038,18 @@
         "bookingUrl": "https://www.oeschinensee.ch",
         "rating": 4.8,
         "description": "Return gondola — trail free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Oeschinensee%20Circular%20Hike&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7064,6 +8120,18 @@
         "bookingUrl": "https://www.niederhorn.ch",
         "rating": 4.6,
         "description": "One-way cable car to trailhead"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Panoramaweg%20Thunersee&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7134,6 +8202,18 @@
         "bookingUrl": "https://www.pilatus.ch",
         "rating": 4.7,
         "description": "Return cable car — trail free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Walenpfad%20Pilatus%20Ridge%20Walk&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7214,6 +8294,18 @@
         "bookingUrl": "https://www.allibert-trekking.com",
         "rating": 4.7,
         "description": "3-day guided Swiss section with mountain huts"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Tour%20du%20Mont%20Blanc%20%E2%80%93%20Swiss%20Section&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7284,6 +8376,18 @@
         "bookingUrl": "https://www.postauto.ch",
         "rating": 4.5,
         "description": "Bus access — trail free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Via%20Alpina%3A%20Grindelwald%20to%20Meiringen&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7354,6 +8458,18 @@
         "bookingUrl": "https://www.aletscharena.ch",
         "rating": 4.8,
         "description": "Cable car to viewpoint — trail free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Aletsch%20Panorama%20Trail&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7424,6 +8540,18 @@
         },
         "bookingUrl": "https://www.muottasmuragl.ch",
         "rating": 4.8
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Muottas%20Muragl%20Panorama%20Trail&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7495,6 +8623,18 @@
         "bookingUrl": "https://www.luganoregion.com",
         "rating": 4.6,
         "description": "Lake bus return from Gandria"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lago%20di%20Lugano%20Lakeside%20Walk&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7579,6 +8719,18 @@
         "bookingUrl": "https://www.augustaraurica.ch",
         "rating": 4.4,
         "description": "Museum with silver treasure and Roman artefacts"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Augusta%20Raurica%20Roman%20City&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7656,6 +8808,18 @@
         "bookingUrl": "https://www.tinguely.ch",
         "rating": 4.6,
         "description": "Full museum access — under 16 free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Museum%20Tinguely%20Basel&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7728,6 +8892,18 @@
         "bookingUrl": "https://www.fondationbeyeler.ch",
         "rating": 4.8,
         "description": "Full museum access — under 25 reduced"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Fondation%20Beyeler&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7800,6 +8976,18 @@
         "bookingUrl": "https://www.zpk.org",
         "rating": 4.5,
         "description": "Exhibition access — under 6 free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Zentrum%20Paul%20Klee&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7871,6 +9059,18 @@
         },
         "bookingUrl": "https://www.fifamuseum.com",
         "rating": 4.2
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=FIFA%20Museum%20Zurich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -7943,6 +9143,18 @@
         "bookingUrl": "https://www.stiftsbezirk.ch",
         "rating": 4.7,
         "description": "Library and exhibition access"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Abbey%20Library%20of%20St.%20Gallen&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8014,6 +9226,18 @@
         },
         "bookingUrl": "https://www.cailler.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Maison%20Cailler%20Chocolate%20Factory&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8086,6 +9310,18 @@
         "bookingUrl": "https://www.aargauerkunsthaus.ch",
         "rating": 4.4,
         "description": "Full museum access — under 16 free"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Aargauer%20Kunsthaus&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8157,6 +9393,18 @@
         "bookingUrl": "https://www.luzern.com",
         "rating": 4.5,
         "description": "Free walk — open Apr to Nov"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Museggmauer%20Walk%20Lucerne&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8233,6 +9481,18 @@
         },
         "bookingUrl": "https://www.basel.com",
         "rating": 4.4
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Tinguely%20Fountain%20Basel&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8307,6 +9567,18 @@
         "bookingUrl": "https://www.basel.com",
         "rating": 4.8,
         "description": "Free swimming — Wickelfisch bags from CHF 20 at shops"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Rhine%20Swimming%20Basel&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8384,6 +9656,18 @@
         "bookingUrl": "https://www.foxtrail.ch",
         "rating": 4.5,
         "description": "Per person — teams of 2-6"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Foxtrail%20Zurich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8456,6 +9740,18 @@
         "bookingUrl": "https://www.foxtrail.ch",
         "rating": 4.5,
         "description": "Per person — teams of 2-6"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Foxtrail%20Bern&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8527,6 +9823,18 @@
         },
         "bookingUrl": "https://www.alpamare.ch",
         "rating": 4.3
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Alpamare%20Water%20Park%20Pf%C3%A4ffikon&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8611,6 +9919,18 @@
         "bookingUrl": "https://www.hammam-zurich.ch",
         "rating": 4.8,
         "description": "Bath ritual plus 30-min massage"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Hammam%20%26%20Spa%20Zurich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8695,6 +10015,18 @@
         "bookingUrl": "https://www.bognengiadina.ch",
         "rating": 4.7,
         "description": "2.5-hour Roman-Irish ritual"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bogn%20Engiadina%20Scuol&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8778,6 +10110,18 @@
         "bookingUrl": "https://www.bainsdelagruyere.ch",
         "rating": 4.6,
         "description": "Full-day access including saunas"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bains%20de%20la%20Gruy%C3%A8re&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8849,6 +10193,18 @@
         },
         "bookingUrl": "https://www.gletschergarten.ch",
         "rating": 4.3
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Glacier%20Garden%20Lucerne&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8918,6 +10274,18 @@
         "bookingUrl": "https://www.grindelwald.swiss",
         "rating": 4.6,
         "description": "Evening drone show ticket"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Drone%20Light%20Show%20Grindelwald&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -8988,6 +10356,18 @@
         },
         "bookingUrl": "https://www.swissvapeur.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20Vapeur%20Parc&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9058,6 +10438,18 @@
         },
         "bookingUrl": "https://www.connyland.ch",
         "rating": 4
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Conny-Land%20Lipperswil&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9128,6 +10520,18 @@
         },
         "bookingUrl": "https://www.kfrr.ch",
         "rating": 4.4
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9198,6 +10602,18 @@
         },
         "bookingUrl": "https://www.seilpark-balmberg.ch",
         "rating": 4.4
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Seilpark%20Balmberg&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9267,6 +10683,18 @@
         "bookingUrl": "https://www.augustaraurica.ch",
         "rating": 4.6,
         "description": "Weekend festival pass"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Augusta%20Raurica%20Roman%20Festival&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9348,6 +10776,18 @@
         "bookingUrl": "https://www.solothurnerfilmtage.ch",
         "rating": 4.6,
         "description": "Full festival pass — all screenings"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Solothurn%20Film%20Festival&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9429,6 +10869,18 @@
         "bookingUrl": "https://www.montreuxjazzfestival.com",
         "rating": 4.8,
         "description": "Headline concert tickets — prices vary"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Montreux%20Jazz%20Festival&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9498,6 +10950,18 @@
         "bookingUrl": "https://www.streetparade.com",
         "rating": 4.7,
         "description": "Free public event — donations welcome"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Z%C3%BCrich%20Street%20Parade&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9572,6 +11036,18 @@
         },
         "bookingUrl": "https://www.fasnachts-comite.ch",
         "rating": 4.9
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Basel%20Fasnacht%20Carnival&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9653,6 +11129,18 @@
         "bookingUrl": "https://www.locarnofestival.ch",
         "rating": 4.8,
         "description": "Multi-day all-access pass"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Locarno%20Film%20Festival&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9722,6 +11210,18 @@
         "bookingUrl": "https://www.jungfrau-marathon.ch",
         "rating": 4.8,
         "description": "Race registration — September annually"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Jungfrau%20Marathon&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9791,6 +11291,18 @@
         "bookingUrl": "https://www.engadin-skimarathon.ch",
         "rating": 4.7,
         "description": "Race registration — March annually"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Engadin%20Skimarathon&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9875,6 +11387,18 @@
         "bookingUrl": "https://www.emmentaler-schaukaeserei.ch",
         "rating": 4.7,
         "description": "Hands-on cheese making — take home your own wheel"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Cheese-Making%20Workshop%20Emmental&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -9957,6 +11481,18 @@
         "bookingUrl": "https://www.ticino.ch",
         "rating": 4.8,
         "description": "Hunt followed by full truffle menu"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Truffle%20Hunting%20in%20Ticino&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10028,6 +11564,18 @@
         "bookingUrl": "https://www.paragliding-engelberg.ch",
         "rating": 4.8,
         "description": "Tandem flight with photos/video"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10100,6 +11648,18 @@
         "bookingUrl": "https://www.flydavos.ch",
         "rating": 4.7,
         "description": "Tandem flight from Jakobshorn"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/?ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10181,6 +11741,18 @@
         "bookingUrl": "https://www.wakepark-thunersee.ch",
         "rating": 4.6,
         "description": "Lesson + 2-hour session"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Wakeboarding%20Lake%20Thun&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10262,6 +11834,18 @@
         "bookingUrl": "https://www.sup-zurich.ch",
         "rating": 4.7,
         "description": "Guided 2-hour sunset paddle"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Stand-Up%20Paddling%20Lake%20Zurich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10333,6 +11917,18 @@
         "bookingUrl": "https://www.thuner-see.ch",
         "rating": 4.5,
         "description": "Half-day guided fishing trip"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Guided%20Fishing%20Lake%20Thun&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10416,6 +12012,18 @@
         "bookingUrl": "https://www.marcheconcours.ch",
         "rating": 4.6,
         "description": "Annual horse market (August) — entry ticket"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Horse%20Riding%20in%20the%20Jura&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10499,6 +12107,18 @@
         "bookingUrl": "https://www.golfcrans.ch",
         "rating": 4.5,
         "description": "Green fee — Jack Nicklaus course"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Golf%20Crans-Montana&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10582,6 +12202,18 @@
         "bookingUrl": "https://www.arosa.swiss",
         "rating": 4.8,
         "description": "5-night retreat with full programme"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Mountain%20Yoga%20Retreat%20Graub%C3%BCnden&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10654,6 +12286,18 @@
         "bookingUrl": "https://www.cookingclass-zurich.ch",
         "rating": 4.6,
         "description": "3-hour class with market visit and dinner"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20Cooking%20Class%20Zurich&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10725,6 +12369,18 @@
         "bookingUrl": "https://www.lauterbrunnen.swiss",
         "rating": 4.6,
         "description": "3-hour guided photography walk"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Photography%20Tour%20Lauterbrunnen&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10794,6 +12450,18 @@
         "bookingUrl": "https://www.zermatt.ch",
         "rating": 4.4,
         "description": "2-hour beginner session with equipment"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Curling%20Experience%20Zermatt&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10863,6 +12531,18 @@
         "bookingUrl": "https://www.rigi.ch",
         "rating": 4.6,
         "description": "Cogwheel railway up + sled rental"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Tobogganing%20on%20Rigi&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -10944,6 +12624,18 @@
         "bookingUrl": "https://www.gstaad.ch",
         "rating": 4.6,
         "description": "2-hour guided fat bike tour with fondue stop"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Fat%20Biking%20Gstaad&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11028,6 +12720,18 @@
         "bookingUrl": "https://www.hoelloch.ch",
         "rating": 4.8,
         "description": "7-hour deep cave expedition"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=H%C3%B6lloch%20Cave%20Tour&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11097,6 +12801,18 @@
         },
         "bookingUrl": "https://www.zermatt.ch",
         "rating": 4.5
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Gorner%20Gorge%20Zermatt&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11168,6 +12884,18 @@
         },
         "bookingUrl": "https://www.blausee.ch",
         "rating": 4.6
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Blausee%20%E2%80%93%20Blue%20Lake&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11237,6 +12965,18 @@
         "bookingUrl": "https://www.caumasee.ch",
         "rating": 4.7,
         "description": "Day access including lift tunnel"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Caumasee%20%E2%80%93%20Lake%20Cauma&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11306,6 +13046,18 @@
         "bookingUrl": "https://www.oeschinensee.ch",
         "rating": 4.7,
         "description": "Return gondola + toboggan run included"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Oeschinen%20Lake%20Winter%20Experience&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11376,6 +13128,18 @@
         },
         "bookingUrl": "https://www.glarus.ch",
         "rating": 4.6
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Kl%C3%B6ntalersee&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11465,6 +13229,18 @@
         "bookingUrl": "https://www.cty.ch",
         "rating": 4.4,
         "description": "Full-day access with wellness area"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Thermal%20Baths%20Yverdon-les-Bains&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11549,6 +13325,18 @@
         "bookingUrl": "https://www.solothurn-city.ch",
         "rating": 4.6,
         "description": "90-minute guided walking tour"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Solothurn%20Old%20Town%20Tour&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",
@@ -11633,6 +13421,18 @@
         "bookingUrl": "https://www.aarauinfo.ch",
         "rating": 4.5,
         "description": "90-minute guided tour of painted eaves"
+      },
+      {
+        "name": "SwissActivities",
+        "pricing": {
+          "child": 0,
+          "student": 0,
+          "adult": 0,
+          "senior": 0
+        },
+        "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Aarau%20Old%20Town%20%26%20Painted%20Eaves&ref=odbhodn",
+        "rating": 4.6,
+        "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
       }
     ],
     "currency": "CHF",

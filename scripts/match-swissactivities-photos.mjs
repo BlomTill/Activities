@@ -206,8 +206,9 @@ for (const a of activities) {
     }
   }
 
-  // Threshold: 0.55 — strict enough to avoid wrong photos but flexible
-  if (best && bestScore >= 0.55) {
+  // Threshold: 0.7 — strict enough to keep photos accurate.
+  // Below this we'd rather show a category fallback than a wrong photo.
+  if (best && bestScore >= 0.7) {
     out[aSlug] = makeOut(a, best, bestScore);
     stats.fuzzy++;
   } else {

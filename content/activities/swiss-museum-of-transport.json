@@ -46,6 +46,18 @@
       "bookingUrl": "https://www.museumspass.ch",
       "rating": 4.5,
       "description": "Free entry with annual Swiss Museum Pass (CHF 166/year)"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20Museum%20of%20Transport&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

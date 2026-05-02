@@ -58,6 +58,18 @@
       "bookingUrl": "https://www.viator.com",
       "rating": 4.4,
       "description": "Day trip from Zurich with hotel pickup included"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Jungfraujoch%20%E2%80%93%20Top%20of%20Europe&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

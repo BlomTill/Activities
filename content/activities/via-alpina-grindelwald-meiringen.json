@@ -32,6 +32,18 @@
       "bookingUrl": "https://www.postauto.ch",
       "rating": 4.5,
       "description": "Bus access — trail free"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Via%20Alpina%3A%20Grindelwald%20to%20Meiringen&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

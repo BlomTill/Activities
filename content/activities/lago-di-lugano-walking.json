@@ -33,6 +33,18 @@
       "bookingUrl": "https://www.luganoregion.com",
       "rating": 4.6,
       "description": "Lake bus return from Gandria"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lago%20di%20Lugano%20Lakeside%20Walk&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

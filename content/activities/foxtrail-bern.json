@@ -34,6 +34,18 @@
       "bookingUrl": "https://www.foxtrail.ch",
       "rating": 4.5,
       "description": "Per person — teams of 2-6"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Foxtrail%20Bern&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

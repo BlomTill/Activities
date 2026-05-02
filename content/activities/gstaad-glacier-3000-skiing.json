@@ -42,6 +42,18 @@
       "bookingUrl": "https://www.glacier3000.ch",
       "rating": 4.7,
       "description": "Glacier day pass including Peak Walk"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Gstaad%20%26%20Glacier%203000%20Skiing&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

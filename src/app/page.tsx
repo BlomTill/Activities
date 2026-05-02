@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useEffect, useState } from "react";
 
 /* ──────────────────────────────────────────────────────────────
@@ -145,9 +146,9 @@ function Hero() {
               borderRadius: 26, overflow: "hidden", boxShadow: "var(--shadow-2)",
               border: "6px solid #FFFDF6", background: "var(--bg-2)",
             } as React.CSSProperties}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=900&q=80&auto=format&fit=crop"
-                alt="Snowy alpine peaks" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+              <Image src="https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=900&q=80&auto=format&fit=crop"
+                alt="Snowy alpine peaks" fill sizes="(max-width: 820px) 100vw, 50vw" priority
+                style={{ objectFit: "cover" }} />
               <span style={{ position: "absolute", left: 14, bottom: 12, color: "#fff", fontFamily: "JetBrains Mono, monospace", fontSize: 11, letterSpacing: ".14em", textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,.5)" }}>Jungfraujoch · 3,454m</span>
             </div>
             <div className="a-floaty" style={{
@@ -156,9 +157,8 @@ function Hero() {
               borderRadius: 22, overflow: "hidden", boxShadow: "var(--shadow-2)",
               border: "5px solid #FFFDF6", background: "var(--bg-2)",
             } as React.CSSProperties}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="https://images.unsplash.com/photo-1502784444187-359ac186c5bb?w=600&q=80&auto=format&fit=crop"
-                alt="Lake Brienz" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+              <Image src="https://images.unsplash.com/photo-1502784444187-359ac186c5bb?w=600&q=80&auto=format&fit=crop"
+                alt="Lake Brienz" fill sizes="220px" style={{ objectFit: "cover" }} />
               <span style={{ position: "absolute", left: 14, bottom: 10, color: "#fff", fontFamily: "JetBrains Mono, monospace", fontSize: 11, letterSpacing: ".14em", textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,.5)" }}>Lake Brienz</span>
             </div>
             <div className="a-floaty" style={{
@@ -167,9 +167,8 @@ function Hero() {
               borderRadius: 18, overflow: "hidden", boxShadow: "var(--shadow-2)",
               border: "5px solid #FFFDF6", background: "var(--bg-2)",
             } as React.CSSProperties}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="https://images.unsplash.com/photo-1551524559-8af4e6624178?w=500&q=80&auto=format&fit=crop"
-                alt="Alpine lake" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+              <Image src="https://images.unsplash.com/photo-1551524559-8af4e6624178?w=500&q=80&auto=format&fit=crop"
+                alt="Alpine lake" fill sizes="180px" style={{ objectFit: "cover" }} />
               <span style={{ position: "absolute", left: 14, bottom: 8, color: "#fff", fontFamily: "JetBrains Mono, monospace", fontSize: 11, letterSpacing: ".14em", textTransform: "uppercase", textShadow: "0 1px 6px rgba(0,0,0,.5)" }}>Bachalpsee</span>
             </div>
             <div style={{
@@ -217,10 +216,9 @@ function CategoryStrip() {
             cursor: "pointer", textDecoration: "none", color: "inherit",
             boxShadow: "var(--shadow-1)", transition: "transform .25s, box-shadow .25s, border-color .25s",
           }}>
-            <div style={{ height: 130, borderRadius: 14, overflow: "hidden", background: "var(--bg-2)" }}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={c.photo} alt={c.name} loading="lazy"
-                style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            <div style={{ position: "relative", height: 130, borderRadius: 14, overflow: "hidden", background: "var(--bg-2)" }}>
+              <Image src={c.photo} alt={c.name} fill sizes="(max-width: 720px) 50vw, 220px"
+                style={{ objectFit: "cover" }} />
             </div>
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline" }}>
               <div className="alpine-display" style={{ fontSize: 22, lineHeight: 1.05 }}>
@@ -248,9 +246,8 @@ function FeatureRow() {
     <section className="a-container" style={{ padding: "72px 24px" }}>
       <div className="feature-grid" style={{ display: "grid", gridTemplateColumns: "1.1fr 1fr", gap: 48, alignItems: "center" }}>
         <div style={{ position: "relative", aspectRatio: "4/5", borderRadius: 26, overflow: "hidden", boxShadow: "var(--shadow-2)", background: "var(--bg-2)" }}>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=900&q=80&auto=format&fit=crop"
-            alt="Jungfraujoch" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+          <Image src="https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=900&q=80&auto=format&fit=crop"
+            alt="Jungfraujoch" fill sizes="(max-width: 820px) 100vw, 50vw" style={{ objectFit: "cover" }} />
           <div style={{ position: "absolute", top: 16, left: 16 }}>
             <span className="a-tag coral" style={{ background: "var(--ink)", color: "#fff" }}>✦ This month&apos;s pick</span>
           </div>
@@ -289,9 +286,8 @@ function ItinTeaser() {
           position: "relative", overflow: "hidden",
         }}>
           <div style={{ position: "absolute", inset: 0, opacity: .25, pointerEvents: "none" }}>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="https://images.unsplash.com/photo-1543634806-d12bf25b8074?w=1200&q=80&auto=format&fit=crop"
-              alt="" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            <Image src="https://images.unsplash.com/photo-1543634806-d12bf25b8074?w=1200&q=80&auto=format&fit=crop"
+              alt="" fill sizes="100vw" style={{ objectFit: "cover" }} />
           </div>
           <div style={{ position: "relative" }}>
             <span className="a-kicker" style={{ color: "var(--accent-3)" }}>
@@ -322,9 +318,8 @@ function ItinTeaser() {
             </div>
           </div>
           <div style={{ position: "relative", aspectRatio: "4/5", borderRadius: 22, overflow: "hidden", boxShadow: "var(--shadow-2)", background: "var(--bg-2)" }}>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="https://images.unsplash.com/photo-1560704198-d36d8836f1cd?w=600&q=80&auto=format&fit=crop"
-              alt="Swiss train" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+            <Image src="https://images.unsplash.com/photo-1560704198-d36d8836f1cd?w=600&q=80&auto=format&fit=crop"
+              alt="Swiss train" fill sizes="(max-width: 820px) 100vw, 380px" style={{ objectFit: "cover" }} />
           </div>
         </div>
       </div>
@@ -353,10 +348,9 @@ function StoriesRow() {
               textDecoration: "none", color: "inherit", cursor: "pointer", boxShadow: "var(--shadow-1)",
               transition: "transform .25s, box-shadow .25s, border-color .25s",
             }}>
-              <div style={{ height: 160, borderRadius: 14, overflow: "hidden", background: "var(--bg-2)" }}>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={s.photo} alt={s.title} loading="lazy"
-                  style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+              <div style={{ position: "relative", height: 160, borderRadius: 14, overflow: "hidden", background: "var(--bg-2)" }}>
+                <Image src={s.photo} alt={s.title} fill sizes="(max-width: 720px) 100vw, 380px"
+                  style={{ objectFit: "cover" }} />
               </div>
               <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
                 {s.tags.map((t) => <span key={t} className="a-tag">{t}</span>)}

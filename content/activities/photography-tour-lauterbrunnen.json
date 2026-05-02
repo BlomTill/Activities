@@ -33,6 +33,18 @@
       "bookingUrl": "https://www.lauterbrunnen.swiss",
       "rating": 4.6,
       "description": "3-hour guided photography walk"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Photography%20Tour%20Lauterbrunnen&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

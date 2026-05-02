@@ -45,6 +45,18 @@
       "bookingUrl": "https://www.rigi.ch",
       "rating": 4.9,
       "description": "Overnight at summit hotel + sunrise breakfast"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Rigi%20%E2%80%93%20Queen%20of%20the%20Mountains&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

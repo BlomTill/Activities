@@ -58,6 +58,18 @@
       "bookingUrl": "https://www.klook.com",
       "rating": 4.3,
       "description": "Discounted advance booking"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Mount%20Titlis%20Glacier%20Excursion&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

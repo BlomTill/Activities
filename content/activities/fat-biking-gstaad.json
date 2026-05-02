@@ -43,6 +43,18 @@
       "bookingUrl": "https://www.gstaad.ch",
       "rating": 4.6,
       "description": "2-hour guided fat bike tour with fondue stop"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Fat%20Biking%20Gstaad&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

@@ -24,8 +24,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1605540436338-67b4aeb10709?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 3,
-    "minAdultPrice": 234
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "2",
@@ -52,8 +52,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 2,
-    "minAdultPrice": 52
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "3",
@@ -80,7 +80,7 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1580060839134-2dc0a8f6309e?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -107,8 +107,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7c?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 2,
-    "minAdultPrice": 45
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "5",
@@ -135,8 +135,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 3,
-    "minAdultPrice": 92
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "6",
@@ -163,7 +163,7 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -190,8 +190,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 4,
-    "minAdultPrice": 165
+    "providerCount": 5,
+    "minAdultPrice": 0
   },
   {
     "id": "8",
@@ -217,8 +217,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1580227974546-fbd48825d991?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 66
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "9",
@@ -244,8 +244,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1559128010-92a8ef05bd22?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 8
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "10",
@@ -272,8 +272,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652e52?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 29
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "11",
@@ -300,7 +300,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 3,
+    "providerCount": 4,
     "minAdultPrice": 0
   },
   {
@@ -327,7 +327,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -355,7 +355,7 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -383,8 +383,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 3,
-    "minAdultPrice": 158
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "15",
@@ -410,8 +410,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 45
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "16",
@@ -438,8 +438,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6e6977f35?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 44
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "17",
@@ -466,7 +466,7 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1635070041409-e63e783fb069?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -491,8 +491,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1610821210960-de11c4290c20?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 3,
-    "minAdultPrice": 59
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "19",
@@ -518,8 +518,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 48
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "20",
@@ -546,7 +546,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -571,8 +571,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1545289414-1c3cb1c06238?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 3,
-    "minAdultPrice": 135
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "22",
@@ -597,7 +597,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -625,8 +625,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 32
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "24",
@@ -651,8 +651,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 48
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "25",
@@ -679,8 +679,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 3,
-    "minAdultPrice": 38
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "26",
@@ -706,8 +706,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 2,
-    "minAdultPrice": 78
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "27",
@@ -734,8 +734,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 12
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "28",
@@ -759,8 +759,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 3,
-    "minAdultPrice": 74
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "29",
@@ -786,8 +786,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 255
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "30",
@@ -814,8 +814,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 33
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "31",
@@ -842,8 +842,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 56
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "32",
@@ -869,8 +869,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1566397135-18a6ec4b5e11?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 19
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "33",
@@ -896,8 +896,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 64
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "34",
@@ -924,7 +924,7 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -949,8 +949,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 35
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "36",
@@ -975,8 +975,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 24
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "37",
@@ -1003,8 +1003,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e07?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 32
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "38",
@@ -1028,8 +1028,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 30
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "39",
@@ -1053,8 +1053,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 10
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "40",
@@ -1081,8 +1081,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 3,
-    "minAdultPrice": 12
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "41",
@@ -1109,8 +1109,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1596496050827-8299e0220de1?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 29
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "42",
@@ -1137,8 +1137,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 68
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "43",
@@ -1165,8 +1165,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 38
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "44",
@@ -1193,8 +1193,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1531984208440-b5a2e1f6bc1e?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 95
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "45",
@@ -1218,7 +1218,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -1246,8 +1246,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 28
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "47",
@@ -1271,7 +1271,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1512389142860-9c449e58a814?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -1296,8 +1296,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 55
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "49",
@@ -1322,8 +1322,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 45
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "50",
@@ -1349,7 +1349,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4f44baee?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -1377,8 +1377,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 45
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "52",
@@ -1404,7 +1404,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 3,
+    "providerCount": 4,
     "minAdultPrice": 0
   },
   {
@@ -1429,8 +1429,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1565992441121-4367c2967103?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 72
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "54",
@@ -1454,8 +1454,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 3,
-    "minAdultPrice": 99
+    "providerCount": 4,
+    "minAdultPrice": 0
   },
   {
     "id": "55",
@@ -1481,8 +1481,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1474623809196-26c1d33457cc?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 420
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "56",
@@ -1506,8 +1506,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 35
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "57",
@@ -1533,8 +1533,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1559128010-92a8ef05bd22?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 11
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "58",
@@ -1560,8 +1560,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1527668752968-14dc70a27c95?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 32
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "59",
@@ -1588,8 +1588,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 8
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "60",
@@ -1615,7 +1615,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -1641,8 +1641,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 42
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "62",
@@ -1668,8 +1668,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 32
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "63",
@@ -1695,8 +1695,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 28
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "64",
@@ -1723,8 +1723,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1540555700478-4be289fbec6d?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 30
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "65",
@@ -1750,8 +1750,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 31
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "66",
@@ -1777,8 +1777,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1515488764276-beab7607c1e6?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 69
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "67",
@@ -1804,8 +1804,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 10
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "68",
@@ -1830,8 +1830,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 44
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "69",
@@ -1855,8 +1855,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 85
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "70",
@@ -1880,7 +1880,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -1908,8 +1908,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 280
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "72",
@@ -1934,8 +1934,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1529923986536-5765f3ca5dba?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 40
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "73",
@@ -1961,8 +1961,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 65
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "74",
@@ -1989,8 +1989,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652e52?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 16
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "75",
@@ -2015,8 +2015,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 195
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "76",
@@ -2040,8 +2040,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 2,
-    "minAdultPrice": 75
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "77",
@@ -2065,8 +2065,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 72
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "78",
@@ -2090,8 +2090,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1548777123-e216912df7d8?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 72
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "79",
@@ -2115,8 +2115,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 2,
-    "minAdultPrice": 79
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "80",
@@ -2140,8 +2140,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 69
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "81",
@@ -2166,8 +2166,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 72
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "82",
@@ -2191,8 +2191,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 68
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "83",
@@ -2216,8 +2216,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 66
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "84",
@@ -2241,8 +2241,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1485470733090-0aae1788d668?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 74
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "85",
@@ -2266,8 +2266,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1517483000871-1dbf64a6e1c6?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 56
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "86",
@@ -2291,8 +2291,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 15
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "87",
@@ -2317,8 +2317,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 1,
-    "minAdultPrice": 42
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "88",
@@ -2343,8 +2343,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1465188162913-8fb5709d6d57?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 24
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "89",
@@ -2369,8 +2369,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1445363692815-ebcd1dafd1e3?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 34
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "90",
@@ -2395,8 +2395,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 62
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "91",
@@ -2420,7 +2420,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -2446,8 +2446,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 22
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "93",
@@ -2472,8 +2472,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 36
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "94",
@@ -2499,8 +2499,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 36
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "95",
@@ -2526,8 +2526,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1516939884455-1445c8652f83?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 12
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "96",
@@ -2554,7 +2554,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1494949360457-518eb54fe235?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -2582,8 +2582,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 18
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "98",
@@ -2610,8 +2610,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1577720643272-265f09367456?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 1,
-    "minAdultPrice": 25
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "99",
@@ -2638,8 +2638,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 22
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "100",
@@ -2666,8 +2666,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 24
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "101",
@@ -2694,8 +2694,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1572953109213-3be62398eb95?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 1,
-    "minAdultPrice": 18
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "102",
@@ -2722,8 +2722,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 15
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "103",
@@ -2750,8 +2750,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 15
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "104",
@@ -2777,7 +2777,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -2805,7 +2805,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -2830,7 +2830,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -2858,8 +2858,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 36
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "108",
@@ -2886,8 +2886,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1558443957-d056622e72cd?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 36
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "109",
@@ -2914,8 +2914,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1527525443983-6e60c75fff46?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 49
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "110",
@@ -2942,8 +2942,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 65
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "111",
@@ -2970,8 +2970,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1574015974293-2096b3f48519?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 28
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "112",
@@ -2998,8 +2998,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 25
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "113",
@@ -3026,8 +3026,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1550236520-7050f3582da0?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 19
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "114",
@@ -3051,8 +3051,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1516728778615-2d590ea1855e?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 35
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "115",
@@ -3078,8 +3078,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 22
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "116",
@@ -3105,8 +3105,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1535930749574-1399327ce78f?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 42
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "117",
@@ -3132,8 +3132,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1474511320723-9a56873571b7?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 22
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "118",
@@ -3159,8 +3159,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1508873881324-c92a3fc536ba?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 38
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "119",
@@ -3184,8 +3184,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 12
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "120",
@@ -3209,8 +3209,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 18
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "121",
@@ -3234,7 +3234,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -3259,7 +3259,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -3285,7 +3285,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=800&h=500&fit=crop",
     "featured": true,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -3310,8 +3310,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 25
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "125",
@@ -3335,8 +3335,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 150
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "126",
@@ -3360,8 +3360,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1547483238-2cbf881a559f?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 130
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "127",
@@ -3388,8 +3388,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1559561853-08451507cbe7?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 10
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "128",
@@ -3414,8 +3414,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1504387432042-8aca549e4729?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 120
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "129",
@@ -3441,8 +3441,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 180
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "130",
@@ -3469,8 +3469,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1600944585003-27d11068bc91?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 190
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "131",
@@ -3494,8 +3494,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 38
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "132",
@@ -3519,8 +3519,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1543332164-6e82f355badc?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 28
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "133",
@@ -3546,8 +3546,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1500463959177-e0869687df26?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 120
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "134",
@@ -3573,8 +3573,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 20
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "135",
@@ -3600,8 +3600,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 85
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "136",
@@ -3627,8 +3627,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 450
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "137",
@@ -3655,8 +3655,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 145
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "138",
@@ -3682,8 +3682,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 85
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "139",
@@ -3707,8 +3707,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1575721150019-61b5f87bcee4?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 42
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "140",
@@ -3732,8 +3732,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1611499616977-6c903e285400?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 38
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "141",
@@ -3757,8 +3757,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1540655037529-dec987e60295?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 48
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "142",
@@ -3785,8 +3785,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1504376379689-8d54347b26c6?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 115
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "143",
@@ -3811,8 +3811,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1504700610630-ac6edd918a0a?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 5
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "144",
@@ -3839,8 +3839,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 10
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "145",
@@ -3864,8 +3864,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 10
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "146",
@@ -3889,8 +3889,8 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
-    "minAdultPrice": 24
+    "providerCount": 2,
+    "minAdultPrice": 0
   },
   {
     "id": "147",
@@ -3916,7 +3916,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1580137189272-c9379f8864fd?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 1,
+    "providerCount": 2,
     "minAdultPrice": 0
   },
   {
@@ -3944,8 +3944,8 @@
     "indoor": true,
     "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
-    "minAdultPrice": 20
+    "providerCount": 3,
+    "minAdultPrice": 0
   },
   {
     "id": "149",
@@ -3972,7 +3972,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1564429238961-bf4213e78bbf?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {
@@ -4000,7 +4000,7 @@
     "indoor": false,
     "imageUrl": "https://images.unsplash.com/photo-1571168136613-46401b03904e?w=800&h=500&fit=crop",
     "featured": false,
-    "providerCount": 2,
+    "providerCount": 3,
     "minAdultPrice": 0
   },
   {

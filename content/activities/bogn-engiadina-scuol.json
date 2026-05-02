@@ -46,6 +46,18 @@
       "bookingUrl": "https://www.bognengiadina.ch",
       "rating": 4.7,
       "description": "2.5-hour Roman-Irish ritual"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bogn%20Engiadina%20Scuol&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

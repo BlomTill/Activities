@@ -43,6 +43,18 @@
       "bookingUrl": "https://www.sup-zurich.ch",
       "rating": 4.7,
       "description": "Guided 2-hour sunset paddle"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Stand-Up%20Paddling%20Lake%20Zurich&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

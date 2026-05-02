@@ -45,6 +45,18 @@
       "bookingUrl": "https://www.marcheconcours.ch",
       "rating": 4.6,
       "description": "Annual horse market (August) — entry ticket"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Horse%20Riding%20in%20the%20Jura&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

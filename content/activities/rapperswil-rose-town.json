@@ -32,6 +32,18 @@
       },
       "bookingUrl": "https://www.rapperswil-zuerichsee.ch",
       "rating": 4.4
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Rapperswil%20Rose%20Town%20%26%20Castle&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

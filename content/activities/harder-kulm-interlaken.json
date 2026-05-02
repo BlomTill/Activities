@@ -32,6 +32,18 @@
       },
       "bookingUrl": "https://www.jungfrau.ch",
       "rating": 4.5
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Harder%20Kulm%20%E2%80%93%20Top%20of%20Interlaken&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

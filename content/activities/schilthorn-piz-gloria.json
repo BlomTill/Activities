@@ -45,6 +45,18 @@
       "bookingUrl": "https://www.schilthorn.ch",
       "rating": 4.8,
       "description": "Cable car + revolving restaurant brunch"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Schilthorn%20Piz%20Gloria&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

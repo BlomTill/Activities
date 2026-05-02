@@ -57,6 +57,18 @@
       "bookingUrl": "https://www.lavaux-wine-walks.ch",
       "rating": 4.8,
       "description": "Small group guided walk with sommelier and 5+ tastings"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Lavaux%20Vineyard%20Wine%20Tasting&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

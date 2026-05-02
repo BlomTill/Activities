@@ -34,6 +34,18 @@
       "bookingUrl": "https://www.zpk.org",
       "rating": 4.5,
       "description": "Exhibition access — under 6 free"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Zentrum%20Paul%20Klee&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

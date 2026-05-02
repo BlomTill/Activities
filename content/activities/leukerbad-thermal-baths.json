@@ -46,6 +46,18 @@
       "bookingUrl": "https://www.alpentherme.ch",
       "rating": 4.7,
       "description": "Upscale option with Roman-Irish bath and panoramic pool"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Leukerbad%20Thermal%20Baths&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

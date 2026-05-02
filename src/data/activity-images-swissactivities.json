@@ -1,58 +1,14 @@
 {
   "scrapedAt": "2026-04-29T17:56:59.298Z",
   "totalSiteActivities": 1513,
-  "matched": 1371,
+  "matched": 1359,
   "stats": {
     "exactSlug": 1349,
     "exactNameSlug": 0,
-    "fuzzy": 22,
-    "none": 142
+    "fuzzy": 10,
+    "none": 154
   },
   "images": {
-    "zermatt-matterhorn-glacier-paradise": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/ec8544a7a0dc1463eb758bcecb14e909.jpg",
-      "alt": "SOM-north-STE-wan-5see-act-quer-hres-gpe-nat-mat-1",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise/"
-      },
-      "matchedBy": "fuzzy:0.60"
-    },
-    "swiss-museum-of-transport": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Verkehrshaus_Luzern_1_09debbca62.jpg",
-      "alt": "Children riding scooters at the Swiss Museum of Transport in Lucerne under an airplane",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/day-pass-museum-of-transport-lucerne/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/day-pass-museum-of-transport-lucerne/"
-      },
-      "matchedBy": "fuzzy:0.67"
-    },
-    "chateau-de-chillon": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Chateau_Chillon_Schiffahrt_Genfersee_2_4d0deff040.jpeg",
-      "alt": "Chillon Castle, boat on Lake Geneva, clear sky, summer.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/chillon-castle/ticket-chateau-chillon-in-montreux/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/chillon-castle/ticket-chateau-chillon-in-montreux/"
-      },
-      "matchedBy": "fuzzy:0.67"
-    },
-    "interlaken-paragliding": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/500b2bf82e3417880ea655996b14d25f.JPG",
-      "alt": "Beatenberg paragliding tandem from Interlaken",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-beatenberg-interlaken/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-beatenberg-interlaken/"
-      },
-      "matchedBy": "fuzzy:0.60"
-    },
     "glacier-express": {
       "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e97000cc4d2163ffc416eab3e0ba5ee6.jpg",
       "alt": "Realp-Glacier-Express",
@@ -75,39 +31,6 @@
       },
       "matchedBy": "fuzzy:0.87"
     },
-    "escape-room-zurich": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/eb301b1c41ca8471de7276a0f3373f91.jpg",
-      "alt": "Spiel im Team",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/escape-room/escape-game-zurich-etuktuk/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/escape-room/escape-game-zurich-etuktuk/"
-      },
-      "matchedBy": "fuzzy:0.60"
-    },
-    "pilatus-golden-round-trip": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/45bf0ea26ed958a0256c8240e5577a5f.jpg",
-      "alt": "Pilatus: Cable car, view of lakes and mountains in Obwalden during the summer months.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-bus-tour-to-pilatus-with-golden-round-trip/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-bus-tour-to-pilatus-with-golden-round-trip/"
-      },
-      "matchedBy": "fuzzy:0.60"
-    },
-    "bungee-jumping-verzasca": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_3ec53a66d5360ccb36ef0132fa1d5403_c7365a58bb.jpg",
-      "alt": "Bungee jumping from Stockhorn over the calm waters during the summer months.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/bungee-jumping/bungee-jumping-stockhorn/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/bungee-jumping/bungee-jumping-stockhorn/"
-      },
-      "matchedBy": "fuzzy:0.60"
-    },
     "stanserhorn-cabrio": {
       "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cabrio_Cabri_O_Stanserhorn_Bahn_233d62010f.jpg",
       "alt": "CabriO Stanserhorn: Cable car with views of the mountains and clouds, ideal for adventures in nature.",
@@ -118,17 +41,6 @@
         "sourceUrl": "https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/"
       },
       "matchedBy": "fuzzy:0.87"
-    },
-    "bernina-express": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Bike_Davos_d4d80e8325.jpg",
-      "alt": "Trek-Mountainbike on rock in the forest near Davos",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/mountain-bike/mountain-bike-tour-bernina-express-grisons/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/mountain-bike/mountain-bike-tour-bernina-express-grisons/"
-      },
-      "matchedBy": "fuzzy:0.60"
     },
     "christmas-markets-basel": {
       "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22e2ba88858f14ffd5b78680d01727ce.jpg",
@@ -163,17 +75,6 @@
       },
       "matchedBy": "fuzzy:1.00"
     },
-    "kayaking-lake-brienz": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_11d6da80569d3627fe2b2d10ac1e2b3c_a567960fee.jpg",
-      "alt": "Kayaking on Lake Brienz. Two paddlers in yellow kayaks surrounded by mountains. Clear sky and calm water surface.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/kayak/kayak-tour-summer-on-the-lake-of-brienz/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/kayak/kayak-tour-summer-on-the-lake-of-brienz/"
-      },
-      "matchedBy": "fuzzy:0.60"
-    },
     "ballenberg-open-air-museum": {
       "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/60114e629a78c487e199e6e56a566ff0.jpg",
       "alt": "Ballenberg",
@@ -195,28 +96,6 @@
         "sourceUrl": "https://www.swissactivities.com/en-ch/segway/zurich-segway-tour-private/"
       },
       "matchedBy": "fuzzy:0.87"
-    },
-    "engelberg-titlis-skiing": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rotair_auf_den_Titlis_44e582de34.jpeg",
-      "alt": "Rotair Titlis cable car rides over snow-covered mountains.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/titlis-with-the-rotair-gondola-to-the-glacier/rail-ticket-titlis-from-engelberg/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/titlis-with-the-rotair-gondola-to-the-glacier/rail-ticket-titlis-from-engelberg/"
-      },
-      "matchedBy": "fuzzy:0.67"
-    },
-    "abbey-library-st-gallen": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Stiftsbibliothek_Keystory_2020_2_c69ab9dccf.jpg",
-      "alt": "Library of the Abbey, impressive library room with wooden shelves and books",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-of-the-abbey-library-st-gallen/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-of-the-abbey-library-st-gallen/"
-      },
-      "matchedBy": "fuzzy:0.63"
     },
     "knies-kinderzoo-rapperswil": {
       "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/432fa95dd80a07e922f912c5e82eae86.jpg",
@@ -250,17 +129,6 @@
         "sourceUrl": "https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/"
       },
       "matchedBy": "fuzzy:1.07"
-    },
-    "cooking-class-zurich": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/a6c07b3398794b999d75d3fcbf3b98bb.jpg",
-      "alt": "Image 2",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/cooking-course/turkish-for-beginners-cooking-class-in-zurich/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/cooking-course/turkish-for-beginners-cooking-class-in-zurich/"
-      },
-      "matchedBy": "fuzzy:0.60"
     },
     "pony-rental-in-lausen": {
       "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/49eab8190065ec9c252418b42457335d.JPG",

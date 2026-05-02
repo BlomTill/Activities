@@ -45,6 +45,18 @@
       "bookingUrl": "https://www.golfcrans.ch",
       "rating": 4.5,
       "description": "Green fee — Jack Nicklaus course"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Golf%20Crans-Montana&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

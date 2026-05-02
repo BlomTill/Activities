@@ -31,6 +31,18 @@
       "bookingUrl": "https://www.jungfrau-marathon.ch",
       "rating": 4.8,
       "description": "Race registration — September annually"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Jungfrau%20Marathon&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

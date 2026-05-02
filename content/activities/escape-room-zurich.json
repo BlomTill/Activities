@@ -58,6 +58,18 @@
       "bookingUrl": "https://www.adventurerooms.ch",
       "rating": 4.4,
       "description": "Switzerland's original escape room brand"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Escape%20Room%20Zurich&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

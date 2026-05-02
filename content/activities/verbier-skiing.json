@@ -55,6 +55,18 @@
       "bookingUrl": "https://www.esstverbier.ch",
       "rating": 4.6,
       "description": "Half-day group ski lesson (lift pass separate)"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Verbier%204%20Vall%C3%A9es%20Skiing&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

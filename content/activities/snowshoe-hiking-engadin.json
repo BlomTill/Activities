@@ -43,6 +43,18 @@
       "bookingUrl": "https://www.mountainreality.ch",
       "rating": 4.7,
       "description": "Full-day tour with fondue lunch in mountain hut"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Snowshoe%20Hiking%20in%20the%20Engadin&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

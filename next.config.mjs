@@ -17,10 +17,16 @@ const nextConfig = {
       { protocol: "https", hostname: "pixabay.com" },
       { protocol: "https", hostname: "cdn.pixabay.com" },
 
+      // ── SwissActivities CDN (imgix-backed) ───────────────────────────────────
+      { protocol: "https", hostname: "contentapi-swissactivities.imgix.net" },
+      { protocol: "https", hostname: "swissactivities.imgix.net" },
+
       // ── Misc curated sources ─────────────────────────────────────────────────
       { protocol: "https", hostname: "live.staticflickr.com" },
       { protocol: "https", hostname: "i.imgur.com" },
     ],
+    formats: ["image/avif", "image/webp"],
+    minimumCacheTTL: 60 * 60 * 24 * 30, // 30 days — these images are very stable
   },
   async redirects() {
     return [

@@ -34,6 +34,18 @@
       "bookingUrl": "https://www.fondationbeyeler.ch",
       "rating": 4.8,
       "description": "Full museum access — under 25 reduced"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Fondation%20Beyeler&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

@@ -46,6 +46,18 @@
       "bookingUrl": "https://www.thermalbad.ch",
       "rating": 4.7,
       "description": "Full 3-hour Irish-Roman bath ceremony"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Thermalbad%20%26%20Spa%20Z%C3%BCrich&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

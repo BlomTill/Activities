@@ -46,6 +46,18 @@
       "bookingUrl": "https://www.swisshelicopter.ch",
       "rating": 4.8,
       "description": "45-min extended Alps panoramic tour"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Helicopter%20Tour%20over%20the%20Alps&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

@@ -46,6 +46,18 @@
       "bookingUrl": "https://visit.cern/tours",
       "rating": 4.9,
       "description": "Free guided tour of CERN facilities — must book in advance"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=CERN%20Science%20Gateway&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

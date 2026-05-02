@@ -42,6 +42,18 @@
       "bookingUrl": "https://www.allibert-trekking.com",
       "rating": 4.7,
       "description": "3-day guided Swiss section with mountain huts"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Tour%20du%20Mont%20Blanc%20%E2%80%93%20Swiss%20Section&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

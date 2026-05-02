@@ -34,6 +34,18 @@
       "bookingUrl": "https://www.technorama.ch",
       "rating": 4.7,
       "description": "Full-day access to all exhibits and shows"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20Science%20Center%20Technorama&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

@@ -46,6 +46,18 @@
       "bookingUrl": "https://www.emmentaler-schaukaeserei.ch",
       "rating": 4.7,
       "description": "Hands-on cheese making — take home your own wheel"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Cheese-Making%20Workshop%20Emmental&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

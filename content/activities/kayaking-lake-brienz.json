@@ -43,6 +43,18 @@
       "bookingUrl": "https://www.brienz.ch",
       "rating": 4.4,
       "description": "Self-service hourly kayak rental"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Kayaking%20on%20Lake%20Brienz&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

@@ -45,6 +45,18 @@
       "bookingUrl": "https://www.swisstrails.ch",
       "rating": 4.7,
       "description": "Guided full-day tour with lunch stop"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=E-Bike%20Tour%20Graub%C3%BCnden&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

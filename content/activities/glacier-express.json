@@ -58,6 +58,18 @@
       "bookingUrl": "https://www.glacierexpress.ch",
       "rating": 4.9,
       "description": "Premium lounge car with 5-course meal, unlimited drinks, concierge"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

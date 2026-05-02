@@ -58,6 +58,18 @@
       "bookingUrl": "https://www.la-gruyere.ch",
       "rating": 4.6,
       "description": "Combined factory tour + fondue lunch"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Fondue%20Experience%20in%20Gruy%C3%A8res&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

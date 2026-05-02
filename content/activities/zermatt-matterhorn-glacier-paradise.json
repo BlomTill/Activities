@@ -46,6 +46,18 @@
       "bookingUrl": "https://www.swiss-pass.ch",
       "rating": 4.6,
       "description": "50% discount with Swiss Travel Pass"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Matterhorn%20Glacier%20Paradise&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

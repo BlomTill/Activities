@@ -44,6 +44,18 @@
       "bookingUrl": "https://www.outdoor-interlaken.ch",
       "rating": 4.8,
       "description": "Guided via ferrata with all equipment and instruction"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",

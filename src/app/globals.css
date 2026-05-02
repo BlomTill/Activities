@@ -835,12 +835,18 @@
   .hover\:bg-\[\#131210\]:hover   { background-color: #FFEFD6 !important; }
   .hover\:bg-\[\#1e1b17\]:hover   { background-color: #F4E5C2 !important; }
 
-  /* Opacity-modified variants like bg-[#0c0b09]/90 → compiled as .bg-\[\#0c0b09\]\/90 */
-  [class*="bg-[#0c0b09]"] { background-color: rgba(255, 247, 236, 0.9) !important; }
-  [class*="bg-[#131210]"] { background-color: rgba(255, 253, 246, 0.95) !important; }
-  [class*="bg-[#1e1b17]"] { background-color: rgba(255, 239, 214, 0.9) !important; }
-  [class*="border-[#1e1b17]"] { border-color: rgba(233, 223, 200, 0.85) !important; }
-  [class*="border-[#2a261f]"] { border-color: #E9DFC8 !important; }
+  /* Opacity-modified variants like bg-[#0c0b09]/90 — list explicit classes
+     instead of [class*="..."] substring selectors which run on every element
+     in the document and tank rendering performance on long pages. */
+  .bg-\[\#0c0b09\]\/90 { background-color: rgba(255, 247, 236, 0.9) !important; }
+  .bg-\[\#0c0b09\]\/95 { background-color: rgba(255, 247, 236, 0.95) !important; }
+  .bg-\[\#0c0b09\]\/80 { background-color: rgba(255, 247, 236, 0.8) !important; }
+  .bg-\[\#131210\]\/95 { background-color: rgba(255, 253, 246, 0.95) !important; }
+  .bg-\[\#131210\]\/90 { background-color: rgba(255, 253, 246, 0.9) !important; }
+  .bg-\[\#1e1b17\]\/80 { background-color: rgba(255, 239, 214, 0.8) !important; }
+  .bg-\[\#1e1b17\]\/90 { background-color: rgba(255, 239, 214, 0.9) !important; }
+  .border-\[\#1e1b17\]\/80 { border-color: rgba(233, 223, 200, 0.85) !important; }
+  .border-\[\#1e1b17\]\/60 { border-color: rgba(233, 223, 200, 0.7) !important; }
 
   /* ── Inline-style overrides via attribute selectors ── */
   [style*="#0c0b09"]:not(.alpine-keep-dark) { background-color: #FFF7EC !important; }

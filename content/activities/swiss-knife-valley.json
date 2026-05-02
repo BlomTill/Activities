@@ -45,6 +45,18 @@
       "bookingUrl": "https://www.swissknifevalley.ch",
       "rating": 4.7,
       "description": "Assemble your own customized Swiss Army Knife"
+    },
+    {
+      "name": "SwissActivities",
+      "pricing": {
+        "child": 0,
+        "student": 0,
+        "adult": 0,
+        "senior": 0
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Swiss%20Knife%20Valley%20Visitor%20Center&ref=odbhodn",
+      "rating": 4.6,
+      "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }
   ],
   "currency": "CHF",
