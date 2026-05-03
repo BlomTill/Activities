@@ -22,14 +22,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Schweizerische Bundesbahnen SBB",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 20,
+        "student": 34,
+        "adult": 40,
+        "senior": 36
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/rail-ticket-stgallen-wasserauen/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/rail-ticket-stgallen-wasserauen/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

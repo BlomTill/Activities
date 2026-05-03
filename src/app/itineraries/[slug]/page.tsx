@@ -55,7 +55,7 @@ export default function ItineraryDetailPage() {
       .map((activitySlug) => getActivityBySlug(activitySlug))
       .filter((activity): activity is NonNullable<ReturnType<typeof getActivityBySlug>> => Boolean(activity))
   );
-  const estimatedActivitiesCost = linkedActivities.reduce((sum, activity) => sum + getBestPrice(activity, ageGroup), 0);
+  const estimatedActivitiesCost = linkedActivities.reduce((sum, activity) => sum + (getBestPrice(activity, ageGroup) ?? 0), 0);
   const uniqueCities = Array.from(new Set(itinerary.itinerary.map((day) => day.location)));
   const relatedPosts = getRelatedBlogPostsForActivities(linkedActivities, [...itinerary.tags, ...itinerary.regions]);
 
@@ -223,7 +223,7 @@ export default function ItineraryDetailPage() {
                                   <span className="font-medium text-gray-900">{act.name}</span>
                                   <span className="text-gray-400">|</span>
                                   <span className="font-semibold text-red-600">
-                                    {price === 0 ? "Free" : `CHF ${price}`}
+                                    {price === null ? "Check price" : price === 0 ? "Free" : `CHF ${price}`}
                                   </span>
                                   <ExternalLink className="h-3 w-3 text-gray-400" />
                                 </Link>

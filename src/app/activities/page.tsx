@@ -13,29 +13,39 @@ import { ActivitiesBrowser } from "@/components/activities-browser";
  * projection is ~250KB gzipped.
  */
 export default function ActivitiesPage() {
-  const slim = activities.map((a) => ({
-    id: a.id,
-    slug: a.slug,
-    name: a.name,
-    description: a.description,
-    category: a.category,
-    subcategory: a.subcategory,
-    location: {
-      region: a.location.region,
-      city: a.location.city,
-    },
-    seasons: a.seasons,
-    indoor: a.indoor,
-    duration: a.duration,
-    tags: a.tags,
-    featured: a.featured,
-    pricing: a.providers[0]?.pricing ?? { child: 0, student: 0, adult: 0, senior: 0 },
-    minPrice: Math.min(...a.providers.map((p) => p.pricing.adult)),
-    rating: a.providers.reduce((s, p) => s + p.rating, 0) / a.providers.length,
-    providersCount: a.providers.length,
-    image: a.image,
-    imageUrl: a.imageUrl,
-  }));
+  const slim = activities.map((a) => {
+    const adultPrices = a.providers.map((p) => p.pricing.adult);
+    const ratings = a.providers.map((p) => p.rating);
+    const knownPrice = adultPrices.length > 0 ? Math.min(...adultPrices) : null;
+    const knownRating = ratings.length > 0 ? ratings.reduce((s, r) => s + r, 0) / ratings.length : null;
+    const marketplaceCount = a.marketplaces?.length ?? 0;
+    return {
+      id: a.id,
+      slug: a.slug,
+      name: a.name,
+      description: a.description,
+      category: a.category,
+      subcategory: a.subcategory,
+      location: {
+        region: a.location.region,
+        city: a.location.city,
+      },
+      seasons: a.seasons,
+      indoor: a.indoor,
+      duration: a.duration,
+      tags: a.tags,
+      featured: a.featured,
+      pricing: a.providers[0]?.pricing ?? null,
+      // null = "price unknown / marketplace only"; do NOT collapse to 0 or
+      // every catalogue card would show "Free".
+      minPrice: knownPrice,
+      rating: knownRating,
+      providersCount: a.providers.length + marketplaceCount,
+      hasPriced: a.providers.length > 0,
+      image: a.image,
+      imageUrl: a.imageUrl,
+    };
+  });
 
   return (
     <Suspense fallback={<div className="p-16 text-center text-[var(--ink-mute,#7E8B92)]">Loading activities…</div>}>

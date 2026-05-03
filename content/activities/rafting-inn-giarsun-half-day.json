@@ -21,14 +21,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Bergbahnen Scuol AG",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 72,
+        "student": 122,
+        "adult": 143,
+        "senior": 129
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-inn-giarsun-half-day/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Bergbahnen Scuol AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-inn-giarsun-half-day/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

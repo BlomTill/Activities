@@ -21,14 +21,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Zermatters",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 955,
+        "student": 1624,
+        "adult": 1910,
+        "senior": 1719
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/ski-touring/dufourspitze-ski-tour-zermatt/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Zermatters"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-touring/dufourspitze-ski-tour-zermatt/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

@@ -21,14 +21,24 @@
   "indoor": true,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Eiger Mountain & Soul Resort",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 98,
+        "student": 166,
+        "adult": 195,
+        "senior": 176
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-eiger-selfness-hotel-in-grindelwald/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Eiger Mountain & Soul Resort"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-eiger-selfness-hotel-in-grindelwald/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

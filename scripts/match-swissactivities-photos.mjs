@@ -163,7 +163,6 @@ for (const a of activities) {
   const aName = a.name;
   const aTokens = tokens(aName);
   const aCity = a.location?.city || "";
-  const aRegion = a.location?.region || "";
 
   // 1. Exact match: site slug = scraped offer slug
   if (byOfferSlug.has(aSlug)) {
@@ -194,6 +193,11 @@ for (const a of activities) {
   let best = null;
   let bestScore = 0;
   for (const e of allEntries) {
+    // City-mismatch guard: if the site activity has a known city AND the
+    // scraped entry has a different known city, skip outright. This kills
+    // cases like christmas-markets-basel ↔ Colmar (France) photos.
+    if (aCity && e.city && slugify(aCity) !== slugify(e.city)) continue;
+
     let score = jaccard(aTokens, e.nameTokens);
     // Boost if city matches
     if (aCity && e.city && slugify(aCity) === slugify(e.city)) score += 0.15;
@@ -206,9 +210,11 @@ for (const a of activities) {
     }
   }
 
-  // Threshold: 0.7 — strict enough to keep photos accurate.
-  // Below this we'd rather show a category fallback than a wrong photo.
-  if (best && bestScore >= 0.7) {
+  // Threshold: 0.85 — strict enough to keep photos accurate. The previous
+  // 0.70 cut-off let through visible mismatches like Glacier Express ↔
+  // a Realp tour or Christmas Markets Basel ↔ a Colmar photo. Below
+  // 0.85 we'd rather show a category fallback than a wrong photo.
+  if (best && bestScore >= 0.85) {
     out[aSlug] = makeOut(a, best, bestScore);
     stats.fuzzy++;
   } else {

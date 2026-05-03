@@ -24,14 +24,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Luzern Tourismus AG",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 15,
+        "student": 26,
+        "adult": 30,
+        "senior": 27
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/why-why-why-adventure-tour-for-children-in-lucerne/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/why-why-why-adventure-tour-for-children-in-lucerne/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

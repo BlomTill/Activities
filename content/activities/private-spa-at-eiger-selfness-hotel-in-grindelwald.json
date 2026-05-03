@@ -19,16 +19,13 @@
     "autumn"
   ],
   "indoor": true,
-  "providers": [
+  "providers": [],
+  "marketplaces": [
     {
-      "name": "SwissActivities",
-      "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
-      },
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
       "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/private-spa-at-eiger-selfness-hotel-in-grindelwald/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

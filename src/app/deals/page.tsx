@@ -8,7 +8,7 @@ import { ActivityCard } from "@/components/activity-card";
 import { activities, getActivitiesWithDeals } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
-import { getBestPrice } from "@/lib/types";
+import { formatActivityPrice, getBestPrice } from "@/lib/types";
 
 export default function DealsPage() {
   const { ageGroup } = useAgeGroup();
@@ -19,8 +19,11 @@ export default function DealsPage() {
 
   const freeActivities = activities.filter((a) => getBestPrice(a, ageGroup) === 0 && a.seasons.includes(season));
   const cheapActivities = activities
-    .filter((a) => getBestPrice(a, ageGroup) > 0 && getBestPrice(a, ageGroup) <= 15 && a.seasons.includes(season))
-    .sort((a, b) => getBestPrice(a, ageGroup) - getBestPrice(b, ageGroup));
+    .filter((a) => {
+      const p = getBestPrice(a, ageGroup);
+      return p !== null && p > 0 && p <= 15 && a.seasons.includes(season);
+    })
+    .sort((a, b) => (getBestPrice(a, ageGroup) ?? 0) - (getBestPrice(b, ageGroup) ?? 0));
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
@@ -69,7 +72,7 @@ export default function DealsPage() {
                 <div className="mt-4 flex items-center justify-between text-sm">
                   <span className="text-gray-500">Best {ageGroup} price</span>
                   <span className="font-semibold text-gray-900">
-                    {getBestPrice(activity, ageGroup) === 0 ? "Free" : `CHF ${getBestPrice(activity, ageGroup)}`}
+                    {formatActivityPrice(activity, ageGroup)}
                   </span>
                 </div>
                 <Link href={`/activities/${activity.slug}`}>

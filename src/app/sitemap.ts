@@ -14,8 +14,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  // Editorial posts live under /stories/<slug> in the new IA. The
+  // /blog/<slug> route still exists but 301-redirects to /stories — so we
+  // emit /stories URLs in the sitemap to avoid pointing Google at a
+  // permanent-redirect chain.
   const blogPages = blogPosts.map((post) => ({
-    url: `${BASE_URL}/blog/${post.slug}`,
+    url: `${BASE_URL}/stories/${post.slug}`,
     lastModified: new Date(post.date),
     changeFrequency: "monthly" as const,
     priority: 0.6,
@@ -43,7 +47,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/budget`, priority: 0.8, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/map`, priority: 0.7, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/deals`, priority: 0.8, changeFrequency: "daily" as const },
-    { url: `${BASE_URL}/blog`, priority: 0.7, changeFrequency: "weekly" as const },
+    { url: `${BASE_URL}/stories`, priority: 0.7, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/surprise`, priority: 0.6, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/compare`, priority: 0.5, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/about`, priority: 0.4, changeFrequency: "monthly" as const },

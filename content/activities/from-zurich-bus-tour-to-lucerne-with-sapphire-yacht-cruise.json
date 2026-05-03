@@ -21,14 +21,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Keytours SA",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 47,
+        "student": 80,
+        "adult": 94,
+        "senior": 85
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Keytours SA"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

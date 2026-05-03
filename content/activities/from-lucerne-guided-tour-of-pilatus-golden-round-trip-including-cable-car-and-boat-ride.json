@@ -21,14 +21,24 @@
   "indoor": true,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Best of Switzerland Tours",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 82,
+        "student": 139,
+        "adult": 164,
+        "senior": 148
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-lucerne-guided-tour-of-pilatus-golden-round-trip-including-cable-car-and-boat-ride/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-lucerne-guided-tour-of-pilatus-golden-round-trip-including-cable-car-and-boat-ride/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

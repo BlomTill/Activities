@@ -21,14 +21,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "GAMEinMOTION GmbH",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 150,
+        "student": 254,
+        "adult": 299,
+        "senior": 269
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zug/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zug/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

@@ -24,14 +24,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Roadster4rent.ch",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 150,
+        "student": 255,
+        "adult": 300,
+        "senior": 270
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/quad/locarno-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Roadster4rent.ch"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/locarno-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

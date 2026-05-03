@@ -1,80 +1,14 @@
 {
   "scrapedAt": "2026-04-29T17:56:59.298Z",
   "totalSiteActivities": 1513,
-  "matched": 1359,
+  "matched": 1349,
   "stats": {
     "exactSlug": 1349,
     "exactNameSlug": 0,
-    "fuzzy": 10,
-    "none": 154
+    "fuzzy": 0,
+    "none": 164
   },
   "images": {
-    "glacier-express": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/e97000cc4d2163ffc416eab3e0ba5ee6.jpg",
-      "alt": "Realp-Glacier-Express",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/"
-      },
-      "matchedBy": "fuzzy:0.70"
-    },
-    "canyoning-interlaken": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/8487078091319b3ac42efd4db5a7e016.jpeg",
-      "alt": "Im Wasserfall",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/"
-      },
-      "matchedBy": "fuzzy:0.87"
-    },
-    "stanserhorn-cabrio": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Cabrio_Cabri_O_Stanserhorn_Bahn_233d62010f.jpg",
-      "alt": "CabriO Stanserhorn: Cable car with views of the mountains and clouds, ideal for adventures in nature.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/"
-      },
-      "matchedBy": "fuzzy:0.87"
-    },
-    "christmas-markets-basel": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/22e2ba88858f14ffd5b78680d01727ce.jpg",
-      "alt": "Colmar Weihnachtsmarkt",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/"
-      },
-      "matchedBy": "fuzzy:0.80"
-    },
-    "via-ferrata-murren": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_78a4bfa5b82c76bacb3ef0941dde03e9_a62eb0a55e.jpg",
-      "alt": "Mürren Via Ferrata views, climber on the rock, mountain landscape, clouds",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/"
-      },
-      "matchedBy": "fuzzy:0.95"
-    },
-    "rafting-interlaken": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rafting_7_Swissraft_Activity_69dd4b0c74.jpg",
-      "alt": "Rafting Lütschine: Experience the thrilling adventure on wild waters with friends and family.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/rafting/white-water-rafting-luetschine-interlaken/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/rafting/white-water-rafting-luetschine-interlaken/"
-      },
-      "matchedBy": "fuzzy:1.00"
-    },
     "ballenberg-open-air-museum": {
       "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/60114e629a78c487e199e6e56a566ff0.jpg",
       "alt": "Ballenberg",
@@ -85,50 +19,6 @@
         "sourceUrl": "https://www.swissactivities.com/en-ch/ballenberg-open-air-museum/ballenberg-entrance-ticket/"
       },
       "matchedBy": "exact"
-    },
-    "segway-tour-zurich": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Segway_Tour_Zuerich_HB_Adventure_ad1bc543a4.jpg",
-      "alt": "Segway tour in Zurich with an engaging team and great outdoor group activities.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/segway/zurich-segway-tour-private/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/segway/zurich-segway-tour-private/"
-      },
-      "matchedBy": "fuzzy:0.87"
-    },
-    "knies-kinderzoo-rapperswil": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/432fa95dd80a07e922f912c5e82eae86.jpg",
-      "alt": "Penguins",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/"
-      },
-      "matchedBy": "fuzzy:1.00"
-    },
-    "paragliding-engelberg": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/86d8898cccaa6170e5c27230dc396a30.jpg",
-      "alt": "Engelbergertal",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/"
-      },
-      "matchedBy": "fuzzy:0.90"
-    },
-    "paragliding-davos": {
-      "src": "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/900x600_1_50_26f6fb268319db1808c400ace36dd64e_02b33deb6a.jpg",
-      "alt": "Paragliding in Davos with a beautiful view of the sky and the mountains.",
-      "source": "swissactivities",
-      "sourceUrl": "https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/",
-      "credit": {
-        "author": "SwissActivities",
-        "sourceUrl": "https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/"
-      },
-      "matchedBy": "fuzzy:1.07"
     },
     "pony-rental-in-lausen": {
       "src": "https://contentapi-swissactivities.imgix.net/contentapi.staging.swissactivities/49eab8190065ec9c252418b42457335d.JPG",

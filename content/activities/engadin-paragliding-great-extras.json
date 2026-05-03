@@ -22,14 +22,24 @@
   "indoor": true,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Paragliding Engadin GmbH",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 160,
+        "student": 272,
+        "adult": 320,
+        "senior": 288
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/engadin-paragliding-great-extras/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Paragliding Engadin GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/engadin-paragliding-great-extras/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

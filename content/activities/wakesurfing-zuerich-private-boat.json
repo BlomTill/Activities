@@ -21,14 +21,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Reboat Surf&Chill",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 650,
+        "student": 1105,
+        "adult": 1300,
+        "senior": 1170
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/wakeboarding/wakesurfing-zuerich-private-boat/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Reboat Surf&Chill"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wakeboarding/wakesurfing-zuerich-private-boat/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

@@ -9,7 +9,7 @@ import { Badge } from "@/components/ui/badge";
 import { activities } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel, getSeasonColors } from "@/lib/seasons";
-import { Activity, getBestPrice, getAverageRating, getCheapestProvider } from "@/lib/types";
+import { Activity, formatActivityPrice, getAverageRating, getCheapestProvider } from "@/lib/types";
 import { cn } from "@/lib/utils";
 import { AffiliateLink } from "@/components/affiliate-link";
 import { AffiliateDisclosure } from "@/components/affiliate-disclosure";
@@ -90,7 +90,9 @@ export default function SurprisePage() {
               <div className="flex flex-wrap items-center gap-4 text-sm text-gray-500 mb-6">
                 <span className="flex items-center gap-1"><MapPin className="h-4 w-4" /> {result.location.city}</span>
                 <span className="flex items-center gap-1"><Clock className="h-4 w-4" /> {result.duration}</span>
-                <span className="flex items-center gap-1"><Star className="h-4 w-4 fill-amber-400 text-amber-400" /> {getAverageRating(result)}</span>
+                {(() => { const r = getAverageRating(result); return r === null ? null : (
+                  <span className="flex items-center gap-1"><Star className="h-4 w-4 fill-amber-400 text-amber-400" /> {r}</span>
+                ); })()}
                 {result.providers.length > 1 && (
                   <span className="flex items-center gap-1"><Users className="h-4 w-4" /> {result.providers.length} providers</span>
                 )}
@@ -100,25 +102,37 @@ export default function SurprisePage() {
                 <div>
                   <span className="text-sm text-gray-400 capitalize">{ageGroup} — best price</span>
                   <p className="text-2xl font-bold text-gray-900">
-                    {getBestPrice(result, ageGroup) === 0 ? "Free" : `CHF ${getBestPrice(result, ageGroup)}`}
+                    {formatActivityPrice(result, ageGroup)}
                   </p>
-                  {result.providers.length > 1 && (
-                    <p className="text-xs text-gray-400">via {getCheapestProvider(result, ageGroup).name}</p>
-                  )}
+                  {(() => { const c = getCheapestProvider(result, ageGroup); return c && result.providers.length > 1 ? (
+                    <p className="text-xs text-gray-400">via {c.name}</p>
+                  ) : null; })()}
                 </div>
                 <div className="flex gap-3">
                   <Link href={`/activities/${result.slug}`}>
                     <Button variant="outline" className="gap-2">Details <ArrowRight className="h-4 w-4" /></Button>
                   </Link>
-                  <AffiliateLink
-                    href={getCheapestProvider(result, ageGroup).bookingUrl}
-                    slot="other"
-                    slug={result.slug}
-                    providerName={getCheapestProvider(result, ageGroup).name}
-                    priceChf={getCheapestProvider(result, ageGroup).pricing[ageGroup]}
-                  >
-                    <Button className="bg-red-600 hover:bg-red-700 gap-2">Book <ExternalLink className="h-4 w-4" /></Button>
-                  </AffiliateLink>
+                  {(() => {
+                    const cheapest = getCheapestProvider(result, ageGroup);
+                    if (!cheapest) {
+                      return (
+                        <Link href={`/activities/${result.slug}`}>
+                          <Button className="bg-red-600 hover:bg-red-700 gap-2">See booking options <ExternalLink className="h-4 w-4" /></Button>
+                        </Link>
+                      );
+                    }
+                    return (
+                      <AffiliateLink
+                        href={cheapest.bookingUrl}
+                        slot="other"
+                        slug={result.slug}
+                        providerName={cheapest.name}
+                        priceChf={cheapest.pricing[ageGroup]}
+                      >
+                        <Button className="bg-red-600 hover:bg-red-700 gap-2">Book <ExternalLink className="h-4 w-4" /></Button>
+                      </AffiliateLink>
+                    );
+                  })()}
                 </div>
               </div>
               <div className="mt-4">
@@ -149,7 +163,7 @@ export default function SurprisePage() {
                   </div>
                 </div>
                 <span className="font-semibold text-gray-900">
-                  {getBestPrice(h, ageGroup) === 0 ? "Free" : `CHF ${getBestPrice(h, ageGroup)}`}
+                  {formatActivityPrice(h, ageGroup)}
                 </span>
               </Link>
             ))}

@@ -21,14 +21,24 @@
   "indoor": true,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Pilatus-Bahnen AG",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 42,
+        "student": 71,
+        "adult": 84,
+        "senior": 76
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-summer-trip-self-guided-with-cogwheel-railway-and-cable-car-from-to-alpnachstad-or-kriens/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Pilatus-Bahnen AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-summer-trip-self-guided-with-cogwheel-railway-and-cable-car-from-to-alpnachstad-or-kriens/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

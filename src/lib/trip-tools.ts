@@ -88,11 +88,19 @@ export function getRecommendedTripDays(activity: Activity): number {
 }
 
 export function getPlannerBudgetHint(activity: Activity, ageGroup: AgeGroup): number {
-  const basePrice = Math.max(20, Math.ceil(activity.providers[0].pricing[ageGroup]));
+  const firstPrice = activity.providers[0]?.pricing[ageGroup] ?? 0;
+  const basePrice = Math.max(20, Math.ceil(firstPrice));
   return Math.ceil(basePrice * 1.8);
 }
 
+/**
+ * Recommend a priced provider. Throws if the activity has no priced
+ * providers — callers should gate on `hasPricedProvider(activity)`.
+ */
 export function getProviderRecommendation(activity: Activity, ageGroup: AgeGroup): ProviderRecommendation {
+  if (activity.providers.length === 0) {
+    throw new Error(`getProviderRecommendation called on activity ${activity.slug} with no priced providers — gate on hasPricedProvider() first.`);
+  }
   const ranked = [...activity.providers].sort((a, b) => {
     const scoreA = a.rating * 20 - a.pricing[ageGroup];
     const scoreB = b.rating * 20 - b.pricing[ageGroup];

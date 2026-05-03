@@ -19,12 +19,17 @@ const activitySchema = z.object({
   subcategory: z.string().min(1),
   location: z.object({
     region: z.string().min(1),
-    canton: z.string().min(1),
+    // canton may be empty for SwissActivities-imported activities — the
+    // scraper only captures it for ~150 of the 1,500 entries.
+    canton: z.string(),
     city: z.string().min(1),
     coordinates: z.object({ lat: z.number(), lng: z.number() }),
   }),
   seasons: z.array(z.enum(["spring", "summer", "autumn", "winter"])) ,
   indoor: z.boolean(),
+  // Providers list priced suppliers. May be empty when the activity is
+  // sold only through marketplace aggregators — in that case
+  // `marketplaces` carries the booking links instead.
   providers: z.array(
     z.object({
       name: z.string().min(1),
@@ -33,11 +38,23 @@ const activitySchema = z.object({
       rating: z.number(),
       description: z.string().optional(),
     })
-  ).min(1),
+  ),
+  marketplaces: z.array(
+    z.object({
+      partnerId: z.string().min(1),
+      partnerName: z.string().min(1),
+      bookingUrl: z.string().url(),
+      isDirectLink: z.boolean(),
+      rating: z.number().optional(),
+      description: z.string().optional(),
+    })
+  ).optional(),
   currency: z.literal("CHF"),
   duration: z.string().min(1),
   imageUrl: z.string().min(1),
-  tags: z.array(z.string()).min(1),
+  // Imported activities may have empty tag arrays — the scraper only
+  // tags entries that match a hardcoded keyword list.
+  tags: z.array(z.string()),
   featured: z.boolean(),
   gallery: z.array(z.string()).optional(),
   highlights: z.array(z.object({ label: z.string(), value: z.string() })).optional(),
@@ -49,7 +66,10 @@ const activitySchema = z.object({
       providerName: z.string().optional(),
     })
     .optional(),
-});
+}).refine(
+  (a) => (a.providers?.length ?? 0) > 0 || (a.marketplaces?.length ?? 0) > 0,
+  { message: "Activity must have at least one provider or marketplace listing", path: ["providers"] },
+);
 
 const storySchema = z.object({
   slug: z.string().min(1),

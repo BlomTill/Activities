@@ -40,20 +40,29 @@ function BudgetContent() {
   }, [searchParams, setAgeGroup]);
 
   const affordableActivities = useMemo(() => {
-    let result = activities.filter((a) => getBestPrice(a, ageGroup) <= budget);
+    // Only consider activities where we know the price. Marketplace-only
+    // entries fall through to the catalogue page rather than guessing
+    // they're "Free" or "Affordable" without data.
+    let result = activities.filter((a) => {
+      const p = getBestPrice(a, ageGroup);
+      return p !== null && p <= budget;
+    });
     if (seasonFilter) {
       result = result.filter((a) => a.seasons.includes(currentSeason));
     }
-    result.sort((a, b) => getAverageRating(b) - getAverageRating(a));
+    result.sort((a, b) => (getAverageRating(b) ?? 0) - (getAverageRating(a) ?? 0));
     return result;
   }, [budget, ageGroup, seasonFilter, currentSeason]);
 
   const totalSaved = useMemo(() => {
-    const maxPrices = affordableActivities.map((a) =>
-      Math.max(...a.providers.map((p) => Math.max(p.pricing.adult, p.pricing.senior)))
-    );
-    const yourPrices = affordableActivities.map((a) => getBestPrice(a, ageGroup));
-    return maxPrices.reduce((sum, p, i) => sum + (p - yourPrices[i]), 0);
+    let total = 0;
+    for (const a of affordableActivities) {
+      if (a.providers.length === 0) continue;
+      const max = Math.max(...a.providers.map((p) => Math.max(p.pricing.adult, p.pricing.senior)));
+      const yours = getBestPrice(a, ageGroup);
+      if (yours !== null) total += max - yours;
+    }
+    return total;
   }, [affordableActivities, ageGroup]);
   const plannerHref = `/planner?days=${budget <= 50 ? 2 : budget <= 120 ? 3 : 5}&budget=${budget}&ageGroup=${ageGroup}${seasonFilter ? "&season=current" : ""}`;
   const passHref = `/travel-passes?tripDays=${budget <= 50 ? 2 : budget <= 120 ? 4 : 7}&travelDays=${budget <= 50 ? 1 : budget <= 120 ? 3 : 5}`;

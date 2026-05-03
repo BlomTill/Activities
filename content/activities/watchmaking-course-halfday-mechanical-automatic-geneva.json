@@ -24,14 +24,24 @@
   "indoor": true,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Initium",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 1245,
+        "student": 2117,
+        "adult": 2490,
+        "senior": 2241
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-halfday-mechanical-automatic-geneva/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Initium"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-halfday-mechanical-automatic-geneva/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

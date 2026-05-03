@@ -46,16 +46,14 @@
       "bookingUrl": "https://www.taminatherme.ch",
       "rating": 4.7,
       "description": "Full-day access including sauna world"
-    },
+    }
+  ],
+  "marketplaces": [
     {
-      "name": "SwissActivities",
-      "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
-      },
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
       "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Tamina%20Therme%20Bad%20Ragaz&ref=odbhodn",
+      "isDirectLink": false,
       "rating": 4.6,
       "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }

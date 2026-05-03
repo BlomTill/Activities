@@ -58,16 +58,14 @@
       "bookingUrl": "https://www.getyourguide.com",
       "rating": 4.4,
       "description": "Private guided tour — customizable route"
-    },
+    }
+  ],
+  "marketplaces": [
     {
-      "name": "SwissActivities",
-      "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
-      },
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
       "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bern%20Old%20Town%20Walking%20Tour&ref=odbhodn",
+      "isDirectLink": false,
       "rating": 4.6,
       "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }

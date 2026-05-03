@@ -21,14 +21,24 @@
   "indoor": true,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Keytours SA",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 162,
+        "student": 275,
+        "adult": 324,
+        "senior": 292
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Keytours SA"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

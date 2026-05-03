@@ -1,6 +1,6 @@
 import { activities } from "@/lib/content/selectors";
 import { itineraries } from "@/lib/content/selectors";
-import { getAverageRating, getBestPrice } from "./types";
+import { getAverageRating, getMinPriceForSort } from "./types";
 import { estimateSBBFare } from "./sbb";
 
 export interface DestinationSummary {
@@ -46,10 +46,16 @@ export function getDestinationSummaries(): DestinationSummary[] {
       const topCities = Array.from(new Set(regionActivities.map((activity) => activity.location.city))).slice(0, 4);
       const categories = Array.from(new Set(regionActivities.map((activity) => activity.category)));
       const regionItineraries = itineraries.filter((itinerary) => itinerary.regions.includes(region));
-      const averageRating =
-        Math.round(
-          (regionActivities.reduce((sum, activity) => sum + getAverageRating(activity), 0) / regionActivities.length) * 10
-        ) / 10;
+      const ratings = regionActivities
+        .map((activity) => getAverageRating(activity))
+        .filter((r): r is number => r !== null);
+      const averageRating = ratings.length === 0
+        ? 0
+        : Math.round((ratings.reduce((s, r) => s + r, 0) / ratings.length) * 10) / 10;
+      const knownPrices = regionActivities
+        .map((activity) => getMinPriceForSort(activity, "adult"))
+        .filter((p) => Number.isFinite(p));
+      const minPrice = knownPrices.length === 0 ? 0 : Math.min(...knownPrices);
 
       return {
         slug: slugifyRegion(region),
@@ -58,7 +64,7 @@ export function getDestinationSummaries(): DestinationSummary[] {
         heroImage: regionActivities.find((activity) => activity.featured)?.imageUrl ?? regionActivities[0].imageUrl,
         activityCount: regionActivities.length,
         featuredCount: regionActivities.filter((activity) => activity.featured).length,
-        minPrice: Math.min(...regionActivities.map((activity) => getBestPrice(activity, "adult"))),
+        minPrice,
         topCities,
         categories,
         itineraryCount: regionItineraries.length,
@@ -74,9 +80,14 @@ export function getDestinationBySlug(slug: string) {
 
   const regionActivities = activities
     .filter((activity) => activity.location.region === summary.name)
-    .sort((a, b) => getAverageRating(b) - getAverageRating(a));
+    .sort((a, b) => (getAverageRating(b) ?? 0) - (getAverageRating(a) ?? 0));
   const regionItineraries = itineraries.filter((itinerary) => itinerary.regions.includes(summary.name));
-  const budgetActivities = regionActivities.filter((activity) => getBestPrice(activity, "adult") <= 50).slice(0, 6);
+  const budgetActivities = regionActivities
+    .filter((activity) => {
+      const price = getMinPriceForSort(activity, "adult");
+      return Number.isFinite(price) && price <= 50;
+    })
+    .slice(0, 6);
   const featuredActivities = regionActivities.filter((activity) => activity.featured).slice(0, 8);
   const cityStats = Array.from(
     regionActivities.reduce((map, activity) => {
@@ -88,7 +99,8 @@ export function getDestinationBySlug(slug: string) {
       };
       current.count += 1;
       current.featured += activity.featured ? 1 : 0;
-      current.minPrice = Math.min(current.minPrice, getBestPrice(activity, "adult"));
+      const p = getMinPriceForSort(activity, "adult");
+      if (Number.isFinite(p)) current.minPrice = Math.min(current.minPrice, p);
       map.set(activity.location.city, current);
       return map;
     }, new Map<string, { city: string; count: number; featured: number; minPrice: number }>())

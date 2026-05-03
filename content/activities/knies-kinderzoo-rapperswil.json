@@ -25,23 +25,22 @@
     {
       "name": "Knies Kinderzoo",
       "pricing": {
-        "child": 12,
-        "student": 16,
-        "adult": 22,
-        "senior": 19
-      },
-      "bookingUrl": "https://www.kfrr.ch",
-      "rating": 4.4
-    },
-    {
-      "name": "SwissActivities",
-      "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 30,
+        "student": 50,
+        "adult": 59,
+        "senior": 53
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Knies Kinderzoo"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.6,
       "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }

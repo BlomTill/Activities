@@ -6,7 +6,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { ActivityPhoto } from "@/components/activity-photo";
-import { Activity, AgeGroup, getBestPrice, getAverageRating } from "@/lib/types";
+import { Activity, AgeGroup, formatActivityPrice, getAverageRating } from "@/lib/types";
 import { useAgeGroup } from "@/context/age-group-context";
 import { useComparison } from "@/context/comparison-context";
 import { cn } from "@/lib/utils";
@@ -22,11 +22,6 @@ function getCategoryColor(category: string) {
   return colors[category] || "bg-gray-100 text-gray-800";
 }
 
-function formatPrice(price: number): string {
-  if (price === 0) return "Free";
-  return `CHF ${price.toFixed(price % 1 === 0 ? 0 : 2)}`;
-}
-
 interface ActivityCardProps {
   activity: Activity;
   ageGroupOverride?: AgeGroup;
@@ -36,7 +31,7 @@ export function ActivityCard({ activity, ageGroupOverride }: ActivityCardProps) 
   const { ageGroup: contextAgeGroup } = useAgeGroup();
   const { addToComparison, removeFromComparison, isInComparison } = useComparison();
   const ageGroup = ageGroupOverride ?? contextAgeGroup;
-  const price = getBestPrice(activity, ageGroup);
+  const priceLabel = formatActivityPrice(activity, ageGroup, { withFrom: true });
   const rating = getAverageRating(activity);
   const inComparison = isInComparison(activity.id);
   const providerCount = activity.providers.length;
@@ -75,7 +70,7 @@ export function ActivityCard({ activity, ageGroupOverride }: ActivityCardProps) 
         {/* Price badge — glows on hover */}
         <div className="absolute bottom-3 right-3 z-20">
           <span className="rounded-lg bg-[#0c0b09]/80 px-3 py-1.5 text-sm font-bold text-[#ede8df] shadow-md transition-all duration-300 group-hover:bg-[oklch(74%_0.13_63deg)] group-hover:text-[#0c0b09] group-hover:shadow-lg">
-            {price === 0 ? "Free" : `from ${formatPrice(price)}`}
+            {priceLabel}
           </span>
         </div>
 
@@ -118,10 +113,12 @@ export function ActivityCard({ activity, ageGroupOverride }: ActivityCardProps) 
             <Clock className="h-3.5 w-3.5" />
             {activity.duration}
           </span>
-          <span className="flex items-center gap-1 text-amber-500">
-            <Star className="h-3.5 w-3.5 fill-amber-400 text-amber-400" />
-            {rating}
-          </span>
+          {rating !== null && (
+            <span className="flex items-center gap-1 text-amber-500">
+              <Star className="h-3.5 w-3.5 fill-amber-400 text-amber-400" />
+              {rating}
+            </span>
+          )}
         </div>
 
         <div className="mt-3 flex items-center justify-between">

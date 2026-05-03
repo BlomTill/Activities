@@ -24,14 +24,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Trekking Switzerland",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 315,
+        "student": 536,
+        "adult": 630,
+        "senior": 567
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/swiss-alps-guided-hike-to-hidden-gems/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Trekking Switzerland"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/swiss-alps-guided-hike-to-hidden-gems/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

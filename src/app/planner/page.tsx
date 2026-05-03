@@ -228,7 +228,7 @@ function PlannerContent() {
     for (let i = 0; i < numDays; i++) {
       for (const activity of days[i].activities) {
         for (const ag of AGE_GROUPS) {
-          totals[ag] += getBestPrice(activity, ag);
+          totals[ag] += getBestPrice(activity, ag) ?? 0;
         }
       }
     }
@@ -245,7 +245,7 @@ function PlannerContent() {
       };
       for (const activity of day.activities) {
         for (const ag of AGE_GROUPS) {
-          total[ag] += getBestPrice(activity, ag);
+          total[ag] += getBestPrice(activity, ag) ?? 0;
         }
       }
       return total;
@@ -294,7 +294,9 @@ function PlannerContent() {
         text += "  No activities planned\n";
       } else {
         for (const a of days[i].activities) {
-          text += `  • ${a.name} (${a.location.city}) — CHF ${getBestPrice(a, ageGroup)} (${ageGroup}) — ${a.duration}\n`;
+          const p = getBestPrice(a, ageGroup);
+          const priceLabel = p === null ? "price varies" : `CHF ${p}`;
+          text += `  • ${a.name} (${a.location.city}) — ${priceLabel} (${ageGroup}) — ${a.duration}\n`;
         }
       }
       text += "\n";
@@ -507,7 +509,7 @@ function PlannerContent() {
                           </div>
                         </div>
                         <div className="text-sm font-semibold text-red-600">
-                          CHF {getBestPrice(activity, ageGroup)}
+                          {(() => { const p = getBestPrice(activity, ageGroup); return p === null ? "—" : `CHF ${p}`; })()}
                         </div>
                       </button>
                     ))
@@ -566,7 +568,7 @@ function PlannerContent() {
                     {/* Price */}
                     <div className="shrink-0 text-right">
                       <div className="text-sm font-semibold text-gray-900">
-                        CHF {getBestPrice(activity, ageGroup)}
+                        {(() => { const p = getBestPrice(activity, ageGroup); return p === null ? "—" : `CHF ${p}`; })()}
                       </div>
                       <div className="text-xs text-gray-400">
                         {AGE_GROUP_LABELS[ageGroup]}

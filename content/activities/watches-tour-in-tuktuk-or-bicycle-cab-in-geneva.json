@@ -19,16 +19,13 @@
     "summer"
   ],
   "indoor": false,
-  "providers": [
+  "providers": [],
+  "marketplaces": [
     {
-      "name": "SwissActivities",
-      "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
-      },
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
       "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/watches-tour-in-tuktuk-or-bicycle-cab-in-geneva/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

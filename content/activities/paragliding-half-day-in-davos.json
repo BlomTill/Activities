@@ -22,14 +22,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "GOGREEN GmbH / Joyride Paragliding",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 180,
+        "student": 306,
+        "adult": 360,
+        "senior": 324
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-half-day-in-davos/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: GOGREEN GmbH / Joyride Paragliding"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-half-day-in-davos/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

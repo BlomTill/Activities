@@ -15,9 +15,12 @@ function assert(condition, message) {
   if (!condition) throw new Error(message);
 }
 
+// Budgets scaled for the current 1,500-activity catalogue. The list file
+// is served server-side and re-projected client-side so the raw size is
+// less critical than the .full.json that actually ships to the browser.
 const limits = {
-  activitiesListBytes: Number(process.env.BUDGET_ACTIVITIES_LIST_BYTES ?? 350_000),
-  activitiesFullBytes: Number(process.env.BUDGET_ACTIVITIES_FULL_BYTES ?? 1_200_000),
+  activitiesListBytes: Number(process.env.BUDGET_ACTIVITIES_LIST_BYTES ?? 1_500_000),
+  activitiesFullBytes: Number(process.env.BUDGET_ACTIVITIES_FULL_BYTES ?? 4_500_000),
   storiesFullBytes: Number(process.env.BUDGET_STORIES_FULL_BYTES ?? 800_000),
 };
 

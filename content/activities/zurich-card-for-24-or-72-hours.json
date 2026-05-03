@@ -22,14 +22,24 @@
   "indoor": true,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Zürich Tourismus",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 15,
+        "student": 25,
+        "adult": 29,
+        "senior": 26
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/the-city-pass/zurich-card-for-24-or-72-hours/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Zürich Tourismus"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/the-city-pass/zurich-card-for-24-or-72-hours/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

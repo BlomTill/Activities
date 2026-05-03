@@ -24,14 +24,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Les Celliers de Sion",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 10,
+        "student": 16,
+        "adult": 19,
+        "senior": 17
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/first-steps-in-the-world-of-wine-at-the-vineyard-in-sion/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Les Celliers de Sion"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wine-tasting/first-steps-in-the-world-of-wine-at-the-vineyard-in-sion/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

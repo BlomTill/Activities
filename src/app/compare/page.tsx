@@ -9,7 +9,7 @@ import { useComparison } from "@/context/comparison-context";
 import { useAgeGroup } from "@/context/age-group-context";
 import { AGE_GROUPS } from "@/lib/constants";
 import { cn } from "@/lib/utils";
-import { getBestPrice, getAverageRating, getCheapestProvider } from "@/lib/types";
+import { formatActivityPrice, getBestPrice, getAverageRating, getCheapestProvider, hasPricedProvider } from "@/lib/types";
 import { getAffiliateUrl } from "@/lib/affiliate";
 import { getProviderRecommendation } from "@/lib/trip-tools";
 
@@ -43,8 +43,14 @@ export default function ComparePage() {
     );
   }
 
-  const lowestPrice = Math.min(...comparisonList.map((a) => getBestPrice(a, ageGroup)));
-  const highestRating = Math.max(...comparisonList.map((a) => getAverageRating(a)));
+  const knownPrices = comparisonList
+    .map((a) => getBestPrice(a, ageGroup))
+    .filter((p): p is number => p !== null);
+  const lowestPrice = knownPrices.length > 0 ? Math.min(...knownPrices) : null;
+  const knownRatings = comparisonList
+    .map((a) => getAverageRating(a))
+    .filter((r): r is number => r !== null);
+  const highestRating = knownRatings.length > 0 ? Math.max(...knownRatings) : null;
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
@@ -99,17 +105,17 @@ export default function ComparePage() {
             <div className="text-sm text-red-600 font-medium py-2 capitalize">{ageGroup}</div>
             {comparisonList.map((activity) => {
               const price = getBestPrice(activity, ageGroup);
-              const isCheapest = price === lowestPrice;
+              const isCheapest = price !== null && price === lowestPrice;
               const cheapest = getCheapestProvider(activity, ageGroup);
               return (
                 <div key={activity.id} className="py-2">
                   <div className={cn("text-lg font-bold", isCheapest && comparisonList.length > 1 ? "text-green-600" : "text-gray-900")}>
-                    {price === 0 ? "Free" : `CHF ${price}`}
+                    {formatActivityPrice(activity, ageGroup)}
                     {isCheapest && comparisonList.length > 1 && (
                       <Badge className="ml-2 bg-green-100 text-green-800 text-[10px]">Best</Badge>
                     )}
                   </div>
-                  <p className="text-[10px] text-gray-400 mt-0.5">via {cheapest.name}</p>
+                  <p className="text-[10px] text-gray-400 mt-0.5">{cheapest ? `via ${cheapest.name}` : "via marketplaces only"}</p>
                 </div>
               );
             })}
@@ -118,14 +124,11 @@ export default function ComparePage() {
             {AGE_GROUPS.filter((g) => g.value !== ageGroup).map((group) => (
               <>
                 <div key={`label-${group.value}`} className="text-sm text-gray-500 py-2">{group.label}</div>
-                {comparisonList.map((activity) => {
-                  const price = getBestPrice(activity, group.value);
-                  return (
-                    <div key={`${activity.id}-${group.value}`} className="text-sm py-2 font-medium text-gray-700">
-                      {price === 0 ? "Free" : `CHF ${price}`}
-                    </div>
-                  );
-                })}
+                {comparisonList.map((activity) => (
+                  <div key={`${activity.id}-${group.value}`} className="text-sm py-2 font-medium text-gray-700">
+                    {formatActivityPrice(activity, group.value)}
+                  </div>
+                ))}
               </>
             ))}
 
@@ -146,11 +149,15 @@ export default function ComparePage() {
             <div className="text-sm text-gray-500 py-2">Avg Rating</div>
             {comparisonList.map((a) => {
               const rating = getAverageRating(a);
+              if (rating === null) {
+                return <div key={a.id} className="text-sm py-2 text-gray-400">n/a</div>;
+              }
+              const isTop = rating === highestRating;
               return (
                 <div key={a.id} className="text-sm py-2 flex items-center gap-1">
-                  <Star className={cn("h-3.5 w-3.5", rating === highestRating ? "fill-amber-400 text-amber-400" : "text-gray-300")} />
+                  <Star className={cn("h-3.5 w-3.5", isTop ? "fill-amber-400 text-amber-400" : "text-gray-300")} />
                   {rating}
-                  {rating === highestRating && comparisonList.length > 1 && (
+                  {isTop && comparisonList.length > 1 && (
                     <Badge className="ml-1 bg-amber-100 text-amber-800 text-[10px]">Top</Badge>
                   )}
                 </div>
@@ -164,6 +171,14 @@ export default function ComparePage() {
 
             <div className="text-sm text-gray-500 py-2">Recommended booking</div>
             {comparisonList.map((a) => {
+              if (!hasPricedProvider(a)) {
+                return (
+                  <div key={a.id} className="py-2">
+                    <div className="text-sm text-gray-500">Marketplace only</div>
+                    <div className="text-[10px] text-gray-400">See detail page</div>
+                  </div>
+                );
+              }
               const recommendation = getProviderRecommendation(a, ageGroup);
               return (
                 <div key={a.id} className="py-2">
@@ -196,9 +211,15 @@ export default function ComparePage() {
                   <Link href={`/activities/${a.slug}`}>
                     <Button variant="outline" size="sm" className="text-xs gap-1">Details <ArrowRight className="h-3 w-3" /></Button>
                   </Link>
-                  <a href={getAffiliateUrl(cheapest.bookingUrl)} target="_blank" rel="noopener noreferrer">
-                    <Button size="sm" className="bg-red-600 hover:bg-red-700 text-xs gap-1">Book <ExternalLink className="h-3 w-3" /></Button>
-                  </a>
+                  {cheapest ? (
+                    <a href={getAffiliateUrl(cheapest.bookingUrl)} target="_blank" rel="sponsored noopener nofollow">
+                      <Button size="sm" className="bg-red-600 hover:bg-red-700 text-xs gap-1">Book <ExternalLink className="h-3 w-3" /></Button>
+                    </a>
+                  ) : (
+                    <Link href={`/activities/${a.slug}`}>
+                      <Button size="sm" variant="outline" className="text-xs gap-1">See options <ExternalLink className="h-3 w-3" /></Button>
+                    </Link>
+                  )}
                 </div>
               );
             })}

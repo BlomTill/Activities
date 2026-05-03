@@ -45,16 +45,14 @@
       "bookingUrl": "https://www.rheinfall.ch/boat",
       "rating": 4.6,
       "description": "Boat ride to the rock in the middle of the falls"
-    },
+    }
+  ],
+  "marketplaces": [
     {
-      "name": "SwissActivities",
-      "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
-      },
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
       "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Rhine%20Falls&ref=odbhodn",
+      "isDirectLink": false,
       "rating": 4.6,
       "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }

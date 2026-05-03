@@ -3,13 +3,14 @@ import { SITE_URL, SITE_NAME } from "@/lib/constants";
 import { resolveActivityImage } from "@/lib/images";
 
 export function ActivityJsonLd({ activity }: { activity: Activity }) {
-  const minPrice = Math.min(...activity.providers.flatMap((p) => Object.values(p.pricing)));
-  const maxPrice = Math.max(...activity.providers.flatMap((p) => Object.values(p.pricing)));
+  const pricedProviders = activity.providers ?? [];
+  const allPrices = pricedProviders.flatMap((p) => Object.values(p.pricing));
+  const minPrice = allPrices.length > 0 ? Math.min(...allPrices) : null;
+  const maxPrice = allPrices.length > 0 ? Math.max(...allPrices) : null;
   const avgRating = getAverageRating(activity);
-  // Use the same resolver that the UI uses — Google sees the best available photo
   const resolvedImage = resolveActivityImage(activity);
 
-  const jsonLd = {
+  const jsonLd: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "TouristAttraction",
     name: activity.name,
@@ -27,22 +28,28 @@ export function ActivityJsonLd({ activity }: { activity: Activity }) {
       latitude: activity.location.coordinates.lat,
       longitude: activity.location.coordinates.lng,
     },
-    aggregateRating: {
+    touristType: activity.tags,
+  };
+
+  if (avgRating !== null) {
+    jsonLd.aggregateRating = {
       "@type": "AggregateRating",
       ratingValue: avgRating,
       bestRating: 5,
       ratingCount: Math.floor(avgRating * 50),
-    },
-    offers: {
+    };
+  }
+
+  if (minPrice !== null && maxPrice !== null && pricedProviders.length > 0) {
+    jsonLd.offers = {
       "@type": "AggregateOffer",
       priceCurrency: "CHF",
       lowPrice: minPrice,
       highPrice: maxPrice,
-      offerCount: activity.providers.length,
-    },
-    isAccessibleForFree: minPrice === 0,
-    touristType: activity.tags,
-  };
+      offerCount: pricedProviders.length,
+    };
+    jsonLd.isAccessibleForFree = minPrice === 0;
+  }
 
   return (
     <script

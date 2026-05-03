@@ -21,14 +21,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Nürburgring eSports Schweiz AG",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 25,
+        "student": 43,
+        "adult": 50,
+        "senior": 45
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-roche/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Nürburgring eSports Schweiz AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-roche/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

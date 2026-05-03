@@ -46,16 +46,14 @@
       "bookingUrl": "https://www.bloczone.ch",
       "rating": 4.4,
       "description": "Alternative bouldering gym — smaller but less crowded"
-    },
+    }
+  ],
+  "marketplaces": [
     {
-      "name": "SwissActivities",
-      "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
-      },
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
       "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Minimum%20Bouldering%20Zurich&ref=odbhodn",
+      "isDirectLink": false,
       "rating": 4.6,
       "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }

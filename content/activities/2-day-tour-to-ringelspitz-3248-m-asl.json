@@ -24,14 +24,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "bergsportschule grischa GmbH",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 563,
+        "student": 956,
+        "adult": 1125,
+        "senior": 1013
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/2-day-tour-to-ringelspitz-3248-m-asl/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: bergsportschule grischa GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/2-day-tour-to-ringelspitz-3248-m-asl/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

@@ -21,14 +21,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Crans-Montana Tourisme & Congrès",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 40,
+        "student": 68,
+        "adult": 80,
+        "senior": 72
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/animal-experiences/a-nomad-adventure-at-the-la-tieche-waterfalls/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Crans-Montana Tourisme & Congrès"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/animal-experiences/a-nomad-adventure-at-the-la-tieche-waterfalls/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

@@ -32,16 +32,14 @@
       "bookingUrl": "https://www.jungfrau.ch",
       "rating": 4.9,
       "description": "Gondola to First + free hiking trail to lake"
-    },
+    }
+  ],
+  "marketplaces": [
     {
-      "name": "SwissActivities",
-      "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
-      },
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
       "bookingUrl": "https://www.swissactivities.com/en-ch/?search=Bachalpsee%20Lake%20Hike&ref=odbhodn",
+      "isDirectLink": false,
       "rating": 4.6,
       "description": "Switzerland's biggest activities marketplace — verified suppliers, free cancellation"
     }

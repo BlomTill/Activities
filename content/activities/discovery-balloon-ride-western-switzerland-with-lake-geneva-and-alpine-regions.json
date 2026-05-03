@@ -24,14 +24,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Ballons Du Leman",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 188,
+        "student": 319,
+        "adult": 375,
+        "senior": 338
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/ballooning/discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Ballons Du Leman"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ballooning/discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

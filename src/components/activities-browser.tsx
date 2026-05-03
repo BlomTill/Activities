@@ -9,6 +9,10 @@ import { CATEGORIES, REGIONS } from "@/lib/constants";
 import { Season } from "@/lib/types";
 
 // Lightweight projection of an Activity for the listing page.
+//
+// `pricing`, `minPrice`, and `rating` are nullable because activities
+// imported from SwissActivities don't always have direct provider prices —
+// when null, the catalogue card renders "Check price" instead of "Free".
 export interface SlimActivity {
   id: string;
   slug: string;
@@ -22,10 +26,11 @@ export interface SlimActivity {
   duration: string;
   tags: string[];
   featured: boolean;
-  pricing: { child: number; student: number; adult: number; senior: number };
-  minPrice: number;
-  rating: number;
+  pricing: { child: number; student: number; adult: number; senior: number } | null;
+  minPrice: number | null;
+  rating: number | null;
   providersCount: number;
+  hasPriced: boolean;
   image?: string;
   imageUrl?: string;
 }
@@ -74,28 +79,25 @@ const Star = () => <svg width="14" height="14" viewBox="0 0 24 24" fill="current
 const Sun = () => <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5 19 19M5 19l1.5-1.5M17.5 6.5 19 5"/></svg>;
 const Chevron = ({ open }: { open: boolean }) => <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" style={{ transform: open ? "rotate(180deg)" : "none", transition: "transform .2s" }}><path d="m6 9 6 6 6-6"/></svg>;
 
-/* ───────── Photo resolver — runs client-side, looks up SA → Wikipedia → fallback ───── */
+/* ───────── Photo resolver — wraps src/lib/images.ts so the catalogue card
+   uses exactly the same Wikipedia-first → SwissActivities → fallback
+   cascade as the detail page. ─────────────────────────────────────────── */
 
-import swissPhotos from "@/data/activity-images-swissactivities.json";
-import storedPhotos from "@/data/activity-images.json";
-
-const swissMap = (swissPhotos as { images?: Record<string, { src: string }> }).images ?? {};
-const storedMap = (storedPhotos as { images?: Record<string, { src: string }> }).images ?? {};
-
-const CATEGORY_FALLBACK: Record<string, string> = {
-  outdoor: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=600&fit=crop",
-  culture: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&h=600&fit=crop",
-  adventure: "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=600&fit=crop",
-  family: "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?w=800&h=600&fit=crop",
-  wellness: "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=800&h=600&fit=crop",
-};
+import { resolveActivityImage } from "@/lib/images";
+import type { Activity } from "@/lib/types";
 
 function photoFor(a: SlimActivity): string {
-  if (a.image) return a.image;
-  if (swissMap[a.slug]?.src) return swissMap[a.slug].src;
-  if (storedMap[a.slug]?.src) return storedMap[a.slug].src;
-  if (a.imageUrl) return a.imageUrl;
-  return CATEGORY_FALLBACK[a.category] || CATEGORY_FALLBACK.outdoor;
+  // resolveActivityImage only reads `slug`, `category`, `image`, and
+  // `imageUrl` — the SlimActivity projection has all of those. Cast through
+  // a partial Activity to share the resolver without a shape mismatch.
+  return resolveActivityImage({
+    slug: a.slug,
+    category: a.category as Activity["category"],
+    image: a.image,
+    imageUrl: a.imageUrl,
+    name: a.name,
+    imageCredit: undefined,
+  } as Activity).src;
 }
 
 /* ───────── Pieces ───────── */
@@ -195,7 +197,8 @@ function PillDropdown({ label, count, isOpen, onToggle, children }: {
 
 function ActivityCardLite({ a, priority }: { a: SlimActivity; priority?: boolean }) {
   const { ageGroup } = useAgeGroup();
-  const price = a.pricing[ageGroup] ?? a.minPrice;
+  const price = a.pricing?.[ageGroup] ?? a.minPrice;
+  const priceLabel = price === null ? "CHECK" : price === 0 ? "FREE" : `CHF ${price}`;
   const photo = photoFor(a);
   const crowd = a.featured ? "busy" : a.providersCount > 2 ? "moderate" : "quiet";
   return (
@@ -219,7 +222,7 @@ function ActivityCardLite({ a, priority }: { a: SlimActivity; priority?: boolean
           background: "var(--ink)", color: "#fff",
           padding: "6px 10px", borderRadius: 999,
           fontFamily: "JetBrains Mono, monospace", fontSize: 12, fontWeight: 600,
-        }}>{price === 0 ? "FREE" : `CHF ${price}`}</div>
+        }}>{priceLabel}</div>
       </div>
 
       <div style={{ padding: 16, display: "flex", flexDirection: "column", gap: 10, flex: 1 }}>
@@ -234,8 +237,13 @@ function ActivityCardLite({ a, priority }: { a: SlimActivity; priority?: boolean
         </div>
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", paddingTop: 8, borderTop: "1px dashed var(--line)" }}>
           <span style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: 13, color: "var(--ink-soft)", fontWeight: 600 }}>
-            <span style={{ color: "var(--accent-3)", display: "inline-flex" }}><Star/></span>
-            {a.rating.toFixed(1)} <span style={{ color: "var(--ink-mute)", fontWeight: 400 }}>({a.providersCount}+ providers)</span>
+            {a.rating !== null && (
+              <>
+                <span style={{ color: "var(--accent-3)", display: "inline-flex" }}><Star/></span>
+                {a.rating.toFixed(1)}{" "}
+              </>
+            )}
+            <span style={{ color: "var(--ink-mute)", fontWeight: 400 }}>({a.providersCount} option{a.providersCount === 1 ? "" : "s"})</span>
           </span>
           <span style={{
             display: "inline-flex", alignItems: "center", gap: 5,
@@ -315,14 +323,25 @@ export function ActivitiesBrowser({ activities: list }: { activities: SlimActivi
     if (seasons.length) r = r.filter((a) => seasons.some((s) => a.seasons.includes(s as Season)));
     if (weather === "rain" || weather === "indoor") r = r.filter((a) => a.indoor);
     if (weather === "sun") r = r.filter((a) => !a.indoor);
-    if (priceMax !== 500) r = r.filter((a) => (a.pricing[ageGroup] ?? a.minPrice) <= priceMax);
-    if (bestNow) r = r.filter((a) => a.rating >= 4.5);
+    if (priceMax !== 500) {
+      // Marketplace-only activities (price unknown) are excluded from price-bucket
+      // filters — we don't have data to claim they fit "Free" or "≤ 50".
+      r = r.filter((a) => {
+        const p = a.pricing?.[ageGroup] ?? a.minPrice;
+        return p !== null && p <= priceMax;
+      });
+    }
+    if (bestNow) r = r.filter((a) => (a.rating ?? 0) >= 4.5);
     const sorted = [...r];
+    const priceForSort = (a: SlimActivity) => {
+      const p = a.pricing?.[ageGroup] ?? a.minPrice;
+      return p === null ? Number.POSITIVE_INFINITY : p;
+    };
     switch (sort) {
-      case "price-asc":  sorted.sort((a, b) => (a.pricing[ageGroup] ?? a.minPrice) - (b.pricing[ageGroup] ?? b.minPrice)); break;
-      case "price-desc": sorted.sort((a, b) => (b.pricing[ageGroup] ?? b.minPrice) - (a.pricing[ageGroup] ?? a.minPrice)); break;
+      case "price-asc":  sorted.sort((a, b) => priceForSort(a) - priceForSort(b)); break;
+      case "price-desc": sorted.sort((a, b) => priceForSort(b) - priceForSort(a)); break;
       case "name":       sorted.sort((a, b) => a.name.localeCompare(b.name)); break;
-      default:           sorted.sort((a, b) => b.rating - a.rating);
+      default:           sorted.sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
     }
     return sorted;
   }, [list, q, cats, regions, durations, seasons, weather, priceMax, sort, bestNow, ageGroup]);

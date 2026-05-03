@@ -24,14 +24,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "eTukTuk Luzern GmbH",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 140,
+        "student": 238,
+        "adult": 280,
+        "senior": 252
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/etuktuk-luzern-fondue-city-tour/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: eTukTuk Luzern GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/etuktuk-luzern-fondue-city-tour/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }

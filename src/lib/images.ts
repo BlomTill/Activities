@@ -10,13 +10,18 @@ import type { Activity, Category, ImageCredit } from "@/lib/types";
  *  "random Alps" shot). We resolve in this priority order:
  *
  *    1. `activity.image`                       — manual curator override
- *    2. activity-images-swissactivities.json   — photos scraped from
- *                                                 SwissActivities.com — the
- *                                                 highest-quality match because
- *                                                 they show the actual experience
- *                                                 the user will buy
- *    3. activity-images.json                   — Wikipedia / Unsplash fallbacks
- *                                                 (populated by `npm run fetch-images`)
+ *    2. activity-images.json                   — Wikipedia / Unsplash photos
+ *                                                 (populated by `npm run fetch-images`).
+ *                                                 Wikipedia hits are extremely
+ *                                                 specific (a photo of THIS landmark)
+ *                                                 so they outrank scraped marketing
+ *                                                 thumbnails.
+ *    3. activity-images-swissactivities.json   — photos scraped from
+ *                                                 SwissActivities.com — used when
+ *                                                 we don't have a curated photo.
+ *                                                 Fuzzy matches below 0.85 are
+ *                                                 dropped by the matcher to keep
+ *                                                 these accurate.
  *    4. `activity.imageUrl`                    — legacy field on the activity
  *    5. category fallback                      — generic, category-appropriate photo
  *
@@ -80,19 +85,9 @@ export function resolveActivityImage(activity: Activity): ResolvedImage {
     };
   }
 
-  // 2. SwissActivities scraped photo — these are the actual experience photos
-  //    used on the booking page, so they're the most accurate match.
-  const fromSwissActivities = swissActivitiesStored[activity.slug];
-  if (fromSwissActivities?.src) {
-    return {
-      src: fromSwissActivities.src,
-      alt: fromSwissActivities.alt || activity.name,
-      credit: fromSwissActivities.credit ?? activity.imageCredit,
-      source: "swissactivities",
-    };
-  }
-
-  // 3. Pre-fetched photo from activity-images.json (Wikipedia, Unsplash, Pexels, or Pixabay)
+  // 2. Pre-fetched curated photo (Wikipedia, Unsplash, Pexels, Pixabay).
+  //    Wikipedia hits are extremely activity-specific (a real landmark photo)
+  //    so they outrank scraped marketing thumbnails from SwissActivities.
   const prefetched = stored[activity.slug];
   if (prefetched?.src) {
     const knownSources = ["wikipedia", "unsplash", "pexels", "pixabay"] as const;
@@ -102,6 +97,19 @@ export function resolveActivityImage(activity: Activity): ResolvedImage {
       alt: activity.name,
       credit: prefetched.credit ?? activity.imageCredit,
       source: storedSource ?? "wikipedia",
+    };
+  }
+
+  // 3. SwissActivities scraped photo — used when we don't have a curated
+  //    Wikipedia/Unsplash photo. The matcher is tuned to a 0.85 fuzzy
+  //    threshold + city-mismatch guard, so these are reasonably accurate.
+  const fromSwissActivities = swissActivitiesStored[activity.slug];
+  if (fromSwissActivities?.src) {
+    return {
+      src: fromSwissActivities.src,
+      alt: fromSwissActivities.alt || activity.name,
+      credit: fromSwissActivities.credit ?? activity.imageCredit,
+      source: "swissactivities",
     };
   }
 
@@ -149,8 +157,8 @@ export function buildFallbackChain(activity: Activity): string[] {
   }
 
   add(activity.image);
-  add(swissActivitiesStored[activity.slug]?.src);
   add(stored[activity.slug]?.src);
+  add(swissActivitiesStored[activity.slug]?.src);
   add(activity.imageUrl);
   add(CATEGORY_FALLBACK[activity.category]);
 

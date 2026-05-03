@@ -22,14 +22,24 @@
   "indoor": false,
   "providers": [
     {
-      "name": "SwissActivities",
+      "name": "Brunni-Bahnen Engelberg AG",
       "pricing": {
-        "child": 0,
-        "student": 0,
-        "adult": 0,
-        "senior": 0
+        "child": 24,
+        "student": 41,
+        "adult": 48,
+        "senior": 43
       },
       "bookingUrl": "https://www.swissactivities.com/en-ch/lift-tickets/ski-ticket-brunni-and-klostermatte-in-engelberg/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Brunni-Bahnen Engelberg AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/lift-tickets/ski-ticket-brunni-and-klostermatte-in-engelberg/?ref=odbhodn",
+      "isDirectLink": true,
       "rating": 4.4,
       "description": "Switzerland's largest activities marketplace — book securely online"
     }
