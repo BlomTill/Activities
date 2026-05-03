@@ -56,7 +56,7 @@ const STORIES = [
     href: "/stories" },
   { num: "03", tags: ["Trains", "Scenic"], title: "5 Most Scenic Train Rides — With Honest Prices",
     excerpt: "Which scenic trains are worth the supplement, and which ride free on a Swiss Pass.", read: "10 min",
-    photo: "https://images.unsplash.com/photo-1543349689-9a4d426bee8e?w=600&q=80&auto=format&fit=crop",
+    photo: "https://images.unsplash.com/photo-1527684651001-731c474bbb5a?w=600&q=80&auto=format&fit=crop",
     href: "/stories/scenic-train-rides-switzerland" },
 ];
 
@@ -315,7 +315,7 @@ function ItinTeaser() {
           position: "relative", overflow: "hidden",
         }}>
           <div style={{ position: "absolute", inset: 0, opacity: .25, pointerEvents: "none" }}>
-            <Image src="https://images.unsplash.com/photo-1543634806-d12bf25b8074?w=1200&q=80&auto=format&fit=crop"
+            <Image src="https://images.unsplash.com/photo-1530021232320-687d8e3dba54?w=1200&q=80&auto=format&fit=crop"
               alt="" fill sizes="100vw" style={{ objectFit: "cover" }} />
           </div>
           <div style={{ position: "relative" }}>
@@ -347,7 +347,7 @@ function ItinTeaser() {
             </div>
           </div>
           <div style={{ position: "relative", aspectRatio: "4/5", borderRadius: 22, overflow: "hidden", boxShadow: "var(--shadow-2)", background: "var(--bg-2)" }}>
-            <Image src="https://images.unsplash.com/photo-1560704198-d36d8836f1cd?w=600&q=80&auto=format&fit=crop"
+            <Image src="https://images.unsplash.com/photo-1502786129293-79981df4e689?w=600&q=80&auto=format&fit=crop"
               alt="Swiss train" fill sizes="(max-width: 820px) 100vw, 380px" style={{ objectFit: "cover" }} />
           </div>
         </div>

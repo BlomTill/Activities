@@ -61,14 +61,14 @@ function isSwissactivitiesUrl(url) {
 
 function buildProvider(slug, priceSummary, bookingUrl) {
   const supplier = priceSummary.supplier?.trim();
-  const name = supplier && supplier.length > 1 && supplier.length < 80
-    ? supplier
-    : "SwissActivities";
+  const hasSupplier = supplier && supplier.length > 1 && supplier.length < 80;
+  const name = hasSupplier ? supplier : "SwissActivities";
 
-  const isGroup = priceSummary.startingPriceType === "group";
-  const description = isGroup
-    ? "Booked via SwissActivities — group pricing, see provider page for per-person rates"
-    : `Live price scraped from SwissActivities · supplier: ${supplier ?? "various"}`;
+  // User-facing description — talks about what the user gets, not how we
+  // sourced the data.
+  const description = hasSupplier
+    ? `Operated by ${supplier}. Book via SwissActivities — free cancellation, instant confirmation.`
+    : "Available on SwissActivities — verified suppliers, free cancellation, instant confirmation.";
 
   return {
     name,

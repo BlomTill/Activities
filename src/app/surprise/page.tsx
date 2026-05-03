@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/badge";
 import { activities } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel, getSeasonColors } from "@/lib/seasons";
+import { resolveActivityImage } from "@/lib/images";
 import { Activity, formatActivityPrice, getAverageRating, getCheapestProvider } from "@/lib/types";
 import { cn } from "@/lib/utils";
 import { AffiliateLink } from "@/components/affiliate-link";
@@ -75,7 +76,7 @@ export default function SurprisePage() {
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
           <div className="rounded-2xl border-2 border-red-100 bg-white shadow-lg overflow-hidden">
             <div className="relative aspect-[21/9] bg-gray-200">
-              <Image src={result.imageUrl} alt={result.name} fill className="object-cover" sizes="800px" />
+              <Image src={resolveActivityImage(result).src} alt={result.name} fill className="object-cover" sizes="800px" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
               <div className="absolute bottom-4 left-4 right-4 text-white">
                 <Badge className="bg-white/20 text-white backdrop-blur-sm mb-2 capitalize">
@@ -155,7 +156,7 @@ export default function SurprisePage() {
               >
                 <div className="flex items-center gap-3">
                   <div className="relative h-10 w-14 rounded overflow-hidden bg-gray-100 flex-shrink-0">
-                    <Image src={h.imageUrl} alt={h.name} fill className="object-cover" sizes="56px" />
+                    <Image src={resolveActivityImage(h).src} alt={h.name} fill className="object-cover" sizes="56px" />
                   </div>
                   <div>
                     <p className="font-medium text-gray-900">{h.name}</p>

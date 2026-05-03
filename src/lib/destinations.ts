@@ -1,6 +1,7 @@
 import { activities } from "@/lib/content/selectors";
 import { itineraries } from "@/lib/content/selectors";
 import { getAverageRating, getMinPriceForSort } from "./types";
+import { resolveActivityImage } from "./images";
 import { estimateSBBFare } from "./sbb";
 
 export interface DestinationSummary {
@@ -61,7 +62,9 @@ export function getDestinationSummaries(): DestinationSummary[] {
         slug: slugifyRegion(region),
         name: region,
         description: getDestinationDescription(region, topCities, categories),
-        heroImage: regionActivities.find((activity) => activity.featured)?.imageUrl ?? regionActivities[0].imageUrl,
+        heroImage: resolveActivityImage(
+          regionActivities.find((activity) => activity.featured) ?? regionActivities[0],
+        ).src,
         activityCount: regionActivities.length,
         featuredCount: regionActivities.filter((activity) => activity.featured).length,
         minPrice,

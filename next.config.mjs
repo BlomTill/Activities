@@ -1,6 +1,15 @@
 /** @type {import('next').NextConfig} */
+const isDev = process.env.NODE_ENV === "development";
+
 const nextConfig = {
   images: {
+    // In dev, bypass the /_next/image proxy. The proxy hammers
+    // upload.wikimedia.org & images.unsplash.com on every cold start, which
+    // (a) trips Wikimedia's per-IP rate limit (HTTP 429) and (b) spawns enough
+    // workers to exhaust macOS file descriptors (ENOMEM/EAGAIN).
+    // Letting the browser fetch & cache directly avoids both — and we still
+    // get full AVIF/WebP optimization in production builds.
+    unoptimized: isDev,
     remotePatterns: [
       // ── Unsplash ────────────────────────────────────────────────────────────
       { protocol: "https", hostname: "images.unsplash.com" },

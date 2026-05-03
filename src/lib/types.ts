@@ -86,11 +86,18 @@ export interface Activity {
   currency: "CHF";
   duration: string;
   /**
-   * Legacy / fallback image. Kept for backwards compat.
-   * The new resolver in src/lib/images.ts prefers `image` → prefetched Wikimedia
-   * image → this field → category fallback, in that order.
+   * Legacy / fallback image. Optional — most activities now resolve their
+   * photo via `src/data/activity-images.json` (Wikipedia/Unsplash) or the
+   * category fallback. Kept for backwards compat.
+   *
+   * Resolution order (see src/lib/images.ts):
+   *   1. `image` (manual override)
+   *   2. prefetched Wikipedia/Unsplash image
+   *   3. SwissActivities scraped photo
+   *   4. this `imageUrl`
+   *   5. category fallback
    */
-  imageUrl: string;
+  imageUrl?: string;
   /**
    * Manual curator override. If set, takes highest priority.
    * Use when you have a specific rights-cleared photo you want pinned.

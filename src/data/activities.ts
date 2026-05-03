@@ -220,7 +220,7 @@ export const activities: Activity[] = [
     ],
     currency: "CHF",
     duration: "1.5-3 hours",
-    imageUrl: "https://images.unsplash.com/photo-1559128010-92a8ef05bd22?w=800&h=500&fit=crop",
+   
     highlights: [{label:"Width",value:"150m"},{label:"Height",value:"23m"},{label:"Flow Rate",value:"600 m³/s"},{label:"Boat Ride",value:"Available"},{label:"Night Show",value:"Summer"}], tags: ["waterfall", "nature", "boat", "family", "schaffhausen"],
     featured: false,
   },
@@ -338,7 +338,7 @@ export const activities: Activity[] = [
       {name:"Glacier Express (2nd Class)",pricing:{child:79,student:120,adult:158,senior:142},bookingUrl:"https://www.glacierexpress.ch",rating:4.7,description:"2nd class panoramic seat with reservation"},
       {name:"Glacier Express (1st Class)",pricing:{child:135,student:198,adult:278,senior:250},bookingUrl:"https://www.glacierexpress.ch",rating:4.8,description:"1st class with wider seats, included 3-course lunch"},
       {name:"Glacier Express (Excellence Class)",pricing:{child:0,student:420,adult:420,senior:420},bookingUrl:"https://www.glacierexpress.ch",rating:4.9,description:"Premium lounge car with 5-course meal, unlimited drinks, concierge"},
-      {name:"Tours of Switzerland",pricing:{child:225,student:383,adult:450,senior:405},bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Tours of Switzerland"},
+      {name:"Tours of Switzerland",pricing:{child:225,student:383,adult:450,senior:405},bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",rating:4.6,description:"Operated by Tours of Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
@@ -499,7 +499,7 @@ export const activities: Activity[] = [
       {name:"Outdoor Interlaken",pricing:{child:95,student:125,adult:145,senior:145},bookingUrl:"https://www.outdoor-interlaken.ch",rating:4.8,description:"Most popular operator — Saxeten and Grimsel canyons"},
       {name:"Alpin Raft",pricing:{child:90,student:120,adult:139,senior:139},bookingUrl:"https://www.alpinraft.ch",rating:4.7,description:"Smaller groups, beginner-friendly"},
       {name:"SwissRaft",pricing:{child:85,student:115,adult:135,senior:135},bookingUrl:"https://www.swissraft.ch",rating:4.6,description:"Budget option with solid reviews"},
-      {name:"Engadin Outdoor Center",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Outdoor Center"},
+      {name:"Engadin Outdoor Center",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Outdoor Center. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
@@ -602,7 +602,7 @@ export const activities: Activity[] = [
     ], currency: "CHF", duration: "1.5-2.5 hours", imageUrl: "https://images.unsplash.com/photo-1566397135-18a6ec4b5e11?w=800&h=500&fit=crop", highlights: [{label:"Scale Models",value:"128"},{label:"Scale",value:"1:25"},{label:"Model Trains",value:"Working"},{label:"Cable Cars",value:"Working"},{label:"Park Area",value:"14,000m²"}], tags: ["miniature", "models", "family", "ticino"], featured: false },
   { id: "33", slug: "stanserhorn-cabrio", name: "CabriO Stanserhorn", description: "The world's first open-top cable car with 360° alpine views near Lucerne.", longDescription: "The CabriO is the world's first and only cable car with an open-top upper deck. Ride to Stanserhorn summit (1,898m) with alpine breeze and 360° views.", category: "outdoor", subcategory: "Mountain Experience", location: { region: "Central Switzerland", canton: "Nidwalden", city: "Stans", coordinates: { lat: 46.9278, lng: 8.3403 } }, seasons: ["spring", "summer", "autumn"], indoor: false, providers: [
       {name:"Stanserhorn Bahn",pricing:{child:28,student:48,adult:64,senior:58},bookingUrl:"https://www.stanserhorn.ch",rating:4.7},
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:21,student:35,adult:41,senior:37},bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:21,student:35,adult:41,senior:37},bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
@@ -694,7 +694,7 @@ export const activities: Activity[] = [
     ], currency: "CHF", duration: "1.5-3 hours", imageUrl: "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop", highlights: [{label:"Climbing Area",value:"3,000m²"},{label:"Routes",value:"All levels"},{label:"Shoe Rental",value:"CHF 5"},{label:"Bistro",value:"On-site"},{label:"Operators",value:"2"}], tags: ["bouldering", "climbing", "indoor", "sport", "zurich"], featured: false },
   { id: "47", slug: "christmas-markets-basel", name: "Basel Christmas Market", description: "One of Europe's most enchanting Christmas markets with 180+ decorated stalls.", longDescription: "Basel's Christmas Market is consistently rated among the best in Europe. Over 180 beautifully decorated stalls across Barfüsserplatz and Münsterplatz.", category: "culture", subcategory: "Festival", location: { region: "Basel Region", canton: "Basel-Stadt", city: "Basel", coordinates: { lat: 47.5596, lng: 7.5886 } }, seasons: ["winter"], indoor: false, providers: [
       {name:"Free Entry",pricing:{child:0,student:0,adult:0,senior:0},bookingUrl:"https://www.basel.com",rating:4.7},
-      {name:"Baselcitytour",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Baselcitytour"},
+      {name:"Baselcitytour",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/?ref=odbhodn",rating:4.6,description:"Operated by Baselcitytour. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
@@ -709,7 +709,7 @@ export const activities: Activity[] = [
   { id: "49", slug: "via-ferrata-murren", name: "Via Ferrata Mürren", description: "Secured iron climbing routes along cliff faces above Lauterbrunnen Valley.", longDescription: "The Via Ferrata at Mürren traverses cliff faces high above the Lauterbrunnen Valley with steel cables and iron rungs. Multiple difficulty levels with breathtaking Eiger, Mönch, and Jungfrau views.", category: "adventure", subcategory: "Climbing", location: { region: "Bern Region", canton: "Bern", city: "Mürren", coordinates: { lat: 46.5587, lng: 7.8925 } }, seasons: ["summer", "autumn"], indoor: false, providers: [
       {name:"Self-guided (Gear Rental)",pricing:{child:0,student:30,adult:45,senior:40},bookingUrl:"https://www.muerren.swiss",rating:4.7,description:"Via ferrata set rental at Sport Chalet Mürren"},
       {name:"Outdoor Interlaken (Guided)",pricing:{child:0,student:95,adult:120,senior:110},bookingUrl:"https://www.outdoor-interlaken.ch",rating:4.8,description:"Guided via ferrata with all equipment and instruction"},
-      {name:"Outdoor Switzerland AG Berg- und Schneesport",pricing:{child:90,student:152,adult:179,senior:161},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG Berg- und Schneesport"},
+      {name:"Outdoor Switzerland AG Berg- und Schneesport",pricing:{child:90,student:152,adult:179,senior:161},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG Berg- und Schneesport. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
@@ -769,7 +769,7 @@ export const activities: Activity[] = [
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/?search=Tr%C3%BCmmelbach%20Falls&ref=odbhodn",isDirectLink:false,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
-    ], currency: "CHF", duration: "1-2 hours", imageUrl: "https://images.unsplash.com/photo-1559128010-92a8ef05bd22?w=800&h=500&fit=crop", highlights: [{label:"Falls",value:"10 glacier"},{label:"Flow",value:"20,000 L/sec"},{label:"Access",value:"Lift inside mountain"},{label:"Source",value:"Eiger glaciers"},{label:"UNESCO",value:"Part of Jungfrau"}], tags: ["waterfall", "glacier", "underground", "nature"], featured: false },
+    ], currency: "CHF", duration: "1-2 hours", highlights: [{label:"Falls",value:"10 glacier"},{label:"Flow",value:"20,000 L/sec"},{label:"Access",value:"Lift inside mountain"},{label:"Source",value:"Eiger glaciers"},{label:"UNESCO",value:"Part of Jungfrau"}], tags: ["waterfall", "glacier", "underground", "nature"], featured: false },
   { id: "58", slug: "harder-kulm-interlaken", name: "Harder Kulm – Top of Interlaken", description: "Funicular to the viewing platform 1,322m above Interlaken with twin-lake panorama.", longDescription: "Take the historic funicular to Harder Kulm for the best panorama over Interlaken. The Two Lakes Bridge viewing platform offers jaw-dropping views of Lake Thun, Lake Brienz, and the Jungfrau massif.", category: "outdoor", subcategory: "Mountain Experience", location: { region: "Bern Region", canton: "Bern", city: "Interlaken", coordinates: { lat: 46.6900, lng: 7.8600 } }, seasons: ["spring", "summer", "autumn"], indoor: false, providers: [
       {name:"Harder Kulm Funicular",pricing:{child:14,student:24,adult:32,senior:29},bookingUrl:"https://www.jungfrau.ch",rating:4.5},
     ],
@@ -798,7 +798,7 @@ export const activities: Activity[] = [
     ], currency: "CHF", duration: "Full day", imageUrl: "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&h=500&fit=crop", highlights: [{label:"Trails",value:"30+"},{label:"Difficulty",value:"All levels"},{label:"Lift Access",value:"Yes"},{label:"Bike Rental",value:"E-MTB available"},{label:"Flow Trails",value:"Multiple"}], tags: ["mountain biking", "downhill", "bike park", "adventure"], featured: false },
   { id: "62", slug: "ballenberg-open-air-museum", name: "Ballenberg Open-Air Museum", description: "Over 100 historic Swiss buildings from every canton in a vast outdoor museum.", longDescription: "Ballenberg showcases over 100 original historic buildings from across Switzerland — farmhouses, workshops, barns — relocated and reconstructed in a beautiful natural setting. Traditional crafts are demonstrated live.", category: "culture", subcategory: "Museum", location: { region: "Bern Region", canton: "Bern", city: "Brienz", coordinates: { lat: 46.7600, lng: 8.0800 } }, seasons: ["spring", "summer", "autumn"], indoor: false, providers: [
       {name:"Ballenberg Museum",pricing:{child:12,student:20,adult:32,senior:28},bookingUrl:"https://www.ballenberg.ch",rating:4.5},
-      {name:"Ballenberg",pricing:{child:16,student:27,adult:32,senior:29},bookingUrl:"https://www.swissactivities.com/en-ch/ballenberg-open-air-museum/ballenberg-entrance-ticket/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ballenberg"},
+      {name:"Ballenberg",pricing:{child:16,student:27,adult:32,senior:29},bookingUrl:"https://www.swissactivities.com/en-ch/ballenberg-open-air-museum/ballenberg-entrance-ticket/?ref=odbhodn",rating:4.6,description:"Operated by Ballenberg. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ballenberg-open-air-museum/ballenberg-entrance-ticket/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
@@ -947,7 +947,7 @@ export const activities: Activity[] = [
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/?search=Gstaad%20%26%20Glacier%203000%20Skiing&ref=odbhodn",isDirectLink:false,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
-    ], currency: "CHF", duration: "Full day", imageUrl: "https://images.unsplash.com/photo-1485470733090-0aae1788d668?w=800&h=500&fit=crop", highlights: [{"label":"Slopes","value":"250 km"},{"label":"Glacier","value":"3,000m summit"},{"label":"Peak Walk","value":"Suspension bridge"},{"label":"Luxury","value":"Gstaad village"},{"label":"Areas","value":"Multiple connected"}], tags: ["skiing", "glacier", "gstaad", "luxury", "winter"], featured: false },
+    ], currency: "CHF", duration: "Full day", highlights: [{"label":"Slopes","value":"250 km"},{"label":"Glacier","value":"3,000m summit"},{"label":"Peak Walk","value":"Suspension bridge"},{"label":"Luxury","value":"Gstaad village"},{"label":"Areas","value":"Multiple connected"}], tags: ["skiing", "glacier", "gstaad", "luxury", "winter"], featured: false },
   { id: "85", slug: "flumserberg-skiing", name: "Flumserberg Skiing", description: "Eastern Switzerland's largest ski resort — ideal for families with panoramic Churfirsten views.", longDescription: "Flumserberg is the largest ski area in Eastern Switzerland with 65km of slopes and 17 lifts. Renowned as an excellent family resort with gentle nursery slopes, a snow park, and spectacular views of the Churfirsten peaks and Walensee below.", category: "outdoor", subcategory: "Skiing", location: { region: "Eastern Switzerland", canton: "St. Gallen", city: "Flumserberg", coordinates: { lat: 47.0928, lng: 9.2794 } }, seasons: ["winter"], indoor: false, providers: [
       {name:"Bergbahnen Flumserberg",pricing:{child:28,student:42,adult:56,senior:48},bookingUrl:"https://www.flumserberg.ch",rating:4.4},
     ],
@@ -1147,7 +1147,7 @@ export const activities: Activity[] = [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/?search=Conny-Land%20Lipperswil&ref=odbhodn",isDirectLink:false,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
     ], currency: "CHF", duration: "4-7 hours", imageUrl: "https://images.unsplash.com/photo-1535930749574-1399327ce78f?w=800&h=500&fit=crop", highlights: [{"label":"Attractions","value":"40+"},{"label":"Coasters","value":"Multiple"},{"label":"Water Rides","value":"Yes"},{"label":"Shows","value":"Live entertainment"},{"label":"Canton","value":"Thurgau"}], tags: ["amusement park", "rides", "roller coaster", "thurgau", "family"], featured: false },
   { id: "117", slug: "knies-kinderzoo-rapperswil", name: "Knies Kinderzoo Rapperswil", description: "Switzerland's beloved children's zoo with elephant rides, camel tours, and feeding experiences.", longDescription: "Knie's Kinderzoo in Rapperswil, run by the famous Swiss National Circus family, lets children get up close with elephants, giraffes, sea lions, and more. Elephant rides, camel caravan tours, and interactive feeding sessions make this a magical family outing.", category: "family", subcategory: "Zoo", location: { region: "Eastern Switzerland", canton: "St. Gallen", city: "Rapperswil", coordinates: { lat: 47.2266, lng: 8.8184 } }, seasons: ["spring", "summer", "autumn"], indoor: false, providers: [
-      {name:"Knies Kinderzoo",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Knies Kinderzoo"},
+      {name:"Knies Kinderzoo",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Operated by Knies Kinderzoo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
@@ -1225,14 +1225,14 @@ export const activities: Activity[] = [
     ], currency: "CHF", duration: "3-5 hours", imageUrl: "https://images.unsplash.com/photo-1504387432042-8aca549e4729?w=800&h=500&fit=crop", highlights: [{"label":"Truffles","value":"Black + white"},{"label":"Trained Dogs","value":"Lagotto Romagnolo"},{"label":"Season","value":"Oct–Dec peak"},{"label":"Tasting","value":"Included"},{"label":"Grotto","value":"Optional lunch"}], tags: ["truffle", "hunting", "food", "ticino", "gourmet"], featured: false },
   { id: "129", slug: "paragliding-engelberg", name: "Paragliding Engelberg", description: "Tandem paraglide from Brunni or Titlis with views of snow-capped peaks and alpine valleys.", longDescription: "Soar above the Engelberg valley on a tandem paragliding flight with a certified pilot. Launch from Brunni or Titlis and glide over emerald meadows, alpine lakes, and snow-capped peaks. No experience needed — your pilot handles everything while you enjoy the views.", category: "adventure", subcategory: "Air Sports", location: { region: "Central Switzerland", canton: "Obwalden", city: "Engelberg", coordinates: { lat: 46.8197, lng: 8.4073 } }, seasons: ["spring", "summer", "autumn"], indoor: false, providers: [
       {name:"Paragliding Engelberg",pricing:{child:0,student:150,adult:180,senior:180},bookingUrl:"https://www.paragliding-engelberg.ch",rating:4.8,description:"Tandem flight with photos/video"},
-      {name:"Switzerland Paragliding GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Switzerland Paragliding GmbH"},
+      {name:"Switzerland Paragliding GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/?ref=odbhodn",rating:4.6,description:"Operated by Switzerland Paragliding GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
     ], currency: "CHF", duration: "2-3 hours", imageUrl: "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=800&h=500&fit=crop", highlights: [{"label":"Flight Time","value":"15-25 min"},{"label":"Launch","value":"Brunni or Titlis"},{"label":"Experience","value":"Not needed"},{"label":"Photos","value":"Included"},{"label":"Min Age","value":"5 years"}], tags: ["paragliding", "adventure", "engelberg", "flying", "tandem"], featured: false },
   { id: "130", slug: "paragliding-davos", name: "Paragliding Davos", description: "Tandem paragliding over the Davos valley with panoramic views of the Graubünden Alps.", longDescription: "Experience the thrill of flying above Davos on a tandem paragliding flight. Launch from Jakobshorn or Parsenn and soar over the highest town in Europe, enjoying views of the Silvretta and Albula Alps. Year-round flights available.", category: "adventure", subcategory: "Air Sports", location: { region: "Graubünden", canton: "Graubünden", city: "Davos", coordinates: { lat: 46.8027, lng: 9.8360 } }, seasons: ["spring", "summer", "autumn", "winter"], indoor: false, providers: [
       {name:"Fly Davos",pricing:{child:0,student:160,adult:190,senior:190},bookingUrl:"https://www.flydavos.ch",rating:4.7,description:"Tandem flight from Jakobshorn"},
-      {name:"Air Davos Paragliding",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/?ref=odbhodn",isDirectLink:true,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
@@ -1301,7 +1301,7 @@ export const activities: Activity[] = [
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/?search=Tobogganing%20on%20Rigi&ref=odbhodn",isDirectLink:false,rating:4.6,description:"Switzerland's biggest activities marketplace — verified suppliers, free cancellation"},
-    ], currency: "CHF", duration: "2-4 hours", imageUrl: "https://images.unsplash.com/photo-1611499616977-6c903e285400?w=800&h=500&fit=crop", highlights: [{"label":"Run Length","value":"6 km"},{"label":"Start","value":"Rigi Kulm (1,798m)"},{"label":"Transport","value":"Cogwheel railway"},{"label":"Sled Rental","value":"Included"},{"label":"Lake Views","value":"Lucerne below"}], tags: ["tobogganing", "sledding", "rigi", "winter", "family"], featured: false },
+    ], currency: "CHF", duration: "2-4 hours", highlights: [{"label":"Run Length","value":"6 km"},{"label":"Start","value":"Rigi Kulm (1,798m)"},{"label":"Transport","value":"Cogwheel railway"},{"label":"Sled Rental","value":"Included"},{"label":"Lake Views","value":"Lucerne below"}], tags: ["tobogganing", "sledding", "rigi", "winter", "family"], featured: false },
   { id: "141", slug: "fat-biking-gstaad", name: "Fat Biking Gstaad", description: "Ride oversized-tire bikes through snowy Gstaad trails for a unique winter cycling experience.", longDescription: "Fat biking on groomed winter trails around Gstaad is a unique way to explore the snowy landscape. The extra-wide tires grip packed snow effortlessly as you ride through forests, along frozen rivers, and past traditional chalets in the Saanenland.", category: "adventure", subcategory: "Cycling", location: { region: "Bern Region", canton: "Bern", city: "Gstaad", coordinates: { lat: 46.4748, lng: 7.2858 } }, seasons: ["winter"], indoor: false, providers: [
       {name:"Gstaad Fat Bike Rental",pricing:{child:25,student:38,adult:48,senior:42},bookingUrl:"https://www.gstaad.ch",rating:4.4,description:"Half-day fat bike rental"},
       {name:"Gstaad Fat Bike Guided Tour",pricing:{child:40,student:58,adult:72,senior:65},bookingUrl:"https://www.gstaad.ch",rating:4.6,description:"2-hour guided fat bike tour with fondue stop"},
@@ -1381,7 +1381,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Equestrian Center Galms",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/pony-rental-in-lausen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Equestrian Center Galms"},
+      {name:"Equestrian Center Galms",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/pony-rental-in-lausen/?ref=odbhodn",rating:4.6,description:"Operated by Equestrian Center Galms. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/pony-rental-in-lausen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1406,7 +1406,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Equestrian Center Galms",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/pony-club-in-lausen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Equestrian Center Galms"},
+      {name:"Equestrian Center Galms",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/pony-club-in-lausen/?ref=odbhodn",rating:4.6,description:"Operated by Equestrian Center Galms. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/pony-club-in-lausen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1431,7 +1431,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:33,student:55,adult:65,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/rock-deer-tour-in-the-weisstannental-valley/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:33,student:55,adult:65,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/rock-deer-tour-in-the-weisstannental-valley/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/rock-deer-tour-in-the-weisstannental-valley/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1456,7 +1456,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/on-the-trail-of-the-bearded-vulture-in-the-calfei-valley/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/on-the-trail-of-the-bearded-vulture-in-the-calfei-valley/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/on-the-trail-of-the-bearded-vulture-in-the-calfei-valley/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1481,7 +1481,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Libernatur",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/nature-safari-lake-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Libernatur"},
+      {name:"Libernatur",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/nature-safari-lake-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Libernatur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/nature-safari-lake-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1506,7 +1506,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Libernatur",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/nature-safari-ibex-at-niederhorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Libernatur"},
+      {name:"Libernatur",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/nature-safari-ibex-at-niederhorn/?ref=odbhodn",rating:4.6,description:"Operated by Libernatur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/nature-safari-ibex-at-niederhorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1531,7 +1531,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Crans-Montana Tourisme & Congrès",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/a-nomad-adventure-at-the-la-tieche-waterfalls/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Crans-Montana Tourisme & Congrès"},
+      {name:"Crans-Montana Tourisme & Congrès",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/a-nomad-adventure-at-the-la-tieche-waterfalls/?ref=odbhodn",rating:4.6,description:"Operated by Crans-Montana Tourisme & Congrès. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/animal-experiences/a-nomad-adventure-at-the-la-tieche-waterfalls/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1579,7 +1579,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Plausch Events GmbH",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/small-excavator-fun-gossau/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Plausch Events GmbH"},
+      {name:"Plausch Events GmbH",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/small-excavator-fun-gossau/?ref=odbhodn",rating:4.6,description:"Operated by Plausch Events GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/small-excavator-fun-gossau/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1604,7 +1604,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Plausch Events GmbH",pricing:{child:175,student:297,adult:349,senior:314},bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/bagger-fun-with-a-21-tonne-excavator-in-gossau/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Plausch Events GmbH"},
+      {name:"Plausch Events GmbH",pricing:{child:175,student:297,adult:349,senior:314},bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/bagger-fun-with-a-21-tonne-excavator-in-gossau/?ref=odbhodn",rating:4.6,description:"Operated by Plausch Events GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/bagger-fun-with-a-21-tonne-excavator-in-gossau/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1629,7 +1629,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Plausch Events GmbH",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/mini-excavator-fun-under-8t-near-frauenfeld/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Plausch Events GmbH"},
+      {name:"Plausch Events GmbH",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/mini-excavator-fun-under-8t-near-frauenfeld/?ref=odbhodn",rating:4.6,description:"Operated by Plausch Events GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/baggage-pass/mini-excavator-fun-under-8t-near-frauenfeld/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1654,7 +1654,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Ballons Du Leman",pricing:{child:188,student:319,adult:375,senior:338},bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ballons Du Leman"},
+      {name:"Ballons Du Leman",pricing:{child:188,student:319,adult:375,senior:338},bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions/?ref=odbhodn",rating:4.6,description:"Operated by Ballons Du Leman. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1679,7 +1679,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Ballons Du Leman",pricing:{child:238,student:404,adult:475,senior:428},bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/item-1772664816324-jcy0p/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ballons Du Leman"},
+      {name:"Ballons Du Leman",pricing:{child:238,student:404,adult:475,senior:428},bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/item-1772664816324-jcy0p/?ref=odbhodn",rating:4.6,description:"Operated by Ballons Du Leman. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/item-1772664816324-jcy0p/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1704,7 +1704,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Ballons Du Leman",pricing:{child:238,student:404,adult:475,senior:428},bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/hot-air-balloon-ride-with-fondue-western-switzerland-featuring-lake-geneva-and-alpine-regions/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ballons Du Leman"},
+      {name:"Ballons Du Leman",pricing:{child:238,student:404,adult:475,senior:428},bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/hot-air-balloon-ride-with-fondue-western-switzerland-featuring-lake-geneva-and-alpine-regions/?ref=odbhodn",rating:4.6,description:"Operated by Ballons Du Leman. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ballooning/hot-air-balloon-ride-with-fondue-western-switzerland-featuring-lake-geneva-and-alpine-regions/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1867,7 +1867,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schifffahrtsbetrieb Hensa AG",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/hensa-goosebumps-apero-rapperswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schifffahrtsbetrieb Hensa AG"},
+      {name:"Schifffahrtsbetrieb Hensa AG",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/hensa-goosebumps-apero-rapperswil/?ref=odbhodn",rating:4.6,description:"Operated by Schifffahrtsbetrieb Hensa AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/hensa-goosebumps-apero-rapperswil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1892,7 +1892,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schifffahrtsbetrieb Hensa AG",pricing:{child:2767,student:4703,adult:5533,senior:4980},bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/4-hour-private-aperitif-cruise-on-lake-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schifffahrtsbetrieb Hensa AG"},
+      {name:"Schifffahrtsbetrieb Hensa AG",pricing:{child:2767,student:4703,adult:5533,senior:4980},bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/4-hour-private-aperitif-cruise-on-lake-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Schifffahrtsbetrieb Hensa AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/4-hour-private-aperitif-cruise-on-lake-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -1917,7 +1917,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Ernst Mändli AG",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/rhine-falls-wine-cruise-including-circular-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ernst Mändli AG"},
+      {name:"Ernst Mändli AG",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/rhine-falls-wine-cruise-including-circular-tour/?ref=odbhodn",rating:4.6,description:"Operated by Ernst Mändli AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/boat-trips/rhine-falls-wine-cruise-including-circular-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2011,7 +2011,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"eTukTuk Schweiz GmbH",pricing:{child:115,student:195,adult:229,senior:206},bookingUrl:"https://www.swissactivities.com/en-ch/brunch/brunch-etuktuk-city-tour-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Schweiz GmbH"},
+      {name:"eTukTuk Schweiz GmbH",pricing:{child:115,student:195,adult:229,senior:206},bookingUrl:"https://www.swissactivities.com/en-ch/brunch/brunch-etuktuk-city-tour-zurich/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Schweiz GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/brunch/brunch-etuktuk-city-tour-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2036,7 +2036,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Macardo Swiss Distillery",pricing:{child:25,student:42,adult:49,senior:44},bookingUrl:"https://www.swissactivities.com/en-ch/brunch/thurgau-brunch-macardo-distillery/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Macardo Swiss Distillery"},
+      {name:"Macardo Swiss Distillery",pricing:{child:25,student:42,adult:49,senior:44},bookingUrl:"https://www.swissactivities.com/en-ch/brunch/thurgau-brunch-macardo-distillery/?ref=odbhodn",rating:4.6,description:"Operated by Macardo Swiss Distillery. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/brunch/thurgau-brunch-macardo-distillery/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2061,7 +2061,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:70,student:118,adult:139,senior:125},bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-grindelwald-glacier-gorge/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:70,student:118,adult:139,senior:125},bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-grindelwald-glacier-gorge/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-grindelwald-glacier-gorge/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2086,7 +2086,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:120,student:203,adult:239,senior:215},bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/bungee-jumping-stockhorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:120,student:203,adult:239,senior:215},bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/bungee-jumping-stockhorn/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/bungee-jumping-stockhorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2111,7 +2111,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Guideconcept",pricing:{child:53,student:89,adult:105,senior:95},bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-passot-chateau-doex/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Guideconcept"},
+      {name:"Guideconcept",pricing:{child:53,student:89,adult:105,senior:95},bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-passot-chateau-doex/?ref=odbhodn",rating:4.6,description:"Operated by Guideconcept. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-passot-chateau-doex/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2366,7 +2366,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Outdoor",pricing:{child:168,student:285,adult:335,senior:302},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-experts-lodrino-gorge/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Outdoor"},
+      {name:"Ticino Outdoor",pricing:{child:168,student:285,adult:335,senior:302},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-experts-lodrino-gorge/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Outdoor. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-experts-lodrino-gorge/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2391,7 +2391,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss River Adventures",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-valle-di-cresciano-daily/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss River Adventures"},
+      {name:"Swiss River Adventures",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-valle-di-cresciano-daily/?ref=odbhodn",rating:4.6,description:"Operated by Swiss River Adventures. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-valle-di-cresciano-daily/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2416,7 +2416,7 @@ export const activities: Activity[] = [
     seasons: ["spring","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Outdoor",pricing:{child:130,student:220,adult:259,senior:233},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/lodrino-gorge-canyoning-for-experts-half-day/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Outdoor"},
+      {name:"Ticino Outdoor",pricing:{child:130,student:220,adult:259,senior:233},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/lodrino-gorge-canyoning-for-experts-half-day/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Outdoor. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/lodrino-gorge-canyoning-for-experts-half-day/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2487,7 +2487,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Outdoor",pricing:{child:195,student:332,adult:390,senior:351},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/helicanyoning-boggera-advanced-users/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Outdoor"},
+      {name:"Ticino Outdoor",pricing:{child:195,student:332,adult:390,senior:351},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/helicanyoning-boggera-advanced-users/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Outdoor. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/helicanyoning-boggera-advanced-users/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2512,7 +2512,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Outdoor",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-families-bellinzona-biasca/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Outdoor"},
+      {name:"Ticino Outdoor",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-families-bellinzona-biasca/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Outdoor. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-families-bellinzona-biasca/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2537,7 +2537,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Adventures",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-beginners/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Adventures"},
+      {name:"Ticino Adventures",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-beginners/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Adventures. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/boggera-canyoning-beginners/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2562,7 +2562,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Ticino Adventures",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/iragna-canyoning-advanced-canyoneers/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Adventures"},
+      {name:"Ticino Adventures",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/iragna-canyoning-advanced-canyoneers/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Adventures. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/iragna-canyoning-advanced-canyoneers/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2587,7 +2587,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Adventures",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/heli-canyoning-experts/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Adventures"},
+      {name:"Ticino Adventures",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/heli-canyoning-experts/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Adventures. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/heli-canyoning-experts/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2658,7 +2658,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Engadin Outdoor Center",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Outdoor Center"},
+      {name:"Engadin Outdoor Center",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Outdoor Center. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-saxetenschlucht-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2683,7 +2683,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Engadin Outdoor Center",pricing:{child:115,student:195,adult:229,senior:206},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-little-streak-for-advanced-enthusiasts-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Outdoor Center"},
+      {name:"Engadin Outdoor Center",pricing:{child:115,student:195,adult:229,senior:206},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-little-streak-for-advanced-enthusiasts-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Outdoor Center. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-little-streak-for-advanced-enthusiasts-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2708,7 +2708,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Canyoning Access",pricing:{child:80,student:135,adult:159,senior:143},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/saxeten-canyoning-beginner-tour-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Canyoning Access"},
+      {name:"Canyoning Access",pricing:{child:80,student:135,adult:159,senior:143},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/saxeten-canyoning-beginner-tour-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Canyoning Access. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/saxeten-canyoning-beginner-tour-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2733,7 +2733,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Canyoning Access",pricing:{child:95,student:161,adult:189,senior:170},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/grimsel-canyoning-beginner-tour-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Canyoning Access"},
+      {name:"Canyoning Access",pricing:{child:95,student:161,adult:189,senior:170},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/grimsel-canyoning-beginner-tour-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Canyoning Access. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/grimsel-canyoning-beginner-tour-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2781,7 +2781,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-the-morge/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-the-morge/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-the-morge/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2806,7 +2806,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:65,student:111,adult:130,senior:117},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-the-raspille/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:65,student:111,adult:130,senior:117},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-the-raspille/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-the-raspille/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2854,7 +2854,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Guideconcept",pricing:{child:63,student:106,adult:125,senior:113},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-hongrin-chateau-doex/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Guideconcept"},
+      {name:"Guideconcept",pricing:{child:63,student:106,adult:125,senior:113},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-hongrin-chateau-doex/?ref=odbhodn",rating:4.6,description:"Operated by Guideconcept. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-hongrin-chateau-doex/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2879,7 +2879,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Guideconcept",pricing:{child:83,student:140,adult:165,senior:149},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-pissot-chateau-doex/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Guideconcept"},
+      {name:"Guideconcept",pricing:{child:83,student:140,adult:165,senior:149},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-pissot-chateau-doex/?ref=odbhodn",rating:4.6,description:"Operated by Guideconcept. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-pissot-chateau-doex/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2904,7 +2904,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Canyoning Access",pricing:{child:65,student:111,adult:130,senior:117},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/pissot-gorge-canyoning-for-beginners/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Canyoning Access"},
+      {name:"Canyoning Access",pricing:{child:65,student:111,adult:130,senior:117},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/pissot-gorge-canyoning-for-beginners/?ref=odbhodn",rating:4.6,description:"Operated by Canyoning Access. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/pissot-gorge-canyoning-for-beginners/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2929,7 +2929,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Purelements",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-beginners-val-di-vira/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Purelements"},
+      {name:"Purelements",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-beginners-val-di-vira/?ref=odbhodn",rating:4.6,description:"Operated by Purelements. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-beginners-val-di-vira/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -2977,7 +2977,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss River Adventures",pricing:{child:55,student:94,adult:110,senior:99},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/vira-canyoning-families/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss River Adventures"},
+      {name:"Swiss River Adventures",pricing:{child:55,student:94,adult:110,senior:99},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/vira-canyoning-families/?ref=odbhodn",rating:4.6,description:"Operated by Swiss River Adventures. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/vira-canyoning-families/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3025,7 +3025,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Outdoor",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/malvaglia-canyoning-beginners/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Outdoor"},
+      {name:"Ticino Outdoor",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/malvaglia-canyoning-beginners/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Outdoor. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/malvaglia-canyoning-beginners/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3050,7 +3050,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Purelements",pricing:{child:120,student:203,adult:239,senior:215},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/orino-canyoning-for-experienced-adventurers-from-malvaglia/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Purelements"},
+      {name:"Purelements",pricing:{child:120,student:203,adult:239,senior:215},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/orino-canyoning-for-experienced-adventurers-from-malvaglia/?ref=odbhodn",rating:4.6,description:"Operated by Purelements. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/orino-canyoning-for-experienced-adventurers-from-malvaglia/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3075,7 +3075,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:65,student:111,adult:130,senior:117},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-chateau-doex/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:65,student:111,adult:130,senior:117},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-chateau-doex/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-in-chateau-doex/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3100,7 +3100,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Guideconcept",pricing:{child:53,student:89,adult:105,senior:95},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-tine-montbovon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Guideconcept"},
+      {name:"Guideconcept",pricing:{child:53,student:89,adult:105,senior:95},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-tine-montbovon/?ref=odbhodn",rating:4.6,description:"Operated by Guideconcept. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-tine-montbovon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3125,7 +3125,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/from-lucerne-canyoning-adventure-in-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/from-lucerne-canyoning-adventure-in-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/from-lucerne-canyoning-adventure-in-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3150,7 +3150,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/from-zurich--canyoning-adventure-in-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/from-zurich--canyoning-adventure-in-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/from-zurich--canyoning-adventure-in-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3175,7 +3175,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Purelements",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-advanced-cugnasco/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Purelements"},
+      {name:"Purelements",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-advanced-cugnasco/?ref=odbhodn",rating:4.6,description:"Operated by Purelements. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-advanced-cugnasco/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3200,7 +3200,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Outdoor",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/corippo-canyoning-beginners/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Outdoor"},
+      {name:"Ticino Outdoor",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/corippo-canyoning-beginners/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Outdoor. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/corippo-canyoning-beginners/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3248,7 +3248,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:70,student:119,adult:140,senior:126},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/barberine-canyoning-trento-valley/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:70,student:119,adult:140,senior:126},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/barberine-canyoning-trento-valley/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/barberine-canyoning-trento-valley/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3319,7 +3319,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Swiss River Adventures",pricing:{child:90,student:152,adult:179,senior:161},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/maggia-valley-val-grande-canyoning/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss River Adventures"},
+      {name:"Swiss River Adventures",pricing:{child:90,student:152,adult:179,senior:161},bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/maggia-valley-val-grande-canyoning/?ref=odbhodn",rating:4.6,description:"Operated by Swiss River Adventures. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/canyoning/maggia-valley-val-grande-canyoning/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3367,7 +3367,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: true,
     providers: [
-      {name:"Zürich Tourismus",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/zurich-card-for-24-or-72-hours/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Tourismus"},
+      {name:"Zürich Tourismus",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/zurich-card-for-24-or-72-hours/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/zurich-card-for-24-or-72-hours/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3392,7 +3392,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Fondation Genève Toursime & Congrès",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/geneva-city-pass/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Fondation Genève Toursime & Congrès"},
+      {name:"Fondation Genève Toursime & Congrès",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/geneva-city-pass/?ref=odbhodn",rating:4.6,description:"Operated by Fondation Genève Toursime & Congrès. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/geneva-city-pass/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3417,7 +3417,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:5,student:8,adult:9,senior:8},bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/city-pass-winterthur-zvv/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:5,student:8,adult:9,senior:8},bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/city-pass-winterthur-zvv/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/the-city-pass/city-pass-winterthur-zvv/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3442,7 +3442,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Alpinschule Adelboden Kandersteg",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/climbing/summer-climbing-school-for-families-in-adelboden-2-afternoons/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Alpinschule Adelboden Kandersteg"},
+      {name:"Alpinschule Adelboden Kandersteg",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/climbing/summer-climbing-school-for-families-in-adelboden-2-afternoons/?ref=odbhodn",rating:4.6,description:"Operated by Alpinschule Adelboden Kandersteg. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/climbing/summer-climbing-school-for-families-in-adelboden-2-afternoons/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3490,7 +3490,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"bergsportschule grischa GmbH",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/climbing/climbing-course-for-beginners-in-the-climbing-park-in-chur-rhine-valley/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: bergsportschule grischa GmbH"},
+      {name:"bergsportschule grischa GmbH",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/climbing/climbing-course-for-beginners-in-the-climbing-park-in-chur-rhine-valley/?ref=odbhodn",rating:4.6,description:"Operated by bergsportschule grischa GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/climbing/climbing-course-for-beginners-in-the-climbing-park-in-chur-rhine-valley/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3515,7 +3515,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Ticino Outdoor",pricing:{child:250,student:425,adult:500,senior:450},bookingUrl:"https://www.swissactivities.com/en-ch/climbing/climbing-families-ticino/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Outdoor"},
+      {name:"Ticino Outdoor",pricing:{child:250,student:425,adult:500,senior:450},bookingUrl:"https://www.swissactivities.com/en-ch/climbing/climbing-families-ticino/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Outdoor. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/climbing/climbing-families-ticino/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3908,7 +3908,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Freiluftchuchi",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fire-cooking-indian-masala/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freiluftchuchi"},
+      {name:"Freiluftchuchi",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fire-cooking-indian-masala/?ref=odbhodn",rating:4.6,description:"Operated by Freiluftchuchi. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fire-cooking-indian-masala/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3933,7 +3933,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Freiluftchuchi",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fire-kitchen-flavours-of-the-himalayas/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freiluftchuchi"},
+      {name:"Freiluftchuchi",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fire-kitchen-flavours-of-the-himalayas/?ref=odbhodn",rating:4.6,description:"Operated by Freiluftchuchi. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fire-kitchen-flavours-of-the-himalayas/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -3958,7 +3958,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Freiluftchuchi",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/vietnamese-fire-kitchen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freiluftchuchi"},
+      {name:"Freiluftchuchi",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/vietnamese-fire-kitchen/?ref=odbhodn",rating:4.6,description:"Operated by Freiluftchuchi. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/vietnamese-fire-kitchen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4006,7 +4006,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"ESTIA Home of Taste",pricing:{child:93,student:157,adult:185,senior:167},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/turkish-for-beginners-cooking-class-in-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: ESTIA Home of Taste"},
+      {name:"ESTIA Home of Taste",pricing:{child:93,student:157,adult:185,senior:167},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/turkish-for-beginners-cooking-class-in-zurich/?ref=odbhodn",rating:4.6,description:"Operated by ESTIA Home of Taste. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/turkish-for-beginners-cooking-class-in-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4054,7 +4054,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"ESTIA Home of Taste",pricing:{child:93,student:157,adult:185,senior:167},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/summer-kitchen-with-laz-cooking-class-in-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: ESTIA Home of Taste"},
+      {name:"ESTIA Home of Taste",pricing:{child:93,student:157,adult:185,senior:167},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/summer-kitchen-with-laz-cooking-class-in-zurich/?ref=odbhodn",rating:4.6,description:"Operated by ESTIA Home of Taste. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/summer-kitchen-with-laz-cooking-class-in-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4079,7 +4079,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fondue-cooking-class-in-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fondue-cooking-class-in-geneva/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/cooking-course/fondue-cooking-class-in-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4127,7 +4127,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bike Academy",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/cross-country-skiing/ski-rental-cross-country-davos/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bike Academy"},
+      {name:"Bike Academy",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/cross-country-skiing/ski-rental-cross-country-davos/?ref=odbhodn",rating:4.6,description:"Operated by Bike Academy. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/cross-country-skiing/ski-rental-cross-country-davos/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4198,7 +4198,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Line Dance Coach",pricing:{child:225,student:383,adult:450,senior:405},bookingUrl:"https://www.swissactivities.com/en-ch/dancing/line-dance-workshops-groups/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Line Dance Coach"},
+      {name:"Line Dance Coach",pricing:{child:225,student:383,adult:450,senior:405},bookingUrl:"https://www.swissactivities.com/en-ch/dancing/line-dance-workshops-groups/?ref=odbhodn",rating:4.6,description:"Operated by Line Dance Coach. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/dancing/line-dance-workshops-groups/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4223,7 +4223,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:44,student:75,adult:88,senior:79},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-day-boat-trip-lindt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:44,student:75,adult:88,senior:79},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-day-boat-trip-lindt/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-day-boat-trip-lindt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4248,7 +4248,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/tour-grindelwald-and-interlaken-from-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/tour-grindelwald-and-interlaken-from-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/tour-grindelwald-and-interlaken-from-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4273,7 +4273,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:46,student:78,adult:92,senior:83},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhine-falls-and-stein-am-rhein-tour-from-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:46,student:78,adult:92,senior:83},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhine-falls-and-stein-am-rhein-tour-from-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhine-falls-and-stein-am-rhein-tour-from-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4298,7 +4298,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhine-falls-day-trip-from-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhine-falls-day-trip-from-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhine-falls-day-trip-from-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4323,7 +4323,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:148,student:251,adult:295,senior:266},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ski-trip-grindelwald-for-beginners-from-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:148,student:251,adult:295,senior:266},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ski-trip-grindelwald-for-beginners-from-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ski-trip-grindelwald-for-beginners-from-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4348,7 +4348,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:82,student:139,adult:164,senior:148},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-tour-luzern-engelberg-titlis-zuerich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:82,student:139,adult:164,senior:148},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-tour-luzern-engelberg-titlis-zuerich/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-tour-luzern-engelberg-titlis-zuerich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4373,7 +4373,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:26,student:43,adult:51,senior:46},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhinefall-bus-tour-half-day-zuerich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:26,student:43,adult:51,senior:46},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhinefall-bus-tour-half-day-zuerich/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/rhinefall-bus-tour-half-day-zuerich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4398,7 +4398,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-engelberg-and-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-engelberg-and-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-engelberg-and-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4423,7 +4423,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/appenzell-culinary-bus-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/appenzell-culinary-bus-tour/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/appenzell-culinary-bus-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4448,7 +4448,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:46,student:78,adult:92,senior:83},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-day-trip-from-zurich-boat-trip/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:46,student:78,adult:92,senior:83},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-day-trip-from-zurich-boat-trip/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-day-trip-from-zurich-boat-trip/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4473,7 +4473,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-day-trip-to-lucerne-and-burgenstock/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-day-trip-to-lucerne-and-burgenstock/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-day-trip-to-lucerne-and-burgenstock/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4498,7 +4498,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:31,student:53,adult:62,senior:56},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/visit-zurich-day-trip-to-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:31,student:53,adult:62,senior:56},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/visit-zurich-day-trip-to-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/visit-zurich-day-trip-to-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4523,7 +4523,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:92,student:156,adult:184,senior:166},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-guided-tour-of-pilatus-golden-round-trip-including-mountain-railway-and-boat-cruise/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:92,student:156,adult:184,senior:166},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-guided-tour-of-pilatus-golden-round-trip-including-mountain-railway-and-boat-cruise/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-guided-tour-of-pilatus-golden-round-trip-including-mountain-railway-and-boat-cruise/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4548,7 +4548,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-bern-with-tasting-from-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-bern-with-tasting-from-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-bern-with-tasting-from-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4573,7 +4573,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich--adventure-on-the-grindelwald-first/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich--adventure-on-the-grindelwald-first/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich--adventure-on-the-grindelwald-first/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4598,7 +4598,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1188,student:2019,adult:2375,senior:2138},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-best-jungfrau-region-luxury-private-day-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Myswisspanorama Hiking & Travel GmbH"},
+      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1188,student:2019,adult:2375,senior:2138},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-best-jungfrau-region-luxury-private-day-tour/?ref=odbhodn",rating:4.6,description:"Operated by Myswisspanorama Hiking & Travel GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-best-jungfrau-region-luxury-private-day-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4623,7 +4623,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1263,student:2146,adult:2525,senior:2273},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-flavours-switzerland-luxury-day-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Myswisspanorama Hiking & Travel GmbH"},
+      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1263,student:2146,adult:2525,senior:2273},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-flavours-switzerland-luxury-day-tour/?ref=odbhodn",rating:4.6,description:"Operated by Myswisspanorama Hiking & Travel GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-flavours-switzerland-luxury-day-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4648,7 +4648,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1263,student:2146,adult:2525,senior:2273},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-heidi-swiss-farm-escape-luxury-day-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Myswisspanorama Hiking & Travel GmbH"},
+      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1263,student:2146,adult:2525,senior:2273},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-heidi-swiss-farm-escape-luxury-day-tour/?ref=odbhodn",rating:4.6,description:"Operated by Myswisspanorama Hiking & Travel GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-heidi-swiss-farm-escape-luxury-day-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4673,7 +4673,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4698,7 +4698,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-express-tour-to-interlaken-and-the-schilthorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-express-tour-to-interlaken-and-the-schilthorn/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-express-tour-to-interlaken-and-the-schilthorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4723,7 +4723,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-chocolate-factory-and-appenzeller-cheese-demonstration-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-chocolate-factory-and-appenzeller-cheese-demonstration-tour/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-chocolate-factory-and-appenzeller-cheese-demonstration-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4748,7 +4748,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:67,student:114,adult:134,senior:121},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-interlaken-with-harder-kulm/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:67,student:114,adult:134,senior:121},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-interlaken-with-harder-kulm/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-interlaken-with-harder-kulm/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4773,7 +4773,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:132,student:224,adult:264,senior:238},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-interlaken-and-jungfraujoch/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:132,student:224,adult:264,senior:238},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-interlaken-and-jungfraujoch/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-interlaken-and-jungfraujoch/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4798,7 +4798,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:31,student:53,adult:62,senior:56},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/workshop-zurich-bus-tour-to-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:31,student:53,adult:62,senior:56},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/workshop-zurich-bus-tour-to-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/workshop-zurich-bus-tour-to-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4823,7 +4823,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:47,student:80,adult:94,senior:85},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:47,student:80,adult:94,senior:85},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4848,7 +4848,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:111,student:189,adult:222,senior:200},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-bus-tour-to-pilatus-with-golden-round-trip/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:111,student:189,adult:222,senior:200},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-bus-tour-to-pilatus-with-golden-round-trip/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-bus-tour-to-pilatus-with-golden-round-trip/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4873,7 +4873,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:58,student:99,adult:116,senior:104},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-excursion-bus-tour-to-rhine-falls-chocolarium-and-appenzeller-cheese-dairy/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:58,student:99,adult:116,senior:104},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-excursion-bus-tour-to-rhine-falls-chocolarium-and-appenzeller-cheese-dairy/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-excursion-bus-tour-to-rhine-falls-chocolarium-and-appenzeller-cheese-dairy/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4898,7 +4898,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:51,student:86,adult:101,senior:91},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-zurich-city-tour-chocolarium-and-appenzeller-cheese-showcase/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:51,student:86,adult:101,senior:91},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-zurich-city-tour-chocolarium-and-appenzeller-cheese-showcase/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-zurich-city-tour-chocolarium-and-appenzeller-cheese-showcase/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4923,7 +4923,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:37,student:62,adult:73,senior:66},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/at-zurich-rhine-falls-and-city-tour-in-an-open-panorama-bus/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:37,student:62,adult:73,senior:66},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/at-zurich-rhine-falls-and-city-tour-in-an-open-panorama-bus/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/at-zurich-rhine-falls-and-city-tour-in-an-open-panorama-bus/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4948,7 +4948,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lakes-mountains-adventure-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lakes-mountains-adventure-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lakes-mountains-adventure-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4973,7 +4973,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/castle-cheese-chocolate-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/castle-cheese-chocolate-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/castle-cheese-chocolate-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -4998,7 +4998,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:88,student:150,adult:176,senior:158},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-excursion-to-titlis-with-freeride-ski-day/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:88,student:150,adult:176,senior:158},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-excursion-to-titlis-with-freeride-ski-day/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-excursion-to-titlis-with-freeride-ski-day/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5023,7 +5023,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:94,student:160,adult:188,senior:169},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-tour-bus-trip-to-rigi-and-lucerne-with-cruise/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:94,student:160,adult:188,senior:169},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-tour-bus-trip-to-rigi-and-lucerne-with-cruise/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-tour-bus-trip-to-rigi-and-lucerne-with-cruise/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5048,7 +5048,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:98,student:167,adult:196,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-lucerne-and-trubsee-near-titlis-beginner-s-ski-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:98,student:167,adult:196,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-lucerne-and-trubsee-near-titlis-beginner-s-ski-tour/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-lucerne-and-trubsee-near-titlis-beginner-s-ski-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5073,7 +5073,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/at-zurich-lucerne-and-titlis-tour-with-beginner-skiing-including-rotair/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/at-zurich-lucerne-and-titlis-tour-with-beginner-skiing-including-rotair/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/at-zurich-lucerne-and-titlis-tour-with-beginner-skiing-including-rotair/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5098,7 +5098,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:104,student:177,adult:208,senior:187},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-day-trip-to-trubsee-with-snowmobile-experience-and-to-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:104,student:177,adult:208,senior:187},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-day-trip-to-trubsee-with-snowmobile-experience-and-to-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-day-trip-to-trubsee-with-snowmobile-experience-and-to-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5123,7 +5123,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:136,student:231,adult:272,senior:245},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-titlis-tour-with-snowmobile-experience-and-to-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:136,student:231,adult:272,senior:245},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-titlis-tour-with-snowmobile-experience-and-to-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-titlis-tour-with-snowmobile-experience-and-to-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5148,7 +5148,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:78,student:133,adult:156,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-excursion-to-lucerne-and-trubsee-at-titlis-with-cheese-fondue-experience-in-an-igloo/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:78,student:133,adult:156,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-excursion-to-lucerne-and-trubsee-at-titlis-with-cheese-fondue-experience-in-an-igloo/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-excursion-to-lucerne-and-trubsee-at-titlis-with-cheese-fondue-experience-in-an-igloo/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5173,7 +5173,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-lucerne-titlis-igloo-fondue-rotair-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-lucerne-titlis-igloo-fondue-rotair-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-lucerne-titlis-igloo-fondue-rotair-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5198,7 +5198,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:395,student:672,adult:790,senior:711},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/private-tour-zurich-boat-lindt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:395,student:672,adult:790,senior:711},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/private-tour-zurich-boat-lindt/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/private-tour-zurich-boat-lindt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5223,7 +5223,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:697,student:1184,adult:1393,senior:1254},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/jungfraujoch-lauterbrunnen-private/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:697,student:1184,adult:1393,senior:1254},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/jungfraujoch-lauterbrunnen-private/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/jungfraujoch-lauterbrunnen-private/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5248,7 +5248,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:490,student:833,adult:980,senior:882},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/panoramic-train-journey-guided-private/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:490,student:833,adult:980,senior:882},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/panoramic-train-journey-guided-private/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/panoramic-train-journey-guided-private/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5273,7 +5273,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:697,student:1184,adult:1393,senior:1254},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/titlis-engelberg-lucerne-private/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:697,student:1184,adult:1393,senior:1254},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/titlis-engelberg-lucerne-private/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/titlis-engelberg-lucerne-private/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5298,7 +5298,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:495,student:842,adult:990,senior:891},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/gruyeres-cheese-chocolate-private/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:495,student:842,adult:990,senior:891},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/gruyeres-cheese-chocolate-private/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/gruyeres-cheese-chocolate-private/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5323,7 +5323,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:475,student:808,adult:950,senior:855},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-day-trip-to-blausee-and-interlaken-with-private-guide/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:475,student:808,adult:950,senior:855},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-day-trip-to-blausee-and-interlaken-with-private-guide/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-day-trip-to-blausee-and-interlaken-with-private-guide/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5348,7 +5348,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:545,student:927,adult:1090,senior:981},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-private-day-trip-to-pilatus-and-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:545,student:927,adult:1090,senior:981},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-private-day-trip-to-pilatus-and-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-private-day-trip-to-pilatus-and-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5373,7 +5373,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:395,student:672,adult:790,senior:711},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/full-day-in-zurich-with-felsenegg-cable-car-private-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:395,student:672,adult:790,senior:711},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/full-day-in-zurich-with-felsenegg-cable-car-private-tour/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/full-day-in-zurich-with-felsenegg-cable-car-private-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5398,7 +5398,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:490,student:833,adult:980,senior:882},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-grindelwald-first-adventure-private-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:490,student:833,adult:980,senior:882},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-grindelwald-first-adventure-private-tour/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-grindelwald-first-adventure-private-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5423,7 +5423,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:395,student:672,adult:790,senior:711},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-private-tour-rhine-falls-and-stein-am-rhein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:395,student:672,adult:790,senior:711},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-private-tour-rhine-falls-and-stein-am-rhein/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/zurich-private-tour-rhine-falls-and-stein-am-rhein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5448,7 +5448,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:490,student:833,adult:980,senior:882},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-crash-landing-on-you-private-day-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:490,student:833,adult:980,senior:882},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-crash-landing-on-you-private-day-tour/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-crash-landing-on-you-private-day-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5473,7 +5473,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:545,student:927,adult:1090,senior:981},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-private-day-trip-to-rigi-and-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:545,student:927,adult:1090,senior:981},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-private-day-trip-to-rigi-and-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-private-day-trip-to-rigi-and-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5498,7 +5498,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Magic Tours",pricing:{child:490,student:833,adult:980,senior:882},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-private-day-trip-to-interlaken-and-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Magic Tours"},
+      {name:"Swiss Magic Tours",pricing:{child:490,student:833,adult:980,senior:882},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-private-day-trip-to-interlaken-and-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Magic Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-zurich-private-day-trip-to-interlaken-and-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5523,7 +5523,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:159,student:270,adult:318,senior:286},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-interlaken-including-paragliding/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:159,student:270,adult:318,senior:286},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-interlaken-including-paragliding/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-interlaken-including-paragliding/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5548,7 +5548,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Trekking Switzerland",pricing:{child:355,student:604,adult:710,senior:639},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/item-1771597329268-sg11g/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Trekking Switzerland"},
+      {name:"Trekking Switzerland",pricing:{child:355,student:604,adult:710,senior:639},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/item-1771597329268-sg11g/?ref=odbhodn",rating:4.6,description:"Operated by Trekking Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/item-1771597329268-sg11g/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5573,7 +5573,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Trekking Switzerland",pricing:{child:357,student:607,adult:714,senior:643},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-from-zurich-aletsch-the-longest-glacier-in-the-alps/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Trekking Switzerland"},
+      {name:"Trekking Switzerland",pricing:{child:357,student:607,adult:714,senior:643},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-from-zurich-aletsch-the-longest-glacier-in-the-alps/?ref=odbhodn",rating:4.6,description:"Operated by Trekking Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-from-zurich-aletsch-the-longest-glacier-in-the-alps/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5598,7 +5598,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Trekking Switzerland",pricing:{child:246,student:418,adult:492,senior:443},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-juf-europes-highest-permanently-inhabited-village/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Trekking Switzerland"},
+      {name:"Trekking Switzerland",pricing:{child:246,student:418,adult:492,senior:443},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-juf-europes-highest-permanently-inhabited-village/?ref=odbhodn",rating:4.6,description:"Operated by Trekking Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-juf-europes-highest-permanently-inhabited-village/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5623,7 +5623,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:58,student:98,adult:115,senior:104},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-glacier-3000-les-diablerets-and-montreux-open-top-bus-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:58,student:98,adult:115,senior:104},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-glacier-3000-les-diablerets-and-montreux-open-top-bus-tour/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-glacier-3000-les-diablerets-and-montreux-open-top-bus-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5648,7 +5648,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:107,student:181,adult:213,senior:192},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-bus-glacier-3000-and-montreux/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:107,student:181,adult:213,senior:192},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-bus-glacier-3000-and-montreux/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-bus-glacier-3000-and-montreux/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5673,7 +5673,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:101,student:172,adult:202,senior:182},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-to-chamonix-with-aiguille-du-midi/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:101,student:172,adult:202,senior:182},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-to-chamonix-with-aiguille-du-midi/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-to-chamonix-with-aiguille-du-midi/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5698,7 +5698,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/guided-from-geneva--bus-tour-to-annecy-with-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/guided-from-geneva--bus-tour-to-annecy-with-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/guided-from-geneva--bus-tour-to-annecy-with-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5723,7 +5723,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-ski-day-in-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-ski-day-in-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-ski-day-in-chamonix-mont-blanc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5748,7 +5748,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:95,student:161,adult:189,senior:170},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/self-guided-geneva-bus-tour-interlaken-harder-kulm/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:95,student:161,adult:189,senior:170},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/self-guided-geneva-bus-tour-interlaken-harder-kulm/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/self-guided-geneva-bus-tour-interlaken-harder-kulm/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5773,7 +5773,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:37,student:63,adult:74,senior:67},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-city-tour-by-bus-mini-train-and-boat/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:37,student:63,adult:74,senior:67},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-city-tour-by-bus-mini-train-and-boat/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-city-tour-by-bus-mini-train-and-boat/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5798,7 +5798,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:76,student:129,adult:152,senior:137},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/starting-from-geneva-bus-tour-to-annecy-geneva-and-boat-ride/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:76,student:129,adult:152,senior:137},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/starting-from-geneva-bus-tour-to-annecy-geneva-and-boat-ride/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/starting-from-geneva-bus-tour-to-annecy-geneva-and-boat-ride/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5823,7 +5823,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:128,student:218,adult:256,senior:230},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-aiguille-du-midi-and-skiing-in-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:128,student:218,adult:256,senior:230},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-aiguille-du-midi-and-skiing-in-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-aiguille-du-midi-and-skiing-in-chamonix-mont-blanc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5848,7 +5848,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:79,student:133,adult:157,senior:141},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-yvoire-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:79,student:133,adult:157,senior:141},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-yvoire-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva-yvoire-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5873,7 +5873,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:174,student:295,adult:347,senior:312},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva--paragliding-in-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:174,student:295,adult:347,senior:312},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva--paragliding-in-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/geneva--paragliding-in-chamonix-mont-blanc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5898,7 +5898,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-aiguille-du-midi-and-paramotor-flight-in-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-aiguille-du-midi-and-paramotor-flight-in-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-aiguille-du-midi-and-paramotor-flight-in-chamonix-mont-blanc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5923,7 +5923,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:99,student:168,adult:198,senior:178},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-guided-bus-tour-of-charlie-chaplin-with-cruise-from-montreux-to-chillon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:99,student:168,adult:198,senior:178},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-guided-bus-tour-of-charlie-chaplin-with-cruise-from-montreux-to-chillon/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-guided-bus-tour-of-charlie-chaplin-with-cruise-from-montreux-to-chillon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5948,7 +5948,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:81,student:137,adult:161,senior:145},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-riviera-bus-tour-with-chaplin-montreux-and-chillon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:81,student:137,adult:161,senior:145},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-riviera-bus-tour-with-chaplin-montreux-and-chillon/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-riviera-bus-tour-with-chaplin-montreux-and-chillon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5973,7 +5973,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:81,student:137,adult:161,senior:145},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-winter-tour-of-chaplin-montreux-and-chillon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:81,student:137,adult:161,senior:145},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-winter-tour-of-chaplin-montreux-and-chillon/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-winter-tour-of-chaplin-montreux-and-chillon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -5998,7 +5998,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:47,student:80,adult:94,senior:85},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-yvoire-tour-with-boat-trip/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:47,student:80,adult:94,senior:85},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-yvoire-tour-with-boat-trip/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-yvoire-tour-with-boat-trip/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6023,7 +6023,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:49,student:83,adult:98,senior:88},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-geneva-excursion-to-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:49,student:83,adult:98,senior:88},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-geneva-excursion-to-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-geneva-excursion-to-chamonix-mont-blanc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6048,7 +6048,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:108,student:183,adult:215,senior:194},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-chamonix-mont-blanc-aiguille-du-midi-and-mer-de-glace/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:108,student:183,adult:215,senior:194},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-chamonix-mont-blanc-aiguille-du-midi-and-mer-de-glace/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-chamonix-mont-blanc-aiguille-du-midi-and-mer-de-glace/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6073,7 +6073,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:93,student:157,adult:185,senior:167},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-trip-to-chamonix-mont-blanc-with-aiguille-du-midi/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:93,student:157,adult:185,senior:167},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-trip-to-chamonix-mont-blanc-with-aiguille-du-midi/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-trip-to-chamonix-mont-blanc-with-aiguille-du-midi/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6098,7 +6098,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/self-guided-from-geneva-to-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/self-guided-from-geneva-to-chamonix-mont-blanc/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/self-guided-from-geneva-to-chamonix-mont-blanc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6123,7 +6123,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:105,student:178,adult:209,senior:188},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-tour-to-chamonix-with-aiguille-du-midi-and-mer-de-glace/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:105,student:178,adult:209,senior:188},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-tour-to-chamonix-with-aiguille-du-midi-and-mer-de-glace/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-tour-to-chamonix-with-aiguille-du-midi-and-mer-de-glace/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6148,7 +6148,7 @@ export const activities: Activity[] = [
     seasons: ["spring","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:73,student:124,adult:146,senior:131},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-with-mer-de-glace/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:73,student:124,adult:146,senior:131},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-with-mer-de-glace/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-with-mer-de-glace/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6173,7 +6173,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:77,student:130,adult:153,senior:138},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-geneva-bus-tour-to-chamonix-mont-blanc-and-geneva-including-mini-train/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:77,student:130,adult:153,senior:138},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-geneva-bus-tour-to-chamonix-mont-blanc-and-geneva-including-mini-train/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-geneva-bus-tour-to-chamonix-mont-blanc-and-geneva-including-mini-train/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6198,7 +6198,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-and-aiguille-du-midi/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-and-aiguille-du-midi/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-and-aiguille-du-midi/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6223,7 +6223,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-and-boat-trip/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-and-boat-trip/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-and-boat-trip/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6248,7 +6248,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:139,student:235,adult:277,senior:249},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-with-aiguille-du-midi-and-boat-cruise/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:139,student:235,adult:277,senior:249},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-with-aiguille-du-midi-and-boat-cruise/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-geneva-city-tour-chamonix-mont-blanc-with-aiguille-du-midi-and-boat-cruise/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6273,7 +6273,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:115,student:196,adult:230,senior:207},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-bus-tour-to-gruyeres-cheese-dairy-chocolate-factory-and-golden-pass-line/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:115,student:196,adult:230,senior:207},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-bus-tour-to-gruyeres-cheese-dairy-chocolate-factory-and-golden-pass-line/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-bus-tour-to-gruyeres-cheese-dairy-chocolate-factory-and-golden-pass-line/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6298,7 +6298,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-guided-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-guided-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-guided-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6323,7 +6323,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-winter-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-winter-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-winter-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6348,7 +6348,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-bus-tour-to-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-bus-tour-to-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-bus-tour-to-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6373,7 +6373,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:83,student:140,adult:165,senior:149},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-including-mer-de-glace/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:83,student:140,adult:165,senior:149},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-including-mer-de-glace/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-including-mer-de-glace/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6398,7 +6398,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:118,student:200,adult:235,senior:212},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-interlaken-and-schilthorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:118,student:200,adult:235,senior:212},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-interlaken-and-schilthorn/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-interlaken-and-schilthorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6423,7 +6423,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:183,student:310,adult:365,senior:329},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:183,student:310,adult:365,senior:329},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6448,7 +6448,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:95,student:161,adult:189,senior:170},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-and-yvoire/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:95,student:161,adult:189,senior:170},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-and-yvoire/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-bus-tour-to-chamonix-mont-blanc-and-yvoire/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6473,7 +6473,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:143,student:243,adult:286,senior:257},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-chamonix-and-yvoire-including-aiguille-du-midi/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:143,student:243,adult:286,senior:257},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-chamonix-and-yvoire-including-aiguille-du-midi/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-chamonix-and-yvoire-including-aiguille-du-midi/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6498,7 +6498,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Helvetica Itinerantur",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-gruyeres-cheese-factory-chocolate-factory-genf/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Helvetica Itinerantur"},
+      {name:"Helvetica Itinerantur",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-gruyeres-cheese-factory-chocolate-factory-genf/?ref=odbhodn",rating:4.6,description:"Operated by Helvetica Itinerantur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-gruyeres-cheese-factory-chocolate-factory-genf/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6523,7 +6523,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Helvetica Itinerantur",pricing:{child:123,student:209,adult:246,senior:221},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-montreux-chillon-weingueter-genf/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Helvetica Itinerantur"},
+      {name:"Helvetica Itinerantur",pricing:{child:123,student:209,adult:246,senior:221},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-montreux-chillon-weingueter-genf/?ref=odbhodn",rating:4.6,description:"Operated by Helvetica Itinerantur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-montreux-chillon-weingueter-genf/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6548,7 +6548,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Helvetica Itinerantur",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-neuenburg-chocolate-factory-clock-museum-genf/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Helvetica Itinerantur"},
+      {name:"Helvetica Itinerantur",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-neuenburg-chocolate-factory-clock-museum-genf/?ref=odbhodn",rating:4.6,description:"Operated by Helvetica Itinerantur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-neuenburg-chocolate-factory-clock-museum-genf/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6573,7 +6573,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Helvetica Itinerantur",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-airport-day-trip-to-the-salt-mines-and-chateau-d-aigle/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Helvetica Itinerantur"},
+      {name:"Helvetica Itinerantur",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-airport-day-trip-to-the-salt-mines-and-chateau-d-aigle/?ref=odbhodn",rating:4.6,description:"Operated by Helvetica Itinerantur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-airport-day-trip-to-the-salt-mines-and-chateau-d-aigle/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6598,7 +6598,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:88,student:149,adult:175,senior:158},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-zermatt-with-views-of-the-matterhorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:88,student:149,adult:175,senior:158},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-zermatt-with-views-of-the-matterhorn/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-geneva-day-trip-to-zermatt-with-views-of-the-matterhorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6623,7 +6623,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:162,student:275,adult:324,senior:292},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:162,student:275,adult:324,senior:292},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6648,7 +6648,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:82,student:139,adult:164,senior:148},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lucerne-guided-tour-of-pilatus-golden-round-trip-including-cable-car-and-boat-ride/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:82,student:139,adult:164,senior:148},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lucerne-guided-tour-of-pilatus-golden-round-trip-including-cable-car-and-boat-ride/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lucerne-guided-tour-of-pilatus-golden-round-trip-including-cable-car-and-boat-ride/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6673,7 +6673,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:55,student:94,adult:110,senior:99},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-tour-grindelwald-and-interlaken-from-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:55,student:94,adult:110,senior:99},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-tour-grindelwald-and-interlaken-from-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-tour-grindelwald-and-interlaken-from-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6698,7 +6698,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-bern-with-degustation-from-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-bern-with-degustation-from-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/day-trip-to-bern-with-degustation-from-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6723,7 +6723,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:148,student:251,adult:295,senior:266},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ski-trip-grindelwald-for-beginners-from-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:148,student:251,adult:295,senior:266},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ski-trip-grindelwald-for-beginners-from-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ski-trip-grindelwald-for-beginners-from-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6748,7 +6748,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1188,student:2019,adult:2375,senior:2138},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-best-jungfrau-region-luxury-private-day-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Myswisspanorama Hiking & Travel GmbH"},
+      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1188,student:2019,adult:2375,senior:2138},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-best-jungfrau-region-luxury-private-day-tour/?ref=odbhodn",rating:4.6,description:"Operated by Myswisspanorama Hiking & Travel GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-best-jungfrau-region-luxury-private-day-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6773,7 +6773,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1263,student:2146,adult:2525,senior:2273},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lucerne-flavors-switzerland-luxury-day-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Myswisspanorama Hiking & Travel GmbH"},
+      {name:"Myswisspanorama Hiking & Travel GmbH",pricing:{child:1263,student:2146,adult:2525,senior:2273},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lucerne-flavors-switzerland-luxury-day-tour/?ref=odbhodn",rating:4.6,description:"Operated by Myswisspanorama Hiking & Travel GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lucerne-flavors-switzerland-luxury-day-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6798,7 +6798,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-stanserhorn-train/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-stanserhorn-train/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lucerne-stanserhorn-train/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6823,7 +6823,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:35,student:60,adult:70,senior:63},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lakes-mountains-adventure-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:35,student:60,adult:70,senior:63},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lakes-mountains-adventure-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/lakes-mountains-adventure-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6848,7 +6848,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:178,student:302,adult:355,senior:320},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:178,student:302,adult:355,senior:320},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6873,7 +6873,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6898,7 +6898,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:85,student:144,adult:169,senior:152},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-interlaken-with-harder-kulm/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:85,student:144,adult:169,senior:152},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-interlaken-with-harder-kulm/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-interlaken-with-harder-kulm/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6923,7 +6923,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:48,student:81,adult:95,senior:86},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-hop-on-hop-off-tour-montreux-and-glacier-3000/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:48,student:81,adult:95,senior:86},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-hop-on-hop-off-tour-montreux-and-glacier-3000/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-hop-on-hop-off-tour-montreux-and-glacier-3000/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6948,7 +6948,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:118,student:200,adult:235,senior:212},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-coach-tour-to-interlaken-and-the-schilthorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:118,student:200,adult:235,senior:212},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-coach-tour-to-interlaken-and-the-schilthorn/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-coach-tour-to-interlaken-and-the-schilthorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6973,7 +6973,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:89,student:151,adult:178,senior:160},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-and-boat-tour-to-vevey-montreux-and-chillon-castle/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:89,student:151,adult:178,senior:160},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-and-boat-tour-to-vevey-montreux-and-chillon-castle/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-and-boat-tour-to-vevey-montreux-and-chillon-castle/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -6998,7 +6998,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-and-chocolate-factory/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-and-chocolate-factory/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-and-chocolate-factory/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7023,7 +7023,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:71,student:120,adult:141,senior:127},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-riviera-bus-tour-with-chaplin-s-world-montreux-and-chillon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:71,student:120,adult:141,senior:127},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-riviera-bus-tour-with-chaplin-s-world-montreux-and-chillon/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-riviera-bus-tour-with-chaplin-s-world-montreux-and-chillon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7048,7 +7048,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7073,7 +7073,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-day-trip-to-zermatt-with-views-of-the-matterhorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-day-trip-to-zermatt-with-views-of-the-matterhorn/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-lausanne-day-trip-to-zermatt-with-views-of-the-matterhorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7121,7 +7121,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Locationtours.ch",pricing:{child:145,student:247,adult:290,senior:261},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/culinary-sightseeing-tour-interlaken-by-bus/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Locationtours.ch"},
+      {name:"Locationtours.ch",pricing:{child:145,student:247,adult:290,senior:261},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/culinary-sightseeing-tour-interlaken-by-bus/?ref=odbhodn",rating:4.6,description:"Operated by Locationtours.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/culinary-sightseeing-tour-interlaken-by-bus/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7146,7 +7146,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Baselcitytour",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-gruyeres-colmar-hohkoenigsburg-ribeauville-basel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Baselcitytour"},
+      {name:"Baselcitytour",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-gruyeres-colmar-hohkoenigsburg-ribeauville-basel/?ref=odbhodn",rating:4.6,description:"Operated by Baselcitytour. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-gruyeres-colmar-hohkoenigsburg-ribeauville-basel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7171,7 +7171,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Baselcitytour",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Baselcitytour"},
+      {name:"Baselcitytour",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/?ref=odbhodn",rating:4.6,description:"Operated by Baselcitytour. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bustour-colmar-ribeauville-christmas-markets-basel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7196,7 +7196,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Baselcitytour",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-trip-from-basel-culture-and-delight-in-the-black-forest/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Baselcitytour"},
+      {name:"Baselcitytour",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-trip-from-basel-culture-and-delight-in-the-black-forest/?ref=odbhodn",rating:4.6,description:"Operated by Baselcitytour. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/bus-trip-from-basel-culture-and-delight-in-the-black-forest/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7267,7 +7267,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:48,student:81,adult:95,senior:86},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-montreux-glacier-3000-bus-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:48,student:81,adult:95,senior:86},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-montreux-glacier-3000-bus-tour/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/ab-montreux-glacier-3000-bus-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7292,7 +7292,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-montreux-day-trip-to-zermatt-with-a-view-of-the-matterhorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:78,student:132,adult:155,senior:140},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-montreux-day-trip-to-zermatt-with-a-view-of-the-matterhorn/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/from-montreux-day-trip-to-zermatt-with-a-view-of-the-matterhorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7340,7 +7340,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Der Natur auf der Spur",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/tracking-nature-including-picnic-on-the-move-with-charlotte-arnswald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Der Natur auf der Spur"},
+      {name:"Der Natur auf der Spur",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/tracking-nature-including-picnic-on-the-move-with-charlotte-arnswald/?ref=odbhodn",rating:4.6,description:"Operated by Der Natur auf der Spur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/day-trips/tracking-nature-including-picnic-on-the-move-with-charlotte-arnswald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7572,7 +7572,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Turicum Distillery",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/distillery/turicum-gin-lab/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Turicum Distillery"},
+      {name:"Turicum Distillery",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/distillery/turicum-gin-lab/?ref=odbhodn",rating:4.6,description:"Operated by Turicum Distillery. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/distillery/turicum-gin-lab/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7758,7 +7758,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/e-scooter/e-scooter-picnic-tour-graubunden-dominion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/e-scooter/e-scooter-picnic-tour-graubunden-dominion/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-scooter/e-scooter-picnic-tour-graubunden-dominion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7783,7 +7783,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-guided-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-guided-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-guided-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7808,7 +7808,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:110,student:186,adult:219,senior:197},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/e-bike-tour-to-lauterbrunnen-and-isenfluh/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:110,student:186,adult:219,senior:197},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/e-bike-tour-to-lauterbrunnen-and-isenfluh/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/e-bike-tour-to-lauterbrunnen-and-isenfluh/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7833,7 +7833,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/e-bike-tour-to-the-waterfalls-in-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/e-bike-tour-to-the-waterfalls-in-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/e-bike-tour-to-the-waterfalls-in-lauterbrunnen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7858,7 +7858,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Seek Adventure",pricing:{child:80,student:135,adult:159,senior:143},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772129893275-fxktx/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Seek Adventure"},
+      {name:"Seek Adventure",pricing:{child:80,student:135,adult:159,senior:143},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772129893275-fxktx/?ref=odbhodn",rating:4.6,description:"Operated by Seek Adventure. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772129893275-fxktx/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7883,7 +7883,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Seek Adventure",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772129737064-n4bup/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Seek Adventure"},
+      {name:"Seek Adventure",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772129737064-n4bup/?ref=odbhodn",rating:4.6,description:"Operated by Seek Adventure. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772129737064-n4bup/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7908,7 +7908,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Seek Adventure",pricing:{child:175,student:297,adult:349,senior:314},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772135553351-eeulp/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Seek Adventure"},
+      {name:"Seek Adventure",pricing:{child:175,student:297,adult:349,senior:314},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772135553351-eeulp/?ref=odbhodn",rating:4.6,description:"Operated by Seek Adventure. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/item-1772135553351-eeulp/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -7933,7 +7933,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Seek Adventure",pricing:{child:175,student:297,adult:349,senior:314},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/rosenlaui-valley-e-bike-tour-starting-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Seek Adventure"},
+      {name:"Seek Adventure",pricing:{child:175,student:297,adult:349,senior:314},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/rosenlaui-valley-e-bike-tour-starting-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Seek Adventure. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/rosenlaui-valley-e-bike-tour-starting-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8050,7 +8050,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Alpine Flow",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/custom-guided-e-bike-tour-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Alpine Flow"},
+      {name:"Alpine Flow",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/custom-guided-e-bike-tour-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Alpine Flow. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/custom-guided-e-bike-tour-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8098,7 +8098,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Loop Tours",pricing:{child:80,student:135,adult:159,senior:143},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/hidden-gems-lucerne-public-ebike-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Loop Tours"},
+      {name:"Loop Tours",pricing:{child:80,student:135,adult:159,senior:143},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/hidden-gems-lucerne-public-ebike-tour/?ref=odbhodn",rating:4.6,description:"Operated by Loop Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/hidden-gems-lucerne-public-ebike-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8123,7 +8123,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Geneva By E-Bike",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/geneva-ebike-tour-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Geneva By E-Bike"},
+      {name:"Geneva By E-Bike",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/geneva-ebike-tour-guided/?ref=odbhodn",rating:4.6,description:"Operated by Geneva By E-Bike. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/geneva-ebike-tour-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8148,7 +8148,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Geneva By E-Bike",pricing:{child:70,student:118,adult:139,senior:125},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/geneva-e-bike-tour-guided-panorama-old-town-and-watch-museum/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Geneva By E-Bike"},
+      {name:"Geneva By E-Bike",pricing:{child:70,student:118,adult:139,senior:125},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/geneva-e-bike-tour-guided-panorama-old-town-and-watch-museum/?ref=odbhodn",rating:4.6,description:"Operated by Geneva By E-Bike. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/geneva-e-bike-tour-guided-panorama-old-town-and-watch-museum/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8173,7 +8173,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:35,student:60,adult:70,senior:63},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/culinary-tour-b-ndner-herrschaft-by-e-bike/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:35,student:60,adult:70,senior:63},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/culinary-tour-b-ndner-herrschaft-by-e-bike/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/culinary-tour-b-ndner-herrschaft-by-e-bike/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8198,7 +8198,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-bad-ragaz-gps-treasure-hunt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-bad-ragaz-gps-treasure-hunt/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-bad-ragaz-gps-treasure-hunt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8223,7 +8223,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Les Celliers de Sion",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/self-guided-bike-tour-through-the-vineyard-including-picnic-starting-from-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Les Celliers de Sion"},
+      {name:"Les Celliers de Sion",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/self-guided-bike-tour-through-the-vineyard-including-picnic-starting-from-sion/?ref=odbhodn",rating:4.6,description:"Operated by Les Celliers de Sion. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/self-guided-bike-tour-through-the-vineyard-including-picnic-starting-from-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8248,7 +8248,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Les Celliers de Sion",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/self-guided-bike-tour-at-the-vineyard-including-a-meal-from-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Les Celliers de Sion"},
+      {name:"Les Celliers de Sion",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/self-guided-bike-tour-at-the-vineyard-including-a-meal-from-sion/?ref=odbhodn",rating:4.6,description:"Operated by Les Celliers de Sion. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/self-guided-bike-tour-at-the-vineyard-including-a-meal-from-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8273,7 +8273,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Zermatters",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-comfortable-evening-tour-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zermatters"},
+      {name:"Zermatters",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-comfortable-evening-tour-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Zermatters. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/ebike-comfortable-evening-tour-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8298,7 +8298,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Flims Laax Falera Management AG",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/culinary-trail-ebike/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flims Laax Falera Management AG"},
+      {name:"Flims Laax Falera Management AG",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/culinary-trail-ebike/?ref=odbhodn",rating:4.6,description:"Operated by Flims Laax Falera Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/e-bike/culinary-trail-ebike/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8484,7 +8484,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8509,7 +8509,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8856,7 +8856,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-st-gallen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-st-gallen/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-st-gallen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -8881,7 +8881,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-stgallen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-stgallen/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-stgallen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -9274,7 +9274,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Mission: Escape",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/sir-arthur-morgan-escape-game-zurich-city/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Mission: Escape"},
+      {name:"Mission: Escape",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/sir-arthur-morgan-escape-game-zurich-city/?ref=odbhodn",rating:4.6,description:"Operated by Mission: Escape. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/sir-arthur-morgan-escape-game-zurich-city/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -9299,7 +9299,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Mission: Escape",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/sir-arthur-morgan-escape-game-lake-zurich-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Mission: Escape"},
+      {name:"Mission: Escape",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/sir-arthur-morgan-escape-game-lake-zurich-tour/?ref=odbhodn",rating:4.6,description:"Operated by Mission: Escape. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/sir-arthur-morgan-escape-game-lake-zurich-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -9370,7 +9370,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"WOW Museum Zürich",pricing:{child:34,student:58,adult:68,senior:61},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/family-tour-wow-city-rally-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: WOW Museum Zürich"},
+      {name:"WOW Museum Zürich",pricing:{child:34,student:58,adult:68,senior:61},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/family-tour-wow-city-rally-zurich/?ref=odbhodn",rating:4.6,description:"Operated by WOW Museum Zürich. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/family-tour-wow-city-rally-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -9395,7 +9395,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zurich/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -9420,7 +9420,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zurich/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -9813,7 +9813,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-winterthur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-winterthur/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-winterthur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -9838,7 +9838,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-winterthur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-winterthur/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-winterthur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -10116,7 +10116,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-aarau/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-aarau/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-aarau/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -10141,7 +10141,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-aarau/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-aarau/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-aarau/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -10327,7 +10327,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-solothurn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-solothurn/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-solothurn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -10352,7 +10352,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-solothurn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-solothurn/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-solothurn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -10561,7 +10561,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-bern/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-bern/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-bern/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -10586,7 +10586,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-bern/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-bern/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-bern/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -10933,7 +10933,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zug/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zug/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zug/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -10958,7 +10958,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zug/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zug/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zug/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11075,7 +11075,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-basel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-basel/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-basel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11100,7 +11100,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-basel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-basel/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-basel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11263,7 +11263,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-chur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-chur/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-chur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11288,7 +11288,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-chur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-chur/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-chur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11405,7 +11405,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-thun/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-thun/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-thun/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11430,7 +11430,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-thun/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-thun/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-thun/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11570,7 +11570,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-schaffhausen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-schaffhausen/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-schaffhausen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11595,7 +11595,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-schaffhausen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-schaffhausen/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-schaffhausen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11758,7 +11758,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-geneva/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -11783,7 +11783,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-geneva/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12153,7 +12153,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-lausanne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-lausanne/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-lausanne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12178,7 +12178,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-lausanne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-lausanne/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-lausanne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12272,7 +12272,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-fribourg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-fribourg/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-fribourg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12297,7 +12297,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-fribourg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-fribourg/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-fribourg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12368,7 +12368,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-locarno/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-locarno/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-locarno/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12393,7 +12393,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-locarno/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-locarno/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-locarno/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12441,7 +12441,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-biel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-biel/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-biel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12466,7 +12466,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-biel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-biel/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-biel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12652,7 +12652,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-neuchatel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-neuchatel/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-neuchatel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12723,7 +12723,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"4wellbeing GmbH",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/black-out-adventure-game-adelboden/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: 4wellbeing GmbH"},
+      {name:"4wellbeing GmbH",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/black-out-adventure-game-adelboden/?ref=odbhodn",rating:4.6,description:"Operated by 4wellbeing GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/black-out-adventure-game-adelboden/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12748,7 +12748,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"4wellbeing GmbH",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/magic-portal-adventure-game-engstligenalp/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: 4wellbeing GmbH"},
+      {name:"4wellbeing GmbH",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/magic-portal-adventure-game-engstligenalp/?ref=odbhodn",rating:4.6,description:"Operated by 4wellbeing GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/magic-portal-adventure-game-engstligenalp/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12773,7 +12773,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"4wellbeing GmbH",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/operation-cheese-adventure-game-adelboden/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: 4wellbeing GmbH"},
+      {name:"4wellbeing GmbH",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/operation-cheese-adventure-game-adelboden/?ref=odbhodn",rating:4.6,description:"Operated by 4wellbeing GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/operation-cheese-adventure-game-adelboden/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12798,7 +12798,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-stmoritz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-stmoritz/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-stmoritz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12823,7 +12823,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-stmoritz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-stmoritz/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-stmoritz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12963,7 +12963,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-sion/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -12988,7 +12988,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-sion/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -13151,7 +13151,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-groom-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -13176,7 +13176,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"},
+      {name:"GAMEinMOTION GmbH",pricing:{child:150,student:254,adult:299,senior:269},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -13661,7 +13661,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: true,
     providers: [
-      {name:"4wellbeing GmbH",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/operation-mindfall-adventure-game-frutigen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: 4wellbeing GmbH"},
+      {name:"4wellbeing GmbH",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/operation-mindfall-adventure-game-frutigen/?ref=odbhodn",rating:4.6,description:"Operated by 4wellbeing GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/escape-room/operation-mindfall-adventure-game-frutigen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -13939,7 +13939,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"ELEVATE Gym SA",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitnesspass-day-pass-lausanne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: ELEVATE Gym SA"},
+      {name:"ELEVATE Gym SA",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitnesspass-day-pass-lausanne/?ref=odbhodn",rating:4.6,description:"Operated by ELEVATE Gym SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitnesspass-day-pass-lausanne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -13964,7 +13964,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"ELEVATE Gym SA",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/7-day-fitness-pass-elevate-gym-lausanne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: ELEVATE Gym SA"},
+      {name:"ELEVATE Gym SA",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/7-day-fitness-pass-elevate-gym-lausanne/?ref=odbhodn",rating:4.6,description:"Operated by ELEVATE Gym SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/fitness/7-day-fitness-pass-elevate-gym-lausanne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -13989,7 +13989,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"La Fée Clochette",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/interval-running-training-in-a-group-in-lausanne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: La Fée Clochette"},
+      {name:"La Fée Clochette",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/interval-running-training-in-a-group-in-lausanne/?ref=odbhodn",rating:4.6,description:"Operated by La Fée Clochette. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/fitness/interval-running-training-in-a-group-in-lausanne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14014,7 +14014,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Boddy",pricing:{child:12,student:20,adult:23,senior:21},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitness-pass-basic-15-days-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Boddy"},
+      {name:"Boddy",pricing:{child:12,student:20,adult:23,senior:21},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitness-pass-basic-15-days-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Boddy. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitness-pass-basic-15-days-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14039,7 +14039,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Boddy",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitness-pass-premium-30-days-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Boddy"},
+      {name:"Boddy",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitness-pass-premium-30-days-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Boddy. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/fitness/fitness-pass-premium-30-days-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14064,7 +14064,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"La Fée Clochette",pricing:{child:50,student:85,adult:100,senior:90},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/personal-training-in-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: La Fée Clochette"},
+      {name:"La Fée Clochette",pricing:{child:50,student:85,adult:100,senior:90},bookingUrl:"https://www.swissactivities.com/en-ch/fitness/personal-training-in-sion/?ref=odbhodn",rating:4.6,description:"Operated by La Fée Clochette. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/fitness/personal-training-in-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14089,7 +14089,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Surfschule Treibgut",pricing:{child:50,student:85,adult:100,senior:90},bookingUrl:"https://www.swissactivities.com/en-ch/wingsurfing-and-wing-foiling/foiling-with-a-motorboat-on-lake-constance/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Surfschule Treibgut"},
+      {name:"Surfschule Treibgut",pricing:{child:50,student:85,adult:100,senior:90},bookingUrl:"https://www.swissactivities.com/en-ch/wingsurfing-and-wing-foiling/foiling-with-a-motorboat-on-lake-constance/?ref=odbhodn",rating:4.6,description:"Operated by Surfschule Treibgut. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wingsurfing-and-wing-foiling/foiling-with-a-motorboat-on-lake-constance/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14114,7 +14114,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"eTukTuk Schweiz GmbH",pricing:{child:140,student:237,adult:279,senior:251},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuk-tuk-round-trip-with-cheese-fondue-and-wine-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Schweiz GmbH"},
+      {name:"eTukTuk Schweiz GmbH",pricing:{child:140,student:237,adult:279,senior:251},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuk-tuk-round-trip-with-cheese-fondue-and-wine-zurich/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Schweiz GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuk-tuk-round-trip-with-cheese-fondue-and-wine-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14139,7 +14139,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Zürich Tourismus",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/zurich-food-tour-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Tourismus"},
+      {name:"Zürich Tourismus",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/zurich-food-tour-guided/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/zurich-food-tour-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14164,7 +14164,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"eTukTuk Schweiz GmbH",pricing:{child:140,student:237,adult:279,senior:251},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/bbq-tuk-round-trip-through-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Schweiz GmbH"},
+      {name:"eTukTuk Schweiz GmbH",pricing:{child:140,student:237,adult:279,senior:251},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/bbq-tuk-round-trip-through-zurich/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Schweiz GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/bbq-tuk-round-trip-through-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14189,7 +14189,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Pub Crawl Zürich",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-nightlife-tour-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Pub Crawl Zürich"},
+      {name:"Pub Crawl Zürich",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-nightlife-tour-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Pub Crawl Zürich. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-nightlife-tour-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14214,7 +14214,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Pub Crawl Zürich",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-zuerich-polter-bachelor/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Pub Crawl Zürich"},
+      {name:"Pub Crawl Zürich",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-zuerich-polter-bachelor/?ref=odbhodn",rating:4.6,description:"Operated by Pub Crawl Zürich. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-zuerich-polter-bachelor/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14239,7 +14239,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Pub Crawl Zürich",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-zuerich-polter-bachelorette/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Pub Crawl Zürich"},
+      {name:"Pub Crawl Zürich",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-zuerich-polter-bachelorette/?ref=odbhodn",rating:4.6,description:"Operated by Pub Crawl Zürich. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/pub-crawl-zuerich-polter-bachelorette/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14264,7 +14264,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"K-Teashop",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tea-ceremony-omakase/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: K-Teashop"},
+      {name:"K-Teashop",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tea-ceremony-omakase/?ref=odbhodn",rating:4.6,description:"Operated by K-Teashop. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tea-ceremony-omakase/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14289,7 +14289,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"eTukTuk Schweiz GmbH",pricing:{child:130,student:220,adult:259,senior:233},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/wok-zurich-etuktuk-citytour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Schweiz GmbH"},
+      {name:"eTukTuk Schweiz GmbH",pricing:{child:130,student:220,adult:259,senior:233},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/wok-zurich-etuktuk-citytour/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Schweiz GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/wok-zurich-etuktuk-citytour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14314,7 +14314,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Dionysos Events",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/nightlife-pub-crawl-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Dionysos Events"},
+      {name:"Dionysos Events",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/nightlife-pub-crawl-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Dionysos Events. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/nightlife-pub-crawl-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14339,7 +14339,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schifffahrtsbetrieb Hensa AG",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/night-watchman-ship-zuerich-lake-rapperswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schifffahrtsbetrieb Hensa AG"},
+      {name:"Schifffahrtsbetrieb Hensa AG",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/night-watchman-ship-zuerich-lake-rapperswil/?ref=odbhodn",rating:4.6,description:"Operated by Schifffahrtsbetrieb Hensa AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/night-watchman-ship-zuerich-lake-rapperswil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14364,7 +14364,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"eTukTuk Luzern GmbH",pricing:{child:140,student:238,adult:280,senior:252},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/etuktuk-luzern-fondue-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Luzern GmbH"},
+      {name:"eTukTuk Luzern GmbH",pricing:{child:140,student:238,adult:280,senior:252},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/etuktuk-luzern-fondue-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Luzern GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/etuktuk-luzern-fondue-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14458,7 +14458,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schifffahrtsgesellschaft des Vierwaldstättersees (SGV) AG",pricing:{child:277,student:471,adult:554,senior:499},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/legends-five-course-menu-gallia-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schifffahrtsgesellschaft des Vierwaldstättersees (SGV) AG"},
+      {name:"Schifffahrtsgesellschaft des Vierwaldstättersees (SGV) AG",pricing:{child:277,student:471,adult:554,senior:499},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/legends-five-course-menu-gallia-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Schifffahrtsgesellschaft des Vierwaldstättersees (SGV) AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/legends-five-course-menu-gallia-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14506,7 +14506,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Momentized",pricing:{child:65,student:111,adult:130,senior:117},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/breakfast-picnic-seebodenalp/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Momentized"},
+      {name:"Momentized",pricing:{child:65,student:111,adult:130,senior:117},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/breakfast-picnic-seebodenalp/?ref=odbhodn",rating:4.6,description:"Operated by Momentized. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/breakfast-picnic-seebodenalp/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14554,7 +14554,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Momentized",pricing:{child:70,student:119,adult:140,senior:126},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/seebodenalp-family-picnic-chugelbahn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Momentized"},
+      {name:"Momentized",pricing:{child:70,student:119,adult:140,senior:126},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/seebodenalp-family-picnic-chugelbahn/?ref=odbhodn",rating:4.6,description:"Operated by Momentized. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/seebodenalp-family-picnic-chugelbahn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14579,7 +14579,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"CHOCOBERN Tours",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate-city-tour-in-bern/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: CHOCOBERN Tours"},
+      {name:"CHOCOBERN Tours",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate-city-tour-in-bern/?ref=odbhodn",rating:4.6,description:"Operated by CHOCOBERN Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate-city-tour-in-bern/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14604,7 +14604,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"4478 Events",pricing:{child:35,student:59,adult:69,senior:62},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/berner-apero-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: 4478 Events"},
+      {name:"4478 Events",pricing:{child:35,student:59,adult:69,senior:62},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/berner-apero-tour/?ref=odbhodn",rating:4.6,description:"Operated by 4478 Events. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/berner-apero-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14629,7 +14629,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"CHOCOBERN Tours",pricing:{child:33,student:55,adult:65,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate---schnapps-city-tour-in-bern/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: CHOCOBERN Tours"},
+      {name:"CHOCOBERN Tours",pricing:{child:33,student:55,adult:65,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate---schnapps-city-tour-in-bern/?ref=odbhodn",rating:4.6,description:"Operated by CHOCOBERN Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate---schnapps-city-tour-in-bern/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14677,7 +14677,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"WELO",pricing:{child:83,student:140,adult:165,senior:149},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate-tour-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: WELO"},
+      {name:"WELO",pricing:{child:83,student:140,adult:165,senior:149},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate-tour-geneva/?ref=odbhodn",rating:4.6,description:"Operated by WELO. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/chocolate-tour-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14702,7 +14702,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"WELO",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tuktuk-wine-tour-geneva-vineyards/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: WELO"},
+      {name:"WELO",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tuktuk-wine-tour-geneva-vineyards/?ref=odbhodn",rating:4.6,description:"Operated by WELO. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tuktuk-wine-tour-geneva-vineyards/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14727,7 +14727,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"WELO",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuktuk-fondue-tour-through-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: WELO"},
+      {name:"WELO",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuktuk-fondue-tour-through-geneva/?ref=odbhodn",rating:4.6,description:"Operated by WELO. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuktuk-fondue-tour-through-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14752,7 +14752,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"WELO",pricing:{child:118,student:200,adult:235,senior:212},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuktuk-wine-cheese-city-tour-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: WELO"},
+      {name:"WELO",pricing:{child:118,student:200,adult:235,senior:212},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuktuk-wine-cheese-city-tour-geneva/?ref=odbhodn",rating:4.6,description:"Operated by WELO. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-tuktuk-wine-cheese-city-tour-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14777,7 +14777,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Basel Tourismus",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/food-tour-basel-self-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Basel Tourismus"},
+      {name:"Basel Tourismus",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/food-tour-basel-self-guided/?ref=odbhodn",rating:4.6,description:"Operated by Basel Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/food-tour-basel-self-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14802,7 +14802,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Tours of Switzerland",pricing:{child:8,student:14,adult:16,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/basel-swiss-cheese-tasting/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Tours of Switzerland"},
+      {name:"Tours of Switzerland",pricing:{child:8,student:14,adult:16,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/basel-swiss-cheese-tasting/?ref=odbhodn",rating:4.6,description:"Operated by Tours of Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/basel-swiss-cheese-tasting/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14827,7 +14827,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Tours of Switzerland",pricing:{child:10,student:16,adult:19,senior:17},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/basel-swiss-chocolate-tasting/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Tours of Switzerland"},
+      {name:"Tours of Switzerland",pricing:{child:10,student:16,adult:19,senior:17},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/basel-swiss-chocolate-tasting/?ref=odbhodn",rating:4.6,description:"Operated by Tours of Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/basel-swiss-chocolate-tasting/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14852,7 +14852,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:37,student:63,adult:74,senior:67},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-tour-self-guided-chur-hohenweg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:37,student:63,adult:74,senior:67},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-tour-self-guided-chur-hohenweg/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-tour-self-guided-chur-hohenweg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14877,7 +14877,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: true,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:29,student:48,adult:57,senior:51},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-tour-self-guided--five-villages-by-e-bike/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:29,student:48,adult:57,senior:51},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-tour-self-guided--five-villages-by-e-bike/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-tour-self-guided--five-villages-by-e-bike/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14902,7 +14902,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:57,student:96,adult:113,senior:102},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/self-guided-enjoyment-hike-dreibuendenstein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:57,student:96,adult:113,senior:102},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/self-guided-enjoyment-hike-dreibuendenstein/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/self-guided-enjoyment-hike-dreibuendenstein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14927,7 +14927,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"4478 Events",pricing:{child:49,student:82,adult:97,senior:87},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tapas-tour-in-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: 4478 Events"},
+      {name:"4478 Events",pricing:{child:49,student:82,adult:97,senior:87},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tapas-tour-in-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by 4478 Events. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tapas-tour-in-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14952,7 +14952,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"4478 Events",pricing:{child:99,student:167,adult:197,senior:177},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-six-mountain-restaurants-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: 4478 Events"},
+      {name:"4478 Events",pricing:{child:99,student:167,adult:197,senior:177},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-six-mountain-restaurants-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by 4478 Events. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-six-mountain-restaurants-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -14977,7 +14977,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-5-lakes-picnic-on-the-pizol/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-5-lakes-picnic-on-the-pizol/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-5-lakes-picnic-on-the-pizol/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15002,7 +15002,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-garmil-pizol/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-garmil-pizol/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-garmil-pizol/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15027,7 +15027,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Saastal Tourismus AG",pricing:{child:33,student:55,adult:65,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/winter-hiking-raclette-saas-fee/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Saastal Tourismus AG"},
+      {name:"Saastal Tourismus AG",pricing:{child:33,student:55,adult:65,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/winter-hiking-raclette-saas-fee/?ref=odbhodn",rating:4.6,description:"Operated by Saastal Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/winter-hiking-raclette-saas-fee/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15052,7 +15052,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"St.Gallen-Bodensee Tourismus",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-city-tour-of-st-gallen-in-the-evening-self-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: St.Gallen-Bodensee Tourismus"},
+      {name:"St.Gallen-Bodensee Tourismus",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-city-tour-of-st-gallen-in-the-evening-self-guided/?ref=odbhodn",rating:4.6,description:"Operated by St.Gallen-Bodensee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-city-tour-of-st-gallen-in-the-evening-self-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15100,7 +15100,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:28,student:48,adult:56,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-panorama-high-trail-on-the-pizol/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:28,student:48,adult:56,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-panorama-high-trail-on-the-pizol/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/culinary-panorama-high-trail-on-the-pizol/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15171,7 +15171,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-bike-culinary-tour-at-lake-walen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-bike-culinary-tour-at-lake-walen/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-bike-culinary-tour-at-lake-walen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15196,7 +15196,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schaffhauserland Tourismus",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/schaffhausen-gourmet-trail-self-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schaffhauserland Tourismus"},
+      {name:"Schaffhauserland Tourismus",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/schaffhausen-gourmet-trail-self-guided/?ref=odbhodn",rating:4.6,description:"Operated by Schaffhauserland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/schaffhausen-gourmet-trail-self-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15221,7 +15221,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/guided-tour-alpine-dried-meat-craft/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Samnaun Val Müstair (Scuol)"},
+      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/guided-tour-alpine-dried-meat-craft/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Samnaun Val Müstair (Scuol). Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/guided-tour-alpine-dried-meat-craft/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15269,7 +15269,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schaffhauserland Tourismus",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/steinamrhein-gourmet-trail-selfguided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schaffhauserland Tourismus"},
+      {name:"Schaffhauserland Tourismus",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/steinamrhein-gourmet-trail-selfguided/?ref=odbhodn",rating:4.6,description:"Operated by Schaffhauserland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/steinamrhein-gourmet-trail-selfguided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15294,7 +15294,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"4478 Events",pricing:{child:35,student:59,adult:69,senior:62},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tapas-tour-visp/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: 4478 Events"},
+      {name:"4478 Events",pricing:{child:35,student:59,adult:69,senior:62},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tapas-tour-visp/?ref=odbhodn",rating:4.6,description:"Operated by 4478 Events. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/tapas-tour-visp/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15342,7 +15342,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-scooter-picnic-tour-lake-walen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:28,student:47,adult:55,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-scooter-picnic-tour-lake-walen/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/e-scooter-picnic-tour-lake-walen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15367,7 +15367,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Bergbahnen Malbun AG",pricing:{child:21,student:36,adult:42,senior:38},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/gourmet-chairlift-sareis-from-malbun/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bergbahnen Malbun AG"},
+      {name:"Bergbahnen Malbun AG",pricing:{child:21,student:36,adult:42,senior:38},bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/gourmet-chairlift-sareis-from-malbun/?ref=odbhodn",rating:4.6,description:"Operated by Bergbahnen Malbun AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/food-and-drink/gourmet-chairlift-sareis-from-malbun/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15415,7 +15415,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Golf",pricing:{child:2,student:3,adult:3,senior:3},bookingUrl:"https://www.swissactivities.com/en-ch/golf/golf-grindelwald-play-at-the-foot-of-the-eiger/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Golf"},
+      {name:"Golf",pricing:{child:2,student:3,adult:3,senior:3},bookingUrl:"https://www.swissactivities.com/en-ch/golf/golf-grindelwald-play-at-the-foot-of-the-eiger/?ref=odbhodn",rating:4.6,description:"Operated by Golf. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/golf/golf-grindelwald-play-at-the-foot-of-the-eiger/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15463,7 +15463,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-chur-incl--material-rental/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-chur-incl--material-rental/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-chur-incl--material-rental/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15511,7 +15511,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Fribourg Tourisme",pricing:{child:5,student:9,adult:10,senior:9},bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-fribourg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Fribourg Tourisme"},
+      {name:"Fribourg Tourisme",pricing:{child:5,student:9,adult:10,senior:9},bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-fribourg/?ref=odbhodn",rating:4.6,description:"Operated by Fribourg Tourisme. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-fribourg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15536,7 +15536,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Einsiedeln-Ybrig-Zürichsee AG",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-einsiedeln/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Einsiedeln-Ybrig-Zürichsee AG"},
+      {name:"Einsiedeln-Ybrig-Zürichsee AG",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-einsiedeln/?ref=odbhodn",rating:4.6,description:"Operated by Einsiedeln-Ybrig-Zürichsee AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/golf/urban-golf-in-einsiedeln/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15561,7 +15561,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Jungfraubahnen Management AG",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hiking-ticket-grindelwald-schreckfeld-with-the-firstbahn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jungfraubahnen Management AG"},
+      {name:"Jungfraubahnen Management AG",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hiking-ticket-grindelwald-schreckfeld-with-the-firstbahn/?ref=odbhodn",rating:4.6,description:"Operated by Jungfraubahnen Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hiking-ticket-grindelwald-schreckfeld-with-the-firstbahn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15586,7 +15586,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:155,student:264,adult:310,senior:279},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-grindelwald-private-hike-to-first-and-bachalpsee-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:155,student:264,adult:310,senior:279},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-grindelwald-private-hike-to-first-and-bachalpsee-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-grindelwald-private-hike-to-first-and-bachalpsee-with-a-swiss-triathlete/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15611,7 +15611,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Prime Mountain Sports",pricing:{child:213,student:361,adult:425,senior:383},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/titlis-glacier-adventure-guided-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Prime Mountain Sports"},
+      {name:"Prime Mountain Sports",pricing:{child:213,student:361,adult:425,senior:383},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/titlis-glacier-adventure-guided-tour/?ref=odbhodn",rating:4.6,description:"Operated by Prime Mountain Sports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/titlis-glacier-adventure-guided-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15636,7 +15636,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Prime Mountain Sports",pricing:{child:173,student:293,adult:345,senior:311},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/brunni-panoramaweg-wandern-gefuehrt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Prime Mountain Sports"},
+      {name:"Prime Mountain Sports",pricing:{child:173,student:293,adult:345,senior:311},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/brunni-panoramaweg-wandern-gefuehrt/?ref=odbhodn",rating:4.6,description:"Operated by Prime Mountain Sports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/brunni-panoramaweg-wandern-gefuehrt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15684,7 +15684,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"VicTours Adelboden",pricing:{child:30,student:51,adult:60,senior:54},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/adelboden-highlights-day-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: VicTours Adelboden"},
+      {name:"VicTours Adelboden",pricing:{child:30,student:51,adult:60,senior:54},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/adelboden-highlights-day-tour/?ref=odbhodn",rating:4.6,description:"Operated by VicTours Adelboden. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/adelboden-highlights-day-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15709,7 +15709,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:145,student:247,adult:290,senior:261},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-adelboden-private-hike-to-tschentenalp-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:145,student:247,adult:290,senior:261},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-adelboden-private-hike-to-tschentenalp-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-adelboden-private-hike-to-tschentenalp-with-a-swiss-triathlete/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15734,7 +15734,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-to-harder-kulm-with-swiss-triathlete-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-to-harder-kulm-with-swiss-triathlete-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-to-harder-kulm-with-swiss-triathlete-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15759,7 +15759,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Trekking Switzerland",pricing:{child:315,student:536,adult:630,senior:567},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/swiss-alps-guided-hike-to-hidden-gems/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Trekking Switzerland"},
+      {name:"Trekking Switzerland",pricing:{child:315,student:536,adult:630,senior:567},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/swiss-alps-guided-hike-to-hidden-gems/?ref=odbhodn",rating:4.6,description:"Operated by Trekking Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/swiss-alps-guided-hike-to-hidden-gems/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15784,7 +15784,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:155,student:264,adult:310,senior:279},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-interlaken-climb-the-augstmatthorn-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:155,student:264,adult:310,senior:279},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-interlaken-climb-the-augstmatthorn-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-interlaken-climb-the-augstmatthorn-with-a-swiss-triathlete/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15855,7 +15855,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:6,student:10,adult:12,senior:11},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-from-stechelberg-to-murren/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:6,student:10,adult:12,senior:11},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-from-stechelberg-to-murren/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-from-stechelberg-to-murren/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15880,7 +15880,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:3,student:5,adult:6,senior:5},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-from-gimmelwald-to-stechelberg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:3,student:5,adult:6,senior:5},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-from-gimmelwald-to-stechelberg/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-from-gimmelwald-to-stechelberg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15905,7 +15905,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:11,student:19,adult:22,senior:20},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/iltios-cable-car-unterwasser-chaserrugg-railway-in-toggenburg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:11,student:19,adult:22,senior:20},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/iltios-cable-car-unterwasser-chaserrugg-railway-in-toggenburg/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/iltios-cable-car-unterwasser-chaserrugg-railway-in-toggenburg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15930,7 +15930,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-sunnbuel-cable-car/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-sunnbuel-cable-car/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-sunnbuel-cable-car/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -15955,7 +15955,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-with-a-swiss-triathlete-from-kandersteg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-with-a-swiss-triathlete-from-kandersteg/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-with-a-swiss-triathlete-from-kandersteg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16026,7 +16026,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","winter"],
     indoor: true,
     providers: [
-      {name:"Jurapark Aargau",pricing:{child:50,student:85,adult:100,senior:90},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hike-linner-linde-to-museum-b-zberg-for-groups/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jurapark Aargau"},
+      {name:"Jurapark Aargau",pricing:{child:50,student:85,adult:100,senior:90},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hike-linner-linde-to-museum-b-zberg-for-groups/?ref=odbhodn",rating:4.6,description:"Operated by Jurapark Aargau. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hike-linner-linde-to-museum-b-zberg-for-groups/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16074,7 +16074,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:72,student:122,adult:144,senior:130},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/self-guided-pleasure-hike-from-brambr-esch-to-pradaschier/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:72,student:122,adult:144,senior:130},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/self-guided-pleasure-hike-from-brambr-esch-to-pradaschier/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/self-guided-pleasure-hike-from-brambr-esch-to-pradaschier/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16099,7 +16099,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"bergsportschule grischa GmbH",pricing:{child:563,student:956,adult:1125,senior:1013},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/2-day-tour-to-ringelspitz-3248-m-asl/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: bergsportschule grischa GmbH"},
+      {name:"bergsportschule grischa GmbH",pricing:{child:563,student:956,adult:1125,senior:1013},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/2-day-tour-to-ringelspitz-3248-m-asl/?ref=odbhodn",rating:4.6,description:"Operated by bergsportschule grischa GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/2-day-tour-to-ringelspitz-3248-m-asl/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16124,7 +16124,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:153,student:259,adult:305,senior:275},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-brienz-hike-up-to-the-brienzer-rothorn-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:153,student:259,adult:305,senior:275},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-brienz-hike-up-to-the-brienzer-rothorn-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-brienz-hike-up-to-the-brienzer-rothorn-with-a-swiss-triathlete/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16149,7 +16149,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/beaver-tour-in-bad-ragaz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/beaver-tour-in-bad-ragaz/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/beaver-tour-in-bad-ragaz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16174,7 +16174,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/bat-tour-bad-ragaz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/bat-tour-bad-ragaz/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/bat-tour-bad-ragaz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16199,7 +16199,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/discovery-set-play-experience-walensee/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/discovery-set-play-experience-walensee/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/discovery-set-play-experience-walensee/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16224,7 +16224,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hike-and-stone-deer-observation-in-engadin/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Samnaun Val Müstair (Scuol)"},
+      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hike-and-stone-deer-observation-in-engadin/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Samnaun Val Müstair (Scuol). Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/hike-and-stone-deer-observation-in-engadin/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16249,7 +16249,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/silver-mines-of-s-charl-in-the-engadine/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Samnaun Val Müstair (Scuol)"},
+      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/silver-mines-of-s-charl-in-the-engadine/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Samnaun Val Müstair (Scuol). Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/silver-mines-of-s-charl-in-the-engadine/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16274,7 +16274,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:145,student:247,adult:290,senior:261},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-alpnachstad-near-lucerne-a-private-hike-to-pilatus-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:145,student:247,adult:290,senior:261},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-alpnachstad-near-lucerne-a-private-hike-to-pilatus-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-alpnachstad-near-lucerne-a-private-hike-to-pilatus-with-a-swiss-triathlete/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16299,7 +16299,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Flims Laax Falera Management AG",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/culinary-hike-mountain-and-view-from-laax/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flims Laax Falera Management AG"},
+      {name:"Flims Laax Falera Management AG",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/culinary-hike-mountain-and-view-from-laax/?ref=odbhodn",rating:4.6,description:"Operated by Flims Laax Falera Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/culinary-hike-mountain-and-view-from-laax/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16347,7 +16347,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Honigberg.ch",pricing:{child:250,student:425,adult:500,senior:450},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/individual-guided-hike-uri/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Honigberg.ch"},
+      {name:"Honigberg.ch",pricing:{child:250,student:425,adult:500,senior:450},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/individual-guided-hike-uri/?ref=odbhodn",rating:4.6,description:"Operated by Honigberg.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/individual-guided-hike-uri/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16372,7 +16372,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Flims Laax Falera Management AG",pricing:{child:30,student:51,adult:60,senior:54},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/culinary-hike-forest-and-water-from-flims/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flims Laax Falera Management AG"},
+      {name:"Flims Laax Falera Management AG",pricing:{child:30,student:51,adult:60,senior:54},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/culinary-hike-forest-and-water-from-flims/?ref=odbhodn",rating:4.6,description:"Operated by Flims Laax Falera Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/culinary-hike-forest-and-water-from-flims/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16397,7 +16397,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:7,student:11,adult:13,senior:12},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/cable-car-ticket-niederrickenbach-ab-dallenwil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:7,student:11,adult:13,senior:12},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/cable-car-ticket-niederrickenbach-ab-dallenwil/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/cable-car-ticket-niederrickenbach-ab-dallenwil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16422,7 +16422,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:6,student:10,adult:12,senior:11},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/cable-car-ticket-wirzweli-from-dallenwil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:6,student:10,adult:12,senior:11},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/cable-car-ticket-wirzweli-from-dallenwil/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/cable-car-ticket-wirzweli-from-dallenwil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16447,7 +16447,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-on-pilatus-with-barbecue-experience/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-on-pilatus-with-barbecue-experience/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/guided-hike-on-pilatus-with-barbecue-experience/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16472,7 +16472,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Mutterkuh Schweiz",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/adventure-trail-lea-ben-mother-cows/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Mutterkuh Schweiz"},
+      {name:"Mutterkuh Schweiz",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/adventure-trail-lea-ben-mother-cows/?ref=odbhodn",rating:4.6,description:"Operated by Mutterkuh Schweiz. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/adventure-trail-lea-ben-mother-cows/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16497,7 +16497,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:8,student:14,adult:16,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/magglingenbahn-ticket-from-biel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:8,student:14,adult:16,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/magglingenbahn-ticket-from-biel/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/magglingenbahn-ticket-from-biel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16522,7 +16522,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-stockhuette-emmetten/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-stockhuette-emmetten/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-stockhuette-emmetten/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16570,7 +16570,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Skizentrum Elsigen-Metsch",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-cable-car-elsigen-metsch/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Skizentrum Elsigen-Metsch"},
+      {name:"Skizentrum Elsigen-Metsch",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-cable-car-elsigen-metsch/?ref=odbhodn",rating:4.6,description:"Operated by Skizentrum Elsigen-Metsch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-cable-car-elsigen-metsch/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16595,7 +16595,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Les Celliers de Sion",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/self-guided-gourmet-hike-through-the-vineyard-starting-from-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Les Celliers de Sion"},
+      {name:"Les Celliers de Sion",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/self-guided-gourmet-hike-through-the-vineyard-starting-from-sion/?ref=odbhodn",rating:4.6,description:"Operated by Les Celliers de Sion. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/self-guided-gourmet-hike-through-the-vineyard-starting-from-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16620,7 +16620,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:140,student:238,adult:280,senior:252},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-sigriswil-private-hike-to-sigriswiler-rothorn-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:140,student:238,adult:280,senior:252},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-sigriswil-private-hike-to-sigriswiler-rothorn-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-sigriswil-private-hike-to-sigriswiler-rothorn-with-a-swiss-triathlete/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16645,7 +16645,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Nicolas Reinmann",pricing:{child:145,student:247,adult:290,senior:261},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-spiez-private-hike-up-the-niesen-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nicolas Reinmann"},
+      {name:"Nicolas Reinmann",pricing:{child:145,student:247,adult:290,senior:261},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-spiez-private-hike-up-the-niesen-with-a-swiss-triathlete/?ref=odbhodn",rating:4.6,description:"Operated by Nicolas Reinmann. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/from-spiez-private-hike-up-the-niesen-with-a-swiss-triathlete/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16670,7 +16670,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:3,student:4,adult:5,senior:5},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/vinifuni-ticket-preles-ligerz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:3,student:4,adult:5,senior:5},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/vinifuni-ticket-preles-ligerz/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/vinifuni-ticket-preles-ligerz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16695,7 +16695,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/funicular-braunwald-ticket-linthal/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/funicular-braunwald-ticket-linthal/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/funicular-braunwald-ticket-linthal/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16720,7 +16720,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:6,student:9,adult:11,senior:10},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-seelisberg-railway-treib/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:6,student:9,adult:11,senior:10},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-seelisberg-railway-treib/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/ticket-seelisberg-railway-treib/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16745,7 +16745,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:4,student:6,adult:7,senior:6},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/bellwald-cable-car-gondola-fuergangen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:4,student:6,adult:7,senior:6},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/bellwald-cable-car-gondola-fuergangen/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/bellwald-cable-car-gondola-fuergangen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16770,7 +16770,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Mutterkuh Schweiz",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/experience-trail-luthern-lea-ben-mother-cows/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Mutterkuh Schweiz"},
+      {name:"Mutterkuh Schweiz",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/hiking/experience-trail-luthern-lea-ben-mother-cows/?ref=odbhodn",rating:4.6,description:"Operated by Mutterkuh Schweiz. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/hiking/experience-trail-luthern-lea-ben-mother-cows/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16841,7 +16841,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/indoor-amusement-park/indoor-ice-skating-in-summer-in-gstaad-and-rougemont-private-coaching/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: École Suisse de Ski et de Snowboard Rougemont Sàrl"},
+      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/indoor-amusement-park/indoor-ice-skating-in-summer-in-gstaad-and-rougemont-private-coaching/?ref=odbhodn",rating:4.6,description:"Operated by École Suisse de Ski et de Snowboard Rougemont Sàrl. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/indoor-amusement-park/indoor-ice-skating-in-summer-in-gstaad-and-rougemont-private-coaching/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -16981,7 +16981,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Adventure Point GmbH",pricing:{child:33,student:56,adult:66,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/canoe-rental-lake-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Adventure Point GmbH"},
+      {name:"Adventure Point GmbH",pricing:{child:33,student:56,adult:66,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/canoe-rental-lake-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Adventure Point GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/kayak/canoe-rental-lake-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17075,7 +17075,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Kanuwelt Buochs",pricing:{child:58,student:98,adult:115,senior:104},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/sea-kayak-tour-luzern-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Kanuwelt Buochs"},
+      {name:"Kanuwelt Buochs",pricing:{child:58,student:98,adult:115,senior:104},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/sea-kayak-tour-luzern-guided/?ref=odbhodn",rating:4.6,description:"Operated by Kanuwelt Buochs. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/kayak/sea-kayak-tour-luzern-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17100,7 +17100,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/canadian-boat-rides-in-gstaad-and-rougemont/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: École Suisse de Ski et de Snowboard Rougemont Sàrl"},
+      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/canadian-boat-rides-in-gstaad-and-rougemont/?ref=odbhodn",rating:4.6,description:"Operated by École Suisse de Ski et de Snowboard Rougemont Sàrl. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/kayak/canadian-boat-rides-in-gstaad-and-rougemont/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17125,7 +17125,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayaking-in-gstaad-and-rougemont/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: École Suisse de Ski et de Snowboard Rougemont Sàrl"},
+      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayaking-in-gstaad-and-rougemont/?ref=odbhodn",rating:4.6,description:"Operated by École Suisse de Ski et de Snowboard Rougemont Sàrl. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayaking-in-gstaad-and-rougemont/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17150,7 +17150,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Hightide Kayak School",pricing:{child:58,student:98,adult:115,senior:104},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayak-tour-summer-on-the-lake-of-brienz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Hightide Kayak School"},
+      {name:"Hightide Kayak School",pricing:{child:58,student:98,adult:115,senior:104},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayak-tour-summer-on-the-lake-of-brienz/?ref=odbhodn",rating:4.6,description:"Operated by Hightide Kayak School. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayak-tour-summer-on-the-lake-of-brienz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17198,7 +17198,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Following-John Sàrl",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/self-guided-kayak-tour-in-lavaux/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Following-John Sàrl"},
+      {name:"Following-John Sàrl",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/self-guided-kayak-tour-in-lavaux/?ref=odbhodn",rating:4.6,description:"Operated by Following-John Sàrl. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/kayak/self-guided-kayak-tour-in-lavaux/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17223,7 +17223,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Kanuschule Bodensee",pricing:{child:65,student:110,adult:129,senior:116},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/sea-kayak-basic-course-arbon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Kanuschule Bodensee"},
+      {name:"Kanuschule Bodensee",pricing:{child:65,student:110,adult:129,senior:116},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/sea-kayak-basic-course-arbon/?ref=odbhodn",rating:4.6,description:"Operated by Kanuschule Bodensee. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/kayak/sea-kayak-basic-course-arbon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17248,7 +17248,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Kayak-point.ch",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayak-rental-lake-thun/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Kayak-point.ch"},
+      {name:"Kayak-point.ch",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayak-rental-lake-thun/?ref=odbhodn",rating:4.6,description:"Operated by Kayak-point.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/kayak/kayak-rental-lake-thun/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17319,7 +17319,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Brunni-Bahnen Engelberg AG",pricing:{child:24,student:41,adult:48,senior:43},bookingUrl:"https://www.swissactivities.com/en-ch/lift-tickets/ski-ticket-brunni-and-klostermatte-in-engelberg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Brunni-Bahnen Engelberg AG"},
+      {name:"Brunni-Bahnen Engelberg AG",pricing:{child:24,student:41,adult:48,senior:43},bookingUrl:"https://www.swissactivities.com/en-ch/lift-tickets/ski-ticket-brunni-and-klostermatte-in-engelberg/?ref=odbhodn",rating:4.6,description:"Operated by Brunni-Bahnen Engelberg AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/lift-tickets/ski-ticket-brunni-and-klostermatte-in-engelberg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17344,7 +17344,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Weisse Arena Bergbahnen AG",pricing:{child:3,student:4,adult:5,senior:5},bookingUrl:"https://www.swissactivities.com/en-ch/lift-tickets/ski-pass-laax/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Weisse Arena Bergbahnen AG"},
+      {name:"Weisse Arena Bergbahnen AG",pricing:{child:3,student:4,adult:5,senior:5},bookingUrl:"https://www.swissactivities.com/en-ch/lift-tickets/ski-pass-laax/?ref=odbhodn",rating:4.6,description:"Operated by Weisse Arena Bergbahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/lift-tickets/ski-pass-laax/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17392,7 +17392,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Lama- & Alpakahof Triesenberg",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-taster-tour-liechtenstein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Lama- & Alpakahof Triesenberg"},
+      {name:"Lama- & Alpakahof Triesenberg",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-taster-tour-liechtenstein/?ref=odbhodn",rating:4.6,description:"Operated by Lama- & Alpakahof Triesenberg. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-taster-tour-liechtenstein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17417,7 +17417,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Lama- & Alpakahof Triesenberg",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-outdoor-fondue-liechtenstein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Lama- & Alpakahof Triesenberg"},
+      {name:"Lama- & Alpakahof Triesenberg",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-outdoor-fondue-liechtenstein/?ref=odbhodn",rating:4.6,description:"Operated by Lama- & Alpakahof Triesenberg. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-outdoor-fondue-liechtenstein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17442,7 +17442,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Lama- & Alpakahof Triesenberg",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-raclette-liechtenstein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Lama- & Alpakahof Triesenberg"},
+      {name:"Lama- & Alpakahof Triesenberg",pricing:{child:40,student:68,adult:80,senior:72},bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-raclette-liechtenstein/?ref=odbhodn",rating:4.6,description:"Operated by Lama- & Alpakahof Triesenberg. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-raclette-liechtenstein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17490,7 +17490,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Uelis-Stoeckli",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/family-lama-and-alpaca-trekking/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Uelis-Stoeckli"},
+      {name:"Uelis-Stoeckli",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/family-lama-and-alpaca-trekking/?ref=odbhodn",rating:4.6,description:"Operated by Uelis-Stoeckli. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/family-lama-and-alpaca-trekking/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17515,7 +17515,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Erlebniscenter GmbH",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/minigolf/blacklight-mini-golf-in-basel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Erlebniscenter GmbH"},
+      {name:"Erlebniscenter GmbH",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/minigolf/blacklight-mini-golf-in-basel/?ref=odbhodn",rating:4.6,description:"Operated by Erlebniscenter GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/minigolf/blacklight-mini-golf-in-basel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17540,7 +17540,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Rafters GmbH",pricing:{child:12,student:20,adult:23,senior:21},bookingUrl:"https://www.swissactivities.com/en-ch/monster-scooter/trottiplausch-with-optional-barbecue-kerenzerberg-groups/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rafters GmbH"},
+      {name:"Rafters GmbH",pricing:{child:12,student:20,adult:23,senior:21},bookingUrl:"https://www.swissactivities.com/en-ch/monster-scooter/trottiplausch-with-optional-barbecue-kerenzerberg-groups/?ref=odbhodn",rating:4.6,description:"Operated by Rafters GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/monster-scooter/trottiplausch-with-optional-barbecue-kerenzerberg-groups/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17565,7 +17565,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Hohsaas Bergbahnen AG",pricing:{child:10,student:16,adult:19,senior:17},bookingUrl:"https://www.swissactivities.com/en-ch/monster-scooter/saas-grund-monstertrotti-in-valais/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Hohsaas Bergbahnen AG"},
+      {name:"Hohsaas Bergbahnen AG",pricing:{child:10,student:16,adult:19,senior:17},bookingUrl:"https://www.swissactivities.com/en-ch/monster-scooter/saas-grund-monstertrotti-in-valais/?ref=odbhodn",rating:4.6,description:"Operated by Hohsaas Bergbahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/monster-scooter/saas-grund-monstertrotti-in-valais/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17613,7 +17613,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Mofun",pricing:{child:85,student:144,adult:169,senior:152},bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/rhine-falls-toeffli-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Mofun"},
+      {name:"Mofun",pricing:{child:85,student:144,adult:169,senior:152},bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/rhine-falls-toeffli-tour/?ref=odbhodn",rating:4.6,description:"Operated by Mofun. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/rhine-falls-toeffli-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17684,7 +17684,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"MX-Academy AG",pricing:{child:35,student:60,adult:70,senior:63},bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-taster-course-switzerland/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: MX-Academy AG"},
+      {name:"MX-Academy AG",pricing:{child:35,student:60,adult:70,senior:63},bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-taster-course-switzerland/?ref=odbhodn",rating:4.6,description:"Operated by MX-Academy AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-taster-course-switzerland/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17709,7 +17709,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"MX-Academy AG",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-course-halfday-switzerland/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: MX-Academy AG"},
+      {name:"MX-Academy AG",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-course-halfday-switzerland/?ref=odbhodn",rating:4.6,description:"Operated by MX-Academy AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-course-halfday-switzerland/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17734,7 +17734,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"MX-Academy AG",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-enduro-kids-switzerland/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: MX-Academy AG"},
+      {name:"MX-Academy AG",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-enduro-kids-switzerland/?ref=odbhodn",rating:4.6,description:"Operated by MX-Academy AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/motorbike/motocross-enduro-kids-switzerland/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17897,7 +17897,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"AlpineTrails",pricing:{child:270,student:458,adult:539,senior:485},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/zermatt-bike-day-guide-bike/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: AlpineTrails"},
+      {name:"AlpineTrails",pricing:{child:270,student:458,adult:539,senior:485},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/zermatt-bike-day-guide-bike/?ref=odbhodn",rating:4.6,description:"Operated by AlpineTrails. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/zermatt-bike-day-guide-bike/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17945,7 +17945,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Yellow Velo",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/bike-tour-winterlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Yellow Velo"},
+      {name:"Yellow Velo",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/bike-tour-winterlaken/?ref=odbhodn",rating:4.6,description:"Operated by Yellow Velo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/bike-tour-winterlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17970,7 +17970,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Yellow Velo",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/e-bike-tour-interlaken-valley-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Yellow Velo"},
+      {name:"Yellow Velo",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/e-bike-tour-interlaken-valley-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Yellow Velo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/e-bike-tour-interlaken-valley-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -17995,7 +17995,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bike Academy",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/fatbike-rental-davos/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bike Academy"},
+      {name:"Bike Academy",pricing:{child:110,student:187,adult:220,senior:198},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/fatbike-rental-davos/?ref=odbhodn",rating:4.6,description:"Operated by Bike Academy. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-bike/fatbike-rental-davos/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18066,7 +18066,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Zermatters",pricing:{child:113,student:191,adult:225,senior:203},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/breithorn-mountain-tour-zermatt-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zermatters"},
+      {name:"Zermatters",pricing:{child:113,student:191,adult:225,senior:203},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/breithorn-mountain-tour-zermatt-guided/?ref=odbhodn",rating:4.6,description:"Operated by Zermatters. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/breithorn-mountain-tour-zermatt-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18114,7 +18114,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Zermatters",pricing:{child:218,student:370,adult:435,senior:392},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/pollux-mountain-tour-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zermatters"},
+      {name:"Zermatters",pricing:{child:218,student:370,adult:435,senior:392},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/pollux-mountain-tour-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Zermatters. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/pollux-mountain-tour-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18139,7 +18139,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Zermatters",pricing:{child:48,student:81,adult:95,senior:86},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/plateau-rosa-easy-glacier-hike-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zermatters"},
+      {name:"Zermatters",pricing:{child:48,student:81,adult:95,senior:86},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/plateau-rosa-easy-glacier-hike-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Zermatters. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/plateau-rosa-easy-glacier-hike-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18164,7 +18164,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Zermatters",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/plateau-rosa-demanding-glacier-hike-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zermatters"},
+      {name:"Zermatters",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/plateau-rosa-demanding-glacier-hike-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Zermatters. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/plateau-rosa-demanding-glacier-hike-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18212,7 +18212,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"Zermatters",pricing:{child:180,student:306,adult:360,senior:324},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/monte-rosa-mountain-tour-zermatt-2-days/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zermatters"},
+      {name:"Zermatters",pricing:{child:180,student:306,adult:360,senior:324},bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/monte-rosa-mountain-tour-zermatt-2-days/?ref=odbhodn",rating:4.6,description:"Operated by Zermatters. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/mountain-tour/monte-rosa-mountain-tour-zermatt-2-days/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18237,7 +18237,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Unreal Adventures / Unseen Future",pricing:{child:1892,student:3216,adult:3784,senior:3406},bookingUrl:"https://www.swissactivities.com/en-ch/murder-mystery-dinner/unseen-future-classic-crime-dinner-for-large-groups-in-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Unreal Adventures / Unseen Future"},
+      {name:"Unreal Adventures / Unseen Future",pricing:{child:1892,student:3216,adult:3784,senior:3406},bookingUrl:"https://www.swissactivities.com/en-ch/murder-mystery-dinner/unseen-future-classic-crime-dinner-for-large-groups-in-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Unreal Adventures / Unseen Future. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/murder-mystery-dinner/unseen-future-classic-crime-dinner-for-large-groups-in-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18423,7 +18423,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"UNESCO-Welterbe Schweizer Alpen Jungfrau-Aletsch",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/museums/world-nature-forum-private-guided-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: UNESCO-Welterbe Schweizer Alpen Jungfrau-Aletsch"},
+      {name:"UNESCO-Welterbe Schweizer Alpen Jungfrau-Aletsch",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/museums/world-nature-forum-private-guided-tour/?ref=odbhodn",rating:4.6,description:"Operated by UNESCO-Welterbe Schweizer Alpen Jungfrau-Aletsch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museums/world-nature-forum-private-guided-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18448,7 +18448,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/museums/traditional-cheese-dairy-in-gstaad-and-rougemont-with-hiking/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: École Suisse de Ski et de Snowboard Rougemont Sàrl"},
+      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/museums/traditional-cheese-dairy-in-gstaad-and-rougemont-with-hiking/?ref=odbhodn",rating:4.6,description:"Operated by École Suisse de Ski et de Snowboard Rougemont Sàrl. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museums/traditional-cheese-dairy-in-gstaad-and-rougemont-with-hiking/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18473,7 +18473,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:11,student:19,adult:22,senior:20},bookingUrl:"https://www.swissactivities.com/en-ch/museums/guided-tour-cathedral-treasury-museum-chur-public/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:11,student:19,adult:22,senior:20},bookingUrl:"https://www.swissactivities.com/en-ch/museums/guided-tour-cathedral-treasury-museum-chur-public/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museums/guided-tour-cathedral-treasury-museum-chur-public/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18521,7 +18521,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/museums/guided-tour-of-heidis-home/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/museums/guided-tour-of-heidis-home/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museums/guided-tour-of-heidis-home/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18546,7 +18546,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Jura & Trois-Lacs | Drei-Seen-Land",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/museums/zenith-public-guided-le-locle/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jura & Trois-Lacs | Drei-Seen-Land"},
+      {name:"Jura & Trois-Lacs | Drei-Seen-Land",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/museums/zenith-public-guided-le-locle/?ref=odbhodn",rating:4.6,description:"Operated by Jura & Trois-Lacs | Drei-Seen-Land. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museums/zenith-public-guided-le-locle/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18617,7 +18617,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: true,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/natural-attractions/guided-tour-public-bad-pfaefers-tamina-gorge/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/natural-attractions/guided-tour-public-bad-pfaefers-tamina-gorge/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/natural-attractions/guided-tour-public-bad-pfaefers-tamina-gorge/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18665,7 +18665,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"AlpinAir Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-beatenberg-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: AlpinAir Paragliding"},
+      {name:"AlpinAir Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-beatenberg-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by AlpinAir Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-beatenberg-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18690,7 +18690,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Paragliding & Adventure GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-interlaken-all-year-from-beatenberg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Paragliding & Adventure GmbH"},
+      {name:"Swiss Paragliding & Adventure GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-interlaken-all-year-from-beatenberg/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Paragliding & Adventure GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-interlaken-all-year-from-beatenberg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18738,7 +18738,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Skywings",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-paragliding-flight-beatenberg-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Skywings"},
+      {name:"Skywings",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-paragliding-flight-beatenberg-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Skywings. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-paragliding-flight-beatenberg-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18763,7 +18763,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"BumbleBee Hang Gliding",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-delta-flight-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: BumbleBee Hang Gliding"},
+      {name:"BumbleBee Hang Gliding",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-delta-flight-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by BumbleBee Hang Gliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-delta-flight-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18811,7 +18811,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/davos-paragliding-tandem/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GOGREEN GmbH / Joyride Paragliding"},
+      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/davos-paragliding-tandem/?ref=odbhodn",rating:4.6,description:"Operated by GOGREEN GmbH / Joyride Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/davos-paragliding-tandem/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18836,7 +18836,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/early-bird-davos-paragliding/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/early-bird-davos-paragliding/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/early-bird-davos-paragliding/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18861,7 +18861,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:147,student:250,adult:294,senior:265},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-with-fondue-for-two-in-davos/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GOGREEN GmbH / Joyride Paragliding"},
+      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:147,student:250,adult:294,senior:265},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-with-fondue-for-two-in-davos/?ref=odbhodn",rating:4.6,description:"Operated by GOGREEN GmbH / Joyride Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-with-fondue-for-two-in-davos/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18886,7 +18886,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:180,student:306,adult:360,senior:324},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-half-day-in-davos/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GOGREEN GmbH / Joyride Paragliding"},
+      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:180,student:306,adult:360,senior:324},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-half-day-in-davos/?ref=odbhodn",rating:4.6,description:"Operated by GOGREEN GmbH / Joyride Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-half-day-in-davos/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18911,7 +18911,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-davos-tandem-flight-from-jakobshorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-davos-tandem-flight-from-jakobshorn/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-davos-tandem-flight-from-jakobshorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18959,7 +18959,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pure-adrenaline-paragliding-davos/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pure-adrenaline-paragliding-davos/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pure-adrenaline-paragliding-davos/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -18984,7 +18984,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-davos/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19009,7 +19009,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:135,student:230,adult:270,senior:243},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-flight-extra-airtime-davos/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:135,student:230,adult:270,senior:243},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-flight-extra-airtime-davos/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-flight-extra-airtime-davos/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19034,7 +19034,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/item-1766589431674-39jhc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/item-1766589431674-39jhc/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/item-1766589431674-39jhc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19059,7 +19059,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:180,student:306,adult:360,senior:324},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-private-pilot-klosters/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GOGREEN GmbH / Joyride Paragliding"},
+      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:180,student:306,adult:360,senior:324},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-private-pilot-klosters/?ref=odbhodn",rating:4.6,description:"Operated by GOGREEN GmbH / Joyride Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-private-pilot-klosters/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19084,7 +19084,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-klosters-tandem-flight-from-gotschnagrat/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-klosters-tandem-flight-from-gotschnagrat/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-klosters-tandem-flight-from-gotschnagrat/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19109,7 +19109,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/early-bird-klosters-paragliding/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/early-bird-klosters-paragliding/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/early-bird-klosters-paragliding/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19134,7 +19134,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pure-adrenaline-klosters-paragliding/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pure-adrenaline-klosters-paragliding/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pure-adrenaline-klosters-paragliding/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19159,7 +19159,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-klosters/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-klosters/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/half-day-paragliding-klosters/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19184,7 +19184,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:135,student:230,adult:270,senior:243},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-flight-extra-airtime-klosters/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:135,student:230,adult:270,senior:243},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-flight-extra-airtime-klosters/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-flight-extra-airtime-klosters/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19209,7 +19209,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Air Davos Paragliding",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/item-1766589902474-ghiqe/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Air Davos Paragliding"},
+      {name:"Air Davos Paragliding",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/item-1766589902474-ghiqe/?ref=odbhodn",rating:4.6,description:"Operated by Air Davos Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/item-1766589902474-ghiqe/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19234,7 +19234,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Freeminds",pricing:{child:113,student:191,adult:225,senior:203},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rigi-paragliding-tandem-flight-arth-goldau/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freeminds"},
+      {name:"Freeminds",pricing:{child:113,student:191,adult:225,senior:203},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rigi-paragliding-tandem-flight-arth-goldau/?ref=odbhodn",rating:4.6,description:"Operated by Freeminds. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rigi-paragliding-tandem-flight-arth-goldau/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19259,7 +19259,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Paragliding",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rigi-panorama-tandem-paragliding-flight/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Paragliding"},
+      {name:"Zürich Paragliding",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rigi-panorama-tandem-paragliding-flight/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rigi-panorama-tandem-paragliding-flight/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19284,7 +19284,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"touch and go Paragliding GmbH",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/taster-day-paragliding-lesson-in-goldau/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: touch and go Paragliding GmbH"},
+      {name:"touch and go Paragliding GmbH",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/taster-day-paragliding-lesson-in-goldau/?ref=odbhodn",rating:4.6,description:"Operated by touch and go Paragliding GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/taster-day-paragliding-lesson-in-goldau/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19309,7 +19309,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"touch and go Paragliding GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/experience-tandem-flight-central-switzerland/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: touch and go Paragliding GmbH"},
+      {name:"touch and go Paragliding GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/experience-tandem-flight-central-switzerland/?ref=odbhodn",rating:4.6,description:"Operated by touch and go Paragliding GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/experience-tandem-flight-central-switzerland/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19334,7 +19334,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"SkyGlide Paragliding Lake Lucerne GmbH",pricing:{child:93,student:157,adult:185,senior:167},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/niederbauen-emmetten-paragliding-tandem-wheelchair/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SkyGlide Paragliding Lake Lucerne GmbH"},
+      {name:"SkyGlide Paragliding Lake Lucerne GmbH",pricing:{child:93,student:157,adult:185,senior:167},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/niederbauen-emmetten-paragliding-tandem-wheelchair/?ref=odbhodn",rating:4.6,description:"Operated by SkyGlide Paragliding Lake Lucerne GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/niederbauen-emmetten-paragliding-tandem-wheelchair/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19359,7 +19359,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"CAP Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-niederbauen-at-lake-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: CAP Paragliding"},
+      {name:"CAP Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-niederbauen-at-lake-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by CAP Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-niederbauen-at-lake-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19384,7 +19384,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/emmetten-tandem-paragliding-on-lake-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Paragliding"},
+      {name:"Zürich Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/emmetten-tandem-paragliding-on-lake-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/emmetten-tandem-paragliding-on-lake-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19409,7 +19409,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"SkyGlide Paragliding Lake Lucerne GmbH",pricing:{child:123,student:208,adult:245,senior:221},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-thermal-flight-luzern/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SkyGlide Paragliding Lake Lucerne GmbH"},
+      {name:"SkyGlide Paragliding Lake Lucerne GmbH",pricing:{child:123,student:208,adult:245,senior:221},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-thermal-flight-luzern/?ref=odbhodn",rating:4.6,description:"Operated by SkyGlide Paragliding Lake Lucerne GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-thermal-flight-luzern/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19434,7 +19434,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Paragliding",pricing:{child:140,student:238,adult:280,senior:252},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pilatus-paragliding-tandem-from-kriens/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Paragliding"},
+      {name:"Zürich Paragliding",pricing:{child:140,student:238,adult:280,senior:252},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pilatus-paragliding-tandem-from-kriens/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pilatus-paragliding-tandem-from-kriens/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19459,7 +19459,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Freeminds",pricing:{child:133,student:225,adult:265,senior:239},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pilatus-paragliding-tandem-flight-kriens/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freeminds"},
+      {name:"Freeminds",pricing:{child:133,student:225,adult:265,senior:239},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pilatus-paragliding-tandem-flight-kriens/?ref=odbhodn",rating:4.6,description:"Operated by Freeminds. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/pilatus-paragliding-tandem-flight-kriens/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19484,7 +19484,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"CAP Paragliding",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-pilatus/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: CAP Paragliding"},
+      {name:"CAP Paragliding",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-pilatus/?ref=odbhodn",rating:4.6,description:"Operated by CAP Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-pilatus/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19509,7 +19509,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Freeminds",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/trial-tandem-flight-paragliding-kriens/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freeminds"},
+      {name:"Freeminds",pricing:{child:90,student:153,adult:180,senior:162},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/trial-tandem-flight-paragliding-kriens/?ref=odbhodn",rating:4.6,description:"Operated by Freeminds. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/trial-tandem-flight-paragliding-kriens/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19534,7 +19534,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Alpstein Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-experience-in-alpstein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Alpstein Paragliding"},
+      {name:"Alpstein Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-experience-in-alpstein/?ref=odbhodn",rating:4.6,description:"Operated by Alpstein Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-experience-in-alpstein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19559,7 +19559,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Alpstein Paragliding",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-paragliding-30-min-in-the-alpstein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Alpstein Paragliding"},
+      {name:"Alpstein Paragliding",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-paragliding-30-min-in-the-alpstein/?ref=odbhodn",rating:4.6,description:"Operated by Alpstein Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-paragliding-30-min-in-the-alpstein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19584,7 +19584,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Alpstein Paragliding",pricing:{child:160,student:272,adult:320,senior:288},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-paragliding-flight-60-min-in-alpstein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Alpstein Paragliding"},
+      {name:"Alpstein Paragliding",pricing:{child:160,student:272,adult:320,senior:288},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-paragliding-flight-60-min-in-alpstein/?ref=odbhodn",rating:4.6,description:"Operated by Alpstein Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/thermal-paragliding-flight-60-min-in-alpstein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19609,7 +19609,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"CAP Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-engelberg-brunni/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: CAP Paragliding"},
+      {name:"CAP Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-engelberg-brunni/?ref=odbhodn",rating:4.6,description:"Operated by CAP Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-engelberg-brunni/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19634,7 +19634,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Freeminds",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/engelberg-paragliding-tandem-flight/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freeminds"},
+      {name:"Freeminds",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/engelberg-paragliding-tandem-flight/?ref=odbhodn",rating:4.6,description:"Operated by Freeminds. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/engelberg-paragliding-tandem-flight/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19659,7 +19659,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Paragliding",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/brunni-engelberg-panorama-tandem-paragliding-flight/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Paragliding"},
+      {name:"Zürich Paragliding",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/brunni-engelberg-panorama-tandem-paragliding-flight/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/brunni-engelberg-panorama-tandem-paragliding-flight/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19684,7 +19684,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"birdlike hang gliding",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/stanserhorn-tandem-hang-gliding-flight/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: birdlike hang gliding"},
+      {name:"birdlike hang gliding",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/stanserhorn-tandem-hang-gliding-flight/?ref=odbhodn",rating:4.6,description:"Operated by birdlike hang gliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/stanserhorn-tandem-hang-gliding-flight/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19709,7 +19709,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Switzerland Paragliding GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Switzerland Paragliding GmbH"},
+      {name:"Switzerland Paragliding GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/?ref=odbhodn",rating:4.6,description:"Operated by Switzerland Paragliding GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-engelberg-valley-stans/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19734,7 +19734,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Switzerland Paragliding GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-lake-lucerne-emmetten-stans/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Switzerland Paragliding GmbH"},
+      {name:"Switzerland Paragliding GmbH",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-lake-lucerne-emmetten-stans/?ref=odbhodn",rating:4.6,description:"Operated by Switzerland Paragliding GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-lake-lucerne-emmetten-stans/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19759,7 +19759,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Airtime Paragliding",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/lauterbrunnen-valley-paragliding-tandem-flight-from-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Airtime Paragliding"},
+      {name:"Airtime Paragliding",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/lauterbrunnen-valley-paragliding-tandem-flight-from-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Operated by Airtime Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/lauterbrunnen-valley-paragliding-tandem-flight-from-lauterbrunnen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19784,7 +19784,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Switzerland Paragliding GmbH",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-lauterbrunnen-valley-muerren/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Switzerland Paragliding GmbH"},
+      {name:"Switzerland Paragliding GmbH",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-lauterbrunnen-valley-muerren/?ref=odbhodn",rating:4.6,description:"Operated by Switzerland Paragliding GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-lauterbrunnen-valley-muerren/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19809,7 +19809,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"TipTopTours GmbH",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: TipTopTours GmbH"},
+      {name:"TipTopTours GmbH",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by TipTopTours GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19834,7 +19834,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Matterhorn Paragliding",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/matterhorn-paragliding-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Matterhorn Paragliding"},
+      {name:"Matterhorn Paragliding",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/matterhorn-paragliding-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Matterhorn Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/matterhorn-paragliding-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19859,7 +19859,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Zürich Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/urmiberg-tandem-paragliding-lake-lucerne-region/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Paragliding"},
+      {name:"Zürich Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/urmiberg-tandem-paragliding-lake-lucerne-region/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/urmiberg-tandem-paragliding-lake-lucerne-region/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19884,7 +19884,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Paragliding",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/fronalpstock-panorama-tandem-paragliding-flight/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Paragliding"},
+      {name:"Zürich Paragliding",pricing:{child:130,student:221,adult:260,senior:234},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/fronalpstock-panorama-tandem-paragliding-flight/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/fronalpstock-panorama-tandem-paragliding-flight/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19909,7 +19909,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"RevolutionAir",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-monte-tamaro/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: RevolutionAir"},
+      {name:"RevolutionAir",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-monte-tamaro/?ref=odbhodn",rating:4.6,description:"Operated by RevolutionAir. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-monte-tamaro/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19934,7 +19934,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Flug Taxi",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-from-fiesch-in-valais/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flug Taxi"},
+      {name:"Flug Taxi",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-from-fiesch-in-valais/?ref=odbhodn",rating:4.6,description:"Operated by Flug Taxi. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-from-fiesch-in-valais/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19959,7 +19959,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Flug Taxi",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-for-children-from-fiesch-in-valais/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flug Taxi"},
+      {name:"Flug Taxi",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-for-children-from-fiesch-in-valais/?ref=odbhodn",rating:4.6,description:"Operated by Flug Taxi. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-for-children-from-fiesch-in-valais/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -19984,7 +19984,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Fly-Xperience.com",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-paragliding-near-montreux/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Fly-Xperience.com"},
+      {name:"Fly-Xperience.com",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-paragliding-near-montreux/?ref=odbhodn",rating:4.6,description:"Operated by Fly-Xperience.com. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/tandem-paragliding-near-montreux/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20009,7 +20009,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Skypassion - Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-riviera-villeneuve/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Skypassion - Paragliding"},
+      {name:"Skypassion - Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-riviera-villeneuve/?ref=odbhodn",rating:4.6,description:"Operated by Skypassion - Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-riviera-villeneuve/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20034,7 +20034,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Freeminds",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/lucerne-paragliding-tandem-flight-kriens/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freeminds"},
+      {name:"Freeminds",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/lucerne-paragliding-tandem-flight-kriens/?ref=odbhodn",rating:4.6,description:"Operated by Freeminds. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/lucerne-paragliding-tandem-flight-kriens/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20059,7 +20059,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"CAP Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-at-zugerberg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: CAP Paragliding"},
+      {name:"CAP Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-at-zugerberg/?ref=odbhodn",rating:4.6,description:"Operated by CAP Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-at-zugerberg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20084,7 +20084,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rothenfluh-tandem-paragliding-mythen-region/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Paragliding"},
+      {name:"Zürich Paragliding",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rothenfluh-tandem-paragliding-mythen-region/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rothenfluh-tandem-paragliding-mythen-region/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20109,7 +20109,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Verbier Summits Sarl",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/verbier-paragliding-tandem/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Verbier Summits Sarl"},
+      {name:"Verbier Summits Sarl",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/verbier-paragliding-tandem/?ref=odbhodn",rating:4.6,description:"Operated by Verbier Summits Sarl. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/verbier-paragliding-tandem/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20134,7 +20134,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"CAP Paragliding",pricing:{child:88,student:149,adult:175,senior:158},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-from-bulach-to-engelberg-valley/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: CAP Paragliding"},
+      {name:"CAP Paragliding",pricing:{child:88,student:149,adult:175,senior:158},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-from-bulach-to-engelberg-valley/?ref=odbhodn",rating:4.6,description:"Operated by CAP Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-from-bulach-to-engelberg-valley/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20159,7 +20159,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Flugschule Airvolution",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rosswald-valais-paragliding-tandem-flight/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flugschule Airvolution"},
+      {name:"Flugschule Airvolution",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rosswald-valais-paragliding-tandem-flight/?ref=odbhodn",rating:4.6,description:"Operated by Flugschule Airvolution. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/rosswald-valais-paragliding-tandem-flight/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20184,7 +20184,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/flums-paragliding-tandem/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GOGREEN GmbH / Joyride Paragliding"},
+      {name:"GOGREEN GmbH / Joyride Paragliding",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/flums-paragliding-tandem/?ref=odbhodn",rating:4.6,description:"Operated by GOGREEN GmbH / Joyride Paragliding. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/flums-paragliding-tandem/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20209,7 +20209,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Flugschule Airvolution",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/riederalp-valais-paragliding-tandem-flight/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flugschule Airvolution"},
+      {name:"Flugschule Airvolution",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/riederalp-valais-paragliding-tandem-flight/?ref=odbhodn",rating:4.6,description:"Operated by Flugschule Airvolution. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/riederalp-valais-paragliding-tandem-flight/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20234,7 +20234,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Flugschule Airvolution",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-in-summer-from-belalp-in-valais/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flugschule Airvolution"},
+      {name:"Flugschule Airvolution",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-in-summer-from-belalp-in-valais/?ref=odbhodn",rating:4.6,description:"Operated by Flugschule Airvolution. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-in-summer-from-belalp-in-valais/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20259,7 +20259,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Chabl'évasion",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/discovery-flight-paragliding-villars-sur-ollon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chabl'évasion"},
+      {name:"Chabl'évasion",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/discovery-flight-paragliding-villars-sur-ollon/?ref=odbhodn",rating:4.6,description:"Operated by Chabl'évasion. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/discovery-flight-paragliding-villars-sur-ollon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20284,7 +20284,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"Paragliding Engadin GmbH",pricing:{child:160,student:272,adult:320,senior:288},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/engadin-paragliding-great-extras/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Paragliding Engadin GmbH"},
+      {name:"Paragliding Engadin GmbH",pricing:{child:160,student:272,adult:320,senior:288},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/engadin-paragliding-great-extras/?ref=odbhodn",rating:4.6,description:"Operated by Paragliding Engadin GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/engadin-paragliding-great-extras/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20309,7 +20309,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"YA-FLY-TO-SKY",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-at-schwarzsee/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: YA-FLY-TO-SKY"},
+      {name:"YA-FLY-TO-SKY",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-at-schwarzsee/?ref=odbhodn",rating:4.6,description:"Operated by YA-FLY-TO-SKY. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-flight-at-schwarzsee/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20334,7 +20334,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Passenger Diaries Switzerland Tours & Experiences",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-for-beginners-in-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Passenger Diaries Switzerland Tours & Experiences"},
+      {name:"Passenger Diaries Switzerland Tours & Experiences",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-for-beginners-in-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Passenger Diaries Switzerland Tours & Experiences. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-for-beginners-in-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20359,7 +20359,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Passenger Diaries Switzerland Tours & Experiences",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-for-advanced-in-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Passenger Diaries Switzerland Tours & Experiences"},
+      {name:"Passenger Diaries Switzerland Tours & Experiences",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-for-advanced-in-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Passenger Diaries Switzerland Tours & Experiences. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-for-advanced-in-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20384,7 +20384,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Passenger Diaries Switzerland Tours & Experiences",pricing:{child:179,student:304,adult:358,senior:322},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-beginners-two-days-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Passenger Diaries Switzerland Tours & Experiences"},
+      {name:"Passenger Diaries Switzerland Tours & Experiences",pricing:{child:179,student:304,adult:358,senior:322},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-beginners-two-days-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Passenger Diaries Switzerland Tours & Experiences. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-beginners-two-days-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20409,7 +20409,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Passenger Diaries Switzerland Tours & Experiences",pricing:{child:125,student:212,adult:249,senior:224},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-evening-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Passenger Diaries Switzerland Tours & Experiences"},
+      {name:"Passenger Diaries Switzerland Tours & Experiences",pricing:{child:125,student:212,adult:249,senior:224},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-evening-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Passenger Diaries Switzerland Tours & Experiences. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/photography-course-evening-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20434,7 +20434,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Hemmi.Photo",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-photography-course-in-engadin/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Hemmi.Photo"},
+      {name:"Hemmi.Photo",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-photography-course-in-engadin/?ref=odbhodn",rating:4.6,description:"Operated by Hemmi.Photo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-photography-course-in-engadin/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20459,7 +20459,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Hemmi.Photo",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-course-on-photographing-ibex-in-the-engadin/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Hemmi.Photo"},
+      {name:"Hemmi.Photo",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-course-on-photographing-ibex-in-the-engadin/?ref=odbhodn",rating:4.6,description:"Operated by Hemmi.Photo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-course-on-photographing-ibex-in-the-engadin/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20484,7 +20484,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Hemmi.Photo",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-course-photographing-larch-magic-in-the-engadin/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Hemmi.Photo"},
+      {name:"Hemmi.Photo",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-course-photographing-larch-magic-in-the-engadin/?ref=odbhodn",rating:4.6,description:"Operated by Hemmi.Photo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/photo-course/private-course-photographing-larch-magic-in-the-engadin/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20509,7 +20509,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:46,student:78,adult:92,senior:83},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/palm-express-postbus-ticket-stmoritz-lugano/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:46,student:78,adult:92,senior:83},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/palm-express-postbus-ticket-stmoritz-lugano/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/palm-express-postbus-ticket-stmoritz-lugano/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20534,7 +20534,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:24,student:41,adult:48,senior:43},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/day-trip-soglio-maloja-pass-st-moritz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:24,student:41,adult:48,senior:43},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/day-trip-soglio-maloja-pass-st-moritz/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/day-trip-soglio-maloja-pass-st-moritz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20559,7 +20559,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:28,student:48,adult:56,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/postbus-ticket-chur-bellinzona/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:28,student:48,adult:56,senior:50},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/postbus-ticket-chur-bellinzona/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/postbus-ticket-chur-bellinzona/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20584,7 +20584,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/julier-postbus-pass-ride-chur-stmoritz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/julier-postbus-pass-ride-chur-stmoritz/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/julier-postbus-pass-ride-chur-stmoritz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20609,7 +20609,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:38,student:64,adult:75,senior:68},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/grimsel-nufenen-postbus-pass-meiringen-airolo/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:38,student:64,adult:75,senior:68},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/grimsel-nufenen-postbus-pass-meiringen-airolo/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/grimsel-nufenen-postbus-pass-meiringen-airolo/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20634,7 +20634,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:27,student:46,adult:54,senior:49},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/susten-postbus-pass-ride-andermatt-meiringen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:27,student:46,adult:54,senior:49},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/susten-postbus-pass-ride-andermatt-meiringen/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/susten-postbus-pass-ride-andermatt-meiringen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20659,7 +20659,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:16,student:26,adult:31,senior:28},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/fluela-pass-postbus-trip-from-davos-or-susch/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:16,student:26,adult:31,senior:28},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/fluela-pass-postbus-trip-from-davos-or-susch/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/fluela-pass-postbus-trip-from-davos-or-susch/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20684,7 +20684,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:22,student:37,adult:43,senior:39},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/simplon-pass-postbus-from-brig-or-domodossola/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:22,student:37,adult:43,senior:39},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/simplon-pass-postbus-from-brig-or-domodossola/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/simplon-pass-postbus-from-brig-or-domodossola/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20709,7 +20709,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/lukmanier-postbus-pass-ride-disentis/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/lukmanier-postbus-pass-ride-disentis/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/lukmanier-postbus-pass-ride-disentis/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20734,7 +20734,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:24,student:41,adult:48,senior:43},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/ticket-steepest-postbus-ride-griesalp-reichenbach/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:24,student:41,adult:48,senior:43},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/ticket-steepest-postbus-ride-griesalp-reichenbach/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/ticket-steepest-postbus-ride-griesalp-reichenbach/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20759,7 +20759,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:12,student:20,adult:24,senior:22},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/val-sinestra-postbus-ticket-scuol/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:12,student:20,adult:24,senior:22},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/val-sinestra-postbus-ticket-scuol/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/val-sinestra-postbus-ticket-scuol/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20784,7 +20784,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/gotthard-postbus-pass-trip-andermatt-airolo/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/gotthard-postbus-pass-trip-andermatt-airolo/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/gotthard-postbus-pass-trip-andermatt-airolo/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20809,7 +20809,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/stelvio-line-postbus-muestair-tirano/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/stelvio-line-postbus-muestair-tirano/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/stelvio-line-postbus-muestair-tirano/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20834,7 +20834,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:12,student:20,adult:23,senior:21},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/derborence-valley-postauto-day-trip-from-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:12,student:20,adult:23,senior:21},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/derborence-valley-postauto-day-trip-from-sion/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/derborence-valley-postauto-day-trip-from-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20859,7 +20859,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:24,student:40,adult:47,senior:42},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/nufenen-postbus-pass-ride-airolo-oberwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:24,student:40,adult:47,senior:42},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/nufenen-postbus-pass-ride-airolo-oberwald/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/nufenen-postbus-pass-ride-airolo-oberwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20884,7 +20884,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/avers-juf-postbus-ticket-andeer/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/avers-juf-postbus-ticket-andeer/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/avers-juf-postbus-ticket-andeer/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -20909,7 +20909,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/jurapark-aargau-postauto-trip-from-brugg-to-aarau/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/postbus/jurapark-aargau-postauto-trip-from-brugg-to-aarau/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/postbus/jurapark-aargau-postauto-trip-from-brugg-to-aarau/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21256,7 +21256,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Roadster4rent.ch",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770730649627-iqb4z/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Roadster4rent.ch"},
+      {name:"Roadster4rent.ch",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770730649627-iqb4z/?ref=odbhodn",rating:4.6,description:"Operated by Roadster4rent.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770730649627-iqb4z/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21281,7 +21281,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Roadster4rent.ch",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/quad/maggiatal-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Roadster4rent.ch"},
+      {name:"Roadster4rent.ch",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/quad/maggiatal-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",rating:4.6,description:"Operated by Roadster4rent.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/quad/maggiatal-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21306,7 +21306,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Roadster4rent.ch",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/quad/locarno-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Roadster4rent.ch"},
+      {name:"Roadster4rent.ch",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/quad/locarno-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",rating:4.6,description:"Operated by Roadster4rent.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/quad/locarno-ride-a-3-wheeled-vanderhall-roadster-starting-from-locarno/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21331,7 +21331,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Roadster4rent.ch",pricing:{child:390,student:663,adult:780,senior:702},bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770819237349-dlqlt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Roadster4rent.ch"},
+      {name:"Roadster4rent.ch",pricing:{child:390,student:663,adult:780,senior:702},bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770819237349-dlqlt/?ref=odbhodn",rating:4.6,description:"Operated by Roadster4rent.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770819237349-dlqlt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21379,7 +21379,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"HB-Adventure Switzerland AG",pricing:{child:383,student:650,adult:765,senior:689},bookingUrl:"https://www.swissactivities.com/en-ch/quad/spl-genpass-quad-tour-full-day-private-from-spl-gen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: HB-Adventure Switzerland AG"},
+      {name:"HB-Adventure Switzerland AG",pricing:{child:383,student:650,adult:765,senior:689},bookingUrl:"https://www.swissactivities.com/en-ch/quad/spl-genpass-quad-tour-full-day-private-from-spl-gen/?ref=odbhodn",rating:4.6,description:"Operated by HB-Adventure Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/quad/spl-genpass-quad-tour-full-day-private-from-spl-gen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21404,7 +21404,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Roadster4rent.ch",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770820960766-uku1b/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Roadster4rent.ch"},
+      {name:"Roadster4rent.ch",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770820960766-uku1b/?ref=odbhodn",rating:4.6,description:"Operated by Roadster4rent.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/quad/item-1770820960766-uku1b/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21429,7 +21429,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"SimUltimate GmbH",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/racing-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SimUltimate GmbH"},
+      {name:"SimUltimate GmbH",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/racing-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",rating:4.6,description:"Operated by SimUltimate GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/racing-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21454,7 +21454,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"SimUltimate GmbH",pricing:{child:25,student:42,adult:49,senior:44},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/driving-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SimUltimate GmbH"},
+      {name:"SimUltimate GmbH",pricing:{child:25,student:42,adult:49,senior:44},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/driving-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",rating:4.6,description:"Operated by SimUltimate GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/driving-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21479,7 +21479,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Nürburgring eSports Schweiz AG",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-driving-experience-in-opfikon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nürburgring eSports Schweiz AG"},
+      {name:"Nürburgring eSports Schweiz AG",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-driving-experience-in-opfikon/?ref=odbhodn",rating:4.6,description:"Operated by Nürburgring eSports Schweiz AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-driving-experience-in-opfikon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21504,7 +21504,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Nürburgring eSports Schweiz AG",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-kriens-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nürburgring eSports Schweiz AG"},
+      {name:"Nürburgring eSports Schweiz AG",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-kriens-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Nürburgring eSports Schweiz AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-kriens-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21529,7 +21529,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Nürburgring eSports Schweiz AG",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-roche/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Nürburgring eSports Schweiz AG"},
+      {name:"Nürburgring eSports Schweiz AG",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-roche/?ref=odbhodn",rating:4.6,description:"Operated by Nürburgring eSports Schweiz AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/racing-simulator/sim-racing-virtual-drive-and-lounge-in-roche/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21554,7 +21554,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:77,student:131,adult:154,senior:139},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-l-tschine-bernese-oberland/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:77,student:131,adult:154,senior:139},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-l-tschine-bernese-oberland/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-l-tschine-bernese-oberland/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21579,7 +21579,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:55,student:93,adult:109,senior:98},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-for-families-lutschine-from-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:55,student:93,adult:109,senior:98},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-for-families-lutschine-from-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-for-families-lutschine-from-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21604,7 +21604,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Engadin Outdoor Center",pricing:{child:70,student:118,adult:139,senior:125},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/fun-rafting-simme-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Outdoor Center"},
+      {name:"Engadin Outdoor Center",pricing:{child:70,student:118,adult:139,senior:125},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/fun-rafting-simme-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Outdoor Center. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/fun-rafting-simme-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21629,7 +21629,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Engadin Outdoor Center",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-wildwater-action-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Outdoor Center"},
+      {name:"Engadin Outdoor Center",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-wildwater-action-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Outdoor Center. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-wildwater-action-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21677,7 +21677,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Bergbahnen Scuol AG",pricing:{child:41,student:70,adult:82,senior:74},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-family-half-day/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bergbahnen Scuol AG"},
+      {name:"Bergbahnen Scuol AG",pricing:{child:41,student:70,adult:82,senior:74},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-family-half-day/?ref=odbhodn",rating:4.6,description:"Operated by Bergbahnen Scuol AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-family-half-day/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21702,7 +21702,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Bergbahnen Scuol AG",pricing:{child:59,student:100,adult:118,senior:106},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-inn-scuol-half-day/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bergbahnen Scuol AG"},
+      {name:"Bergbahnen Scuol AG",pricing:{child:59,student:100,adult:118,senior:106},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-inn-scuol-half-day/?ref=odbhodn",rating:4.6,description:"Operated by Bergbahnen Scuol AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-inn-scuol-half-day/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21727,7 +21727,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:127,student:216,adult:254,senior:229},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/scuol-and-giarsun-rafting-in-the-engadine-incl--bbq/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Samnaun Val Müstair (Scuol)"},
+      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:127,student:216,adult:254,senior:229},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/scuol-and-giarsun-rafting-in-the-engadine-incl--bbq/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Samnaun Val Müstair (Scuol). Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/scuol-and-giarsun-rafting-in-the-engadine-incl--bbq/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21752,7 +21752,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Bergbahnen Scuol AG",pricing:{child:72,student:122,adult:143,senior:129},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-inn-giarsun-half-day/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bergbahnen Scuol AG"},
+      {name:"Bergbahnen Scuol AG",pricing:{child:72,student:122,adult:143,senior:129},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-inn-giarsun-half-day/?ref=odbhodn",rating:4.6,description:"Operated by Bergbahnen Scuol AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-inn-giarsun-half-day/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21777,7 +21777,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer"],
     indoor: true,
     providers: [
-      {name:"Engadin Outdoor Center",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-for-families-in-engadine/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Outdoor Center"},
+      {name:"Engadin Outdoor Center",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-for-families-in-engadine/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Outdoor Center. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-for-families-in-engadine/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21802,7 +21802,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Engadin Outdoor Center",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/white-water-rafting-engadin-giarsun-gorge/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Outdoor Center"},
+      {name:"Engadin Outdoor Center",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/white-water-rafting-engadin-giarsun-gorge/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Outdoor Center. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/white-water-rafting-engadin-giarsun-gorge/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21827,7 +21827,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-the-simmental/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-the-simmental/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-the-simmental/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21852,7 +21852,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:65,student:110,adult:129,senior:116},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-simme-from-interlaken-or-daerstetten/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:65,student:110,adult:129,senior:116},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-simme-from-interlaken-or-daerstetten/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-simme-from-interlaken-or-daerstetten/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21877,7 +21877,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/from-lucerne-rafting-adventure-in-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/from-lucerne-rafting-adventure-in-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/from-lucerne-rafting-adventure-in-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21902,7 +21902,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/from-zurich-rafting-adventure-in-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/from-zurich-rafting-adventure-in-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/from-zurich-rafting-adventure-in-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -21927,7 +21927,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/whitewater-rafting-on-the-rhone-in-valais/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/whitewater-rafting-on-the-rhone-in-valais/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/whitewater-rafting-on-the-rhone-in-valais/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22021,7 +22021,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:63,student:106,adult:125,senior:113},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-saane-to-gstaad/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:63,student:106,adult:125,senior:113},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-saane-to-gstaad/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-saane-to-gstaad/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22046,7 +22046,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-glacier-river-vispa/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-glacier-river-vispa/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/river-rafting-glacier-river-vispa/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22071,7 +22071,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Swissraft Activity",pricing:{child:50,student:85,adult:100,senior:90},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-chamonix/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swissraft Activity"},
+      {name:"Swissraft Activity",pricing:{child:50,student:85,adult:100,senior:90},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-chamonix/?ref=odbhodn",rating:4.6,description:"Operated by Swissraft Activity. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-in-chamonix/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22096,7 +22096,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Swiss River Adventures",pricing:{child:63,student:106,adult:125,senior:113},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-rhine-gorge/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss River Adventures"},
+      {name:"Swiss River Adventures",pricing:{child:63,student:106,adult:125,senior:113},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-rhine-gorge/?ref=odbhodn",rating:4.6,description:"Operated by Swiss River Adventures. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-rhine-gorge/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22121,7 +22121,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss River Adventures",pricing:{child:88,student:149,adult:175,senior:158},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-with-barbecue/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss River Adventures"},
+      {name:"Swiss River Adventures",pricing:{child:88,student:149,adult:175,senior:158},bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-with-barbecue/?ref=odbhodn",rating:4.6,description:"Operated by Swiss River Adventures. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-with-barbecue/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22215,7 +22215,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:10,student:16,adult:19,senior:17},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-children-sbb/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:10,student:16,adult:19,senior:17},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-children-sbb/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-children-sbb/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22240,7 +22240,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/sbb-saver-day-pass/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/sbb-saver-day-pass/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/sbb-saver-day-pass/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22288,7 +22288,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/tandem-day-pass-ga-youth-sbb/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/tandem-day-pass-ga-youth-sbb/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/tandem-day-pass-ga-youth-sbb/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22313,7 +22313,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:39,student:66,adult:78,senior:70},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-for-half-fare-travelcard-sbb/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:39,student:66,adult:78,senior:70},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-for-half-fare-travelcard-sbb/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-for-half-fare-travelcard-sbb/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22338,7 +22338,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/class-change-sbb/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:25,student:43,adult:50,senior:45},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/class-change-sbb/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/class-change-sbb/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22363,7 +22363,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-dog-sbb/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-dog-sbb/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/day-pass-dog-sbb/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22388,7 +22388,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/bike-day-ticket-sbb/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/bike-day-ticket-sbb/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sbb-day-pass/bike-day-ticket-sbb/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22574,7 +22574,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"FunFlights",pricing:{child:299,student:507,adult:597,senior:537},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-bern-from-bern-belp/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: FunFlights"},
+      {name:"FunFlights",pricing:{child:299,student:507,adult:597,senior:537},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-bern-from-bern-belp/?ref=odbhodn",rating:4.6,description:"Operated by FunFlights. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-bern-from-bern-belp/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22622,7 +22622,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"FunFlights",pricing:{child:648,student:1101,adult:1295,senior:1166},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-flight-bern-belp-jungfraujoch/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: FunFlights"},
+      {name:"FunFlights",pricing:{child:648,student:1101,adult:1295,senior:1166},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-flight-bern-belp-jungfraujoch/?ref=odbhodn",rating:4.6,description:"Operated by FunFlights. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-flight-bern-belp-jungfraujoch/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22647,7 +22647,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"FunFlights",pricing:{child:821,student:1396,adult:1642,senior:1478},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-jura-and-bernese-seeland-from-bern-belp/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: FunFlights"},
+      {name:"FunFlights",pricing:{child:821,student:1396,adult:1642,senior:1478},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-jura-and-bernese-seeland-from-bern-belp/?ref=odbhodn",rating:4.6,description:"Operated by FunFlights. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/helicopter-sightseeing-flight-jura-and-bernese-seeland-from-bern-belp/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22833,7 +22833,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"GoAviator",pricing:{child:215,student:366,adult:430,senior:387},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-in-an-open-vintage-biplane-near-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GoAviator"},
+      {name:"GoAviator",pricing:{child:215,student:366,adult:430,senior:387},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-in-an-open-vintage-biplane-near-zurich/?ref=odbhodn",rating:4.6,description:"Operated by GoAviator. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-in-an-open-vintage-biplane-near-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22858,7 +22858,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"GoAviator",pricing:{child:608,student:1033,adult:1215,senior:1094},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-in-pilatus-pc-7-military-trainer/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: GoAviator"},
+      {name:"GoAviator",pricing:{child:608,student:1033,adult:1215,senior:1094},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-in-pilatus-pc-7-military-trainer/?ref=odbhodn",rating:4.6,description:"Operated by GoAviator. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-in-pilatus-pc-7-military-trainer/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22883,7 +22883,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"MiGFlug GmbH",pricing:{child:2750,student:4675,adult:5500,senior:4950},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/item-1753970840041-2ugfc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: MiGFlug GmbH"},
+      {name:"MiGFlug GmbH",pricing:{child:2750,student:4675,adult:5500,senior:4950},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/item-1753970840041-2ugfc/?ref=odbhodn",rating:4.6,description:"Operated by MiGFlug GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/item-1753970840041-2ugfc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22908,7 +22908,7 @@ export const activities: Activity[] = [
     seasons: ["spring","winter"],
     indoor: false,
     providers: [
-      {name:"HB-Adventure Switzerland AG",pricing:{child:498,student:846,adult:995,senior:896},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-with-pilatus-pc-7-from-locarno/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: HB-Adventure Switzerland AG"},
+      {name:"HB-Adventure Switzerland AG",pricing:{child:498,student:846,adult:995,senior:896},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-with-pilatus-pc-7-from-locarno/?ref=odbhodn",rating:4.6,description:"Operated by HB-Adventure Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/flight-with-pilatus-pc-7-from-locarno/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22956,7 +22956,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"MiGFlug GmbH",pricing:{child:2250,student:3825,adult:4500,senior:4050},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/l39-albatros-jet-flight-alps-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: MiGFlug GmbH"},
+      {name:"MiGFlug GmbH",pricing:{child:2250,student:3825,adult:4500,senior:4050},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/l39-albatros-jet-flight-alps-sion/?ref=odbhodn",rating:4.6,description:"Operated by MiGFlug GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/l39-albatros-jet-flight-alps-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -22981,7 +22981,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"MiGFlug GmbH",pricing:{child:2250,student:3825,adult:4500,senior:4050},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/l39-jet-flight-alps-aosta/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: MiGFlug GmbH"},
+      {name:"MiGFlug GmbH",pricing:{child:2250,student:3825,adult:4500,senior:4050},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/l39-jet-flight-alps-aosta/?ref=odbhodn",rating:4.6,description:"Operated by MiGFlug GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/l39-jet-flight-alps-aosta/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23006,7 +23006,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"MiGFlug GmbH",pricing:{child:1925,student:3273,adult:3850,senior:3465},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/p211-jet-flight-alps-augsburg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: MiGFlug GmbH"},
+      {name:"MiGFlug GmbH",pricing:{child:1925,student:3273,adult:3850,senior:3465},bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/p211-jet-flight-alps-augsburg/?ref=odbhodn",rating:4.6,description:"Operated by MiGFlug GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sightseeing-flight/p211-jet-flight-alps-augsburg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23054,7 +23054,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:26,student:43,adult:51,senior:46},bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/pre-alps-express-ticket-stgallen-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:26,student:43,adult:51,senior:46},bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/pre-alps-express-ticket-stgallen-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/pre-alps-express-ticket-stgallen-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23079,7 +23079,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Tours of Switzerland",pricing:{child:225,student:383,adult:450,senior:405},bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Tours of Switzerland"},
+      {name:"Tours of Switzerland",pricing:{child:225,student:383,adult:450,senior:405},bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",rating:4.6,description:"Operated by Tours of Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/scenic-train/lucerne-glacier-express-swiss-alps-and-lucerne-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23127,7 +23127,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"HB-Adventure Switzerland AG",pricing:{child:55,student:93,adult:109,senior:98},bookingUrl:"https://www.swissactivities.com/en-ch/segway/zurich-segway-guided-tour-public/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: HB-Adventure Switzerland AG"},
+      {name:"HB-Adventure Switzerland AG",pricing:{child:55,student:93,adult:109,senior:98},bookingUrl:"https://www.swissactivities.com/en-ch/segway/zurich-segway-guided-tour-public/?ref=odbhodn",rating:4.6,description:"Operated by HB-Adventure Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/segway/zurich-segway-guided-tour-public/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23152,7 +23152,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Tiroavolo.ch",pricing:{child:248,student:421,adult:495,senior:446},bookingUrl:"https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/clay-pigeon-shooting-buelach/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Tiroavolo.ch"},
+      {name:"Tiroavolo.ch",pricing:{child:248,student:421,adult:495,senior:446},bookingUrl:"https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/clay-pigeon-shooting-buelach/?ref=odbhodn",rating:4.6,description:"Operated by Tiroavolo.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/clay-pigeon-shooting-buelach/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23177,7 +23177,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Lakeside Shooting AG",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/training-at-indoor-shooting-range-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Lakeside Shooting AG"},
+      {name:"Lakeside Shooting AG",pricing:{child:68,student:115,adult:135,senior:122},bookingUrl:"https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/training-at-indoor-shooting-range-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Lakeside Shooting AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/shooting-and-throwing-sports/training-at-indoor-shooting-range-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23363,7 +23363,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Graf Sport AG",pricing:{child:189,student:320,adult:377,senior:339},bookingUrl:"https://www.swissactivities.com/en-ch/ski-rental/ultimate-starter-package-ski-rental-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Graf Sport AG"},
+      {name:"Graf Sport AG",pricing:{child:189,student:320,adult:377,senior:339},bookingUrl:"https://www.swissactivities.com/en-ch/ski-rental/ultimate-starter-package-ski-rental-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Graf Sport AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-rental/ultimate-starter-package-ski-rental-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23411,7 +23411,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG Berg- und Schneesport",pricing:{child:425,student:723,adult:850,senior:765},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/freeride-grindelwald-first-full-day/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG Berg- und Schneesport"},
+      {name:"Outdoor Switzerland AG Berg- und Schneesport",pricing:{child:425,student:723,adult:850,senior:765},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/freeride-grindelwald-first-full-day/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG Berg- und Schneesport. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/freeride-grindelwald-first-full-day/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -23459,7 +23459,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Alpine Flow",pricing:{child:215,student:366,adult:430,senior:387},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-in-the-jungfrau-region/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Alpine Flow"},
+      {name:"Alpine Flow",pricing:{child:215,student:366,adult:430,senior:387},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-in-the-jungfrau-region/?ref=odbhodn",rating:4.6,description:"Operated by Alpine Flow. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-in-the-jungfrau-region/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24128,7 +24128,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bespoke Snowsports",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/grimentz-zinal-private-ski-school/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bespoke Snowsports"},
+      {name:"Bespoke Snowsports",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/grimentz-zinal-private-ski-school/?ref=odbhodn",rating:4.6,description:"Operated by Bespoke Snowsports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/grimentz-zinal-private-ski-school/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24153,7 +24153,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bespoke Snowsports",pricing:{child:118,student:200,adult:235,senior:212},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/stluc-private-ski-school/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bespoke Snowsports"},
+      {name:"Bespoke Snowsports",pricing:{child:118,student:200,adult:235,senior:212},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/stluc-private-ski-school/?ref=odbhodn",rating:4.6,description:"Operated by Bespoke Snowsports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/stluc-private-ski-school/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24178,7 +24178,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bespoke Snowsports",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/chandolin-ski-school-private/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bespoke Snowsports"},
+      {name:"Bespoke Snowsports",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/chandolin-ski-school-private/?ref=odbhodn",rating:4.6,description:"Operated by Bespoke Snowsports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/chandolin-ski-school-private/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24203,7 +24203,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bespoke Snowsports",pricing:{child:205,student:349,adult:410,senior:369},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/val-danniviers-freeride-private/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bespoke Snowsports"},
+      {name:"Bespoke Snowsports",pricing:{child:205,student:349,adult:410,senior:369},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/val-danniviers-freeride-private/?ref=odbhodn",rating:4.6,description:"Operated by Bespoke Snowsports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/val-danniviers-freeride-private/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24228,7 +24228,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Prime Mountain Sports",pricing:{child:103,student:174,adult:205,senior:185},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-all-levels-engelberg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Prime Mountain Sports"},
+      {name:"Prime Mountain Sports",pricing:{child:103,student:174,adult:205,senior:185},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-all-levels-engelberg/?ref=odbhodn",rating:4.6,description:"Operated by Prime Mountain Sports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-all-levels-engelberg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24253,7 +24253,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Prime Mountain Sports",pricing:{child:163,student:276,adult:325,senior:293},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/snowboard-private-all-levels-engelberg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Prime Mountain Sports"},
+      {name:"Prime Mountain Sports",pricing:{child:163,student:276,adult:325,senior:293},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/snowboard-private-all-levels-engelberg/?ref=odbhodn",rating:4.6,description:"Operated by Prime Mountain Sports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/snowboard-private-all-levels-engelberg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24278,7 +24278,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bluebird",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-snowboard-lessons-for-all-ages-in-engelberg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bluebird"},
+      {name:"Bluebird",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-snowboard-lessons-for-all-ages-in-engelberg/?ref=odbhodn",rating:4.6,description:"Operated by Bluebird. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-snowboard-lessons-for-all-ages-in-engelberg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24395,7 +24395,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bespoke Snowsports",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/saas-fee-private-ski-school/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bespoke Snowsports"},
+      {name:"Bespoke Snowsports",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/saas-fee-private-ski-school/?ref=odbhodn",rating:4.6,description:"Operated by Bespoke Snowsports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/saas-fee-private-ski-school/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24420,7 +24420,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Bespoke Snowsports",pricing:{child:225,student:383,adult:450,senior:405},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/saas-fee-snowboard-private/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Bespoke Snowsports"},
+      {name:"Bespoke Snowsports",pricing:{child:225,student:383,adult:450,senior:405},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/saas-fee-snowboard-private/?ref=odbhodn",rating:4.6,description:"Operated by Bespoke Snowsports. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/saas-fee-snowboard-private/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24491,7 +24491,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Leysin Ski",pricing:{child:165,student:281,adult:330,senior:297},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-lessons-for-kids-and-adults-in-leysin/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Leysin Ski"},
+      {name:"Leysin Ski",pricing:{child:165,student:281,adult:330,senior:297},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-lessons-for-kids-and-adults-in-leysin/?ref=odbhodn",rating:4.6,description:"Operated by Leysin Ski. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-lessons-for-kids-and-adults-in-leysin/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24516,7 +24516,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Leysin Ski",pricing:{child:165,student:281,adult:330,senior:297},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-half-day-snowboard-lesson-for-kids-and-adults-in-leysin/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Leysin Ski"},
+      {name:"Leysin Ski",pricing:{child:165,student:281,adult:330,senior:297},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-half-day-snowboard-lesson-for-kids-and-adults-in-leysin/?ref=odbhodn",rating:4.6,description:"Operated by Leysin Ski. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-half-day-snowboard-lesson-for-kids-and-adults-in-leysin/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24656,7 +24656,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Act-Sports Ski & Tennis",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-for-adults-in-lenzerheide/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Act-Sports Ski & Tennis"},
+      {name:"Act-Sports Ski & Tennis",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-for-adults-in-lenzerheide/?ref=odbhodn",rating:4.6,description:"Operated by Act-Sports Ski & Tennis. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-school/private-ski-school-for-adults-in-lenzerheide/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24842,7 +24842,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Zermatters",pricing:{child:800,student:1360,adult:1600,senior:1440},bookingUrl:"https://www.swissactivities.com/en-ch/ski-touring/pfluwe-alphubel-ski-tour-private-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zermatters"},
+      {name:"Zermatters",pricing:{child:800,student:1360,adult:1600,senior:1440},bookingUrl:"https://www.swissactivities.com/en-ch/ski-touring/pfluwe-alphubel-ski-tour-private-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Zermatters. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-touring/pfluwe-alphubel-ski-tour-private-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24913,7 +24913,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Zermatters",pricing:{child:955,student:1624,adult:1910,senior:1719},bookingUrl:"https://www.swissactivities.com/en-ch/ski-touring/dufourspitze-ski-tour-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zermatters"},
+      {name:"Zermatters",pricing:{child:955,student:1624,adult:1910,senior:1719},bookingUrl:"https://www.swissactivities.com/en-ch/ski-touring/dufourspitze-ski-tour-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Zermatters. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ski-touring/dufourspitze-ski-tour-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24961,7 +24961,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:210,student:357,adult:420,senior:378},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/jungfrau-region-skydiving-from-the-airplane/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:210,student:357,adult:420,senior:378},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/jungfrau-region-skydiving-from-the-airplane/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/jungfrau-region-skydiving-from-the-airplane/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -24986,7 +24986,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"SKYdive Interlaken GmbH",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/helicopter-skydiving-interlaken-schynige-platte/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SKYdive Interlaken GmbH"},
+      {name:"SKYdive Interlaken GmbH",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/helicopter-skydiving-interlaken-schynige-platte/?ref=odbhodn",rating:4.6,description:"Operated by SKYdive Interlaken GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/helicopter-skydiving-interlaken-schynige-platte/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25034,7 +25034,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"SKYdive Interlaken GmbH",pricing:{child:270,student:459,adult:540,senior:486},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/lauterbrunnen-helicopter-skydive/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SKYdive Interlaken GmbH"},
+      {name:"SKYdive Interlaken GmbH",pricing:{child:270,student:459,adult:540,senior:486},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/lauterbrunnen-helicopter-skydive/?ref=odbhodn",rating:4.6,description:"Operated by SKYdive Interlaken GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/lauterbrunnen-helicopter-skydive/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25059,7 +25059,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"SKYdive Interlaken GmbH",pricing:{child:345,student:587,adult:690,senior:621},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/eiger-jump-lauterbrunnen-helicopter-skydive/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SKYdive Interlaken GmbH"},
+      {name:"SKYdive Interlaken GmbH",pricing:{child:345,student:587,adult:690,senior:621},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/eiger-jump-lauterbrunnen-helicopter-skydive/?ref=odbhodn",rating:4.6,description:"Operated by SKYdive Interlaken GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/eiger-jump-lauterbrunnen-helicopter-skydive/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25084,7 +25084,7 @@ export const activities: Activity[] = [
     seasons: ["spring","autumn"],
     indoor: false,
     providers: [
-      {name:"Skydive Luzern / Paravia AG",pricing:{child:183,student:310,adult:365,senior:329},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/lucerne-skydiving-tandem/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Skydive Luzern / Paravia AG"},
+      {name:"Skydive Luzern / Paravia AG",pricing:{child:183,student:310,adult:365,senior:329},bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/lucerne-skydiving-tandem/?ref=odbhodn",rating:4.6,description:"Operated by Skydive Luzern / Paravia AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/skydiving/lucerne-skydiving-tandem/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25109,7 +25109,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:14,student:23,adult:27,senior:24},bookingUrl:"https://www.swissactivities.com/en-ch/sledding/bussalp-sledging-ticket-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:14,student:23,adult:27,senior:24},bookingUrl:"https://www.swissactivities.com/en-ch/sledding/bussalp-sledging-ticket-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sledding/bussalp-sledging-ticket-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25157,7 +25157,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Skizentrum Elsigen-Metsch",pricing:{child:19,student:32,adult:38,senior:34},bookingUrl:"https://www.swissactivities.com/en-ch/sledding/elsigen-metsch-sledding-optional-sled-rental/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Skizentrum Elsigen-Metsch"},
+      {name:"Skizentrum Elsigen-Metsch",pricing:{child:19,student:32,adult:38,senior:34},bookingUrl:"https://www.swissactivities.com/en-ch/sledding/elsigen-metsch-sledding-optional-sled-rental/?ref=odbhodn",rating:4.6,description:"Operated by Skizentrum Elsigen-Metsch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/sledding/elsigen-metsch-sledding-optional-sled-rental/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25182,7 +25182,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Graf Sport AG",pricing:{child:5,student:9,adult:10,senior:9},bookingUrl:"https://www.swissactivities.com/en-ch/snowshoeing/snowshoes-rental-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Graf Sport AG"},
+      {name:"Graf Sport AG",pricing:{child:5,student:9,adult:10,senior:9},bookingUrl:"https://www.swissactivities.com/en-ch/snowshoeing/snowshoes-rental-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Graf Sport AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/snowshoeing/snowshoes-rental-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25253,7 +25253,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Outdoor Switzerland AG",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/snowshoeing/snowshoe-tour-and-sledding-guided-from-isenfluh-interlaken/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG"},
+      {name:"Outdoor Switzerland AG",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/snowshoeing/snowshoe-tour-and-sledding-guided-from-isenfluh-interlaken/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/snowshoeing/snowshoe-tour-and-sledding-guided-from-isenfluh-interlaken/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25347,7 +25347,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"SUP 2 Go",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-to-go-rental-from-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SUP 2 Go"},
+      {name:"SUP 2 Go",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-to-go-rental-from-zurich/?ref=odbhodn",rating:4.6,description:"Operated by SUP 2 Go. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-to-go-rental-from-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25372,7 +25372,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-in-gstaad-and-rougemont/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: École Suisse de Ski et de Snowboard Rougemont Sàrl"},
+      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:170,student:289,adult:340,senior:306},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-in-gstaad-and-rougemont/?ref=odbhodn",rating:4.6,description:"Operated by École Suisse de Ski et de Snowboard Rougemont Sàrl. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-in-gstaad-and-rougemont/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25420,7 +25420,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"SUP Brienzersee",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/stand-up-paddle-board-rental-boenigen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: SUP Brienzersee"},
+      {name:"SUP Brienzersee",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/stand-up-paddle-board-rental-boenigen/?ref=odbhodn",rating:4.6,description:"Operated by SUP Brienzersee. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/stand-up-paddle-board-rental-boenigen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25445,7 +25445,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Skizentrum Elsigen-Metsch",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/rent-stand-up-paddle-elsigenalp/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Skizentrum Elsigen-Metsch"},
+      {name:"Skizentrum Elsigen-Metsch",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/rent-stand-up-paddle-elsigenalp/?ref=odbhodn",rating:4.6,description:"Operated by Skizentrum Elsigen-Metsch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/rent-stand-up-paddle-elsigenalp/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25470,7 +25470,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Kayak-point.ch",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-rental-lake-thun/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Kayak-point.ch"},
+      {name:"Kayak-point.ch",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-rental-lake-thun/?ref=odbhodn",rating:4.6,description:"Operated by Kayak-point.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/stand-up-paddle/sup-rental-lake-thun/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25495,7 +25495,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:127,student:216,adult:254,senior:229},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-travel-pass-en/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:127,student:216,adult:254,senior:229},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-travel-pass-en/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-travel-pass-en/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25520,7 +25520,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-half-fare-card1/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-half-fare-card1/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-half-fare-card1/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25545,7 +25545,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:145,student:246,adult:289,senior:260},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-travel-pass-flex-en/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:145,student:246,adult:289,senior:260},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-travel-pass-flex-en/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/swiss-travel-pass-flex-en/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25593,7 +25593,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:14,student:24,adult:28,senior:25},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/day-pass-fare-collection-zvv/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:14,student:24,adult:28,senior:25},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/day-pass-fare-collection-zvv/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/day-pass-fare-collection-zvv/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25618,7 +25618,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Jungfraubahnen Management AG",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/jungfrau-travel-pass-for-3-to-8-days/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jungfraubahnen Management AG"},
+      {name:"Jungfraubahnen Management AG",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/jungfrau-travel-pass-for-3-to-8-days/?ref=odbhodn",rating:4.6,description:"Operated by Jungfraubahnen Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/jungfrau-travel-pass-for-3-to-8-days/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25643,7 +25643,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Jungfraubahnen Management AG",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/jungfrau-travel-pass-winter/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jungfraubahnen Management AG"},
+      {name:"Jungfraubahnen Management AG",pricing:{child:105,student:179,adult:210,senior:189},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/jungfrau-travel-pass-winter/?ref=odbhodn",rating:4.6,description:"Operated by Jungfraubahnen Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/jungfrau-travel-pass-winter/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25668,7 +25668,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/bernese-oberland-pass/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/bernese-oberland-pass/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/bernese-oberland-pass/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25693,7 +25693,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/tellpass/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:120,student:204,adult:240,senior:216},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/tellpass/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/tellpass/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25718,7 +25718,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:57,student:97,adult:114,senior:103},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/matterhorn-gotthard-pass/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:57,student:97,adult:114,senior:103},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/matterhorn-gotthard-pass/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/matterhorn-gotthard-pass/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25743,7 +25743,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/day-pass-tariff-association-ostwind/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/day-pass-tariff-association-ostwind/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/day-pass-tariff-association-ostwind/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25768,7 +25768,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:18,student:31,adult:36,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/uri-ticket/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:18,student:31,adult:36,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/uri-ticket/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rail-pass/uri-ticket/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25793,7 +25793,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-zurich-old-town/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Tourismus"},
+      {name:"Zürich Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-zurich-old-town/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-zurich-old-town/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25818,7 +25818,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"eTukTuk Schweiz GmbH",pricing:{child:80,student:135,adult:159,senior:143},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-etuktuk-zurich-surroundings/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Schweiz GmbH"},
+      {name:"eTukTuk Schweiz GmbH",pricing:{child:80,student:135,adult:159,senior:143},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-etuktuk-zurich-surroundings/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Schweiz GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-etuktuk-zurich-surroundings/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25843,7 +25843,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Tourismus",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Tourismus"},
+      {name:"Zürich Tourismus",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25868,7 +25868,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/best-of-zurich-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/best-of-zurich-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/best-of-zurich-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25893,7 +25893,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:33,student:55,adult:65,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-and-surroundings-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:33,student:55,adult:65,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-and-surroundings-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-and-surroundings-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25918,7 +25918,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/cheese-fondue-at-sunset-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/cheese-fondue-at-sunset-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/cheese-fondue-at-sunset-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25943,7 +25943,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Tourismus",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-zurich-e-bike/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Tourismus"},
+      {name:"Zürich Tourismus",pricing:{child:20,student:33,adult:39,senior:35},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-zurich-e-bike/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-zurich-e-bike/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -25968,7 +25968,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Zürich Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/made-in-zurich-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Zürich Tourismus"},
+      {name:"Zürich Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/made-in-zurich-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Zürich Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/made-in-zurich-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26016,7 +26016,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:11,student:19,adult:22,senior:20},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-panoramabus-zuerich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:11,student:19,adult:22,senior:20},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-panoramabus-zuerich/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-panoramabus-zuerich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26041,7 +26041,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"eTukTuk Schweiz GmbH",pricing:{child:130,student:220,adult:259,senior:233},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-tour-in-tuk-tuk-with-burger-side-dishes-and-wine/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Schweiz GmbH"},
+      {name:"eTukTuk Schweiz GmbH",pricing:{child:130,student:220,adult:259,senior:233},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-tour-in-tuk-tuk-with-burger-side-dishes-and-wine/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Schweiz GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-tour-in-tuk-tuk-with-burger-side-dishes-and-wine/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26066,7 +26066,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:22,student:37,adult:44,senior:40},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-old-town-stroll-boat-trip/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:22,student:37,adult:44,senior:40},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-old-town-stroll-boat-trip/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/zurich-old-town-stroll-boat-trip/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26160,7 +26160,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Züripilz GmbH",pricing:{child:35,student:59,adult:69,senior:62},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-discovery-tour-hidden-world-of-mushrooms-in-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Züripilz GmbH"},
+      {name:"Züripilz GmbH",pricing:{child:35,student:59,adult:69,senior:62},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-discovery-tour-hidden-world-of-mushrooms-in-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Züripilz GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-discovery-tour-hidden-world-of-mushrooms-in-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26185,7 +26185,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"City Illusion",pricing:{child:69,student:117,adult:138,senior:124},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/time-travel-through-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: City Illusion"},
+      {name:"City Illusion",pricing:{child:69,student:117,adult:138,senior:124},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/time-travel-through-zurich/?ref=odbhodn",rating:4.6,description:"Operated by City Illusion. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/time-travel-through-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26210,7 +26210,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Rayrider",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-urban-bike-tour-through-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rayrider"},
+      {name:"Rayrider",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-urban-bike-tour-through-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Rayrider. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-urban-bike-tour-through-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26235,7 +26235,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Rayrider",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/private-bike-tour-through-zurich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rayrider"},
+      {name:"Rayrider",pricing:{child:200,student:340,adult:400,senior:360},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/private-bike-tour-through-zurich/?ref=odbhodn",rating:4.6,description:"Operated by Rayrider. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/private-bike-tour-through-zurich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26283,7 +26283,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-city-tour-classic/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-city-tour-classic/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-city-tour-classic/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26308,7 +26308,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-city-tour-authentic/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-city-tour-authentic/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-city-tour-authentic/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26333,7 +26333,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-dark-secrets-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-dark-secrets-tour/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-dark-secrets-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26358,7 +26358,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-middle-ages-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-middle-ages-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-middle-ages-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26383,7 +26383,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-belle-epoque-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-belle-epoque-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-belle-epoque-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26408,7 +26408,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"eTukTuk Luzern GmbH",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/etuktuk-heart-luzern-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Luzern GmbH"},
+      {name:"eTukTuk Luzern GmbH",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/etuktuk-heart-luzern-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Luzern GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/etuktuk-heart-luzern-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26433,7 +26433,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"eTukTuk Luzern GmbH",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/etuktuk-luzern-surroundings-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: eTukTuk Luzern GmbH"},
+      {name:"eTukTuk Luzern GmbH",pricing:{child:80,student:136,adult:160,senior:144},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/etuktuk-luzern-surroundings-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by eTukTuk Luzern GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/etuktuk-luzern-surroundings-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26458,7 +26458,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-carnival-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-carnival-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-carnival-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26483,7 +26483,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-museggmauer-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-museggmauer-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/lucerne-museggmauer-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26508,7 +26508,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/fa-ade-painting-and-puns/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/fa-ade-painting-and-puns/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/fa-ade-painting-and-puns/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26533,7 +26533,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/women-who-moved-lucerne-guided-tour-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/women-who-moved-lucerne-guided-tour-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/women-who-moved-lucerne-guided-tour-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26558,7 +26558,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/why-why-why-adventure-tour-for-children-in-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Luzern Tourismus AG"},
+      {name:"Luzern Tourismus AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/why-why-why-adventure-tour-for-children-in-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Luzern Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/why-why-why-adventure-tour-for-children-in-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26583,7 +26583,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"citytrip AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-german-swiss-german/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: citytrip AG"},
+      {name:"citytrip AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-german-swiss-german/?ref=odbhodn",rating:4.6,description:"Operated by citytrip AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-german-swiss-german/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26608,7 +26608,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"citytrip AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-english/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: citytrip AG"},
+      {name:"citytrip AG",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-english/?ref=odbhodn",rating:4.6,description:"Operated by citytrip AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-english/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26679,7 +26679,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:29,student:49,adult:58,senior:52},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-bus-mini-train/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:29,student:49,adult:58,senior:52},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-bus-mini-train/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-bus-mini-train/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26704,7 +26704,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:37,student:63,adult:74,senior:67},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-and-boat-trip/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:37,student:63,adult:74,senior:67},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-and-boat-trip/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-and-boat-trip/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26729,7 +26729,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"WELO",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/bike-cab-urban-art-city-tour-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: WELO"},
+      {name:"WELO",pricing:{child:95,student:162,adult:190,senior:171},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/bike-cab-urban-art-city-tour-geneva/?ref=odbhodn",rating:4.6,description:"Operated by WELO. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/bike-cab-urban-art-city-tour-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26846,7 +26846,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:62,student:105,adult:123,senior:111},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/from-geneva-bus-tour-to-annecy-and-geneva-including-mini-train/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:62,student:105,adult:123,senior:111},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/from-geneva-bus-tour-to-annecy-and-geneva-including-mini-train/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/from-geneva-bus-tour-to-annecy-and-geneva-including-mini-train/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26871,7 +26871,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-the-whispering-old-town-city-tour-including-aperitif/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-the-whispering-old-town-city-tour-including-aperitif/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-the-whispering-old-town-city-tour-including-aperitif/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26896,7 +26896,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-jet-deau-boat-cruise-and-city-tour-including-aperitif/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:50,student:84,adult:99,senior:89},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-jet-deau-boat-cruise-and-city-tour-including-aperitif/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-jet-deau-boat-cruise-and-city-tour-including-aperitif/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -26921,7 +26921,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Keytours SA",pricing:{child:89,student:150,adult:177,senior:159},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-boat-cruise-folk-show-and-cooking-class/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:89,student:150,adult:177,senior:159},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-boat-cruise-folk-show-and-cooking-class/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/geneva-city-tour-boat-cruise-folk-show-and-cooking-class/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27015,7 +27015,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: true,
     providers: [
-      {name:"Baselcitytour",pricing:{child:13,student:22,adult:26,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-bus-ticket/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Baselcitytour"},
+      {name:"Baselcitytour",pricing:{child:13,student:22,adult:26,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-bus-ticket/?ref=odbhodn",rating:4.6,description:"Operated by Baselcitytour. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-bus-ticket/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27040,7 +27040,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Basel Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-old-town-stories/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Basel Tourismus"},
+      {name:"Basel Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-old-town-stories/?ref=odbhodn",rating:4.6,description:"Operated by Basel Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-old-town-stories/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27065,7 +27065,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Basel Tourismus",pricing:{child:14,student:24,adult:28,senior:25},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-guided-christmas/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Basel Tourismus"},
+      {name:"Basel Tourismus",pricing:{child:14,student:24,adult:28,senior:25},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-guided-christmas/?ref=odbhodn",rating:4.6,description:"Operated by Basel Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-guided-christmas/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27090,7 +27090,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Basel Tourismus",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/vintage-tram-tour-basel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Basel Tourismus"},
+      {name:"Basel Tourismus",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/vintage-tram-tour-basel/?ref=odbhodn",rating:4.6,description:"Operated by Basel Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/vintage-tram-tour-basel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27115,7 +27115,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Basel Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-theatrical-prison/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Basel Tourismus"},
+      {name:"Basel Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-theatrical-prison/?ref=odbhodn",rating:4.6,description:"Operated by Basel Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-theatrical-prison/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27140,7 +27140,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Basel Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-city-palace/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Basel Tourismus"},
+      {name:"Basel Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-city-palace/?ref=odbhodn",rating:4.6,description:"Operated by Basel Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-basel-city-palace/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27165,7 +27165,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Basel Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/post-run-inschpaeggter-basil-city-basel/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Basel Tourismus"},
+      {name:"Basel Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/post-run-inschpaeggter-basil-city-basel/?ref=odbhodn",rating:4.6,description:"Operated by Basel Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/post-run-inschpaeggter-basil-city-basel/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27236,7 +27236,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Artstübli GmbH",pricing:{child:17,student:28,adult:33,senior:30},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-art-city-tour-basel-public/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Artstübli GmbH"},
+      {name:"Artstübli GmbH",pricing:{child:17,student:28,adult:33,senior:30},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-art-city-tour-basel-public/?ref=odbhodn",rating:4.6,description:"Operated by Artstübli GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-art-city-tour-basel-public/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27284,7 +27284,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Artstübli GmbH",pricing:{child:17,student:28,adult:33,senior:30},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-art-dreispitz-tour-basel-public/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Artstübli GmbH"},
+      {name:"Artstübli GmbH",pricing:{child:17,student:28,adult:33,senior:30},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-art-dreispitz-tour-basel-public/?ref=odbhodn",rating:4.6,description:"Operated by Artstübli GmbH. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/urban-art-dreispitz-tour-basel-public/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27309,7 +27309,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Tours of Switzerland",pricing:{child:8,student:14,adult:16,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/item-1770580278096-78vbc/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Tours of Switzerland"},
+      {name:"Tours of Switzerland",pricing:{child:8,student:14,adult:16,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/item-1770580278096-78vbc/?ref=odbhodn",rating:4.6,description:"Operated by Tours of Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/item-1770580278096-78vbc/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27334,7 +27334,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/eerie-thun-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Thun Thunersee Tourismus"},
+      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/eerie-thun-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Thun Thunersee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/eerie-thun-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27359,7 +27359,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Thun Thunersee Tourismus",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-tour-thun-public/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Thun Thunersee Tourismus"},
+      {name:"Thun Thunersee Tourismus",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-tour-thun-public/?ref=odbhodn",rating:4.6,description:"Operated by Thun Thunersee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-tour-thun-public/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27384,7 +27384,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-thun-stories-basket-for-children/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Thun Thunersee Tourismus"},
+      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-thun-stories-basket-for-children/?ref=odbhodn",rating:4.6,description:"Operated by Thun Thunersee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-thun-stories-basket-for-children/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27409,7 +27409,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/thun-s-bridges-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Thun Thunersee Tourismus"},
+      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/thun-s-bridges-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Thun Thunersee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/thun-s-bridges-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27434,7 +27434,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/bloody-thun-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Thun Thunersee Tourismus"},
+      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/bloody-thun-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Thun Thunersee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/bloody-thun-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27459,7 +27459,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Thun Thunersee Tourismus",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/anna-maria-wocher-and-the-thun-panorama-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Thun Thunersee Tourismus"},
+      {name:"Thun Thunersee Tourismus",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/anna-maria-wocher-and-the-thun-panorama-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Thun Thunersee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/anna-maria-wocher-and-the-thun-panorama-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27484,7 +27484,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/thuns-high-waves-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Thun Thunersee Tourismus"},
+      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/thuns-high-waves-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by Thun Thunersee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/thuns-high-waves-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27509,7 +27509,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-historical-city-tour-winterthur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: House of Winterthur"},
+      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-historical-city-tour-winterthur/?ref=odbhodn",rating:4.6,description:"Operated by House of Winterthur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-historical-city-tour-winterthur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27534,7 +27534,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/sulzerareal-city-tour-winterthur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: House of Winterthur"},
+      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/sulzerareal-city-tour-winterthur/?ref=odbhodn",rating:4.6,description:"Operated by House of Winterthur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/sulzerareal-city-tour-winterthur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27559,7 +27559,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-winterthur-with-church-tower-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: House of Winterthur"},
+      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-winterthur-with-church-tower-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by House of Winterthur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-winterthur-with-church-tower-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27584,7 +27584,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"House of Winterthur",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-winterthur-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: House of Winterthur"},
+      {name:"House of Winterthur",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-winterthur-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by House of Winterthur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/old-town-winterthur-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27609,7 +27609,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: true,
     providers: [
-      {name:"House of Winterthur",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/women-in-winterthur-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: House of Winterthur"},
+      {name:"House of Winterthur",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/women-in-winterthur-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by House of Winterthur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/women-in-winterthur-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27634,7 +27634,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"House of Winterthur",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/culinary-city-tour-in-winterthur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: House of Winterthur"},
+      {name:"House of Winterthur",pricing:{child:23,student:38,adult:45,senior:41},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/culinary-city-tour-in-winterthur/?ref=odbhodn",rating:4.6,description:"Operated by House of Winterthur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/culinary-city-tour-in-winterthur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27659,7 +27659,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/villas-and-gardens-in-winterthur-city-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: House of Winterthur"},
+      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/villas-and-gardens-in-winterthur-city-tour/?ref=odbhodn",rating:4.6,description:"Operated by House of Winterthur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/villas-and-gardens-in-winterthur-city-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27684,7 +27684,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-chur-old-town/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-chur-old-town/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-chur-old-town/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27709,7 +27709,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-chur-evening/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-chur-evening/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-chur-evening/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27734,7 +27734,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/moving-chur-women-city-tour-through-chur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/moving-chur-women-city-tour-through-chur/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/moving-chur-women-city-tour-through-chur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27759,7 +27759,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-antistitium-chur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-antistitium-chur/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-antistitium-chur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27899,7 +27899,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Keytours SA",pricing:{child:71,student:120,adult:141,senior:127},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/from-lausanne-bus-tour-to-vevey-montreux-and-chillon/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Keytours SA"},
+      {name:"Keytours SA",pricing:{child:71,student:120,adult:141,senior:127},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/from-lausanne-bus-tour-to-vevey-montreux-and-chillon/?ref=odbhodn",rating:4.6,description:"Operated by Keytours SA. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/from-lausanne-bus-tour-to-vevey-montreux-and-chillon/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27947,7 +27947,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"St.Gallen-Bodensee Tourismus",pricing:{child:17,student:28,adult:33,senior:30},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-of-the-abbey-library-st-gallen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: St.Gallen-Bodensee Tourismus"},
+      {name:"St.Gallen-Bodensee Tourismus",pricing:{child:17,student:28,adult:33,senior:30},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-of-the-abbey-library-st-gallen/?ref=odbhodn",rating:4.6,description:"Operated by St.Gallen-Bodensee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-of-the-abbey-library-st-gallen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27972,7 +27972,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"St.Gallen-Bodensee Tourismus",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/christmas-guided-tour-through-st-gallen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: St.Gallen-Bodensee Tourismus"},
+      {name:"St.Gallen-Bodensee Tourismus",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/christmas-guided-tour-through-st-gallen/?ref=odbhodn",rating:4.6,description:"Operated by St.Gallen-Bodensee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/christmas-guided-tour-through-st-gallen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -27997,7 +27997,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Rheinfelden Tourismus",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-rheinfelden-old-town-classic/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rheinfelden Tourismus"},
+      {name:"Rheinfelden Tourismus",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-rheinfelden-old-town-classic/?ref=odbhodn",rating:4.6,description:"Operated by Rheinfelden Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-rheinfelden-old-town-classic/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28022,7 +28022,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Rheinfelden Tourismus",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-of-rheinfelden-with-the-night-watchman/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rheinfelden Tourismus"},
+      {name:"Rheinfelden Tourismus",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-of-rheinfelden-with-the-night-watchman/?ref=odbhodn",rating:4.6,description:"Operated by Rheinfelden Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-of-rheinfelden-with-the-night-watchman/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28047,7 +28047,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Freddie Tours",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/footsteps-freddie-mercury-montreux/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Freddie Tours"},
+      {name:"Freddie Tours",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/footsteps-freddie-mercury-montreux/?ref=odbhodn",rating:4.6,description:"Operated by Freddie Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/footsteps-freddie-mercury-montreux/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28095,7 +28095,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Surselva Tourismus",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/staedtlitour-ilanz-stadtfuehrung/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Surselva Tourismus"},
+      {name:"Surselva Tourismus",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/staedtlitour-ilanz-stadtfuehrung/?ref=odbhodn",rating:4.6,description:"Operated by Surselva Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/staedtlitour-ilanz-stadtfuehrung/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28120,7 +28120,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Surselva Tourismus",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/romance-language-guide-ilanz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Surselva Tourismus"},
+      {name:"Surselva Tourismus",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/romance-language-guide-ilanz/?ref=odbhodn",rating:4.6,description:"Operated by Surselva Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/romance-language-guide-ilanz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28145,7 +28145,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-church-scuol/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Samnaun Val Müstair (Scuol)"},
+      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-church-scuol/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Samnaun Val Müstair (Scuol). Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/guided-tour-church-scuol/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28170,7 +28170,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:13,student:22,adult:26,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/village-tour-scuol/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Samnaun Val Müstair (Scuol)"},
+      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:13,student:22,adult:26,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/village-tour-scuol/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Samnaun Val Müstair (Scuol). Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/village-tour-scuol/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28241,7 +28241,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Jura & Trois-Lacs | Drei-Seen-Land",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/biel-city-tour-through-the-old-town/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jura & Trois-Lacs | Drei-Seen-Land"},
+      {name:"Jura & Trois-Lacs | Drei-Seen-Land",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/biel-city-tour-through-the-old-town/?ref=odbhodn",rating:4.6,description:"Operated by Jura & Trois-Lacs | Drei-Seen-Land. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/biel-city-tour-through-the-old-town/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28266,7 +28266,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Fribourg Tourisme",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/public-guided-tour-old-town-fribourg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Fribourg Tourisme"},
+      {name:"Fribourg Tourisme",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/public-guided-tour-old-town-fribourg/?ref=odbhodn",rating:4.6,description:"Operated by Fribourg Tourisme. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/public-guided-tour-old-town-fribourg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28291,7 +28291,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-in-maienfeld-with-actor/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-in-maienfeld-with-actor/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-in-maienfeld-with-actor/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28316,7 +28316,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Rapperswil Zürichsee Tourismus",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/rapperswil-public-guided-tour-old-town/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rapperswil Zürichsee Tourismus"},
+      {name:"Rapperswil Zürichsee Tourismus",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/rapperswil-public-guided-tour-old-town/?ref=odbhodn",rating:4.6,description:"Operated by Rapperswil Zürichsee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/rapperswil-public-guided-tour-old-town/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28341,7 +28341,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schaffhauserland Tourismus",pricing:{child:7,student:12,adult:14,senior:13},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/schaffhausen-city-tour-old-town-bay-windows/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schaffhauserland Tourismus"},
+      {name:"Schaffhauserland Tourismus",pricing:{child:7,student:12,adult:14,senior:13},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/schaffhausen-city-tour-old-town-bay-windows/?ref=odbhodn",rating:4.6,description:"Operated by Schaffhauserland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/schaffhausen-city-tour-old-town-bay-windows/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28366,7 +28366,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schaffhauserland Tourismus",pricing:{child:7,student:12,adult:14,senior:13},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/steinamrhein-tour-old-town-middle-ages/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schaffhauserland Tourismus"},
+      {name:"Schaffhauserland Tourismus",pricing:{child:7,student:12,adult:14,senior:13},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/steinamrhein-tour-old-town-middle-ages/?ref=odbhodn",rating:4.6,description:"Operated by Schaffhauserland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/steinamrhein-tour-old-town-middle-ages/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28391,7 +28391,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/vna-village-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Samnaun Val Müstair (Scuol)"},
+      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/vna-village-tour/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Samnaun Val Müstair (Scuol). Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/vna-village-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28416,7 +28416,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Jura & Trois-Lacs | Drei-Seen-Land",pricing:{child:6,student:10,adult:12,senior:11},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/circuit-secret-saint-ursanne-2/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jura & Trois-Lacs | Drei-Seen-Land"},
+      {name:"Jura & Trois-Lacs | Drei-Seen-Land",pricing:{child:6,student:10,adult:12,senior:11},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/circuit-secret-saint-ursanne-2/?ref=odbhodn",rating:4.6,description:"Operated by Jura & Trois-Lacs | Drei-Seen-Land. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/circuit-secret-saint-ursanne-2/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28441,7 +28441,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Jura & Trois-Lacs | Drei-Seen-Land",pricing:{child:6,student:10,adult:12,senior:11},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/circuit-secret-porrentruy-2/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jura & Trois-Lacs | Drei-Seen-Land"},
+      {name:"Jura & Trois-Lacs | Drei-Seen-Land",pricing:{child:6,student:10,adult:12,senior:11},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/circuit-secret-porrentruy-2/?ref=odbhodn",rating:4.6,description:"Operated by Jura & Trois-Lacs | Drei-Seen-Land. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/circuit-secret-porrentruy-2/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28466,7 +28466,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/the-valley-tour-kemptthal/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: House of Winterthur"},
+      {name:"House of Winterthur",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/the-valley-tour-kemptthal/?ref=odbhodn",rating:4.6,description:"Operated by House of Winterthur. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/the-valley-tour-kemptthal/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28514,7 +28514,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Event & Tourismus AG",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/public-old-town-tour-burgdorf/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Event & Tourismus AG"},
+      {name:"Event & Tourismus AG",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/public-old-town-tour-burgdorf/?ref=odbhodn",rating:4.6,description:"Operated by Event & Tourismus AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/public-old-town-tour-burgdorf/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28746,7 +28746,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-theater-life-chur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-theater-life-chur/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-theater-life-chur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28771,7 +28771,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-mysterious-chur-public/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Chur Tourismus"},
+      {name:"Chur Tourismus",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-mysterious-chur-public/?ref=odbhodn",rating:4.6,description:"Operated by Chur Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/city-tour-mysterious-chur-public/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28796,7 +28796,7 @@ export const activities: Activity[] = [
     seasons: ["spring","winter"],
     indoor: false,
     providers: [
-      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/men-s-rooms-women-s-dreams-city-tour-thun/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Thun Thunersee Tourismus"},
+      {name:"Thun Thunersee Tourismus",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/men-s-rooms-women-s-dreams-city-tour-thun/?ref=odbhodn",rating:4.6,description:"Operated by Thun Thunersee Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/city-tour-guided/men-s-rooms-women-s-dreams-city-tour-thun/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28890,7 +28890,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:22,student:37,adult:44,senior:40},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-stmoritz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:22,student:37,adult:44,senior:40},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-stmoritz/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-stmoritz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28915,7 +28915,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:8,student:14,adult:16,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-arosa/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:8,student:14,adult:16,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-arosa/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-arosa/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28940,7 +28940,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-davos-via-filisur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-davos-via-filisur/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-chur-davos-via-filisur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28965,7 +28965,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/alpenrhein-express-ticket-between-st-gallen-and-chur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/alpenrhein-express-ticket-between-st-gallen-and-chur/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/alpenrhein-express-ticket-between-st-gallen-and-chur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -28990,7 +28990,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:21,student:36,adult:42,senior:38},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-zurich-chur/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:21,student:36,adult:42,senior:38},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-zurich-chur/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-zurich-chur/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29015,7 +29015,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:39,student:65,adult:77,senior:69},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-interlaken-ost/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:39,student:65,adult:77,senior:69},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-interlaken-ost/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-interlaken-ost/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29040,7 +29040,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:67,student:114,adult:134,senior:121},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:67,student:114,adult:134,senior:121},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29065,7 +29065,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:5,student:9,adult:10,senior:9},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/marzilibahn-ticket-bern/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:5,student:9,adult:10,senior:9},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/marzilibahn-ticket-bern/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/marzilibahn-ticket-bern/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29090,7 +29090,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-berne-lucerne-emmental-valley/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-berne-lucerne-emmental-valley/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-berne-lucerne-emmental-valley/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29115,7 +29115,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:43,student:73,adult:86,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-interlaken-ost-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:43,student:73,adult:86,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-interlaken-ost-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-interlaken-ost-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29140,7 +29140,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:18,student:31,adult:36,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/lucerne-engelberg-express-ticket-reservation/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:18,student:31,adult:36,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/lucerne-engelberg-express-ticket-reservation/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/lucerne-engelberg-express-ticket-reservation/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29165,7 +29165,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-stgallen-wasserauen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-stgallen-wasserauen/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-stgallen-wasserauen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29190,7 +29190,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:14,student:23,adult:27,senior:24},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-lausanne-montreux/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:14,student:23,adult:27,senior:24},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-lausanne-montreux/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-lausanne-montreux/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29215,7 +29215,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-schaffhausen-romanshorn/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-schaffhausen-romanshorn/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/rail-ticket-schaffhausen-romanshorn/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29240,7 +29240,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:5,student:8,adult:9,senior:8},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/taesch-zermatt-shuttle/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:5,student:8,adult:9,senior:8},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/taesch-zermatt-shuttle/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/taesch-zermatt-shuttle/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29265,7 +29265,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-domodossola-italy-switzerland/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:60,student:101,adult:119,senior:107},bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-domodossola-italy-switzerland/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/train-ride/train-ticket-domodossola-italy-switzerland/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29819,7 +29819,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Lauterbrunnen Adventure",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/personal-information-for-your-travel-preparation-to-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Lauterbrunnen Adventure"},
+      {name:"Lauterbrunnen Adventure",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/personal-information-for-your-travel-preparation-to-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Operated by Lauterbrunnen Adventure. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/personal-information-for-your-travel-preparation-to-lauterbrunnen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29844,7 +29844,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Lauterbrunnen Adventure",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/personal-travel-planning-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Lauterbrunnen Adventure"},
+      {name:"Lauterbrunnen Adventure",pricing:{child:100,student:170,adult:200,senior:180},bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/personal-travel-planning-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Operated by Lauterbrunnen Adventure. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/personal-travel-planning-lauterbrunnen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29869,7 +29869,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Swiss Tailor Made",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/travel-planning-trip-jungfrau-region/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Swiss Tailor Made"},
+      {name:"Swiss Tailor Made",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/travel-planning-trip-jungfrau-region/?ref=odbhodn",rating:4.6,description:"Operated by Swiss Tailor Made. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/travel-preparation/travel-planning-trip-jungfrau-region/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29894,7 +29894,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Flims Laax Falera Management AG",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-pinut-for-beginners/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flims Laax Falera Management AG"},
+      {name:"Flims Laax Falera Management AG",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-pinut-for-beginners/?ref=odbhodn",rating:4.6,description:"Operated by Flims Laax Falera Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-pinut-for-beginners/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29919,7 +29919,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG Berg- und Schneesport",pricing:{child:90,student:152,adult:179,senior:161},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG Berg- und Schneesport"},
+      {name:"Outdoor Switzerland AG Berg- und Schneesport",pricing:{child:90,student:152,adult:179,senior:161},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG Berg- und Schneesport. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-muerren/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29944,7 +29944,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Alpinschule Adelboden Kandersteg",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-engstligenalp-for-beginners/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Alpinschule Adelboden Kandersteg"},
+      {name:"Alpinschule Adelboden Kandersteg",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-engstligenalp-for-beginners/?ref=odbhodn",rating:4.6,description:"Operated by Alpinschule Adelboden Kandersteg. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-engstligenalp-for-beginners/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29969,7 +29969,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Activedreams.ch",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-feeschlucht-gorge-alpine-saas-fee/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Activedreams.ch"},
+      {name:"Activedreams.ch",pricing:{child:150,student:255,adult:300,senior:270},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-feeschlucht-gorge-alpine-saas-fee/?ref=odbhodn",rating:4.6,description:"Operated by Activedreams.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-feeschlucht-gorge-alpine-saas-fee/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -29994,7 +29994,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:375,student:638,adult:750,senior:675},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/climbing-and-via-ferrata-with-mountain-guides-in-gstaad-and-rougemont/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: École Suisse de Ski et de Snowboard Rougemont Sàrl"},
+      {name:"École Suisse de Ski et de Snowboard Rougemont Sàrl",pricing:{child:375,student:638,adult:750,senior:675},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/climbing-and-via-ferrata-with-mountain-guides-in-gstaad-and-rougemont/?ref=odbhodn",rating:4.6,description:"Operated by École Suisse de Ski et de Snowboard Rougemont Sàrl. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/climbing-and-via-ferrata-with-mountain-guides-in-gstaad-and-rougemont/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -30019,7 +30019,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Ticino Outdoor",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-tre-signori/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ticino Outdoor"},
+      {name:"Ticino Outdoor",pricing:{child:100,student:169,adult:199,senior:179},bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-tre-signori/?ref=odbhodn",rating:4.6,description:"Operated by Ticino Outdoor. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-tre-signori/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -30964,7 +30964,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Lauterbrunnen Adventure",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/virtual-travel-companion/virtual-tour-guide-in-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Lauterbrunnen Adventure"},
+      {name:"Lauterbrunnen Adventure",pricing:{child:125,student:213,adult:250,senior:225},bookingUrl:"https://www.swissactivities.com/en-ch/virtual-travel-companion/virtual-tour-guide-in-lauterbrunnen/?ref=odbhodn",rating:4.6,description:"Operated by Lauterbrunnen Adventure. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/virtual-travel-companion/virtual-tour-guide-in-lauterbrunnen/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31012,7 +31012,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"water-sport.ch",pricing:{child:24,student:40,adult:47,senior:42},bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/public-wake-surfing-on-lake-constance-bodensee/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: water-sport.ch"},
+      {name:"water-sport.ch",pricing:{child:24,student:40,adult:47,senior:42},bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/public-wake-surfing-on-lake-constance-bodensee/?ref=odbhodn",rating:4.6,description:"Operated by water-sport.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/public-wake-surfing-on-lake-constance-bodensee/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31037,7 +31037,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"water-sport.ch",pricing:{child:24,student:40,adult:47,senior:42},bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/public-wakeboarding-on-lake-constance-bodensee/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: water-sport.ch"},
+      {name:"water-sport.ch",pricing:{child:24,student:40,adult:47,senior:42},bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/public-wakeboarding-on-lake-constance-bodensee/?ref=odbhodn",rating:4.6,description:"Operated by water-sport.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/public-wakeboarding-on-lake-constance-bodensee/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31085,7 +31085,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Reboat Surf&Chill",pricing:{child:650,student:1105,adult:1300,senior:1170},bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/wakesurfing-zuerich-private-boat/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Reboat Surf&Chill"},
+      {name:"Reboat Surf&Chill",pricing:{child:650,student:1105,adult:1300,senior:1170},bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/wakesurfing-zuerich-private-boat/?ref=odbhodn",rating:4.6,description:"Operated by Reboat Surf&Chill. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/wakesurfing-zuerich-private-boat/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31110,7 +31110,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Academic Surfclub Bern",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/bungeesurf-beginner-courses-in-bern/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Academic Surfclub Bern"},
+      {name:"Academic Surfclub Bern",pricing:{child:45,student:77,adult:90,senior:81},bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/bungeesurf-beginner-courses-in-bern/?ref=odbhodn",rating:4.6,description:"Operated by Academic Surfclub Bern. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wakeboarding/bungeesurf-beginner-courses-in-bern/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31204,7 +31204,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Eiger Mountain & Soul Resort",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-eiger-selfness-hotel-in-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Eiger Mountain & Soul Resort"},
+      {name:"Eiger Mountain & Soul Resort",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-eiger-selfness-hotel-in-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Eiger Mountain & Soul Resort. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-eiger-selfness-hotel-in-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31229,7 +31229,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: true,
     providers: [
-      {name:"Eiger Mountain & Soul Resort",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/admission-fitness-sauna-eiger-selfness-hotel-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Eiger Mountain & Soul Resort"},
+      {name:"Eiger Mountain & Soul Resort",pricing:{child:20,student:34,adult:40,senior:36},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/admission-fitness-sauna-eiger-selfness-hotel-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Eiger Mountain & Soul Resort. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/admission-fitness-sauna-eiger-selfness-hotel-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31254,7 +31254,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Hotel Bella Vista Zermatt",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-wellness-hotel-bella-vista-in-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Hotel Bella Vista Zermatt"},
+      {name:"Hotel Bella Vista Zermatt",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-wellness-hotel-bella-vista-in-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Hotel Bella Vista Zermatt. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/day-spa-at-the-wellness-hotel-bella-vista-in-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31279,7 +31279,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Hotel Bella Vista Zermatt",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/private-day-spa-wellness-hotel-bella-vista-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Hotel Bella Vista Zermatt"},
+      {name:"Hotel Bella Vista Zermatt",pricing:{child:85,student:145,adult:170,senior:153},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/private-day-spa-wellness-hotel-bella-vista-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Hotel Bella Vista Zermatt. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/private-day-spa-wellness-hotel-bella-vista-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31304,7 +31304,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Fitpass",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/fitpass-abo-a-week/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Fitpass"},
+      {name:"Fitpass",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/fitpass-abo-a-week/?ref=odbhodn",rating:4.6,description:"Operated by Fitpass. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/fitpass-abo-a-week/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31352,7 +31352,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: true,
     providers: [
-      {name:"Flooat AG",pricing:{child:83,student:140,adult:165,senior:149},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/flooat-float-sole-airport-zuerich/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Flooat AG"},
+      {name:"Flooat AG",pricing:{child:83,student:140,adult:165,senior:149},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/flooat-float-sole-airport-zuerich/?ref=odbhodn",rating:4.6,description:"Operated by Flooat AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/flooat-float-sole-airport-zuerich/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31377,7 +31377,7 @@ export const activities: Activity[] = [
     seasons: ["autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Rigi Bahnen AG",pricing:{child:44,student:75,adult:88,senior:79},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/rigi-kaltbad-spa-admission-mineral-bath-incl--day-ticket-rigi-cable-car/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rigi Bahnen AG"},
+      {name:"Rigi Bahnen AG",pricing:{child:44,student:75,adult:88,senior:79},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/rigi-kaltbad-spa-admission-mineral-bath-incl--day-ticket-rigi-cable-car/?ref=odbhodn",rating:4.6,description:"Operated by Rigi Bahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/rigi-kaltbad-spa-admission-mineral-bath-incl--day-ticket-rigi-cable-car/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31402,7 +31402,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/e-bike-and-spa-wellness-and-e-bike-in-bad-ragaz/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:45,student:76,adult:89,senior:80},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/e-bike-and-spa-wellness-and-e-bike-in-bad-ragaz/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/e-bike-and-spa-wellness-and-e-bike-in-bad-ragaz/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31427,7 +31427,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"XStream Park",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/various-massages-xstream-park/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: XStream Park"},
+      {name:"XStream Park",pricing:{child:43,student:72,adult:85,senior:77},bookingUrl:"https://www.swissactivities.com/en-ch/wellness/various-massages-xstream-park/?ref=odbhodn",rating:4.6,description:"Operated by XStream Park. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wellness/various-massages-xstream-park/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31613,7 +31613,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Schaffhauserland Tourismus",pricing:{child:19,student:32,adult:38,senior:34},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/steinamrhein-wine-hike-self-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schaffhauserland Tourismus"},
+      {name:"Schaffhauserland Tourismus",pricing:{child:19,student:32,adult:38,senior:34},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/steinamrhein-wine-hike-self-guided/?ref=odbhodn",rating:4.6,description:"Operated by Schaffhauserland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/steinamrhein-wine-hike-self-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31638,7 +31638,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Weingut FLORIN",pricing:{child:16,student:27,adult:32,senior:29},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/wine-and-cheese-tasting-in-stein-am-rhein/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Weingut FLORIN"},
+      {name:"Weingut FLORIN",pricing:{child:16,student:27,adult:32,senior:29},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/wine-and-cheese-tasting-in-stein-am-rhein/?ref=odbhodn",rating:4.6,description:"Operated by Weingut FLORIN. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/wine-and-cheese-tasting-in-stein-am-rhein/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31916,7 +31916,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Les Celliers de Sion",pricing:{child:5,student:8,adult:9,senior:8},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/self-guided-free-tasting-at-the-vineyard-in-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Les Celliers de Sion"},
+      {name:"Les Celliers de Sion",pricing:{child:5,student:8,adult:9,senior:8},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/self-guided-free-tasting-at-the-vineyard-in-sion/?ref=odbhodn",rating:4.6,description:"Operated by Les Celliers de Sion. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/self-guided-free-tasting-at-the-vineyard-in-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -31941,7 +31941,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Les Celliers de Sion",pricing:{child:10,student:16,adult:19,senior:17},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/first-steps-in-the-world-of-wine-at-the-vineyard-in-sion/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Les Celliers de Sion"},
+      {name:"Les Celliers de Sion",pricing:{child:10,student:16,adult:19,senior:17},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/first-steps-in-the-world-of-wine-at-the-vineyard-in-sion/?ref=odbhodn",rating:4.6,description:"Operated by Les Celliers de Sion. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/first-steps-in-the-world-of-wine-at-the-vineyard-in-sion/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32012,7 +32012,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: false,
     providers: [
-      {name:"Geneva By E-Bike",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/genf-ebike-wine-tasting-guided-tour/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Geneva By E-Bike"},
+      {name:"Geneva By E-Bike",pricing:{child:75,student:127,adult:149,senior:134},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/genf-ebike-wine-tasting-guided-tour/?ref=odbhodn",rating:4.6,description:"Operated by Geneva By E-Bike. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/genf-ebike-wine-tasting-guided-tour/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32106,7 +32106,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn"],
     indoor: false,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/guided-tour-and-tasting-davaz-winery/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:15,student:26,adult:30,senior:27},bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/guided-tour-and-tasting-davaz-winery/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/wine-tasting/guided-tour-and-tasting-davaz-winery/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32154,7 +32154,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"KÄLTENETZWERK.ch",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bathing-lake-lucerne-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: KÄLTENETZWERK.ch"},
+      {name:"KÄLTENETZWERK.ch",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bathing-lake-lucerne-guided/?ref=odbhodn",rating:4.6,description:"Operated by KÄLTENETZWERK.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bathing-lake-lucerne-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32179,7 +32179,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"KÄLTENETZWERK.ch",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/cold-hiking-lake-lucerne-guided/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: KÄLTENETZWERK.ch"},
+      {name:"KÄLTENETZWERK.ch",pricing:{child:98,student:166,adult:195,senior:176},bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/cold-hiking-lake-lucerne-guided/?ref=odbhodn",rating:4.6,description:"Operated by KÄLTENETZWERK.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/cold-hiking-lake-lucerne-guided/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32204,7 +32204,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"KÄLTENETZWERK.ch",pricing:{child:350,student:595,adult:700,senior:630},bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bath-event-for-groups/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: KÄLTENETZWERK.ch"},
+      {name:"KÄLTENETZWERK.ch",pricing:{child:350,student:595,adult:700,senior:630},bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bath-event-for-groups/?ref=odbhodn",rating:4.6,description:"Operated by KÄLTENETZWERK.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bath-event-for-groups/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32229,7 +32229,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"KÄLTENETZWERK.ch",pricing:{child:750,student:1275,adult:1500,senior:1350},bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bath-event-in-an-artificial-ice-bath-for-groups/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: KÄLTENETZWERK.ch"},
+      {name:"KÄLTENETZWERK.ch",pricing:{child:750,student:1275,adult:1500,senior:1350},bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bath-event-in-an-artificial-ice-bath-for-groups/?ref=odbhodn",rating:4.6,description:"Operated by KÄLTENETZWERK.ch. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/winter-experiences/ice-bath-event-in-an-artificial-ice-bath-for-groups/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32507,7 +32507,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Initium",pricing:{child:1245,student:2117,adult:2490,senior:2241},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-halfday-mechanical-automatic-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Initium"},
+      {name:"Initium",pricing:{child:1245,student:2117,adult:2490,senior:2241},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-halfday-mechanical-automatic-geneva/?ref=odbhodn",rating:4.6,description:"Operated by Initium. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-halfday-mechanical-automatic-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32532,7 +32532,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Initium",pricing:{child:1495,student:2542,adult:2990,senior:2691},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-full-day-lunch-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Initium"},
+      {name:"Initium",pricing:{child:1495,student:2542,adult:2990,senior:2691},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-full-day-lunch-geneva/?ref=odbhodn",rating:4.6,description:"Operated by Initium. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-full-day-lunch-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32557,7 +32557,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Initium",pricing:{child:9250,student:15725,adult:18500,senior:16650},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-full-day-tourbillon-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Initium"},
+      {name:"Initium",pricing:{child:9250,student:15725,adult:18500,senior:16650},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-full-day-tourbillon-geneva/?ref=odbhodn",rating:4.6,description:"Operated by Initium. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/watchmaking-course-full-day-tourbillon-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32582,7 +32582,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Initium",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/ring-course-halfday-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Initium"},
+      {name:"Initium",pricing:{child:245,student:417,adult:490,senior:441},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/ring-course-halfday-geneva/?ref=odbhodn",rating:4.6,description:"Operated by Initium. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/ring-course-halfday-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32745,7 +32745,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Funky Chocolate Club Switzerland",pricing:{child:38,student:64,adult:75,senior:68},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/item-1771931810173-kmqir/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Funky Chocolate Club Switzerland"},
+      {name:"Funky Chocolate Club Switzerland",pricing:{child:38,student:64,adult:75,senior:68},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/item-1771931810173-kmqir/?ref=odbhodn",rating:4.6,description:"Operated by Funky Chocolate Club Switzerland. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/item-1771931810173-kmqir/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32793,7 +32793,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Art with Us",pricing:{child:70,student:119,adult:140,senior:126},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/street-art-and-graffiti-workshop-for-groups/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Art with Us"},
+      {name:"Art with Us",pricing:{child:70,student:119,adult:140,senior:126},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/street-art-and-graffiti-workshop-for-groups/?ref=odbhodn",rating:4.6,description:"Operated by Art with Us. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/street-art-and-graffiti-workshop-for-groups/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32887,7 +32887,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/ceramic-painting-workshop-in-engadine/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Engadin Samnaun Val Müstair (Scuol)"},
+      {name:"Engadin Samnaun Val Müstair (Scuol)",pricing:{child:10,student:17,adult:20,senior:18},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/ceramic-painting-workshop-in-engadine/?ref=odbhodn",rating:4.6,description:"Operated by Engadin Samnaun Val Müstair (Scuol). Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/ceramic-painting-workshop-in-engadine/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32912,7 +32912,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"JS Guitars",pricing:{child:1450,student:2465,adult:2900,senior:2610},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/build-your-own-electric-guitar-guitar-making-course-in-etoy-on-lake-geneva/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: JS Guitars"},
+      {name:"JS Guitars",pricing:{child:1450,student:2465,adult:2900,senior:2610},bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/build-your-own-electric-guitar-guitar-making-course-in-etoy-on-lake-geneva/?ref=odbhodn",rating:4.6,description:"Operated by JS Guitars. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/creative-workshop/build-your-own-electric-guitar-guitar-making-course-in-etoy-on-lake-geneva/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32960,7 +32960,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Heidiland Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/yoga/sup-yoga-on-lake-walensee/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Heidiland Tourismus"},
+      {name:"Heidiland Tourismus",pricing:{child:18,student:30,adult:35,senior:32},bookingUrl:"https://www.swissactivities.com/en-ch/yoga/sup-yoga-on-lake-walensee/?ref=odbhodn",rating:4.6,description:"Operated by Heidiland Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/yoga/sup-yoga-on-lake-walensee/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -32985,7 +32985,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: false,
     providers: [
-      {name:"Knies Kinderzoo",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/monkey-breakfast-with-ring-tailed-lemur-or-squirrel-monkey-at-knies-childrens-zoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Knies Kinderzoo"},
+      {name:"Knies Kinderzoo",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/monkey-breakfast-with-ring-tailed-lemur-or-squirrel-monkey-at-knies-childrens-zoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Operated by Knies Kinderzoo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/zoo/monkey-breakfast-with-ring-tailed-lemur-or-squirrel-monkey-at-knies-childrens-zoo-rapperswil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33056,7 +33056,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: false,
     providers: [
-      {name:"Knies Kinderzoo",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/meerkat-meetup-at-knies-kinderzoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Knies Kinderzoo"},
+      {name:"Knies Kinderzoo",pricing:{child:15,student:25,adult:29,senior:26},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/meerkat-meetup-at-knies-kinderzoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Operated by Knies Kinderzoo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/zoo/meerkat-meetup-at-knies-kinderzoo-rapperswil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33081,7 +33081,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: false,
     providers: [
-      {name:"Knies Kinderzoo",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/spotted-cheetah-meeting-at-knies-childrens-zoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Knies Kinderzoo"},
+      {name:"Knies Kinderzoo",pricing:{child:40,student:67,adult:79,senior:71},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/spotted-cheetah-meeting-at-knies-childrens-zoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Operated by Knies Kinderzoo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/zoo/spotted-cheetah-meeting-at-knies-childrens-zoo-rapperswil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33106,7 +33106,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: false,
     providers: [
-      {name:"Knies Kinderzoo",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/cowboy-and-cowgirl-at-the-pony-ranch-in-knie-childrens-zoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Knies Kinderzoo"},
+      {name:"Knies Kinderzoo",pricing:{child:13,student:21,adult:25,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/cowboy-and-cowgirl-at-the-pony-ranch-in-knie-childrens-zoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Operated by Knies Kinderzoo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/zoo/cowboy-and-cowgirl-at-the-pony-ranch-in-knie-childrens-zoo-rapperswil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33131,7 +33131,7 @@ export const activities: Activity[] = [
     seasons: ["spring"],
     indoor: false,
     providers: [
-      {name:"Knies Kinderzoo",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Knies Kinderzoo"},
+      {name:"Knies Kinderzoo",pricing:{child:30,student:50,adult:59,senior:53},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",rating:4.6,description:"Operated by Knies Kinderzoo. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/zoo/penguin-feeding-at-knies-kinderzoo-rapperswil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33179,7 +33179,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer"],
     indoor: false,
     providers: [
-      {name:"Basel Tourismus",pricing:{child:25,student:42,adult:49,senior:44},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/post-run-basil-zolli-ticket-basel-zoo/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Basel Tourismus"},
+      {name:"Basel Tourismus",pricing:{child:25,student:42,adult:49,senior:44},bookingUrl:"https://www.swissactivities.com/en-ch/zoo/post-run-basil-zolli-ticket-basel-zoo/?ref=odbhodn",rating:4.6,description:"Operated by Basel Tourismus. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/zoo/post-run-basil-zolli-ticket-basel-zoo/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33260,7 +33260,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Jungfraubahnen Management AG",pricing:{child:19,student:32,adult:38,senior:34},bookingUrl:"https://www.swissactivities.com/en-ch/first-cliff-walk-by-tissot-with-thrills/ticket-firstbahn-to-grindelwald-first-top-of-adventure/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jungfraubahnen Management AG"},
+      {name:"Jungfraubahnen Management AG",pricing:{child:19,student:32,adult:38,senior:34},bookingUrl:"https://www.swissactivities.com/en-ch/first-cliff-walk-by-tissot-with-thrills/ticket-firstbahn-to-grindelwald-first-top-of-adventure/?ref=odbhodn",rating:4.6,description:"Operated by Jungfraubahnen Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/first-cliff-walk-by-tissot-with-thrills/ticket-firstbahn-to-grindelwald-first-top-of-adventure/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33285,7 +33285,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Pilatus-Bahnen AG",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-self-guided-golden-round-trip-from-lucerne-including-boat-cruise/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Pilatus-Bahnen AG"},
+      {name:"Pilatus-Bahnen AG",pricing:{child:60,student:102,adult:120,senior:108},bookingUrl:"https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-self-guided-golden-round-trip-from-lucerne-including-boat-cruise/?ref=odbhodn",rating:4.6,description:"Operated by Pilatus-Bahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-self-guided-golden-round-trip-from-lucerne-including-boat-cruise/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33310,7 +33310,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Pilatus-Bahnen AG",pricing:{child:42,student:71,adult:84,senior:76},bookingUrl:"https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-summer-trip-self-guided-with-cogwheel-railway-and-cable-car-from-to-alpnachstad-or-kriens/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Pilatus-Bahnen AG"},
+      {name:"Pilatus-Bahnen AG",pricing:{child:42,student:71,adult:84,senior:76},bookingUrl:"https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-summer-trip-self-guided-with-cogwheel-railway-and-cable-car-from-to-alpnachstad-or-kriens/?ref=odbhodn",rating:4.6,description:"Operated by Pilatus-Bahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/pilatus-the-dragon-mountain-in-lucerne/pilatus-summer-trip-self-guided-with-cogwheel-railway-and-cable-car-from-to-alpnachstad-or-kriens/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33335,7 +33335,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Schilthorn Cableway Ltd.",pricing:{child:61,student:103,adult:121,senior:109},bookingUrl:"https://www.swissactivities.com/en-ch/schilthorn-piz-gloria-your-guide/snack-at-piz-gloria-schilthorn-incl-train-ticket/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schilthorn Cableway Ltd."},
+      {name:"Schilthorn Cableway Ltd.",pricing:{child:61,student:103,adult:121,senior:109},bookingUrl:"https://www.swissactivities.com/en-ch/schilthorn-piz-gloria-your-guide/snack-at-piz-gloria-schilthorn-incl-train-ticket/?ref=odbhodn",rating:4.6,description:"Operated by Schilthorn Cableway Ltd.. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/schilthorn-piz-gloria-your-guide/snack-at-piz-gloria-schilthorn-incl-train-ticket/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33383,7 +33383,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: false,
     providers: [
-      {name:"Outdoor Switzerland AG Berg- und Schneesport",pricing:{child:11,student:18,adult:21,senior:19},bookingUrl:"https://www.swissactivities.com/en-ch/glacier-gorge-grindelwald/ticket-glacier-gorge-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG Berg- und Schneesport"},
+      {name:"Outdoor Switzerland AG Berg- und Schneesport",pricing:{child:11,student:18,adult:21,senior:19},bookingUrl:"https://www.swissactivities.com/en-ch/glacier-gorge-grindelwald/ticket-glacier-gorge-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Outdoor Switzerland AG Berg- und Schneesport. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/glacier-gorge-grindelwald/ticket-glacier-gorge-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33408,7 +33408,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Jungfraubahnen Management AG",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/the-schynige-platte/schynige-platte-ticket-rack-railroad-from-wilderswil/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jungfraubahnen Management AG"},
+      {name:"Jungfraubahnen Management AG",pricing:{child:17,student:29,adult:34,senior:31},bookingUrl:"https://www.swissactivities.com/en-ch/the-schynige-platte/schynige-platte-ticket-rack-railroad-from-wilderswil/?ref=odbhodn",rating:4.6,description:"Operated by Jungfraubahnen Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/the-schynige-platte/schynige-platte-ticket-rack-railroad-from-wilderswil/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33433,7 +33433,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Tschentenbahnen AG",pricing:{child:13,student:22,adult:26,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/the-tschentenalp/tschentenalp-ticket-cable-car/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Tschentenbahnen AG"},
+      {name:"Tschentenbahnen AG",pricing:{child:13,student:22,adult:26,senior:23},bookingUrl:"https://www.swissactivities.com/en-ch/the-tschentenalp/tschentenalp-ticket-cable-car/?ref=odbhodn",rating:4.6,description:"Operated by Tschentenbahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/the-tschentenalp/tschentenalp-ticket-cable-car/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33504,7 +33504,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/in-zurich-daily-tour-to-stanserhorn-including-cable-car/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/in-zurich-daily-tour-to-stanserhorn-including-cable-car/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/in-zurich-daily-tour-to-stanserhorn-including-cable-car/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33529,7 +33529,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:21,student:35,adult:41,senior:37},bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:21,student:35,adult:41,senior:37},bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/stanserhorn-cabrio-and-funicular/stanserhorn-ticket-funicular-convertible/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33554,7 +33554,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Verkehrshaus der Schweiz",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/day-pass-museum-of-transport-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Verkehrshaus der Schweiz"},
+      {name:"Verkehrshaus der Schweiz",pricing:{child:19,student:31,adult:37,senior:33},bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/day-pass-museum-of-transport-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Verkehrshaus der Schweiz. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/day-pass-museum-of-transport-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33579,7 +33579,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Verkehrshaus der Schweiz",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/planetarium-museum-of-transport-lucerne-admission/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Verkehrshaus der Schweiz"},
+      {name:"Verkehrshaus der Schweiz",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/planetarium-museum-of-transport-lucerne-admission/?ref=odbhodn",rating:4.6,description:"Operated by Verkehrshaus der Schweiz. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/planetarium-museum-of-transport-lucerne-admission/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33604,7 +33604,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Verkehrshaus der Schweiz",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/swiss-chocolate-adventure-tour-museum-of-transport-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Verkehrshaus der Schweiz"},
+      {name:"Verkehrshaus der Schweiz",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/swiss-chocolate-adventure-tour-museum-of-transport-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Verkehrshaus der Schweiz. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/swiss-chocolate-adventure-tour-museum-of-transport-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33629,7 +33629,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: true,
     providers: [
-      {name:"Verkehrshaus der Schweiz",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/museum-of-transport-lucerne-day-program-movie-theater/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Verkehrshaus der Schweiz"},
+      {name:"Verkehrshaus der Schweiz",pricing:{child:9,student:15,adult:18,senior:16},bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/museum-of-transport-lucerne-day-program-movie-theater/?ref=odbhodn",rating:4.6,description:"Operated by Verkehrshaus der Schweiz. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/museum-of-transport-lucerne-day-program-movie-theater/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33654,7 +33654,7 @@ export const activities: Activity[] = [
     seasons: ["summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Château de Chillon",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/chillon-castle/ticket-chateau-chillon-in-montreux/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Château de Chillon"},
+      {name:"Château de Chillon",pricing:{child:8,student:13,adult:15,senior:14},bookingUrl:"https://www.swissactivities.com/en-ch/chillon-castle/ticket-chateau-chillon-in-montreux/?ref=odbhodn",rating:4.6,description:"Operated by Château de Chillon. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/chillon-castle/ticket-chateau-chillon-in-montreux/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33679,7 +33679,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"TITLIS Bergbahnen, Hotels & Restaurants",pricing:{child:51,student:87,adult:102,senior:92},bookingUrl:"https://www.swissactivities.com/en-ch/titlis-with-the-rotair-gondola-to-the-glacier/rail-ticket-titlis-from-engelberg/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: TITLIS Bergbahnen, Hotels & Restaurants"},
+      {name:"TITLIS Bergbahnen, Hotels & Restaurants",pricing:{child:51,student:87,adult:102,senior:92},bookingUrl:"https://www.swissactivities.com/en-ch/titlis-with-the-rotair-gondola-to-the-glacier/rail-ticket-titlis-from-engelberg/?ref=odbhodn",rating:4.6,description:"Operated by TITLIS Bergbahnen, Hotels & Restaurants. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/titlis-with-the-rotair-gondola-to-the-glacier/rail-ticket-titlis-from-engelberg/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33704,7 +33704,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: false,
     providers: [
-      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:33,student:56,adult:66,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/the-gornergrat/ticket-gornergrat-bahn-from-zermatt/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"},
+      {name:"Schweizerische Bundesbahnen SBB",pricing:{child:33,student:56,adult:66,senior:59},bookingUrl:"https://www.swissactivities.com/en-ch/the-gornergrat/ticket-gornergrat-bahn-from-zermatt/?ref=odbhodn",rating:4.6,description:"Operated by Schweizerische Bundesbahnen SBB. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/the-gornergrat/ticket-gornergrat-bahn-from-zermatt/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33729,7 +33729,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Jungfraubahnen Management AG",pricing:{child:14,student:24,adult:28,senior:25},bookingUrl:"https://www.swissactivities.com/en-ch/eiger-glacier/ticket-eiger-express-from-grindelwald-terminal/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jungfraubahnen Management AG"},
+      {name:"Jungfraubahnen Management AG",pricing:{child:14,student:24,adult:28,senior:25},bookingUrl:"https://www.swissactivities.com/en-ch/eiger-glacier/ticket-eiger-express-from-grindelwald-terminal/?ref=odbhodn",rating:4.6,description:"Operated by Jungfraubahnen Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/eiger-glacier/ticket-eiger-express-from-grindelwald-terminal/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33754,7 +33754,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Jungfraubahnen Management AG",pricing:{child:19,student:32,adult:38,senior:34},bookingUrl:"https://www.swissactivities.com/en-ch/eiger-glacier/eiger-run-sledging-ticket-eiger-express-from-grindelwald/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Jungfraubahnen Management AG"},
+      {name:"Jungfraubahnen Management AG",pricing:{child:19,student:32,adult:38,senior:34},bookingUrl:"https://www.swissactivities.com/en-ch/eiger-glacier/eiger-run-sledging-ticket-eiger-express-from-grindelwald/?ref=odbhodn",rating:4.6,description:"Operated by Jungfraubahnen Management AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/eiger-glacier/eiger-run-sledging-ticket-eiger-express-from-grindelwald/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33779,7 +33779,7 @@ export const activities: Activity[] = [
     seasons: ["autumn"],
     indoor: true,
     providers: [
-      {name:"Rigi Bahnen AG",pricing:{child:39,student:66,adult:78,senior:70},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/rigi-day-pass/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rigi Bahnen AG"},
+      {name:"Rigi Bahnen AG",pricing:{child:39,student:66,adult:78,senior:70},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/rigi-day-pass/?ref=odbhodn",rating:4.6,description:"Operated by Rigi Bahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rigi/rigi-day-pass/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33804,7 +33804,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:72,student:122,adult:144,senior:130},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/day-trip-rigi-from-lucerne/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:72,student:122,adult:144,senior:130},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/day-trip-rigi-from-lucerne/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rigi/day-trip-rigi-from-lucerne/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33829,7 +33829,7 @@ export const activities: Activity[] = [
     seasons: ["summer"],
     indoor: true,
     providers: [
-      {name:"Best of Switzerland Tours",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/from-zurich-day-trip-to-the-rigi/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"},
+      {name:"Best of Switzerland Tours",pricing:{child:75,student:128,adult:150,senior:135},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/from-zurich-day-trip-to-the-rigi/?ref=odbhodn",rating:4.6,description:"Operated by Best of Switzerland Tours. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rigi/from-zurich-day-trip-to-the-rigi/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33854,7 +33854,7 @@ export const activities: Activity[] = [
     seasons: ["summer","winter"],
     indoor: false,
     providers: [
-      {name:"Rigi Bahnen AG",pricing:{child:39,student:66,adult:78,senior:70},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/rigi-ski-day-pass/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rigi Bahnen AG"},
+      {name:"Rigi Bahnen AG",pricing:{child:39,student:66,adult:78,senior:70},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/rigi-ski-day-pass/?ref=odbhodn",rating:4.6,description:"Operated by Rigi Bahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rigi/rigi-ski-day-pass/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33879,7 +33879,7 @@ export const activities: Activity[] = [
     seasons: ["winter"],
     indoor: false,
     providers: [
-      {name:"Rigi Bahnen AG",pricing:{child:39,student:66,adult:78,senior:70},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/day-ticket-for-sledging-on-the-rigi/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Rigi Bahnen AG"},
+      {name:"Rigi Bahnen AG",pricing:{child:39,student:66,adult:78,senior:70},bookingUrl:"https://www.swissactivities.com/en-ch/rigi/day-ticket-for-sledging-on-the-rigi/?ref=odbhodn",rating:4.6,description:"Operated by Rigi Bahnen AG. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/rigi/day-ticket-for-sledging-on-the-rigi/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
@@ -33904,7 +33904,7 @@ export const activities: Activity[] = [
     seasons: ["spring","summer","autumn","winter"],
     indoor: true,
     providers: [
-      {name:"Ballenberg",pricing:{child:16,student:27,adult:32,senior:29},bookingUrl:"https://www.swissactivities.com/en-ch/ballenberg-open-air-museum/ballenberg-entrance-ticket/?ref=odbhodn",rating:4.6,description:"Live price scraped from SwissActivities · supplier: Ballenberg"},
+      {name:"Ballenberg",pricing:{child:16,student:27,adult:32,senior:29},bookingUrl:"https://www.swissactivities.com/en-ch/ballenberg-open-air-museum/ballenberg-entrance-ticket/?ref=odbhodn",rating:4.6,description:"Operated by Ballenberg. Book via SwissActivities — free cancellation, instant confirmation."},
     ],
     marketplaces: [
       {partnerId:"swissactivities",partnerName:"SwissActivities",bookingUrl:"https://www.swissactivities.com/en-ch/ballenberg-open-air-museum/ballenberg-entrance-ticket/?ref=odbhodn",isDirectLink:true,rating:4.4,description:"Switzerland's largest activities marketplace — book securely online"},
