@@ -1,0 +1,53 @@
+{
+  "id": "982",
+  "slug": "driving-experience-in-the-racing-simulator-at-schaffhausen",
+  "name": "\"Driving Experience\" in the racing simulator at Schaffhausen",
+  "description": "Discover \"Driving Experience\" in the racing simulator at Schaffhausen in Switzerland.",
+  "longDescription": "Discover \"Driving Experience\" in the racing simulator at Schaffhausen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Racing simulator",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "SimUltimate GmbH",
+      "pricing": {
+        "child": 25,
+        "student": 42,
+        "adult": 49,
+        "senior": 44
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/racing-simulator/driving-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: SimUltimate GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/racing-simulator/driving-experience-in-the-racing-simulator-at-schaffhausen/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

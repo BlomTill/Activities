@@ -1,0 +1,55 @@
+{
+  "id": "994",
+  "slug": "rafting-inn-giarsun-half-day",
+  "name": "Whitewater rafting Giarsun Gorge on the Inn for advanced rafters",
+  "description": "Discover Whitewater rafting Giarsun Gorge on the Inn for advanced rafters in Switzerland.",
+  "longDescription": "Discover Whitewater rafting Giarsun Gorge on the Inn for advanced rafters in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Rafting",
+  "location": {
+    "region": "Graubünden region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Bergbahnen Scuol AG",
+      "pricing": {
+        "child": 72,
+        "student": 122,
+        "adult": 143,
+        "senior": 129
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-inn-giarsun-half-day/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Bergbahnen Scuol AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-inn-giarsun-half-day/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

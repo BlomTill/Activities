@@ -1,0 +1,56 @@
+{
+  "id": "950",
+  "slug": "simplon-pass-postbus-from-brig-or-domodossola",
+  "name": "Simplon Pass Postbus from Brig or Domodossola",
+  "description": "Discover Simplon Pass Postbus from Brig or Domodossola in Switzerland.",
+  "longDescription": "Discover Simplon Pass Postbus from Brig or Domodossola in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Postbus",
+  "location": {
+    "region": "Valais region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Schweizerische Bundesbahnen SBB",
+      "pricing": {
+        "child": 22,
+        "student": 37,
+        "adult": 43,
+        "senior": 39
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/simplon-pass-postbus-from-brig-or-domodossola/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/simplon-pass-postbus-from-brig-or-domodossola/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

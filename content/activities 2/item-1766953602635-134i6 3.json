@@ -1,0 +1,43 @@
+{
+  "id": "526",
+  "slug": "item-1766953602635-134i6",
+  "name": "\"Find-the-Code: Lost History including Augmented Reality\" Outdoor Escape Game Solothurn",
+  "description": "Discover \"Find-the-Code: Lost History including Augmented Reality\" Outdoor Escape Game Solothurn in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Lost History including Augmented Reality\" Outdoor Escape Game Solothurn in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Escape room and games",
+  "location": {
+    "region": "Aargau region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/item-1766953602635-134i6/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

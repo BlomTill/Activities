@@ -1,0 +1,58 @@
+{
+  "id": "374",
+  "slug": "from-lausanne-bus-tour-to-interlaken-and-jungfraujoch",
+  "name": "From Lausanne: Bus tour to Interlaken and Jungfraujoch",
+  "description": "Discover From Lausanne: Bus tour to Interlaken and Jungfraujoch in Switzerland.",
+  "longDescription": "Discover From Lausanne: Bus tour to Interlaken and Jungfraujoch in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Lake Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Keytours SA",
+      "pricing": {
+        "child": 178,
+        "student": 302,
+        "adult": 355,
+        "senior": 320
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Keytours SA"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/from-lausanne-bus-tour-to-interlaken-and-jungfraujoch/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken",
+    "lausanne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "977",
+  "slug": "item-1770819237349-dlqlt",
+  "name": "Lugano: Drive a 3-wheeled Vanderhall Roadster starting from Locarno",
+  "description": "Discover Lugano: Drive a 3-wheeled Vanderhall Roadster starting from Locarno in Switzerland.",
+  "longDescription": "Discover Lugano: Drive a 3-wheeled Vanderhall Roadster starting from Locarno in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Quad",
+  "location": {
+    "region": "Ticino region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Roadster4rent.ch",
+      "pricing": {
+        "child": 390,
+        "student": 663,
+        "adult": 780,
+        "senior": 702
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/item-1770819237349-dlqlt/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Roadster4rent.ch"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/item-1770819237349-dlqlt/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lugano"
+  ],
+  "featured": false
+}

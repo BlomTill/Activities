@@ -1,0 +1,59 @@
+{
+  "id": "162",
+  "slug": "discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions",
+  "name": "Discovery Balloon Ride: Western Switzerland with Lake Geneva and Alpine Regions",
+  "description": "Discover Discovery Balloon Ride: Western Switzerland with Lake Geneva and Alpine Regions in Switzerland.",
+  "longDescription": "Discover Discovery Balloon Ride: Western Switzerland with Lake Geneva and Alpine Regions in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Ballooning",
+  "location": {
+    "region": "Lake Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Ballons Du Leman",
+      "pricing": {
+        "child": 188,
+        "student": 319,
+        "adult": 375,
+        "senior": 338
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ballooning/discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Ballons Du Leman"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ballooning/discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "geneva"
+  ],
+  "featured": false
+}

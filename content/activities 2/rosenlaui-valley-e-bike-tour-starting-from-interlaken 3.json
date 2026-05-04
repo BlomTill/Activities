@@ -1,0 +1,59 @@
+{
+  "id": "419",
+  "slug": "rosenlaui-valley-e-bike-tour-starting-from-interlaken",
+  "name": "\"Rosenlaui Valley\" - E-Bike Tour Starting from Interlaken",
+  "description": "Discover \"Rosenlaui Valley\" - E-Bike Tour Starting from Interlaken in Switzerland.",
+  "longDescription": "Discover \"Rosenlaui Valley\" - E-Bike Tour Starting from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "E-bike",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Seek Adventure",
+      "pricing": {
+        "child": 175,
+        "student": 297,
+        "adult": 349,
+        "senior": 314
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/rosenlaui-valley-e-bike-tour-starting-from-interlaken/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Seek Adventure"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/rosenlaui-valley-e-bike-tour-starting-from-interlaken/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

@@ -1,0 +1,46 @@
+{
+  "id": "1322",
+  "slug": "zurich-airport-transfer-davos-st-moritz-arosa-laax",
+  "name": "From Zurich Airport: Transfer to Davos, St. Moritz, Arosa or Laax",
+  "description": "Discover From Zurich Airport: Transfer to Davos, St. Moritz, Arosa or Laax in Switzerland.",
+  "longDescription": "Discover From Zurich Airport: Transfer to Davos, St. Moritz, Arosa or Laax in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Transfer",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/transfer/zurich-airport-transfer-davos-st-moritz-arosa-laax/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "st.-moritz",
+    "davos"
+  ],
+  "featured": false
+}

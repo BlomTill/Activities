@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useEffect, useState } from "react";
+import { PartnerWidget, GYG_CITIES } from "@/components/partners/partner-widget";
 
 /* ──────────────────────────────────────────────────────────────
    ALPINE SUNSHINE HOME — warm, lively, postcard editorial.
@@ -90,6 +91,36 @@ function SearchIcon() {
   );
 }
 
+function MountainPeaks() {
+  // 3-layer parallax mountain silhouette behind the hero. The layers
+  // translate at different speeds via scroll-driven CSS variables in
+  // setupPeaksParallax (see useEasterEggs effect below).
+  return (
+    <div className="wander-peaks" id="peaks" aria-hidden>
+      <svg viewBox="0 0 1440 220" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+        {/* back layer — soft, distant */}
+        <path
+          className="peak-back"
+          d="M0,220 L0,150 L120,110 L260,150 L380,80 L520,140 L640,90 L780,150 L900,80 L1040,140 L1180,90 L1320,140 L1440,100 L1440,220 Z"
+          fill="rgba(46,111,94,0.35)"
+        />
+        {/* mid layer */}
+        <path
+          className="peak-mid"
+          d="M0,220 L0,170 L140,130 L280,160 L420,90 L540,150 L680,110 L820,160 L960,100 L1100,150 L1240,110 L1380,160 L1440,140 L1440,220 Z"
+          fill="rgba(46,111,94,0.55)"
+        />
+        {/* front layer — closest, sharp */}
+        <path
+          className="peak-front"
+          d="M0,220 L0,200 L160,170 L320,190 L460,140 L600,180 L740,160 L880,200 L1020,150 L1160,190 L1300,160 L1440,200 L1440,220 Z"
+          fill="rgba(31,42,46,0.78)"
+        />
+      </svg>
+    </div>
+  );
+}
+
 function Hero({ stats }: { stats: HomeStats }) {
   const [q, setQ] = useState("");
   return (
@@ -101,6 +132,7 @@ function Hero({ stats }: { stats: HomeStats }) {
       }}/>
       <Cloud className="a-cloud-1" />
       <Cloud className="a-cloud-2" />
+      <MountainPeaks />
 
       <div className="a-container" style={{ paddingTop: 56, paddingBottom: 28, position: "relative" }}>
         <div className="hero-grid" style={{
@@ -421,7 +453,7 @@ function useEasterEggs() {
     };
     const onClick = (e: MouseEvent) => {
       const target = e.target as HTMLElement | null;
-      const btn = target?.closest(".a-btn") as HTMLElement | null;
+      const btn = target?.closest(".a-btn, .wander-btn") as HTMLElement | null;
       if (!btn) return;
       const r = btn.getBoundingClientRect();
       const span = document.createElement("span");
@@ -438,13 +470,57 @@ function useEasterEggs() {
       btn.appendChild(span);
       setTimeout(() => span.remove(), 650);
     };
+    // peaks parallax — translate the 3 SVG layers as the user scrolls.
+    let raf = 0;
+    const peaks = document.getElementById("peaks");
+    const onScroll = () => {
+      if (!peaks) return;
+      if (raf) cancelAnimationFrame(raf);
+      raf = requestAnimationFrame(() => {
+        const y = window.scrollY;
+        peaks.style.setProperty("--py-back",  -y * 0.04 + "px");
+        peaks.style.setProperty("--py-mid",   -y * 0.08 + "px");
+        peaks.style.setProperty("--py-front", -y * 0.14 + "px");
+      });
+    };
     document.addEventListener("keydown", onKey);
     document.addEventListener("click", onClick);
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
     return () => {
       document.removeEventListener("keydown", onKey);
       document.removeEventListener("click", onClick);
+      window.removeEventListener("scroll", onScroll);
+      if (raf) cancelAnimationFrame(raf);
     };
   }, []);
+}
+
+/**
+ * Live partner offers — pulls a Switzerland-wide carousel from
+ * GetYourGuide. Renders only after the gyg-loader script (mounted
+ * globally in PartnerScripts) hydrates.
+ */
+function PartnerOffers() {
+  return (
+    <section style={{ padding: "16px 0 80px" }}>
+      <div className="a-container">
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "end", flexWrap: "wrap", gap: 16, marginBottom: 28 }}>
+          <div>
+            <span className="a-kicker"><span className="bar" />Live availability</span>
+            <h2 className="alpine-display" style={{ fontSize: "clamp(30px, 4vw, 48px)", lineHeight: 1.05, margin: "10px 0 0" }}>
+              Book today, <em style={{ fontStyle: "italic", color: "var(--accent)" }}>real prices.</em>
+            </h2>
+            <p style={{ color: "var(--ink-soft)", margin: "10px 0 0", maxWidth: 540 }}>
+              Powered by GetYourGuide. Prices, availability and ratings refresh in real time.
+            </p>
+          </div>
+          <Link className="a-btn a-btn-ghost" href="/partners">How we earn →</Link>
+        </div>
+        <PartnerWidget partner="getyourguide" type="city" locationId={GYG_CITIES.switzerland} />
+      </div>
+    </section>
+  );
 }
 
 function triggerConfetti(count = 80, colors?: string[]) {
@@ -486,6 +562,7 @@ export default function HomePageClient({ stats }: { stats: HomeStats }) {
       <FeatureRow />
       <ItinTeaser />
       <StoriesRow />
+      <PartnerOffers />
     </div>
   );
 }

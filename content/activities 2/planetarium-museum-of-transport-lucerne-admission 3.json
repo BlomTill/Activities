@@ -1,0 +1,56 @@
+{
+  "id": "1487",
+  "slug": "planetarium-museum-of-transport-lucerne-admission",
+  "name": "Planetarium Museum of Transport Lucerne Admission",
+  "description": "Discover Planetarium Museum of Transport Lucerne Admission in Switzerland.",
+  "longDescription": "Discover Planetarium Museum of Transport Lucerne Admission in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Museums",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Verkehrshaus der Schweiz",
+      "pricing": {
+        "child": 9,
+        "student": 15,
+        "adult": 18,
+        "senior": 16
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/planetarium-museum-of-transport-lucerne-admission/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Verkehrshaus der Schweiz"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/museum-of-transport-lucerne/planetarium-museum-of-transport-lucerne-admission/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "museum",
+    "lucerne"
+  ],
+  "featured": false
+}

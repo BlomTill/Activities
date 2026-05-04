@@ -1,0 +1,44 @@
+{
+  "id": "1154",
+  "slug": "swiss-family-card-free-of-charge",
+  "name": "Swiss Family Card (free) for children aged 6 to 15",
+  "description": "Discover Swiss Family Card (free) for children aged 6 to 15 in Switzerland.",
+  "longDescription": "Discover Swiss Family Card (free) for children aged 6 to 15 in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Swiss Rail Passes",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rail-pass/swiss-family-card-free-of-charge/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "family"
+  ],
+  "featured": false
+}

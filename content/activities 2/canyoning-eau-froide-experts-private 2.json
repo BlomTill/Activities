@@ -1,0 +1,45 @@
+{
+  "id": "230",
+  "slug": "canyoning-eau-froide-experts-private",
+  "name": "Eau Froide canyoning for private experts",
+  "description": "Discover Eau Froide canyoning for private experts in Switzerland.",
+  "longDescription": "Discover Eau Froide canyoning for private experts in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Canyoning",
+  "location": {
+    "region": "Lake Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-eau-froide-experts-private/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

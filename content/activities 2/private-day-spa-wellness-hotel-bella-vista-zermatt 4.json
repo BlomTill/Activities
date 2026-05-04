@@ -1,0 +1,57 @@
+{
+  "id": "1391",
+  "slug": "private-day-spa-wellness-hotel-bella-vista-zermatt",
+  "name": "Private Day Spa at Wellness Hotel Bella Vista in Zermatt",
+  "description": "Discover Private Day Spa at Wellness Hotel Bella Vista in Zermatt in Switzerland.",
+  "longDescription": "Discover Private Day Spa at Wellness Hotel Bella Vista in Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Wellness and adventure pools",
+  "location": {
+    "region": "Valais region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Hotel Bella Vista Zermatt",
+      "pricing": {
+        "child": 85,
+        "student": 145,
+        "adult": 170,
+        "senior": 153
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/private-day-spa-wellness-hotel-bella-vista-zermatt/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Hotel Bella Vista Zermatt"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/private-day-spa-wellness-hotel-bella-vista-zermatt/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "wellness",
+    "spa",
+    "zermatt"
+  ],
+  "featured": false
+}

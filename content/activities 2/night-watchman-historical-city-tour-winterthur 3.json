@@ -1,0 +1,55 @@
+{
+  "id": "1233",
+  "slug": "night-watchman-historical-city-tour-winterthur",
+  "name": "\"Night Watchman\" Historical City Tour Winterthur",
+  "description": "Discover \"Night Watchman\" Historical City Tour Winterthur in Switzerland.",
+  "longDescription": "Discover \"Night Watchman\" Historical City Tour Winterthur in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Tours",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "House of Winterthur",
+      "pricing": {
+        "child": 13,
+        "student": 21,
+        "adult": 25,
+        "senior": 23
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-historical-city-tour-winterthur/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: House of Winterthur"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-historical-city-tour-winterthur/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "watch"
+  ],
+  "featured": false
+}

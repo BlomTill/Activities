@@ -1,0 +1,40 @@
+{
+  "id": "758",
+  "slug": "book-your-guide-guided-group-hike-in-jura-park-aargau",
+  "name": "Book Your Guide - Guided Group Hike in Jura Park Aargau",
+  "description": "Discover Book Your Guide - Guided Group Hike in Jura Park Aargau in Switzerland.",
+  "longDescription": "Discover Book Your Guide - Guided Group Hike in Jura Park Aargau in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Aargau region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/book-your-guide-guided-group-hike-in-jura-park-aargau/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

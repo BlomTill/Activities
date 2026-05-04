@@ -1,266 +1,312 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
-import { Mountain, Menu, X, Scale, ChevronDown } from "lucide-react";
-import { useState, useEffect } from "react";
-import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
-import { LanguageSwitcher } from "@/components/language-switcher";
-import { useComparison } from "@/context/comparison-context";
-import { cn } from "@/lib/utils";
+import { usePathname, useRouter } from "next/navigation";
+import { useEffect, useRef, useState } from "react";
+import { useWanderTheme } from "./theme-provider";
+import { triggerYodel } from "./yodel";
 
 /**
- * Reduced 5-item top nav per MASTER_PLAN.md. Each item is either a
- * direct link, or a dropdown "mega-menu" that exposes the sub-pages.
- * Keeping the header quiet means the page below can carry the story.
+ * wander.ch sticky header.
+ * - Cream blurred backdrop
+ * - Logo with orange triangle mark + .ch dot accent
+ * - Centre nav links (hidden on mobile)
+ * - Theme (sun) toggle + EN·CHF chip + "Plan a trip" CTA
+ * - "More" mega-dropdown with grouped links + editor's pick card
+ * - 5x logo click triggers yodel/confetti easter egg
  */
-interface SubLink {
-  href: string;
+
+interface NavLink {
   label: string;
-  blurb?: string;
-}
-interface NavItem {
   href: string;
-  label: string;
-  sub?: SubLink[];
+  match?: string[]; // pathnames that should highlight this link
 }
 
-const NAV: NavItem[] = [
+const NAV_LINKS: NavLink[] = [
+  { label: "Activities", href: "/activities", match: ["/activities"] },
+  { label: "Itineraries", href: "/itineraries", match: ["/itineraries"] },
+  { label: "Stories", href: "/stories", match: ["/stories", "/blog"] },
+  { label: "Destinations", href: "/destinations", match: ["/destinations", "/regions"] },
+  { label: "Map", href: "/map" },
+  { label: "Deals", href: "/deals" },
+];
+
+interface MegaGroup {
+  head: string;
+  links: { label: string; href: string }[];
+}
+
+const MEGA_GROUPS: MegaGroup[] = [
   {
-    href: "/destinations",
-    label: "Destinations",
-    sub: [
-      { href: "/destinations", label: "All regions", blurb: "Browse every Swiss region" },
-      { href: "/map", label: "Map", blurb: "Activities plotted across Switzerland" },
-      { href: "/activities", label: "All activities", blurb: "The full catalogue" },
+    head: "Plan",
+    links: [
+      { label: "Trip planner", href: "/planner" },
+      { label: "Budget calculator", href: "/budget" },
+      { label: "Compare activities", href: "/compare" },
+      { label: "Travel passes", href: "/travel-passes" },
+      { label: "Surprise me", href: "/surprise" },
     ],
   },
   {
-    href: "/plan",
-    label: "Plan",
-    sub: [
-      { href: "/itineraries", label: "Itineraries", blurb: "Ready-made multi-day routes" },
-      { href: "/planner", label: "Trip planner", blurb: "Build your own day by day" },
-      { href: "/travel-passes", label: "Travel passes", blurb: "Swiss Travel Pass, explained" },
-      { href: "/budget", label: "Budget explorer", blurb: "See what a week actually costs" },
-      { href: "/guides", label: "All guides", blurb: "Rail, money, seasons, logistics" },
+    head: "Discover",
+    links: [
+      { label: "All destinations", href: "/destinations" },
+      { label: "Stories & guides", href: "/stories" },
+      { label: "Today's deals", href: "/deals" },
+      { label: "Interactive map", href: "/map" },
     ],
   },
   {
-    href: "/activities",
-    label: "Experience",
-    sub: [
-      { href: "/activities", label: "Browse activities", blurb: "Filter by season, budget, vibe" },
-      { href: "/compare", label: "Compare picks", blurb: "Side-by-side decision helper" },
-      { href: "/surprise", label: "Surprise me", blurb: "One-click random adventure" },
-      { href: "/deals", label: "Deals", blurb: "Current discounts & free entries" },
+    head: "About",
+    links: [
+      { label: "Our mission", href: "/about" },
+      { label: "Partners", href: "/partners" },
+      { label: "Privacy", href: "/privacy" },
     ],
-  },
-  {
-    href: "/stories",
-    label: "Stories",
-  },
-  {
-    href: "/deals",
-    label: "Deals",
   },
 ];
 
+function ChevronDownIcon() {
+  return (
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      strokeWidth="2.5" strokeLinecap="round" style={{ marginLeft: 2 }}>
+      <path d="m6 9 6 6 6-6" />
+    </svg>
+  );
+}
+
+function SunIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      strokeWidth="2" strokeLinecap="round">
+      <circle cx="12" cy="12" r="4" />
+      <path d="M12 2v2M12 20v2M2 12h2M20 12h2M5 5l1.5 1.5M17.5 17.5 19 19M5 19l1.5-1.5M17.5 6.5 19 5" />
+    </svg>
+  );
+}
+
+function MoonIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z" />
+    </svg>
+  );
+}
+
+function ArrowRight() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M5 12h14M13 5l7 7-7 7" />
+    </svg>
+  );
+}
+
+function MenuIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      strokeWidth="2" strokeLinecap="round">
+      <path d="M3 6h18M3 12h18M3 18h18" />
+    </svg>
+  );
+}
+
+function CloseIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      strokeWidth="2" strokeLinecap="round">
+      <path d="M18 6 6 18M6 6l12 12" />
+    </svg>
+  );
+}
+
 export function Header() {
   const pathname = usePathname();
+  const router = useRouter();
+  const { theme, toggle } = useWanderTheme();
+  const [megaOpen, setMegaOpen] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
-  const [openMenu, setOpenMenu] = useState<string | null>(null);
-  const [scrolled, setScrolled] = useState(false);
-  const { comparisonList } = useComparison();
+
+  // 5x logo click → yodel banner + confetti
+  const logoCount = useRef(0);
+  const logoTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
-    const handleScroll = () => setScrolled(window.scrollY > 24);
-    window.addEventListener("scroll", handleScroll, { passive: true });
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+    setMegaOpen(false);
+    setMobileOpen(false);
+  }, [pathname]);
 
-  function isActive(item: NavItem) {
-    if (pathname === item.href) return true;
-    if (item.sub?.some((s) => pathname === s.href)) return true;
-    return false;
+  // close mega on outside click
+  const moreRef = useRef<HTMLDivElement | null>(null);
+  useEffect(() => {
+    if (!megaOpen) return;
+    const onDocClick = (e: MouseEvent) => {
+      if (!moreRef.current) return;
+      if (!moreRef.current.contains(e.target as Node)) setMegaOpen(false);
+    };
+    document.addEventListener("mousedown", onDocClick);
+    return () => document.removeEventListener("mousedown", onDocClick);
+  }, [megaOpen]);
+
+  function isActive(item: NavLink) {
+    const matchers = item.match ?? [item.href];
+    return matchers.some((m) => pathname === m || pathname.startsWith(m + "/"));
   }
 
-  const isHome = pathname === "/";
+  function onLogoClick(e: React.MouseEvent) {
+    logoCount.current++;
+    if (logoTimer.current) clearTimeout(logoTimer.current);
+    logoTimer.current = setTimeout(() => (logoCount.current = 0), 1800);
+    if (logoCount.current >= 5) {
+      e.preventDefault();
+      logoCount.current = 0;
+      triggerYodel();
+    }
+  }
 
   return (
-    <header
-      className={cn(
-        "top-0 z-50 border-b transition-all duration-300",
-        isHome
-          ? cn(
-              "fixed w-full",
-              scrolled
-                ? "border-[#1e1b17]/80 bg-[#0c0b09]/90 backdrop-blur-xl"
-                : "border-transparent bg-transparent"
-            )
-          : cn(
-              "sticky",
-              scrolled
-                ? "border-[#1e1b17] bg-[#0c0b09]/95 backdrop-blur-xl"
-                : "border-[#1e1b17]/60 bg-[#0c0b09]/90 backdrop-blur-xl"
-            )
-      )}
-    >
-      {!isHome && <div className="alpine-rule absolute inset-x-0 top-0 opacity-70" aria-hidden />}
-      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
-        <Link href="/" className="group flex items-center gap-2">
-          {isHome ? (
-            <span className="font-[Cormorant_Garamond,serif] text-[1.05rem] font-semibold tracking-[0.05em] text-[#ede8df]">
-              Explore<span className="text-[oklch(74%_0.13_63deg)]">.</span>Switzerland
+    <>
+      <header className="wander-nav">
+        <div className="wander-container wander-nav-row">
+          <Link href="/" onClick={onLogoClick} className="wander-logo" aria-label="wander.ch home">
+            <span className="wander-logo-mark" aria-hidden>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M3 20 9 9l4 6 3-4 5 9z" />
+              </svg>
             </span>
-          ) : (
-            <>
-              <span className="relative flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-red-500 to-red-700 shadow-[0_8px_18px_-6px_rgba(220,38,38,0.55)] transition-transform group-hover:-rotate-6 group-hover:scale-105">
-                <Mountain className="h-5 w-5 text-white" />
-                <span className="absolute -right-0.5 -top-0.5 h-2 w-2 rounded-full bg-amber-300 ring-2 ring-white" />
-              </span>
-              <span className="text-lg font-semibold tracking-tight">
-                <span className="font-[var(--font-geist-sans)] font-semibold tracking-tight text-[#ede8df]">Explore</span>
-                <span className="ml-1 text-[oklch(74%_0.13_63deg)]">
-                  Switzerland
-                </span>
-              </span>
-            </>
-          )}
-        </Link>
-
-        <nav
-          className="hidden items-center gap-1 md:flex"
-          onMouseLeave={() => setOpenMenu(null)}
-        >
-          {NAV.map((item) => {
-            const active = isActive(item);
-            const hasSub = !!item.sub?.length;
-            return (
-              <div
-                key={item.label}
-                className="relative"
-                onMouseEnter={() => hasSub && setOpenMenu(item.label)}
-              >
-                <Link
-                  href={item.href}
-                  className={cn(
-                    "link-flourish relative inline-flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium transition-colors",
-                    isHome
-                      ? cn("text-[#9a9187] hover:text-[#ede8df] tracking-[0.12em] uppercase text-xs", active && "text-[#ede8df]")
-                      : cn("hover:text-[#c4973a] transition-colors", active ? "text-[#c4973a]" : "text-[#b0a898]")
-                  )}
-                >
-                  {item.label}
-                  {hasSub && <ChevronDown className="h-3.5 w-3.5 opacity-60" />}
-                </Link>
-
-                {hasSub && openMenu === item.label && (
-                  <div className="absolute left-1/2 top-full -translate-x-1/2 pt-2">
-                    <div className="w-80 rounded-xl border border-[#2a261f] bg-[#131210] p-2 shadow-xl animate-fade-up">
-                      {item.sub!.map((s) => (
-                        <Link
-                          key={s.href}
-                          href={s.href}
-                          className="block rounded-lg px-3 py-2 transition hover:bg-[#1e1b17]"
-                          onClick={() => setOpenMenu(null)}
-                        >
-                          <div className="text-sm font-medium text-[#ede8df]">
-                            {s.label}
-                          </div>
-                          {s.blurb && (
-                            <div className="mt-0.5 text-xs text-[#8a7e70]">{s.blurb}</div>
-                          )}
-                        </Link>
-                      ))}
-                    </div>
-                  </div>
-                )}
-              </div>
-            );
-          })}
-
-          {comparisonList.length > 0 && (
-            <Link
-              href="/compare"
-              className="relative rounded-md px-3 py-2 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-100"
-            >
-              <Scale className="inline h-4 w-4 mr-1" />
-              Compare
-              <Badge className="absolute -right-1 -top-1 h-5 w-5 rounded-full p-0 text-xs flex items-center justify-center bg-red-600">
-                {comparisonList.length}
-              </Badge>
-            </Link>
-          )}
-        </nav>
-
-        <div className="hidden md:flex items-center gap-2">
-          <Link href="/privacy" className="text-xs font-medium text-[#8a7e70] transition-colors hover:text-[#c4973a]">
-            Privacy
+            <span className="wander-logo-text">
+              wander<span className="dot">.</span>ch
+            </span>
           </Link>
-          <LanguageSwitcher />
-        </div>
 
-        <Button
-          variant="ghost"
-          size="icon"
-          className="md:hidden"
-          onClick={() => setMobileOpen(!mobileOpen)}
-        >
-          {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
-        </Button>
-      </div>
-
-      {mobileOpen && (
-        <div className="border-t border-[#1e1b17] bg-[#0c0b09] px-4 pb-4 md:hidden animate-fade-up" style={{ animationDuration: "0.2s" }}>
-          <nav className="flex flex-col gap-1 pt-2">
-            {NAV.map((item) => (
-              <div key={item.label} className="py-1">
-                <Link
-                  href={item.href}
-                  onClick={() => setMobileOpen(false)}
-                  className={cn(
-                    "block rounded-md px-3 py-2 text-sm font-semibold transition-colors hover:bg-[#131210]",
-                    isActive(item) ? "bg-[#131210] text-[#c4973a]" : "text-[#ede8df]"
-                  )}
-                >
-                  {item.label}
-                </Link>
-                {item.sub?.map((s) => (
-                  <Link
-                    key={s.href}
-                    href={s.href}
-                    onClick={() => setMobileOpen(false)}
-                    className="block rounded-md px-6 py-1.5 text-sm text-[#8a7e70] hover:bg-[#131210] hover:text-[#c4973a]"
-                  >
-                    {s.label}
-                  </Link>
-                ))}
-              </div>
-            ))}
-            {comparisonList.length > 0 && (
+          <nav className="wander-nav-links wander-hide-mobile" aria-label="Primary">
+            {NAV_LINKS.map((item) => (
               <Link
-                href="/compare"
-                onClick={() => setMobileOpen(false)}
-                className="rounded-md px-3 py-2 text-sm font-medium text-[#b0a898]"
+                key={item.href}
+                href={item.href}
+                className={isActive(item) ? "on" : undefined}
               >
-                Compare ({comparisonList.length})
+                {item.label}
               </Link>
-            )}
+            ))}
+            <div ref={moreRef} className="wander-more-wrap">
+              <button
+                type="button"
+                className={"wander-more-trigger" + (megaOpen ? " open" : "")}
+                aria-expanded={megaOpen}
+                aria-haspopup="true"
+                onClick={() => setMegaOpen((v) => !v)}
+              >
+                More <ChevronDownIcon />
+              </button>
+            </div>
           </nav>
-          <div className="mt-3 border-t border-[#1e1b17] pt-3">
-            <Link
-              href="/privacy"
-              onClick={() => setMobileOpen(false)}
-              className="mb-2 block rounded-md px-3 py-2 text-sm text-[#8a7e70] hover:bg-[#131210] hover:text-[#c4973a]"
+
+          <div className="wander-nav-actions">
+            <button
+              type="button"
+              onClick={toggle}
+              className="wander-btn wander-btn-ghost wander-hide-mobile"
+              aria-label={`Switch to ${theme === "day" ? "dusk" : "day"} theme`}
+              title={theme === "day" ? "Day · click for dusk" : "Dusk · click for day"}
             >
-              Privacy
-            </Link>
-            <LanguageSwitcher />
+              {theme === "day" ? <SunIcon /> : <MoonIcon />}
+            </button>
+            <button type="button" className="wander-btn wander-btn-ghost wander-hide-mobile">
+              EN · CHF
+            </button>
+            <button
+              type="button"
+              className="wander-btn wander-btn-primary"
+              onClick={() => router.push("/activities")}
+            >
+              Plan a trip <ArrowRight />
+            </button>
+            <button
+              type="button"
+              className="wander-btn wander-btn-ghost wander-show-mobile"
+              aria-label="Open menu"
+              onClick={() => setMobileOpen((v) => !v)}
+            >
+              {mobileOpen ? <CloseIcon /> : <MenuIcon />}
+            </button>
           </div>
         </div>
-      )}
-    </header>
+
+        {megaOpen && (
+          <div className="wander-mega" role="region" aria-label="More navigation">
+            <div className="wander-container wander-mega-grid">
+              {MEGA_GROUPS.map((group) => (
+                <div key={group.head}>
+                  <div className="wander-mega-head">{group.head}</div>
+                  {group.links.map((l) => (
+                    <Link
+                      key={l.href}
+                      href={l.href}
+                      onClick={() => setMegaOpen(false)}
+                    >
+                      {l.label}
+                    </Link>
+                  ))}
+                </div>
+              ))}
+              <div className="wander-mega-feature">
+                <span className="wander-kicker">
+                  <span className="bar" />
+                  Editor&apos;s pick
+                </span>
+                <h4>Classic Switzerland in 7 days</h4>
+                <p>Five cities, two iconic peaks, one legendary train. From CHF 1,200.</p>
+                <Link
+                  href="/itineraries/classic-switzerland-7-days"
+                  className="wander-btn wander-btn-dark"
+                  onClick={() => setMegaOpen(false)}
+                >
+                  View itinerary →
+                </Link>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {mobileOpen && (
+          <div className="wander-mobile-panel">
+            <nav>
+              {NAV_LINKS.map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className={isActive(item) ? "on" : undefined}
+                  onClick={() => setMobileOpen(false)}
+                >
+                  {item.label}
+                </Link>
+              ))}
+              {MEGA_GROUPS.map((group) => (
+                <div key={group.head} className="wander-mobile-group">
+                  <div className="wander-mega-head">{group.head}</div>
+                  {group.links.map((l) => (
+                    <Link key={l.href} href={l.href} onClick={() => setMobileOpen(false)}>
+                      {l.label}
+                    </Link>
+                  ))}
+                </div>
+              ))}
+              <button
+                type="button"
+                onClick={toggle}
+                className="wander-btn wander-btn-ghost wander-mobile-theme"
+              >
+                {theme === "day" ? <SunIcon /> : <MoonIcon />}
+                <span style={{ marginLeft: 8 }}>
+                  {theme === "day" ? "Switch to dusk" : "Switch to day"}
+                </span>
+              </button>
+            </nav>
+          </div>
+        )}
+      </header>
+    </>
   );
 }

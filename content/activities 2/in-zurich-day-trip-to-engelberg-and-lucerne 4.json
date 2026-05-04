@@ -1,0 +1,55 @@
+{
+  "id": "276",
+  "slug": "in-zurich-day-trip-to-engelberg-and-lucerne",
+  "name": "In Zurich: Day Trip to Engelberg and Lucerne",
+  "description": "Discover In Zurich: Day Trip to Engelberg and Lucerne in Switzerland.",
+  "longDescription": "Discover In Zurich: Day Trip to Engelberg and Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Best of Switzerland Tours",
+      "pricing": {
+        "child": 40,
+        "student": 67,
+        "adult": 79,
+        "senior": 71
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-engelberg-and-lucerne/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-day-trip-to-engelberg-and-lucerne/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

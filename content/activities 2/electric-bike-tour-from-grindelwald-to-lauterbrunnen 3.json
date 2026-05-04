@@ -1,0 +1,45 @@
+{
+  "id": "423",
+  "slug": "electric-bike-tour-from-grindelwald-to-lauterbrunnen",
+  "name": "Private e-bike tour from Grindelwald to Lauterbrunnen",
+  "description": "Discover Private e-bike tour from Grindelwald to Lauterbrunnen in Switzerland.",
+  "longDescription": "Discover Private e-bike tour from Grindelwald to Lauterbrunnen in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "E-bike",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/electric-bike-tour-from-grindelwald-to-lauterbrunnen/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "grindelwald"
+  ],
+  "featured": false
+}

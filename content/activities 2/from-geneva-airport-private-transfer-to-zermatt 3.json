@@ -1,0 +1,46 @@
+{
+  "id": "1313",
+  "slug": "from-geneva-airport-private-transfer-to-zermatt",
+  "name": "From Geneva airport: private transfer to Zermatt",
+  "description": "Discover From Geneva airport: private transfer to Zermatt in Switzerland.",
+  "longDescription": "Discover From Geneva airport: private transfer to Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Transfer",
+  "location": {
+    "region": "Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/transfer/from-geneva-airport-private-transfer-to-zermatt/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "zermatt",
+    "geneva"
+  ],
+  "featured": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": "961",
+  "slug": "from-lucerne-private-day-trip-to-four-countries",
+  "name": "From Lucerne: Private day trip to four countries",
+  "description": "Discover From Lucerne: Private day trip to four countries in Switzerland.",
+  "longDescription": "Discover From Lucerne: Private day trip to four countries in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Private Autotour",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/private-car-tour/from-lucerne-private-day-trip-to-four-countries/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

@@ -1,0 +1,55 @@
+{
+  "id": "153",
+  "slug": "rock-deer-tour-in-the-weisstannental-valley",
+  "name": "Wildlife watching ibex, stag, chamois and co. in the Weisstannental valley",
+  "description": "Discover Wildlife watching ibex, stag, chamois and co. in the Weisstannental valley in Switzerland.",
+  "longDescription": "Discover Wildlife watching ibex, stag, chamois and co. in the Weisstannental valley in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Animal experiences",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Heidiland Tourismus",
+      "pricing": {
+        "child": 33,
+        "student": 55,
+        "adult": 65,
+        "senior": 59
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/animal-experiences/rock-deer-tour-in-the-weisstannental-valley/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Heidiland Tourismus"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/animal-experiences/rock-deer-tour-in-the-weisstannental-valley/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "watch"
+  ],
+  "featured": false
+}

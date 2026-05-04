@@ -1,0 +1,43 @@
+{
+  "id": "591",
+  "slug": "find-the-code-avenging-angel-outdoor-escape-game-sursee",
+  "name": "\"Find-the-Code: Avenging Angel\" Outdoor Escape Game Sursee",
+  "description": "Discover \"Find-the-Code: Avenging Angel\" Outdoor Escape Game Sursee in Switzerland.",
+  "longDescription": "Discover \"Find-the-Code: Avenging Angel\" Outdoor Escape Game Sursee in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Escape room and games",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/find-the-code-avenging-angel-outdoor-escape-game-sursee/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

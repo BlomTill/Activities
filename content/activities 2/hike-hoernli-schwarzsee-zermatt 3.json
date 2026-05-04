@@ -1,0 +1,43 @@
+{
+  "id": "849",
+  "slug": "hike-hoernli-schwarzsee-zermatt",
+  "name": "Hike to the Hörnli hut from Schwarzsee Zermatt",
+  "description": "Discover Hike to the Hörnli hut from Schwarzsee Zermatt in Switzerland.",
+  "longDescription": "Discover Hike to the Hörnli hut from Schwarzsee Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Mountain tour",
+  "location": {
+    "region": "Valais region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/mountain-tour/hike-hoernli-schwarzsee-zermatt/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "zermatt"
+  ],
+  "featured": false
+}

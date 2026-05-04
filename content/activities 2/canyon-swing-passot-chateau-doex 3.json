@@ -1,0 +1,53 @@
+{
+  "id": "181",
+  "slug": "canyon-swing-passot-chateau-doex",
+  "name": "Canyon Swing over the Pissot Gorge in Château-d'Oex",
+  "description": "Discover Canyon Swing over the Pissot Gorge in Château-d'Oex in Switzerland.",
+  "longDescription": "Discover Canyon Swing over the Pissot Gorge in Château-d'Oex in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Bungee jumping",
+  "location": {
+    "region": "Lake Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Guideconcept",
+      "pricing": {
+        "child": 53,
+        "student": 89,
+        "adult": 105,
+        "senior": 95
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-passot-chateau-doex/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Guideconcept"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/bungee-jumping/canyon-swing-passot-chateau-doex/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

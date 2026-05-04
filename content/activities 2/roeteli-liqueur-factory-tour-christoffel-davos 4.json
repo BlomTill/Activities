@@ -1,0 +1,45 @@
+{
+  "id": "405",
+  "slug": "roeteli-liqueur-factory-tour-christoffel-davos",
+  "name": "Röteli liqueur factory tour at Christoffel Rötali in Davos",
+  "description": "Discover Röteli liqueur factory tour at Christoffel Rötali in Davos in Switzerland.",
+  "longDescription": "Discover Röteli liqueur factory tour at Christoffel Rötali in Davos in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Distillery",
+  "location": {
+    "region": "Graubünden region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/distillery/roeteli-liqueur-factory-tour-christoffel-davos/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "davos"
+  ],
+  "featured": false
+}

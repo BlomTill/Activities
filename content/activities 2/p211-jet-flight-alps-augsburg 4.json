@@ -1,0 +1,53 @@
+{
+  "id": "1046",
+  "slug": "p211-jet-flight-alps-augsburg",
+  "name": "P.211 Jet flight in the Alps from Augsburg DE",
+  "description": "Discover P.211 Jet flight in the Alps from Augsburg DE in Switzerland.",
+  "longDescription": "Discover P.211 Jet flight in the Alps from Augsburg DE in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Scenic flight",
+  "location": {
+    "region": "Germany",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "MiGFlug GmbH",
+      "pricing": {
+        "child": 1925,
+        "student": 3273,
+        "adult": 3850,
+        "senior": 3465
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/p211-jet-flight-alps-augsburg/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: MiGFlug GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sightseeing-flight/p211-jet-flight-alps-augsburg/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

@@ -115,16 +115,33 @@ export const AFFILIATE_PARTNERS: AffiliatePartner[] = [
   {
     id: "klook",
     name: "Klook",
-    domains: ["klook.com"],
+    domains: ["klook.com", "affiliate.klook.com"],
     trackingParams: trackingFromEnv(
       "NEXT_PUBLIC_AFFILIATE_KLOOK_PARAMS",
-      "aid=XXXXX&aff_platform=online_publisher"
+      "aid=120379&aff_platform=online_publisher"
     ),
     commissionRate: "5%",
     active: true,
     disclosure:
       "Popular for travellers coming from Asia — often has exclusive deals on rail passes and ski passes.",
     tier: "primary",
+    // Klook Switzerland search format
+    searchUrlTemplate: "https://www.klook.com/en-CH/search/result/?keyword={name}",
+    showInMarketplace: true,
+  },
+  {
+    id: "travelpayouts",
+    name: "Travelpayouts",
+    domains: ["tp.media", "aviasales.com", "wayaway.io", "hotellook.com", "emrldtp.cc"],
+    trackingParams: trackingFromEnv(
+      "NEXT_PUBLIC_AFFILIATE_TRAVELPAYOUTS_PARAMS",
+      "marker=724838"
+    ),
+    commissionRate: "Variable (program-dependent)",
+    active: true,
+    disclosure:
+      "Travelpayouts is a meta-network bundling Booking, Aviasales, Hotellook, WayAway and others. Their Drive AI also picks contextual offers automatically — see our Drive disclosure for details.",
+    tier: "secondary",
   },
   {
     id: "omio",

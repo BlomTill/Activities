@@ -1,0 +1,57 @@
+{
+  "id": "292",
+  "slug": "workshop-zurich-bus-tour-to-lucerne",
+  "name": "Workshop Zürich: Bus tour to Lucerne",
+  "description": "Discover Workshop Zürich: Bus tour to Lucerne in Switzerland.",
+  "longDescription": "Discover Workshop Zürich: Bus tour to Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Keytours SA",
+      "pricing": {
+        "child": 31,
+        "student": 53,
+        "adult": 62,
+        "senior": 56
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/workshop-zurich-bus-tour-to-lucerne/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Keytours SA"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/workshop-zurich-bus-tour-to-lucerne/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "zürich",
+    "lucerne"
+  ],
+  "featured": false
+}

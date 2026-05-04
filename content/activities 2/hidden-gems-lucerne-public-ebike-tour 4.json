@@ -1,0 +1,55 @@
+{
+  "id": "426",
+  "slug": "hidden-gems-lucerne-public-ebike-tour",
+  "name": "\"Hidden Gems\" Lucerne public e-bike tour",
+  "description": "Discover \"Hidden Gems\" Lucerne public e-bike tour in Switzerland.",
+  "longDescription": "Discover \"Hidden Gems\" Lucerne public e-bike tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "E-bike",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Loop Tours",
+      "pricing": {
+        "child": 80,
+        "student": 135,
+        "adult": 159,
+        "senior": 143
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/hidden-gems-lucerne-public-ebike-tour/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Loop Tours"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/hidden-gems-lucerne-public-ebike-tour/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

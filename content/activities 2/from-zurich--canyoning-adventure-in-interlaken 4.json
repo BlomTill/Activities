@@ -1,0 +1,58 @@
+{
+  "id": "224",
+  "slug": "from-zurich--canyoning-adventure-in-interlaken",
+  "name": "From Zurich: Canyoning adventure in Interlaken",
+  "description": "Discover From Zurich: Canyoning adventure in Interlaken in Switzerland.",
+  "longDescription": "Discover From Zurich: Canyoning adventure in Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Canyoning",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Best of Switzerland Tours",
+      "pricing": {
+        "child": 125,
+        "student": 213,
+        "adult": 250,
+        "senior": 225
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/from-zurich--canyoning-adventure-in-interlaken/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Best of Switzerland Tours"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/from-zurich--canyoning-adventure-in-interlaken/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "canyoning",
+    "lake",
+    "adventure",
+    "interlaken"
+  ],
+  "featured": false
+}

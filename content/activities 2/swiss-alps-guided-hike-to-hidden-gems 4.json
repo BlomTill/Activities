@@ -1,0 +1,56 @@
+{
+  "id": "749",
+  "slug": "swiss-alps-guided-hike-to-hidden-gems",
+  "name": "Guided hike to hidden gems in the Alps",
+  "description": "Discover Guided hike to hidden gems in the Alps in Switzerland.",
+  "longDescription": "Discover Guided hike to hidden gems in the Alps in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Trekking Switzerland",
+      "pricing": {
+        "child": 315,
+        "student": 536,
+        "adult": 630,
+        "senior": 567
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/swiss-alps-guided-hike-to-hidden-gems/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Trekking Switzerland"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/swiss-alps-guided-hike-to-hidden-gems/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

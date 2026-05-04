@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "slug": "classic-switzerland-7-days",
+    "title": "Classic Switzerland in 7 Days",
+    "subtitle": "Zurich, Lucerne, Interlaken, Zermatt, and Geneva",
+    "description": "The ultimate first-timer's route hitting Switzerland's greatest highlights — from vibrant cities to iconic Alpine peaks. This itinerary covers the Jungfraujoch, Matterhorn, Lake Geneva, and charming old towns, all connected by scenic train rides.",
+    "duration": "7 days",
+    "days": 7,
+    "difficulty": "Easy",
+    "bestSeason": "May – October",
+    "coverImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?w=1200&h=600&fit=crop",
+    "regions": [
+      "Zurich Region",
+      "Central Switzerland",
+      "Bern Region",
+      "Valais",
+      "Geneva Region"
+    ],
+    "tags": [
+      "first-time",
+      "classic",
+      "mountains",
+      "cities",
+      "train"
+    ],
+    "featured": true,
+    "estimatedBudget": {
+      "budget": "CHF 1,200",
+      "mid": "CHF 2,200",
+      "luxury": "CHF 4,500"
+    }
+  },
+  {
+    "id": "2",
+    "slug": "bernese-oberland-5-days",
+    "title": "5 Days in the Bernese Oberland",
+    "subtitle": "Interlaken, Grindelwald, Lauterbrunnen & the Big Three Peaks",
+    "description": "Dive deep into the most spectacular mountain region in Switzerland. Base yourself in Interlaken and explore three iconic peaks (Jungfraujoch, Schilthorn, and First), 72 waterfalls in Lauterbrunnen, and thrilling outdoor adventures.",
+    "duration": "5 days",
+    "days": 5,
+    "difficulty": "Moderate",
+    "bestSeason": "June – September",
+    "coverImage": "https://images.unsplash.com/photo-1605540436338-67b4aeb10709?w=1200&h=600&fit=crop",
+    "regions": [
+      "Bern Region"
+    ],
+    "tags": [
+      "mountains",
+      "adventure",
+      "hiking",
+      "peaks",
+      "waterfalls"
+    ],
+    "featured": true,
+    "estimatedBudget": {
+      "budget": "CHF 800",
+      "mid": "CHF 1,500",
+      "luxury": "CHF 3,000"
+    }
+  },
+  {
+    "id": "3",
+    "slug": "switzerland-budget-trip-5-days",
+    "title": "Switzerland on a Budget — 5 Days",
+    "subtitle": "Free hikes, cheap eats, and smart savings across Switzerland",
+    "description": "Switzerland doesn't have to break the bank. This budget-conscious itinerary focuses on free activities, affordable transport hacks, and incredible experiences that don't cost a fortune.",
+    "duration": "5 days",
+    "days": 5,
+    "difficulty": "Moderate",
+    "bestSeason": "June – September",
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&h=600&fit=crop",
+    "regions": [
+      "Bern Region",
+      "Central Switzerland",
+      "Zurich Region"
+    ],
+    "tags": [
+      "budget",
+      "free",
+      "hiking",
+      "backpacking",
+      "savings"
+    ],
+    "featured": true,
+    "estimatedBudget": {
+      "budget": "CHF 500",
+      "mid": "CHF 800",
+      "luxury": "CHF 1,200"
+    }
+  },
+  {
+    "id": "4",
+    "slug": "family-switzerland-7-days",
+    "title": "Family Switzerland — 7 Days with Kids",
+    "subtitle": "Kid-friendly adventures from theme parks to mountain playgrounds",
+    "description": "A week designed for families with children aged 4-14. Mixing action-packed days with easy-going ones, this route covers the best family attractions in Switzerland with no child left bored.",
+    "duration": "7 days",
+    "days": 7,
+    "difficulty": "Easy",
+    "bestSeason": "June – September",
+    "coverImage": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7c?w=1200&h=600&fit=crop",
+    "regions": [
+      "Zurich Region",
+      "Central Switzerland",
+      "Bern Region"
+    ],
+    "tags": [
+      "family",
+      "kids",
+      "theme park",
+      "easy",
+      "fun"
+    ],
+    "featured": true,
+    "estimatedBudget": {
+      "budget": "CHF 2,000 (family of 4)",
+      "mid": "CHF 3,500",
+      "luxury": "CHF 6,000"
+    }
+  },
+  {
+    "id": "5",
+    "slug": "swiss-winter-wonderland-5-days",
+    "title": "Swiss Winter Wonderland — 5 Days",
+    "subtitle": "Skiing, Christmas markets, thermal baths, and snowy peaks",
+    "description": "Experience Switzerland at its most magical. This winter itinerary combines world-class skiing in Zermatt, relaxing thermal baths, atmospheric Christmas markets, and snow-covered Alpine landscapes.",
+    "duration": "5 days",
+    "days": 5,
+    "difficulty": "Moderate",
+    "bestSeason": "December – March",
+    "coverImage": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=1200&h=600&fit=crop",
+    "regions": [
+      "Valais",
+      "Bern Region",
+      "Central Switzerland"
+    ],
+    "tags": [
+      "winter",
+      "skiing",
+      "christmas",
+      "thermal",
+      "snow"
+    ],
+    "featured": false,
+    "estimatedBudget": {
+      "budget": "CHF 1,000",
+      "mid": "CHF 2,000",
+      "luxury": "CHF 4,000"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "316",
+  "slug": "in-zurich-grindelwald-first-adventure-private-tour",
+  "name": "In Zurich: Grindelwald First Adventure Private Tour",
+  "description": "Discover In Zurich: Grindelwald First Adventure Private Tour in Switzerland.",
+  "longDescription": "Discover In Zurich: Grindelwald First Adventure Private Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Swiss Magic Tours",
+      "pricing": {
+        "child": 490,
+        "student": 833,
+        "adult": 980,
+        "senior": 882
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-grindelwald-first-adventure-private-tour/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Swiss Magic Tours"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-zurich-grindelwald-first-adventure-private-tour/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "adventure",
+    "grindelwald"
+  ],
+  "featured": false
+}

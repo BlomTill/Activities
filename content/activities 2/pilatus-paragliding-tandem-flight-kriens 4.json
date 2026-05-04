@@ -1,0 +1,58 @@
+{
+  "id": "901",
+  "slug": "pilatus-paragliding-tandem-flight-kriens",
+  "name": "Pilatus paragliding tandem flight from Kriens",
+  "description": "Discover Pilatus paragliding tandem flight from Kriens in Switzerland.",
+  "longDescription": "Discover Pilatus paragliding tandem flight from Kriens in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Paragliding",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Freeminds",
+      "pricing": {
+        "child": 133,
+        "student": 225,
+        "adult": 265,
+        "senior": 239
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/pilatus-paragliding-tandem-flight-kriens/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Freeminds"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/pilatus-paragliding-tandem-flight-kriens/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "paragliding"
+  ],
+  "featured": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": "384",
+  "slug": "lake-thun-full-day-tour-from-interlaken",
+  "name": "From Interlaken: Day tour of Lake Thun with local guide",
+  "description": "Discover From Interlaken: Day tour of Lake Thun with local guide in Switzerland.",
+  "longDescription": "Discover From Interlaken: Day tour of Lake Thun with local guide in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/lake-thun-full-day-tour-from-interlaken/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

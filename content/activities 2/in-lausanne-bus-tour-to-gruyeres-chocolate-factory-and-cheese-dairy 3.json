@@ -1,0 +1,57 @@
+{
+  "id": "382",
+  "slug": "in-lausanne-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy",
+  "name": "In Lausanne: Bus tour to Gruyères, chocolate factory, and cheese dairy",
+  "description": "Discover In Lausanne: Bus tour to Gruyères, chocolate factory, and cheese dairy in Switzerland.",
+  "longDescription": "Discover In Lausanne: Bus tour to Gruyères, chocolate factory, and cheese dairy in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Lake Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Keytours SA",
+      "pricing": {
+        "child": 68,
+        "student": 115,
+        "adult": 135,
+        "senior": 122
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Keytours SA"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-lausanne-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "cheese",
+    "lausanne"
+  ],
+  "featured": false
+}

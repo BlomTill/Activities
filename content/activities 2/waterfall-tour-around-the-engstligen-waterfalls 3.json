@@ -1,0 +1,42 @@
+{
+  "id": "745",
+  "slug": "waterfall-tour-around-the-engstligen-waterfalls",
+  "name": "Waterfall tour around the Engstligen waterfalls",
+  "description": "Discover Waterfall tour around the Engstligen waterfalls in Switzerland.",
+  "longDescription": "Discover Waterfall tour around the Engstligen waterfalls in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/waterfall-tour-around-the-engstligen-waterfalls/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "waterfall"
+  ],
+  "featured": false
+}

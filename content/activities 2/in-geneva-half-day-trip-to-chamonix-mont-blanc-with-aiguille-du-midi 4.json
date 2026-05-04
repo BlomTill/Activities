@@ -1,0 +1,58 @@
+{
+  "id": "343",
+  "slug": "in-geneva-half-day-trip-to-chamonix-mont-blanc-with-aiguille-du-midi",
+  "name": "In Geneva: Half-day trip to Chamonix Mont-Blanc with Aiguille du Midi",
+  "description": "Discover In Geneva: Half-day trip to Chamonix Mont-Blanc with Aiguille du Midi in Switzerland.",
+  "longDescription": "Discover In Geneva: Half-day trip to Chamonix Mont-Blanc with Aiguille du Midi in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Keytours SA",
+      "pricing": {
+        "child": 93,
+        "student": 157,
+        "adult": 185,
+        "senior": 167
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-trip-to-chamonix-mont-blanc-with-aiguille-du-midi/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Keytours SA"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-geneva-half-day-trip-to-chamonix-mont-blanc-with-aiguille-du-midi/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "geneva"
+  ],
+  "featured": false
+}

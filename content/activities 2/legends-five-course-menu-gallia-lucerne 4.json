@@ -1,0 +1,59 @@
+{
+  "id": "696",
+  "slug": "legends-five-course-menu-gallia-lucerne",
+  "name": "\"Legends of Lake Lucerne\" Steamship Experience",
+  "description": "Discover \"Legends of Lake Lucerne\" Steamship Experience in Switzerland.",
+  "longDescription": "Discover \"Legends of Lake Lucerne\" Steamship Experience in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Schifffahrtsgesellschaft des Vierwaldstättersees (SGV) AG",
+      "pricing": {
+        "child": 277,
+        "student": 471,
+        "adult": 554,
+        "senior": 499
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/legends-five-course-menu-gallia-lucerne/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Schifffahrtsgesellschaft des Vierwaldstättersees (SGV) AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/legends-five-course-menu-gallia-lucerne/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lake",
+    "lucerne"
+  ],
+  "featured": false
+}

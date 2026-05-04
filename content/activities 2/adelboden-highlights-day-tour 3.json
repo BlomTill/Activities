@@ -1,0 +1,56 @@
+{
+  "id": "746",
+  "slug": "adelboden-highlights-day-tour",
+  "name": "Adelboden Highlights Day Tour",
+  "description": "Discover Adelboden Highlights Day Tour in Switzerland.",
+  "longDescription": "Discover Adelboden Highlights Day Tour in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Hiking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "VicTours Adelboden",
+      "pricing": {
+        "child": 30,
+        "student": 51,
+        "adult": 60,
+        "senior": 54
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/adelboden-highlights-day-tour/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: VicTours Adelboden"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/hiking/adelboden-highlights-day-tour/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

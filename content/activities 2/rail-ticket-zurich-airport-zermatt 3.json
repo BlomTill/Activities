@@ -1,0 +1,56 @@
+{
+  "id": "1296",
+  "slug": "rail-ticket-zurich-airport-zermatt",
+  "name": "Rail ticket between Zurich Airport and Zermatt",
+  "description": "Discover Rail ticket between Zurich Airport and Zermatt in Switzerland.",
+  "longDescription": "Discover Rail ticket between Zurich Airport and Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Train ticket",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Schweizerische Bundesbahnen SBB",
+      "pricing": {
+        "child": 67,
+        "student": 114,
+        "adult": 134,
+        "senior": 121
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-zermatt/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/train-ride/rail-ticket-zurich-airport-zermatt/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "zermatt"
+  ],
+  "featured": false
+}

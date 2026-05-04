@@ -1,0 +1,45 @@
+{
+  "id": "871",
+  "slug": "paragliding-tandem-interlaken-from-beatenberg",
+  "name": "Beatenberg paragliding tandem in summer from Interlaken",
+  "description": "Discover Beatenberg paragliding tandem in summer from Interlaken in Switzerland.",
+  "longDescription": "Discover Beatenberg paragliding tandem in summer from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Paragliding",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-tandem-interlaken-from-beatenberg/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "lake",
+    "interlaken"
+  ],
+  "featured": false
+}

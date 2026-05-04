@@ -1,0 +1,56 @@
+{
+  "id": "739",
+  "slug": "urban-golf-in-fribourg",
+  "name": "Urban Golf in Fribourg",
+  "description": "Discover Urban Golf in Fribourg in Switzerland.",
+  "longDescription": "Discover Urban Golf in Fribourg in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Golf",
+  "location": {
+    "region": "Fribourg region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Fribourg Tourisme",
+      "pricing": {
+        "child": 5,
+        "student": 9,
+        "adult": 10,
+        "senior": 9
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/golf/urban-golf-in-fribourg/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Fribourg Tourisme"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/golf/urban-golf-in-fribourg/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

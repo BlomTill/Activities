@@ -1,0 +1,53 @@
+{
+  "id": "268",
+  "slug": "line-dance-workshops-groups",
+  "name": "Line dance workshops for groups",
+  "description": "Discover Line dance workshops for groups in Switzerland.",
+  "longDescription": "Discover Line dance workshops for groups in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Dancing",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Line Dance Coach",
+      "pricing": {
+        "child": 225,
+        "student": 383,
+        "adult": 450,
+        "senior": 405
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/dancing/line-dance-workshops-groups/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Line Dance Coach"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/dancing/line-dance-workshops-groups/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

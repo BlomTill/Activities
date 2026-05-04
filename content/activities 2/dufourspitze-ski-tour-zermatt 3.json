@@ -1,0 +1,56 @@
+{
+  "id": "1127",
+  "slug": "dufourspitze-ski-tour-zermatt",
+  "name": "Dufourspitze and Schwarztor 2-day ski tour with private mountain guide from Zermatt",
+  "description": "Discover Dufourspitze and Schwarztor 2-day ski tour with private mountain guide from Zermatt in Switzerland.",
+  "longDescription": "Discover Dufourspitze and Schwarztor 2-day ski tour with private mountain guide from Zermatt in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Ski touring",
+  "location": {
+    "region": "Valais region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Zermatters",
+      "pricing": {
+        "child": 955,
+        "student": 1624,
+        "adult": 1910,
+        "senior": 1719
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-touring/dufourspitze-ski-tour-zermatt/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Zermatters"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/ski-touring/dufourspitze-ski-tour-zermatt/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "mountain",
+    "zermatt"
+  ],
+  "featured": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "877",
+  "slug": "paragliding-with-fondue-for-two-in-davos",
+  "name": "Davos paragliding for two with fondue",
+  "description": "Discover Davos paragliding for two with fondue in Switzerland.",
+  "longDescription": "Discover Davos paragliding for two with fondue in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Paragliding",
+  "location": {
+    "region": "Graubünden region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "GOGREEN GmbH / Joyride Paragliding",
+      "pricing": {
+        "child": 147,
+        "student": 250,
+        "adult": 294,
+        "senior": 265
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-with-fondue-for-two-in-davos/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: GOGREEN GmbH / Joyride Paragliding"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-with-fondue-for-two-in-davos/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "paragliding",
+    "fondue",
+    "davos"
+  ],
+  "featured": false
+}

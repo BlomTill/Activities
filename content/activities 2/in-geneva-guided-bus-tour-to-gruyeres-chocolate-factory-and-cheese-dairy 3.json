@@ -1,0 +1,60 @@
+{
+  "id": "352",
+  "slug": "in-geneva-guided-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy",
+  "name": "In Geneva: Guided Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy",
+  "description": "Discover In Geneva: Guided Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy in Switzerland.",
+  "longDescription": "Discover In Geneva: Guided Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Keytours SA",
+      "pricing": {
+        "child": 78,
+        "student": 132,
+        "adult": 155,
+        "senior": 140
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-geneva-guided-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Keytours SA"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/in-geneva-guided-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "chocolate",
+    "cheese",
+    "geneva"
+  ],
+  "featured": false
+}

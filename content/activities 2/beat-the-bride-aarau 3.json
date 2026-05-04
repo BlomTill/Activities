@@ -1,0 +1,53 @@
+{
+  "id": "512",
+  "slug": "beat-the-bride-aarau",
+  "name": "\"Beat the bride\" in Aarau: action-packed hen party",
+  "description": "Discover \"Beat the bride\" in Aarau: action-packed hen party in Switzerland.",
+  "longDescription": "Discover \"Beat the bride\" in Aarau: action-packed hen party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Escape room and games",
+  "location": {
+    "region": "Aargau region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "GAMEinMOTION GmbH",
+      "pricing": {
+        "child": 150,
+        "student": 254,
+        "adult": 299,
+        "senior": 269
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-aarau/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: GAMEinMOTION GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-aarau/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

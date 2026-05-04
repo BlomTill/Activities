@@ -1,0 +1,59 @@
+{
+  "id": "692",
+  "slug": "etuktuk-luzern-fondue-city-tour",
+  "name": "\"Fondue Tuk\" - city tour with the Tuk Tuk in Lucerne",
+  "description": "Discover \"Fondue Tuk\" - city tour with the Tuk Tuk in Lucerne in Switzerland.",
+  "longDescription": "Discover \"Fondue Tuk\" - city tour with the Tuk Tuk in Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "eTukTuk Luzern GmbH",
+      "pricing": {
+        "child": 140,
+        "student": 238,
+        "adult": 280,
+        "senior": 252
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/etuktuk-luzern-fondue-city-tour/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: eTukTuk Luzern GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/etuktuk-luzern-fondue-city-tour/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "fondue",
+    "lucerne"
+  ],
+  "featured": false
+}

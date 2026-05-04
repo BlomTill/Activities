@@ -1,0 +1,53 @@
+{
+  "id": "1468",
+  "slug": "cowboy-and-cowgirl-at-the-pony-ranch-in-knie-childrens-zoo-rapperswil",
+  "name": "Cowboy / Cowgirl at the Pony Ranch in the Knie Children's Zoo Rapperswil",
+  "description": "Discover Cowboy / Cowgirl at the Pony Ranch in the Knie Children's Zoo Rapperswil in Switzerland.",
+  "longDescription": "Discover Cowboy / Cowgirl at the Pony Ranch in the Knie Children's Zoo Rapperswil in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Zoo",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Knies Kinderzoo",
+      "pricing": {
+        "child": 13,
+        "student": 21,
+        "adult": 25,
+        "senior": 23
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/cowboy-and-cowgirl-at-the-pony-ranch-in-knie-childrens-zoo-rapperswil/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Knies Kinderzoo"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/zoo/cowboy-and-cowgirl-at-the-pony-ranch-in-knie-childrens-zoo-rapperswil/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

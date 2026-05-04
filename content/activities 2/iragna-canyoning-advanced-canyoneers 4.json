@@ -1,0 +1,55 @@
+{
+  "id": "200",
+  "slug": "iragna-canyoning-advanced-canyoneers",
+  "name": "Iragna canyoning for advanced canyoneers",
+  "description": "Discover Iragna canyoning for advanced canyoneers in Switzerland.",
+  "longDescription": "Discover Iragna canyoning for advanced canyoneers in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Canyoning",
+  "location": {
+    "region": "Ticino region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Ticino Adventures",
+      "pricing": {
+        "child": 110,
+        "student": 187,
+        "adult": 220,
+        "senior": 198
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/iragna-canyoning-advanced-canyoneers/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Ticino Adventures"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/iragna-canyoning-advanced-canyoneers/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

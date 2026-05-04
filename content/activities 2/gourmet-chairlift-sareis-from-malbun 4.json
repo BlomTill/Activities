@@ -1,0 +1,53 @@
+{
+  "id": "733",
+  "slug": "gourmet-chairlift-sareis-from-malbun",
+  "name": "Gourmet Chairlift Sareis from Malbun",
+  "description": "Discover Gourmet Chairlift Sareis from Malbun in Switzerland.",
+  "longDescription": "Discover Gourmet Chairlift Sareis from Malbun in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Bergbahnen Malbun AG",
+      "pricing": {
+        "child": 21,
+        "student": 36,
+        "adult": 42,
+        "senior": 38
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/gourmet-chairlift-sareis-from-malbun/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Bergbahnen Malbun AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/gourmet-chairlift-sareis-from-malbun/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

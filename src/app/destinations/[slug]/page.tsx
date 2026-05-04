@@ -7,8 +7,20 @@ import { Button } from "@/components/ui/button";
 import { ActivityCard } from "@/components/activity-card";
 import { NewsletterSignup } from "@/components/newsletter-signup";
 import { DestinationDetailTabs } from "@/components/destination-detail-tabs";
+import { PartnerWidget, GYG_CITIES } from "@/components/partners/partner-widget";
 import { getDestinationBySlug, getDestinationSummaries } from "@/lib/destinations";
 import { getRelatedBlogPostsForDestination } from "@/lib/blog";
+
+/**
+ * Map our destination slug → GetYourGuide city/region location IDs.
+ * Add more here as you discover them on getyourguide.com (the number
+ * after `-l` in any city URL — e.g. zurich-l55).
+ * Slugs not in this map fall back to the Switzerland-wide widget.
+ */
+const DESTINATION_TO_GYG: Record<string, number> = {
+  zurich: GYG_CITIES.zurich,
+  bern: GYG_CITIES.bern,
+};
 
 export function generateStaticParams() {
   return getDestinationSummaries().map((destination) => ({ slug: destination.slug }));
@@ -129,6 +141,30 @@ export default function DestinationDetailPage({
         allActivities={destination.activities}
         initialSeason={searchParams?.season}
       />
+
+      <section className="mx-auto max-w-7xl px-4 py-12">
+        <div className="mb-6 flex items-end justify-between gap-4 flex-wrap">
+          <div>
+            <span className="text-xs font-semibold uppercase tracking-[0.18em] text-gray-500">
+              Live availability
+            </span>
+            <h2 className="mt-2 text-2xl font-bold text-gray-900 md:text-3xl">
+              Book {summary.name} experiences directly
+            </h2>
+            <p className="mt-2 max-w-2xl text-gray-500">
+              Real-time prices and availability from GetYourGuide. Booking commission helps keep this guide ad-free.
+            </p>
+          </div>
+          <Link href="/partners" className="text-sm font-semibold text-red-600 hover:text-red-700">
+            How we earn →
+          </Link>
+        </div>
+        <PartnerWidget
+          partner="getyourguide"
+          type="city"
+          locationId={DESTINATION_TO_GYG[params.slug] ?? GYG_CITIES.switzerland}
+        />
+      </section>
 
       <section className="mx-auto max-w-5xl px-4 pb-16">
         <NewsletterSignup

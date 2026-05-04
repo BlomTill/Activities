@@ -1,0 +1,54 @@
+{
+  "id": "718",
+  "slug": "culinary-hike-garmil-pizol",
+  "name": "Culinary hike Garmil high altitude hike on the Pizol",
+  "description": "Discover Culinary hike Garmil high altitude hike on the Pizol in Switzerland.",
+  "longDescription": "Discover Culinary hike Garmil high altitude hike on the Pizol in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Food & Drink",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Heidiland Tourismus",
+      "pricing": {
+        "child": 45,
+        "student": 77,
+        "adult": 90,
+        "senior": 81
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-garmil-pizol/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Heidiland Tourismus"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/food-and-drink/culinary-hike-garmil-pizol/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

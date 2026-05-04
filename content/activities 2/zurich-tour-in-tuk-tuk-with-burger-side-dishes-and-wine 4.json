@@ -1,0 +1,74 @@
+{
+  "id": "1173",
+  "slug": "zurich-tour-in-tuk-tuk-with-burger-side-dishes-and-wine",
+  "name": "Burger tuk with sides and wine in Zurich",
+  "description": "Discover Burger tuk with sides and wine in Zurich in Switzerland.",
+  "longDescription": "Discover Burger tuk with sides and wine in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Tours",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "eTukTuk Schweiz GmbH",
+      "pricing": {
+        "child": 130,
+        "student": 220,
+        "adult": 259,
+        "senior": 233
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/zurich-tour-in-tuk-tuk-with-burger-side-dishes-and-wine/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: eTukTuk Schweiz GmbH"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/zurich-tour-in-tuk-tuk-with-burger-side-dishes-and-wine/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Burger_Wein_4_2a7a6c0678.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Rundfahrt_443e9363a8.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_dd2b7c62b114492be41a5df413b26074_1c8c3f1959.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_d35bfbfd904e223ab5a09ba83d384632_0c31aa2f0f.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Bahnhofstrasse_e7bd626f03.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_85f7d9d35acaf6990472e0d3a1b3fb2c_a119c9e984.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/gallery_f05fc1f19bf4e2210a69e62d382d5702_8158b27259.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/sechselaeutenplatz_fe12821c11.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich2_0338fceaa8.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zuerich3_529c15f5d5.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Sightseeing_0a6cce299d.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_646aaf60ff.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrzeuge_59bbf2c4c4.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Sightseeing_2_4ce4ab556b.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Stadtrundfahrt_9e623e5e8d.jpg"
+  ],
+  "highlights": [],
+  "tags": [
+    "wine"
+  ],
+  "featured": false
+}

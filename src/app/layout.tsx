@@ -7,6 +7,10 @@ import { ComparisonProvider } from "@/context/comparison-context";
 import { Header } from "@/components/layout/header";
 import { AgeBar } from "@/components/age-bar";
 import { Footer } from "@/components/layout/footer";
+import { WanderThemeProvider } from "@/components/layout/theme-provider";
+import { WanderPager } from "@/components/layout/wander-pager";
+import { WanderFactToast } from "@/components/layout/wander-fact-toast";
+import { PartnerScripts } from "@/components/partners/partner-scripts";
 import { SITE_NAME, SITE_DESCRIPTION } from "@/lib/constants";
 import { WebsiteJsonLd } from "@/components/json-ld";
 import { ServiceWorkerRegistration } from "@/components/sw-register";
@@ -75,19 +79,28 @@ export default function RootLayout({
         <meta name="theme-color" content="#dc2626" />
         <link rel="apple-touch-icon" href="/icons/icon-192.png" />
       </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col alpine-page`}>
-        <AgeGroupProvider>
-          <GroupProvider>
-            <ComparisonProvider>
-              <AnalyticsConsent gaId={process.env.NEXT_PUBLIC_GA_ID} />
-              <Header />
-              <AgeBar />
-              <main className="flex-1">{children}</main>
-              <Footer />
-              <ServiceWorkerRegistration />
-            </ComparisonProvider>
-          </GroupProvider>
-        </AgeGroupProvider>
+      <body
+        data-theme="day"
+        data-page="home"
+        className={`${geistSans.variable} ${geistMono.variable} font-[family-name:var(--font-geist-sans)] antialiased min-h-screen flex flex-col alpine-page`}
+      >
+        <WanderThemeProvider>
+          <AgeGroupProvider>
+            <GroupProvider>
+              <ComparisonProvider>
+                <AnalyticsConsent gaId={process.env.NEXT_PUBLIC_GA_ID} />
+                <Header />
+                <AgeBar />
+                <main className="flex-1">{children}</main>
+                <Footer />
+                <WanderPager />
+                <WanderFactToast />
+                <PartnerScripts />
+                <ServiceWorkerRegistration />
+              </ComparisonProvider>
+            </GroupProvider>
+          </AgeGroupProvider>
+        </WanderThemeProvider>
         <Analytics />
       </body>
     </html>

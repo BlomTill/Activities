@@ -1,0 +1,55 @@
+{
+  "id": "817",
+  "slug": "llama-and-alpaca-trekking-with-outdoor-fondue-liechtenstein",
+  "name": "Llama and Alpaca Trekking with Outdoor Fondue in Liechtenstein",
+  "description": "Discover Llama and Alpaca Trekking with Outdoor Fondue in Liechtenstein in Switzerland.",
+  "longDescription": "Discover Llama and Alpaca Trekking with Outdoor Fondue in Liechtenstein in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Llama and alpaca trekking",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Lama- & Alpakahof Triesenberg",
+      "pricing": {
+        "child": 40,
+        "student": 68,
+        "adult": 80,
+        "senior": 72
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-outdoor-fondue-liechtenstein/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Lama- & Alpakahof Triesenberg"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/llama-and-alpaca-trekking-with-outdoor-fondue-liechtenstein/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "fondue"
+  ],
+  "featured": false
+}

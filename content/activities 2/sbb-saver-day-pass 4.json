@@ -1,0 +1,53 @@
+{
+  "id": "1014",
+  "slug": "sbb-saver-day-pass",
+  "name": "Saver Day Pass SBB - starting at 29 CHF",
+  "description": "Discover Saver Day Pass SBB - starting at 29 CHF in Switzerland.",
+  "longDescription": "Discover Saver Day Pass SBB - starting at 29 CHF in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "SBB Day Pass",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Schweizerische Bundesbahnen SBB",
+      "pricing": {
+        "child": 15,
+        "student": 25,
+        "adult": 29,
+        "senior": 26
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sbb-day-pass/sbb-saver-day-pass/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/sbb-day-pass/sbb-saver-day-pass/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

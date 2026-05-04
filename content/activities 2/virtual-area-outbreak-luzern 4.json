@@ -1,0 +1,45 @@
+{
+  "id": "1363",
+  "slug": "virtual-area-outbreak-luzern",
+  "name": "\"The Outbreak\" Virtual Area in Lucerne",
+  "description": "Discover \"The Outbreak\" Virtual Area in Lucerne in Switzerland.",
+  "longDescription": "Discover \"The Outbreak\" Virtual Area in Lucerne in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Virtual Reality Games",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/virtual-reality-games/virtual-area-outbreak-luzern/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "lucerne"
+  ],
+  "featured": false
+}

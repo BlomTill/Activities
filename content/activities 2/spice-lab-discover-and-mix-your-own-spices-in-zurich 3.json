@@ -1,0 +1,43 @@
+{
+  "id": "1440",
+  "slug": "spice-lab-discover-and-mix-your-own-spices-in-zurich",
+  "name": "Spice Lab - Discover and Blend Your Own Spices in Zurich",
+  "description": "Discover Spice Lab - Discover and Blend Your Own Spices in Zurich in Switzerland.",
+  "longDescription": "Discover Spice Lab - Discover and Blend Your Own Spices in Zurich in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Workshop",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/spice-lab-discover-and-mix-your-own-spices-in-zurich/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

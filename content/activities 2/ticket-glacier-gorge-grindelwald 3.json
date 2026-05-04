@@ -1,0 +1,56 @@
+{
+  "id": "1479",
+  "slug": "ticket-glacier-gorge-grindelwald",
+  "name": "Ticket Glacier Gorge Grindelwald",
+  "description": "Discover Ticket Glacier Gorge Grindelwald in Switzerland.",
+  "longDescription": "Discover Ticket Glacier Gorge Grindelwald in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Natural attractions",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Outdoor Switzerland AG Berg- und Schneesport",
+      "pricing": {
+        "child": 11,
+        "student": 18,
+        "adult": 21,
+        "senior": 19
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/glacier-gorge-grindelwald/ticket-glacier-gorge-grindelwald/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Outdoor Switzerland AG Berg- und Schneesport"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/glacier-gorge-grindelwald/ticket-glacier-gorge-grindelwald/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "glacier",
+    "grindelwald"
+  ],
+  "featured": false
+}

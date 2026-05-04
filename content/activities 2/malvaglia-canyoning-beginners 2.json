@@ -1,0 +1,56 @@
+{
+  "id": "219",
+  "slug": "malvaglia-canyoning-beginners",
+  "name": "Malvaglia canyoning for beginners",
+  "description": "Discover Malvaglia canyoning for beginners in Switzerland.",
+  "longDescription": "Discover Malvaglia canyoning for beginners in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Canyoning",
+  "location": {
+    "region": "Ticino region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Ticino Outdoor",
+      "pricing": {
+        "child": 78,
+        "student": 132,
+        "adult": 155,
+        "senior": 140
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/malvaglia-canyoning-beginners/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Ticino Outdoor"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/malvaglia-canyoning-beginners/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "canyoning"
+  ],
+  "featured": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "1429",
+  "slug": "cold-hiking-lake-lucerne-guided",
+  "name": "Cold hiking at Lake Lucerne guided",
+  "description": "Discover Cold hiking at Lake Lucerne guided in Switzerland.",
+  "longDescription": "Discover Cold hiking at Lake Lucerne guided in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Winter Experiences",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "KÄLTENETZWERK.ch",
+      "pricing": {
+        "child": 98,
+        "student": 166,
+        "adult": 195,
+        "senior": 176
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/winter-experiences/cold-hiking-lake-lucerne-guided/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: KÄLTENETZWERK.ch"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/winter-experiences/cold-hiking-lake-lucerne-guided/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "hiking",
+    "lake",
+    "lucerne"
+  ],
+  "featured": false
+}

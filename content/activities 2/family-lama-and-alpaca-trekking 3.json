@@ -1,0 +1,58 @@
+{
+  "id": "820",
+  "slug": "family-lama-and-alpaca-trekking",
+  "name": "Family Lama and Alpaca Trekking",
+  "description": "Discover Family Lama and Alpaca Trekking in Switzerland.",
+  "longDescription": "Discover Family Lama and Alpaca Trekking in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Llama and alpaca trekking",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Uelis-Stoeckli",
+      "pricing": {
+        "child": 60,
+        "student": 102,
+        "adult": 120,
+        "senior": 108
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/family-lama-and-alpaca-trekking/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Uelis-Stoeckli"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/llama-and-alpaca-trekking/family-lama-and-alpaca-trekking/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "family"
+  ],
+  "featured": false
+}

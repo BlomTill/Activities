@@ -1,0 +1,57 @@
+{
+  "id": "361",
+  "slug": "day-trip-montreux-chillon-weingueter-genf",
+  "name": "From Geneva: Day trip wine tour and Chillon Castle",
+  "description": "Discover From Geneva: Day trip wine tour and Chillon Castle in Switzerland.",
+  "longDescription": "Discover From Geneva: Day trip wine tour and Chillon Castle in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Day trips",
+  "location": {
+    "region": "Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Helvetica Itinerantur",
+      "pricing": {
+        "child": 123,
+        "student": 209,
+        "adult": 246,
+        "senior": 221
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/day-trip-montreux-chillon-weingueter-genf/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Helvetica Itinerantur"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/day-trips/day-trip-montreux-chillon-weingueter-genf/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "castle",
+    "wine",
+    "geneva"
+  ],
+  "featured": false
+}

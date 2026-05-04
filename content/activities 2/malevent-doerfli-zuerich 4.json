@@ -1,0 +1,43 @@
+{
+  "id": "1432",
+  "slug": "malevent-doerfli-zuerich",
+  "name": "Creative team painting event in Dörfli (Zurich)",
+  "description": "Discover Creative team painting event in Dörfli (Zurich) in Switzerland.",
+  "longDescription": "Discover Creative team painting event in Dörfli (Zurich) in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Workshop",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/creative-workshop/malevent-doerfli-zuerich/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

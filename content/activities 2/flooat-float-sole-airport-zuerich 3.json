@@ -1,0 +1,54 @@
+{
+  "id": "1394",
+  "slug": "flooat-float-sole-airport-zuerich",
+  "name": "Flooat (floating on water) at Zurich Airport",
+  "description": "Discover Flooat (floating on water) at Zurich Airport in Switzerland.",
+  "longDescription": "Discover Flooat (floating on water) at Zurich Airport in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Wellness and adventure pools",
+  "location": {
+    "region": "Zurich region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Flooat AG",
+      "pricing": {
+        "child": 83,
+        "student": 140,
+        "adult": 165,
+        "senior": 149
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/flooat-float-sole-airport-zuerich/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Flooat AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/wellness/flooat-float-sole-airport-zuerich/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

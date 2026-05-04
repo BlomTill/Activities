@@ -5,6 +5,7 @@ import { Tag, Percent } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { ActivityCard } from "@/components/activity-card";
+import { PartnerWidget, GYG_CITIES } from "@/components/partners/partner-widget";
 import { activities, getActivitiesWithDeals } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { getCurrentSeason, getSeasonLabel } from "@/lib/seasons";
@@ -164,6 +165,53 @@ export default function DealsPage() {
             <p className="font-medium text-gray-900">Check if transport savings matter more</p>
             <p className="mt-1 text-sm text-gray-500">Sometimes the bigger win is the right pass, not a small activity discount.</p>
           </Link>
+        </div>
+      </section>
+
+      {/* Live deals from booking partners — three carousels side by side */}
+      <section className="mt-12 space-y-12">
+        <div>
+          <div className="mb-4 flex items-end justify-between gap-4 flex-wrap">
+            <div>
+              <span className="text-xs font-semibold uppercase tracking-[0.18em] text-gray-500">
+                GetYourGuide
+              </span>
+              <h2 className="mt-1 text-2xl font-bold text-gray-900">Top experiences across Switzerland</h2>
+            </div>
+            <Link href="/partners" className="text-sm font-semibold text-red-600 hover:text-red-700">
+              How we earn →
+            </Link>
+          </div>
+          <PartnerWidget partner="getyourguide" type="city" locationId={GYG_CITIES.switzerland} />
+        </div>
+
+        <div>
+          <div className="mb-4">
+            <span className="text-xs font-semibold uppercase tracking-[0.18em] text-gray-500">
+              Viator
+            </span>
+            <h2 className="mt-1 text-2xl font-bold text-gray-900">Selected by Viator</h2>
+            <p className="mt-1 max-w-2xl text-sm text-gray-500">
+              Curated Switzerland tours from Viator (TripAdvisor). Live availability + ratings.
+            </p>
+          </div>
+          <PartnerWidget
+            partner="viator"
+            widgetRef="W-7701fe59-8ef9-401c-864d-4b3c90c087fd"
+          />
+        </div>
+
+        <div>
+          <div className="mb-4">
+            <span className="text-xs font-semibold uppercase tracking-[0.18em] text-gray-500">
+              Klook
+            </span>
+            <h2 className="mt-1 text-2xl font-bold text-gray-900">Klook activity deals</h2>
+            <p className="mt-1 max-w-2xl text-sm text-gray-500">
+              Often has the best prices for cogwheel rides and ski passes — worth a price check.
+            </p>
+          </div>
+          <PartnerWidget partner="klook" adId="1269917" cid={138} amount={6} />
         </div>
       </section>
     </div>

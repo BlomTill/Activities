@@ -1,0 +1,68 @@
+{
+  "id": "1009",
+  "slug": "rafting-tour-vorderrhein-with-barbecue",
+  "name": "Rafting Tour Vorderrhein with Barbecue",
+  "description": "Discover Rafting Tour Vorderrhein with Barbecue in Switzerland.",
+  "longDescription": "Discover Rafting Tour Vorderrhein with Barbecue in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Rafting",
+  "location": {
+    "region": "Graubünden region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Swiss River Adventures",
+      "pricing": {
+        "child": 88,
+        "student": 149,
+        "adult": 175,
+        "senior": 158
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-with-barbecue/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Swiss River Adventures"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-with-barbecue/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Rafting_Vorderrhein_9_f9187e7d67.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Rafting_Vorderrhein_12_35faf444f1.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Rafting_Vorderrhein_26_750e681e98.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Rafting_Vorderrhein_54_b02c9478e8.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Rafting_Vorderrhein_26_07_63_aa1c56cd36.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Rafting_Vorderrhein_26_07_66_ce38906ec0.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinschlucht_Rafting_9bfb1d3897.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Rheinschlucht_Unesco_Ruinaulta_c576d04723.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ruinaulta_Rheinschlucht_8787d950c1.jpg"
+  ],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "966",
+  "slug": "quad-bike-tour-3-hours-at-lake-constance",
+  "name": "Quad bike tour 3 hours on Lake Constance",
+  "description": "Discover Quad bike tour 3 hours on Lake Constance in Switzerland.",
+  "longDescription": "Discover Quad bike tour 3 hours on Lake Constance in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Quad",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/quad/quad-bike-tour-3-hours-at-lake-constance/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Quad_Tour_2h_kl_fba5d895a8.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Spass_in_der_Natur_1024x680_20cedd50f0.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Winter_Quad_Tour_1e02aca96e.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Quad_Tour_Bodensee_90ae493bc1.jpg",
+    "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_BBQ_Tour_kl_5a456f191c.jpg"
+  ],
+  "highlights": [],
+  "tags": [
+    "lake"
+  ],
+  "featured": false
+}

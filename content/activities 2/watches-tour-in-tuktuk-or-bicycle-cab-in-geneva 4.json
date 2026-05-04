@@ -1,0 +1,43 @@
+{
+  "id": "1202",
+  "slug": "watches-tour-in-tuktuk-or-bicycle-cab-in-geneva",
+  "name": "Watches tour in TukTuk or bicycle cab in Geneva",
+  "description": "Discover Watches tour in TukTuk or bicycle cab in Geneva in Switzerland.",
+  "longDescription": "Discover Watches tour in TukTuk or bicycle cab in Geneva in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Tours",
+  "location": {
+    "region": "Geneva region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/watches-tour-in-tuktuk-or-bicycle-cab-in-geneva/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "watch",
+    "geneva"
+  ],
+  "featured": false
+}

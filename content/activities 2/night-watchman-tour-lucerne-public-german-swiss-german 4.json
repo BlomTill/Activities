@@ -1,0 +1,56 @@
+{
+  "id": "1195",
+  "slug": "night-watchman-tour-lucerne-public-german-swiss-german",
+  "name": "Night watchman tour Lucerne public (German/Swiss German)",
+  "description": "Discover Night watchman tour Lucerne public (German/Swiss German) in Switzerland.",
+  "longDescription": "Discover Night watchman tour Lucerne public (German/Swiss German) in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Tours",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "citytrip AG",
+      "pricing": {
+        "child": 15,
+        "student": 26,
+        "adult": 30,
+        "senior": 27
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-german-swiss-german/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: citytrip AG"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/city-tour-guided/night-watchman-tour-lucerne-public-german-swiss-german/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "watch",
+    "lucerne"
+  ],
+  "featured": false
+}

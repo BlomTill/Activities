@@ -1,0 +1,57 @@
+{
+  "id": "225",
+  "slug": "canyoning-ticino-for-advanced-cugnasco",
+  "name": "Cugnasco Canyoning for Experienced Adventurers at Lake Maggiore",
+  "description": "Discover Cugnasco Canyoning for Experienced Adventurers at Lake Maggiore in Switzerland.",
+  "longDescription": "Discover Cugnasco Canyoning for Experienced Adventurers at Lake Maggiore in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Canyoning",
+  "location": {
+    "region": "Ticino region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "autumn"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Purelements",
+      "pricing": {
+        "child": 100,
+        "student": 169,
+        "adult": 199,
+        "senior": 179
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-advanced-cugnasco/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Purelements"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/canyoning/canyoning-ticino-for-advanced-cugnasco/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "canyoning",
+    "lake",
+    "adventure"
+  ],
+  "featured": false
+}

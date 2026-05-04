@@ -1,0 +1,56 @@
+{
+  "id": "429",
+  "slug": "culinary-tour-b-ndner-herrschaft-by-e-bike",
+  "name": "Culinary tour Bündner Herrschaft by e-bike from Bad Ragaz",
+  "description": "Discover Culinary tour Bündner Herrschaft by e-bike from Bad Ragaz in Switzerland.",
+  "longDescription": "Discover Culinary tour Bündner Herrschaft by e-bike from Bad Ragaz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "E-bike",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Heidiland Tourismus",
+      "pricing": {
+        "child": 35,
+        "student": 60,
+        "adult": 70,
+        "senior": 63
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/culinary-tour-b-ndner-herrschaft-by-e-bike/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Heidiland Tourismus"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/e-bike/culinary-tour-b-ndner-herrschaft-by-e-bike/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false
+}

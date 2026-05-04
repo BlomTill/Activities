@@ -1,0 +1,57 @@
+{
+  "id": "944",
+  "slug": "day-trip-soglio-maloja-pass-st-moritz",
+  "name": "Day trip to Soglio Maloja Pass trip from St. Moritz",
+  "description": "Discover Day trip to Soglio Maloja Pass trip from St. Moritz in Switzerland.",
+  "longDescription": "Discover Day trip to Soglio Maloja Pass trip from St. Moritz in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Postbus",
+  "location": {
+    "region": "Graubünden region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Schweizerische Bundesbahnen SBB",
+      "pricing": {
+        "child": 24,
+        "student": 41,
+        "adult": 48,
+        "senior": 43
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/day-trip-soglio-maloja-pass-st-moritz/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Live price scraped from SwissActivities · supplier: Schweizerische Bundesbahnen SBB"
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/postbus/day-trip-soglio-maloja-pass-st-moritz/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "st.-moritz"
+  ],
+  "featured": false
+}
