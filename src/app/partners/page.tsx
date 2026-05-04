@@ -143,6 +143,21 @@ export default function PartnersPage() {
               nothing — no hard feelings.
             </p>
           </div>
+          <div>
+            <p className="font-medium text-gray-900">
+              What about the &ldquo;Live availability&rdquo; carousels and pop-up offers?
+            </p>
+            <p className="mt-1 leading-relaxed">
+              Real-time experience carousels on the home, destination, and
+              deals pages are powered by GetYourGuide, Viator and Klook
+              widgets. Prices and ratings come straight from those partners
+              and update in real time. We also use Travelpayouts&apos; Drive
+              system, which can show a contextual booking offer in the
+              corner when its AI thinks you&apos;re ready to book — those are
+              clearly partner ads. None of this changes the editorial
+              ordering of activities on our own pages.
+            </p>
+          </div>
         </div>
       </section>
 
