@@ -45,6 +45,14 @@
   "currency": "CHF",
   "duration": "Full day",
   "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=500&fit=crop",
+  "tags": [
+    "skiing",
+    "winter",
+    "crans-montana",
+    "luxury",
+    "world cup"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Slopes",
@@ -67,12 +75,5 @@
       "value": "Mountain restaurants"
     }
   ],
-  "tags": [
-    "skiing",
-    "winter",
-    "crans-montana",
-    "luxury",
-    "world cup"
-  ],
-  "featured": false
+  "published": false
 }

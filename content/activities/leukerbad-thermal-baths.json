@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "2-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=800&h=500&fit=crop",
+  "tags": [
+    "thermal bath",
+    "hot springs",
+    "mountains",
+    "wellness",
+    "relaxation"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Water Temp",
@@ -83,12 +91,5 @@
       "value": "Alpine thermal"
     }
   ],
-  "tags": [
-    "thermal bath",
-    "hot springs",
-    "mountains",
-    "wellness",
-    "relaxation"
-  ],
-  "featured": false
+  "published": false
 }

@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "1.5-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1564429238961-bf4213e78bbf?w=800&h=500&fit=crop",
+  "tags": [
+    "baroque",
+    "old town",
+    "solothurn",
+    "architecture",
+    "history"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Number 11",
@@ -83,12 +91,5 @@
       "value": "Solothurn"
     }
   ],
-  "tags": [
-    "baroque",
-    "old town",
-    "solothurn",
-    "architecture",
-    "history"
-  ],
-  "featured": false
+  "published": false
 }

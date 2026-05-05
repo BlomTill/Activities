@@ -35,6 +35,19 @@ interface BuildOptions {
   forcePartner?: string;
 }
 
+/**
+ * Some partner APIs return a fully pre-attributed URL that the partner's
+ * spec explicitly forbids modifying. We detect those and pass them
+ * through unchanged. Right now: Viator's `productUrl` (carries
+ * `pid` + `mcid` + `medium=api`) — modifying it breaks commission.
+ */
+function isPreAttributedViatorUrl(url: URL): boolean {
+  const host = url.hostname.toLowerCase();
+  if (!host.includes("viator.com")) return false;
+  const params = url.searchParams;
+  return params.has("pid") && params.has("mcid") && params.get("medium") === "api";
+}
+
 /** Append tracking params + our own slot/slug label to the URL. */
 export function buildAffiliateUrl(bookingUrl: string, opts: BuildOptions = {}): string {
   let partner: AffiliatePartner | undefined;
@@ -43,6 +56,9 @@ export function buildAffiliateUrl(bookingUrl: string, opts: BuildOptions = {}): 
 
   try {
     const url = new URL(bookingUrl);
+
+    // Viator API URLs are pre-attributed; do not touch them.
+    if (isPreAttributedViatorUrl(url)) return bookingUrl;
 
     if (partner) {
       const extras = new URLSearchParams(partner.trackingParams);

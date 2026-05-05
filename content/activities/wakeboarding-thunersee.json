@@ -58,6 +58,14 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&h=500&fit=crop",
+  "tags": [
+    "wakeboarding",
+    "water sports",
+    "lake thun",
+    "summer",
+    "cable"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "System",
@@ -80,12 +88,5 @@
       "value": "May–September"
     }
   ],
-  "tags": [
-    "wakeboarding",
-    "water sports",
-    "lake thun",
-    "summer",
-    "cable"
-  ],
-  "featured": false
+  "published": false
 }

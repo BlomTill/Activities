@@ -47,6 +47,14 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=800&h=500&fit=crop",
+  "tags": [
+    "funicular",
+    "panorama",
+    "lugano",
+    "ticino",
+    "lake"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Summit",
@@ -69,12 +77,5 @@
       "value": "Summit"
     }
   ],
-  "tags": [
-    "funicular",
-    "panorama",
-    "lugano",
-    "ticino",
-    "lake"
-  ],
-  "featured": false
+  "published": false
 }

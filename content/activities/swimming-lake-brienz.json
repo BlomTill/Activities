@@ -45,6 +45,14 @@
   "currency": "CHF",
   "duration": "2-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1559494007-9f5847c49d94?w=800&h=500&fit=crop",
+  "tags": [
+    "swimming",
+    "lake",
+    "free",
+    "turquoise",
+    "summer"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Water Color",
@@ -67,17 +75,10 @@
       "value": "Up to 260m"
     }
   ],
-  "tags": [
-    "swimming",
-    "lake",
-    "free",
-    "turquoise",
-    "summer"
-  ],
-  "featured": false,
   "deal": {
     "discount": 100,
     "label": "Free Activity",
     "validUntil": "2026-12-31"
-  }
+  },
+  "published": false
 }

@@ -47,6 +47,14 @@
   "currency": "CHF",
   "duration": "6-8 hours",
   "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&h=500&fit=crop",
+  "tags": [
+    "hiking",
+    "via alpina",
+    "pass",
+    "grindelwald",
+    "long-distance"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Pass",
@@ -69,12 +77,5 @@
       "value": "Reichenbach Falls"
     }
   ],
-  "tags": [
-    "hiking",
-    "via alpina",
-    "pass",
-    "grindelwald",
-    "long-distance"
-  ],
-  "featured": false
+  "published": false
 }

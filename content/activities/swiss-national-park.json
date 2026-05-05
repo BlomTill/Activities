@@ -59,6 +59,14 @@
   "currency": "CHF",
   "duration": "4-8 hours",
   "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
+  "tags": [
+    "hiking",
+    "national park",
+    "wildlife",
+    "free",
+    "nature"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Trail km",
@@ -81,17 +89,10 @@
       "value": "Yes"
     }
   ],
-  "tags": [
-    "hiking",
-    "national park",
-    "wildlife",
-    "free",
-    "nature"
-  ],
-  "featured": false,
   "deal": {
     "discount": 100,
     "label": "Free Activity",
     "validUntil": "2026-12-31"
-  }
+  },
+  "published": false
 }

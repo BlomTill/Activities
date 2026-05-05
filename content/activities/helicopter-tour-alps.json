@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "20-60 min",
   "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop",
+  "tags": [
+    "helicopter",
+    "scenic flight",
+    "alps",
+    "luxury",
+    "matterhorn"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Routes",
@@ -83,12 +91,5 @@
       "value": "Air Zermatt"
     }
   ],
-  "tags": [
-    "helicopter",
-    "scenic flight",
-    "alps",
-    "luxury",
-    "matterhorn"
-  ],
-  "featured": false
+  "published": false
 }

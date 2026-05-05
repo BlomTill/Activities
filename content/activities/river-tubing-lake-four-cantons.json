@@ -36,10 +36,11 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "gallery": [],
-  "highlights": [],
   "tags": [
     "river"
   ],
-  "featured": false
+  "featured": false,
+  "gallery": [],
+  "highlights": [],
+  "published": false
 }

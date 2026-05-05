@@ -49,6 +49,14 @@
   "currency": "CHF",
   "duration": "3-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=800&h=500&fit=crop",
+  "tags": [
+    "cooking",
+    "class",
+    "fondue",
+    "zurich",
+    "food"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Dishes",
@@ -71,12 +79,5 @@
       "value": "Professional instruction"
     }
   ],
-  "tags": [
-    "cooking",
-    "class",
-    "fondue",
-    "zurich",
-    "food"
-  ],
-  "featured": false
+  "published": false
 }

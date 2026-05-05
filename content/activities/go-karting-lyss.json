@@ -48,6 +48,13 @@
   "currency": "CHF",
   "duration": "1-2 hours",
   "imageUrl": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=800&h=500&fit=crop",
+  "tags": [
+    "go-kart",
+    "racing",
+    "indoor",
+    "speed"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Track Length",
@@ -70,11 +77,5 @@
       "value": "Up to 70 km/h"
     }
   ],
-  "tags": [
-    "go-kart",
-    "racing",
-    "indoor",
-    "speed"
-  ],
-  "featured": false
+  "published": false
 }

@@ -60,6 +60,14 @@
   "currency": "CHF",
   "duration": "4-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?w=800&h=500&fit=crop",
+  "tags": [
+    "golf",
+    "crans-montana",
+    "championship",
+    "luxury",
+    "alpine"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Altitude",
@@ -82,12 +90,5 @@
       "value": "18 + 9"
     }
   ],
-  "tags": [
-    "golf",
-    "crans-montana",
-    "championship",
-    "luxury",
-    "alpine"
-  ],
-  "featured": false
+  "published": false
 }

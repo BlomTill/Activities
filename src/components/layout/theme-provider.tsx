@@ -3,7 +3,7 @@
 import { createContext, useCallback, useContext, useEffect, useState } from "react";
 
 /**
- * wander.ch Day/Dusk theme.
+ * realswitzerland.ch Day/Dusk theme.
  * Sets data-theme on <body> so .alpine-page CSS tokens flip between
  * cream-warm and dark-teal palettes. Persists in localStorage.
  */

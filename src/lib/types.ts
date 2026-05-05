@@ -128,6 +128,35 @@ export interface Activity {
   featured: boolean;
   deal?: ActivityDeal;
   trending?: TrendingInfo;
+  /**
+   * Quarantine flag. When false, the activity exists in the dataset but is
+   * excluded from sitemap, list pages, search, and internal links. Use for
+   * activities that don't yet meet the comparison-quality bar (e.g. <2
+   * provider/marketplace links, unverified images).
+   *
+   * Undefined === true (back-compat — older entries are assumed published).
+   * `scripts/content-check.mjs` will auto-set this to false when an activity
+   * has fewer than two total provider/marketplace listings.
+   */
+  published?: boolean;
+  /**
+   * Image-quality verification state.
+   *  - true:    automated vision check confirmed the image matches the activity
+   *  - false:   vision check failed → image must be replaced before publishing
+   *  - "manual": curator override, skip automated checks
+   *  - undefined: not yet checked (treated as unverified for publish gate)
+   */
+  imageVerified?: boolean | "manual";
+  /**
+   * Where the resolved hero image came from. Helps the verifier prefer
+   * higher-confidence sources and lets us surface badges like "Operator photo".
+   */
+  imageSource?: "operator" | "marketplace" | "wikipedia" | "unsplash" | "manual";
+}
+
+/** Treat undefined as published for backwards compatibility. */
+export function isPublished(activity: Activity): boolean {
+  return activity.published !== false;
 }
 
 /** True when at least one priced provider exists. */

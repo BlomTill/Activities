@@ -49,6 +49,10 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "tags": [
+    "wine"
+  ],
+  "featured": false,
   "gallery": [
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Burger_Wein_4_2a7a6c0678.jpg",
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Fahrt_Rundfahrt_443e9363a8.jpg",
@@ -67,8 +71,5 @@
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Zurich_Tuk_Tuk_Stadtrundfahrt_9e623e5e8d.jpg"
   ],
   "highlights": [],
-  "tags": [
-    "wine"
-  ],
-  "featured": false
+  "published": false
 }

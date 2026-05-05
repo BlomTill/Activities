@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=800&h=500&fit=crop",
+  "tags": [
+    "art",
+    "museum",
+    "zurich",
+    "culture",
+    "indoor"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Collection",
@@ -83,12 +91,5 @@
       "value": "Doubled in 2021"
     }
   ],
-  "tags": [
-    "art",
-    "museum",
-    "zurich",
-    "culture",
-    "indoor"
-  ],
-  "featured": false
+  "published": false
 }

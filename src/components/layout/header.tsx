@@ -7,7 +7,7 @@ import { useWanderTheme } from "./theme-provider";
 import { triggerYodel } from "./yodel";
 
 /**
- * wander.ch sticky header.
+ * realswitzerland.ch sticky header.
  * - Cream blurred backdrop
  * - Logo with orange triangle mark + .ch dot accent
  * - Centre nav links (hidden on mobile)
@@ -22,7 +22,20 @@ interface NavLink {
   match?: string[]; // pathnames that should highlight this link
 }
 
-const NAV_LINKS: NavLink[] = [
+/**
+ * Launch mode — keeps the public surface small for the initial release.
+ * Set NEXT_PUBLIC_LAUNCH_MODE=full in .env.local to expose the full nav
+ * once Stories / Itineraries / Map / Deals are content-complete.
+ */
+const LAUNCH_MODE = (process.env.NEXT_PUBLIC_LAUNCH_MODE ?? "lean") !== "full";
+
+const NAV_LINKS_LEAN: NavLink[] = [
+  { label: "Activities", href: "/activities", match: ["/activities"] },
+  { label: "Compare", href: "/compare", match: ["/compare"] },
+  { label: "Destinations", href: "/destinations", match: ["/destinations", "/regions"] },
+];
+
+const NAV_LINKS_FULL: NavLink[] = [
   { label: "Activities", href: "/activities", match: ["/activities"] },
   { label: "Itineraries", href: "/itineraries", match: ["/itineraries"] },
   { label: "Stories", href: "/stories", match: ["/stories", "/blog"] },
@@ -31,12 +44,33 @@ const NAV_LINKS: NavLink[] = [
   { label: "Deals", href: "/deals" },
 ];
 
+const NAV_LINKS: NavLink[] = LAUNCH_MODE ? NAV_LINKS_LEAN : NAV_LINKS_FULL;
+
 interface MegaGroup {
   head: string;
   links: { label: string; href: string }[];
 }
 
-const MEGA_GROUPS: MegaGroup[] = [
+const MEGA_GROUPS_LEAN: MegaGroup[] = [
+  {
+    head: "Compare",
+    links: [
+      { label: "All activities", href: "/activities" },
+      { label: "Browse by region", href: "/destinations" },
+      { label: "Side-by-side compare", href: "/compare" },
+    ],
+  },
+  {
+    head: "About",
+    links: [
+      { label: "How we make money", href: "/partners" },
+      { label: "Privacy", href: "/privacy" },
+      { label: "Contact", href: "/about" },
+    ],
+  },
+];
+
+const MEGA_GROUPS_FULL: MegaGroup[] = [
   {
     head: "Plan",
     links: [
@@ -65,6 +99,8 @@ const MEGA_GROUPS: MegaGroup[] = [
     ],
   },
 ];
+
+const MEGA_GROUPS: MegaGroup[] = LAUNCH_MODE ? MEGA_GROUPS_LEAN : MEGA_GROUPS_FULL;
 
 function ChevronDownIcon() {
   return (
@@ -169,7 +205,7 @@ export function Header() {
     <>
       <header className="wander-nav">
         <div className="wander-container wander-nav-row">
-          <Link href="/" onClick={onLogoClick} className="wander-logo" aria-label="wander.ch home">
+          <Link href="/" onClick={onLogoClick} className="wander-logo" aria-label="realswitzerland.ch home">
             <span className="wander-logo-mark" aria-hidden>
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M3 20 9 9l4 6 3-4 5 9z" />

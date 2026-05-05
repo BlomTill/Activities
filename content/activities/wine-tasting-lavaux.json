@@ -72,6 +72,14 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=500&fit=crop",
+  "tags": [
+    "wine",
+    "vineyard",
+    "UNESCO",
+    "tasting",
+    "lavaux"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "UNESCO",
@@ -94,12 +102,5 @@
       "value": "Available"
     }
   ],
-  "tags": [
-    "wine",
-    "vineyard",
-    "UNESCO",
-    "tasting",
-    "lavaux"
-  ],
-  "featured": false
+  "published": false
 }

@@ -60,6 +60,14 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=800&h=500&fit=crop",
+  "tags": [
+    "horse riding",
+    "jura",
+    "freiberger",
+    "trail ride",
+    "nature"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Breed",
@@ -82,12 +90,5 @@
       "value": "Friendly"
     }
   ],
-  "tags": [
-    "horse riding",
-    "jura",
-    "freiberger",
-    "trail ride",
-    "nature"
-  ],
-  "featured": false
+  "published": false
 }

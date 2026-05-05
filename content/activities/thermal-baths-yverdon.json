@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "2-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&h=500&fit=crop",
+  "tags": [
+    "thermal bath",
+    "sulphur",
+    "wellness",
+    "yverdon",
+    "spa"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Springs",
@@ -83,12 +91,5 @@
       "value": "Jura mountains"
     }
   ],
-  "tags": [
-    "thermal bath",
-    "sulphur",
-    "wellness",
-    "yverdon",
-    "spa"
-  ],
-  "featured": false
+  "published": false
 }

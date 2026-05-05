@@ -47,6 +47,14 @@
   "currency": "CHF",
   "duration": "4-7 hours",
   "imageUrl": "https://images.unsplash.com/photo-1535930749574-1399327ce78f?w=800&h=500&fit=crop",
+  "tags": [
+    "amusement park",
+    "rides",
+    "roller coaster",
+    "thurgau",
+    "family"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Attractions",
@@ -69,12 +77,5 @@
       "value": "Thurgau"
     }
   ],
-  "tags": [
-    "amusement park",
-    "rides",
-    "roller coaster",
-    "thurgau",
-    "family"
-  ],
-  "featured": false
+  "published": false
 }

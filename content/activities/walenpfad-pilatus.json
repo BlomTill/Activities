@@ -47,6 +47,14 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c?w=800&h=500&fit=crop",
+  "tags": [
+    "hiking",
+    "ridge",
+    "pilatus",
+    "panorama",
+    "exposed"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Trail",
@@ -69,12 +77,5 @@
       "value": "Pilatus Kulm"
     }
   ],
-  "tags": [
-    "hiking",
-    "ridge",
-    "pilatus",
-    "panorama",
-    "exposed"
-  ],
-  "featured": false
+  "published": false
 }

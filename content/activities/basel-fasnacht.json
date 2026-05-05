@@ -46,6 +46,14 @@
   "currency": "CHF",
   "duration": "3 days",
   "imageUrl": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=800&h=500&fit=crop",
+  "tags": [
+    "carnival",
+    "fasnacht",
+    "UNESCO",
+    "basel",
+    "tradition"
+  ],
+  "featured": true,
   "highlights": [
     {
       "label": "UNESCO",
@@ -68,12 +76,5 @@
       "value": "Public event"
     }
   ],
-  "tags": [
-    "carnival",
-    "fasnacht",
-    "UNESCO",
-    "basel",
-    "tradition"
-  ],
-  "featured": true
+  "published": false
 }

@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "3-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1580060839134-2dc0a8f6309e?w=800&h=500&fit=crop",
+  "tags": [
+    "museum",
+    "family",
+    "interactive",
+    "indoor",
+    "lucerne"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Exhibits",
@@ -83,12 +91,5 @@
       "value": "Yes"
     }
   ],
-  "tags": [
-    "museum",
-    "family",
-    "interactive",
-    "indoor",
-    "lucerne"
-  ],
-  "featured": false
+  "published": false
 }

@@ -46,6 +46,14 @@
   "currency": "CHF",
   "duration": "2 hours",
   "imageUrl": "https://images.unsplash.com/photo-1575721150019-61b5f87bcee4?w=800&h=500&fit=crop",
+  "tags": [
+    "curling",
+    "winter",
+    "zermatt",
+    "olympic",
+    "ice"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Olympic Sport",
@@ -68,12 +76,5 @@
       "value": "No experience needed"
     }
   ],
-  "tags": [
-    "curling",
-    "winter",
-    "zermatt",
-    "olympic",
-    "ice"
-  ],
-  "featured": false
+  "published": false
 }

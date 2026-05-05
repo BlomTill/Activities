@@ -28,6 +28,18 @@ export const activitySchema = z.object({
       description: z.string().optional(),
     })
   ),
+  marketplaces: z
+    .array(
+      z.object({
+        partnerId: z.string().min(1),
+        partnerName: z.string().min(1),
+        bookingUrl: z.string().min(1),
+        isDirectLink: z.boolean(),
+        rating: z.number().optional(),
+        description: z.string().optional(),
+      })
+    )
+    .optional(),
   currency: z.literal("CHF"),
   duration: z.string().min(1),
   imageUrl: z.string().min(1),
@@ -54,6 +66,12 @@ export const activitySchema = z.object({
     })
     .optional(),
   trending: z.object({ score: z.number(), reason: z.string() }).optional(),
+  /** Quarantine flag — see Activity type doc. Undefined === published. */
+  published: z.boolean().optional(),
+  /** Image vision-check result. Undefined === unverified. */
+  imageVerified: z.union([z.boolean(), z.literal("manual")]).optional(),
+  /** Origin of the resolved hero image. */
+  imageSource: z.enum(["operator", "marketplace", "wikipedia", "unsplash", "manual"]).optional(),
 });
 
 export const activityListItemSchema = z.object({
@@ -75,6 +93,7 @@ export const activityListItemSchema = z.object({
   featured: z.boolean(),
   providerCount: z.number(),
   minAdultPrice: z.number(),
+  published: z.boolean().optional(),
 });
 
 export const storySchema = z.object({

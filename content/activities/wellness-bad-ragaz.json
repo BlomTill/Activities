@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "2-6 hours",
   "imageUrl": "https://images.unsplash.com/photo-1540555700478-4be289fbec6d?w=800&h=500&fit=crop",
+  "tags": [
+    "thermal",
+    "spa",
+    "wellness",
+    "hot springs",
+    "luxury"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Water Temp",
@@ -83,12 +91,5 @@
       "value": "Multiple"
     }
   ],
-  "tags": [
-    "thermal",
-    "spa",
-    "wellness",
-    "hot springs",
-    "luxury"
-  ],
-  "featured": false
+  "published": false
 }

@@ -48,6 +48,14 @@
   "currency": "CHF",
   "duration": "3-6 hours",
   "imageUrl": "https://images.unsplash.com/photo-1527525443983-6e60c75fff46?w=800&h=500&fit=crop",
+  "tags": [
+    "water park",
+    "slides",
+    "thermal",
+    "family",
+    "indoor"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Slides",
@@ -70,12 +78,5 @@
       "value": "Year-round"
     }
   ],
-  "tags": [
-    "water park",
-    "slides",
-    "thermal",
-    "family",
-    "indoor"
-  ],
-  "featured": false
+  "published": false
 }

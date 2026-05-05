@@ -73,6 +73,14 @@
   "currency": "CHF",
   "duration": "1.5-2 hours",
   "imageUrl": "https://images.unsplash.com/photo-1511882150382-421056c89033?w=800&h=500&fit=crop",
+  "tags": [
+    "escape room",
+    "puzzle",
+    "indoor",
+    "team",
+    "zurich"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Team Size",
@@ -95,12 +103,5 @@
       "value": "3"
     }
   ],
-  "tags": [
-    "escape room",
-    "puzzle",
-    "indoor",
-    "team",
-    "zurich"
-  ],
-  "featured": false
+  "published": false
 }

@@ -47,6 +47,14 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=500&fit=crop",
+  "tags": [
+    "trains",
+    "miniature",
+    "family",
+    "steam",
+    "park"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Locomotives",
@@ -69,12 +77,5 @@
       "value": "Geneva shore"
     }
   ],
-  "tags": [
-    "trains",
-    "miniature",
-    "family",
-    "steam",
-    "park"
-  ],
-  "featured": false
+  "published": false
 }

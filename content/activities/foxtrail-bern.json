@@ -49,6 +49,14 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1558443957-d056622e72cd?w=800&h=500&fit=crop",
+  "tags": [
+    "foxtrail",
+    "scavenger hunt",
+    "bern",
+    "old town",
+    "UNESCO"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Setting",
@@ -71,12 +79,5 @@
       "value": "800 years"
     }
   ],
-  "tags": [
-    "foxtrail",
-    "scavenger hunt",
-    "bern",
-    "old town",
-    "UNESCO"
-  ],
-  "featured": false
+  "published": false
 }

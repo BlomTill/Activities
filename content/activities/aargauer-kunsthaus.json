@@ -49,6 +49,14 @@
   "currency": "CHF",
   "duration": "1.5-2.5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=500&fit=crop",
+  "tags": [
+    "museum",
+    "art",
+    "aarau",
+    "aargau",
+    "swiss art"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Collection",
@@ -71,12 +79,5 @@
       "value": "Aargau"
     }
   ],
-  "tags": [
-    "museum",
-    "art",
-    "aarau",
-    "aargau",
-    "swiss art"
-  ],
-  "featured": false
+  "published": false
 }

@@ -60,6 +60,14 @@
   "currency": "CHF",
   "duration": "2-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=500&fit=crop",
+  "tags": [
+    "thermal bath",
+    "spa",
+    "gruyère",
+    "fribourg",
+    "wellness"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Water Temp",
@@ -82,12 +90,5 @@
       "value": "Gruyères village"
     }
   ],
-  "tags": [
-    "thermal bath",
-    "spa",
-    "gruyère",
-    "fribourg",
-    "wellness"
-  ],
-  "featured": false
+  "published": false
 }

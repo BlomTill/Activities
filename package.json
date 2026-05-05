@@ -10,6 +10,7 @@
     "lint": "next lint",
     "content:build": "node scripts/content-build.mjs",
     "content:check": "node scripts/content-check.mjs",
+    "content:check:write": "node scripts/content-check.mjs --write",
     "perf:check": "node scripts/perf-budget-check.mjs",
     "check:release": "npm run content:build && npm run content:check && npm run lint && npx tsc --noEmit -p tsconfig.json && npm run build && npm run perf:check",
     "fetch-images": "node scripts/fetch-activity-images.mjs",
@@ -20,7 +21,13 @@
     "match:swissactivities-photos": "node scripts/match-swissactivities-photos.mjs",
     "migrate:marketplaces": "node scripts/migrate-marketplaces.mjs",
     "scrape:swissactivities-prices": "node scripts/scrape-swissactivities-prices.mjs",
-    "promote:marketplace-prices": "node scripts/promote-marketplace-prices.mjs"
+    "promote:marketplace-prices": "node scripts/promote-marketplace-prices.mjs",
+    "fetch:gyg": "node scripts/fetch-getyourguide-listings.mjs",
+    "fetch:gyg:merge": "node scripts/fetch-getyourguide-listings.mjs --merge",
+    "fetch:viator": "node scripts/fetch-viator-listings.mjs",
+    "fetch:viator:merge": "node scripts/fetch-viator-listings.mjs --merge",
+    "verify:images": "node scripts/verify-activity-images.mjs",
+    "verify:images:apply": "node scripts/verify-activity-images.mjs --apply"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",

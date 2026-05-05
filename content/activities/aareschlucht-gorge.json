@@ -47,6 +47,14 @@
   "currency": "CHF",
   "duration": "1-2 hours",
   "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop",
+  "tags": [
+    "gorge",
+    "nature",
+    "walking",
+    "limestone",
+    "meiringen"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Length",
@@ -69,12 +77,5 @@
       "value": "Yes"
     }
   ],
-  "tags": [
-    "gorge",
-    "nature",
-    "walking",
-    "limestone",
-    "meiringen"
-  ],
-  "featured": false
+  "published": false
 }

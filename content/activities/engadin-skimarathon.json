@@ -46,6 +46,14 @@
   "currency": "CHF",
   "duration": "3-6 hours",
   "imageUrl": "https://images.unsplash.com/photo-1547483238-2cbf881a559f?w=800&h=500&fit=crop",
+  "tags": [
+    "cross-country",
+    "skiing",
+    "marathon",
+    "engadin",
+    "race"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Distance",
@@ -68,12 +76,5 @@
       "value": "Frozen lakes"
     }
   ],
-  "tags": [
-    "cross-country",
-    "skiing",
-    "marathon",
-    "engadin",
-    "race"
-  ],
-  "featured": false
+  "published": false
 }

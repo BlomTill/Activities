@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "2.5-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&h=500&fit=crop",
+  "tags": [
+    "spa",
+    "hammam",
+    "wellness",
+    "zurich",
+    "relaxation"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Ritual",
@@ -83,12 +91,5 @@
       "value": "Optional add-on"
     }
   ],
-  "tags": [
-    "spa",
-    "hammam",
-    "wellness",
-    "zurich",
-    "relaxation"
-  ],
-  "featured": false
+  "published": false
 }

@@ -47,6 +47,14 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&h=500&fit=crop",
+  "tags": [
+    "hiking",
+    "eiger",
+    "north face",
+    "grindelwald",
+    "iconic"
+  ],
+  "featured": true,
   "highlights": [
     {
       "label": "Trail Length",
@@ -69,12 +77,5 @@
       "value": "Below the Eiger"
     }
   ],
-  "tags": [
-    "hiking",
-    "eiger",
-    "north face",
-    "grindelwald",
-    "iconic"
-  ],
-  "featured": true
+  "published": false
 }

@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1494949360457-518eb54fe235?w=800&h=500&fit=crop",
+  "tags": [
+    "roman",
+    "ruins",
+    "history",
+    "basel-landschaft",
+    "archaeology"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Founded",
@@ -83,17 +91,10 @@
       "value": "Free"
     }
   ],
-  "tags": [
-    "roman",
-    "ruins",
-    "history",
-    "basel-landschaft",
-    "archaeology"
-  ],
-  "featured": false,
   "deal": {
     "discount": 100,
     "label": "Free Outdoor Access",
     "validUntil": "2026-12-31"
-  }
+  },
+  "published": false
 }

@@ -46,6 +46,14 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "tags": [
+    "canyoning",
+    "lake",
+    "adventure",
+    "interlaken",
+    "lucerne"
+  ],
+  "featured": false,
   "gallery": [
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_jump_3e569d9384_c26f69fe0d.jpg",
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_canyoning_adventure_410cc3b9f8_0fd5f39522.jpg",
@@ -58,12 +66,5 @@
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/csm_interlaken_paragliding_aerial_view_788ca3e85f_d854b2e7af.jpg"
   ],
   "highlights": [],
-  "tags": [
-    "canyoning",
-    "lake",
-    "adventure",
-    "interlaken",
-    "lucerne"
-  ],
-  "featured": false
+  "published": false
 }

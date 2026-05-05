@@ -11,7 +11,7 @@ The previous `LAUNCH_PLAN.md` (April 2026) was written for the old `exploreswitz
 
 ## Where we are today
 
-The site is **already deployed at realswitzerland.ch on Vercel**. The hard engineering is done: 1,513 activities, 25 stories, 5 itineraries, 17+ pages, the wander.ch alpine-sunshine design rolled out across the shell, GA4 instrumented (`G-WM5HKRFLBQ`), Travelpayouts Drive AI mounted, real affiliate IDs wired for GetYourGuide (`JE8NE76`), Viator (`P00299712`), Klook (`120379`), Travelpayouts (`724838`), SwissActivities (`odbhodn`), with a tracked `<AffiliateLink>` component and `affiliate_click` GA4 events. Three partner widgets render on the home, destination detail, and deals pages. Privacy + cookie consent + sitemap + robots + service worker + PWA manifest are all in place.
+The site is **already deployed at realswitzerland.ch on Vercel**. The hard engineering is done: 1,513 activities, 25 stories, 5 itineraries, 17+ pages, the realswitzerland.ch alpine-sunshine design rolled out across the shell, GA4 instrumented (`G-WM5HKRFLBQ`), Travelpayouts Drive AI mounted, real affiliate IDs wired for GetYourGuide (`JE8NE76`), Viator (`P00299712`), Klook (`120379`), Travelpayouts (`724838`), SwissActivities (`odbhodn`), with a tracked `<AffiliateLink>` component and `affiliate_click` GA4 events. Three partner widgets render on the home, destination detail, and deals pages. Privacy + cookie consent + sitemap + robots + service worker + PWA manifest are all in place.
 
 What's left is **verification, polish, content seeding, and turning on traffic acquisition** — not engineering.
 

@@ -49,6 +49,10 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "tags": [
+    "rafting"
+  ],
+  "featured": false,
   "gallery": [
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Rafting_Vorderrhein_9_f9187e7d67.jpg",
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Swiss_River_Adventures_Rafting_Vorderrhein_12_35faf444f1.jpg",
@@ -61,8 +65,5 @@
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Ruinaulta_Rheinschlucht_8787d950c1.jpg"
   ],
   "highlights": [],
-  "tags": [
-    "rafting"
-  ],
-  "featured": false
+  "published": false
 }

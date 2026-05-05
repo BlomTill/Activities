@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "1.5-2.5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1571168136613-46401b03904e?w=800&h=500&fit=crop",
+  "tags": [
+    "old town",
+    "painted eaves",
+    "aarau",
+    "aargau",
+    "architecture"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Dachhimmel",
@@ -83,12 +91,5 @@
       "value": "Aargau capital"
     }
   ],
-  "tags": [
-    "old town",
-    "painted eaves",
-    "aarau",
-    "aargau",
-    "architecture"
-  ],
-  "featured": false
+  "published": false
 }

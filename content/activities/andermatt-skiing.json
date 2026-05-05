@@ -57,6 +57,14 @@
   "currency": "CHF",
   "duration": "Full day",
   "imageUrl": "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=800&h=500&fit=crop",
+  "tags": [
+    "skiing",
+    "winter",
+    "uri",
+    "freeride",
+    "alps"
+  ],
+  "featured": true,
   "highlights": [
     {
       "label": "Slopes",
@@ -79,12 +87,5 @@
       "value": "Excellent off-piste"
     }
   ],
-  "tags": [
-    "skiing",
-    "winter",
-    "uri",
-    "freeride",
-    "alps"
-  ],
-  "featured": true
+  "published": false
 }

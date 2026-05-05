@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "1.5-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1606312619070-d48b4c652e52?w=800&h=500&fit=crop",
+  "tags": [
+    "chocolate",
+    "lindt",
+    "museum",
+    "tasting",
+    "workshop"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Fountain",
@@ -83,12 +91,5 @@
       "value": "Choco museum"
     }
   ],
-  "tags": [
-    "chocolate",
-    "lindt",
-    "museum",
-    "tasting",
-    "workshop"
-  ],
-  "featured": false
+  "published": false
 }

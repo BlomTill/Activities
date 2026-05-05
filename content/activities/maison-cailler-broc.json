@@ -48,6 +48,14 @@
   "currency": "CHF",
   "duration": "1-2 hours",
   "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&h=500&fit=crop",
+  "tags": [
+    "chocolate",
+    "cailler",
+    "factory",
+    "tasting",
+    "fribourg"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Since",
@@ -70,12 +78,5 @@
       "value": "Gruyères"
     }
   ],
-  "tags": [
-    "chocolate",
-    "cailler",
-    "factory",
-    "tasting",
-    "fribourg"
-  ],
-  "featured": false
+  "published": false
 }

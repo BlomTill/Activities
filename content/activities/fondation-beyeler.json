@@ -49,6 +49,14 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1577720643272-265f09367456?w=800&h=500&fit=crop",
+  "tags": [
+    "museum",
+    "modern art",
+    "beyeler",
+    "renzo piano",
+    "basel"
+  ],
+  "featured": true,
   "highlights": [
     {
       "label": "Architect",
@@ -71,12 +79,5 @@
       "value": "Top museum in CH"
     }
   ],
-  "tags": [
-    "museum",
-    "modern art",
-    "beyeler",
-    "renzo piano",
-    "basel"
-  ],
-  "featured": true
+  "published": false
 }

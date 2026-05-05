@@ -58,6 +58,14 @@
   "currency": "CHF",
   "duration": "3-6 hours",
   "imageUrl": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800&h=500&fit=crop",
+  "tags": [
+    "film",
+    "festival",
+    "open-air",
+    "locarno",
+    "ticino"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Screen",
@@ -80,12 +88,5 @@
       "value": "Top European festival"
     }
   ],
-  "tags": [
-    "film",
-    "festival",
-    "open-air",
-    "locarno",
-    "ticino"
-  ],
-  "featured": false
+  "published": false
 }

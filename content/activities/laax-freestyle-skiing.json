@@ -57,6 +57,14 @@
   "currency": "CHF",
   "duration": "Full day",
   "imageUrl": "https://images.unsplash.com/photo-1565992441121-4367c2967103?w=800&h=500&fit=crop",
+  "tags": [
+    "freestyle",
+    "skiing",
+    "snowboarding",
+    "halfpipe",
+    "park"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Slope km",
@@ -79,12 +87,5 @@
       "value": "200m Olympic"
     }
   ],
-  "tags": [
-    "freestyle",
-    "skiing",
-    "snowboarding",
-    "halfpipe",
-    "park"
-  ],
-  "featured": false
+  "published": false
 }

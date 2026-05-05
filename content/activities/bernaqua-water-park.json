@@ -61,6 +61,14 @@
   "currency": "CHF",
   "duration": "2-6 hours",
   "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800&h=500&fit=crop",
+  "tags": [
+    "water park",
+    "slides",
+    "indoor",
+    "family",
+    "swimming"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Slides",
@@ -83,12 +91,5 @@
       "value": "Dedicated"
     }
   ],
-  "tags": [
-    "water park",
-    "slides",
-    "indoor",
-    "family",
-    "swimming"
-  ],
-  "featured": false
+  "published": false
 }

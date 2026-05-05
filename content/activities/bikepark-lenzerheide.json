@@ -59,6 +59,13 @@
   "currency": "CHF",
   "duration": "Full day",
   "imageUrl": "https://images.unsplash.com/photo-1544191696-102dbdaeeaa0?w=800&h=500&fit=crop",
+  "tags": [
+    "mountain biking",
+    "downhill",
+    "bike park",
+    "adventure"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Trails",
@@ -81,11 +88,5 @@
       "value": "Multiple"
     }
   ],
-  "tags": [
-    "mountain biking",
-    "downhill",
-    "bike park",
-    "adventure"
-  ],
-  "featured": false
+  "published": false
 }

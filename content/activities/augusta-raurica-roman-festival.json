@@ -46,6 +46,14 @@
   "currency": "CHF",
   "duration": "4-8 hours",
   "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&h=500&fit=crop",
+  "tags": [
+    "festival",
+    "roman",
+    "history",
+    "gladiator",
+    "basel-landschaft"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Re-enactors",
@@ -68,12 +76,5 @@
       "value": "Augst"
     }
   ],
-  "tags": [
-    "festival",
-    "roman",
-    "history",
-    "gladiator",
-    "basel-landschaft"
-  ],
-  "featured": false
+  "published": false
 }

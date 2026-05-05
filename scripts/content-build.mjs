@@ -147,6 +147,10 @@ function buildListActivities(activities) {
       Array.isArray(a.providers) && a.providers.length > 0
         ? Math.min(...a.providers.map((p) => Number(p?.pricing?.adult ?? 0)))
         : 0,
+    // Carry `published` through to the list endpoint so the repository can
+    // filter quarantined activities out of index pages without re-loading
+    // the full Activity payload.
+    ...(a.published === false ? { published: false } : {}),
   }));
 }
 

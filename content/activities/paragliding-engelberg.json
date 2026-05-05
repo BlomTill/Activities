@@ -60,6 +60,14 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?w=800&h=500&fit=crop",
+  "tags": [
+    "paragliding",
+    "adventure",
+    "engelberg",
+    "flying",
+    "tandem"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Flight Time",
@@ -82,12 +90,5 @@
       "value": "5 years"
     }
   ],
-  "tags": [
-    "paragliding",
-    "adventure",
-    "engelberg",
-    "flying",
-    "tandem"
-  ],
-  "featured": false
+  "published": false
 }

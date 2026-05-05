@@ -31,9 +31,13 @@ const itineraryList = itinerariesList as ItineraryIndexItem[];
 
 const activityById = new Map(activities.map((a) => [a.id, a]));
 
+/** Cached published-only views so we don't re-filter on every list-page render. */
+const publishedActivities = activities.filter((a) => a.published !== false);
+const publishedActivityList = activityList.filter((a) => a.published !== false);
+
 export const generatedContentRepository: ContentRepository = {
-  getActivities() {
-    return activities;
+  getActivities(opts) {
+    return opts?.includeUnpublished ? activities : publishedActivities;
   },
   getActivityBySlug(slug) {
     return activityBySlug[slug] ?? activityBySlug[slugAliases[slug] ?? ""];
@@ -41,8 +45,8 @@ export const generatedContentRepository: ContentRepository = {
   getActivityById(id) {
     return activityById.get(id);
   },
-  getActivityListItems() {
-    return activityList;
+  getActivityListItems(opts) {
+    return opts?.includeUnpublished ? activityList : publishedActivityList;
   },
 
   getStories() {

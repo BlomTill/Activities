@@ -57,6 +57,14 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1512389142860-9c449e58a814?w=800&h=500&fit=crop",
+  "tags": [
+    "christmas",
+    "market",
+    "festival",
+    "winter",
+    "free"
+  ],
+  "featured": false,
   "highlights": [
     {
       "label": "Stalls",
@@ -79,17 +87,10 @@
       "value": "Top 10 in Europe"
     }
   ],
-  "tags": [
-    "christmas",
-    "market",
-    "festival",
-    "winter",
-    "free"
-  ],
-  "featured": false,
   "deal": {
     "discount": 100,
     "label": "Free Entry",
     "validUntil": "2026-12-23"
-  }
+  },
+  "published": false
 }

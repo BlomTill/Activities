@@ -57,6 +57,14 @@
   "currency": "CHF",
   "duration": "Full day",
   "imageUrl": "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?w=800&h=500&fit=crop",
+  "tags": [
+    "skiing",
+    "winter",
+    "davos",
+    "klosters",
+    "large resort"
+  ],
+  "featured": true,
   "highlights": [
     {
       "label": "Slopes",
@@ -79,12 +87,5 @@
       "value": "Parsenn descent"
     }
   ],
-  "tags": [
-    "skiing",
-    "winter",
-    "davos",
-    "klosters",
-    "large resort"
-  ],
-  "featured": true
+  "published": false
 }
