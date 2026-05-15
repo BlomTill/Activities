@@ -78,6 +78,12 @@ export default function RootLayout({
         <WebsiteJsonLd />
         <meta name="theme-color" content="#dc2626" />
         <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+        {/* Preconnect to the hero-image CDNs — the LCP element on activity,
+            destination and home pages is a remote photo from one of these. */}
+        <link rel="preconnect" href="https://images.unsplash.com" crossOrigin="" />
+        <link rel="preconnect" href="https://contentapi-swissactivities.imgix.net" crossOrigin="" />
+        <link rel="dns-prefetch" href="https://images.unsplash.com" />
+        <link rel="dns-prefetch" href="https://contentapi-swissactivities.imgix.net" />
       </head>
       <body
         data-theme="day"
