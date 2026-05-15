@@ -75,3 +75,19 @@ Moved to `docs/archive/`: `LAUNCH_PLAN.md`, `LAUNCH_PLAN_v2.md`,
 `MASTER_PLAN.md`, `PLAN_ExploreSwitzerland.md`, `GUIDE_StepByStep.md`,
 `LAUNCH_FEATURES.md`. **Why:** superseded by `MVP_LAUNCH_PLAN.md`.
 **Restore:** `git mv docs/archive/<file> .`
+
+---
+
+## Region-based destination pages → replaced by 5 MVP city pages (Day 5)
+
+**What:** `/destinations` and `/destinations/[slug]` were rebuilt around the 5
+MVP destinations (zurich/lucerne/interlaken/zermatt/geneva) via
+`src/lib/mvp-destinations.ts`. The old ~31 region slugs (e.g.
+`/destinations/bern-region`) now return 404.
+**Why:** the plan's IA is 5 city destination pages; the old region
+`/destinations/[slug]` also threw a 500 (RSC `GYG_CITIES` import bug) — the
+rewrite fixes that.
+**How to restore region pages:** `src/lib/destinations.ts`,
+`destination-browser.tsx`, `destination-detail-tabs.tsx` are untouched in the
+tree; the old `src/app/destinations/**` is in git history before the Day 5
+commit. Restore from there (and fix the `GYG_CITIES` server-import first).

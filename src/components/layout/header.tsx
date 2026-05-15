@@ -220,7 +220,7 @@ export function Header() {
               </svg>
             </span>
             <span className="wander-logo-text">
-              wander<span className="dot">.</span>ch
+              realswitzerland<span className="dot">.</span>ch
             </span>
           </Link>
 
