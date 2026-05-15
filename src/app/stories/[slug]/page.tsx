@@ -5,7 +5,6 @@ import { NewsletterSignup } from "@/components/newsletter-signup";
 import { getBlogPostBySlug, blogPosts } from "@/lib/content/selectors";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { SITE_NAME } from "@/lib/constants";
 
 export function generateStaticParams() {
   return blogPosts.map((post) => ({ slug: post.slug }));
@@ -15,7 +14,7 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   const post = getBlogPostBySlug(params.slug);
   if (!post) return {};
   return {
-    title: `${post.title} | ${SITE_NAME} Stories`,
+    title: { absolute: `${post.title} | realswitzerland.ch` },
     description: post.excerpt,
     openGraph: {
       title: post.title,

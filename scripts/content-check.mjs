@@ -35,11 +35,51 @@ const WRITE_QUARANTINE = FLAGS.has("--write");
  * thin ones — depth beats breadth for SEO.
  */
 const LAUNCH_FIFTY_MODE = FLAGS.has("--launch-fifty") || process.env.LAUNCH_FIFTY === "1";
+/**
+ * `--mvp` (or env MVP=1) — Phase 1 publish gate. Only the ~200 activities in
+ * src/data/mvp-slugs.json stay published; everything else is force-quarantined.
+ * Supersedes --launch-fifty for the MVP launch (the mvp set IS the curated
+ * allow-list). check:release runs in this mode.
+ */
+const MVP_MODE = FLAGS.has("--mvp") || process.env.MVP === "1";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, "..");
 const CONTENT_DIR = resolve(ROOT, "content");
 const SLUG_ALIASES_PATH = resolve(CONTENT_DIR, "activity-slug-aliases.json");
+
+/** Load the MVP allow-list (slug set) from src/data/mvp-slugs.json. */
+function loadMvpSlugs() {
+  const parsed = JSON.parse(readFileSync(resolve(ROOT, "src/data/mvp-slugs.json"), "utf8"));
+  const slugs = parsed.slugs ?? [];
+  if (slugs.length === 0) throw new Error("mvp-slugs.json has an empty `slugs` list");
+  return new Set(slugs);
+}
+
+/**
+ * Resolved hero image, mirroring src/lib/images.ts priority:
+ *   activity.image > activity-images.json > activity-images-swissactivities.json
+ *   > activity.imageUrl > category fallback.
+ * The unique-image rule must check what the USER actually sees, not just the
+ * raw imageUrl (which is a shared generic Unsplash placeholder on ~1,300
+ * activities). MVP activities were selected for a confirmed per-activity SA/
+ * curated photo, so resolved images are unique among them.
+ */
+const CURATED_IMAGES = (() => {
+  try { return JSON.parse(readFileSync(resolve(ROOT, "src/data/activity-images.json"), "utf8")).images ?? {}; }
+  catch { return {}; }
+})();
+const SA_IMAGES = (() => {
+  try { return JSON.parse(readFileSync(resolve(ROOT, "src/data/activity-images-swissactivities.json"), "utf8")).images ?? {}; }
+  catch { return {}; }
+})();
+function resolvedHeroImage(a) {
+  if (a.image) return a.image;
+  if (CURATED_IMAGES[a.slug]?.src) return CURATED_IMAGES[a.slug].src;
+  if (SA_IMAGES[a.slug]?.src) return SA_IMAGES[a.slug].src;
+  if (a.imageUrl) return a.imageUrl;
+  return `category-fallback:${a.category}`;
+}
 
 /**
  * Load the launch-fifty allow-list from src/data/launch-fifty.ts at runtime.
@@ -201,7 +241,8 @@ function enforceComparisonRule(activities) {
   let quarantined = 0;
   let promoted = 0;
   const COMPARE_DIR = resolve(CONTENT_DIR, "activities");
-  const launchFifty = LAUNCH_FIFTY_MODE ? loadLaunchFifty() : null;
+  // MVP mode supersedes launch-fifty: the 200-slug allow-list is the gate.
+  const allowList = MVP_MODE ? loadMvpSlugs() : LAUNCH_FIFTY_MODE ? loadLaunchFifty() : null;
 
   for (const a of activities) {
     // In launch-fifty mode, any activity not on the allow-list is quarantined,
@@ -209,8 +250,8 @@ function enforceComparisonRule(activities) {
     // static listing — the rest of the comparison is provided at runtime by
     // src/lib/live-prices.ts via partner APIs (GetYourGuide, Viator, Klook),
     // so we don't require 2 static rows the way we do outside this mode.
-    const onAllowList = launchFifty ? launchFifty.has(a.slug) : true;
-    const minListings = launchFifty ? 1 : 2;
+    const onAllowList = allowList ? allowList.has(a.slug) : true;
+    const minListings = allowList ? 1 : 2;
     const meets = listingCount(a) >= minListings && onAllowList;
     const wasPublished = a.published !== false;
 
@@ -255,12 +296,12 @@ function assertUniqueImagesAmongPublished(activities) {
 
   for (const a of activities) {
     if (a.published === false) continue;
-    const url = (a.image ?? a.imageUrl ?? "").trim();
-    if (!url) continue;
-    // Ignore fetched-from-source images that resolve later (data layer
-    // overrides via activity-images.json). The CI rule fires only on
-    // explicit imageUrl/image set in the JSON; that's where the dupe
-    // problem lives today (the same Unsplash file on 100+ activities).
+    // Check the RESOLVED hero (what the user actually sees), not the raw
+    // imageUrl — see resolvedHeroImage(). Category-fallback collisions are
+    // ignored (they're an accepted generic, not a credibility-killing
+    // "same photo on two specific activities").
+    const url = resolvedHeroImage(a);
+    if (!url || url.startsWith("category-fallback:")) continue;
     const prev = seen.get(url);
     if (prev) {
       collisions.push({ url, slugs: [prev, a.slug] });
