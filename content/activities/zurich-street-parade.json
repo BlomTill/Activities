@@ -46,14 +46,6 @@
   "currency": "CHF",
   "duration": "6-12 hours",
   "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&h=500&fit=crop",
-  "tags": [
-    "techno",
-    "parade",
-    "festival",
-    "zurich",
-    "free"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Attendance",
@@ -76,10 +68,18 @@
       "value": "Public event"
     }
   ],
+  "tags": [
+    "techno",
+    "parade",
+    "festival",
+    "zurich",
+    "free"
+  ],
+  "featured": false,
   "deal": {
     "discount": 100,
     "label": "Free Event",
     "validUntil": "2026-08-31"
   },
-  "published": false
+  "mvp": false
 }

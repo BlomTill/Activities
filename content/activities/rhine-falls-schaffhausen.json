@@ -88,5 +88,6 @@
     "family",
     "schaffhausen"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

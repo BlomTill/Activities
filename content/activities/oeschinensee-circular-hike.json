@@ -76,5 +76,6 @@
     "kandersteg",
     "circular"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

@@ -102,5 +102,6 @@
     "bridge",
     "snow"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

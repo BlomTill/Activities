@@ -1,13 +1,15 @@
 import { MetadataRoute } from "next";
-import { activities } from "@/lib/content/selectors";
+import { mvpActivities } from "@/lib/content/selectors";
 import { blogPosts } from "@/lib/content/selectors";
-import { itineraries } from "@/lib/content/selectors";
 import { getDestinationSummaries } from "@/lib/destinations";
 
 const BASE_URL = "https://realswitzerland.ch";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const activityPages = activities.map((activity) => ({
+  // Phase 1: only the curated MVP activities are indexable. The other ~1,300
+  // stay in the dataset but out of the sitemap until the Phase 2 audit clears
+  // them (avoids the thin-content SEO penalty — see MVP_LAUNCH_PLAN.md §1).
+  const activityPages = mvpActivities.map((activity) => ({
     url: `${BASE_URL}/activities/${activity.slug}`,
     lastModified: new Date(),
     changeFrequency: "weekly" as const,
@@ -25,13 +27,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  const itineraryPages = itineraries.map((itinerary) => ({
-    url: `${BASE_URL}/itineraries/${itinerary.slug}`,
-    lastModified: new Date(),
-    changeFrequency: "weekly" as const,
-    priority: 0.75,
-  }));
-
   const destinationPages = getDestinationSummaries().map((destination) => ({
     url: `${BASE_URL}/destinations/${destination.slug}`,
     lastModified: new Date(),
@@ -39,21 +34,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  // Only Phase 1 live routes. Feature-flagged routes (/itineraries, /budget,
+  // /map, /deals, /surprise, /partners) return 404 in the MVP, so they're
+  // intentionally excluded — they come back in Phase 2 when re-enabled.
   const staticPages = [
     { url: BASE_URL, priority: 1.0, changeFrequency: "daily" as const },
     { url: `${BASE_URL}/activities`, priority: 0.9, changeFrequency: "daily" as const },
     { url: `${BASE_URL}/destinations`, priority: 0.9, changeFrequency: "weekly" as const },
-    { url: `${BASE_URL}/itineraries`, priority: 0.85, changeFrequency: "weekly" as const },
-    { url: `${BASE_URL}/budget`, priority: 0.8, changeFrequency: "weekly" as const },
-    { url: `${BASE_URL}/map`, priority: 0.7, changeFrequency: "weekly" as const },
-    { url: `${BASE_URL}/deals`, priority: 0.8, changeFrequency: "daily" as const },
     { url: `${BASE_URL}/stories`, priority: 0.7, changeFrequency: "weekly" as const },
-    { url: `${BASE_URL}/surprise`, priority: 0.6, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/compare`, priority: 0.5, changeFrequency: "weekly" as const },
     { url: `${BASE_URL}/about`, priority: 0.4, changeFrequency: "monthly" as const },
-    { url: `${BASE_URL}/partners`, priority: 0.4, changeFrequency: "monthly" as const },
     { url: `${BASE_URL}/privacy`, priority: 0.3, changeFrequency: "monthly" as const },
   ].map((page) => ({ ...page, lastModified: new Date() }));
 
-  return [...staticPages, ...activityPages, ...itineraryPages, ...destinationPages, ...blogPages];
+  return [...staticPages, ...activityPages, ...destinationPages, ...blogPages];
 }

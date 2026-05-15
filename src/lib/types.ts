@@ -140,6 +140,13 @@ export interface Activity {
    */
   published?: boolean;
   /**
+   * Phase 1 MVP allow-list flag. True === part of the curated ~200-activity
+   * launch set (confirmed photo + real marketplace + destination spread).
+   * Stamped at content-build time from src/data/mvp-slugs.json. Sitemap,
+   * list, and home pages render only `mvp === true` activities.
+   */
+  mvp?: boolean;
+  /**
    * Image-quality verification state.
    *  - true:    automated vision check confirmed the image matches the activity
    *  - false:   vision check failed → image must be replaced before publishing

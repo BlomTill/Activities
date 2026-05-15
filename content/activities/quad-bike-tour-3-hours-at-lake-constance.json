@@ -33,10 +33,6 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "tags": [
-    "lake"
-  ],
-  "featured": false,
   "gallery": [
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Quad_Tour_2h_kl_fba5d895a8.jpg",
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_Spass_in_der_Natur_1024x680_20cedd50f0.jpg",
@@ -45,5 +41,9 @@
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Kopie_von_BBQ_Tour_kl_5a456f191c.jpg"
   ],
   "highlights": [],
-  "published": false
+  "tags": [
+    "lake"
+  ],
+  "featured": false,
+  "mvp": false
 }

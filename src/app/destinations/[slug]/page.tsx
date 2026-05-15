@@ -10,6 +10,7 @@ import { DestinationDetailTabs } from "@/components/destination-detail-tabs";
 import { PartnerWidget, GYG_CITIES } from "@/components/partners/partner-widget";
 import { getDestinationBySlug, getDestinationSummaries } from "@/lib/destinations";
 import { getRelatedBlogPostsForDestination } from "@/lib/blog";
+import { isRouteEnabled } from "@/lib/constants";
 
 /**
  * Map our destination slug → GetYourGuide city/region location IDs.
@@ -68,29 +69,37 @@ export default function DestinationDetailPage({
 
       <section className="mx-auto max-w-7xl px-4 py-12">
         <div className="grid gap-6 lg:grid-cols-[0.9fr_1.1fr]">
-          <div className="rounded-2xl border bg-gray-50 p-6">
-            <h3 className="text-lg font-semibold text-gray-900">Fastest way to plan this region</h3>
-            <div className="mt-4 space-y-3">
-              <Link href={`/planner?days=${itineraries[0]?.days || 3}&budget=${summary.minPrice === 0 ? 80 : Math.max(120, summary.minPrice * 2)}`}>
-                <Button className="w-full justify-between bg-red-600 hover:bg-red-700">
-                  Start a {summary.name} trip
-                  <ArrowRight className="h-4 w-4" />
-                </Button>
-              </Link>
-              <Link href={`/budget?budget=${summary.minPrice === 0 ? 50 : Math.max(50, summary.minPrice)}&season=current`}>
-                <Button variant="outline" className="w-full justify-between">
-                  Find affordable picks here
-                  <ArrowRight className="h-4 w-4" />
-                </Button>
-              </Link>
-              <Link href="/travel-passes?tripDays=4&travelDays=3">
-                <Button variant="outline" className="w-full justify-between">
-                  Compare transport passes
-                  <ArrowRight className="h-4 w-4" />
-                </Button>
-              </Link>
+          {(isRouteEnabled("/planner") || isRouteEnabled("/budget") || isRouteEnabled("/travel-passes")) && (
+            <div className="rounded-2xl border bg-gray-50 p-6">
+              <h3 className="text-lg font-semibold text-gray-900">Fastest way to plan this region</h3>
+              <div className="mt-4 space-y-3">
+                {isRouteEnabled("/planner") && (
+                  <Link href={`/planner?days=${itineraries[0]?.days || 3}&budget=${summary.minPrice === 0 ? 80 : Math.max(120, summary.minPrice * 2)}`}>
+                    <Button className="w-full justify-between bg-red-600 hover:bg-red-700">
+                      Start a {summary.name} trip
+                      <ArrowRight className="h-4 w-4" />
+                    </Button>
+                  </Link>
+                )}
+                {isRouteEnabled("/budget") && (
+                  <Link href={`/budget?budget=${summary.minPrice === 0 ? 50 : Math.max(50, summary.minPrice)}&season=current`}>
+                    <Button variant="outline" className="w-full justify-between">
+                      Find affordable picks here
+                      <ArrowRight className="h-4 w-4" />
+                    </Button>
+                  </Link>
+                )}
+                {isRouteEnabled("/travel-passes") && (
+                  <Link href="/travel-passes?tripDays=4&travelDays=3">
+                    <Button variant="outline" className="w-full justify-between">
+                      Compare transport passes
+                      <ArrowRight className="h-4 w-4" />
+                    </Button>
+                  </Link>
+                )}
+              </div>
             </div>
-          </div>
+          )}
 
           <div className="rounded-2xl border bg-white p-6">
             <h2 className="text-2xl font-bold text-gray-900">Top recommendations first</h2>
@@ -155,9 +164,11 @@ export default function DestinationDetailPage({
               Real-time prices and availability from GetYourGuide. Booking commission helps keep this guide ad-free.
             </p>
           </div>
-          <Link href="/partners" className="text-sm font-semibold text-red-600 hover:text-red-700">
-            How we earn →
-          </Link>
+          {isRouteEnabled("/partners") && (
+            <Link href="/partners" className="text-sm font-semibold text-red-600 hover:text-red-700">
+              How we earn →
+            </Link>
+          )}
         </div>
         <PartnerWidget
           partner="getyourguide"

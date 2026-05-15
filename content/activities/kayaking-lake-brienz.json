@@ -58,13 +58,6 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop",
-  "tags": [
-    "kayaking",
-    "lake",
-    "turquoise",
-    "water sports"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Water Color",
@@ -87,5 +80,12 @@
       "value": "Available"
     }
   ],
-  "published": false
+  "tags": [
+    "kayaking",
+    "lake",
+    "turquoise",
+    "water sports"
+  ],
+  "featured": false,
+  "mvp": false
 }

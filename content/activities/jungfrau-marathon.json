@@ -46,14 +46,6 @@
   "currency": "CHF",
   "duration": "4-8 hours",
   "imageUrl": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=800&h=500&fit=crop",
-  "tags": [
-    "marathon",
-    "running",
-    "mountain",
-    "interlaken",
-    "jungfrau"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Distance",
@@ -76,5 +68,13 @@
       "value": "4,000 max"
     }
   ],
-  "published": false
+  "tags": [
+    "marathon",
+    "running",
+    "mountain",
+    "interlaken",
+    "jungfrau"
+  ],
+  "featured": false,
+  "mvp": false
 }

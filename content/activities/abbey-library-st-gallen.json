@@ -49,14 +49,6 @@
   "currency": "CHF",
   "duration": "1-2 hours",
   "imageUrl": "https://images.unsplash.com/photo-1572953109213-3be62398eb95?w=800&h=500&fit=crop",
-  "tags": [
-    "library",
-    "UNESCO",
-    "baroque",
-    "medieval",
-    "st. gallen"
-  ],
-  "featured": true,
   "highlights": [
     {
       "label": "Founded",
@@ -79,5 +71,13 @@
       "value": "Medieval priceless"
     }
   ],
-  "published": false
+  "tags": [
+    "library",
+    "UNESCO",
+    "baroque",
+    "medieval",
+    "st. gallen"
+  ],
+  "featured": true,
+  "mvp": false
 }

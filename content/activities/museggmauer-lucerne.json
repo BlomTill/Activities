@@ -48,14 +48,6 @@
   "currency": "CHF",
   "duration": "1-1.5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&h=500&fit=crop",
-  "tags": [
-    "medieval",
-    "wall",
-    "tower",
-    "lucerne",
-    "free"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Built",
@@ -78,10 +70,18 @@
       "value": "870m wall"
     }
   ],
+  "tags": [
+    "medieval",
+    "wall",
+    "tower",
+    "lucerne",
+    "free"
+  ],
+  "featured": false,
   "deal": {
     "discount": 100,
     "label": "Free Activity",
     "validUntil": "2026-12-31"
   },
-  "published": false
+  "mvp": false
 }

@@ -73,14 +73,6 @@
   "currency": "CHF",
   "duration": "3-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&h=500&fit=crop",
-  "tags": [
-    "fondue",
-    "cheese",
-    "food",
-    "medieval",
-    "gruyères"
-  ],
-  "featured": true,
   "highlights": [
     {
       "label": "Cheese Origin",
@@ -103,5 +95,13 @@
       "value": "Included"
     }
   ],
-  "published": false
+  "tags": [
+    "fondue",
+    "cheese",
+    "food",
+    "medieval",
+    "gruyères"
+  ],
+  "featured": true,
+  "mvp": false
 }

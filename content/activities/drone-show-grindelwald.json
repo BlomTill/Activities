@@ -46,14 +46,6 @@
   "currency": "CHF",
   "duration": "1-1.5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1516728778615-2d590ea1855e?w=800&h=500&fit=crop",
-  "tags": [
-    "drone",
-    "light show",
-    "grindelwald",
-    "technology",
-    "entertainment"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Drones",
@@ -76,5 +68,13 @@
       "value": "Choreographed LED"
     }
   ],
-  "published": false
+  "tags": [
+    "drone",
+    "light show",
+    "grindelwald",
+    "technology",
+    "entertainment"
+  ],
+  "featured": false,
+  "mvp": false
 }

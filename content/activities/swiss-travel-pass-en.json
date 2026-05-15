@@ -51,5 +51,6 @@
   "gallery": [],
   "highlights": [],
   "tags": [],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

@@ -89,5 +89,6 @@
     "paddle steamer",
     "lucerne"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

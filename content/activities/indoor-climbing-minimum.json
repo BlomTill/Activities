@@ -61,14 +61,6 @@
   "currency": "CHF",
   "duration": "1.5-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop",
-  "tags": [
-    "bouldering",
-    "climbing",
-    "indoor",
-    "sport",
-    "zurich"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Climbing Area",
@@ -91,5 +83,13 @@
       "value": "2"
     }
   ],
-  "published": false
+  "tags": [
+    "bouldering",
+    "climbing",
+    "indoor",
+    "sport",
+    "zurich"
+  ],
+  "featured": false,
+  "mvp": false
 }

@@ -90,5 +90,6 @@
     "medieval",
     "montreux"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

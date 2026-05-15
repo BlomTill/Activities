@@ -7,6 +7,7 @@ import { getDestinationSummaries } from "@/lib/destinations";
 import { DestinationBrowser } from "@/components/destination-browser";
 import { activities } from "@/lib/content/selectors";
 import { Season } from "@/lib/types";
+import { isFeatureEnabled } from "@/lib/constants";
 
 export default function DestinationsPage() {
   const destinations = getDestinationSummaries();
@@ -46,11 +47,13 @@ export default function DestinationsPage() {
           title="Get destination-specific ideas"
           description="Tell us which Swiss region you want to explore and we’ll send trip-ready picks, not generic newsletters."
         />
-        <div className="mt-6 text-center">
-          <Link href="/planner">
-            <Button className="rounded-full bg-red-600 hover:bg-red-700">Start Planning a Trip</Button>
-          </Link>
-        </div>
+        {isFeatureEnabled("PLANNER") && (
+          <div className="mt-6 text-center">
+            <Link href="/planner">
+              <Button className="rounded-full bg-red-600 hover:bg-red-700">Start Planning a Trip</Button>
+            </Link>
+          </div>
+        )}
       </section>
     </div>
   );

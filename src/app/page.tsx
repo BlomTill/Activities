@@ -1,4 +1,4 @@
-import { activities } from "@/lib/content/selectors";
+import { mvpActivities } from "@/lib/content/selectors";
 import HomePageClient, { type HomeStats } from "./home-client";
 
 /**
@@ -14,7 +14,7 @@ export default function HomePage() {
   const cantons = new Set<string>();
   let scenicRailwayCount = 0;
 
-  for (const a of activities) {
+  for (const a of mvpActivities) {
     byCategory[a.category] = (byCategory[a.category] ?? 0) + 1;
     if (a.location.canton) cantons.add(a.location.canton);
 
@@ -26,7 +26,7 @@ export default function HomePage() {
   }
 
   const stats: HomeStats = {
-    totalActivities: activities.length,
+    totalActivities: mvpActivities.length,
     cantonCount: cantons.size,
     byCategory,
     scenicRailwayCount,

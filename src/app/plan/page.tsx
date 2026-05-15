@@ -10,6 +10,7 @@ import {
   Sparkles,
 } from "lucide-react";
 import { SITE_NAME } from "@/lib/constants";
+import { gateFeature } from "@/lib/feature-gate";
 
 export const metadata: Metadata = {
   title: `Plan your Swiss trip — ${SITE_NAME}`,
@@ -71,6 +72,7 @@ const TOOLS: Tool[] = [
 ];
 
 export default function PlanPage() {
+  gateFeature("PLAN");
   return (
     <div className="mx-auto max-w-5xl px-4 py-16">
       <div className="mb-14 max-w-2xl">

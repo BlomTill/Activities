@@ -75,5 +75,6 @@
     "kandersteg",
     "UNESCO"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

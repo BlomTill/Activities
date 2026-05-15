@@ -57,14 +57,6 @@
   "currency": "CHF",
   "duration": "2-3 days",
   "imageUrl": "https://images.unsplash.com/photo-1542332213-9b5a5a3fad35?w=800&h=500&fit=crop",
-  "tags": [
-    "hiking",
-    "multi-day",
-    "mont blanc",
-    "trekking",
-    "valais"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Days",
@@ -87,5 +79,13 @@
       "value": "Mountain accommodation"
     }
   ],
-  "published": false
+  "tags": [
+    "hiking",
+    "multi-day",
+    "mont blanc",
+    "trekking",
+    "valais"
+  ],
+  "featured": false,
+  "mvp": false
 }

@@ -49,14 +49,6 @@
   "currency": "CHF",
   "duration": "1.5-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=500&fit=crop",
-  "tags": [
-    "museum",
-    "paul klee",
-    "art",
-    "bern",
-    "architecture"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Works",
@@ -79,5 +71,13 @@
       "value": "Single-artist collection"
     }
   ],
-  "published": false
+  "tags": [
+    "museum",
+    "paul klee",
+    "art",
+    "bern",
+    "architecture"
+  ],
+  "featured": false,
+  "mvp": false
 }

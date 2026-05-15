@@ -48,14 +48,6 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1474511320723-9a56873571b7?w=800&h=500&fit=crop",
-  "tags": [
-    "zoo",
-    "children",
-    "animals",
-    "family",
-    "rapperswil"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Animals",
@@ -78,5 +70,13 @@
       "value": "Rapperswil"
     }
   ],
-  "published": false
+  "tags": [
+    "zoo",
+    "children",
+    "animals",
+    "family",
+    "rapperswil"
+  ],
+  "featured": false,
+  "mvp": false
 }

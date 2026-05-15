@@ -29,6 +29,7 @@ import { Activity, AgeGroup, getBestPrice } from "@/lib/types";
 import { useAgeGroup } from "@/context/age-group-context";
 import { cn } from "@/lib/utils";
 import { decodePlannerPlan, getPlannerDefaults } from "@/lib/trip-tools";
+import { gateFeature } from "@/lib/feature-gate";
 
 const AGE_GROUPS: AgeGroup[] = ["child", "student", "adult", "senior"];
 const AGE_GROUP_LABELS: Record<AgeGroup, string> = {
@@ -49,6 +50,7 @@ function encodePlan(numDays: number, days: DayPlan[]): string {
 }
 
 export default function PlannerPage() {
+  gateFeature("PLANNER");
   return (
     <Suspense fallback={<div className="mx-auto max-w-7xl px-4 py-16 text-center text-gray-400">Loading planner...</div>}>
       <PlannerContent />

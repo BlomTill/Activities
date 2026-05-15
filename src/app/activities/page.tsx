@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import { activities } from "@/lib/content/selectors";
+import { mvpActivities } from "@/lib/content/selectors";
 import { ActivitiesBrowser } from "@/components/activities-browser";
 
 /**
@@ -13,7 +13,7 @@ import { ActivitiesBrowser } from "@/components/activities-browser";
  * projection is ~250KB gzipped.
  */
 export default function ActivitiesPage() {
-  const slim = activities.map((a) => {
+  const slim = mvpActivities.map((a) => {
     const adultPrices = a.providers.map((p) => p.pricing.adult);
     const ratings = a.providers.map((p) => p.rating);
     const knownPrice = adultPrices.length > 0 ? Math.min(...adultPrices) : null;

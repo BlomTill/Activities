@@ -4,6 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 import { PartnerWidget, GYG_CITIES } from "@/components/partners/partner-widget";
+import { isFeatureEnabled } from "@/lib/constants";
 
 /* ──────────────────────────────────────────────────────────────
    ALPINE SUNSHINE HOME — warm, lively, postcard editorial.
@@ -336,6 +337,9 @@ function FeatureRow() {
 }
 
 function ItinTeaser() {
+  // Whole teaser promotes /itineraries + /planner, both feature-flagged off
+  // in Phase 1. Hide it rather than ship CTAs that 404.
+  if (!isFeatureEnabled("ITINERARIES")) return null;
   const route = ["Zurich", "Lucerne", "Interlaken", "Zermatt", "Geneva"];
   return (
     <section style={{ padding: "16px 0 72px" }}>
@@ -515,7 +519,9 @@ function PartnerOffers() {
               Powered by GetYourGuide. Prices, availability and ratings refresh in real time.
             </p>
           </div>
-          <Link className="a-btn a-btn-ghost" href="/partners">How we earn →</Link>
+          {isFeatureEnabled("PARTNERS") && (
+            <Link className="a-btn a-btn-ghost" href="/partners">How we earn →</Link>
+          )}
         </div>
         <PartnerWidget partner="getyourguide" type="city" locationId={GYG_CITIES.switzerland} />
       </div>

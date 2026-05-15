@@ -99,5 +99,6 @@
     "glamour",
     "alps"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

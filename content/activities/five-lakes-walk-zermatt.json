@@ -76,5 +76,6 @@
     "reflection",
     "zermatt"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

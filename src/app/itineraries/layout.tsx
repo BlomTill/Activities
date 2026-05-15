@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { gateFeature } from "@/lib/feature-gate";
 
 export const metadata: Metadata = {
   title: "Switzerland Itineraries — Day-by-Day Trip Plans",
@@ -16,5 +17,6 @@ export const metadata: Metadata = {
 };
 
 export default function ItinerariesLayout({ children }: { children: React.ReactNode }) {
+  gateFeature("ITINERARIES");
   return children;
 }

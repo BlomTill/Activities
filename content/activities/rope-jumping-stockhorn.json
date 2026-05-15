@@ -46,13 +46,6 @@
   "currency": "CHF",
   "duration": "3-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=800&h=500&fit=crop",
-  "tags": [
-    "rope jumping",
-    "extreme",
-    "cliff",
-    "adrenaline"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Height",
@@ -75,5 +68,12 @@
       "value": "Dynamic rope"
     }
   ],
-  "published": false
+  "tags": [
+    "rope jumping",
+    "extreme",
+    "cliff",
+    "adrenaline"
+  ],
+  "featured": false,
+  "mvp": false
 }

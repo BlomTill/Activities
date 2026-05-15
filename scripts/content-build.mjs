@@ -10,6 +10,7 @@ const DATA_DIR = resolve(ROOT, "src/data");
 const CONTENT_DIR = resolve(ROOT, "content");
 const GENERATED_DIR = resolve(ROOT, ".content/generated");
 const SLUG_ALIASES_PATH = resolve(CONTENT_DIR, "activity-slug-aliases.json");
+const MVP_SLUGS_PATH = resolve(DATA_DIR, "mvp-slugs.json");
 
 function extractArrayLiteral(source, exportName) {
   const marker = `export const ${exportName}`;
@@ -151,6 +152,7 @@ function buildListActivities(activities) {
     // filter quarantined activities out of index pages without re-loading
     // the full Activity payload.
     ...(a.published === false ? { published: false } : {}),
+    ...(a.mvp === true ? { mvp: true } : {}),
   }));
 }
 
@@ -192,8 +194,27 @@ function writeContentFiles(subDir, entries) {
   }
 }
 
+/**
+ * Stamp `mvp` onto every activity from the Phase 1 allow-list
+ * (src/data/mvp-slugs.json, written by scripts/select-mvp-activities.mjs).
+ * Single source of truth for "what ships in the MVP" — survives rebuilds.
+ * If the allow-list is absent, no activity is flagged (mvp stays undefined).
+ */
+function stampMvp(activities) {
+  let mvpSlugs = [];
+  try {
+    mvpSlugs = JSON.parse(readFileSync(MVP_SLUGS_PATH, "utf8")).slugs ?? [];
+  } catch {
+    console.warn("content:build — no src/data/mvp-slugs.json; activity.mvp left unset");
+  }
+  const set = new Set(mvpSlugs);
+  for (const a of activities) a.mvp = set.has(a.slug);
+  return set.size;
+}
+
 function main() {
   const activities = parseExportedArray(resolve(DATA_DIR, "activities.ts"), "activities");
+  const mvpCount = stampMvp(activities);
   const stories = parseExportedArray(resolve(DATA_DIR, "blog-posts.ts"), "blogPosts");
   const itineraries = parseExportedArray(resolve(DATA_DIR, "itineraries.ts"), "itineraries");
   const slugAliases = JSON.parse(readFileSync(SLUG_ALIASES_PATH, "utf8"));
@@ -236,7 +257,7 @@ function main() {
     itineraries: readdirSync(resolve(CONTENT_DIR, "itineraries")).length,
   };
 
-  console.log("content:build complete", contentCounts);
+  console.log("content:build complete", { ...contentCounts, mvp: mvpCount });
 }
 
 main();

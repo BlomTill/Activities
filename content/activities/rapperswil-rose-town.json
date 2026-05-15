@@ -47,14 +47,6 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4f44baee?w=800&h=500&fit=crop",
-  "tags": [
-    "roses",
-    "castle",
-    "lake",
-    "free",
-    "medieval"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Roses",
@@ -77,10 +69,18 @@
       "value": "Yes"
     }
   ],
+  "tags": [
+    "roses",
+    "castle",
+    "lake",
+    "free",
+    "medieval"
+  ],
+  "featured": false,
   "deal": {
     "discount": 100,
     "label": "Free Activity",
     "validUntil": "2026-12-31"
   },
-  "published": false
+  "mvp": false
 }

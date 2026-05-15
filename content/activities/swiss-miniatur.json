@@ -47,13 +47,6 @@
   "currency": "CHF",
   "duration": "1.5-2.5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1566397135-18a6ec4b5e11?w=800&h=500&fit=crop",
-  "tags": [
-    "miniature",
-    "models",
-    "family",
-    "ticino"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Scale Models",
@@ -76,5 +69,12 @@
       "value": "14,000m²"
     }
   ],
-  "published": false
+  "tags": [
+    "miniature",
+    "models",
+    "family",
+    "ticino"
+  ],
+  "featured": false,
+  "mvp": false
 }

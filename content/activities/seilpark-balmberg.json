@@ -47,14 +47,6 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1508873881324-c92a3fc536ba?w=800&h=500&fit=crop",
-  "tags": [
-    "rope park",
-    "climbing",
-    "adventure",
-    "forest",
-    "solothurn"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Courses",
@@ -77,5 +69,13 @@
       "value": "Solothurn"
     }
   ],
-  "published": false
+  "tags": [
+    "rope park",
+    "climbing",
+    "adventure",
+    "forest",
+    "solothurn"
+  ],
+  "featured": false,
+  "mvp": false
 }

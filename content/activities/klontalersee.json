@@ -47,14 +47,6 @@
   "currency": "CHF",
   "duration": "2-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1580137189272-c9379f8864fd?w=800&h=500&fit=crop",
-  "tags": [
-    "lake",
-    "free",
-    "swimming",
-    "glarus",
-    "nature"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Water Color",
@@ -77,10 +69,18 @@
       "value": "Glarus"
     }
   ],
+  "tags": [
+    "lake",
+    "free",
+    "swimming",
+    "glarus",
+    "nature"
+  ],
+  "featured": false,
   "deal": {
     "discount": 100,
     "label": "Free Activity",
     "validUntil": "2026-12-31"
   },
-  "published": false
+  "mvp": false
 }

@@ -36,11 +36,6 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "tags": [
-    "spa",
-    "wine"
-  ],
-  "featured": false,
   "gallery": [
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/Schlucht_Bad_Ragaz_b5ea8d08d9.jpg",
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_94e65c08b5b540698939e0a97ed2397e_mv2_d_3456_2304_s_2_d8163ad783.jpg",
@@ -52,5 +47,10 @@
     "https://contentapi-swissactivities.imgix.net/contentapi.swissactivities/de57b4_fa95aa74a925451191d1123909405dd6_mv2_314941edce.jpg"
   ],
   "highlights": [],
-  "published": false
+  "tags": [
+    "spa",
+    "wine"
+  ],
+  "featured": false,
+  "mvp": false
 }

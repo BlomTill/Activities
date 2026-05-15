@@ -46,14 +46,6 @@
   "currency": "CHF",
   "duration": "2-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&h=500&fit=crop",
-  "tags": [
-    "lake",
-    "swimming",
-    "emerald",
-    "flims",
-    "hidden gem"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Water Color",
@@ -76,5 +68,13 @@
       "value": "Forest setting"
     }
   ],
-  "published": false
+  "tags": [
+    "lake",
+    "swimming",
+    "emerald",
+    "flims",
+    "hidden gem"
+  ],
+  "featured": false,
+  "mvp": false
 }

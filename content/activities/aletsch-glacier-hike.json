@@ -88,5 +88,6 @@
     "guided",
     "alps"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

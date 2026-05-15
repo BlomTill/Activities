@@ -2,6 +2,24 @@
 
 import Link from "next/link";
 import { resetConsent } from "@/components/analytics-consent";
+import { isRouteEnabled } from "@/lib/constants";
+
+const EXPLORE_LINKS = [
+  { href: "/activities", label: "All Activities" },
+  { href: "/destinations", label: "Destinations" },
+  { href: "/itineraries", label: "Itineraries" },
+  { href: "/travel-passes", label: "Travel Passes" },
+  { href: "/budget", label: "Budget Explorer" },
+  { href: "/map", label: "Map View" },
+  { href: "/deals", label: "Deals" },
+].filter((l) => isRouteEnabled(l.href));
+
+const COMPANY_LINKS = [
+  { href: "/about", label: "About Us" },
+  { href: "/blog", label: "Blog" },
+  { href: "/privacy", label: "Privacy" },
+  { href: "/partners", label: "Partners" },
+].filter((l) => isRouteEnabled(l.href));
 
 export function Footer() {
   return (
@@ -25,13 +43,9 @@ export function Footer() {
               Explore
             </h3>
             <ul className="space-y-2 text-sm text-[#7a6e60]">
-              <li><Link href="/activities" className="hover:text-[#c4973a] transition-colors">All Activities</Link></li>
-              <li><Link href="/destinations" className="hover:text-[#c4973a] transition-colors">Destinations</Link></li>
-              <li><Link href="/itineraries" className="hover:text-[#c4973a] transition-colors">Itineraries</Link></li>
-              <li><Link href="/travel-passes" className="hover:text-[#c4973a] transition-colors">Travel Passes</Link></li>
-              <li><Link href="/budget" className="hover:text-[#c4973a] transition-colors">Budget Explorer</Link></li>
-              <li><Link href="/map" className="hover:text-[#c4973a] transition-colors">Map View</Link></li>
-              <li><Link href="/deals" className="hover:text-[#c4973a] transition-colors">Deals</Link></li>
+              {EXPLORE_LINKS.map((l) => (
+                <li key={l.href}><Link href={l.href} className="hover:text-[#c4973a] transition-colors">{l.label}</Link></li>
+              ))}
             </ul>
           </div>
 
@@ -53,10 +67,9 @@ export function Footer() {
               Company
             </h3>
             <ul className="space-y-2 text-sm text-[#7a6e60]">
-              <li><Link href="/about" className="hover:text-[#c4973a] transition-colors">About Us</Link></li>
-              <li><Link href="/blog" className="hover:text-[#c4973a] transition-colors">Blog</Link></li>
-              <li><Link href="/privacy" className="hover:text-[#c4973a] transition-colors">Privacy</Link></li>
-              <li><Link href="/partners" className="hover:text-[#c4973a] transition-colors">Partners</Link></li>
+              {COMPANY_LINKS.map((l) => (
+                <li key={l.href}><Link href={l.href} className="hover:text-[#c4973a] transition-colors">{l.label}</Link></li>
+              ))}
               <li><a href="mailto:hello@realswitzerland.ch" className="hover:text-[#c4973a] transition-colors">Contact</a></li>
               <li>
                 <button

@@ -45,14 +45,6 @@
   ],
   "currency": "CHF",
   "duration": "2-4 hours",
-  "tags": [
-    "tobogganing",
-    "sledding",
-    "rigi",
-    "winter",
-    "family"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Run Length",
@@ -75,5 +67,13 @@
       "value": "Lucerne below"
     }
   ],
-  "published": false
+  "tags": [
+    "tobogganing",
+    "sledding",
+    "rigi",
+    "winter",
+    "family"
+  ],
+  "featured": false,
+  "mvp": false
 }

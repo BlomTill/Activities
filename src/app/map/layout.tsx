@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import { gateFeature } from "@/lib/feature-gate";
 
 export const metadata: Metadata = {
   title: "Activity Map",
@@ -6,5 +7,6 @@ export const metadata: Metadata = {
 };
 
 export default function MapLayout({ children }: { children: React.ReactNode }) {
+  gateFeature("MAP");
   return children;
 }

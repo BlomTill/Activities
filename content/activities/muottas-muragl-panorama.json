@@ -47,14 +47,6 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop",
-  "tags": [
-    "panorama",
-    "engadin",
-    "funicular",
-    "mountain",
-    "viewpoint"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Altitude",
@@ -77,5 +69,13 @@
       "value": "Ridge panorama"
     }
   ],
-  "published": false
+  "tags": [
+    "panorama",
+    "engadin",
+    "funicular",
+    "mountain",
+    "viewpoint"
+  ],
+  "featured": false,
+  "mvp": false
 }

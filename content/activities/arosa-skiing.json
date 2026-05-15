@@ -57,14 +57,6 @@
   "currency": "CHF",
   "duration": "Full day",
   "imageUrl": "https://images.unsplash.com/photo-1548777123-e216912df7d8?w=800&h=500&fit=crop",
-  "tags": [
-    "skiing",
-    "winter",
-    "arosa",
-    "relaxed",
-    "bears"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Altitude",
@@ -87,5 +79,13 @@
       "value": "Relaxed & charming"
     }
   ],
-  "published": false
+  "tags": [
+    "skiing",
+    "winter",
+    "arosa",
+    "relaxed",
+    "bears"
+  ],
+  "featured": false,
+  "mvp": false
 }

@@ -56,14 +56,6 @@
   ],
   "currency": "CHF",
   "duration": "Full day",
-  "tags": [
-    "skiing",
-    "glacier",
-    "gstaad",
-    "luxury",
-    "winter"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Slopes",
@@ -86,5 +78,13 @@
       "value": "Multiple connected"
     }
   ],
-  "published": false
+  "tags": [
+    "skiing",
+    "glacier",
+    "gstaad",
+    "luxury",
+    "winter"
+  ],
+  "featured": false,
+  "mvp": false
 }

@@ -55,5 +55,6 @@
     "lake",
     "interlaken"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

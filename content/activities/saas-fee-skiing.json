@@ -46,14 +46,6 @@
   "currency": "CHF",
   "duration": "Full day",
   "imageUrl": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?w=800&h=500&fit=crop",
-  "tags": [
-    "skiing",
-    "glacier",
-    "saas-fee",
-    "car-free",
-    "winter"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Slopes",
@@ -76,5 +68,13 @@
       "value": "Village"
     }
   ],
-  "published": false
+  "tags": [
+    "skiing",
+    "glacier",
+    "saas-fee",
+    "car-free",
+    "winter"
+  ],
+  "featured": false,
+  "mvp": false
 }

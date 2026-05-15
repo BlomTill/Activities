@@ -48,14 +48,6 @@
   "currency": "CHF",
   "duration": "1-2 hours",
   "imageUrl": "https://images.unsplash.com/photo-1550236520-7050f3582da0?w=800&h=500&fit=crop",
-  "tags": [
-    "geology",
-    "museum",
-    "fossils",
-    "lucerne",
-    "family"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Potholes",
@@ -78,5 +70,13 @@
       "value": "1872"
     }
   ],
-  "published": false
+  "tags": [
+    "geology",
+    "museum",
+    "fossils",
+    "lucerne",
+    "family"
+  ],
+  "featured": false,
+  "mvp": false
 }
