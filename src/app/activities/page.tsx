@@ -30,6 +30,7 @@ export default function ActivitiesPage() {
         region: a.location.region,
         city: a.location.city,
       },
+      destination: a.mvpDestination,
       seasons: a.seasons,
       indoor: a.indoor,
       duration: a.duration,

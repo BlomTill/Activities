@@ -1,0 +1,54 @@
+{
+  "id": "1335",
+  "slug": "via-ferrata-feeschlucht-gorge-alpine-saas-fee",
+  "name": "Gorge Alpine via ferrata in summer",
+  "description": "Discover Gorge Alpine via ferrata in summer in Switzerland.",
+  "longDescription": "Discover Gorge Alpine via ferrata in summer in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Via ferrata",
+  "location": {
+    "region": "Valais region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Activedreams.ch",
+      "pricing": {
+        "child": 150,
+        "student": 255,
+        "adult": 300,
+        "senior": 270
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-feeschlucht-gorge-alpine-saas-fee/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Operated by Activedreams.ch. Book via SwissActivities — free cancellation, instant confirmation."
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/via-ferrata/via-ferrata-feeschlucht-gorge-alpine-saas-fee/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false,
+  "mvp": false
+}

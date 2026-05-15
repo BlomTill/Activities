@@ -54,5 +54,6 @@
     "lucerne"
   ],
   "featured": false,
-  "mvp": true
+  "mvp": true,
+  "mvpDestination": "Lucerne"
 }

@@ -153,6 +153,7 @@ function buildListActivities(activities) {
     // the full Activity payload.
     ...(a.published === false ? { published: false } : {}),
     ...(a.mvp === true ? { mvp: true } : {}),
+    ...(a.mvpDestination ? { mvpDestination: a.mvpDestination } : {}),
   }));
 }
 
@@ -202,13 +203,19 @@ function writeContentFiles(subDir, entries) {
  */
 function stampMvp(activities) {
   let mvpSlugs = [];
+  let bySlug = {};
   try {
-    mvpSlugs = JSON.parse(readFileSync(MVP_SLUGS_PATH, "utf8")).slugs ?? [];
+    const parsed = JSON.parse(readFileSync(MVP_SLUGS_PATH, "utf8"));
+    mvpSlugs = parsed.slugs ?? [];
+    bySlug = parsed.bySlug ?? {};
   } catch {
     console.warn("content:build — no src/data/mvp-slugs.json; activity.mvp left unset");
   }
   const set = new Set(mvpSlugs);
-  for (const a of activities) a.mvp = set.has(a.slug);
+  for (const a of activities) {
+    a.mvp = set.has(a.slug);
+    if (a.mvp && bySlug[a.slug]) a.mvpDestination = bySlug[a.slug];
+  }
   return set.size;
 }
 
@@ -229,7 +236,14 @@ function main() {
   const storiesList = buildListStories(stories);
   const itinerariesList = buildListItineraries(itineraries);
 
+  // Tiny header-search index — MVP only, just what the dropdown needs.
+  // Keeps the (client) header from bundling the full activities payload.
+  const mvpSearchIndex = activities
+    .filter((a) => a.mvp === true)
+    .map((a) => ({ slug: a.slug, name: a.name, destination: a.mvpDestination ?? null }));
+
   writeJson(resolve(GENERATED_DIR, "activities.full.json"), activities);
+  writeJson(resolve(GENERATED_DIR, "mvp-search-index.json"), mvpSearchIndex);
   writeJson(resolve(GENERATED_DIR, "activities.list.json"), activitiesList);
   writeJson(resolve(GENERATED_DIR, "activities.by-slug.json"), normalizeSlugMap(activities));
   writeJson(resolve(GENERATED_DIR, "activities.slug-aliases.json"), slugAliases);

@@ -1,0 +1,56 @@
+{
+  "id": "1008",
+  "slug": "rafting-tour-vorderrhein-rhine-gorge",
+  "name": "Rafting tour Vorderrhein Rhine Gorge",
+  "description": "Discover Rafting tour Vorderrhein Rhine Gorge in Switzerland.",
+  "longDescription": "Discover Rafting tour Vorderrhein Rhine Gorge in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Rafting",
+  "location": {
+    "region": "Graubünden region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "Swiss River Adventures",
+      "pricing": {
+        "child": 63,
+        "student": 106,
+        "adult": 125,
+        "senior": 113
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-rhine-gorge/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Operated by Swiss River Adventures. Book via SwissActivities — free cancellation, instant confirmation."
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/rafting-tour-vorderrhein-rhine-gorge/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "rafting"
+  ],
+  "featured": false,
+  "mvp": false
+}

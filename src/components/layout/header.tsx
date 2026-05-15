@@ -6,6 +6,7 @@ import { useEffect, useRef, useState } from "react";
 import { useWanderTheme } from "./theme-provider";
 import { triggerYodel } from "./yodel";
 import { isFeatureEnabled, isRouteEnabled } from "@/lib/constants";
+import { HeaderSearch } from "./header-search";
 
 /**
  * realswitzerland.ch sticky header.
@@ -247,6 +248,9 @@ export function Header() {
           </nav>
 
           <div className="wander-nav-actions">
+            <div className="wander-hide-mobile">
+              <HeaderSearch />
+            </div>
             <button
               type="button"
               onClick={toggle}
