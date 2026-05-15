@@ -4,7 +4,25 @@ import Link from "next/link";
 import Image from "next/image";
 import { useEffect, useState } from "react";
 import { PartnerWidget, GYG_CITIES } from "@/components/partners/partner-widget";
-import { isFeatureEnabled } from "@/lib/constants";
+import { isFeatureEnabled, SITE_NAME } from "@/lib/constants";
+import { NewsletterSignup } from "@/components/newsletter-signup";
+
+export interface HomeDestination {
+  slug: string;
+  name: string;
+  tagline: string;
+  heroImage: string;
+  count: number;
+}
+
+export interface HomeTrending {
+  slug: string;
+  name: string;
+  image: string;
+  rating: number | null;
+  destination: string | null;
+  priceLabel: string;
+}
 
 /* ──────────────────────────────────────────────────────────────
    ALPINE SUNSHINE HOME — warm, lively, postcard editorial.
@@ -545,7 +563,111 @@ function triggerConfetti(count = 80, colors?: string[]) {
   }
 }
 
-export default function HomePageClient({ stats }: { stats: HomeStats }) {
+function TopDestinations({ destinations }: { destinations: HomeDestination[] }) {
+  return (
+    <section className="a-container" style={{ padding: "16px 24px 56px" }}>
+      <span className="a-kicker"><span className="bar" />Top destinations</span>
+      <h2 className="alpine-display" style={{ fontSize: "clamp(28px, 3.6vw, 44px)", margin: "10px 0 22px" }}>
+        Five bases, all of Switzerland
+      </h2>
+      <div style={{ display: "grid", gap: 18, gridTemplateColumns: "repeat(auto-fill, minmax(min(280px, 100%), 1fr))" }}>
+        {destinations.map((d) => (
+          <Link key={d.slug} href={`/destinations/${d.slug}`} className="cat-card"
+            style={{ position: "relative", aspectRatio: "4/3", borderRadius: 20, overflow: "hidden", border: "1px solid var(--line)", textDecoration: "none", color: "#fff", display: "block" }}>
+            <Image src={d.heroImage} alt={d.name} fill sizes="(max-width: 640px) 100vw, 33vw" style={{ objectFit: "cover" }} />
+            <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to top, rgba(0,0,0,.72), rgba(0,0,0,.05))" }} />
+            <div style={{ position: "absolute", left: 18, right: 18, bottom: 16 }}>
+              <div className="alpine-display" style={{ fontSize: 26 }}>{d.name}</div>
+              <div style={{ fontSize: 13, opacity: .9 }}>{d.tagline}</div>
+              <div style={{ fontSize: 12, marginTop: 6, fontWeight: 600 }}>{d.count} activities compared →</div>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function Trending({ items }: { items: HomeTrending[] }) {
+  if (items.length === 0) return null;
+  return (
+    <section className="a-container" style={{ padding: "8px 24px 56px" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "end", flexWrap: "wrap", gap: 12, marginBottom: 22 }}>
+        <div>
+          <span className="a-kicker"><span className="bar" />Top rated this week</span>
+          <h2 className="alpine-display" style={{ fontSize: "clamp(28px, 3.6vw, 44px)", margin: "10px 0 0" }}>
+            Travellers rate these highest
+          </h2>
+        </div>
+        <Link href="/activities?sort=rating" className="a-btn a-btn-ghost">Browse all →</Link>
+      </div>
+      <div style={{ display: "grid", gap: 16, gridTemplateColumns: "repeat(auto-fill, minmax(min(220px, 100%), 1fr))" }}>
+        {items.map((a) => (
+          <Link key={a.slug} href={`/activities/${a.slug}`}
+            style={{ background: "var(--card)", borderRadius: 16, border: "1px solid var(--line)", overflow: "hidden", textDecoration: "none", color: "inherit", display: "flex", flexDirection: "column" }}>
+            <div style={{ position: "relative", aspectRatio: "16/11", background: "var(--bg-2)" }}>
+              <Image src={a.image} alt={a.name} fill sizes="(max-width: 640px) 50vw, 220px" style={{ objectFit: "cover" }} />
+              <div style={{ position: "absolute", bottom: 8, right: 8, background: "var(--ink)", color: "#fff", padding: "4px 8px", borderRadius: 999, fontSize: 11, fontWeight: 700 }}>{a.priceLabel}</div>
+            </div>
+            <div style={{ padding: 12, display: "flex", flexDirection: "column", gap: 6 }}>
+              <div style={{ fontSize: 14, fontWeight: 600, lineHeight: 1.25 }}>{a.name}</div>
+              <div style={{ fontSize: 12, color: "var(--ink-soft)", display: "flex", justifyContent: "space-between" }}>
+                <span>{a.destination ?? ""}</span>
+                {a.rating !== null && <span>★ {a.rating.toFixed(1)}</span>}
+              </div>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function WhyCompare() {
+  // Factual value props only — no invented "saves CHF X" stat (verified-only).
+  const points = [
+    ["Every price compared", "We line up GetYourGuide, Viator, SwissActivities & more side by side."],
+    ["No markup, ever", "You pay the operator's own price. Commission is paid by the partner, not you."],
+    ["Real photos & details", "Hand-checked images and honest descriptions — no generic stock."],
+  ];
+  return (
+    <section className="a-container" style={{ padding: "8px 24px 56px" }}>
+      <div style={{ display: "grid", gap: 16, gridTemplateColumns: "repeat(auto-fit, minmax(min(260px, 100%), 1fr))" }}>
+        {points.map(([h, p]) => (
+          <div key={h} style={{ background: "var(--card)", border: "1px solid var(--line)", borderRadius: 16, padding: 20 }}>
+            <div className="alpine-display" style={{ fontSize: 18, marginBottom: 6 }}>{h}</div>
+            <div style={{ fontSize: 14, color: "var(--ink-soft)", lineHeight: 1.5 }}>{p}</div>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
+
+function NewsletterBand() {
+  return (
+    <section className="a-container" style={{ padding: "8px 24px 64px" }}>
+      <div style={{ background: "var(--card)", border: "1px solid var(--line)", borderRadius: 20, padding: 28 }}>
+        <NewsletterSignup
+          variant="banner"
+          intent="deals"
+          title={`The best of Switzerland, once a week`}
+          description={`${SITE_NAME} sends 5 hand-picked activities + 1 honest guide. No spam, unsubscribe anytime.`}
+        />
+      </div>
+    </section>
+  );
+}
+
+export default function HomePageClient({
+  stats,
+  destinations,
+  trending,
+}: {
+  stats: HomeStats;
+  destinations: HomeDestination[];
+  trending: HomeTrending[];
+}) {
   useEasterEggs();
   return (
     <div className="alpine-page">
@@ -565,9 +687,13 @@ export default function HomePageClient({ stats }: { stats: HomeStats }) {
       `}} />
       <Hero stats={stats} />
       <CategoryStrip stats={stats} />
+      <TopDestinations destinations={destinations} />
+      <Trending items={trending} />
       <FeatureRow />
+      <WhyCompare />
       <ItinTeaser />
       <StoriesRow />
+      <NewsletterBand />
       <PartnerOffers />
     </div>
   );

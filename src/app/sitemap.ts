@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next";
 import { mvpActivities } from "@/lib/content/selectors";
 import { blogPosts } from "@/lib/content/selectors";
-import { getDestinationSummaries } from "@/lib/destinations";
+import { MVP_DESTINATIONS } from "@/lib/mvp-destinations";
 
 const BASE_URL = "https://realswitzerland.ch";
 
@@ -27,8 +27,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  const destinationPages = getDestinationSummaries().map((destination) => ({
-    url: `${BASE_URL}/destinations/${destination.slug}`,
+  const destinationPages = MVP_DESTINATIONS.map((d) => ({
+    url: `${BASE_URL}/destinations/${d.slug}`,
     lastModified: new Date(),
     changeFrequency: "weekly" as const,
     priority: 0.8,

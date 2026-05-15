@@ -43,5 +43,9 @@ until Phase 1 is shipped and verified (`MVP_LAUNCH_PLAN.md` §3 has the day-plan
 ### Found-during-Phase-1, parked here
 _(append as discovered; do not action in Phase 1)_
 
+- **Destination hero photos are CC0 Unsplash placeholders** (`src/lib/mvp-destinations.ts` `heroImage`). Replace with licensed/owned photography of each city before scaling marketing. Same for the home `TopDestinations` cards (reuse the same URLs).
+- **Legacy region-based destinations system now unused by routes**: `src/lib/destinations.ts`, `src/components/destination-browser.tsx`, `src/components/destination-detail-tabs.tsx`, `getRelatedBlogPostsForDestination`. Kept (not deleted) in case Phase 2 wants region browsing. Safe to remove if it stays unused.
+- Activity-route first-load JS still ~723KB (Day 3 finding) — Day 6 bundle audit.
+
 - `src/app/activities/page.tsx` still ships a per-request `.map()` projection
   over the MVP set on the server — fine at 200, revisit if MVP count grows.
