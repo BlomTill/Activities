@@ -1,0 +1,1002 @@
+[
+  {
+    "slug": "glacier-express",
+    "name": "Glacier Express",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "canyoning-interlaken",
+    "name": "Canyoning in Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "stanserhorn-cabrio",
+    "name": "CabriO Stanserhorn",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "via-ferrata-murren",
+    "name": "Via Ferrata Mürren",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "rafting-interlaken",
+    "name": "White Water Rafting Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "ballenberg-open-air-museum",
+    "name": "Ballenberg Open-Air Museum",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "segway-tour-zurich",
+    "name": "Segway Tour Zurich",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "nature-safari-lake-zurich",
+    "name": "Private nature safari on Lake Zurich from Rapperswil",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "discovery-balloon-ride-western-switzerland-with-lake-geneva-and-alpine-regions",
+    "name": "Discovery Balloon Ride: Western Switzerland with Lake Geneva and Alpine Regions",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "item-1772664816324-jcy0p",
+    "name": "High-altitude Hot Air Balloon Ride: Lausanne Region",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "hot-air-balloon-ride-with-fondue-western-switzerland-featuring-lake-geneva-and-alpine-regions",
+    "name": "Hot Air Balloon Ride with Fondue: Western Switzerland Featuring Lake Geneva and Alpine Regions",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "4-hour-private-aperitif-cruise-on-lake-zurich",
+    "name": "4-hour private aperitif cruise on Lake Zurich",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "brunch-etuktuk-city-tour-zurich",
+    "name": "Brunch in E-Tuk Tuk with city tour of Zurich",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "canyon-swing-grindelwald-glacier-gorge",
+    "name": "Canyon Swing Grindelwald Glacier Canyon",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "canyoning-interlaken-beginners-saxeten-gorge",
+    "name": "Saxeten Gorge Canyoning for beginners in Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "canyoning-saxetenschlucht-interlaken",
+    "name": "Canyoning in the Saxetenschlucht from Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "canyoning-little-streak-for-advanced-enthusiasts-from-interlaken",
+    "name": "Canyoning Little Streak for Advanced Enthusiasts from Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "saxeten-canyoning-beginner-tour-from-interlaken",
+    "name": "Saxeten Canyoning Beginner Tour from Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "grimsel-canyoning-beginner-tour-from-interlaken",
+    "name": "Grimsel Canyoning Beginner Tour from Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "from-lucerne-canyoning-adventure-in-interlaken",
+    "name": "From Lucerne: Canyoning adventure in Interlaken",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "from-zurich--canyoning-adventure-in-interlaken",
+    "name": "From Zurich: Canyoning adventure in Interlaken",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "zurich-card-for-24-or-72-hours",
+    "name": "Zurich Card for 24 or 72 hours",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "geneva-city-pass",
+    "name": "Geneva City Pass",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "indoor-climbing-evening-zermatt",
+    "name": "Indoor climbing in the evening in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "bubble-ball-play-in-zurich",
+    "name": "Bubble Ball play in Zurich",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "fire-cooking-indian-masala",
+    "name": "Fire Kitchen \"Indian Masala\" in Zurich Wine Country",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "fire-kitchen-flavours-of-the-himalayas",
+    "name": "Fire Kitchen \"Flavors of the Himalayas\" in Zurich Wine Country",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "turkish-for-beginners-cooking-class-in-zurich",
+    "name": "\"Turkish for Beginners\" Cooking Class in Zurich",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "private-cooking-class-for-team-events-in-zurich",
+    "name": "Private Cooking Class for Team Events in Zurich",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "summer-kitchen-with-laz-cooking-class-in-zurich",
+    "name": "\"Summer Kitchen with Laz\" Cooking Class in Zurich",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "fondue-cooking-class-in-geneva",
+    "name": "Fondue Cooking Class in Geneva",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "cross-country-zermatt-private",
+    "name": "Private cross-country skiing lessons in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "zurich-day-boat-trip-lindt",
+    "name": "Zurich day trip with city tour, boat trip and Lindt Home of Chocolate",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "tour-grindelwald-and-interlaken-from-zurich",
+    "name": "From Zürich: Day trip to Grindelwald, Interlaken, and Lauterbrunnen",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "rhine-falls-and-stein-am-rhein-tour-from-zurich",
+    "name": "From Zurich: Half day bus tour to Rhine Falls and Stein am Rhein",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "rhine-falls-day-trip-from-zurich",
+    "name": "From Zurich: Bus tour to the Rhine Falls half day",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "ski-trip-grindelwald-for-beginners-from-zurich",
+    "name": "From Zurich: Day trip to Grindelwald with ski course for beginners",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "bus-tour-luzern-engelberg-titlis-zuerich",
+    "name": "From Zurich: Bus tour to the Titlis",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "rhinefall-bus-tour-half-day-zuerich",
+    "name": "From Zurich: Tour by coach to the Rhine Falls half day",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "in-zurich-day-trip-to-engelberg-and-lucerne",
+    "name": "In Zurich: Day Trip to Engelberg and Lucerne",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "appenzell-culinary-bus-tour",
+    "name": "From Zurich: Culinary bus tour to Appenzell",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "lucerne-day-trip-from-zurich-boat-trip",
+    "name": "From Zurich: Day trip to Lucerne incl. boat tour",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "from-zurich-day-trip-to-lucerne-and-burgenstock",
+    "name": "From Zurich: Day trip to Lucerne and Bürgenstock",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "visit-zurich-day-trip-to-lucerne",
+    "name": "Visit Zurich: Day Trip to Lucerne",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "in-zurich-guided-tour-of-pilatus-golden-round-trip-including-mountain-railway-and-boat-cruise",
+    "name": "In Zurich: guided tour of Pilatus Golden Round Trip including mountain railway and boat cruise",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "day-trip-to-bern-with-tasting-from-zurich",
+    "name": "From Zurich: Day trip to Bern with Kambly and cheese tasting",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "from-zurich--adventure-on-the-grindelwald-first",
+    "name": "From Zurich: Adventure to Grindelwald First",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "zurich-best-jungfrau-region-luxury-private-day-tour",
+    "name": "From Zurich: Best of Jungfrau Region Luxury Private Day Tour",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "zurich-flavours-switzerland-luxury-day-tour",
+    "name": "From Zurich: Flavours of Switzerland luxury day tour",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "zurich-heidi-swiss-farm-escape-luxury-day-tour",
+    "name": "From Zurich: Heidi Swiss Farm Escape luxury day tour",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "from-zurich-bus-tour-to-interlaken",
+    "name": "From Zurich: Bus tour to Interlaken",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "from-zurich-express-tour-to-interlaken-and-the-schilthorn",
+    "name": "From Zurich: Express Tour to Interlaken and the Schilthorn",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "from-zurich-chocolate-factory-and-appenzeller-cheese-demonstration-tour",
+    "name": "From Zurich: Chocolate Factory and Appenzeller Cheese Demonstration Tour",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "from-zurich-bus-tour-to-interlaken-with-harder-kulm",
+    "name": "From Zurich: Bus tour to Interlaken with Harder Kulm",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "in-zurich-day-trip-to-interlaken-and-jungfraujoch",
+    "name": "In Zurich: Day trip to Interlaken and Jungfraujoch",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "workshop-zurich-bus-tour-to-lucerne",
+    "name": "Workshop Zürich: Bus tour to Lucerne",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise",
+    "name": "From Zurich: Bus tour to Lucerne with Sapphire Yacht Cruise",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "in-zurich-bus-tour-to-pilatus-with-golden-round-trip",
+    "name": "In Zurich: Bus tour to Pilatus with Golden Round Trip",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "zurich-excursion-bus-tour-to-rhine-falls-chocolarium-and-appenzeller-cheese-dairy",
+    "name": "Zurich excursion: Bus tour to Rhine Falls, Chocolarium, and Appenzeller cheese dairy",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "in-zurich-zurich-city-tour-chocolarium-and-appenzeller-cheese-showcase",
+    "name": "In Zurich: Zurich city tour, Chocolarium and Appenzeller cheese showcase",
+    "destination": "Zurich"
+  },
+  {
+    "slug": "in-geneva-glacier-3000-les-diablerets-and-montreux-open-top-bus-tour",
+    "name": "In Geneva: Glacier 3000 Les Diablerets and Montreux Open-Top Bus Tour",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "geneva-bus-glacier-3000-and-montreux",
+    "name": "From Geneva: Bus Tour Glacier 3000 with Cable Car and Montreux",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "geneva-to-chamonix-with-aiguille-du-midi",
+    "name": "From Geneva: Tour to Chamonix with Aiguille du Midi",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "guided-from-geneva--bus-tour-to-annecy-with-city-tour",
+    "name": "From Geneva: bus tour to Annecy with city tour",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-ski-day-in-chamonix-mont-blanc",
+    "name": "In Geneva: Ski day in Chamonix Mont-Blanc",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "self-guided-geneva-bus-tour-interlaken-harder-kulm",
+    "name": "From Geneva: Bus tour to Interlaken and Harder Kulm",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "geneva-city-tour-by-bus-mini-train-and-boat",
+    "name": "Geneva city tour by bus, mini-train and boat",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "starting-from-geneva-bus-tour-to-annecy-geneva-and-boat-ride",
+    "name": "Starting from Geneva: Bus Tour to Annecy, Geneva, and Boat Ride",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "geneva-aiguille-du-midi-and-skiing-in-chamonix-mont-blanc",
+    "name": "From Geneva: Aiguille du Midi and skiing in Chamonix Mont-Blanc",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "geneva-yvoire-city-tour",
+    "name": "Geneva and Yvoire city tour",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "geneva--paragliding-in-chamonix-mont-blanc",
+    "name": "From Geneva: Paragliding in Chamonix Mont-Blanc",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-aiguille-du-midi-and-paramotor-flight-in-chamonix-mont-blanc",
+    "name": "In Geneva: Aiguille du Midi and paramotor flight in Chamonix Mont-Blanc",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-guided-bus-tour-of-charlie-chaplin-with-cruise-from-montreux-to-chillon",
+    "name": "In Geneva: Guided bus tour of Charlie Chaplin with cruise from Montreux to Chillon",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "from-geneva-riviera-bus-tour-with-chaplin-montreux-and-chillon",
+    "name": "From Geneva: Riviera Bus Tour with Chaplin, Montreux, and Chillon",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "from-geneva-winter-tour-of-chaplin-montreux-and-chillon",
+    "name": "From Geneva: Winter Tour of Chaplin, Montreux and Chillon",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "from-geneva-yvoire-tour-with-boat-trip",
+    "name": "From Geneva: Yvoire tour with boat trip",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "ab-geneva-excursion-to-chamonix-mont-blanc",
+    "name": "Ab Geneva: Excursion to Chamonix Mont-Blanc",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-day-trip-to-chamonix-mont-blanc-aiguille-du-midi-and-mer-de-glace",
+    "name": "In Geneva: Day trip to Chamonix Mont-Blanc, Aiguille du Midi, and Mer de Glace",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-half-day-trip-to-chamonix-mont-blanc-with-aiguille-du-midi",
+    "name": "In Geneva: Half-day trip to Chamonix Mont-Blanc with Aiguille du Midi",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "self-guided-from-geneva-to-chamonix-mont-blanc",
+    "name": "From Geneva: Half-day tour to Chamonix Mont-Blanc",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-half-day-tour-to-chamonix-with-aiguille-du-midi-and-mer-de-glace",
+    "name": "In Geneva: Half-day tour to Chamonix with Aiguille du Midi and Mer de Glace",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "from-geneva-bus-tour-to-chamonix-mont-blanc-with-mer-de-glace",
+    "name": "From Geneva: Bus tour to Chamonix Mont-Blanc with Mer de Glace",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "ab-geneva-bus-tour-to-chamonix-mont-blanc-and-geneva-including-mini-train",
+    "name": "Ab Geneva: Bus tour to Chamonix Mont-Blanc and Geneva including mini train",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-geneva-city-tour-chamonix-mont-blanc-and-aiguille-du-midi",
+    "name": "In Geneva: Geneva City Tour, Chamonix Mont-Blanc and Aiguille du Midi",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-geneva-city-tour-chamonix-mont-blanc-and-boat-trip",
+    "name": "In Geneva: Geneva City Tour, Chamonix Mont Blanc, and Boat Trip",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-geneva-city-tour-chamonix-mont-blanc-with-aiguille-du-midi-and-boat-cruise",
+    "name": "In Geneva: Geneva City Tour, Chamonix Mont Blanc with Aiguille du Midi and Boat Cruise",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-bus-tour-to-gruyeres-cheese-dairy-chocolate-factory-and-golden-pass-line",
+    "name": "In Geneva: Bus tour to Gruyères, cheese dairy, chocolate factory, and Golden Pass Line",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-guided-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy",
+    "name": "In Geneva: Guided Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "from-geneva-winter-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy",
+    "name": "From Geneva: Winter Bus Tour to Gruyères, Chocolate Factory, and Cheese Dairy",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-bus-tour-to-interlaken",
+    "name": "In Geneva: Bus tour to Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "from-geneva-bus-tour-to-chamonix-mont-blanc-including-mer-de-glace",
+    "name": "From Geneva: Bus tour to Chamonix Mont Blanc including Mer de Glace",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "from-geneva-bus-tour-to-interlaken-and-schilthorn",
+    "name": "From Geneva: Bus tour to Interlaken and Schilthorn",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "from-geneva-bus-tour-to-interlaken-and-jungfraujoch",
+    "name": "From Geneva: Bus tour to Interlaken and Jungfraujoch",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "from-geneva-bus-tour-to-chamonix-mont-blanc-and-yvoire",
+    "name": "From Geneva: Bus tour to Chamonix Mont Blanc and Yvoire",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-day-trip-to-chamonix-and-yvoire-including-aiguille-du-midi",
+    "name": "In Geneva: Day trip to Chamonix and Yvoire including Aiguille du Midi",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "day-trip-gruyeres-cheese-factory-chocolate-factory-genf",
+    "name": "From Geneva: day trip to Gruyères, show dairy and chocolate factory",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "day-trip-montreux-chillon-weingueter-genf",
+    "name": "From Geneva: Day trip wine tour and Chillon Castle",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "day-trip-neuenburg-chocolate-factory-clock-museum-genf",
+    "name": "From Geneva: day trip to the chocolate factory, watch museum and Neuchâtel Castle",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "from-geneva-airport-day-trip-to-the-salt-mines-and-chateau-d-aigle",
+    "name": "From Geneva Airport: Day trip to the salt mines and Château d'Aigle",
+    "destination": "Geneva"
+  },
+  {
+    "slug": "in-geneva-day-trip-to-zermatt-with-views-of-the-matterhorn",
+    "name": "From Geneva: day trip to Zermatt with views of the Matterhorn",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise",
+    "name": "From Geneva: Day trip to Zermatt, Matterhorn, and Glacier Paradise",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "from-lucerne-guided-tour-of-pilatus-golden-round-trip-including-cable-car-and-boat-ride",
+    "name": "From Lucerne: guided tour of Pilatus Golden Round Trip including cable car and boat ride",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "bus-tour-grindelwald-and-interlaken-from-lucerne",
+    "name": "From Lucerne: Day trip to Grindelwald, Interlaken and Lauterbrunnen",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "day-trip-to-bern-with-degustation-from-lucerne",
+    "name": "From Lucerne: Day trip to Berne with Kambly and cheese tasting",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "ski-trip-grindelwald-for-beginners-from-lucerne",
+    "name": "From Lucerne: Day trip to Grindelwald with ski course for beginners",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "lucerne-best-jungfrau-region-luxury-private-day-tour",
+    "name": "From Lucerne: Best of Jungfrau Region Luxury Private Day Tour",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "from-lucerne-flavors-switzerland-luxury-day-tour",
+    "name": "From Lucerne: Flavours of Switzerland luxury day tour",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "lucerne-stanserhorn-train",
+    "name": "Stanserhorn - self-guided tour from Lucerne including train ride",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "lakes-mountains-adventure-lucerne",
+    "name": "From Lucerne: Day Tour of Lakes, Mountains, and Adventure",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "from-lausanne-bus-tour-to-interlaken-and-jungfraujoch",
+    "name": "From Lausanne: Bus tour to Interlaken and Jungfraujoch",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "from-lausanne-bus-tour-to-interlaken",
+    "name": "From Lausanne: Bus tour to Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "in-lausanne-bus-tour-to-interlaken-with-harder-kulm",
+    "name": "In Lausanne: Bus tour to Interlaken with Harder Kulm",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "in-lausanne-coach-tour-to-interlaken-and-the-schilthorn",
+    "name": "In Lausanne: Coach tour to Interlaken and the Schilthorn",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "from-lausanne-day-trip-to-zermatt-with-views-of-the-matterhorn",
+    "name": "From Lausanne: Day trip to Zermatt with a view of the Matterhorn",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "lake-thun-full-day-tour-from-interlaken",
+    "name": "From Interlaken: Day tour of Lake Thun with local guide",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "culinary-sightseeing-tour-interlaken-by-bus",
+    "name": "Culinary Sightseeing Tour Interlaken by Bus",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "from-montreux-day-trip-to-zermatt-with-a-view-of-the-matterhorn",
+    "name": "From Montreux: Day Trip to Zermatt with a View of the Matterhorn",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "ebike-guided-interlaken",
+    "name": "Scenic Guided E-Bike Tour in Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "e-bike-tour-to-lauterbrunnen-and-isenfluh",
+    "name": "E-Bike Tour to Lauterbrunnen and Isenfluh",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "e-bike-tour-to-the-waterfalls-in-lauterbrunnen",
+    "name": "E-bike tour to the waterfalls in Lauterbrunnen",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "item-1772129893275-fxktx",
+    "name": "\"Lakes, Ruins and Viewpoints\" - Discover Interlaken by E-Bike",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "item-1772129737064-n4bup",
+    "name": "\"Iseltwald and Giessbach\" - explore Interlaken by e-bike",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "item-1772135553351-eeulp",
+    "name": "\"Griesalp UNESCO Alpine Valleys\" - E-bike tour from Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "rosenlaui-valley-e-bike-tour-starting-from-interlaken",
+    "name": "\"Rosenlaui Valley\" - E-Bike Tour Starting from Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "item-1772179390561-82jhm",
+    "name": "\"Jungfrau Region and Cheese Tasting\" - Private E-Bike Tour from Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "engstlenalp-lake-and-cheese-tasting-private-e-bike-tour-from-interlaken",
+    "name": "\"Engstlenalp, Lake and Cheese Tasting\" - Private E-Bike Tour from Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "discovery-tour-e-bike-in-grindelwald",
+    "name": "\"Discovery Tour\" private e-bike from Grindelwald",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "electric-bike-tour-from-grindelwald-to-lauterbrunnen",
+    "name": "Private e-bike tour from Grindelwald to Lauterbrunnen",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "custom-guided-e-bike-tour-grindelwald",
+    "name": "Custom Guided E-Bike Tour Grindelwald",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "hidden-gems-lucerne-private-ebike-tour",
+    "name": "\"Hidden Gems\" Lucerne private e-bike tour",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "hidden-gems-lucerne-public-ebike-tour",
+    "name": "\"Hidden Gems\" Lucerne public e-bike tour",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "ebike-comfortable-evening-tour-zermatt",
+    "name": "E-bike comfortable evening tour from Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "lucerne-interactive-scavenger-hunt-with-smartphone",
+    "name": "Lucerne interactive scavenger hunt with smartphone",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "top-secret-escape-room-lucerne",
+    "name": "“Top Secret” Escape Room Single Player in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "prison-breakout-escape-room-lucerne",
+    "name": "\"Prison Breakout\" Escape Room Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "world-of-magic-escape-lucerne",
+    "name": " \"World of Magic\" Escape Room Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "catch-the-agent-catag-gps-game-lucerne",
+    "name": "\"Catch the Agent\" GPS game for team events in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "beat-the-groom-lucerne",
+    "name": "\"Beat the groom\" in Lucerne: action-packed stag party",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "beat-the-bride-lucerne",
+    "name": "\"Beat the bride\" in Lucerne: action-packed hen party",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "outdoor-escape-game-scavenger-hunt-diamond-hunt-lucerne",
+    "name": "\"Diamond Hunt\" Smartphone Scavenger Hunt in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "hangover-escape-game-desired-location",
+    "name": "Polterchallenge \"Hangover - Girls Edition\" around Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "the-conspiracy-outdoor-escape-game-in-lucerne",
+    "name": "\"The Conspiracy\" Outdoor Escape Game in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "escape-room-lucerne-lost-island",
+    "name": "\"Lost Island\" Escape Room Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "the-keepers-outdoor-escape-game-lucerne",
+    "name": "\"The Keepers\" Outdoor Escape Game Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "unreal-adventures-interactive-city-game-in-lucerne",
+    "name": "“Unreal Adventures” interactive city game in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "unreal-adventures-mega-interactive-game-for-large-groups-in-lucerne",
+    "name": "“Unreal Adventures MEGA” interactive game for large groups in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "find-the-code-fire-breathing-dragons-outdoor-escape-game-lucerne",
+    "name": "\"Find-the-Code: Fire-Breathing Dragons\" Outdoor Escape Game Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "polterchallenge-hangover-wolf-pack-through-lucerne-copy",
+    "name": "Polterchallenge \"Hangover - Wolf Pack\" near Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "interlaken-interactive-scavenger-hunt-smartphone",
+    "name": "Interlaken interactive scavenger hunt with the smartphone",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "the-omega-codex-outdoor-escape-game-interlaken",
+    "name": "\"The Omega Codex\" Outdoor Escape Game Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "find-the-code-fall-hacked-outdoor-escape-game-interlaken",
+    "name": "\"Find-the-Code: Fall Hacked\" Outdoor Escape Game Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "polterchallenge-hangover-girls-edition-around-interlaken",
+    "name": "Polterchallenge \"Hangover - Girls Edition\" around Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "polterchallenge-hangover-wolf-pack-through-interlaken",
+    "name": "Polterchallenge \"Hangover - Wolf Pack\" through Interlaken",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "beat-the-groom-zermatt",
+    "name": "\"Beat the groom\" in Zermatt: action-packed stag party",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "beat-the-bride-zermatt",
+    "name": "\"Beat the bride\" in Zermatt: action-packed hen party",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "the-origin-outdoor-escape-game-como-schweiz",
+    "name": "\"The Origin\" Outdoor Escape Game Como (Schweiz)",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "etuktuk-luzern-fondue-city-tour",
+    "name": "\"Fondue Tuk\" - city tour with the Tuk Tuk in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "etuktuk-luzern-apero-city-tour",
+    "name": "\"Apéro-Tuk\" - city tour with the Tuk Tuk in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "etuktuk-luzern-chnusperli-city-tour",
+    "name": "\"Chnusperli-Tuk\" - city tour with the Tuk Tuk in Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "legends-five-course-menu-gallia-lucerne",
+    "name": "\"Legends of Lake Lucerne\" Steamship Experience",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "sup-breakfast-picnic-lake-lucerne",
+    "name": "\"SUP‑Z'Morning\": Breakfast on Lake Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "tapas-tour-in-zermatt",
+    "name": "Tapas tour in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "culinary-hike-six-mountain-restaurants-zermatt",
+    "name": "Culinary hike “Horugüet” in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "winter-hiking-raclette-saas-fee",
+    "name": "Hiking with raclette from Saas-Fee",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "brienzersee-chocolate-fondue-float",
+    "name": " Chocolate Fondue Float on Lake Brienz",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "golf-grindelwald-play-at-the-foot-of-the-eiger",
+    "name": "Golf Grindelwald - Play at the foot of the Eiger",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "hiking-ticket-grindelwald-schreckfeld-with-the-firstbahn",
+    "name": "Hiking ticket Grindelwald - Schreckfeld with the Firstbahn",
+    "destination": "Interlaken"
+  },
+  {
+    "slug": "titlis-glacier-adventure-guided-tour",
+    "name": "Glacier adventure on the Titlis",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "5-lakes-hike-zermatt",
+    "name": "5 Lakes Hike Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "hike-guided-zermatt",
+    "name": "Private guided hike in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "from-alpnachstad-near-lucerne-a-private-hike-to-pilatus-with-a-swiss-triathlete",
+    "name": "From Alpnachstad near Lucerne: A private hike to Pilatus with a Swiss triathlete",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "guided-hike-on-pilatus-with-barbecue-experience",
+    "name": "Guided hike up Pilatus with barbecue experience – including Pilatus ticket",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "big-canoe-lake-lucerne",
+    "name": "Team event with the big canoe on Lake Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "canoe-rental-lake-lucerne",
+    "name": "Kayak or Canoe Rental at Lake Lucerne from Brunnen",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "sea-kayak-grill-tour-guided-vierwaldstaettersee",
+    "name": "Sea kayak barbecue tour on Lake Lucerne",
+    "destination": "Lucerne"
+  },
+  {
+    "slug": "mountain-bike-lake-view-tour-zermatt",
+    "name": "Mountain bike Lake View tour private from Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "zermatt-bike-day-guide-bike",
+    "name": "Zermatt Bike Day - Guide and Bike",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "mountainbike-guided-zermatt",
+    "name": "Guided mountain bike tour in Zermatt private",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "breithorn-mountain-tour-zermatt-guided",
+    "name": "Breithorn mountain tour from Zermatt Guided: Private or group",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "zermatt-guided-hike-lost-valley",
+    "name": "Lost valley guided mountain tour Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "pollux-mountain-tour-zermatt",
+    "name": "Pollux mountain tour from Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "plateau-rosa-easy-glacier-hike-zermatt",
+    "name": "Plateau Rosa easy glacier hike from Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "plateau-rosa-demanding-glacier-hike-zermatt",
+    "name": "Plateau Rosa demanding glacier hike from Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "hike-hoernli-schwarzsee-zermatt",
+    "name": "Hike to the Hörnli hut from Schwarzsee Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "monte-rosa-mountain-tour-zermatt-2-days",
+    "name": "Monte Rosa mountain tour from Zermatt 2 days",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "paragliding-tandem-zermatt",
+    "name": "Zermatt paragliding in front of the Matterhorn",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "matterhorn-paragliding-zermatt",
+    "name": "Paragliding “The Spectacular” in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "paragliding-tandem-from-fiesch-in-valais",
+    "name": "Aletscharena paragliding tandem from Fiesch",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "paragliding-tandem-for-children-from-fiesch-in-valais",
+    "name": "Aletscharena paragliding for children from Fiesch",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "helicopter-flight-around-the-matterhorn-from-bern-belp",
+    "name": "Matterhorn Round Flight Alps Helicopter 75 minutes",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "zermatt-private-ski-school",
+    "name": "Private ski school in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "snowboard-zermatt-private",
+    "name": "Private snowboard lessons in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "telemark-zermatt-privat",
+    "name": "Private Telemark lesson in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "off-piste-ski-school-zermatt",
+    "name": "\"Off Piste\" Ski School for Adults in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "private-ski-school-beginners-advanced-zermatt",
+    "name": "Private ski school for beginners and advanced in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "snowboard-private-advanced-experts-zermatt",
+    "name": "Private Snowboard Lessons for Advanced and Expert Levels in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "full-day-unlimited-private-ski-school-in-zermatt",
+    "name": "Full-day unlimited private ski school in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "full-day-private-ski-school-in-zermatt",
+    "name": "Full-day private ski school in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "half-day-private-ski-school-in-zermatt",
+    "name": "Half-day private ski school in Zermatt",
+    "destination": "Zermatt"
+  },
+  {
+    "slug": "private-ski-school-for-kids-and-adults-in-zermatt",
+    "name": "Private ski school for kids and adults in Zermatt",
+    "destination": "Zermatt"
+  }
+]

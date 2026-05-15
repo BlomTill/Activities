@@ -1,0 +1,61 @@
+{
+  "id": "988",
+  "slug": "fun-rafting-simme-interlaken",
+  "name": "Rafting on the Simme from Interlaken",
+  "description": "Discover Rafting on the Simme from Interlaken in Switzerland.",
+  "longDescription": "Discover Rafting on the Simme from Interlaken in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Rafting",
+  "location": {
+    "region": "Bern Region",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "Engadin Outdoor Center",
+      "pricing": {
+        "child": 70,
+        "student": 118,
+        "adult": 139,
+        "senior": 125
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/fun-rafting-simme-interlaken/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Operated by Engadin Outdoor Center. Book via SwissActivities — free cancellation, instant confirmation."
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/rafting/fun-rafting-simme-interlaken/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "rafting",
+    "lake",
+    "interlaken"
+  ],
+  "featured": false,
+  "mvp": false
+}

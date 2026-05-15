@@ -1,0 +1,54 @@
+{
+  "id": "575",
+  "slug": "beat-the-bride-schaffhausen",
+  "name": "\"Beat the bride\" in Schaffhausen: action-packed hen party",
+  "description": "Discover \"Beat the bride\" in Schaffhausen: action-packed hen party in Switzerland.",
+  "longDescription": "Discover \"Beat the bride\" in Schaffhausen: action-packed hen party in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Escape room and games",
+  "location": {
+    "region": "Region Eastern Switzerland / Liechtenstein",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "summer"
+  ],
+  "indoor": true,
+  "providers": [
+    {
+      "name": "GAMEinMOTION GmbH",
+      "pricing": {
+        "child": 150,
+        "student": 254,
+        "adult": 299,
+        "senior": 269
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-schaffhausen/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Operated by GAMEinMOTION GmbH. Book via SwissActivities — free cancellation, instant confirmation."
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/escape-room/beat-the-bride-schaffhausen/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [],
+  "featured": false,
+  "mvp": false
+}

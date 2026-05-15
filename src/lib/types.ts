@@ -147,6 +147,12 @@ export interface Activity {
    */
   mvp?: boolean;
   /**
+   * Which of the 5 MVP destinations this activity was bucketed into by
+   * scripts/select-mvp-activities.mjs (Zurich/Lucerne/Interlaken/Zermatt/
+   * Geneva). Powers the /activities destination filter. Only set when mvp.
+   */
+  mvpDestination?: string;
+  /**
    * Image-quality verification state.
    *  - true:    automated vision check confirmed the image matches the activity
    *  - false:   vision check failed → image must be replaced before publishing

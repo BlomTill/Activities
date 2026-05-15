@@ -1408,7 +1408,8 @@
       "iconic"
     ],
     "featured": true,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "adventure-park-interlaken": {
     "id": "15",
@@ -2094,7 +2095,8 @@
       "extreme"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "swiss-national-park": {
     "id": "22",
@@ -3212,7 +3214,8 @@
       "unique"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "olympic-museum-lausanne": {
     "id": "34",
@@ -4648,7 +4651,8 @@
       "views"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "rapperswil-rose-town": {
     "id": "50",
@@ -5112,7 +5116,8 @@
       "adventure"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "skydiving-interlaken": {
     "id": "55",
@@ -5818,7 +5823,8 @@
       "crafts"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "lugano-monte-san-salvatore": {
     "id": "63",
@@ -6180,7 +6186,8 @@
       "fun"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "aareschlucht-gorge": {
     "id": "67",
@@ -13698,7 +13705,8 @@
       "lake"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "nature-safari-ibex-at-niederhorn": {
     "id": "156",
@@ -14079,7 +14087,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "item-1772664816324-jcy0p": {
     "id": "163",
@@ -14138,7 +14147,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "hot-air-balloon-ride-with-fondue-western-switzerland-featuring-lake-geneva-and-alpine-regions": {
     "id": "164",
@@ -14199,7 +14209,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "private-standard-balloon-ride-eastern-switzerland": {
     "id": "165",
@@ -14580,7 +14591,8 @@
       "lake"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "rhine-falls-wine-cruise-including-circular-tour": {
     "id": "173",
@@ -14820,7 +14832,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "thurgau-brunch-macardo-distillery": {
     "id": "178",
@@ -14934,7 +14947,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "bungee-jumping-stockhorn": {
     "id": "180",
@@ -16129,7 +16143,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "canyoning-saxetenschlucht-interlaken": {
     "id": "204",
@@ -16187,7 +16202,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "canyoning-little-streak-for-advanced-enthusiasts-from-interlaken": {
     "id": "205",
@@ -16248,7 +16264,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "saxeten-canyoning-beginner-tour-from-interlaken": {
     "id": "206",
@@ -16309,7 +16326,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "grimsel-canyoning-beginner-tour-from-interlaken": {
     "id": "207",
@@ -16370,7 +16388,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "canyoning-ticino-for-beginners-val-grande": {
     "id": "208",
@@ -17250,7 +17269,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "from-zurich--canyoning-adventure-in-interlaken": {
     "id": "224",
@@ -17309,7 +17329,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "canyoning-ticino-for-advanced-cugnasco": {
     "id": "225",
@@ -17769,7 +17790,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "geneva-city-pass": {
     "id": "234",
@@ -17828,7 +17850,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "city-pass-winterthur-zvv": {
     "id": "235",
@@ -17983,7 +18006,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "climbing-course-for-beginners-in-the-climbing-park-in-chur-rhine-valley": {
     "id": "238",
@@ -18483,7 +18507,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "team-olympiad-in-dubendorf": {
     "id": "249",
@@ -18849,7 +18874,8 @@
       "wine"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "fire-kitchen-flavours-of-the-himalayas": {
     "id": "257",
@@ -18908,7 +18934,8 @@
       "wine"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "vietnamese-fire-kitchen": {
     "id": "258",
@@ -19066,7 +19093,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "private-cooking-class-for-team-events-in-zurich": {
     "id": "261",
@@ -19110,7 +19138,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "summer-kitchen-with-laz-cooking-class-in-zurich": {
     "id": "262",
@@ -19164,7 +19193,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "fondue-cooking-class-in-geneva": {
     "id": "263",
@@ -19224,7 +19254,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "cross-country-zermatt-private": {
     "id": "264",
@@ -19268,7 +19299,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "ski-rental-cross-country-davos": {
     "id": "265",
@@ -19520,7 +19552,8 @@
       "boat"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "tour-grindelwald-and-interlaken-from-zurich": {
     "id": "270",
@@ -19582,7 +19615,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "rhine-falls-and-stein-am-rhein-tour-from-zurich": {
     "id": "271",
@@ -19636,7 +19670,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "rhine-falls-day-trip-from-zurich": {
     "id": "272",
@@ -19690,7 +19725,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "ski-trip-grindelwald-for-beginners-from-zurich": {
     "id": "273",
@@ -19746,7 +19782,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "bus-tour-luzern-engelberg-titlis-zuerich": {
     "id": "274",
@@ -19801,7 +19838,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "rhinefall-bus-tour-half-day-zuerich": {
     "id": "275",
@@ -19856,7 +19894,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "in-zurich-day-trip-to-engelberg-and-lucerne": {
     "id": "276",
@@ -19912,7 +19951,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "appenzell-culinary-bus-tour": {
     "id": "277",
@@ -19966,7 +20006,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "lucerne-day-trip-from-zurich-boat-trip": {
     "id": "278",
@@ -20023,7 +20064,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "from-zurich-day-trip-to-lucerne-and-burgenstock": {
     "id": "279",
@@ -20079,7 +20121,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "visit-zurich-day-trip-to-lucerne": {
     "id": "280",
@@ -20135,7 +20178,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "in-zurich-guided-tour-of-pilatus-golden-round-trip-including-mountain-railway-and-boat-cruise": {
     "id": "281",
@@ -20195,7 +20239,8 @@
       "boat"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "day-trip-to-bern-with-tasting-from-zurich": {
     "id": "282",
@@ -20252,7 +20297,8 @@
       "bern"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "from-zurich--adventure-on-the-grindelwald-first": {
     "id": "283",
@@ -20312,7 +20358,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "zurich-best-jungfrau-region-luxury-private-day-tour": {
     "id": "284",
@@ -20367,7 +20414,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "zurich-flavours-switzerland-luxury-day-tour": {
     "id": "285",
@@ -20421,7 +20469,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "zurich-heidi-swiss-farm-escape-luxury-day-tour": {
     "id": "286",
@@ -20475,7 +20524,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "from-zurich-bus-tour-to-interlaken": {
     "id": "287",
@@ -20535,7 +20585,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "from-zurich-express-tour-to-interlaken-and-the-schilthorn": {
     "id": "288",
@@ -20592,7 +20643,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "from-zurich-chocolate-factory-and-appenzeller-cheese-demonstration-tour": {
     "id": "289",
@@ -20652,7 +20704,8 @@
       "cheese"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "from-zurich-bus-tour-to-interlaken-with-harder-kulm": {
     "id": "290",
@@ -20709,7 +20762,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "in-zurich-day-trip-to-interlaken-and-jungfraujoch": {
     "id": "291",
@@ -20767,7 +20821,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "workshop-zurich-bus-tour-to-lucerne": {
     "id": "292",
@@ -20825,7 +20880,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "from-zurich-bus-tour-to-lucerne-with-sapphire-yacht-cruise": {
     "id": "293",
@@ -20881,7 +20937,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "in-zurich-bus-tour-to-pilatus-with-golden-round-trip": {
     "id": "294",
@@ -20935,7 +20992,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "zurich-excursion-bus-tour-to-rhine-falls-chocolarium-and-appenzeller-cheese-dairy": {
     "id": "295",
@@ -20991,7 +21049,8 @@
       "cheese"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "in-zurich-zurich-city-tour-chocolarium-and-appenzeller-cheese-showcase": {
     "id": "296",
@@ -21050,7 +21109,8 @@
       "cheese"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   "at-zurich-rhine-falls-and-city-tour-in-an-open-panorama-bus": {
     "id": "297",
@@ -22729,7 +22789,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "geneva-bus-glacier-3000-and-montreux": {
     "id": "326",
@@ -22790,7 +22851,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "geneva-to-chamonix-with-aiguille-du-midi": {
     "id": "327",
@@ -22849,7 +22911,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "guided-from-geneva--bus-tour-to-annecy-with-city-tour": {
     "id": "328",
@@ -22908,7 +22971,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-ski-day-in-chamonix-mont-blanc": {
     "id": "329",
@@ -22964,7 +23028,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "self-guided-geneva-bus-tour-interlaken-harder-kulm": {
     "id": "330",
@@ -23022,7 +23087,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "geneva-city-tour-by-bus-mini-train-and-boat": {
     "id": "331",
@@ -23083,7 +23149,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "starting-from-geneva-bus-tour-to-annecy-geneva-and-boat-ride": {
     "id": "332",
@@ -23143,7 +23210,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "geneva-aiguille-du-midi-and-skiing-in-chamonix-mont-blanc": {
     "id": "333",
@@ -23200,7 +23268,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "geneva-yvoire-city-tour": {
     "id": "334",
@@ -23257,7 +23326,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "geneva--paragliding-in-chamonix-mont-blanc": {
     "id": "335",
@@ -23314,7 +23384,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-aiguille-du-midi-and-paramotor-flight-in-chamonix-mont-blanc": {
     "id": "336",
@@ -23373,7 +23444,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-guided-bus-tour-of-charlie-chaplin-with-cruise-from-montreux-to-chillon": {
     "id": "337",
@@ -23429,7 +23501,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "from-geneva-riviera-bus-tour-with-chaplin-montreux-and-chillon": {
     "id": "338",
@@ -23486,7 +23559,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "from-geneva-winter-tour-of-chaplin-montreux-and-chillon": {
     "id": "339",
@@ -23542,7 +23616,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "from-geneva-yvoire-tour-with-boat-trip": {
     "id": "340",
@@ -23602,7 +23677,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "ab-geneva-excursion-to-chamonix-mont-blanc": {
     "id": "341",
@@ -23661,7 +23737,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-day-trip-to-chamonix-mont-blanc-aiguille-du-midi-and-mer-de-glace": {
     "id": "342",
@@ -23720,7 +23797,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-half-day-trip-to-chamonix-mont-blanc-with-aiguille-du-midi": {
     "id": "343",
@@ -23779,7 +23857,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "self-guided-from-geneva-to-chamonix-mont-blanc": {
     "id": "344",
@@ -23838,7 +23917,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-half-day-tour-to-chamonix-with-aiguille-du-midi-and-mer-de-glace": {
     "id": "345",
@@ -23894,7 +23974,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "from-geneva-bus-tour-to-chamonix-mont-blanc-with-mer-de-glace": {
     "id": "346",
@@ -23951,7 +24032,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "ab-geneva-bus-tour-to-chamonix-mont-blanc-and-geneva-including-mini-train": {
     "id": "347",
@@ -24010,7 +24092,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-geneva-city-tour-chamonix-mont-blanc-and-aiguille-du-midi": {
     "id": "348",
@@ -24066,7 +24149,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-geneva-city-tour-chamonix-mont-blanc-and-boat-trip": {
     "id": "349",
@@ -24123,7 +24207,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-geneva-city-tour-chamonix-mont-blanc-with-aiguille-du-midi-and-boat-cruise": {
     "id": "350",
@@ -24180,7 +24265,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-bus-tour-to-gruyeres-cheese-dairy-chocolate-factory-and-golden-pass-line": {
     "id": "351",
@@ -24241,7 +24327,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-guided-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy": {
     "id": "352",
@@ -24302,7 +24389,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "from-geneva-winter-bus-tour-to-gruyeres-chocolate-factory-and-cheese-dairy": {
     "id": "353",
@@ -24361,7 +24449,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-bus-tour-to-interlaken": {
     "id": "354",
@@ -24419,7 +24508,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "from-geneva-bus-tour-to-chamonix-mont-blanc-including-mer-de-glace": {
     "id": "355",
@@ -24475,7 +24565,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "from-geneva-bus-tour-to-interlaken-and-schilthorn": {
     "id": "356",
@@ -24534,7 +24625,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "from-geneva-bus-tour-to-interlaken-and-jungfraujoch": {
     "id": "357",
@@ -24592,7 +24684,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "from-geneva-bus-tour-to-chamonix-mont-blanc-and-yvoire": {
     "id": "358",
@@ -24649,7 +24742,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-day-trip-to-chamonix-and-yvoire-including-aiguille-du-midi": {
     "id": "359",
@@ -24705,7 +24799,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "day-trip-gruyeres-cheese-factory-chocolate-factory-genf": {
     "id": "360",
@@ -24762,7 +24857,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "day-trip-montreux-chillon-weingueter-genf": {
     "id": "361",
@@ -24820,7 +24916,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "day-trip-neuenburg-chocolate-factory-clock-museum-genf": {
     "id": "362",
@@ -24883,7 +24980,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "from-geneva-airport-day-trip-to-the-salt-mines-and-chateau-d-aigle": {
     "id": "363",
@@ -24942,7 +25040,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   "in-geneva-day-trip-to-zermatt-with-views-of-the-matterhorn": {
     "id": "364",
@@ -24999,7 +25098,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "from-geneva-day-trip-to-zermatt-matterhorn-and-glacier-paradise": {
     "id": "365",
@@ -25057,7 +25157,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "from-lucerne-guided-tour-of-pilatus-golden-round-trip-including-cable-car-and-boat-ride": {
     "id": "366",
@@ -25115,7 +25216,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "bus-tour-grindelwald-and-interlaken-from-lucerne": {
     "id": "367",
@@ -25174,7 +25276,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "day-trip-to-bern-with-degustation-from-lucerne": {
     "id": "368",
@@ -25232,7 +25335,8 @@
       "bern"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "ski-trip-grindelwald-for-beginners-from-lucerne": {
     "id": "369",
@@ -25289,7 +25393,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "lucerne-best-jungfrau-region-luxury-private-day-tour": {
     "id": "370",
@@ -25346,7 +25451,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "from-lucerne-flavors-switzerland-luxury-day-tour": {
     "id": "371",
@@ -25402,7 +25508,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "lucerne-stanserhorn-train": {
     "id": "372",
@@ -25462,7 +25569,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "lakes-mountains-adventure-lucerne": {
     "id": "373",
@@ -25524,7 +25632,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "from-lausanne-bus-tour-to-interlaken-and-jungfraujoch": {
     "id": "374",
@@ -25583,7 +25692,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "from-lausanne-bus-tour-to-interlaken": {
     "id": "375",
@@ -25644,7 +25754,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "in-lausanne-bus-tour-to-interlaken-with-harder-kulm": {
     "id": "376",
@@ -25702,7 +25813,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "in-lausanne-hop-on-hop-off-tour-montreux-and-glacier-3000": {
     "id": "377",
@@ -25820,7 +25932,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "in-lausanne-bus-and-boat-tour-to-vevey-montreux-and-chillon-castle": {
     "id": "379",
@@ -26112,7 +26225,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "lake-thun-full-day-tour-from-interlaken": {
     "id": "384",
@@ -26156,7 +26270,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "culinary-sightseeing-tour-interlaken-by-bus": {
     "id": "385",
@@ -26213,7 +26328,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "bustour-gruyeres-colmar-hohkoenigsburg-ribeauville-basel": {
     "id": "386",
@@ -26596,7 +26712,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "from-como-italy-private-day-trip-to-swiss-chocolate-factory-and-lugano": {
     "id": "393",
@@ -27572,7 +27689,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "e-bike-tour-to-lauterbrunnen-and-isenfluh": {
     "id": "414",
@@ -27629,7 +27747,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "e-bike-tour-to-the-waterfalls-in-lauterbrunnen": {
     "id": "415",
@@ -27685,7 +27804,8 @@
       "waterfall"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "item-1772129893275-fxktx": {
     "id": "416",
@@ -27745,7 +27865,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "item-1772129737064-n4bup": {
     "id": "417",
@@ -27805,7 +27926,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "item-1772135553351-eeulp": {
     "id": "418",
@@ -27865,7 +27987,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "rosenlaui-valley-e-bike-tour-starting-from-interlaken": {
     "id": "419",
@@ -27925,7 +28048,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "item-1772179390561-82jhm": {
     "id": "420",
@@ -27973,7 +28097,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "engstlenalp-lake-and-cheese-tasting-private-e-bike-tour-from-interlaken": {
     "id": "421",
@@ -28021,7 +28146,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "discovery-tour-e-bike-in-grindelwald": {
     "id": "422",
@@ -28067,7 +28193,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "electric-bike-tour-from-grindelwald-to-lauterbrunnen": {
     "id": "423",
@@ -28113,7 +28240,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "custom-guided-e-bike-tour-grindelwald": {
     "id": "424",
@@ -28172,7 +28300,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "hidden-gems-lucerne-private-ebike-tour": {
     "id": "425",
@@ -28215,7 +28344,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "hidden-gems-lucerne-public-ebike-tour": {
     "id": "426",
@@ -28271,7 +28401,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "geneva-ebike-tour-guided": {
     "id": "427",
@@ -28676,7 +28807,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "culinary-trail-ebike": {
     "id": "434",
@@ -28823,7 +28955,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "top-secret-escape-room-lucerne": {
     "id": "437",
@@ -28869,7 +29002,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "prison-breakout-escape-room-lucerne": {
     "id": "438",
@@ -28915,7 +29049,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "world-of-magic-escape-lucerne": {
     "id": "439",
@@ -28961,7 +29096,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "pegasus-project-online-escape-game": {
     "id": "440",
@@ -29051,7 +29187,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "beat-the-groom-lucerne": {
     "id": "442",
@@ -29107,7 +29244,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "beat-the-bride-lucerne": {
     "id": "443",
@@ -29163,7 +29301,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "outdoor-escape-game-scavenger-hunt-diamond-hunt-lucerne": {
     "id": "444",
@@ -29209,7 +29348,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "hangover-escape-game-desired-location": {
     "id": "445",
@@ -29255,7 +29395,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "the-conspiracy-outdoor-escape-game-in-lucerne": {
     "id": "446",
@@ -29301,7 +29442,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "escape-room-lucerne-lost-island": {
     "id": "447",
@@ -29347,7 +29489,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "the-keepers-outdoor-escape-game-lucerne": {
     "id": "448",
@@ -29393,7 +29536,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "unreal-adventures-interactive-city-game-in-lucerne": {
     "id": "449",
@@ -29440,7 +29584,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "unreal-adventures-mega-interactive-game-for-large-groups-in-lucerne": {
     "id": "450",
@@ -29487,7 +29632,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "find-the-code-fire-breathing-dragons-outdoor-escape-game-lucerne": {
     "id": "451",
@@ -29533,7 +29679,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "polterchallenge-hangover-wolf-pack-through-lucerne-copy": {
     "id": "452",
@@ -29579,7 +29726,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "st-gallen-scavenger-hunt-smartphone": {
     "id": "453",
@@ -36015,7 +36163,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "the-omega-codex-outdoor-escape-game-interlaken": {
     "id": "593",
@@ -36062,7 +36211,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "find-the-code-fall-hacked-outdoor-escape-game-interlaken": {
     "id": "594",
@@ -36106,7 +36256,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "polterchallenge-hangover-girls-edition-around-interlaken": {
     "id": "595",
@@ -36153,7 +36304,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "polterchallenge-hangover-wolf-pack-through-interlaken": {
     "id": "596",
@@ -36200,7 +36352,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "lausanne-interactive-scavenger-hunt-with-smartphone": {
     "id": "597",
@@ -38374,7 +38527,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "beat-the-bride-zermatt": {
     "id": "642",
@@ -38431,7 +38585,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "montreux-interactive-scavenger-hunt-smartphone": {
     "id": "643",
@@ -39709,7 +39864,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "the-omega-codex-outdoor-escape-game-einsiedeln": {
     "id": "672",
@@ -40888,7 +41044,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "etuktuk-luzern-apero-city-tour": {
     "id": "693",
@@ -40931,7 +41088,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "etuktuk-luzern-chnusperli-city-tour": {
     "id": "694",
@@ -40975,7 +41133,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "adventure-kitchen-outdoor-location-flexible": {
     "id": "695",
@@ -41081,7 +41240,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "sup-breakfast-picnic-lake-lucerne": {
     "id": "697",
@@ -41125,7 +41285,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "breakfast-picnic-seebodenalp": {
     "id": "698",
@@ -42144,7 +42305,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "culinary-hike-six-mountain-restaurants-zermatt": {
     "id": "716",
@@ -42203,7 +42365,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "culinary-hike-5-lakes-picnic-on-the-pizol": {
     "id": "717",
@@ -42374,7 +42537,8 @@
       "hiking"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "culinary-city-tour-of-st-gallen-in-the-evening-self-guided": {
     "id": "720",
@@ -42577,7 +42741,8 @@
       "fondue"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "guided-tour-simmental-brewery": {
     "id": "724",
@@ -43203,7 +43368,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "indoor-golf-teamevent": {
     "id": "736",
@@ -43514,7 +43680,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   "from-grindelwald-private-hike-to-first-and-bachalpsee-with-a-swiss-triathlete": {
     "id": "742",
@@ -43631,7 +43798,8 @@
       "adventure"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "brunni-panoramaweg-wandern-gefuehrt": {
     "id": "744",
@@ -44067,7 +44235,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "hike-guided-zermatt": {
     "id": "752",
@@ -44113,7 +44282,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "ticket-from-stechelberg-to-murren": {
     "id": "753",
@@ -45093,7 +45263,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "culinary-hike-mountain-and-view-from-laax": {
     "id": "771",
@@ -45482,7 +45653,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "adventure-trail-lea-ben-mother-cows": {
     "id": "778",
@@ -46565,7 +46737,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "canoe-rental-lake-lucerne": {
     "id": "799",
@@ -46625,7 +46798,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "river-tubing-lake-four-cantons": {
     "id": "800",
@@ -46715,7 +46889,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   "teamevent-big-canoe-guided-four-forest-lake": {
     "id": "802",
@@ -48492,7 +48667,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "zermatt-bike-day-guide-bike": {
     "id": "837",
@@ -48551,7 +48727,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "mountainbike-guided-zermatt": {
     "id": "838",
@@ -48598,7 +48775,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "bike-tour-winterlaken": {
     "id": "839",
@@ -48918,7 +49096,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "zermatt-guided-hike-lost-valley": {
     "id": "845",
@@ -48963,7 +49142,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "pollux-mountain-tour-zermatt": {
     "id": "846",
@@ -49021,7 +49201,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "plateau-rosa-easy-glacier-hike-zermatt": {
     "id": "847",
@@ -49078,7 +49259,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "plateau-rosa-demanding-glacier-hike-zermatt": {
     "id": "848",
@@ -49136,7 +49318,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "hike-hoernli-schwarzsee-zermatt": {
     "id": "849",
@@ -49180,7 +49363,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "monte-rosa-mountain-tour-zermatt-2-days": {
     "id": "850",
@@ -49238,7 +49422,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "unseen-future-classic-crime-dinner-for-large-groups-in-zurich": {
     "id": "851",
@@ -52778,7 +52963,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "matterhorn-paragliding-zermatt": {
     "id": "916",
@@ -52838,7 +53024,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "urmiberg-tandem-paragliding-lake-lucerne-region": {
     "id": "917",
@@ -53068,7 +53255,8 @@
       "paragliding"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "paragliding-tandem-for-children-from-fiesch-in-valais": {
     "id": "921",
@@ -53127,7 +53315,8 @@
       "paragliding"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "tandem-paragliding-near-montreux": {
     "id": "922",
@@ -59028,7 +59217,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "helicopter-sightseeing-flight-lucerne-30-minutes": {
     "id": "1033",
@@ -61011,7 +61201,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "snowboard-zermatt-private": {
     "id": "1074",
@@ -61054,7 +61245,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "telemark-zermatt-privat": {
     "id": "1075",
@@ -61097,7 +61289,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "off-piste-ski-school-zermatt": {
     "id": "1076",
@@ -61140,7 +61333,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "private-ski-school-beginners-advanced-zermatt": {
     "id": "1077",
@@ -61183,7 +61377,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "snowboard-private-advanced-experts-zermatt": {
     "id": "1078",
@@ -61226,7 +61421,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "full-day-unlimited-private-ski-school-in-zermatt": {
     "id": "1079",
@@ -61269,7 +61465,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "full-day-private-ski-school-in-zermatt": {
     "id": "1080",
@@ -61312,7 +61509,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "half-day-private-ski-school-in-zermatt": {
     "id": "1081",
@@ -61355,7 +61553,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "private-ski-school-for-kids-and-adults-in-zermatt": {
     "id": "1082",
@@ -61399,7 +61598,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   "ski-school-verbier-private": {
     "id": "1083",

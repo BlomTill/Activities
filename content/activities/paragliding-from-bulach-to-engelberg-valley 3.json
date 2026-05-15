@@ -1,0 +1,59 @@
+{
+  "id": "928",
+  "slug": "paragliding-from-bulach-to-engelberg-valley",
+  "name": "Paragliding from Bülach to Engelberg Valley",
+  "description": "Discover Paragliding from Bülach to Engelberg Valley in Switzerland.",
+  "longDescription": "Discover Paragliding from Bülach to Engelberg Valley in Switzerland.",
+  "category": "outdoor",
+  "subcategory": "Paragliding",
+  "location": {
+    "region": "Lucerne Region - Lake Lucerne",
+    "canton": "",
+    "city": "Switzerland",
+    "coordinates": {
+      "lat": 46.8182,
+      "lng": 8.2275
+    }
+  },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "indoor": false,
+  "providers": [
+    {
+      "name": "CAP Paragliding",
+      "pricing": {
+        "child": 88,
+        "student": 149,
+        "adult": 175,
+        "senior": 158
+      },
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-from-bulach-to-engelberg-valley/?ref=odbhodn",
+      "rating": 4.6,
+      "description": "Operated by CAP Paragliding. Book via SwissActivities — free cancellation, instant confirmation."
+    }
+  ],
+  "marketplaces": [
+    {
+      "partnerId": "swissactivities",
+      "partnerName": "SwissActivities",
+      "bookingUrl": "https://www.swissactivities.com/en-ch/paragliding/paragliding-from-bulach-to-engelberg-valley/?ref=odbhodn",
+      "isDirectLink": true,
+      "rating": 4.4,
+      "description": "Switzerland's largest activities marketplace — book securely online"
+    }
+  ],
+  "currency": "CHF",
+  "duration": "Varies",
+  "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
+  "gallery": [],
+  "highlights": [],
+  "tags": [
+    "paragliding"
+  ],
+  "featured": false,
+  "mvp": false
+}

@@ -70,6 +70,8 @@ export const activitySchema = z.object({
   published: z.boolean().optional(),
   /** Phase 1 MVP allow-list flag. Stamped from src/data/mvp-slugs.json. */
   mvp: z.boolean().optional(),
+  /** Which of the 5 MVP destinations this activity was bucketed into. */
+  mvpDestination: z.string().optional(),
   /** Image vision-check result. Undefined === unverified. */
   imageVerified: z.union([z.boolean(), z.literal("manual")]).optional(),
   /** Origin of the resolved hero image. */
@@ -97,6 +99,7 @@ export const activityListItemSchema = z.object({
   minAdultPrice: z.number(),
   published: z.boolean().optional(),
   mvp: z.boolean().optional(),
+  mvpDestination: z.string().optional(),
 });
 
 export const storySchema = z.object({

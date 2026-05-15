@@ -1,12 +1,15 @@
 "use client";
 
-import { useState, useMemo, useEffect, useRef, useCallback } from "react";
+import { useState, useMemo, useEffect, useRef, useCallback, useDeferredValue } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { useSearchParams, usePathname } from "next/navigation";
 import { useAgeGroup } from "@/context/age-group-context";
-import { CATEGORIES, REGIONS } from "@/lib/constants";
+import { CATEGORIES } from "@/lib/constants";
 import { Season } from "@/lib/types";
+
+/** The 5 Phase-1 MVP destinations (matches scripts/select-mvp-activities.mjs). */
+const MVP_DESTINATIONS = ["Zurich", "Lucerne", "Interlaken", "Zermatt", "Geneva"];
 
 // Lightweight projection of an Activity for the listing page.
 //
@@ -21,6 +24,8 @@ export interface SlimActivity {
   category: string;
   subcategory: string;
   location: { region: string; city: string };
+  /** One of the 5 MVP destinations (Zurich/Lucerne/Interlaken/Zermatt/Geneva). */
+  destination?: string;
   seasons: Season[];
   indoor: boolean;
   duration: string;
@@ -228,7 +233,7 @@ function ActivityCardLite({ a, priority }: { a: SlimActivity; priority?: boolean
       <div style={{ padding: 16, display: "flex", flexDirection: "column", gap: 10, flex: 1 }}>
         <h3 className="alpine-display" style={{ fontSize: 19, lineHeight: 1.15, margin: 0 }}>{a.name}</h3>
         <div style={{ display: "flex", flexWrap: "wrap", gap: 6, color: "var(--ink-soft)", fontSize: 13, alignItems: "center" }}>
-          <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}><Pin /> {a.location.region}</span>
+          <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}><Pin /> {a.destination ?? a.location.region}</span>
           <span style={{ color: "var(--ink-mute)" }}>·</span>
           <span style={{ display: "inline-flex", alignItems: "center", gap: 5 }}><Clock /> {a.duration}</span>
         </div>
@@ -268,8 +273,9 @@ export function ActivitiesBrowser({ activities: list }: { activities: SlimActivi
   const { ageGroup } = useAgeGroup();
 
   const [q, setQ] = useState(searchParams.get("q") || "");
+  const deferredQ = useDeferredValue(q);
   const [cats, setCats] = useState<string[]>(searchParams.get("category") ? [searchParams.get("category")!] : []);
-  const [regions, setRegions] = useState<string[]>(searchParams.get("region") ? [searchParams.get("region")!] : []);
+  const [dests, setDests] = useState<string[]>(searchParams.get("destination") ? [searchParams.get("destination")!] : []);
   const [durations, setDurations] = useState<string[]>([]);
   const [seasons, setSeasons] = useState<string[]>(searchParams.get("season") ? [searchParams.get("season")!] : []);
   const [weather, setWeather] = useState<WeatherId>("any");
@@ -296,17 +302,17 @@ export function ActivitiesBrowser({ activities: list }: { activities: SlimActivi
     const u = new URLSearchParams();
     if (q) u.set("q", q);
     if (cats.length) u.set("category", cats[0]);
-    if (regions.length) u.set("region", regions[0]);
+    if (dests.length) u.set("destination", dests[0]);
     if (seasons.length) u.set("season", seasons[0]);
     if (priceMax !== 500) u.set("maxPrice", String(priceMax));
     const url = `${pathname}${u.toString() ? `?${u.toString()}` : ""}`;
     window.history.replaceState({}, "", url);
-  }, [q, cats, regions, seasons, priceMax, pathname]);
+  }, [q, cats, dests, seasons, priceMax, pathname]);
 
   const filtered = useMemo(() => {
     let r = list;
-    if (q) {
-      const ql = q.toLowerCase();
+    if (deferredQ) {
+      const ql = deferredQ.toLowerCase();
       r = r.filter((a) =>
         a.name.toLowerCase().includes(ql) ||
         a.description.toLowerCase().includes(ql) ||
@@ -318,7 +324,7 @@ export function ActivitiesBrowser({ activities: list }: { activities: SlimActivi
       );
     }
     if (cats.length) r = r.filter((a) => cats.includes(a.category));
-    if (regions.length) r = r.filter((a) => regions.includes(a.location.region));
+    if (dests.length) r = r.filter((a) => a.destination !== undefined && dests.includes(a.destination));
     if (durations.length) r = r.filter((a) => durations.includes(durationOf(a.duration)));
     if (seasons.length) r = r.filter((a) => seasons.some((s) => a.seasons.includes(s as Season)));
     if (weather === "rain" || weather === "indoor") r = r.filter((a) => a.indoor);
@@ -344,10 +350,10 @@ export function ActivitiesBrowser({ activities: list }: { activities: SlimActivi
       default:           sorted.sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
     }
     return sorted;
-  }, [list, q, cats, regions, durations, seasons, weather, priceMax, sort, bestNow, ageGroup]);
+  }, [list, deferredQ, cats, dests, durations, seasons, weather, priceMax, sort, bestNow, ageGroup]);
 
   // Reset visible count when filters change
-  useEffect(() => { setVisibleCount(PAGE_SIZE); }, [q, cats, regions, durations, seasons, weather, priceMax, sort, bestNow]);
+  useEffect(() => { setVisibleCount(PAGE_SIZE); }, [deferredQ, cats, dests, durations, seasons, weather, priceMax, sort, bestNow]);
 
   // Infinite scroll: IntersectionObserver on sentinel near bottom
   useEffect(() => {
@@ -367,13 +373,13 @@ export function ActivitiesBrowser({ activities: list }: { activities: SlimActivi
   const visible = filtered.slice(0, visibleCount);
 
   const clearAll = useCallback(() => {
-    setQ(""); setCats([]); setRegions([]); setDurations([]);
+    setQ(""); setCats([]); setDests([]); setDurations([]);
     setSeasons([]); setWeather("any"); setPriceMax(500); setBestNow(false);
   }, []);
 
   const activeChips: { label: string; remove: () => void }[] = [
     ...cats.map((c) => ({ label: CATEGORIES.find((x) => x.value === c)?.label || c, remove: () => setCats(cats.filter((x) => x !== c)) })),
-    ...regions.map((c) => ({ label: c, remove: () => setRegions(regions.filter((x) => x !== c)) })),
+    ...dests.map((c) => ({ label: c, remove: () => setDests(dests.filter((x) => x !== c)) })),
     ...durations.map((c) => ({ label: DURATIONS.find((d) => d.id === c)?.label || c, remove: () => setDurations(durations.filter((x) => x !== c)) })),
     ...seasons.map((c) => ({ label: c[0].toUpperCase() + c.slice(1), remove: () => setSeasons(seasons.filter((x) => x !== c)) })),
     ...(weather !== "any" ? [{ label: WEATHERS.find((w) => w.id === weather)!.label, remove: () => setWeather("any") }] : []),
@@ -435,8 +441,8 @@ export function ActivitiesBrowser({ activities: list }: { activities: SlimActivi
             <PillDropdown label="Category" count={cats.length} isOpen={openPill === "cat"} onToggle={() => togglePill("cat")}>
               <CheckList values={cats} options={CATEGORIES.map((c) => ({ id: c.value, label: c.label }))} onChange={setCats} />
             </PillDropdown>
-            <PillDropdown label="Region" count={regions.length} isOpen={openPill === "region"} onToggle={() => togglePill("region")}>
-              <CheckList values={regions} options={[...REGIONS]} onChange={setRegions} />
+            <PillDropdown label="Destination" count={dests.length} isOpen={openPill === "dest"} onToggle={() => togglePill("dest")}>
+              <CheckList values={dests} options={MVP_DESTINATIONS} onChange={setDests} />
             </PillDropdown>
             <PillDropdown label="Duration" count={durations.length} isOpen={openPill === "dur"} onToggle={() => togglePill("dur")}>
               <CheckList values={durations} options={DURATIONS} onChange={setDurations} />
@@ -516,8 +522,19 @@ export function ActivitiesBrowser({ activities: list }: { activities: SlimActivi
           }}>
             <div style={{ fontSize: 48, marginBottom: 8 }}>🏔️</div>
             <div className="alpine-display" style={{ fontSize: 26, marginBottom: 8 }}>No matches yet</div>
-            <p style={{ color: "var(--ink-soft)", marginBottom: 20 }}>Try relaxing some filters.</p>
-            <button className="a-btn a-btn-primary" onClick={clearAll}>Clear all filters</button>
+            <p style={{ color: "var(--ink-soft)", marginBottom: 20 }}>
+              {priceMax !== 500
+                ? "Try removing the price filter — many great options are marketplace-priced and excluded by a price cap."
+                : dests.length > 0
+                  ? "Try adding another destination or clearing the destination filter."
+                  : "Try relaxing some filters."}
+            </p>
+            <div style={{ display: "flex", gap: 8, justifyContent: "center", flexWrap: "wrap" }}>
+              {priceMax !== 500 && (
+                <button className="a-btn a-btn-ghost" onClick={() => setPriceMax(500)}>Remove price filter</button>
+              )}
+              <button className="a-btn a-btn-primary" onClick={clearAll}>Clear all filters</button>
+            </div>
           </div>
         ) : (
           <>

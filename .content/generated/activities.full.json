@@ -1408,7 +1408,8 @@
       "iconic"
     ],
     "featured": true,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "15",
@@ -2094,7 +2095,8 @@
       "extreme"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "22",
@@ -3212,7 +3214,8 @@
       "unique"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "34",
@@ -4648,7 +4651,8 @@
       "views"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "50",
@@ -5112,7 +5116,8 @@
       "adventure"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "55",
@@ -5818,7 +5823,8 @@
       "crafts"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "63",
@@ -6180,7 +6186,8 @@
       "fun"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "67",
@@ -13698,7 +13705,8 @@
       "lake"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "156",
@@ -14079,7 +14087,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "163",
@@ -14138,7 +14147,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "164",
@@ -14199,7 +14209,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "165",
@@ -14580,7 +14591,8 @@
       "lake"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "173",
@@ -14820,7 +14832,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "178",
@@ -14934,7 +14947,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "180",
@@ -16129,7 +16143,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "204",
@@ -16187,7 +16202,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "205",
@@ -16248,7 +16264,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "206",
@@ -16309,7 +16326,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "207",
@@ -16370,7 +16388,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "208",
@@ -17250,7 +17269,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "224",
@@ -17309,7 +17329,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "225",
@@ -17769,7 +17790,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "234",
@@ -17828,7 +17850,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "235",
@@ -17983,7 +18006,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "238",
@@ -18483,7 +18507,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "249",
@@ -18849,7 +18874,8 @@
       "wine"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "257",
@@ -18908,7 +18934,8 @@
       "wine"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "258",
@@ -19066,7 +19093,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "261",
@@ -19110,7 +19138,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "262",
@@ -19164,7 +19193,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "263",
@@ -19224,7 +19254,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "264",
@@ -19268,7 +19299,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "265",
@@ -19520,7 +19552,8 @@
       "boat"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "270",
@@ -19582,7 +19615,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "271",
@@ -19636,7 +19670,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "272",
@@ -19690,7 +19725,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "273",
@@ -19746,7 +19782,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "274",
@@ -19801,7 +19838,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "275",
@@ -19856,7 +19894,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "276",
@@ -19912,7 +19951,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "277",
@@ -19966,7 +20006,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "278",
@@ -20023,7 +20064,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "279",
@@ -20079,7 +20121,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "280",
@@ -20135,7 +20178,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "281",
@@ -20195,7 +20239,8 @@
       "boat"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "282",
@@ -20252,7 +20297,8 @@
       "bern"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "283",
@@ -20312,7 +20358,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "284",
@@ -20367,7 +20414,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "285",
@@ -20421,7 +20469,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "286",
@@ -20475,7 +20524,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "287",
@@ -20535,7 +20585,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "288",
@@ -20592,7 +20643,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "289",
@@ -20652,7 +20704,8 @@
       "cheese"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "290",
@@ -20709,7 +20762,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "291",
@@ -20767,7 +20821,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "292",
@@ -20825,7 +20880,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "293",
@@ -20881,7 +20937,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "294",
@@ -20935,7 +20992,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "295",
@@ -20991,7 +21049,8 @@
       "cheese"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "296",
@@ -21050,7 +21109,8 @@
       "cheese"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zurich"
   },
   {
     "id": "297",
@@ -22729,7 +22789,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "326",
@@ -22790,7 +22851,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "327",
@@ -22849,7 +22911,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "328",
@@ -22908,7 +22971,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "329",
@@ -22964,7 +23028,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "330",
@@ -23022,7 +23087,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "331",
@@ -23083,7 +23149,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "332",
@@ -23143,7 +23210,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "333",
@@ -23200,7 +23268,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "334",
@@ -23257,7 +23326,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "335",
@@ -23314,7 +23384,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "336",
@@ -23373,7 +23444,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "337",
@@ -23429,7 +23501,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "338",
@@ -23486,7 +23559,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "339",
@@ -23542,7 +23616,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "340",
@@ -23602,7 +23677,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "341",
@@ -23661,7 +23737,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "342",
@@ -23720,7 +23797,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "343",
@@ -23779,7 +23857,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "344",
@@ -23838,7 +23917,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "345",
@@ -23894,7 +23974,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "346",
@@ -23951,7 +24032,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "347",
@@ -24010,7 +24092,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "348",
@@ -24066,7 +24149,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "349",
@@ -24123,7 +24207,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "350",
@@ -24180,7 +24265,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "351",
@@ -24241,7 +24327,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "352",
@@ -24302,7 +24389,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "353",
@@ -24361,7 +24449,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "354",
@@ -24419,7 +24508,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "355",
@@ -24475,7 +24565,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "356",
@@ -24534,7 +24625,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "357",
@@ -24592,7 +24684,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "358",
@@ -24649,7 +24742,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "359",
@@ -24705,7 +24799,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "360",
@@ -24762,7 +24857,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "361",
@@ -24820,7 +24916,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "362",
@@ -24883,7 +24980,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "363",
@@ -24942,7 +25040,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Geneva"
   },
   {
     "id": "364",
@@ -24999,7 +25098,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "365",
@@ -25057,7 +25157,8 @@
       "geneva"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "366",
@@ -25115,7 +25216,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "367",
@@ -25174,7 +25276,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "368",
@@ -25232,7 +25335,8 @@
       "bern"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "369",
@@ -25289,7 +25393,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "370",
@@ -25346,7 +25451,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "371",
@@ -25402,7 +25508,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "372",
@@ -25462,7 +25569,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "373",
@@ -25524,7 +25632,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "374",
@@ -25583,7 +25692,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "375",
@@ -25644,7 +25754,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "376",
@@ -25702,7 +25813,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "377",
@@ -25820,7 +25932,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "379",
@@ -26112,7 +26225,8 @@
       "lausanne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "384",
@@ -26156,7 +26270,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "385",
@@ -26213,7 +26328,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "386",
@@ -26596,7 +26712,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "393",
@@ -27572,7 +27689,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "414",
@@ -27629,7 +27747,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "415",
@@ -27685,7 +27804,8 @@
       "waterfall"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "416",
@@ -27745,7 +27865,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "417",
@@ -27805,7 +27926,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "418",
@@ -27865,7 +27987,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "419",
@@ -27925,7 +28048,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "420",
@@ -27973,7 +28097,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "421",
@@ -28021,7 +28146,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "422",
@@ -28067,7 +28193,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "423",
@@ -28113,7 +28240,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "424",
@@ -28172,7 +28300,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "425",
@@ -28215,7 +28344,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "426",
@@ -28271,7 +28401,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "427",
@@ -28676,7 +28807,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "434",
@@ -28823,7 +28955,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "437",
@@ -28869,7 +29002,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "438",
@@ -28915,7 +29049,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "439",
@@ -28961,7 +29096,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "440",
@@ -29051,7 +29187,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "442",
@@ -29107,7 +29244,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "443",
@@ -29163,7 +29301,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "444",
@@ -29209,7 +29348,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "445",
@@ -29255,7 +29395,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "446",
@@ -29301,7 +29442,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "447",
@@ -29347,7 +29489,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "448",
@@ -29393,7 +29536,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "449",
@@ -29440,7 +29584,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "450",
@@ -29487,7 +29632,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "451",
@@ -29533,7 +29679,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "452",
@@ -29579,7 +29726,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "453",
@@ -36015,7 +36163,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "593",
@@ -36062,7 +36211,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "594",
@@ -36106,7 +36256,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "595",
@@ -36153,7 +36304,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "596",
@@ -36200,7 +36352,8 @@
       "interlaken"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "597",
@@ -38374,7 +38527,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "642",
@@ -38431,7 +38585,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "643",
@@ -39709,7 +39864,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "672",
@@ -40888,7 +41044,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "693",
@@ -40931,7 +41088,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "694",
@@ -40975,7 +41133,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "695",
@@ -41081,7 +41240,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "697",
@@ -41125,7 +41285,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "698",
@@ -42144,7 +42305,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "716",
@@ -42203,7 +42365,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "717",
@@ -42374,7 +42537,8 @@
       "hiking"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "720",
@@ -42577,7 +42741,8 @@
       "fondue"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "724",
@@ -43203,7 +43368,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "736",
@@ -43514,7 +43680,8 @@
       "grindelwald"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Interlaken"
   },
   {
     "id": "742",
@@ -43631,7 +43798,8 @@
       "adventure"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "744",
@@ -44067,7 +44235,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "752",
@@ -44113,7 +44282,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "753",
@@ -45093,7 +45263,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "771",
@@ -45482,7 +45653,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "778",
@@ -46565,7 +46737,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "799",
@@ -46625,7 +46798,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "800",
@@ -46715,7 +46889,8 @@
       "lucerne"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Lucerne"
   },
   {
     "id": "802",
@@ -48492,7 +48667,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "837",
@@ -48551,7 +48727,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "838",
@@ -48598,7 +48775,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "839",
@@ -48918,7 +49096,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "845",
@@ -48963,7 +49142,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "846",
@@ -49021,7 +49201,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "847",
@@ -49078,7 +49259,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "848",
@@ -49136,7 +49318,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "849",
@@ -49180,7 +49363,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "850",
@@ -49238,7 +49422,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "851",
@@ -52778,7 +52963,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "916",
@@ -52838,7 +53024,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "917",
@@ -53068,7 +53255,8 @@
       "paragliding"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "921",
@@ -53127,7 +53315,8 @@
       "paragliding"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "922",
@@ -59028,7 +59217,8 @@
     "highlights": [],
     "tags": [],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1033",
@@ -61011,7 +61201,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1074",
@@ -61054,7 +61245,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1075",
@@ -61097,7 +61289,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1076",
@@ -61140,7 +61333,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1077",
@@ -61183,7 +61377,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1078",
@@ -61226,7 +61421,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1079",
@@ -61269,7 +61465,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1080",
@@ -61312,7 +61509,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1081",
@@ -61355,7 +61553,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1082",
@@ -61399,7 +61598,8 @@
       "zermatt"
     ],
     "featured": false,
-    "mvp": true
+    "mvp": true,
+    "mvpDestination": "Zermatt"
   },
   {
     "id": "1083",
