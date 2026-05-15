@@ -1,4 +1,5 @@
 import { redirect } from "next/navigation";
+import { gateFeature } from "@/lib/feature-gate";
 
 /**
  * /regions is an SEO-friendly alias for /destinations.
@@ -6,5 +7,6 @@ import { redirect } from "next/navigation";
  * /destinations is the established URL. Redirect rather than duplicate.
  */
 export default function RegionsPage() {
+  gateFeature("REGIONS");
   redirect("/destinations");
 }

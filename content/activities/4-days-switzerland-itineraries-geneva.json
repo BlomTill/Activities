@@ -36,10 +36,6 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "tags": [
-    "geneva"
-  ],
-  "featured": false,
   "gallery": [],
   "highlights": [
     {
@@ -47,5 +43,9 @@
       "value": "CHF 254"
     }
   ],
-  "published": false
+  "tags": [
+    "geneva"
+  ],
+  "featured": false,
+  "mvp": false
 }

@@ -54,5 +54,6 @@
   "tags": [
     "boat"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

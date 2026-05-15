@@ -48,14 +48,6 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=800&h=500&fit=crop",
-  "tags": [
-    "bungee",
-    "extreme",
-    "james bond",
-    "adrenaline",
-    "ticino"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Height",
@@ -78,5 +70,13 @@
       "value": "Included"
     }
   ],
-  "published": false
+  "tags": [
+    "bungee",
+    "extreme",
+    "james bond",
+    "adrenaline",
+    "ticino"
+  ],
+  "featured": false,
+  "mvp": false
 }

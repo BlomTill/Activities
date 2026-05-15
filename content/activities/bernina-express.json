@@ -89,5 +89,6 @@
     "panoramic",
     "railway"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

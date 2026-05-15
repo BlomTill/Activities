@@ -24,7 +24,7 @@ import { fetchLiveQuotes, type LiveQuote } from "@/lib/live-prices";
 import { buildAffiliateUrl, getMarketplaceLinks } from "@/lib/affiliate";
 import { AffiliateLink } from "@/components/affiliate-link";
 import { resolveActivityImage } from "@/lib/images";
-import { SITE_URL } from "@/lib/constants";
+import { SITE_URL, isRouteEnabled } from "@/lib/constants";
 
 interface ComparisonRow {
   partnerId: string;
@@ -307,11 +307,16 @@ export async function PriceComparisonTable({ activity }: Props) {
 
       <footer className="border-t border-slate-100 bg-slate-50 px-4 py-2 text-xs text-slate-500">
         Prices are pulled from each partner&apos;s API and refresh every ~10 minutes. We earn a
-        commission from booking partners — your price stays the same.{" "}
-        <a href="/partners" className="underline hover:text-slate-700">
-          How we make money
-        </a>
-        .
+        commission from booking partners — your price stays the same.
+        {isRouteEnabled("/partners") ? (
+          <>
+            {" "}
+            <a href="/partners" className="underline hover:text-slate-700">
+              How we make money
+            </a>
+            .
+          </>
+        ) : null}
       </footer>
 
       <ComparisonJsonLd activity={activity} rows={rows} />

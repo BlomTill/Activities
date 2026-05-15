@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-15T07:39:18.731Z",
+  "requestedCount": 200,
+  "selectedCount": 200,
+  "destinations": [
+    "Zurich",
+    "Lucerne",
+    "Interlaken",
+    "Zermatt",
+    "Geneva"
+  ],
+  "distribution": {
+    "Zurich": 40,
+    "Lucerne": 40,
+    "Interlaken": 40,
+    "Zermatt": 40,
+    "Geneva": 40
+  },
+  "poolDepth": {
+    "Zurich": 252,
+    "Lucerne": 175,
+    "Interlaken": 106,
+    "Zermatt": 115,
+    "Geneva": 134
+  },
+  "criteria": {
+    "total": 1513,
+    "failedPhoto": 52,
+    "failedMarketplace": 104,
+    "unmatchedDestination": 575,
+    "eligible": 782
+  },
+  "withPriceData": 200,
+  "curatedPhoto": 7
+}

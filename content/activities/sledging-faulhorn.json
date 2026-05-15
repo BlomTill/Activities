@@ -45,13 +45,6 @@
   "currency": "CHF",
   "duration": "4-6 hours",
   "imageUrl": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?w=800&h=500&fit=crop",
-  "tags": [
-    "sledding",
-    "toboggan",
-    "winter",
-    "grindelwald"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Length",
@@ -74,5 +67,12 @@
       "value": "Toboggan run"
     }
   ],
-  "published": false
+  "tags": [
+    "sledding",
+    "toboggan",
+    "winter",
+    "grindelwald"
+  ],
+  "featured": false,
+  "mvp": false
 }

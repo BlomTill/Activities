@@ -55,5 +55,6 @@
     "paragliding",
     "zermatt"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": true
 }

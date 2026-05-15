@@ -68,6 +68,8 @@ export const activitySchema = z.object({
   trending: z.object({ score: z.number(), reason: z.string() }).optional(),
   /** Quarantine flag — see Activity type doc. Undefined === published. */
   published: z.boolean().optional(),
+  /** Phase 1 MVP allow-list flag. Stamped from src/data/mvp-slugs.json. */
+  mvp: z.boolean().optional(),
   /** Image vision-check result. Undefined === unverified. */
   imageVerified: z.union([z.boolean(), z.literal("manual")]).optional(),
   /** Origin of the resolved hero image. */
@@ -94,6 +96,7 @@ export const activityListItemSchema = z.object({
   providerCount: z.number(),
   minAdultPrice: z.number(),
   published: z.boolean().optional(),
+  mvp: z.boolean().optional(),
 });
 
 export const storySchema = z.object({

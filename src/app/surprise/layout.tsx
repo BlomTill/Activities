@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import { gateFeature } from "@/lib/feature-gate";
 
 export const metadata: Metadata = {
   title: "Surprise Me",
@@ -6,5 +7,6 @@ export const metadata: Metadata = {
 };
 
 export default function SurpriseLayout({ children }: { children: React.ReactNode }) {
+  gateFeature("SURPRISE");
   return children;
 }

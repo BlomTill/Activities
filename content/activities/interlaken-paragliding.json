@@ -113,5 +113,6 @@
     "interlaken",
     "adrenaline"
   ],
-  "featured": true
+  "featured": true,
+  "mvp": false
 }

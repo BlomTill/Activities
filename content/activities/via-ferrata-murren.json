@@ -71,14 +71,6 @@
   "currency": "CHF",
   "duration": "3-5 hours",
   "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?w=800&h=500&fit=crop",
-  "tags": [
-    "via ferrata",
-    "climbing",
-    "adventure",
-    "mountain",
-    "views"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Difficulty",
@@ -101,5 +93,13 @@
       "value": "Steel secured"
     }
   ],
-  "published": false
+  "tags": [
+    "via ferrata",
+    "climbing",
+    "adventure",
+    "mountain",
+    "views"
+  ],
+  "featured": false,
+  "mvp": true
 }

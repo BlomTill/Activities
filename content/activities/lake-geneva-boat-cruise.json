@@ -89,5 +89,6 @@
     "relaxing",
     "geneva"
   ],
-  "featured": true
+  "featured": true,
+  "mvp": false
 }

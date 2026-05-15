@@ -59,13 +59,6 @@
   "currency": "CHF",
   "duration": "3-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1474623809196-26c1d33457cc?w=800&h=500&fit=crop",
-  "tags": [
-    "skydiving",
-    "extreme",
-    "freefall",
-    "adrenaline"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Jump Height",
@@ -88,5 +81,12 @@
       "value": "Not needed"
     }
   ],
-  "published": false
+  "tags": [
+    "skydiving",
+    "extreme",
+    "freefall",
+    "adrenaline"
+  ],
+  "featured": false,
+  "mvp": false
 }

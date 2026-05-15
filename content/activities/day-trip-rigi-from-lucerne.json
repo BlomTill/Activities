@@ -53,5 +53,6 @@
     "train",
     "lucerne"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

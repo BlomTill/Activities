@@ -48,14 +48,6 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1478720568477-152d9b164e07?w=800&h=500&fit=crop",
-  "tags": [
-    "museum",
-    "chaplin",
-    "film",
-    "interactive",
-    "vevey"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Mansion",
@@ -78,5 +70,13 @@
       "value": "Yes"
     }
   ],
-  "published": false
+  "tags": [
+    "museum",
+    "chaplin",
+    "film",
+    "interactive",
+    "vevey"
+  ],
+  "featured": false,
+  "mvp": false
 }

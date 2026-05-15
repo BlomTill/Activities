@@ -48,14 +48,6 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1516939884455-1445c8652f83?w=800&h=500&fit=crop",
-  "tags": [
-    "walking",
-    "lake",
-    "lugano",
-    "ticino",
-    "mediterranean"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Trail",
@@ -78,5 +70,13 @@
       "value": "Lake bus"
     }
   ],
-  "published": false
+  "tags": [
+    "walking",
+    "lake",
+    "lugano",
+    "ticino",
+    "mediterranean"
+  ],
+  "featured": false,
+  "mvp": false
 }

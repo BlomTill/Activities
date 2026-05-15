@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { BookOpen, Clock, ArrowRight, TrainFront, Wallet, Sun, Snowflake } from "lucide-react";
 import { SITE_NAME } from "@/lib/constants";
+import { gateFeature } from "@/lib/feature-gate";
 
 export const metadata: Metadata = {
   title: `Guides — ${SITE_NAME}`,
@@ -59,6 +60,7 @@ const GUIDES: Guide[] = [
 ];
 
 export default function GuidesPage() {
+  gateFeature("GUIDES");
   return (
     <div className="mx-auto max-w-5xl px-4 py-16">
       <div className="mb-12 max-w-2xl">

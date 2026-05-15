@@ -60,14 +60,6 @@
   "currency": "CHF",
   "duration": "2-5 days",
   "imageUrl": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&h=500&fit=crop",
-  "tags": [
-    "yoga",
-    "retreat",
-    "wellness",
-    "arosa",
-    "meditation"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Setting",
@@ -90,5 +82,13 @@
       "value": "Organic meals"
     }
   ],
-  "published": false
+  "tags": [
+    "yoga",
+    "retreat",
+    "wellness",
+    "arosa",
+    "meditation"
+  ],
+  "featured": false,
+  "mvp": false
 }

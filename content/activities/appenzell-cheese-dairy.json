@@ -49,14 +49,6 @@
   "currency": "CHF",
   "duration": "1-2 hours",
   "imageUrl": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&h=500&fit=crop",
-  "tags": [
-    "cheese",
-    "food",
-    "appenzell",
-    "tradition",
-    "tasting"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Cheese Type",
@@ -79,5 +71,13 @@
       "value": "Exhibits"
     }
   ],
-  "published": false
+  "tags": [
+    "cheese",
+    "food",
+    "appenzell",
+    "tradition",
+    "tasting"
+  ],
+  "featured": false,
+  "mvp": false
 }

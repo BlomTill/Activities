@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { gateFeature } from "@/lib/feature-gate";
 
 export const metadata: Metadata = {
   title: "Swiss Travel Passes Compared — Which One Saves You the Most?",
@@ -15,5 +16,6 @@ export const metadata: Metadata = {
 };
 
 export default function TravelPassesLayout({ children }: { children: React.ReactNode }) {
+  gateFeature("TRAVEL_PASSES");
   return children;
 }

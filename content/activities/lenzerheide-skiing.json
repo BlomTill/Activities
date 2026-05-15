@@ -45,14 +45,6 @@
   "currency": "CHF",
   "duration": "Full day",
   "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=500&fit=crop",
-  "tags": [
-    "skiing",
-    "winter",
-    "graubünden",
-    "sun",
-    "family"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Slopes",
@@ -75,5 +67,13 @@
       "value": "Above average"
     }
   ],
-  "published": false
+  "tags": [
+    "skiing",
+    "winter",
+    "graubünden",
+    "sun",
+    "family"
+  ],
+  "featured": false,
+  "mvp": false
 }

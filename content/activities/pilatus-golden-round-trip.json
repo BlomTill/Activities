@@ -89,5 +89,6 @@
     "gondola",
     "lucerne"
   ],
-  "featured": true
+  "featured": true,
+  "mvp": false
 }

@@ -89,5 +89,6 @@
     "adventure",
     "mountain"
   ],
-  "featured": false
+  "featured": false,
+  "mvp": false
 }

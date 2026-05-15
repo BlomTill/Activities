@@ -67,13 +67,6 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop",
-  "tags": [
-    "rafting",
-    "water",
-    "rapids",
-    "adventure"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Rapids",
@@ -96,5 +89,12 @@
       "value": "3 operators"
     }
   ],
-  "published": false
+  "tags": [
+    "rafting",
+    "water",
+    "rapids",
+    "adventure"
+  ],
+  "featured": false,
+  "mvp": true
 }

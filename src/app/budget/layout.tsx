@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import { gateFeature } from "@/lib/feature-gate";
 
 export const metadata: Metadata = {
   title: "Budget Explorer",
@@ -6,5 +7,6 @@ export const metadata: Metadata = {
 };
 
 export default function BudgetLayout({ children }: { children: React.ReactNode }) {
+  gateFeature("BUDGET");
   return children;
 }

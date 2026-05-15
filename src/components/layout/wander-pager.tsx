@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import { isRouteEnabled } from "@/lib/constants";
 
 interface PageEntry {
   key: string;
@@ -19,7 +20,7 @@ const PAGES: PageEntry[] = [
   { key: "stories", label: "Stories", href: "/stories", match: ["/blog"] },
   { key: "destinations", label: "Places", href: "/destinations", match: ["/regions"] },
   { key: "map", label: "Map", href: "/map" },
-];
+].filter((p) => isRouteEnabled(p.href));
 
 interface OverlayEntry {
   num: string;
@@ -44,7 +45,7 @@ const OVERLAY: OverlayEntry[] = [
   { num: "13", name: "About",         desc: "Why we built this.",                   href: "/about" },
   { num: "14", name: "Partners",      desc: "Who we work with.",                    href: "/partners" },
   { num: "15", name: "Privacy",       desc: "What we collect, what we don't.",      href: "/privacy" },
-];
+].filter((p) => isRouteEnabled(p.href));
 
 export function WanderPager() {
   const pathname = usePathname();

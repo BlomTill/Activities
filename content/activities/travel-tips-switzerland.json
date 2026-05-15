@@ -36,12 +36,6 @@
   "currency": "CHF",
   "duration": "Varies",
   "imageUrl": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=800&h=500&fit=crop",
-  "tags": [
-    "lake",
-    "mountain",
-    "geneva"
-  ],
-  "featured": false,
   "gallery": [],
   "highlights": [
     {
@@ -49,5 +43,11 @@
       "value": "CHF 0.3"
     }
   ],
-  "published": false
+  "tags": [
+    "lake",
+    "mountain",
+    "geneva"
+  ],
+  "featured": false,
+  "mvp": false
 }

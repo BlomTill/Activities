@@ -60,13 +60,6 @@
   "currency": "CHF",
   "duration": "2-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6?w=800&h=500&fit=crop",
-  "tags": [
-    "museum",
-    "olympics",
-    "sports",
-    "lausanne"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Founded",
@@ -89,5 +82,12 @@
       "value": "Geneva terrace"
     }
   ],
-  "published": false
+  "tags": [
+    "museum",
+    "olympics",
+    "sports",
+    "lausanne"
+  ],
+  "featured": false,
+  "mvp": false
 }

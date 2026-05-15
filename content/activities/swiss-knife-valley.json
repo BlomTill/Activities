@@ -60,13 +60,6 @@
   "currency": "CHF",
   "duration": "1.5-3 hours",
   "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=500&fit=crop",
-  "tags": [
-    "swiss knife",
-    "victorinox",
-    "workshop",
-    "museum"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Founded",
@@ -89,5 +82,12 @@
       "value": "All available"
     }
   ],
-  "published": false
+  "tags": [
+    "swiss knife",
+    "victorinox",
+    "workshop",
+    "museum"
+  ],
+  "featured": false,
+  "mvp": false
 }

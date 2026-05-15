@@ -58,14 +58,6 @@
   "currency": "CHF",
   "duration": "3-8 hours",
   "imageUrl": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=500&fit=crop",
-  "tags": [
-    "festival",
-    "jazz",
-    "music",
-    "montreux",
-    "lake geneva"
-  ],
-  "featured": true,
   "highlights": [
     {
       "label": "Founded",
@@ -88,5 +80,13 @@
       "value": "Jazz, pop, rock legends"
     }
   ],
-  "published": false
+  "tags": [
+    "festival",
+    "jazz",
+    "music",
+    "montreux",
+    "lake geneva"
+  ],
+  "featured": true,
+  "mvp": false
 }

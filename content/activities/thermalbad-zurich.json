@@ -61,14 +61,6 @@
   "currency": "CHF",
   "duration": "2-4 hours",
   "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6e6977f35?w=800&h=500&fit=crop",
-  "tags": [
-    "spa",
-    "thermal bath",
-    "zurich",
-    "rooftop",
-    "wellness"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Water Temp",
@@ -91,5 +83,13 @@
       "value": "16+ (spa)"
     }
   ],
-  "published": false
+  "tags": [
+    "spa",
+    "thermal bath",
+    "zurich",
+    "rooftop",
+    "wellness"
+  ],
+  "featured": false,
+  "mvp": false
 }

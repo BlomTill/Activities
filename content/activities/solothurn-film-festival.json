@@ -58,14 +58,6 @@
   "currency": "CHF",
   "duration": "2-8 hours",
   "imageUrl": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=800&h=500&fit=crop",
-  "tags": [
-    "film",
-    "festival",
-    "cinema",
-    "solothurn",
-    "culture"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Visitors",
@@ -88,5 +80,13 @@
       "value": "Solothurn"
     }
   ],
-  "published": false
+  "tags": [
+    "film",
+    "festival",
+    "cinema",
+    "solothurn",
+    "culture"
+  ],
+  "featured": false,
+  "mvp": false
 }

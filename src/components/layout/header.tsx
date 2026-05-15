@@ -5,6 +5,7 @@ import { usePathname, useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { useWanderTheme } from "./theme-provider";
 import { triggerYodel } from "./yodel";
+import { isFeatureEnabled, isRouteEnabled } from "@/lib/constants";
 
 /**
  * realswitzerland.ch sticky header.
@@ -44,7 +45,9 @@ const NAV_LINKS_FULL: NavLink[] = [
   { label: "Deals", href: "/deals" },
 ];
 
-const NAV_LINKS: NavLink[] = LAUNCH_MODE ? NAV_LINKS_LEAN : NAV_LINKS_FULL;
+const NAV_LINKS: NavLink[] = (LAUNCH_MODE ? NAV_LINKS_LEAN : NAV_LINKS_FULL).filter(
+  (l) => isRouteEnabled(l.href),
+);
 
 interface MegaGroup {
   head: string;
@@ -100,7 +103,11 @@ const MEGA_GROUPS_FULL: MegaGroup[] = [
   },
 ];
 
-const MEGA_GROUPS: MegaGroup[] = LAUNCH_MODE ? MEGA_GROUPS_LEAN : MEGA_GROUPS_FULL;
+const MEGA_GROUPS: MegaGroup[] = (LAUNCH_MODE ? MEGA_GROUPS_LEAN : MEGA_GROUPS_FULL)
+  .map((g) => ({ ...g, links: g.links.filter((l) => isRouteEnabled(l.href)) }))
+  .filter((g) => g.links.length > 0);
+
+const SHOW_EDITORS_PICK = isFeatureEnabled("ITINERARIES");
 
 function ChevronDownIcon() {
   return (
@@ -287,21 +294,23 @@ export function Header() {
                   ))}
                 </div>
               ))}
-              <div className="wander-mega-feature">
-                <span className="wander-kicker">
-                  <span className="bar" />
-                  Editor&apos;s pick
-                </span>
-                <h4>Classic Switzerland in 7 days</h4>
-                <p>Five cities, two iconic peaks, one legendary train. From CHF 1,200.</p>
-                <Link
-                  href="/itineraries/classic-switzerland-7-days"
-                  className="wander-btn wander-btn-dark"
-                  onClick={() => setMegaOpen(false)}
-                >
-                  View itinerary →
-                </Link>
-              </div>
+              {SHOW_EDITORS_PICK && (
+                <div className="wander-mega-feature">
+                  <span className="wander-kicker">
+                    <span className="bar" />
+                    Editor&apos;s pick
+                  </span>
+                  <h4>Classic Switzerland in 7 days</h4>
+                  <p>Five cities, two iconic peaks, one legendary train. From CHF 1,200.</p>
+                  <Link
+                    href="/itineraries/classic-switzerland-7-days"
+                    className="wander-btn wander-btn-dark"
+                    onClick={() => setMegaOpen(false)}
+                  >
+                    View itinerary →
+                  </Link>
+                </div>
+              )}
             </div>
           </div>
         )}

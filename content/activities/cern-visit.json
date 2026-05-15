@@ -95,5 +95,6 @@
     "discount": 100,
     "label": "Free Admission",
     "validUntil": "2026-12-31"
-  }
+  },
+  "mvp": false
 }

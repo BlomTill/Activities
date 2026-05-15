@@ -9,7 +9,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { activities as allActivities } from "@/lib/content/selectors";
 import { useAgeGroup } from "@/context/age-group-context";
 import { useComparison } from "@/context/comparison-context";
-import { AGE_GROUPS } from "@/lib/constants";
+import { AGE_GROUPS, isRouteEnabled } from "@/lib/constants";
 import { ActivityCard } from "@/components/activity-card";
 import { getSeasonLabel } from "@/lib/seasons";
 import { WeatherWidget } from "@/components/weather-widget";
@@ -82,10 +82,14 @@ function MarketplacePanel({ activity }: { activity: Activity }) {
           </p>
         </div>
         <span className="text-[10px] uppercase tracking-wider text-gray-400 font-medium">
-          Affiliate links ·{" "}
-          <Link href="/partners" className="underline-offset-2 hover:underline">
-            disclosure
-          </Link>
+          Affiliate links{isRouteEnabled("/partners") ? (
+            <>
+              {" "}·{" "}
+              <Link href="/partners" className="underline-offset-2 hover:underline">
+                disclosure
+              </Link>
+            </>
+          ) : null}
         </span>
       </div>
 
@@ -379,17 +383,19 @@ export function ActivityDetail({ activity }: { activity: Activity }) {
                 </div>
                 <div className="space-y-6">
                   <SBBEstimator destinationCity={activity.location.city} activityPrice={bestPrice ?? 0} />
-                  <Card className="border-0 bg-gray-50 shadow-none">
-                    <CardHeader><CardTitle className="flex items-center gap-2 text-lg"><Calendar className="h-5 w-5 text-red-600" /> Add it to a trip</CardTitle></CardHeader>
-                    <CardContent className="space-y-3 text-sm text-gray-600">
-                      <p>Use this activity as an anchor stop in a {getRecommendedTripDays(activity)} day plan, with a suggested starting budget of CHF {getPlannerBudgetHint(activity, ageGroup)}.</p>
-                      <Link href={plannerHref}>
-                        <Button className="w-full gap-2 bg-red-600 hover:bg-red-700">
-                          <Calendar className="h-4 w-4" /> Add to Trip Planner
-                        </Button>
-                      </Link>
-                    </CardContent>
-                  </Card>
+                  {isRouteEnabled("/planner") && (
+                    <Card className="border-0 bg-gray-50 shadow-none">
+                      <CardHeader><CardTitle className="flex items-center gap-2 text-lg"><Calendar className="h-5 w-5 text-red-600" /> Add it to a trip</CardTitle></CardHeader>
+                      <CardContent className="space-y-3 text-sm text-gray-600">
+                        <p>Use this activity as an anchor stop in a {getRecommendedTripDays(activity)} day plan, with a suggested starting budget of CHF {getPlannerBudgetHint(activity, ageGroup)}.</p>
+                        <Link href={plannerHref}>
+                          <Button className="w-full gap-2 bg-red-600 hover:bg-red-700">
+                            <Calendar className="h-4 w-4" /> Add to Trip Planner
+                          </Button>
+                        </Link>
+                      </CardContent>
+                    </Card>
+                  )}
                 </div>
               </div>
             )}
@@ -505,11 +511,13 @@ export function ActivityDetail({ activity }: { activity: Activity }) {
                 <ExternalLink className="h-4 w-4" /> Choose a marketplace
               </Button>
             )}
-            <Link href={plannerHref} className="block">
-              <Button variant="outline" className="w-full gap-2">
-                <Calendar className="h-4 w-4" /> Add to Trip Planner
-              </Button>
-            </Link>
+            {isRouteEnabled("/planner") && (
+              <Link href={plannerHref} className="block">
+                <Button variant="outline" className="w-full gap-2">
+                  <Calendar className="h-4 w-4" /> Add to Trip Planner
+                </Button>
+              </Link>
+            )}
             <Button
               variant="outline"
               className={cn("w-full gap-2", inComparison && "text-red-600 border-red-200")}
@@ -528,9 +536,11 @@ export function ActivityDetail({ activity }: { activity: Activity }) {
                 <p><span className="text-gray-500">Canton:</span> {activity.location.canton}</p>
                 <p><span className="text-gray-500">Region:</span> {activity.location.region}</p>
               </div>
-              <Link href={`/map?lat=${activity.location.coordinates.lat}&lng=${activity.location.coordinates.lng}`}>
-                <Button variant="link" className="mt-3 p-0 text-red-600 text-sm">View on Map</Button>
-              </Link>
+              {isRouteEnabled("/map") && (
+                <Link href={`/map?lat=${activity.location.coordinates.lat}&lng=${activity.location.coordinates.lng}`}>
+                  <Button variant="link" className="mt-3 p-0 text-red-600 text-sm">View on Map</Button>
+                </Link>
+              )}
             </CardContent>
           </Card>
 

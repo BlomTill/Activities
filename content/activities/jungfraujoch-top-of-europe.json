@@ -103,5 +103,6 @@
     "railway",
     "panorama"
   ],
-  "featured": true
+  "featured": true,
+  "mvp": false
 }

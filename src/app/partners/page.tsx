@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Handshake, ShieldCheck, Sparkles, ExternalLink } from "lucide-react";
 import { AFFILIATE_PARTNERS } from "@/data/affiliate-partners";
 import { SITE_NAME } from "@/lib/constants";
+import { gateFeature } from "@/lib/feature-gate";
 
 export const metadata: Metadata = {
   title: `Our Partners & Disclosure — ${SITE_NAME}`,
@@ -17,6 +18,7 @@ const tierLabel: Record<string, string> = {
 };
 
 export default function PartnersPage() {
+  gateFeature("PARTNERS");
   const tiers = ["primary", "secondary", "niche"] as const;
 
   return (

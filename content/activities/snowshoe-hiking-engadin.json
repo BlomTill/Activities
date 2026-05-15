@@ -58,14 +58,6 @@
   "currency": "CHF",
   "duration": "3-6 hours",
   "imageUrl": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&h=500&fit=crop",
-  "tags": [
-    "snowshoe",
-    "hiking",
-    "winter",
-    "nature",
-    "guided"
-  ],
-  "featured": false,
   "highlights": [
     {
       "label": "Equipment",
@@ -88,5 +80,13 @@
       "value": "Dec-Mar"
     }
   ],
-  "published": false
+  "tags": [
+    "snowshoe",
+    "hiking",
+    "winter",
+    "nature",
+    "guided"
+  ],
+  "featured": false,
+  "mvp": false
 }

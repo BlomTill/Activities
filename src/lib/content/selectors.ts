@@ -53,8 +53,18 @@ export function getItineraryBySlug(slug: string): ItineraryDocument | undefined 
   return contentRepository.getItineraryBySlug(slug);
 }
 
+/**
+ * Phase 1 MVP view — only the curated ~200 activities flagged `mvp === true`
+ * (see scripts/select-mvp-activities.mjs). Sitemap, the /activities list, and
+ * the home page render from this, not the full catalogue.
+ */
+export function getMvpActivities(): Activity[] {
+  return getActivities().filter((a) => a.mvp === true);
+}
+
 // Backward-compatible aliases for incremental migration.
 export const activities = contentRepository.getActivities();
+export const mvpActivities = activities.filter((a) => a.mvp === true);
 export const blogPosts = contentRepository.getStories();
 export const itineraries = contentRepository.getItineraries();
 export const getBlogPostBySlug = getStoryBySlug;
