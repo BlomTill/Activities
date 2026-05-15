@@ -69,7 +69,7 @@ function MarketplacePanel({ activity }: { activity: Activity }) {
   const noPriced = !hasPricedProvider(activity);
 
   return (
-    <div className="mt-8 rounded-2xl border border-gray-100 bg-gray-50 p-6">
+    <div id="marketplace-panel" className="mt-8 scroll-mt-24 rounded-2xl border border-gray-100 bg-gray-50 p-6">
       <div className="flex flex-wrap items-start justify-between gap-2 mb-4">
         <div>
           <h3 className="font-semibold text-gray-900 text-base">
@@ -166,12 +166,39 @@ export function ActivityDetail({ activity }: { activity: Activity }) {
   const hasPriced = hasPricedProvider(activity);
   const recommendedProvider = hasPriced ? getProviderRecommendation(activity, ageGroup) : null;
   const plannerHref = `/planner?days=${getRecommendedTripDays(activity)}&budget=${getPlannerBudgetHint(activity, ageGroup)}&ageGroup=${ageGroup}&activity=${activity.slug}`;
+
+  // Booking surface = priced providers + every marketplace we can deep/search link.
+  const marketplaceLinks = getMarketplaceLinks(activity, "activity-detail-provider");
+  const bookingSiteCount = activity.providers.length + marketplaceLinks.length;
+
+  // "Save CHF X" only when there are ≥2 genuinely priced providers to compare
+  // (verified-data-only — no synthesized savings on marketplace-only activities).
+  const adultPrices = activity.providers.map((p) => p.pricing[ageGroup]);
+  const savingsVsHighest =
+    activity.providers.length >= 2
+      ? Math.max(...adultPrices) - Math.min(...adultPrices)
+      : 0;
+
+  function scrollToBooking() {
+    document.getElementById("booking-options")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  // Related: same destination (region) first, then same category; prefer the
+  // curated MVP set so related cards lead to high-quality pages.
   const similar = allActivities
-    .filter((a) => a.id !== activity.id && (a.category === activity.category || a.location.region === activity.location.region))
+    .filter((a) => a.id !== activity.id)
+    .filter((a) => a.location.region === activity.location.region || a.category === activity.category)
+    .sort((a, b) => {
+      const score = (x: Activity) =>
+        (x.location.region === activity.location.region ? 2 : 0) +
+        (x.category === activity.category ? 1 : 0) +
+        (x.mvp ? 1 : 0);
+      return score(b) - score(a);
+    })
     .slice(0, 4);
 
   return (
-    <div className="mx-auto max-w-7xl px-4 py-8">
+    <div className="mx-auto max-w-7xl px-4 py-8 pb-24 lg:pb-8">
       <nav className="mb-6 flex items-center gap-2 text-sm text-gray-500">
         <Link href="/" className="hover:text-red-600"><Home className="h-4 w-4" /></Link>
         <span>/</span>
@@ -224,6 +251,51 @@ export function ActivityDetail({ activity }: { activity: Activity }) {
             )}
           </div>
 
+          <div className="mt-5 rounded-2xl border border-gray-100 bg-gray-50/70 p-4">
+            <div className="flex flex-wrap items-center justify-between gap-4">
+              <div>
+                <p className="text-xs font-medium uppercase tracking-wide text-gray-400">
+                  {hasPriced ? "From" : "Price"}
+                </p>
+                <div className="mt-0.5 flex items-center gap-2">
+                  <span className="text-2xl font-bold text-gray-900">
+                    {hasPriced ? formatActivityPrice(activity, ageGroup, { withFrom: false }) : "Check below"}
+                  </span>
+                  {savingsVsHighest > 0 && (
+                    <Badge className="bg-green-100 text-green-800">
+                      Save up to CHF {savingsVsHighest}
+                    </Badge>
+                  )}
+                </div>
+              </div>
+              <Button
+                size="lg"
+                className="gap-2 bg-red-600 hover:bg-red-700"
+                onClick={scrollToBooking}
+              >
+                <Scale className="h-4 w-4" />
+                {bookingSiteCount >= 2
+                  ? `Compare prices on ${bookingSiteCount} sites`
+                  : "See booking options"}
+              </Button>
+            </div>
+            <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-gray-500">
+              {rating !== null && (
+                <span className="flex items-center gap-1.5 font-medium text-gray-700">
+                  <Star className="h-4 w-4 fill-amber-400 text-amber-400" />
+                  {rating} / 5
+                </span>
+              )}
+              {bookingSiteCount > 0 && (
+                <span>
+                  {bookingSiteCount} booking option{bookingSiteCount > 1 ? "s" : ""} compared
+                </span>
+              )}
+              <span>{activity.location.city}, {activity.location.canton}</span>
+            </div>
+            <AffiliateDisclosure className="mt-2" />
+          </div>
+
           {activity.highlights && activity.highlights.length > 0 && (
             <div className="mt-6 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3">
               {activity.highlights.map((h) => (
@@ -235,7 +307,7 @@ export function ActivityDetail({ activity }: { activity: Activity }) {
             </div>
           )}
 
-          <div className="mt-8 rounded-[28px] border bg-white p-6 shadow-sm">
+          <div id="booking-options" className="mt-8 scroll-mt-24 rounded-[28px] border bg-white p-6 shadow-sm">
             <div className="flex flex-wrap gap-2">
               {[
                 { key: "providers", label: hasPriced ? "Compare Providers" : "Where to Book" },
@@ -270,6 +342,16 @@ export function ActivityDetail({ activity }: { activity: Activity }) {
                       </div>
                       <p className="mt-2 text-sm leading-6 text-gray-600">{recommendedProvider.reason}</p>
                     </div>
+                    {savingsVsHighest > 0 && (
+                      <div className="mb-6 flex items-center gap-2 rounded-xl border border-green-200 bg-green-50 px-4 py-3 text-sm text-green-800">
+                        <Check className="h-4 w-4" />
+                        <span>
+                          Booking the cheapest provider saves you{" "}
+                          <span className="font-semibold">CHF {savingsVsHighest}</span> vs the most
+                          expensive option for a {ageGroup}.
+                        </span>
+                      </div>
+                    )}
                     <div className="space-y-4">
                       {[...activity.providers]
                         .sort((a, b) => a.pricing[ageGroup] - b.pricing[ageGroup])
@@ -567,6 +649,27 @@ export function ActivityDetail({ activity }: { activity: Activity }) {
       )}
 
       <RecentlyViewed title="Continue where you left off" excludeId={activity.id} />
+
+      {/* Sticky mobile CTA — price + jump to the booking comparison. */}
+      <div className="fixed inset-x-0 bottom-0 z-40 border-t border-gray-200 bg-white/95 px-4 py-3 backdrop-blur lg:hidden">
+        <div className="mx-auto flex max-w-7xl items-center justify-between gap-3">
+          <div className="min-w-0">
+            <p className="text-[11px] uppercase tracking-wide text-gray-400">
+              {hasPriced ? "From" : "Price"}
+            </p>
+            <p className="truncate text-lg font-bold text-gray-900">
+              {hasPriced ? formatActivityPrice(activity, ageGroup) : "Check options"}
+            </p>
+          </div>
+          <Button
+            className="shrink-0 gap-2 bg-red-600 hover:bg-red-700"
+            onClick={scrollToBooking}
+          >
+            <Scale className="h-4 w-4" />
+            Compare {bookingSiteCount >= 2 ? `${bookingSiteCount} sites` : "options"} →
+          </Button>
+        </div>
+      </div>
     </div>
   );
 }

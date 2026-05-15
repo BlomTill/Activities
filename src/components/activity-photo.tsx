@@ -6,6 +6,15 @@ import { cn } from "@/lib/utils";
 import { buildFallbackChain, formatCredit, resolveActivityImage } from "@/lib/images";
 import type { Activity } from "@/lib/types";
 
+/**
+ * Neutral low-res blur shown via next/image placeholder="blur" while the
+ * remote hero loads. Remote images have no automatic blurDataURL, so we
+ * supply a tiny inlined slate gradient — kills the grey flash / CLS on the
+ * largest-contentful element without shipping a real thumbnail.
+ */
+const BLUR_DATA_URL =
+  "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='9'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23cbd5e1'/%3E%3Cstop offset='1' stop-color='%23e2e8f0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='16' height='9' fill='url(%23g)'/%3E%3C/svg%3E";
+
 interface ActivityPhotoProps {
   activity: Activity;
   className?: string;
@@ -72,6 +81,8 @@ export function ActivityPhoto({
         fill={fill}
         sizes={sizes}
         priority={priority}
+        placeholder="blur"
+        blurDataURL={BLUR_DATA_URL}
         onError={handleError}
         className="object-cover transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-[1.04]"
       />
